@@ -16,5 +16,20 @@ jobs:
     - name: npm install
       run: npm install --only=prod
       working-directory: .
-    - name: test
+    - name: Get fresh HackerNews
       run: node ./feeds/hackernews-daily/index.js
+    # you need git commit to push the forks data to the repo
+    - name: Git commit
+      run: |
+        # git commit if there's any change
+        if test -n "$(git status --porcelain 2>/dev/null)"; then
+            git config --global user.email "idegorepl@gmail.com"
+            git config --global user.name "TabHub Bot"
+            git add .
+            git commit -m "Update HackerNews daily top data"
+        fi
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
