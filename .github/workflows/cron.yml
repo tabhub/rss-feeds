@@ -1,0 +1,20 @@
+name: daily-update
+
+on: [push]
+  # schedule:
+  # - cron: "1 0 * * *"
+
+jobs:
+  hackernews-daily:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - name: npm install
+      run: npm install --only=prod
+      working-directory: .
+    - name: test
+      run: node ./feeds/hackernews-daily/index.js
