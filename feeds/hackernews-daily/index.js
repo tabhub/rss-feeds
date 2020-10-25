@@ -3,7 +3,7 @@ const render = require('../../utils/render');
 const dump = require('../../utils/dump');
 
 const run = async (date, num) => {
-  console.log('start fetching')
+  console.log('start fetching');
   try {
     const endTime = Math.round(new Date(date).getTime() / 1000);
     const startTime = Math.round(new Date(date).getTime() / 1000) - (25 * 60 * 60);
@@ -18,7 +18,7 @@ const run = async (date, num) => {
 
     const content = {
       title:  "Hacker News Daily Top 12",
-      description: "Read HackerNews every day",
+      description: "Read Hacker News every day",
       link: "https://github.com/tabhub/rss-feeds",
       item: topN.map((item) => {
         let {title, url, author, created_at, points, objectID, num_comments} = item;

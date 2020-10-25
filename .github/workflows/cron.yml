@@ -26,7 +26,7 @@ jobs:
             git config --global user.email "idegorepl@gmail.com"
             git config --global user.name "TabHub Bot"
             git add .
-            git commit -m "Update HackerNews daily top data"
+            git commit -m "Update Hacker News daily top data"
         fi
     - name: Push changes
       uses: ad-m/github-push-action@master
