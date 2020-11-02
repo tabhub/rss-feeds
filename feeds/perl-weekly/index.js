@@ -18,14 +18,14 @@ const getLatestIssueNum = async () => {
 
 const run = async () => {
   console.log('get latest issue number...');
-  const num = await getLatestIssueNum();
-  console.log(num);
-  if (!num) return;
+  const issueNum = await getLatestIssueNum();
+  console.log(issueNum);
+  if (!issueNum) return;
 
   console.log('start fetching issue data...');
   try {
     const res = await axios.get(
-      `https://raw.githubusercontent.com/szabgab/perlweekly/master/src/${num}.json`);
+      `https://raw.githubusercontent.com/szabgab/perlweekly/master/src/${issueNum}.json`);
     console.log(res.data);
 
     if (!res.data.chapters) return;
@@ -50,7 +50,7 @@ const run = async () => {
     });
 
     const content = {
-      title:  "Perl Weekly",
+      title:  `Perl Weekly #${issueNum}`,
       description: "Hand-picked news and articles about Perl",
       link: "https://github.com/tabhub/rss-feeds",
       item: items
