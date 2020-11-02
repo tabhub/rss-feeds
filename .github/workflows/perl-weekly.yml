@@ -1,0 +1,35 @@
+name: Update Perl Weekly
+
+on: [push]
+  # schedule:
+  #   - cron: "1 0 * * 1"
+
+jobs:
+  perl-weekly:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - name: npm install
+      run: npm install --only=prod
+      working-directory: .
+    - name: Get fresh Perl Weekly
+      run: node ./feeds/perl-weekly/index.js
+    # you need git commit to push the forks data to the repo
+    - name: Git commit
+      run: |
+        # git commit if there's any change
+        if test -n "$(git status --porcelain 2>/dev/null)"; then
+            git config --global user.email "idegorepl@gmail.com"
+            git config --global user.name "TabHub Bot"
+            git add .
+            git commit -m "Update Perl Weekly data"
+        fi
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
