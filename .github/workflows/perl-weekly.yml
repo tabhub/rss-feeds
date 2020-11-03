@@ -1,8 +1,8 @@
 name: Update Perl Weekly
 
-on: [push]
-  # schedule:
-  #   - cron: "1 0 * * 1"
+on:
+  schedule:
+    - cron: "0 6 * * 1"
 
 jobs:
   perl-weekly:
