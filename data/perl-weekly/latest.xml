@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #488]]></title>
+        <title><![CDATA[Perl Weekly #489]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -19,10 +19,10 @@
         
         <item>
             <title><![CDATA[CPAN uploads]]></title>
-            <description><![CDATA[Last week there were a total of 171 uploads to CPAN of 137 distinct distributions by 80 different authors. Number of distributions with link to VCS: 94. Number of distros with CI: 44. Number of distros with bugtracker: 66.]]></description>
+            <description><![CDATA[Last week there were a total of 183 uploads to CPAN of 138 distinct distributions by 76 different authors. Number of distributions with link to VCS: 96. Number of distros with CI: 60. Number of distros with bugtracker: 68.]]></description>
             
-            <guid isPermaLink="false">https://metacpan.org/recent</guid>
-            <link>https://metacpan.org/recent</link>
+            <guid isPermaLink="false">https://perlweekly.com/metacpan.html</guid>
+            <link>https://perlweekly.com/metacpan.html</link>
             
             
             
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Blogs]]></title>
-            <description><![CDATA[Number of posts last week: BPO: 5; DevTo: 5; Perl.com: 0; PerlAcademy: 2; PerlHacks: 0; PerlMaven: 4; Reddit: 17; TPF: 1;]]></description>
+            <description><![CDATA[Number of posts last week: BPO: 4; DevTo: 12; Perl.com: 0; PerlAcademy: 2; PerlHacks: 1; PerlMaven: 2; Reddit: 25; TPF: 1;]]></description>
             
             <guid isPermaLink="false">https://perlweekly.com/stats.html</guid>
             <link>https://perlweekly.com/stats.html</link>
@@ -50,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A few tips for Perl on Docker and Kubernetes]]></title>
-            <description><![CDATA[A very handy introduction for anyone trying to get their hand dirty.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">https://dev.to/zakame/a-few-tips-for-perl-on-docker-and-kubernetes-29bg</guid>
-            <link>https://dev.to/zakame/a-few-tips-for-perl-on-docker-and-kubernetes-29bg</link>
+            <title><![CDATA[Advent Planet]]></title>
+            <description><![CDATA[Every year Len collects the Advent calendars from around the world and creates an Advent calendar of all of them.]]></description>
+            <pubDate>2020.12.01</pubDate>
+            <guid isPermaLink="false">http://www.lenjaffe.com/AdventPlanet/</guid>
+            <link>http://www.lenjaffe.com/AdventPlanet/</link>
             
             
             
-            <author><![CDATA[zak_elep]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Put a file in a Kubernetes Pod]]></title>
-            <description><![CDATA[Flavio has another gem of a blog post showing how to put a file in a Kubernetes pod.]]></description>
-            <pubDate>2020.11.24</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2020/11/24/kube-put/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2020/11/24/kube-put/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[len_jaffe]]></author>
             
                 
             
@@ -82,331 +66,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Peek in containers]]></title>
-            <description><![CDATA[Take a peek into containers with this short blog post.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2020/11/29/peek-in-containers/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2020/11/29/peek-in-containers/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Weekly Challenge - 089]]></title>
-            <description><![CDATA[Welcome to a new week with a couple of fun tasks "GCD Sum" and "Magical Matrix". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read the <a href="https://perlweeklychallenge.org/faq">FAQ</a>.]]></description>
-            <pubDate>2020.11.30</pubDate>
-            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-089</guid>
-            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-089</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RECAP - The Weekly Challenge - 088]]></title>
-            <description><![CDATA[Enjoy a quick recap of last week's contributions by Team PWC, dealing with the "Array of Products" and "Spiral Matrix" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
-            <pubDate>2020.11.30</pubDate>
-            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-088</guid>
-            <link>https://perlweeklychallenge.org/blog/recap-challenge-088</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Meet The Champion - Andrew Shitov]]></title>
-            <description><![CDATA[Finally we managed to get this interview done. Well worth the wait, imho.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/meet-the-champion-2020-10/</guid>
-            <link>https://perlweeklychallenge.org/blog/meet-the-champion-2020-10/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 88, Part 1]]></title>
-            <description><![CDATA[This blog post goes into the finer details of the task in terms of Perl, C and Node.js.]]></description>
-            <pubDate>2020.11.27</pubDate>
-            <guid isPermaLink="false">https://programmingblog702692439.wordpress.com/2020/11/27/perl-weekly-challenge-88-part-1/</guid>
-            <link>https://programmingblog702692439.wordpress.com/2020/11/27/perl-weekly-challenge-88-part-1/</link>
-            
-            
-            
-            <author><![CDATA[abigail]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 88, Part 2]]></title>
-            <description><![CDATA[Abigail has been a great supporter and this blog contribution is the talk of the town.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">https://programmingblog702692439.wordpress.com/2020/11/29/perl-weekly-challenge-88-part-2/</guid>
-            <link>https://programmingblog702692439.wordpress.com/2020/11/29/perl-weekly-challenge-88-part-2/</link>
-            
-            
-            
-            <author><![CDATA[abigail]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 088]]></title>
-            <description><![CDATA[Adam keeps the discussion short and sweet.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2020/11/29</guid>
-            <link>http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2020/11/29</link>
-            
-            
-            
-            <author><![CDATA[adam_russell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Arrayed Spiral with Raku and Perl]]></title>
-            <description><![CDATA[Arne's use of a mapping analogy for the Spiral Matrix is the coolest approach. We are blessed to have both Perl and Raku versions this week.]]></description>
-            <pubDate>2020.11.25</pubDate>
-            <guid isPermaLink="false">https://raku-musings.com/arrayed-spiral.html</guid>
-            <link>https://raku-musings.com/arrayed-spiral.html</link>
-            
-            
-            
-            <author><![CDATA[arne_sommer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CY's Take on PWC#088]]></title>
-            <description><![CDATA[Cheok-Yin's blog is always fun to read. Plenty to absorb on the meat of the solution.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/c_y_fung/2020/11/cys-take-on-pwc088.html</guid>
-            <link>http://blogs.perl.org/users/c_y_fung/2020/11/cys-take-on-pwc088.html</link>
-            
-            
-            
-            <author><![CDATA[cheok_fung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Product of the Absence – Spiralize the Day Away]]></title>
-            <description><![CDATA[Colin, our in-house Perl Reviewer, came up with an interesting blog post showing the power of Perl and Raku.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">https://colincrain.com/2020/11/29/the-product-of-the-absence-spiralize-the-day-away/</guid>
-            <link>https://colincrain.com/2020/11/29/the-product-of-the-absence-spiralize-the-day-away/</link>
-            
-            
-            
-            <author><![CDATA[colin_crain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Solving Perl Weekly Challenge 088 -- Array of Prodict vs Spiral Matrix]]></title>
-            <description><![CDATA[Kang-min's use of map to keep track of direction is really nice. His blog post shows the real power of Raku.]]></description>
-            <pubDate>2020.11.24</pubDate>
-            <guid isPermaLink="false">https://gugod.org/2020/11/pwc-088-en/</guid>
-            <link>https://gugod.org/2020/11/pwc-088-en/</link>
-            
-            
-            
-            <author><![CDATA[gugod]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challege: 088]]></title>
-            <description><![CDATA[I loved the blogging style used by Jaldhar; keeping track of the code while discussing the solution.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">https://www.braincells.com/perl/2020/11/perl_weekly_challenge_week_88.html</guid>
-            <link>https://www.braincells.com/perl/2020/11/perl_weekly_challenge_week_88.html</link>
-            
-            
-            
-            <author><![CDATA[jaldhar_vyas]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PWC088 - Array of Product]]></title>
-            <description><![CDATA[Flavio continued his weekly challenge journey, having so much fun.]]></description>
-            <pubDate>2020.11.26</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2020/11/26/pwc088-array-of-product/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2020/11/26/pwc088-array-of-product/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PWC088 - Spiral Matrix]]></title>
-            <description><![CDATA[Flavio's style of question and answer in his blog post makes me think again and again.]]></description>
-            <pubDate>2020.11.27</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2020/11/27/pwc088-spiral-matrix/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2020/11/27/pwc088-spiral-matrix/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 88: Array of Products and Spiral Matrices]]></title>
-            <description><![CDATA[Laurent writing Raku first then porting the code to Perl is really cool. His contributions in Perl and Raku are equally great.]]></description>
-            <pubDate>2020.11.25</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/laurent_r/2020/11/perl-weekly-challenge-88-array-of-products-and-spiral-matrices.html</guid>
-            <link>http://blogs.perl.org/users/laurent_r/2020/11/perl-weekly-challenge-88-array-of-products-and-spiral-matrices.html</link>
-            
-            
-            
-            <author><![CDATA[laurent_rosenfeld]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 088]]></title>
-            <description><![CDATA[Lubos writing Perl and Python side by side is really interesting. He makes it easy to read.]]></description>
-            <pubDate>2020.11.28</pubDate>
-            <guid isPermaLink="false">https://v.kolouch.org/nextcloud/index.php/apps/cms_pico/pico/lubos/20201128_perl_weekly_088</guid>
-            <link>https://v.kolouch.org/nextcloud/index.php/apps/cms_pico/pico/lubos/20201128_perl_weekly_088</link>
-            
-            
-            
-            <author><![CDATA[lubos_kolouch]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 88: Spiral Product]]></title>
-            <description><![CDATA[Roger's blog post is not limited to a Perl solution. You will find comparable solutions in other languages too.]]></description>
-            <pubDate>2020.11.28</pubDate>
-            <guid isPermaLink="false">https://blog.firedrake.org/archive/2020/11/Perl_Weekly_Challenge_88__Spiral_Product.html</guid>
-            <link>https://blog.firedrake.org/archive/2020/11/Perl_Weekly_Challenge_88__Spiral_Product.html</link>
-            
-            
-            
-            <author><![CDATA[roger_bell_west]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 088]]></title>
-            <description><![CDATA[The best part of this blog post is the discussion of the Spiral Matrix solution. Must Read.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">https://samirparikh.com/blog/perl-weekly-challenge-088.html</guid>
-            <link>https://samirparikh.com/blog/perl-weekly-challenge-088.html</link>
-            
-            
-            
-            <author><![CDATA[samir_parikh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Weekly Challenge 088]]></title>
-            <description><![CDATA[Simon presenting a step-by-step solution to the Spiral Matrix is interesting.]]></description>
-            <pubDate>2020.11.23</pubDate>
-            <guid isPermaLink="false">https://dev.to/simongreennet/weekly-challenge-088-5c5f</guid>
-            <link>https://dev.to/simongreennet/weekly-challenge-088-5c5f</link>
-            
-            
-            
-            <author><![CDATA[simon_green]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge - 088]]></title>
-            <description><![CDATA[Walt used state variables very elegantly to solve the Spiral Matrix task.]]></description>
-            <pubDate>2020.11.29</pubDate>
-            <guid isPermaLink="false">https://github.com/manwar/perlweeklychallenge-club/blob/master/challenge-088/walt-mankowski/README.md</guid>
-            <link>https://github.com/manwar/perlweeklychallenge-club/blob/master/challenge-088/walt-mankowski/README.md</link>
-            
-            
-            
-            <author><![CDATA[walt_mankowski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Use Perl::Tidy module in your application]]></title>
-            <description><![CDATA[Simple example showing how to use Perl::Tidy as a module, rather than as a command line tool, embedded in your application.]]></description>
-            <pubDate>2020.11.27</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/use-perl-tidy-in-your-application</guid>
-            <link>https://perlmaven.com/use-perl-tidy-in-your-application</link>
+            <title><![CDATA[rt.cpan.org will sunset on March 1st, 2021]]></title>
+            <description><![CDATA[See the <a href="https://log.perl.org/2020/12/rtcpanorg-sunset.html">original announcement</a>. If I understand correctly, every CPAN module needs to start using some other bug-tracking system. According to <a href="https://cpan.rocks/">CPAN Rocks</a> that is based on information from <a href="https://metacpan.org/">MetaCPAN</a> there are 4,921 distributions that explicitly set RT as their bug-tracking system and there are 24,884 distribution that have not set any, in which case MetaCPAN defaults to showing RT. See also the <a href="https://www.reddit.com/r/perl/comments/k73bxy/rtcpanorg_is_closing/">Reddit discussion.</a> It isn't pretty.]]></description>
+            <pubDate>2020.12.05</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/rt-cpan-org-is-closing</guid>
+            <link>https://perlmaven.com/rt-cpan-org-is-closing</link>
             
             
             
@@ -418,15 +82,175 @@
         </item>
         
         <item>
-            <title><![CDATA[2020.47 Present Release]]></title>
-            <description><![CDATA[2020.47 Present Release]]></description>
-            <pubDate>2020.11.23</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2020/11/23/2020-47-present-release/</guid>
-            <link>https://rakudoweekly.blog/2020/11/23/2020-47-present-release/</link>
+            <title><![CDATA[FOSDEM 2021: Call for papers open]]></title>
+            <description><![CDATA[This time FOSDEM will be online]]></description>
+            <pubDate>2020.12.04</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/fosdem-2021-call-for-papers</guid>
+            <link>https://news.perlfoundation.org/post/fosdem-2021-call-for-papers</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[stuart_mackintosh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rex-1.13.2 is now available]]></title>
+            <description><![CDATA[Rex-1.13.2 is now available]]></description>
+            <pubDate>2020.12.05</pubDate>
+            <guid isPermaLink="false">https://www.rexify.org/blog/2020/12/05/rex-1.13.2.html</guid>
+            <link>https://www.rexify.org/blog/2020/12/05/rex-1.13.2.html</link>
+            
+            
+            
+            <author><![CDATA[ferenc_erki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl and Camels]]></title>
+            <description><![CDATA[In a nutshell: We can use any camel anywhere except for two cases: we can't use the specific one O'Reilly has on its Camel book and we can't use a camel on a Perl-related book cover published by a publisher that isn't O'Reilly. <a href="https://www.reddit.com/r/perl/comments/k6q9na/perl_and_camels/">Reddit</a>]]></description>
+            <pubDate>2020.12.04</pubDate>
+            <guid isPermaLink="false">http://neilb.org/2020/12/04/perl-and-camels.html</guid>
+            <link>http://neilb.org/2020/12/04/perl-and-camels.html</link>
+            
+            
+            
+            <author><![CDATA[neil_bowers]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT - Action Plan for CPAN Authors]]></title>
+            <description><![CDATA[Dave went ahead and described what CPAN authors could do to deal with the situation of RT going away. He even added a cute bug to the <a href="https://cpandashboard.com/">CPAN Dashboard</a> to help CPAN Authors identify distributions that need work. More ideas on <a href="https://www.reddit.com/r/perl/comments/k7tcgp/rt_action_plan_for_cpan_authors_perl_hacks/">Reddit</a>.]]></description>
+            <pubDate>2020.12.06</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2020/12/rt-action-plan-for-cpan-authors/</guid>
+            <link>https://perlhacks.com/2020/12/rt-action-plan-for-cpan-authors/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Find the first element in an array in Perl that satisfies a condition]]></title>
+            <description><![CDATA[Use grep or use List::Util::first]]></description>
+            <pubDate>2020.12.01</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/first</guid>
+            <link>https://perlmaven.com/first</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The blessing of forgetting]]></title>
+            <description><![CDATA[Forgetting is good because you can enjoy the (re)discovery.]]></description>
+            <pubDate>2020.12.03</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2020/12/03/the-blessing-of-forgetting/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2020/12/03/the-blessing-of-forgetting/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advent of Code Day 1 - brute loops]]></title>
+            <description><![CDATA[Part of a series of articles. Check them all!]]></description>
+            <pubDate>2020.12.01</pubDate>
+            <guid isPermaLink="false">https://domm.plix.at/perl/2020_12_aoc_day_01.html</guid>
+            <link>https://domm.plix.at/perl/2020_12_aoc_day_01.html</link>
+            
+            
+            
+            <author><![CDATA[thomas_klausner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Twenty Years of Monthly CPAN Releases]]></title>
+            <description><![CDATA[I just love the personal anecdotes and I love Dave's writing.]]></description>
+            <pubDate>2020.12.05</pubDate>
+            <guid isPermaLink="false">https://blog.urth.org/2020/12/05/twenty-years-of-cpan-releases/</guid>
+            <link>https://blog.urth.org/2020/12/05/twenty-years-of-cpan-releases/</link>
+            
+            
+            
+            <author><![CDATA[dave_rolsky]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A Perl love letter ]]></title>
+            <description><![CDATA[A Perl love letter ]]></description>
+            <pubDate>2020.12.03</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/a-perl-love-letter-20jj</guid>
+            <link>https://dev.to/thibaultduponchelle/a-perl-love-letter-20jj</link>
+            
+            
+            
+            <author><![CDATA[thibault_duponchelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advent of Code Day 6 - simple counting]]></title>
+            <description><![CDATA[Advent of Code Day 6 - simple counting]]></description>
+            <pubDate>2020.12.06</pubDate>
+            <guid isPermaLink="false">https://domm.plix.at/perl/2020_12_aoc_day_06.html</guid>
+            <link>https://domm.plix.at/perl/2020_12_aoc_day_06.html</link>
+            
+            
+            
+            <author><![CDATA[thomas_klausner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[About Perl books review]]></title>
+            <description><![CDATA[About Perl books review]]></description>
+            <pubDate>2020.12.04</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/about-perl-books-review-1cj6</guid>
+            <link>https://dev.to/thibaultduponchelle/about-perl-books-review-1cj6</link>
+            
+            
+            
+            <author><![CDATA[thibault_duponchelle]]></author>
             
                 
             
@@ -435,8 +259,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2020/11/cccxvii-9-cpan-great-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2020/11/cdxliv-metacpan-weekly-report-plack.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2020/11/cdlxix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2020.11.29</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2020/12/cccxviii-14-cpan-great-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2020/12/cdxlv-metacpan-weekly-report-plack.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2020/12/cdlxx-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2020.12.05</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -450,63 +274,15 @@
         </item>
         
         <item>
-            <title><![CDATA[GitLab CI for Perl projects]]></title>
-            <description><![CDATA[A list of Perl projects hosted on GitLab that already have GitLab CI enabled. Some projects to learn from.]]></description>
-            <pubDate>2020.11.24</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/gitlab-ci</guid>
-            <link>https://perlmaven.com/gitlab-ci</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CPAN Digger - CPAN Dashboard - CPAN Rocks]]></title>
-            <description><![CDATA[Screencast showing you around three projects: CPAN Digger by Gabor Szabo, CPAN Dashboard by Dave Cross, both written in Perl and hosted on GitHub pages. Also, CPAN Rocks by James Raspass, written in Raku and hosted on GitLab.]]></description>
-            <pubDate>2020.11.26</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/cpan-digger-dashboard-rocks</guid>
-            <link>https://perlmaven.com/cpan-digger-dashboard-rocks</link>
+            <title><![CDATA[New Year's Resolution - every month]]></title>
+            <description><![CDATA[I just realized I could use my monthly report to have a new month's resolution and then even if after 2-3 weeks I abandon the commitments, the following month they can start again. Possibly in a new direction.]]></description>
+            <pubDate>2020.12.02</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/new-years-resolution-every-month.html</guid>
+            <link>https://szabgab.com/new-years-resolution-every-month.html</link>
             
             
             
             <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[COVID 19 charts by DungeonTiger]]></title>
-            <description><![CDATA[Screencast showing a GitHub pages project where the content is re-generated twice a day with a scheduled GitHub Actions job.]]></description>
-            <pubDate>2020.11.28</pubDate>
-            <guid isPermaLink="false">https://code-maven.com/covid-19-charts-by-dungeontiger</guid>
-            <link>https://code-maven.com/covid-19-charts-by-dungeontiger</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Silicon Valley Perl - Quantum::Superpositions, 2021 election]]></title>
-            <description><![CDATA[Thursday, December 3, 2020, 6:30 PM PST]]></description>
-            <pubDate>2020.12.03</pubDate>
-            <guid isPermaLink="false">https://www.meetup.com/SVPerl/events/vsxdwrybcqbfb/</guid>
-            <link>https://www.meetup.com/SVPerl/events/vsxdwrybcqbfb/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -519,6 +295,22 @@
             <pubDate>2020.12.09</pubDate>
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrybcqbmb/</guid>
             <link>https://www.meetup.com/hacklafayette/events/jdxwsrybcqbmb/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Charlotte Perl Mongers - Collective Voice: Web Application Development with Perl Dancer]]></title>
+            <description><![CDATA[Wednesday, December 9, 2020; 6:00 PM EST]]></description>
+            <pubDate>2020.12.09</pubDate>
+            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/events/275011889/</guid>
+            <link>https://www.meetup.com/charlotte-pm/events/275011889/</link>
             
             
             
@@ -551,6 +343,22 @@
             <pubDate>2021.01.06</pubDate>
             <guid isPermaLink="false">https://www.meetup.com/Berlin-Perl-Mongers/events/jbrsfrybcqbfc/</guid>
             <link>https://www.meetup.com/Berlin-Perl-Mongers/events/jbrsfrybcqbfc/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Silicon Valley Perl - Intro to Raku: A New Language for a New Year]]></title>
+            <description><![CDATA[Thursday, January 7, 2021; 6:30 PM PST]]></description>
+            <pubDate>2021.01.07</pubDate>
+            <guid isPermaLink="false">https://www.meetup.com/SVPerl/events/vsxdwrycccbkb/</guid>
+            <link>https://www.meetup.com/SVPerl/events/vsxdwrycccbkb/</link>
             
             
             
