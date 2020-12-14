@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #489]]></title>
+        <title><![CDATA[Perl Weekly #490]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[CPAN uploads]]></title>
-            <description><![CDATA[Last week there were a total of 183 uploads to CPAN of 138 distinct distributions by 76 different authors. Number of distributions with link to VCS: 96. Number of distros with CI: 60. Number of distros with bugtracker: 68.]]></description>
+            <description><![CDATA[Last week there were a total of 269 uploads to CPAN of 154 distinct distributions by 93 different authors. Number of distributions with link to VCS: 132. Number of distros with CI: 57. Number of distros with bugtracker: 92.]]></description>
             
             <guid isPermaLink="false">https://perlweekly.com/metacpan.html</guid>
             <link>https://perlweekly.com/metacpan.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Blogs]]></title>
-            <description><![CDATA[Number of posts last week: BPO: 4; DevTo: 12; Perl.com: 0; PerlAcademy: 2; PerlHacks: 1; PerlMaven: 2; Reddit: 25; TPF: 1;]]></description>
+            <description><![CDATA[Number of posts last week: BPO: 4; DevTo: 6; Perl.com: 0; PerlAcademy: 2; PerlHacks: 0; PerlMaven: 1; Reddit: 25; TPF: 2;]]></description>
             
             <guid isPermaLink="false">https://perlweekly.com/stats.html</guid>
             <link>https://perlweekly.com/stats.html</link>
@@ -50,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Advent Planet]]></title>
-            <description><![CDATA[Every year Len collects the Advent calendars from around the world and creates an Advent calendar of all of them.]]></description>
-            <pubDate>2020.12.01</pubDate>
-            <guid isPermaLink="false">http://www.lenjaffe.com/AdventPlanet/</guid>
-            <link>http://www.lenjaffe.com/AdventPlanet/</link>
+            <title><![CDATA[The Twelve Days of Dancer, 2020 Edition]]></title>
+            <description><![CDATA[Jason announced the Advent Calendar 2020 for Dancer2.]]></description>
+            <pubDate>2020.12.13</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/jason_a_crome/2020/12/the-twelve-days-of-dancer-2020-edition.html</guid>
+            <link>http://blogs.perl.org/users/jason_a_crome/2020/12/the-twelve-days-of-dancer-2020-edition.html</link>
             
             
             
-            <author><![CDATA[len_jaffe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[rt.cpan.org will sunset on March 1st, 2021]]></title>
-            <description><![CDATA[See the <a href="https://log.perl.org/2020/12/rtcpanorg-sunset.html">original announcement</a>. If I understand correctly, every CPAN module needs to start using some other bug-tracking system. According to <a href="https://cpan.rocks/">CPAN Rocks</a> that is based on information from <a href="https://metacpan.org/">MetaCPAN</a> there are 4,921 distributions that explicitly set RT as their bug-tracking system and there are 24,884 distribution that have not set any, in which case MetaCPAN defaults to showing RT. See also the <a href="https://www.reddit.com/r/perl/comments/k73bxy/rtcpanorg_is_closing/">Reddit discussion.</a> It isn't pretty.]]></description>
-            <pubDate>2020.12.05</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/rt-cpan-org-is-closing</guid>
-            <link>https://perlmaven.com/rt-cpan-org-is-closing</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[jason_crome]]></author>
             
                 
             
@@ -82,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[FOSDEM 2021: Call for papers open]]></title>
-            <description><![CDATA[This time FOSDEM will be online]]></description>
-            <pubDate>2020.12.04</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/fosdem-2021-call-for-papers</guid>
-            <link>https://news.perlfoundation.org/post/fosdem-2021-call-for-papers</link>
+            <title><![CDATA[The Weekly Challenge - 091]]></title>
+            <description><![CDATA[Welcome to the new week with couple of fun tasks - "Count Number" and "Jump Game". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read <a href="https://perlweeklychallenge.org/faq">FAQ</a> page.]]></description>
+            <pubDate>2020.12.14</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-091</guid>
+            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-091</link>
             
             
             
-            <author><![CDATA[stuart_mackintosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Rex-1.13.2 is now available]]></title>
-            <description><![CDATA[Rex-1.13.2 is now available]]></description>
-            <pubDate>2020.12.05</pubDate>
-            <guid isPermaLink="false">https://www.rexify.org/blog/2020/12/05/rex-1.13.2.html</guid>
-            <link>https://www.rexify.org/blog/2020/12/05/rex-1.13.2.html</link>
-            
-            
-            
-            <author><![CDATA[ferenc_erki]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -114,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl and Camels]]></title>
-            <description><![CDATA[In a nutshell: We can use any camel anywhere except for two cases: we can't use the specific one O'Reilly has on its Camel book and we can't use a camel on a Perl-related book cover published by a publisher that isn't O'Reilly. <a href="https://www.reddit.com/r/perl/comments/k6q9na/perl_and_camels/">Reddit</a>]]></description>
-            <pubDate>2020.12.04</pubDate>
-            <guid isPermaLink="false">http://neilb.org/2020/12/04/perl-and-camels.html</guid>
-            <link>http://neilb.org/2020/12/04/perl-and-camels.html</link>
+            <title><![CDATA[RECAP - The Weekly Challenge - 090]]></title>
+            <description><![CDATA[Enjoy a quick recap of last week contributions by Team PWC dealing with the "DNA Sequence" and "Ethiopian Multiplication" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
+            <pubDate>2020.12.14</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-090</guid>
+            <link>https://perlweeklychallenge.org/blog/recap-challenge-090</link>
             
             
             
-            <author><![CDATA[neil_bowers]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT - Action Plan for CPAN Authors]]></title>
-            <description><![CDATA[Dave went ahead and described what CPAN authors could do to deal with the situation of RT going away. He even added a cute bug to the <a href="https://cpandashboard.com/">CPAN Dashboard</a> to help CPAN Authors identify distributions that need work. More ideas on <a href="https://www.reddit.com/r/perl/comments/k7tcgp/rt_action_plan_for_cpan_authors_perl_hacks/">Reddit</a>.]]></description>
-            <pubDate>2020.12.06</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2020/12/rt-action-plan-for-cpan-authors/</guid>
-            <link>https://perlhacks.com/2020/12/rt-action-plan-for-cpan-authors/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -146,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Find the first element in an array in Perl that satisfies a condition]]></title>
-            <description><![CDATA[Use grep or use List::Util::first]]></description>
-            <pubDate>2020.12.01</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/first</guid>
-            <link>https://perlmaven.com/first</link>
+            <title><![CDATA[Perl Review - Perl Weekly Challenge - 088]]></title>
+            <description><![CDATA[Perl Solutions Review by Colin Crain.]]></description>
+            <pubDate>2020.12.13</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/review-challenge-088</guid>
+            <link>https://perlweeklychallenge.org/blog/review-challenge-088</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[colin_crain]]></author>
             
                 
             
@@ -162,11 +114,139 @@
         </item>
         
         <item>
-            <title><![CDATA[The blessing of forgetting]]></title>
-            <description><![CDATA[Forgetting is good because you can enjoy the (re)discovery.]]></description>
-            <pubDate>2020.12.03</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2020/12/03/the-blessing-of-forgetting/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2020/12/03/the-blessing-of-forgetting/</link>
+            <title><![CDATA[Perl Weekly Challenge 90]]></title>
+            <description><![CDATA[Aaron with his Biochemistry background taught me something new: that DNA has direction.]]></description>
+            <pubDate>2020.12.07</pubDate>
+            <guid isPermaLink="false">https://aaronreidsmith.github.io/blog/perl-weekly-challenge-090/</guid>
+            <link>https://aaronreidsmith.github.io/blog/perl-weekly-challenge-090/</link>
+            
+            
+            
+            <author><![CDATA[aaron_smith]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 90, Part 1]]></title>
+            <description><![CDATA[Abigail made the DNA task more fun by reading the sequence from STDIN.]]></description>
+            <pubDate>2020.12.13</pubDate>
+            <guid isPermaLink="false">https://programmingblog702692439.wordpress.com/2020/12/13/perl-weekly-challenge-week-90/</guid>
+            <link>https://programmingblog702692439.wordpress.com/2020/12/13/perl-weekly-challenge-week-90/</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 90, Part 2]]></title>
+            <description><![CDATA[Abigail's presentation of the results of Ethiopian multiplication is very elegant and verbose,]]></description>
+            <pubDate>2020.12.14</pubDate>
+            <guid isPermaLink="false">https://programmingblog702692439.wordpress.com/2020/12/14/perl-weekly-challenge-90-part-2/</guid>
+            <link>https://programmingblog702692439.wordpress.com/2020/12/14/perl-weekly-challenge-90-part-2/</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 090]]></title>
+            <description><![CDATA[Interesting to read Adam's reference to YAPC 2009 with regard to the DNA task.]]></description>
+            <pubDate>2020.12.13</pubDate>
+            <guid isPermaLink="false">http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2020/12/13</guid>
+            <link>http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2020/12/13</link>
+            
+            
+            
+            <author><![CDATA[adam_russell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Task 2 - Ethiopian Multiplication]]></title>
+            <description><![CDATA[Andinus shows the power of Raku when dealing with the Ethiopian Multiplication task.]]></description>
+            <pubDate>2020.12.08</pubDate>
+            <guid isPermaLink="false">https://andinus.tilde.institute/pwc/challenge-090/</guid>
+            <link>https://andinus.tilde.institute/pwc/challenge-090/</link>
+            
+            
+            
+            <author><![CDATA[andinus]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sequenced Multiplication with Raku and Perl]]></title>
+            <description><![CDATA[Arne has been one of the biggest supporters of the Weekly Challenge. This was another week when he gave us Perl and Raku solutions.]]></description>
+            <pubDate>2020.12.12</pubDate>
+            <guid isPermaLink="false">https://raku-musings.com/sequenced-multiplication.html</guid>
+            <link>https://raku-musings.com/sequenced-multiplication.html</link>
+            
+            
+            
+            <author><![CDATA[arne_sommer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DNA Fragments Are Multiplying Exponentially in North-East Africa]]></title>
+            <description><![CDATA[Colin's blog is always fun to read. It is never short of fascinating facts beyond the power of Perl and Raku.]]></description>
+            <pubDate>2020.12.13</pubDate>
+            <guid isPermaLink="false">https://colincrain.com/2020/12/13/dna-fragments-are-multiplying-exponentially-in-north-east-africa/</guid>
+            <link>https://colincrain.com/2020/12/13/dna-fragments-are-multiplying-exponentially-in-north-east-africa/</link>
+            
+            
+            
+            <author><![CDATA[colin_crain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Multiplication and DNA: Perl Weekly Challenge #90]]></title>
+            <description><![CDATA[Dave made use of deadly combinations of scalar, grep and split. Please do check it out.]]></description>
+            <pubDate>2020.12.08</pubDate>
+            <guid isPermaLink="false">https://jacoby.github.io/2020/12/08/multiplication-and-dna-perl-weekly-challenge-90.html</guid>
+            <link>https://jacoby.github.io/2020/12/08/multiplication-and-dna-perl-weekly-challenge-90.html</link>
+            
+            
+            
+            <author><![CDATA[dave_jacoby]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC090 - DNA Sequence]]></title>
+            <description><![CDATA[One might say there is not much to talk about in DNA task. I would recommend Flavio's blog post to disprove that point.]]></description>
+            <pubDate>2020.12.11</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2020/12/11/pwc090-dna-sequence/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2020/12/11/pwc090-dna-sequence/</link>
             
             
             
@@ -178,31 +258,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Advent of Code Day 1 - brute loops]]></title>
-            <description><![CDATA[Part of a series of articles. Check them all!]]></description>
-            <pubDate>2020.12.01</pubDate>
-            <guid isPermaLink="false">https://domm.plix.at/perl/2020_12_aoc_day_01.html</guid>
-            <link>https://domm.plix.at/perl/2020_12_aoc_day_01.html</link>
+            <title><![CDATA[PWC090 - Ethiopian Multiplication]]></title>
+            <description><![CDATA[Straight to the solution without any discussion.]]></description>
+            <pubDate>2020.12.12</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2020/12/12/pwc090-ethiopian-multiplication/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2020/12/12/pwc090-ethiopian-multiplication/</link>
             
             
             
-            <author><![CDATA[thomas_klausner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Twenty Years of Monthly CPAN Releases]]></title>
-            <description><![CDATA[I just love the personal anecdotes and I love Dave's writing.]]></description>
-            <pubDate>2020.12.05</pubDate>
-            <guid isPermaLink="false">https://blog.urth.org/2020/12/05/twenty-years-of-cpan-releases/</guid>
-            <link>https://blog.urth.org/2020/12/05/twenty-years-of-cpan-releases/</link>
-            
-            
-            
-            <author><![CDATA[dave_rolsky]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -210,31 +274,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A Perl love letter ]]></title>
-            <description><![CDATA[A Perl love letter ]]></description>
-            <pubDate>2020.12.03</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/a-perl-love-letter-20jj</guid>
-            <link>https://dev.to/thibaultduponchelle/a-perl-love-letter-20jj</link>
+            <title><![CDATA[Solving Perl Weekly Challenge 090 -- DNA Sequence and Ethiopian Multiplication]]></title>
+            <description><![CDATA[Kang-min made good use of Raku's power and made the DNA task look too easy.]]></description>
+            <pubDate>2020.12.13</pubDate>
+            <guid isPermaLink="false">https://gugod.org/2020/12/pwc-090-en/</guid>
+            <link>https://gugod.org/2020/12/pwc-090-en/</link>
             
             
             
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Advent of Code Day 6 - simple counting]]></title>
-            <description><![CDATA[Advent of Code Day 6 - simple counting]]></description>
-            <pubDate>2020.12.06</pubDate>
-            <guid isPermaLink="false">https://domm.plix.at/perl/2020_12_aoc_day_06.html</guid>
-            <link>https://domm.plix.at/perl/2020_12_aoc_day_06.html</link>
-            
-            
-            
-            <author><![CDATA[thomas_klausner]]></author>
+            <author><![CDATA[gugod]]></author>
             
                 
             
@@ -242,15 +290,79 @@
         </item>
         
         <item>
-            <title><![CDATA[About Perl books review]]></title>
-            <description><![CDATA[About Perl books review]]></description>
-            <pubDate>2020.12.04</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/about-perl-books-review-1cj6</guid>
-            <link>https://dev.to/thibaultduponchelle/about-perl-books-review-1cj6</link>
+            <title><![CDATA[Perl Weekly Challenge 90: DNA Sequence and Ethiopian Multiplication]]></title>
+            <description><![CDATA[Laurent once again came up with compact solutions. You even get a bonus Scala solution this time.]]></description>
+            <pubDate>2020.12.08</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/laurent_r/2020/12/perl-weekly-challenge-90-dna-sequence-and-ethiopian-multiplication.html</guid>
+            <link>http://blogs.perl.org/users/laurent_r/2020/12/perl-weekly-challenge-90-dna-sequence-and-ethiopian-multiplication.html</link>
             
             
             
-            <author><![CDATA[thibault_duponchelle]]></author>
+            <author><![CDATA[laurent_rosenfeld]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Weekly Challenge 090]]></title>
+            <description><![CDATA[Congratulations to Simon for becoming the Champion. Thanks for blogging on dev.to and promoting the cause.]]></description>
+            <pubDate>2020.12.13</pubDate>
+            <guid isPermaLink="false">https://dev.to/simongreennet/weekly-challenge-090-41</guid>
+            <link>https://dev.to/simongreennet/weekly-challenge-090-41</link>
+            
+            
+            
+            <author><![CDATA[simon_green]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 90]]></title>
+            <description><![CDATA[Luis tried the rarely-used bit operator for mathematica operation. Fun to read always.]]></description>
+            <pubDate>2020.12.07</pubDate>
+            <guid isPermaLink="false">https://wlmb.github.io/2020/12/07/PWC90/</guid>
+            <link>https://wlmb.github.io/2020/12/07/PWC90/</link>
+            
+            
+            
+            <author><![CDATA[luis_mochan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[do]]></title>
+            <description><![CDATA[do]]></description>
+            <pubDate>2020.12.13</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/do</guid>
+            <link>https://perlmaven.com/do</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2020.49 Shaped Shaping Up]]></title>
+            <description><![CDATA[2020.49 Shaped Shaping Up]]></description>
+            <pubDate>2020.12.07</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2020/12/07/2020-49-shaped-shaping-up/</guid>
+            <link>https://rakudoweekly.blog/2020/12/07/2020-49-shaped-shaping-up/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -259,8 +371,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2020/12/cccxviii-14-cpan-great-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2020/12/cdxlv-metacpan-weekly-report-plack.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2020/12/cdlxx-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2020.12.05</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2020/12/cccxix-12-cpan-great-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2020/12/cdxlvi-metacpan-weekly-report.html">MetaCPAN weekly report</a>;]]></description>
+            <pubDate>2020.12.12</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -274,11 +386,11 @@
         </item>
         
         <item>
-            <title><![CDATA[New Year's Resolution - every month]]></title>
-            <description><![CDATA[I just realized I could use my monthly report to have a new month's resolution and then even if after 2-3 weeks I abandon the commitments, the following month they can start again. Possibly in a new direction.]]></description>
-            <pubDate>2020.12.02</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/new-years-resolution-every-month.html</guid>
-            <link>https://szabgab.com/new-years-resolution-every-month.html</link>
+            <title><![CDATA[Perl Dancer Course]]></title>
+            <description><![CDATA[I started it 10 days ago. It was not easy, but so far I have managed to make some progress and record at least one video every day. In the last week, my two courses were the <a href="https://leanpub.com/bookstore?type=course">best seller courses</a> on Leanpub. I am quite happy with that and I hope they will remain there for the next week as well.]]></description>
+            <pubDate>2020.12.14</pubDate>
+            <guid isPermaLink="false">https://leanpub.com/c/dancer</guid>
+            <link>https://leanpub.com/c/dancer</link>
             
             
             
@@ -290,31 +402,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Starship Mongers]]></title>
-            <description><![CDATA[Wednesday, December 9, 2020; 5:30 PM EST]]></description>
-            <pubDate>2020.12.09</pubDate>
-            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrybcqbmb/</guid>
-            <link>https://www.meetup.com/hacklafayette/events/jdxwsrybcqbmb/</link>
+            <title><![CDATA[Python Programming Bootcamp for Scientists]]></title>
+            <description><![CDATA[This is an introduction to Python for people who have no programming background. It includes the basics and some tools that are needed for Data Science. I teach this course at the <a href="https://www.weizmann.ac.il/">Weizmann Institute of Science</a>. The link here is a coupon that will give a deep discount in the next couple of days. Leanpub offers a 45-day, money-back guarantee.]]></description>
+            <pubDate>2020.12.06</pubDate>
+            <guid isPermaLink="false">https://leanpub.com/c/bootcamp/c/pw20201207</guid>
+            <link>https://leanpub.com/c/bootcamp/c/pw20201207</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Charlotte Perl Mongers - Collective Voice: Web Application Development with Perl Dancer]]></title>
-            <description><![CDATA[Wednesday, December 9, 2020; 6:00 PM EST]]></description>
-            <pubDate>2020.12.09</pubDate>
-            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/events/275011889/</guid>
-            <link>https://www.meetup.com/charlotte-pm/events/275011889/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -359,6 +455,22 @@
             <pubDate>2021.01.07</pubDate>
             <guid isPermaLink="false">https://www.meetup.com/SVPerl/events/vsxdwrycccbkb/</guid>
             <link>https://www.meetup.com/SVPerl/events/vsxdwrycccbkb/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Derrick Talks renv - Purdue Perl Mongers]]></title>
+            <description><![CDATA[Wednesday, January 13, 2021; 5:30 PM EST]]></description>
+            <pubDate>2021.01.13</pubDate>
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrycccbrb/</guid>
+            <link>https://www.meetup.com/hacklafayette/events/jdxwsrycccbrb/</link>
             
             
             
