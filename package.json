@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "art-template": "^4.13.2",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "dayjs": "^1.9.3",
     "request": "^2.88.2"
   }
