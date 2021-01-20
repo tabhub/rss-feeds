@@ -27,9 +27,5 @@ jobs:
             git config --global user.name "TabHub Bot"
             git add .
             git commit -m "Update Perl Weekly data"
+            git push origin main
         fi
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
