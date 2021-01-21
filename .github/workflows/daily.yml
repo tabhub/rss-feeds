@@ -1,9 +1,8 @@
 name: daily-update
 
-on: [ push ]
-
-  # schedule:
-  #   - cron: "1 0 * * *"
+on:
+  schedule:
+    - cron: "*/5 * * * *"
 
 jobs:
   hackernews-daily:
