@@ -2,7 +2,7 @@ name: daily-update
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/7 * * * *"
 
 jobs:
   hackernews-daily:
