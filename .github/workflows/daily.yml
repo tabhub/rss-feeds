@@ -1,8 +1,6 @@
 name: daily-update
 
-on:
-  push:
-    branches: [ main ]
+on: [ push ]
 
   # schedule:
   #   - cron: "1 0 * * *"
