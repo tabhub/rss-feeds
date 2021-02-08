@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #497]]></title>
+        <title><![CDATA[Perl Weekly #498]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[perl.com hijacked]]></title>
-            <description><![CDATA[The perl.com domain was hijacked. Work is underway to attempt to recover the domain to Tom Christiansen, the rightful registrant.  If you're looking for the content, you can visit <a href="https://perldotcom.perl.org/">perldotcom.perl.org</a> which is a <a href="https://www.reddit.com/r/perl/comments/l7bwn5/perldotcomperlorg_is_a_temporary_host_for_perlcom/">temporary host</a>. <a href="https://www.reddit.com/r/perl/comments/l73998/perlcom_a_1994_domain_has_been_stolen_by_busy/">report</a> and <a href="https://www.reddit.com/r/perl/comments/l6d8ws/perlcom_unfriendly_domain_take_over/">discuss</a> and also on <a href="https://news.ycombinator.com/item?id=25940240">Hacker news</a>.]]></description>
-            <pubDate>2021.01.27</pubDate>
-            <guid isPermaLink="false">https://log.perl.org/2021/01/perlcom-hijacked.html</guid>
-            <link>https://log.perl.org/2021/01/perlcom-hijacked.html</link>
+            <title><![CDATA[MySQL Tuner]]></title>
+            <description><![CDATA[Dean shared the news of a maintenance release of MySQL Tuner v1.7.21.]]></description>
+            <pubDate>2021.02.05</pubDate>
+            <guid isPermaLink="false">https://github.com/major/MySQLTuner-perl</guid>
+            <link>https://github.com/major/MySQLTuner-perl</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2 0.300005 Released]]></title>
-            <description><![CDATA[A bunch of small new features, enhancements, and bug fixes. The announcement even mentions my little contribution, setting up GitHub Actions for Continuous Integration.]]></description>
-            <pubDate>2021.01.26</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/jason_a_crome/2021/01/dancer2-0300005-released.html</guid>
-            <link>http://blogs.perl.org/users/jason_a_crome/2021/01/dancer2-0300005-released.html</link>
-            
-            
-            
-            <author><![CDATA[jason_crome]]></author>
+            <author><![CDATA[dean_hamstead]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Release 1.50 of perl-workflow]]></title>
-            <description><![CDATA[Workflow - A Simple, flexible system to implement workflows. Written in Perl.]]></description>
-            <pubDate>2021.01.30</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/release-1-50-of-perl-workflow-2a1h</guid>
-            <link>https://dev.to/jonasbn/release-1-50-of-perl-workflow-2a1h</link>
+            <title><![CDATA[Writing a Perl Core Feature]]></title>
+            <description><![CDATA[Leo sharing his thoughts about contributing to Perl.]]></description>
+            <pubDate>2021.02.01</pubDate>
+            <guid isPermaLink="false">https://leonerds-code.blogspot.com/2021/02/writing-perl-core-feature.html</guid>
+            <link>https://leonerds-code.blogspot.com/2021/02/writing-perl-core-feature.html</link>
             
             
             
-            <author><![CDATA[jonas_nielsen]]></author>
+            <author><![CDATA[paul_evans]]></author>
             
                 
             
@@ -66,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Better Perl with subroutine signatures and type validation]]></title>
-            <description><![CDATA[Though they are still marked as 'experimental', function signatures have been around for more than 6 years now! To comment visit the <a href="https://dev.to/mjgardner/better-perl-with-subroutine-signatures-and-type-validation-2bck">dev.to</a> copy of the article or <a href="https://www.reddit.com/r/perl/comments/l6gdub/better_perl_with_subroutine_signatures_and_type/">reddit</a>]]></description>
-            <pubDate>2021.01.27</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/index.php/2021/01/27/better-perl-with-subroutine-signatures-and-type-validation/</guid>
-            <link>https://phoenixtrap.com/index.php/2021/01/27/better-perl-with-subroutine-signatures-and-type-validation/</link>
+            <title><![CDATA[Shuffling my playlist with Perl and quantum mechanics]]></title>
+            <description><![CDATA[Bartosz again flexing his muscles and showing a cool tool built using CPAN module.]]></description>
+            <pubDate>2021.02.05</pubDate>
+            <guid isPermaLink="false">https://dev.to/brtastic/shuffling-my-playlist-with-perl-and-quantum-mechanics-4e0f</guid>
+            <link>https://dev.to/brtastic/shuffling-my-playlist-with-perl-and-quantum-mechanics-4e0f</link>
+            
+            
+            
+            <author><![CDATA[bartosz_jarzyna]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[5 Ways You Can Embrace the Magic of Perl]]></title>
+            <description><![CDATA[Another gem of an article by Mark. Nothing new but I still find it fresh and crispy.]]></description>
+            <pubDate>2021.02.05</pubDate>
+            <guid isPermaLink="false">https://dev.to/mjgardner/5-ways-you-can-embrace-the-magic-of-perl-1j11</guid>
+            <link>https://dev.to/mjgardner/5-ways-you-can-embrace-the-magic-of-perl-1j11</link>
             
             
             
@@ -82,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Trouble with Reference Counting]]></title>
-            <description><![CDATA[Perl uses a simple form of garbage collection (GC) called reference counting. Every variable created by a Perl program has a refcnt associated with it. If the program creates a reference to the variable, Perl increments its refcnt. Whenever Perl exits a block it reclaims any variables that belong to the block scope. If any are references, their referenced values' refcnt are either decremented or they're reclaimed as well if no other references to them remain.]]></description>
-            <pubDate>2021.01.25</pubDate>
-            <guid isPermaLink="false">https://perldotcom.perl.org/article/the-trouble-with-reference-counting/</guid>
-            <link>https://perldotcom.perl.org/article/the-trouble-with-reference-counting/</link>
+            <title><![CDATA[Monthly Report - January]]></title>
+            <description><![CDATA[Continuing the tradition, here is my last month's report.]]></description>
+            <pubDate>2021.02.02</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/mohammad_s_anwar/2021/02/monthly-report---january-2.html</guid>
+            <link>http://blogs.perl.org/users/mohammad_s_anwar/2021/02/monthly-report---january-2.html</link>
             
             
             
-            <author><![CDATA[david_farrell]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -98,15 +98,351 @@
         </item>
         
         <item>
-            <title><![CDATA[How to replace a column in a CSV file using Perl]]></title>
-            <description><![CDATA[It is quite simple using Test::CSV, but if your file is simple you can also solve this by using split and join.]]></description>
-            <pubDate>2021.01.26</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/replace-a-column-in-a-csv-file</guid>
-            <link>https://perlmaven.com/replace-a-column-in-a-csv-file</link>
+            <title><![CDATA[Perl, Unicode, and Bytes]]></title>
+            <description><![CDATA[Felipe explained the secret of Unicode and Bytes with regard to Perl.]]></description>
+            <pubDate>2021.01.29</pubDate>
+            <guid isPermaLink="false">https://dev.to/fgasper/perl-unicode-and-bytes-5cg7</guid>
+            <link>https://dev.to/fgasper/perl-unicode-and-bytes-5cg7</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[felipe_gasper]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AoC 2017/12 - Rediscovering Union-Find]]></title>
+            <description><![CDATA[Union-Find algorithm implemented in Perl.]]></description>
+            <pubDate>2021.02.02</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/02/aoc2017-12-rediscovering-union-find/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/02/02/aoc2017-12-rediscovering-union-find/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[xmpl - an example web application]]></title>
+            <description><![CDATA[A web application to demonstrate a persistent key-value store.]]></description>
+            <pubDate>2021.02.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/05/xmpl/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/02/05/xmpl/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[xmpl - the key/value API]]></title>
+            <description><![CDATA[Explore the model behind the API for xmpl web application.]]></description>
+            <pubDate>2021.02.06</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/06/xmpl-kv-api/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/02/06/xmpl-kv-api/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Managing notes with Request Tracker]]></title>
+            <description><![CDATA[Bartosz sharing his experiences managing notes with Request Tracker.]]></description>
+            <pubDate>2021.01.31</pubDate>
+            <guid isPermaLink="false">https://brtastic.xyz/blog/article/managing-notes-with-rt</guid>
+            <link>https://brtastic.xyz/blog/article/managing-notes-with-rt</link>
+            
+            
+            
+            <author><![CDATA[bartosz_jarzyna]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Weekly Challenge - 099]]></title>
+            <description><![CDATA[Welcome to a new week with a couple of fun tasks "Pattern Match" and "Unique Subsequence". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read <a href="https://perlweeklychallenge.org/faq">FAQ</a> page.]]></description>
+            <pubDate>2021.02.08</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-099</guid>
+            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-099</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RECAP - The Weekly Challenge - 098]]></title>
+            <description><![CDATA[Enjoy a quick recap of last week's contributions by Team PWC dealing with the "Read N-characters" and "Search Insert Position" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
+            <pubDate>2021.02.08</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-098</guid>
+            <link>https://perlweeklychallenge.org/blog/recap-challenge-098</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Review - Perl Weekly Challenge - 096]]></title>
+            <description><![CDATA[Perl Solutions Review by Colin Crain.]]></description>
+            <pubDate>2021.02.08</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/review-challenge-096</guid>
+            <link>https://perlweeklychallenge.org/blog/review-challenge-096</link>
+            
+            
+            
+            <author><![CDATA[colin_crain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 98]]></title>
+            <description><![CDATA[Get ready for more Raku magic from Aaron.]]></description>
+            <pubDate>2021.02.06</pubDate>
+            <guid isPermaLink="false">https://aaronreidsmith.github.io/blog/perl-weekly-challenge-098/</guid>
+            <link>https://aaronreidsmith.github.io/blog/perl-weekly-challenge-098/</link>
+            
+            
+            
+            <author><![CDATA[aaron_smith]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 098]]></title>
+            <description><![CDATA[Cool example of using closures to deal with the readN() task.]]></description>
+            <pubDate>2021.02.06</pubDate>
+            <guid isPermaLink="false">http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/02/06</guid>
+            <link>http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/02/06</link>
+            
+            
+            
+            <author><![CDATA[adam_russell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Challenge 098]]></title>
+            <description><![CDATA[Welcome back with Raku solution for the readN() task.]]></description>
+            <pubDate>2021.02.02</pubDate>
+            <guid isPermaLink="false">https://andinus.tilde.institute/pwc/challenge-098/</guid>
+            <link>https://andinus.tilde.institute/pwc/challenge-098/</link>
+            
+            
+            
+            <author><![CDATA[andinus]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Read 'n' Search with Raku and Perl]]></title>
+            <description><![CDATA[Arne once again dealing with Perl and Raku. You are going to love his discussion of the readN() task.]]></description>
+            <pubDate>2021.02.06</pubDate>
+            <guid isPermaLink="false">https://raku-musings.com/read-n-search.html</guid>
+            <link>https://raku-musings.com/read-n-search.html</link>
+            
+            
+            
+            <author><![CDATA[arne_sommer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Practicin’ the Three ‘R’s, Hummin’ an’ Homin’ in on Home]]></title>
+            <description><![CDATA[Colin made the readN() task more fun by dealing with multi-bytes unicode. Highly Recommended.]]></description>
+            <pubDate>2021.02.06</pubDate>
+            <guid isPermaLink="false">https://colincrain.com/2021/02/06/practicin-the-three-rs-hummin-an-homin-in-on-home/</guid>
+            <link>https://colincrain.com/2021/02/06/practicin-the-three-rs-hummin-an-homin-in-on-home/</link>
+            
+            
+            
+            <author><![CDATA[colin_crain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Various Positions: Perl Weekly Challenge #98]]></title>
+            <description><![CDATA[Dave shared interesting aspects of dealing with a state hash for the readN() task.]]></description>
+            <pubDate>2021.02.01</pubDate>
+            <guid isPermaLink="false">https://jacoby.github.io/2021/02/01/various-positions-perl-weekly-challenge-98.html</guid>
+            <link>https://jacoby.github.io/2021/02/01/various-positions-perl-weekly-challenge-98.html</link>
+            
+            
+            
+            <author><![CDATA[dave_jacoby]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC098 - Read N-characters]]></title>
+            <description><![CDATA[You don't want to miss the Questions section followed by the solution. Great work.]]></description>
+            <pubDate>2021.02.03</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/03/pwc098-readn/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/02/03/pwc098-readn/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC098 - Search Insert Position]]></title>
+            <description><![CDATA[Flavio seems to have endless energy to carry on blogging on daily basis for months. The best part is that the quality is top of the range.]]></description>
+            <pubDate>2021.02.04</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/04/pwc098-search-insert-position/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/02/04/pwc098-search-insert-position/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 98: Read N-Characters and Search Insert Position]]></title>
+            <description><![CDATA[A last-minute submission by Laurent is well worth the wait. Plenty of choices dealing with the readN() task.]]></description>
+            <pubDate>2021.02.08</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/laurent_r/2021/02/perl-weekly-challenge-98-read-n-characters-and-search-insert-position.html</guid>
+            <link>http://blogs.perl.org/users/laurent_r/2021/02/perl-weekly-challenge-98-read-n-characters-and-search-insert-position.html</link>
+            
+            
+            
+            <author><![CDATA[laurent_rosenfeld]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 98: reading chars and inserting in array]]></title>
+            <description><![CDATA[Luca kept the discussion to the point. Simple and easy to follow.]]></description>
+            <pubDate>2021.02.01</pubDate>
+            <guid isPermaLink="false">https://fluca1978.github.io/2021/02/01/PerlWeeklyChallenge98.html</guid>
+            <link>https://fluca1978.github.io/2021/02/01/PerlWeeklyChallenge98.html</link>
+            
+            
+            
+            <author><![CDATA[luca_ferrari]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 98: Insert N]]></title>
+            <description><![CDATA[Roger used a state variable for the readN() task. As every week, you get to enjoy Python, Ruby and Rust.]]></description>
+            <pubDate>2021.02.05</pubDate>
+            <guid isPermaLink="false">https://blog.firedrake.org/archive/2021/02/Perl_Weekly_Challenge_98__Insert_N.html</guid>
+            <link>https://blog.firedrake.org/archive/2021/02/Perl_Weekly_Challenge_98__Insert_N.html</link>
+            
+            
+            
+            <author><![CDATA[roger_bell_west]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Weekly Challenge 098]]></title>
+            <description><![CDATA[Simon correctly pointed out that the readN() task should have been task #2 as it turned out to be harder than task #2. He nailed it in the end.]]></description>
+            <pubDate>2021.02.06</pubDate>
+            <guid isPermaLink="false">https://dev.to/simongreennet/weekly-challenge-098-235h</guid>
+            <link>https://dev.to/simongreennet/weekly-challenge-098-235h</link>
+            
+            
+            
+            <author><![CDATA[simon_green]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 98]]></title>
+            <description><![CDATA[Luis making use of Functional Programming to deal with the readN() task.]]></description>
+            <pubDate>2021.02.01</pubDate>
+            <guid isPermaLink="false">https://wlmb.github.io/2021/02/01/PWC098/</guid>
+            <link>https://wlmb.github.io/2021/02/01/PWC098/</link>
+            
+            
+            
+            <author><![CDATA[luis_mochan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2021.05 GSoC Proposing]]></title>
+            <description><![CDATA[2021.05 GSoC Proposing]]></description>
+            <pubDate>2021.02.01</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/02/01/2021-05-gsoc-proposing/</guid>
+            <link>https://rakudoweekly.blog/2021/02/01/2021-05-gsoc-proposing/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,8 +451,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/01/cccxxvi-17-cpan-great-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/01/cdlii-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/01/cdlxxvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.01.30</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/02/cccxxvii-13-cpan-great-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/02/cdliii-metacpan-weekly-report.html">MetaCPAN weekly report</a>]]></description>
+            <pubDate>2021.02.06</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -130,11 +466,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Courses]]></title>
-            <description><![CDATA[There are currently 4 Perl courses you can get one-by-one, all of them in a single bundle using a one-time payment or a monthly subscription.]]></description>
-            <pubDate>2021.01.31</pubDate>
-            <guid isPermaLink="false">https://courses.code-maven.com/p/perl</guid>
-            <link>https://courses.code-maven.com/p/perl</link>
+            <title><![CDATA[Live learning / Live coding]]></title>
+            <description><![CDATA[I am a very late adopter, people have been doing this for a long time, but finally I also started it. I started streaming while I explore new things and write code. You can see the recordings and you can follow me on Twitch (and then you can set it up to send you alerts when I start streaming). I plan to stream frequently in two timeslots. Around 08:00 UTC and 18:00 UTC. I'd love to see you follow me and join me in some of the sessions.]]></description>
+            <pubDate>2021.02.08</pubDate>
+            <guid isPermaLink="false">https://www.twitch.tv/szabgab</guid>
+            <link>https://www.twitch.tv/szabgab</link>
             
             
             
@@ -146,11 +482,27 @@
         </item>
         
         <item>
-            <title><![CDATA[What to do now?]]></title>
-            <description><![CDATA[Just trying to figure out priorities.]]></description>
-            <pubDate>2021.01.26</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/what-to-do-now.html</guid>
-            <link>https://szabgab.com/what-to-do-now.html</link>
+            <title><![CDATA[Open learning and coding session]]></title>
+            <description><![CDATA[A little background from a few days ago when I was still only thinking about starting to stream why I learn and explore new things and while I develop applications or contribute to Open Source projects. Since then I reached 30 followers on <a href="https://www.twitch.tv/szabgab">Twitch</a>. Nice start.]]></description>
+            <pubDate>2021.02.04</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/open-coding-session.html</guid>
+            <link>https://szabgab.com/open-coding-session.html</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Exploring BDD in Perl - using Test::BDD::Cucumber - part 1]]></title>
+            <description><![CDATA[This was my first stream and it was not kept on Twitch, but you can see it here.]]></description>
+            <pubDate>2021.02.04</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/exploring-bdd-in-perl-1</guid>
+            <link>https://perlmaven.com/exploring-bdd-in-perl-1</link>
             
             
             
