@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #499]]></title>
+        <title><![CDATA[Perl Weekly #500]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Perl and Raku Conference in the Cloud 2021 ]]></title>
-            <description><![CDATA[It is scheduled to be online between 9-11 June 2021.]]></description>
-            <pubDate>2021.02.12</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/savethedatetprc2021</guid>
-            <link>https://news.perlfoundation.org/post/savethedatetprc2021</link>
+            <title><![CDATA[rt.cpan.org is staying]]></title>
+            <description><![CDATA[Ricardo shared the good news with us.]]></description>
+            <pubDate>2021.02.19</pubDate>
+            <guid isPermaLink="false">https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259168.html</guid>
+            <link>https://www.nntp.perl.org/group/perl.perl5.porters/2021/02/msg259168.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[berrybrew version 1.33 released!]]></title>
-            <description><![CDATA[berrybrew allows you to build and install your own versions of Perl on MS Windows. I personally don't know why you would need this unless you are writing some Perl code for Windows so I'd love to hear from people who use berrybrew - in what situation do you need it?]]></description>
-            <pubDate>2021.02.12</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/steve_bertrand/2021/02/berrybrew-version-133-released.html</guid>
-            <link>http://blogs.perl.org/users/steve_bertrand/2021/02/berrybrew-version-133-released.html</link>
-            
-            
-            
-            <author><![CDATA[steve_bertrand]]></author>
+            <author><![CDATA[ricardo_signes]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Announcing Mojolicious 9.0]]></title>
-            <description><![CDATA[The highlights: Mojolicious now requires Perl version 5.16. Integration of Async/Await. Focus on Containerization and Cloud Deployments. Documentation Improvements. Routing (and Rendering):  Mojolicious now prevents applications from using reserved placeholders in routes. Logging: Mojolicious now is capable of sanely using a contextual logger. Mojolicious now comes with proxy helpers. Mojo::DOM CSS selector to conditionally match an element based on a property of its children.]]></description>
-            <pubDate>2021.02.14</pubDate>
-            <guid isPermaLink="false">https://mojolicious.io/blog/2021/02/14/announcing-mojolicious-9-0/</guid>
-            <link>https://mojolicious.io/blog/2021/02/14/announcing-mojolicious-9-0/</link>
+            <title><![CDATA[Better Perl: More on signatures and types]]></title>
+            <description><![CDATA[Mark continued playing with method signatures.]]></description>
+            <pubDate>2021.02.16</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/index.php/2021/02/16/better-perl-more-on-signatures-and-types/</guid>
+            <link>https://phoenixtrap.com/index.php/2021/02/16/better-perl-more-on-signatures-and-types/</link>
             
             
             
-            <author><![CDATA[joel_berger]]></author>
+            <author><![CDATA[mark_gardner]]></author>
             
                 
             
@@ -66,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Check links programmatically (with Perl)]]></title>
-            <description><![CDATA[Using LWP::UserAgent handling lots of HTTP error codes.]]></description>
-            <pubDate>2021.02.08</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/check-links-programmatically-with-perl-1a14</guid>
-            <link>https://dev.to/thibaultduponchelle/check-links-programmatically-with-perl-1a14</link>
+            <title><![CDATA[To help Perl, just blog]]></title>
+            <description><![CDATA[Find out how blogging can help to promote Perl.]]></description>
+            <pubDate>2021.02.17</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/to-help-perl-just-blog-9h4</guid>
+            <link>https://dev.to/thibaultduponchelle/to-help-perl-just-blog-9h4</link>
             
             
             
@@ -82,11 +66,203 @@
         </item>
         
         <item>
-            <title><![CDATA[xmpl - on-file key/value store]]></title>
-            <description><![CDATA[We will take a closer look at the implementation of an on-file key/value store in xmpl. This post is part of a series.]]></description>
-            <pubDate>2021.02.08</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/08/xmpl-kv-file/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/02/08/xmpl-kv-file/</link>
+            <title><![CDATA[Setup Mojolicious using Vagrant]]></title>
+            <description><![CDATA[Detailed guide to setting up Mojolicious using Vagrant.]]></description>
+            <pubDate>2021.02.16</pubDate>
+            <guid isPermaLink="false">https://ashutosh.dev/blog/post/2021/02/setup-mojolicious-using-vagrant</guid>
+            <link>https://ashutosh.dev/blog/post/2021/02/setup-mojolicious-using-vagrant</link>
+            
+            
+            
+            <author><![CDATA[ashutosh_kukreti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[An easy way to use WebSockets?]]></title>
+            <description><![CDATA[An interesting use case for WebSockets.]]></description>
+            <pubDate>2021.02.21</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/karjala/2021/02/an-easy-way-to-use-websockets.html</guid>
+            <link>http://blogs.perl.org/users/karjala/2021/02/an-easy-way-to-use-websockets.html</link>
+            
+            
+            
+            <author><![CDATA[karjala]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Weekly Challenge - 101]]></title>
+            <description><![CDATA[Welcome to a new week with a couple of fun tasks "Pack a Spiral" and "Origin-containing Triangle". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read <a href="https://perlweeklychallenge.org/faq">FAQ</a> page.]]></description>
+            <pubDate>2021.02.22</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-101</guid>
+            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-101</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RECAP - The Weekly Challenge - 100]]></title>
+            <description><![CDATA[Enjoy a quick recap of last week's contributions by Team PWC dealing with the "Fun Time" and "Triangle Sum" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
+            <pubDate>2021.02.22</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-100</guid>
+            <link>https://perlweeklychallenge.org/blog/recap-challenge-100</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 100]]></title>
+            <description><![CDATA[Aaron is becoming a master of the one-liner in Perl. It is always fun to decode his code.]]></description>
+            <pubDate>2021.02.20</pubDate>
+            <guid isPermaLink="false">https://aaronreidsmith.github.io/blog/perl-weekly-challenge-100/</guid>
+            <link>https://aaronreidsmith.github.io/blog/perl-weekly-challenge-100/</link>
+            
+            
+            
+            <author><![CDATA[aaron_smith]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 100: Fun Time]]></title>
+            <description><![CDATA[Abigail shows his one-liner skill with great detail.]]></description>
+            <pubDate>2021.02.21</pubDate>
+            <guid isPermaLink="false">https://programmingblog702692439.wordpress.com/2021/02/21/perl-weekly-challenge-100-fun-time/</guid>
+            <link>https://programmingblog702692439.wordpress.com/2021/02/21/perl-weekly-challenge-100-fun-time/</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 100: Triangle Sum]]></title>
+            <description><![CDATA[Abigail's use of map to read the input numbers is interesting.]]></description>
+            <pubDate>2021.02.21</pubDate>
+            <guid isPermaLink="false">https://programmingblog702692439.wordpress.com/2021/02/21/perl-weekly-challenge-100-triangle-sum/</guid>
+            <link>https://programmingblog702692439.wordpress.com/2021/02/21/perl-weekly-challenge-100-triangle-sum/</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Weekly Challenge 100]]></title>
+            <description><![CDATA[Adam also shows his regex skill while dealing with this week's task.]]></description>
+            <pubDate>2021.02.21</pubDate>
+            <guid isPermaLink="false">http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/02/21</guid>
+            <link>http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/02/21</link>
+            
+            
+            
+            <author><![CDATA[adam_russell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Challenge 100]]></title>
+            <description><![CDATA[Andinus use of Grammar is a great example.]]></description>
+            <pubDate>2021.02.20</pubDate>
+            <guid isPermaLink="false">https://andinus.tilde.institute/pwc/challenge-100/</guid>
+            <link>https://andinus.tilde.institute/pwc/challenge-100/</link>
+            
+            
+            
+            <author><![CDATA[andinus]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Fun Sum Time with Raku and Perl]]></title>
+            <description><![CDATA[As always, Arne's blog post is full of Raku tricks. You don't want to miss it.]]></description>
+            <pubDate>2021.02.20</pubDate>
+            <guid isPermaLink="false">https://raku-musings.com/fun-sum-time.html</guid>
+            <link>https://raku-musings.com/fun-sum-time.html</link>
+            
+            
+            
+            <author><![CDATA[arne_sommer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Time Traveling Under Pyramid Power]]></title>
+            <description><![CDATA[Colin uses modulo to solve the fun time task; a very different approach.]]></description>
+            <pubDate>2021.02.20</pubDate>
+            <guid isPermaLink="false">https://colincrain.com/2021/02/20/time-traveling-under-pyramid-power/</guid>
+            <link>https://colincrain.com/2021/02/20/time-traveling-under-pyramid-power/</link>
+            
+            
+            
+            <author><![CDATA[colin_crain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Turning Over A New Digit: Perl Weekly Challenge #100]]></title>
+            <description><![CDATA[Dave's contribution is always verbose and his blog posts explain every minute detail.]]></description>
+            <pubDate>2021.02.16</pubDate>
+            <guid isPermaLink="false">https://jacoby.github.io/2021/02/16/turning-over-a-new-digit-perl-weekly-challenge-100.html</guid>
+            <link>https://jacoby.github.io/2021/02/16/turning-over-a-new-digit-perl-weekly-challenge-100.html</link>
+            
+            
+            
+            <author><![CDATA[dave_jacoby]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC100 - Fun Time]]></title>
+            <description><![CDATA[Flavio's beautifully laid out solution is very pleasing.]]></description>
+            <pubDate>2021.02.17</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/17/pwc100-fun-time/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/02/17/pwc100-fun-time/</link>
             
             
             
@@ -98,11 +274,11 @@
         </item>
         
         <item>
-            <title><![CDATA[xmpl - remote key/value store]]></title>
-            <description><![CDATA[We will take a closer look at the implementation of a remote key/value store in xmpl. This post is part of a series.]]></description>
-            <pubDate>2021.02.09</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/09/xmpl-kv-remote/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/02/09/xmpl-kv-remote/</link>
+            <title><![CDATA[PWC100 - Triangle Sum]]></title>
+            <description><![CDATA[I enjoy the story behind the solution. The solution itself is so trivial.]]></description>
+            <pubDate>2021.02.18</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/18/pwc100-triangle-sum/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/02/18/pwc100-triangle-sum/</link>
             
             
             
@@ -114,15 +290,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Check links with HTTP::Simple]]></title>
-            <description><![CDATA[Rewrite with HTTP::Simple; Exceptions and status; the Final code]]></description>
-            <pubDate>2021.02.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/check-links-with-http-simple-perl-3bhh</guid>
-            <link>https://dev.to/thibaultduponchelle/check-links-with-http-simple-perl-3bhh</link>
+            <title><![CDATA[Perl weekly challenge 100]]></title>
+            <description><![CDATA[James turned out to be a big fan of Perl one-liners. I loved his code.]]></description>
+            <pubDate>2021.02.16</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/james_curtis-smith/2021/02/perl-weekly-challenge-100.html</guid>
+            <link>http://blogs.perl.org/users/james_curtis-smith/2021/02/perl-weekly-challenge-100.html</link>
             
             
             
-            <author><![CDATA[thibault_duponchelle]]></author>
+            <author><![CDATA[james_smith]]></author>
             
                 
             
@@ -130,11 +306,123 @@
         </item>
         
         <item>
-            <title><![CDATA[Send data to Elasticsearch using Perl LWP::UserAgent]]></title>
-            <description><![CDATA[Just a code snippet using LWP::UserAgent to POST data]]></description>
-            <pubDate>2021.02.12</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/send-data-to-elasticsearch</guid>
-            <link>https://perlmaven.com/send-data-to-elasticsearch</link>
+            <title><![CDATA[pErLM for the Perl Weekly Challenge 100]]></title>
+            <description><![CDATA[Lance promotes TDD with great precision. Thanks for the kind words.]]></description>
+            <pubDate>2021.02.18</pubDate>
+            <guid isPermaLink="false">https://perl.kiwi/tales/2021/02/18/perlm-for-the-perl-weekly-challenge-100/</guid>
+            <link>https://perl.kiwi/tales/2021/02/18/perlm-for-the-perl-weekly-challenge-100/</link>
+            
+            
+            
+            <author><![CDATA[lance_wicks]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 100 part 2]]></title>
+            <description><![CDATA[Lance presented us a double bonus this week, thank you.]]></description>
+            <pubDate>2021.02.20</pubDate>
+            <guid isPermaLink="false">https://perl.kiwi/tales/2021/02/20/perl_weekly_challenge_100_part_2/</guid>
+            <link>https://perl.kiwi/tales/2021/02/20/perl_weekly_challenge_100_part_2/</link>
+            
+            
+            
+            <author><![CDATA[lance_wicks]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 100: Fun Time and Triangle Sum]]></title>
+            <description><![CDATA[Laurent's modular approach is always very elegant. Thanks for sharing.]]></description>
+            <pubDate>2021.02.21</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/laurent_r/2021/02/perl-weekly-challenge-100-fun-time-and-triangle-sum.html</guid>
+            <link>http://blogs.perl.org/users/laurent_r/2021/02/perl-weekly-challenge-100-fun-time-and-triangle-sum.html</link>
+            
+            
+            
+            <author><![CDATA[laurent_rosenfeld]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 100: times and triangles]]></title>
+            <description><![CDATA[Luca shares his Raku skill and presented some Raku magic.]]></description>
+            <pubDate>2021.02.15</pubDate>
+            <guid isPermaLink="false">https://fluca1978.github.io/2021/02/15/PerlWeeklyChallenge100.html</guid>
+            <link>https://fluca1978.github.io/2021/02/15/PerlWeeklyChallenge100.html</link>
+            
+            
+            
+            <author><![CDATA[luca_ferrari]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 100: Time Triangle]]></title>
+            <description><![CDATA[It is pretty evident that Roger doesn't like Perl one-liners. He came up with detailed solution as always.]]></description>
+            <pubDate>2021.02.18</pubDate>
+            <guid isPermaLink="false">https://blog.firedrake.org/archive/2021/02/Perl_Weekly_Challenge_100__Time_Triangle.html</guid>
+            <link>https://blog.firedrake.org/archive/2021/02/Perl_Weekly_Challenge_100__Time_Triangle.html</link>
+            
+            
+            
+            <author><![CDATA[roger_bell_west]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Weekly Challenge 100]]></title>
+            <description><![CDATA[Simon came up with a cryptic one-liner. Decoding one-liners is always fun.]]></description>
+            <pubDate>2021.02.15</pubDate>
+            <guid isPermaLink="false">https://dev.to/simongreennet/weekly-challenge-100-4lf6</guid>
+            <link>https://dev.to/simongreennet/weekly-challenge-100-4lf6</link>
+            
+            
+            
+            <author><![CDATA[simon_green]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 100]]></title>
+            <description><![CDATA[Luis' one-liner is easily decodable and does the job.]]></description>
+            <pubDate>2021.02.15</pubDate>
+            <guid isPermaLink="false">https://wlmb.github.io/2021/02/15/PWC100/</guid>
+            <link>https://wlmb.github.io/2021/02/15/PWC100/</link>
+            
+            
+            
+            <author><![CDATA[luis_mochan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[List::GroupBy]]></title>
+            <description><![CDATA[List::GroupBy is a small module converting a list of hashes to some multi-level hash tabele. This is a code-reading video.]]></description>
+            <pubDate>2021.02.17</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/list-groupby</guid>
+            <link>https://perlmaven.com/list-groupby</link>
             
             
             
@@ -146,31 +434,15 @@
         </item>
         
         <item>
-            <title><![CDATA[xmpl - the API for browsers]]></title>
-            <description><![CDATA[We will take a closer look at the implementation of the API available to the browsers in xmpl. This post is part of a series.]]></description>
-            <pubDate>2021.02.12</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/12/xmpl-browser-api/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/02/12/xmpl-browser-api/</link>
+            <title><![CDATA[Carp::Always to find the source of the problem]]></title>
+            <description><![CDATA[In Perl warn and die tell us where a problem was noticed. carp and croak tell us where it was created.]]></description>
+            <pubDate>2021.02.18</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/carp-always</guid>
+            <link>https://perlmaven.com/carp-always</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Better Perl: Subroutine Signatures and Type Validation presentation slides]]></title>
-            <description><![CDATA[Better Perl: Subroutine Signatures and Type Validation presentation slides]]></description>
-            <pubDate>2021.02.12</pubDate>
-            <guid isPermaLink="false">https://dev.to/mjgardner/better-perl-subroutine-signatures-and-type-validation-presentation-slides-4ag3</guid>
-            <link>https://dev.to/mjgardner/better-perl-subroutine-signatures-and-type-validation-presentation-slides-4ag3</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -178,79 +450,15 @@
         </item>
         
         <item>
-            <title><![CDATA[xmpl - the "healthz" API]]></title>
-            <description><![CDATA[A closer look at the implementation of the “healthz” API in xmpl. This is a series of posts.]]></description>
-            <pubDate>2021.02.13</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/13/xmpl-healthz-api/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/02/13/xmpl-healthz-api/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Who you gonna call? Perl client and website for Google Civic Information API]]></title>
-            <description><![CDATA[Nick released <a href="https://metacpan.org/release/Net-Google-CivicInformation">Net-Google-CivicInformation</a> a client for the Google Civic API for the USA. He also created a web site located at <a href="https://contactmyreps.com">Contact my reps</a> and made the <a href="https://github.com/1nickt/ContactMyReps">source code of it</a> available to all of us to read and learn from.]]></description>
-            <pubDate>2021.02.07</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/1nickt/2021/02/who-you-gonna-call-perl-client-and-website-for-google-civic-information-api.html</guid>
-            <link>http://blogs.perl.org/users/1nickt/2021/02/who-you-gonna-call-perl-client-and-website-for-google-civic-information-api.html</link>
-            
-            
-            
-            <author><![CDATA[1nickt]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Switching up my switches in Perl]]></title>
-            <description><![CDATA[Using the for statement as a topicalizer, which is a fancy way of saying it assigns its expression to $_.]]></description>
+            <title><![CDATA[2021.07 Easy | Hard]]></title>
+            <description><![CDATA[2021.07 Easy | Hard]]></description>
             <pubDate>2021.02.15</pubDate>
-            <guid isPermaLink="false">https://dev.to/mjgardner/switching-up-my-switches-in-perl-3875</guid>
-            <link>https://dev.to/mjgardner/switching-up-my-switches-in-perl-3875</link>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/02/15/2021-07-easy-hard/</guid>
+            <link>https://rakudoweekly.blog/2021/02/15/2021-07-easy-hard/</link>
             
             
             
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The hidden gem of Perl advent calendars of 2020 ]]></title>
-            <description><![CDATA[A selection of best-of]]></description>
-            <pubDate>2021.02.14</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-hidden-gem-of-perl-advent-calendars-of-2020-1988</guid>
-            <link>https://dev.to/thibaultduponchelle/the-hidden-gem-of-perl-advent-calendars-of-2020-1988</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[xmpl - the metrics API]]></title>
-            <description><![CDATA[A closer look at the implementation of the metrics API in xmpl. This is a series of posts.]]></description>
-            <pubDate>2021.02.14</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/02/14/xmpl-metrics-api/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/02/14/xmpl-metrics-api/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -259,8 +467,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/02/cccxxviii-11-cpan-great-modules.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/02/cdliv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/02/cdlxxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.02.13</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/02/cccxxix-19-cpan-great-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/02/cdlv-metacpan-weekly-report-teng.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/02/cdlxxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.02.20</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -274,11 +482,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Live streaming while coding]]></title>
-            <description><![CDATA[Live streaming while I learn something new to me or while I try to implement something is a really interesting concept, especially when people start commenting on how I can do it better. If you are interested, sign up to Twitch, follow my channel and also turn on notifications so you'll know when I am starting to stream. For example soon I am going to work on turning a simple script into a daemon and then I'll continue working on a <a href="https://gitlab.com/szabgab/app-gitlab-runner">Dancer-based front-end to GitLab CI</a>.]]></description>
-            <pubDate>2021.02.14</pubDate>
-            <guid isPermaLink="false">https://www.twitch.tv/szabgab</guid>
-            <link>https://www.twitch.tv/szabgab</link>
+            <title><![CDATA[Add FAQ entry to MetaCPAN]]></title>
+            <description><![CDATA[Some of the distributions on CPAN are marked as 'looking for maintainer'. <a href="https://metacpan.org/pod/Test::Class">Test::Class</a> displayed this message, so I asked for it and became the maintainer of that module. Then came the question, how can I remove the notifiaction about the need for a maintainer. In this video you will see how to add this explanation to the <a href="https://metacpan.org/about/faq#howtoadoptadistribution">FAQ</a> of MetaCPAN and then how to add a link from the notification banner to this entry in the FAQ.]]></description>
+            <pubDate>2021.02.18</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/add-faq-to-metacpan</guid>
+            <link>https://perlmaven.com/add-faq-to-metacpan</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rex]]></title>
+            <description><![CDATA[Ferki taught me a few things about <a href="https://www.rexify.org/">Rex</a> and now we are planning a live session in which he is going to teach me a lot more. Follow my <a href="https://www.twitch.tv/szabgab">Twitch</a> channel to get notified.]]></description>
+            <pubDate>2021.02.17</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/rex</guid>
+            <link>https://perlmaven.com/rex</link>
             
             
             
