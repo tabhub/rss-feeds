@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #504]]></title>
+        <title><![CDATA[Perl Weekly #505]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Dancer2 0.301000 Released]]></title>
-            <description><![CDATA[Happy to see my favourite distribution is being looked after with love.]]></description>
-            <pubDate>2021.03.15</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/jason_a_crome/2021/03/dancer2-0301000-released.html</guid>
-            <link>http://blogs.perl.org/users/jason_a_crome/2021/03/dancer2-0301000-released.html</link>
+            <title><![CDATA[Mininet topology visualization with Graphviz]]></title>
+            <description><![CDATA[Mininet topology visualization with Graphviz]]></description>
+            <pubDate>2021.03.23</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/03/23/mininet-graphviz-topology/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/03/23/mininet-graphviz-topology/</link>
             
             
             
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2 REST API]]></title>
-            <description><![CDATA[A complete REST API implementation using Dancer2.]]></description>
-            <pubDate>2021.03.18</pubDate>
-            <guid isPermaLink="false">https://github.com/manwar/Dancer2-REST-API</guid>
-            <link>https://github.com/manwar/Dancer2-REST-API</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Relatively easy ways to catch memory errors]]></title>
-            <description><![CDATA[Memory management is something that never get talk about frequently. Nice to see it is back on the discussion table.]]></description>
-            <pubDate>2021.03.15</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/ben_bullock/2021/03/relatively-easy-ways-to-catch-memory-errors.html</guid>
-            <link>http://blogs.perl.org/users/ben_bullock/2021/03/relatively-easy-ways-to-catch-memory-errors.html</link>
+            <title><![CDATA[Perl v5.34 new features]]></title>
+            <description><![CDATA[Perl v5.34 is scheduled to come out in May. Here’s what you can look forward to.]]></description>
+            <pubDate>2021.03.24</pubDate>
+            <guid isPermaLink="false">https://www.effectiveperlprogramming.com/2021/03/perl-v5-34-new-features/</guid>
+            <link>https://www.effectiveperlprogramming.com/2021/03/perl-v5-34-new-features/</link>
             
             
             
-            <author><![CDATA[ben_bullock]]></author>
+            <author><![CDATA[brian_d_foy]]></author>
             
                 
             
@@ -66,11 +50,107 @@
         </item>
         
         <item>
-            <title><![CDATA[Better Perl: Using map and grep]]></title>
-            <description><![CDATA[A very interesting discussion about two of the most useful functions in Perl.]]></description>
-            <pubDate>2021.03.16</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/03/16/perl_map_grep/</guid>
-            <link>https://phoenixtrap.com/2021/03/16/perl_map_grep/</link>
+            <title><![CDATA[Specify octal numbers with the 0o prefix]]></title>
+            <description><![CDATA[Specify octal numbers with the 0o prefix]]></description>
+            <pubDate>2021.03.24</pubDate>
+            <guid isPermaLink="false">https://www.effectiveperlprogramming.com/2021/03/specify-octal-numbers-with-the-0o-prefix/</guid>
+            <link>https://www.effectiveperlprogramming.com/2021/03/specify-octal-numbers-with-the-0o-prefix/</link>
+            
+            
+            
+            <author><![CDATA[brian_d_foy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl animated game. Playing with Perl, Inline C++ and SDL2 (part 2!)]]></title>
+            <description><![CDATA[It is nice to see someone actually playing with Perl. And in public!]]></description>
+            <pubDate>2021.03.24</pubDate>
+            <guid isPermaLink="false">https://dev.to/ibrierley/perl-animated-game-playing-with-perl-inline-c-and-sdl2-part-2-ocg</guid>
+            <link>https://dev.to/ibrierley/perl-animated-game-playing-with-perl-inline-c-and-sdl2-part-2-ocg</link>
+            
+            
+            
+            <author><![CDATA[ibrierley]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA["My half-life with Perl" from OSCON 2013 live encore performance]]></title>
+            <description><![CDATA[Unfortunately the video is not available to me.]]></description>
+            <pubDate>2021.03.21</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/randal_l_schwartz/2021/03/my-half-life-with-perl-from-oscon-2013-live-encore-performance.html</guid>
+            <link>http://blogs.perl.org/users/randal_l_schwartz/2021/03/my-half-life-with-perl-from-oscon-2013-live-encore-performance.html</link>
+            
+            
+            
+            <author><![CDATA[randal_schwartz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Subject Verb Object notation; declarative Perl without the framework]]></title>
+            <description><![CDATA[Interesting and possibly scary. I can't decide if I like this. Read <a href="https://www.reddit.com/r/perl/comments/md8o82/subject_verb_object_notation_declarative_perl/">more discussion</a> about it]]></description>
+            <pubDate>2021.03.23</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/jesse_shy/2021/03/subject-verb-object-notation-declarative-perl-without-the-framework.html</guid>
+            <link>http://blogs.perl.org/users/jesse_shy/2021/03/subject-verb-object-notation-declarative-perl-without-the-framework.html</link>
+            
+            
+            
+            <author><![CDATA[jesse_shy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Efficient programming]]></title>
+            <description><![CDATA[A few notes from someone dealing with a 20-years old code-base.]]></description>
+            <pubDate>2021.03.26</pubDate>
+            <guid isPermaLink="false">https://dev.to/davehodg/efficient-programming-5g54</guid>
+            <link>https://dev.to/davehodg/efficient-programming-5g54</link>
+            
+            
+            
+            <author><![CDATA[david_hodgkinson]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Data::HexDump::XXD]]></title>
+            <description><![CDATA[... and at first I thought Flavio is talking about <a href="https://xkcd.com/">xkcd</a>...]]></description>
+            <pubDate>2021.03.28</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/03/28/xxd/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/03/28/xxd/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl and XML in 2021: A few lessons learned]]></title>
+            <description><![CDATA[XML was always a scary thing to deal with. Very enterprisey. Full of bloat. But what can you do if that's what you get? You have to deal with it. Discuss it on <a href="https://dev.to/mjgardner/perl-and-xml-in-2021-a-few-lessons-learned-5dp8">dev.to</a> or on <a href="https://www.reddit.com/r/perl/comments/merpsn/perl_and_xml_in_2021_a_few_lessons_learned/">Reddit</a>]]></description>
+            <pubDate>2021.03</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/03/27/perl-and-xml-in-2021-a-few-lessons-learned/</guid>
+            <link>https://phoenixtrap.com/2021/03/27/perl-and-xml-in-2021-a-few-lessons-learned/</link>
             
             
             
@@ -82,11 +162,11 @@
         </item>
         
         <item>
-            <title><![CDATA[teepee]]></title>
-            <description><![CDATA[Quick introduction to teepee.]]></description>
-            <pubDate>2021.03.16</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/03/16/teepee/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/03/16/teepee/</link>
+            <title><![CDATA[Crypt::LE update]]></title>
+            <description><![CDATA[Crypt::LE update]]></description>
+            <pubDate>2021.03.29</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/03/29/crypt-le-update/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/03/29/crypt-le-update/</link>
             
             
             
@@ -98,223 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Weekly Challenge - 105]]></title>
-            <description><![CDATA[Welcome to a new week with a couple of fun tasks "nth root" and "The Name Game". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read <a href="https://perlweeklychallenge.org/faq">FAQ</a> page.]]></description>
-            <pubDate>2021.03.22</pubDate>
-            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-105</guid>
-            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-105</link>
+            <title><![CDATA[Migrate to Mojolicious 9 - Quick feedback]]></title>
+            <description><![CDATA[Migrate to Mojolicious 9 - Quick feedback]]></description>
+            <pubDate>2021.03.25</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/migrate-to-mojolicious-9-quick-feedback-23c6</guid>
+            <link>https://dev.to/thibaultduponchelle/migrate-to-mojolicious-9-quick-feedback-23c6</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RECAP - The Weekly Challenge - 104]]></title>
-            <description><![CDATA[Enjoy a quick recap of last week's contributions by Team PWC dealing with the "FUSC Sequence" and "The NIM Game" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
-            <pubDate>2021.03.22</pubDate>
-            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-104</guid>
-            <link>https://perlweeklychallenge.org/blog/recap-challenge-104</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 104]]></title>
-            <description><![CDATA[Aaron shared some Raku magic with such ease; reading his code is such fun.]]></description>
-            <pubDate>2021.03.21</pubDate>
-            <guid isPermaLink="false">https://aaronreidsmith.github.io/blog/perl-weekly-challenge-104/</guid>
-            <link>https://aaronreidsmith.github.io/blog/perl-weekly-challenge-104/</link>
-            
-            
-            
-            <author><![CDATA[aaron_smith]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 104: FUSC Sequence]]></title>
-            <description><![CDATA[Abigail pushes the bar so high, it's impossible to catch up. Highly recommended.]]></description>
-            <pubDate>2021.03.21</pubDate>
-            <guid isPermaLink="false">https://programmingblog702692439.wordpress.com/2021/03/21/perl-weekly-challenge-104-fusc-sequence/</guid>
-            <link>https://programmingblog702692439.wordpress.com/2021/03/21/perl-weekly-challenge-104-fusc-sequence/</link>
-            
-            
-            
-            <author><![CDATA[abigail]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 104: NIM Game]]></title>
-            <description><![CDATA[Abigail's solution to the NIM game became a tutorial for multiple languages. Please check it out yourself.]]></description>
-            <pubDate>2021.03.21</pubDate>
-            <guid isPermaLink="false">https://programmingblog702692439.wordpress.com/2021/03/21/perl-weekly-challenge-104-nim-game/</guid>
-            <link>https://programmingblog702692439.wordpress.com/2021/03/21/perl-weekly-challenge-104-nim-game/</link>
-            
-            
-            
-            <author><![CDATA[abigail]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Nimbly Fuscous with Raku]]></title>
-            <description><![CDATA[Arne has been very creative with his blog post's title. I love the way he discusses his solutions. Must Read.]]></description>
-            <pubDate>2021.03.21</pubDate>
-            <guid isPermaLink="false">https://raku-musings.com/nimbly-fuscous.html</guid>
-            <link>https://raku-musings.com/nimbly-fuscous.html</link>
-            
-            
-            
-            <author><![CDATA[arne_sommer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FUSCing Tokens: Perl Weekly Challenge 104]]></title>
-            <description><![CDATA[Dave is always first with solutions and a blog post. I wonder how he manages to do it so quickly.]]></description>
-            <pubDate>2021.03.15</pubDate>
-            <guid isPermaLink="false">https://jacoby.github.io/2021/03/15/fuscing-tokens-perl-weekly-challenge-104.html</guid>
-            <link>https://jacoby.github.io/2021/03/15/fuscing-tokens-perl-weekly-challenge-104.html</link>
-            
-            
-            
-            <author><![CDATA[dave_jacoby]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PWC104 - FUSC Sequence]]></title>
-            <description><![CDATA[Flavio making good use of the bit operator to get the job done. Interesting.]]></description>
-            <pubDate>2021.03.17</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/03/17/pwc104-fusc-sequence/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/03/17/pwc104-fusc-sequence/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PWC104 - NIM Game]]></title>
-            <description><![CDATA[Interactive game by Flavio. Have fun.]]></description>
-            <pubDate>2021.03.18</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/03/18/pwc104-nim-game/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/03/18/pwc104-nim-game/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge: Week 104]]></title>
-            <description><![CDATA[Welcome back, Jaldhar. It is always fun to read your blog.]]></description>
-            <pubDate>2021.03.21</pubDate>
-            <guid isPermaLink="false">https://www.braincells.com/perl/2021/03/perl_weekly_challenge_week_104.html</guid>
-            <link>https://www.braincells.com/perl/2021/03/perl_weekly_challenge_week_104.html</link>
-            
-            
-            
-            <author><![CDATA[jaldhar_vyas]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl weekly challenge 104]]></title>
-            <description><![CDATA[James spoilt us with different variations of FUSC sequence. Keep it up.]]></description>
-            <pubDate>2021.03.16</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/james_curtis-smith/2021/03/perl-weekly-challenge-104.html</guid>
-            <link>http://blogs.perl.org/users/james_curtis-smith/2021/03/perl-weekly-challenge-104.html</link>
-            
-            
-            
-            <author><![CDATA[james_smith]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 104: recursion and picking]]></title>
-            <description><![CDATA[Luca as always shared Raku magic like samewith().]]></description>
-            <pubDate>2021.03.15</pubDate>
-            <guid isPermaLink="false">https://fluca1978.github.io/2021/03/15/PerlWeeklyChallenge104.html</guid>
-            <link>https://fluca1978.github.io/2021/03/15/PerlWeeklyChallenge104.html</link>
-            
-            
-            
-            <author><![CDATA[luca_ferrari]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 104: Fusc Sequence and NIM Game]]></title>
-            <description><![CDATA[Laureent is back with a bang and this time you get guest contributions too.]]></description>
-            <pubDate>2021.03.16</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/laurent_r/2021/03/perl-weekly-challenge-104-fusc-sequence-and-nim-game.html</guid>
-            <link>http://blogs.perl.org/users/laurent_r/2021/03/perl-weekly-challenge-104-fusc-sequence-and-nim-game.html</link>
-            
-            
-            
-            <author><![CDATA[laurent_rosenfeld]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 104: FUSC NIM]]></title>
-            <description><![CDATA[Roger tried recursion and caching to deal with FUSC sequence in not just Perl and Raku, but also Python, Ruby and Rust.]]></description>
-            <pubDate>2021.03.16</pubDate>
-            <guid isPermaLink="false">https://blog.firedrake.org/archive/2021/03/Perl_Weekly_Challenge_104__FUSC_NIM.html</guid>
-            <link>https://blog.firedrake.org/archive/2021/03/Perl_Weekly_Challenge_104__FUSC_NIM.html</link>
-            
-            
-            
-            <author><![CDATA[roger_bell_west]]></author>
+            <author><![CDATA[thibault_duponchelle]]></author>
             
                 
             
@@ -338,15 +210,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.11 Two Year Itch]]></title>
-            <description><![CDATA[2021.11 Two Year Itch]]></description>
-            <pubDate>2021.03.15</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/03/15/2021-11-two-year-itch/</guid>
-            <link>https://rakudoweekly.blog/2021/03/15/2021-11-two-year-itch/</link>
+            <title><![CDATA[unzip using Archive::Any of Perl]]></title>
+            <description><![CDATA[unzip using Archive::Any of Perl]]></description>
+            <pubDate>2021.03.25</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/unzip</guid>
+            <link>https://perlmaven.com/unzip</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -355,8 +227,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/03/cccxxxiii-14-cpan-great-modules.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/03/cdlix-metacpan-weekly-report-gdgraph.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/03/cdlxxxii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.03.20</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/03/cccxxxiv-20-cpan-great-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/03/cdlx-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/03/cdlxxxiii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.03.27</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -370,27 +242,11 @@
         </item>
         
         <item>
-            <title><![CDATA[German Perl Workshop 2021]]></title>
-            <description><![CDATA[It will take place online between March 24-26 2021. A private ticket will be cheaper (EUR 30). People who register in time and pay the participation fee, will get exclusive extras.]]></description>
-            <pubDate>2021.03.24</pubDate>
-            <guid isPermaLink="false">https://act.yapc.eu/gpw2021</guid>
-            <link>https://act.yapc.eu/gpw2021</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toronto Perl Mongers Online Meeting]]></title>
-            <description><![CDATA[Thursday, March 25, 2021]]></description>
-            <pubDate>2021.03.25</pubDate>
-            <guid isPermaLink="false">https://www.meetup.com/Toronto-Perl-Mongers/</guid>
-            <link>https://www.meetup.com/Toronto-Perl-Mongers/</link>
+            <title><![CDATA[Charlotte Perl Mongers - Presenting Mojolicious Nine Point Oh!]]></title>
+            <description><![CDATA[Wednesday, March 31, 2021]]></description>
+            <pubDate>2021.03.31</pubDate>
+            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/</guid>
+            <link>https://www.meetup.com/charlotte-pm/</link>
             
             
             
@@ -439,6 +295,22 @@
             <pubDate>2021.04.14</pubDate>
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
             <link>https://www.meetup.com/hacklafayette/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toronto Perl Mongers Online Meeting]]></title>
+            <description><![CDATA[Thursday, April 22, 2021]]></description>
+            <pubDate>2021.04.22</pubDate>
+            <guid isPermaLink="false">https://www.meetup.com/Toronto-Perl-Mongers/</guid>
+            <link>https://www.meetup.com/Toronto-Perl-Mongers/</link>
             
             
             
