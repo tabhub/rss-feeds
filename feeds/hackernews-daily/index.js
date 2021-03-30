@@ -28,7 +28,7 @@ const run = async (date, num) => {
           link: url,
           author: author,
           pubDate: created_at,
-          description: `${points} points | ${num_comments} comments`
+          description: `${points} points | <a href=https://news.ycombinator.com/item?id=${objectID} target=_blank>${num_comments} comments</a>`
         };
       })
     };

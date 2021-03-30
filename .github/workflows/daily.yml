@@ -1,6 +1,7 @@
 name: daily-update
 
 on:
+  push:
   schedule:
     - cron: "1 0 * * *"
 
