@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Whistleblower: Ubiquiti Breach “Catastrophic”]]></title>
-            <description><![CDATA[1036 points | <a href=https://news.ycombinator.com/item?id=26638145 target=_blank>469 comments</a>]]></description>
-            <pubDate>2021-03-30T18:11:49.000Z</pubDate>
-            <guid isPermaLink="false">https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/</guid>
-            <link>https://krebsonsecurity.com/2021/03/whistleblower-ubiquiti-breach-catastrophic/</link>
+            <title><![CDATA[Inside a viral website]]></title>
+            <description><![CDATA[638 points | <a href=https://news.ycombinator.com/item?id=26645813 target=_blank>252 comments</a>]]></description>
+            <pubDate>2021-03-31T11:16:53.000Z</pubDate>
+            <guid isPermaLink="false">https://notfunatparties.substack.com/p/inside-a-viral-website</guid>
+            <link>https://notfunatparties.substack.com/p/inside-a-viral-website</link>
             
             
             
-            <author><![CDATA[parsecs]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA['Fake' Amazon workers defend company on Twitter]]></title>
-            <description><![CDATA[671 points | <a href=https://news.ycombinator.com/item?id=26636021 target=_blank>327 comments</a>]]></description>
-            <pubDate>2021-03-30T15:48:13.000Z</pubDate>
-            <guid isPermaLink="false">https://www.bbc.com/news/technology-56581266</guid>
-            <link>https://www.bbc.com/news/technology-56581266</link>
-            
-            
-            
-            <author><![CDATA[alexrustic]]></author>
+            <author><![CDATA[panic]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Voltswagen of America]]></title>
-            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=26634857 target=_blank>552 comments</a>]]></description>
-            <pubDate>2021-03-30T14:17:38.000Z</pubDate>
-            <guid isPermaLink="false">https://media.vw.com/en-us/releases/1499</guid>
-            <link>https://media.vw.com/en-us/releases/1499</link>
+            <title><![CDATA[Android's new Bluetooth stack rewrite (Gabeldorsh) is written with Rust]]></title>
+            <description><![CDATA[508 points | <a href=https://news.ycombinator.com/item?id=26647981 target=_blank>311 comments</a>]]></description>
+            <pubDate>2021-03-31T14:46:03.000Z</pubDate>
+            <guid isPermaLink="false">https://android.googlesource.com/platform/system/bt/+/master/gd/rust/</guid>
+            <link>https://android.googlesource.com/platform/system/bt/+/master/gd/rust/</link>
             
             
             
-            <author><![CDATA[throwaway4good]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Let’s fix font size]]></title>
-            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=26633148 target=_blank>183 comments</a>]]></description>
-            <pubDate>2021-03-30T10:59:23.000Z</pubDate>
-            <guid isPermaLink="false">https://tonsky.me/blog/font-size/</guid>
-            <link>https://tonsky.me/blog/font-size/</link>
-            
-            
-            
-            <author><![CDATA[rhabarba]]></author>
+            <author><![CDATA[nicoburns]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Google collects 20 times more telemetry from Android devices than Apple from iOS]]></title>
-            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=26639261 target=_blank>254 comments</a>]]></description>
-            <pubDate>2021-03-30T19:32:45.000Z</pubDate>
-            <guid isPermaLink="false">https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/</guid>
-            <link>https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/</link>
+            <title><![CDATA[What I learnt after burning $10M as an entrepreneur]]></title>
+            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=26643608 target=_blank>232 comments</a>]]></description>
+            <pubDate>2021-03-31T04:44:52.000Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/awilkinson/status/1376985854229504007</guid>
+            <link>https://twitter.com/awilkinson/status/1376985854229504007</link>
             
             
             
-            <author><![CDATA[gormandizer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Unsplash is being acquired by Getty Images]]></title>
-            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=26634113 target=_blank>215 comments</a>]]></description>
-            <pubDate>2021-03-30T13:06:33.000Z</pubDate>
-            <guid isPermaLink="false">https://unsplash.com/blog/unsplash-getty/</guid>
-            <link>https://unsplash.com/blog/unsplash-getty/</link>
-            
-            
-            
-            <author><![CDATA[baptlac]]></author>
+            <author><![CDATA[dsr12]]></author>
             
                 
             
@@ -114,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Icecream: Never use print() to debug again in Python]]></title>
-            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=26631467 target=_blank>242 comments</a>]]></description>
-            <pubDate>2021-03-30T05:22:58.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/gruns/icecream</guid>
-            <link>https://github.com/gruns/icecream</link>
+            <title><![CDATA[UP: A tool for writing Linux pipes with instant live preview]]></title>
+            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=26644110 target=_blank>75 comments</a>]]></description>
+            <pubDate>2021-03-31T06:28:36.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/akavel/up</guid>
+            <link>https://github.com/akavel/up</link>
             
             
             
-            <author><![CDATA[polm23]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PayPal launches crypto checkout service]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=26633698 target=_blank>183 comments</a>]]></description>
-            <pubDate>2021-03-30T12:15:29.000Z</pubDate>
-            <guid isPermaLink="false">https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N</guid>
-            <link>https://www.reuters.com/article/us-crypto-currency-paypal-exclusive-idUSKBN2BM10N</link>
-            
-            
-            
-            <author><![CDATA[JulianRaphael]]></author>
+            <author><![CDATA[ducktective]]></author>
             
                 
             
@@ -146,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple’s Worldwide Developers Conference is back in its all-online format]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=26634101 target=_blank>121 comments</a>]]></description>
-            <pubDate>2021-03-30T13:05:13.000Z</pubDate>
-            <guid isPermaLink="false">https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/</guid>
-            <link>https://www.apple.com/newsroom/2021/03/apples-worldwide-developers-conference-is-back-in-its-all-online-format/</link>
+            <title><![CDATA[Apple's Cooperation with Authoritarian Governments]]></title>
+            <description><![CDATA[441 points | <a href=https://news.ycombinator.com/item?id=26644216 target=_blank>266 comments</a>]]></description>
+            <pubDate>2021-03-31T06:50:52.000Z</pubDate>
+            <guid isPermaLink="false">https://www.jessesquires.com/blog/2021/03/30/apple-cooperation-with-authoritarian-governments/</guid>
+            <link>https://www.jessesquires.com/blog/2021/03/30/apple-cooperation-with-authoritarian-governments/</link>
             
             
             
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Breakthrough for ‘massless’ energy storage]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=26633038 target=_blank>141 comments</a>]]></description>
-            <pubDate>2021-03-30T10:40:47.000Z</pubDate>
-            <guid isPermaLink="false">https://www.chalmers.se/en/departments/ims/news/Pages/Big-breakthrough-for-’massless’-energy-storage.aspx</guid>
-            <link>https://www.chalmers.se/en/departments/ims/news/Pages/Big-breakthrough-for-’massless’-energy-storage.aspx</link>
-            
-            
-            
-            <author><![CDATA[reimertz]]></author>
+            <author><![CDATA[ig0r0]]></author>
             
                 
             
@@ -178,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Japan's cherry blossom 'earliest peak since records began']]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=26637065 target=_blank>108 comments</a>]]></description>
-            <pubDate>2021-03-30T16:54:41.000Z</pubDate>
-            <guid isPermaLink="false">https://www.bbc.com/news/world-asia-56574142</guid>
-            <link>https://www.bbc.com/news/world-asia-56574142</link>
+            <title><![CDATA[Turing Award goes to Aho and Ullman]]></title>
+            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=26646497 target=_blank>84 comments</a>]]></description>
+            <pubDate>2021-03-31T12:43:08.000Z</pubDate>
+            <guid isPermaLink="false">https://www.nytimes.com/2021/03/31/technology/turing-award-aho-ullman.html</guid>
+            <link>https://www.nytimes.com/2021/03/31/technology/turing-award-aho-ullman.html</link>
             
             
             
-            <author><![CDATA[onetimemanytime]]></author>
+            <author><![CDATA[jonstewart]]></author>
             
                 
             
@@ -194,15 +114,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Git email flow vs. GitHub flow]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=26629765 target=_blank>136 comments</a>]]></description>
-            <pubDate>2021-03-29T23:50:53.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.brixit.nl/git-email-flow-versus-github-flow/</guid>
-            <link>https://blog.brixit.nl/git-email-flow-versus-github-flow/</link>
+            <title><![CDATA[Copyright infringement by German contact tracing app]]></title>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=26644053 target=_blank>152 comments</a>]]></description>
+            <pubDate>2021-03-31T06:15:49.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/thesimj/jBaseZ85/issues/1</guid>
+            <link>https://github.com/thesimj/jBaseZ85/issues/1</link>
             
             
             
-            <author><![CDATA[pabs3]]></author>
+            <author><![CDATA[Tomte]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sublime Text 4 [video]]]></title>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=26646142 target=_blank>227 comments</a>]]></description>
+            <pubDate>2021-03-31T12:08:10.000Z</pubDate>
+            <guid isPermaLink="false">https://vimeo.com/529550701</guid>
+            <link>https://vimeo.com/529550701</link>
+            
+            
+            
+            <author><![CDATA[dsego]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hit songwriters ask pop stars to stop taking credit for songs they didn't write]]></title>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=26646629 target=_blank>304 comments</a>]]></description>
+            <pubDate>2021-03-31T12:55:00.000Z</pubDate>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-56587621</guid>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56587621</link>
+            
+            
+            
+            <author><![CDATA[mellosouls]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[BBC: The cost of speaking up against China (Uyghurs)]]></title>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=26642449 target=_blank>108 comments</a>]]></description>
+            <pubDate>2021-03-31T01:09:40.000Z</pubDate>
+            <guid isPermaLink="false">https://www.bbc.com/news/world-asia-china-56563449</guid>
+            <link>https://www.bbc.com/news/world-asia-china-56563449</link>
+            
+            
+            
+            <author><![CDATA[MichaelMoser123]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ask HN: I've realized I'm a bad software engineer and I'm over 30, what's next?]]></title>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=26647717 target=_blank>237 comments</a>]]></description>
+            <pubDate>2021-03-31T14:24:34.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=26647717</guid>
+            <link>https://news.ycombinator.com/item?id=26647717</link>
+            
+            
+            
+            <author><![CDATA[mxmpawn]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[YouTube to Remove Dislikes]]></title>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=26653200 target=_blank>252 comments</a>]]></description>
+            <pubDate>2021-03-31T21:07:03.000Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/YouTube/status/1376942486594150405</guid>
+            <link>https://twitter.com/YouTube/status/1376942486594150405</link>
+            
+            
+            
+            <author><![CDATA[Jerry2]]></author>
             
                 
             
