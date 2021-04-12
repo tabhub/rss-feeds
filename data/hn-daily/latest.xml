@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Everyone is still terrible at creating software at scale]]></title>
-            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=26759680 target=_blank>330 comments</a>]]></description>
-            <pubDate>2021-04-10T07:31:45.000Z</pubDate>
-            <guid isPermaLink="false">https://margint.blog/2021/04/05/creating-software-at-scale/</guid>
-            <link>https://margint.blog/2021/04/05/creating-software-at-scale/</link>
+            <title><![CDATA[Is It Pokemon or Big Data?]]></title>
+            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=26767835 target=_blank>64 comments</a>]]></description>
+            <pubDate>2021-04-11T06:05:08.000Z</pubDate>
+            <guid isPermaLink="false">http://pixelastic.github.io/pokemonorbigdata/</guid>
+            <link>http://pixelastic.github.io/pokemonorbigdata/</link>
             
             
             
-            <author><![CDATA[caspii]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Setting up Starlink]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=26760735 target=_blank>267 comments</a>]]></description>
-            <pubDate>2021-04-10T11:36:10.000Z</pubDate>
-            <guid isPermaLink="false">https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet</guid>
-            <link>https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet</link>
-            
-            
-            
-            <author><![CDATA[giuliomagnifico]]></author>
+            <author><![CDATA[sandebert]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Donation page "not compliant with Google Play Policies"]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=26761594 target=_blank>275 comments</a>]]></description>
-            <pubDate>2021-04-10T14:10:15.000Z</pubDate>
-            <guid isPermaLink="false">https://agateau.com/2021/google-does-not-want-you-to-tell-your-players-about-your-donation-page/</guid>
-            <link>https://agateau.com/2021/google-does-not-want-you-to-tell-your-players-about-your-donation-page/</link>
+            <title><![CDATA[Google’s lawyer accidentally made a sensitive document public]]></title>
+            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=26770209 target=_blank>105 comments</a>]]></description>
+            <pubDate>2021-04-11T13:27:08.000Z</pubDate>
+            <guid isPermaLink="false">https://mattstoller.substack.com/p/when-googles-fancy-lawyers-screw</guid>
+            <link>https://mattstoller.substack.com/p/when-googles-fancy-lawyers-screw</link>
             
             
             
-            <author><![CDATA[agateau]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ink 1.0 – Open-source scripting language for interactive narrative]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=26761100 target=_blank>47 comments</a>]]></description>
-            <pubDate>2021-04-10T12:49:37.000Z</pubDate>
-            <guid isPermaLink="false">https://www.inklestudios.com/2021/02/22/ink-version-1.html</guid>
-            <link>https://www.inklestudios.com/2021/02/22/ink-version-1.html</link>
-            
-            
-            
-            <author><![CDATA[Kinrany]]></author>
+            <author><![CDATA[PretzelFisch]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The patent troll that won a $308M jury trial against Apple]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=26757503 target=_blank>256 comments</a>]]></description>
-            <pubDate>2021-04-09T23:41:48.000Z</pubDate>
-            <guid isPermaLink="false">https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a</guid>
-            <link>https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a</link>
+            <title><![CDATA[AMA: Ivan Kutskir, creator of Photopea]]></title>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=26768550 target=_blank>249 comments</a>]]></description>
+            <pubDate>2021-04-11T08:24:33.000Z</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/</guid>
+            <link>https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/</link>
             
             
             
-            <author><![CDATA[ketamine__]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Best practices for writing SQL queries]]></title>
-            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=26762206 target=_blank>135 comments</a>]]></description>
-            <pubDate>2021-04-10T15:33:37.000Z</pubDate>
-            <guid isPermaLink="false">https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices</guid>
-            <link>https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices</link>
-            
-            
-            
-            <author><![CDATA[ReginaDeiPirati]]></author>
+            <author><![CDATA[ent101]]></author>
             
                 
             
@@ -114,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Brave disables Chromium FLoC features]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=26765084 target=_blank>169 comments</a>]]></description>
-            <pubDate>2021-04-10T21:01:31.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/brave/brave-core/pull/8468</guid>
-            <link>https://github.com/brave/brave-core/pull/8468</link>
+            <title><![CDATA[The Ponzi Career]]></title>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=26770562 target=_blank>168 comments</a>]]></description>
+            <pubDate>2021-04-11T14:26:49.000Z</pubDate>
+            <guid isPermaLink="false">https://www.drorpoleg.com/the-ponzi-career/</guid>
+            <link>https://www.drorpoleg.com/the-ponzi-career/</link>
             
             
             
-            <author><![CDATA[brunoluiz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Evaluating Modest SaaS Business Ideas]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=26763521 target=_blank>27 comments</a>]]></description>
-            <pubDate>2021-04-10T18:02:39.000Z</pubDate>
-            <guid isPermaLink="false">https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/</guid>
-            <link>https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/</link>
-            
-            
-            
-            <author><![CDATA[DanHulton]]></author>
+            <author><![CDATA[elsewhen]]></author>
             
                 
             
@@ -146,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Valve accused of ignoring existing RCE vulnerability in Source games for 2 years]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=26762170 target=_blank>92 comments</a>]]></description>
-            <pubDate>2021-04-10T15:30:23.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/the_secret_club/status/1380868759129296900</guid>
-            <link>https://twitter.com/the_secret_club/status/1380868759129296900</link>
+            <title><![CDATA[Clubhouse data leak: 1.3M user records leaked online for free]]></title>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=26768299 target=_blank>79 comments</a>]]></description>
+            <pubDate>2021-04-11T07:35:24.000Z</pubDate>
+            <guid isPermaLink="false">https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/</guid>
+            <link>https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/</link>
             
             
             
-            <author><![CDATA[mxscho]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ESP32-C6, a Wi-Fi 6 and Bluetooth 5 (LE) SoC]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=26758050 target=_blank>97 comments</a>]]></description>
-            <pubDate>2021-04-10T01:12:22.000Z</pubDate>
-            <guid isPermaLink="false">https://www.espressif.com/en/news/ESP32_C6</guid>
-            <link>https://www.espressif.com/en/news/ESP32_C6</link>
-            
-            
-            
-            <author><![CDATA[thedday]]></author>
+            <author><![CDATA[0xmohit]]></author>
             
                 
             
@@ -178,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Did you know you can put a whole game inside of a push notification]]></title>
-            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=26761474 target=_blank>39 comments</a>]]></description>
-            <pubDate>2021-04-10T13:48:41.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/neilsardesai/status/1380649026186534913</guid>
-            <link>https://twitter.com/neilsardesai/status/1380649026186534913</link>
+            <title><![CDATA[The Cursed Computer Iceberg Meme]]></title>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=26766722 target=_blank>56 comments</a>]]></description>
+            <pubDate>2021-04-11T01:06:59.000Z</pubDate>
+            <guid isPermaLink="false">https://suricrasia.online/iceberg/</guid>
+            <link>https://suricrasia.online/iceberg/</link>
             
             
             
-            <author><![CDATA[ig0r0]]></author>
+            <author><![CDATA[merlinscholz]]></author>
             
                 
             
@@ -194,15 +114,95 @@
         </item>
         
         <item>
-            <title><![CDATA[End of support for Firefox on Amazon devices]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=26761808 target=_blank>145 comments</a>]]></description>
-            <pubDate>2021-04-10T14:40:38.000Z</pubDate>
-            <guid isPermaLink="false">https://support.mozilla.org/en-US/kb/end-support-firefox-amazon-devices</guid>
-            <link>https://support.mozilla.org/en-US/kb/end-support-firefox-amazon-devices</link>
+            <title><![CDATA[A common mistake when NumPy’s RNG with PyTorch]]></title>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=26767441 target=_blank>49 comments</a>]]></description>
+            <pubDate>2021-04-11T04:14:50.000Z</pubDate>
+            <guid isPermaLink="false">https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/</guid>
+            <link>https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/</link>
             
             
             
-            <author><![CDATA[cozzyd]]></author>
+            <author><![CDATA[sunils34]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Making Librem 5 Apps [video]]]></title>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=26770486 target=_blank>161 comments</a>]]></description>
+            <pubDate>2021-04-11T14:11:10.000Z</pubDate>
+            <guid isPermaLink="false">https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/</guid>
+            <link>https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/</link>
+            
+            
+            
+            <author><![CDATA[ruph123]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cyber Attack on Iran's Nuclear Facility]]></title>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=26771224 target=_blank>277 comments</a>]]></description>
+            <pubDate>2021-04-11T15:56:49.000Z</pubDate>
+            <guid isPermaLink="false">https://www.bbc.com/news/world-middle-east-56708778</guid>
+            <link>https://www.bbc.com/news/world-middle-east-56708778</link>
+            
+            
+            
+            <author><![CDATA[stunt]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Economic Consequences of Increasing Sleep Among the Urban Poor]]></title>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=26767667 target=_blank>183 comments</a>]]></description>
+            <pubDate>2021-04-11T05:22:20.000Z</pubDate>
+            <guid isPermaLink="false">https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext</guid>
+            <link>https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext</link>
+            
+            
+            
+            <author><![CDATA[rustoo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Google used past bid data to boost win rate in advertising auctions]]></title>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=26767088 target=_blank>67 comments</a>]]></description>
+            <pubDate>2021-04-11T02:36:32.000Z</pubDate>
+            <guid isPermaLink="false">https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760</guid>
+            <link>https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760</link>
+            
+            
+            
+            <author><![CDATA[AaronFriel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MiSTer, an open-source FPGA gaming project]]></title>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=26772151 target=_blank>58 comments</a>]]></description>
+            <pubDate>2021-04-11T17:59:49.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/MiSTer-devel/Main_MiSTer/wiki</guid>
+            <link>https://github.com/MiSTer-devel/Main_MiSTer/wiki</link>
+            
+            
+            
+            <author><![CDATA[tediousdemise]]></author>
             
                 
             
