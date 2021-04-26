@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #508]]></title>
+        <title><![CDATA[Perl Weekly #509]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,107 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Dancer2 0.301002 Released]]></title>
-            <description><![CDATA[Jason shared the changes that the latest release of Dancer2 brought.]]></description>
-            <pubDate>2021.04.18</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/jason_a_crome/2021/04/dancer2-0301002-released.html</guid>
-            <link>http://blogs.perl.org/users/jason_a_crome/2021/04/dancer2-0301002-released.html</link>
-            
-            
-            
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PDL 2.037]]></title>
-            <description><![CDATA[Please check out the detailed changes that the latest release will bring.]]></description>
-            <pubDate>2021.04.16</pubDate>
-            <guid isPermaLink="false">https://sourceforge.net/p/pdl/mailman/message/37263352/</guid>
-            <link>https://sourceforge.net/p/pdl/mailman/message/37263352/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Steering Council]]></title>
-            <description><![CDATA[Neil shared the latest update with regard to the recent activities.]]></description>
-            <pubDate>2021.04.18</pubDate>
-            <guid isPermaLink="false">https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259929.html</guid>
-            <link>https://www.nntp.perl.org/group/perl.perl5.porters/2021/04/msg259929.html</link>
-            
-            
-            
-            <author><![CDATA[neil_bowers]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Google Season of Docs 2021 project proposals]]></title>
-            <description><![CDATA[The Perl Foundation has proposed a project to help improve Perl documentation.]]></description>
-            <pubDate>2021.04.18</pubDate>
-            <guid isPermaLink="false">https://github.com/Perl/perl5/wiki/Google-Season-of-Docs-2021-project-proposals</guid>
-            <link>https://github.com/Perl/perl5/wiki/Google-Season-of-Docs-2021-project-proposals</link>
-            
-            
-            
-            <author><![CDATA[jason_mcintosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Avoid CPAN conflicts in your personal Perl modules]]></title>
-            <description><![CDATA[Mark suggests how to deal with CPAN conflicts.]]></description>
-            <pubDate>2021.04.13</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/04/13/avoid-cpan-conflicts-in-your-personal-perl-modules/</guid>
-            <link>https://phoenixtrap.com/2021/04/13/avoid-cpan-conflicts-in-your-personal-perl-modules/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[6 months of blogging the onion]]></title>
-            <description><![CDATA[Thibault presents his blog contributions from the past six months.]]></description>
-            <pubDate>2021.04.16</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/6-months-of-blogging-the-onion-46i3</guid>
-            <link>https://dev.to/thibaultduponchelle/6-months-of-blogging-the-onion-46i3</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Another trick for PERL5LIB]]></title>
-            <description><![CDATA[Flavio shared a really useful trick dealing with PERL5LIB.]]></description>
-            <pubDate>2021.04.17</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/04/17/local-lib/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/04/17/local-lib/</link>
+            <title><![CDATA[All positive integer sums, as an iterator]]></title>
+            <description><![CDATA[All positive integer sums, as an iterator]]></description>
+            <pubDate>2021.04.19</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/04/19/all-positive-integer-sums-iterator/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/04/19/all-positive-integer-sums-iterator/</link>
             
             
             
@@ -130,43 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[#AdoptAPerlModule]]></title>
-            <description><![CDATA[Thibault shared the process of adopting a CPAN module.]]></description>
-            <pubDate>2021.04.14</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/adoptaperlmodule-2oh2</guid>
-            <link>https://dev.to/thibaultduponchelle/adoptaperlmodule-2oh2</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Key Perl Core developer quits]]></title>
-            <description><![CDATA[The Register published a news article about the recent news.]]></description>
-            <pubDate>2021.04.13</pubDate>
-            <guid isPermaLink="false">https://www.theregister.com/2021/04/13/perl_dev_quits</guid>
-            <link>https://www.theregister.com/2021/04/13/perl_dev_quits</link>
-            
-            
-            
-            <author><![CDATA[thomas_claburn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Course Management Application in Mojolicious - part 2]]></title>
-            <description><![CDATA[Course Management Application in Mojolicious - part 2]]></description>
-            <pubDate>2021.04.13</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/course-management-app-in-mojolicious-2</guid>
-            <link>https://perlmaven.com/course-management-app-in-mojolicious-2</link>
+            <title><![CDATA[Localizing dates in a Perl web application]]></title>
+            <description><![CDATA[It must be a lot of fun looking at text, even just dates in various languages and various character sets. And Mark did not even mention that if he wanted to use the Hebrew calendar then instead of Arabic numbers (0-9) that are used throughout the world (well except in Arabic :-), we use the Hebrew letters as numbers as well.]]></description>
+            <pubDate>2021.04.20</pubDate>
+            <guid isPermaLink="false">https://dev.to/mjgardner/localizing-dates-in-a-perl-web-application-180</guid>
+            <link>https://dev.to/mjgardner/localizing-dates-in-a-perl-web-application-180</link>
             
             
             
@@ -178,15 +50,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Counter using Dancer2 and Redis in a Docker container]]></title>
-            <description><![CDATA[Counter using Dancer2 and Redis in a Docker container]]></description>
-            <pubDate>2021.04.18</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/counter-dancer2-redis-docker</guid>
-            <link>https://perlmaven.com/counter-dancer2-redis-docker</link>
+            <title><![CDATA[All partitions of a set - preliminary considerations]]></title>
+            <description><![CDATA[All partitions of a set - preliminary considerations]]></description>
+            <pubDate>2021.04.20</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/04/20/all-partitions-preliminary/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/04/20/all-partitions-preliminary/</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Use Immutable Objects]]></title>
+            <description><![CDATA[The little I understand the state of programming, I think there is a trend going towards more immutable objects. In Perl there are not many such objects, even constants are just functions. So it will be interesting to see how this works out. Will having immutables reduce the bugs in our code as promised by many or will it just increase the complexity?]]></description>
+            <pubDate>2021.04.20</pubDate>
+            <guid isPermaLink="false">https://dev.to/ovid/use-immutable-objects-4pbl</guid>
+            <link>https://dev.to/ovid/use-immutable-objects-4pbl</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My unrealistic wish-list for Perl 7.x]]></title>
+            <description><![CDATA[My unrealistic wish-list for Perl 7.x]]></description>
+            <pubDate>2021.04.21</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/my-unrealistic-wish-list-for-perl-7-x-4pg9</guid>
+            <link>https://dev.to/thibaultduponchelle/my-unrealistic-wish-list-for-perl-7-x-4pg9</link>
+            
+            
+            
+            <author><![CDATA[thibault_duponchelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[All partitions of a set - rearranging addends]]></title>
+            <description><![CDATA[All partitions of a set - rearranging addends]]></description>
+            <pubDate>2021.04.23</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/04/23/all-partitions-rearranging-addends/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/04/23/all-partitions-rearranging-addends/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[An improved GUI for cme and Config::Model]]></title>
+            <description><![CDATA[An improved GUI for cme and Config::Model]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">https://ddumont.wordpress.com/2021/04/25/an-improved-gui-for-cme-and-configmodel/</guid>
+            <link>https://ddumont.wordpress.com/2021/04/25/an-improved-gui-for-cme-and-configmodel/</link>
+            
+            
+            
+            <author><![CDATA[dominique_dumont]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[All partitions of a set into same-sized subsets]]></title>
+            <description><![CDATA[All partitions of a set into same-sized subsets]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/04/25/all-partitions-equal-sets/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/04/25/all-partitions-equal-sets/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -195,7 +147,7 @@
         
         <item>
             <title><![CDATA[Course Management Application in Mojolicious - part 3]]></title>
-            <description><![CDATA[Course Management Application in Mojolicious - part 3]]></description>
+            <description><![CDATA[The 3rd part of the live coding series with Mark Gardner and Gabor Szabo. We get lots of good advice both during the live event and after. If you'd like to join us next time see the <a href="https://code-maven.com/live">schedule</a>.]]></description>
             <pubDate>2021.04.19</pubDate>
             <guid isPermaLink="false">https://perlmaven.com/course-management-app-in-mojolicious-3</guid>
             <link>https://perlmaven.com/course-management-app-in-mojolicious-3</link>
@@ -210,31 +162,255 @@
         </item>
         
         <item>
-            <title><![CDATA[Digital Ocean API using Perl]]></title>
-            <description><![CDATA[Digital Ocean API using Perl]]></description>
+            <title><![CDATA[The Weekly Challenge - 110]]></title>
+            <description><![CDATA[Welcome the new week with couple of fun tasks "Valid Phone Numbers" and "Transpose File". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read <a href="https://perlweeklychallenge.org/faq">FAQ</a> page.]]></description>
+            <pubDate>2021.04.26</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-110</guid>
+            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-110</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RECAP - The Weekly Challenge - 109]]></title>
+            <description><![CDATA[Enjoy a quick recap of last week contributions by Team PWC dealing with the "Chowla Numbers" and "Four Squares Puzzle" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
+            <pubDate>2021.04.26</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-109</guid>
+            <link>https://perlweeklychallenge.org/blog/recap-challenge-109</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 109]]></title>
+            <description><![CDATA[Don't forget to check out the 'Specific Comments' section. Always packed with cool magic.]]></description>
+            <pubDate>2021.04.24</pubDate>
+            <guid isPermaLink="false">https://aaronreidsmith.github.io/blog/perl-weekly-challenge-109/</guid>
+            <link>https://aaronreidsmith.github.io/blog/perl-weekly-challenge-109/</link>
+            
+            
+            
+            <author><![CDATA[aaron_smith]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 109: Chowla Numbers]]></title>
+            <description><![CDATA[Technical aspects of the task are discussed in details. Thanks Abigail.]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-109-1.html</guid>
+            <link>https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-109-1.html</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 109: Four Squares Puzzle]]></title>
+            <description><![CDATA[Again, there are plenty of different ways to deal with task discussed in this blog post.]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-109-2.html</guid>
+            <link>https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-109-2.html</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Chowla Numbers and Numbers in Boxes: The Weekly Challenge 109]]></title>
+            <description><![CDATA[I must thank Adam for keeping Prolog in the loop and giving us a glimpse of it.]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/04/25</guid>
+            <link>http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/04/25</link>
+            
+            
+            
+            <author><![CDATA[adam_russell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Chowla Squared with Raku and Perl]]></title>
+            <description><![CDATA[Arne once again not only shares his solution but also shows the internals as well. Keep it up.]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">https://raku-musings.com/chowla-squared.html</guid>
+            <link>https://raku-musings.com/chowla-squared.html</link>
+            
+            
+            
+            <author><![CDATA[arne_sommer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 109 solution]]></title>
+            <description><![CDATA[I loved the comparison between Perl and Python. You will definitely enjoy the discussion.]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">https://brtastic.xyz/blog/article/perl-weekly-109</guid>
+            <link>https://brtastic.xyz/blog/article/perl-weekly-109</link>
+            
+            
+            
+            <author><![CDATA[bartosz_jarzyna]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CY's Take on PWC#109]]></title>
+            <description><![CDATA[Cheok-Yin took the challenge to another level. You have to check it out yourself. Keep it up.]]></description>
+            <pubDate>2021.04.26</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/c_y_fung/2021/04/cys-take-on-pwc109.html</guid>
+            <link>http://blogs.perl.org/users/c_y_fung/2021/04/cys-take-on-pwc109.html</link>
+            
+            
+            
+            <author><![CDATA[cheok_fung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dividing Sums into Four Squares]]></title>
+            <description><![CDATA[I liked how the beautiful Raku solution is presented. I wish Perl could be used to write code like this.]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">https://colincrain.com/2021/04/25/dividing-sums-into-four-squares/</guid>
+            <link>https://colincrain.com/2021/04/25/dividing-sums-into-four-squares/</link>
+            
+            
+            
+            <author><![CDATA[colin_crain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Iterations and Permutations: Perl Weekly Challenge 109]]></title>
+            <description><![CDATA[I loved the use of grep to solve the Chowla Numbers task. Great work.]]></description>
+            <pubDate>2021.04.21</pubDate>
+            <guid isPermaLink="false">https://jacoby.github.io/2021/04/21/iterations-and-permutations-perl-weekly-challenge-109.html</guid>
+            <link>https://jacoby.github.io/2021/04/21/iterations-and-permutations-perl-weekly-challenge-109.html</link>
+            
+            
+            
+            <author><![CDATA[dave_jacoby]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC109 - Chowla Numbers]]></title>
+            <description><![CDATA[Very nicely organised one-line subroutines. Looks elegant and clean. Great work.]]></description>
+            <pubDate>2021.04.21</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/04/21/pwc109-chowla-numbers/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/04/21/pwc109-chowla-numbers/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC109 - Four Squares Puzzle]]></title>
+            <description><![CDATA[Flavio never just solves the task but also gives us more than just solution. You don't want to miss out.]]></description>
+            <pubDate>2021.04.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/04/22/pwc109-four-squares-puzzle/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/04/22/pwc109-four-squares-puzzle/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge: Week 109]]></title>
+            <description><![CDATA[I loved how Jaldhar found the similarity between Four Squares Puzzle and Olympic Rings task. Very smart.]]></description>
+            <pubDate>2021.04.25</pubDate>
+            <guid isPermaLink="false">https://www.braincells.com/perl/2021/04/perl_weekly_challenge_week_109.html</guid>
+            <link>https://www.braincells.com/perl/2021/04/perl_weekly_challenge_week_109.html</link>
+            
+            
+            
+            <author><![CDATA[jaldhar_vyas]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 109: Chowla Numbers and Four Square Puzzle]]></title>
+            <description><![CDATA[Laurent seems to read my mind, smart brain. He correctly guessed that the output is not part of the requirements. Thank You.]]></description>
+            <pubDate>2021.04.21</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/laurent_r/2021/04/perl-weekly-challenge-109-chowla-numbers-and-four-square-puzzle.html</guid>
+            <link>http://blogs.perl.org/users/laurent_r/2021/04/perl-weekly-challenge-109-chowla-numbers-and-four-square-puzzle.html</link>
+            
+            
+            
+            <author><![CDATA[laurent_rosenfeld]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 109]]></title>
+            <description><![CDATA[Thanks for reminding us about the Permutator from the Higher Order Perl book.]]></description>
             <pubDate>2021.04.19</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/digital-ocean-api</guid>
-            <link>https://perlmaven.com/digital-ocean-api</link>
+            <guid isPermaLink="false">https://wlmb.github.io/2021/04/19/PWC109/</guid>
+            <link>https://wlmb.github.io/2021/04/19/PWC109/</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Detect recursion using state variables]]></title>
-            <description><![CDATA[Detect recursion using state variables]]></description>
-            <pubDate>2021.04.16</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/detect-recursion-using-state</guid>
-            <link>https://perlmaven.com/detect-recursion-using-state</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[luis_mochan]]></author>
             
                 
             
@@ -242,15 +418,31 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.15 First Conf]]></title>
-            <description><![CDATA[2021.15 First Conf]]></description>
-            <pubDate>2021.04.13</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/04/13/2021-15-first-conf/</guid>
-            <link>https://rakudoweekly.blog/2021/04/13/2021-15-first-conf/</link>
+            <title><![CDATA[Perl Weekly Challenge 109: Choowa Numbers and Sums]]></title>
+            <description><![CDATA[Luca came up with compact solutions in Raku. Well done. Keep it up.]]></description>
+            <pubDate>2021.04.22</pubDate>
+            <guid isPermaLink="false">https://fluca1978.github.io/2021/04/22/PerlWeeklyChallenge109.html</guid>
+            <link>https://fluca1978.github.io/2021/04/22/PerlWeeklyChallenge109.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[luca_ferrari]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 109: Chowla Squares]]></title>
+            <description><![CDATA[Roger shared two different approaches to solve the Four Squares Puzzle task. Interesting, you must check out.]]></description>
+            <pubDate>2021.04.20</pubDate>
+            <guid isPermaLink="false">https://blog.firedrake.org/archive/2021/04/Perl_Weekly_Challenge_109__Chowla_Squares.html</guid>
+            <link>https://blog.firedrake.org/archive/2021/04/Perl_Weekly_Challenge_109__Chowla_Squares.html</link>
+            
+            
+            
+            <author><![CDATA[roger_bell_west]]></author>
             
                 
             
@@ -259,8 +451,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/04/cccxxxvii-12-great-cpan-modules.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/04/cdlxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/04/cdlxxxvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>]]></description>
-            <pubDate>2021.04.17</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/04/cccxxxviii-15-great-cpan-modules.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/04/cdlxiv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/04/cdlxxxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.04.24</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -274,27 +466,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Implementing a feature in the Typescript cucumber-playwright package with Tally Barak]]></title>
-            <description><![CDATA[Implementing a feature in the Typescript cucumber-playwright package with Tally Barak]]></description>
-            <pubDate>2021.04.18</pubDate>
-            <guid isPermaLink="false">https://code-maven.com/implementing-a-feature-in-typescript-cucumber-playwright</guid>
-            <link>https://code-maven.com/implementing-a-feature-in-typescript-cucumber-playwright</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Live Pair programming ]]></title>
-            <description><![CDATA[Live Pair programming ]]></description>
-            <pubDate>2021.04.13</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/live-pair-programming.html</guid>
-            <link>https://szabgab.com/live-pair-programming.html</link>
+            <title><![CDATA[Getting started with Git and GitHub]]></title>
+            <description><![CDATA[Getting started with Git and GitHub]]></description>
+            <pubDate>2021.04.19</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/getting-started-with-git-and-github-on-windows</guid>
+            <link>https://code-maven.com/getting-started-with-git-and-github-on-windows</link>
             
             
             
@@ -306,8 +482,56 @@
         </item>
         
         <item>
+            <title><![CDATA[Live Pair programming events ]]></title>
+            <description><![CDATA[The list of past events with video recordings and the schedule]]></description>
+            <pubDate>2021.04.26</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/live</guid>
+            <link>https://code-maven.com/live</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Berlin Perl Mongers]]></title>
+            <description><![CDATA[Wednesday, April 28, 2021]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/Berlin-Perl-Mongers/</guid>
+            <link>https://www.meetup.com/Berlin-Perl-Mongers/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Charlotte Perl Mongers - Command Line Adventures in Perl - 2021 Edition]]></title>
+            <description><![CDATA[Wednesday, April 28, 2021]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/</guid>
+            <link>https://www.meetup.com/charlotte-pm/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Toronto Perl Mongers Online Meeting]]></title>
-            <description><![CDATA[Thursday, April 22, 2021]]></description>
+            <description><![CDATA[Thursday, April 29, 2021]]></description>
             
             <guid isPermaLink="false">https://www.meetup.com/Toronto-Perl-Mongers/</guid>
             <link>https://www.meetup.com/Toronto-Perl-Mongers/</link>
@@ -322,11 +546,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Berlin Perl Mongers]]></title>
-            <description><![CDATA[Wednesday, April 28, 2021]]></description>
+            <title><![CDATA[Purdue Perl Mongers - HackLafayette]]></title>
+            <description><![CDATA[Wednesday, May 12, 2021]]></description>
             
-            <guid isPermaLink="false">https://www.meetup.com/Berlin-Perl-Mongers/</guid>
-            <link>https://www.meetup.com/Berlin-Perl-Mongers/</link>
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
+            <link>https://www.meetup.com/hacklafayette/</link>
             
             
             
@@ -355,10 +579,10 @@
         
         <item>
             <title><![CDATA[The Perl and Raku Conference in the Cloud 2021]]></title>
-            <description><![CDATA[Online 9-11 June 2021.]]></description>
+            <description><![CDATA[Online 8-10 June 2021.]]></description>
             
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/savethedatetprc2021</guid>
-            <link>https://news.perlfoundation.org/post/savethedatetprc2021</link>
+            <guid isPermaLink="false">https://perlconference.us/tprc-2021-cloud/</guid>
+            <link>https://perlconference.us/tprc-2021-cloud/</link>
             
             
             
