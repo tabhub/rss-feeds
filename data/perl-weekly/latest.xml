@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #510]]></title>
+        <title><![CDATA[Perl Weekly #511]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Community Affairs Team Transparency Report Update]]></title>
-            <description><![CDATA[The CAT would like to make some corrections, as well as address some of the comments and questions we received to the initial transparency report.]]></description>
-            <pubDate>2021.05.02</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/cat-transparency-report-updates0</guid>
-            <link>https://news.perlfoundation.org/post/cat-transparency-report-updates0</link>
+            <title><![CDATA[xmpl - the page configuration API]]></title>
+            <description><![CDATA[xmpl allows you to set up a quick webbish example application that provides, at its basic level, a key-value store. With time, it has grown to support a few additional integrations, e.g. it supports Prometheus-compatible metrics and Kubernetes-compatible 'healtz' endpoints.]]></description>
+            <pubDate>2021.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/03/xmpl-page-config/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/05/03/xmpl-page-config/</link>
             
             
             
-            <author><![CDATA[nic_evans]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -34,11 +34,75 @@
         </item>
         
         <item>
-            <title><![CDATA[Installing wxPerl for Strawberry Perl v5.32.0, or: Future of wxPerl?]]></title>
-            <description><![CDATA[John shares the experience dealing with wxPerl.]]></description>
-            <pubDate>2021.05.02</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/john_ankarstrom/2021/05/wxperl.html</guid>
-            <link>http://blogs.perl.org/users/john_ankarstrom/2021/05/wxperl.html</link>
+            <title><![CDATA[CPANdeps end of life]]></title>
+            <description><![CDATA[One of the constant debates among CPAN developers is what's the oldest version of Perl their modules should support. CPANdeps could have made the decision to stop supporting old modules easier as it provided a way for anyone to download the most recent version of a module that can still be used on their ancient version of Perl. David tells us there is an alternative tool for that and so he plans to shut down his site.]]></description>
+            <pubDate>2021.05.04</pubDate>
+            <guid isPermaLink="false">https://dev.to/drhyde/cpandeps-end-of-life-1pdf</guid>
+            <link>https://dev.to/drhyde/cpandeps-end-of-life-1pdf</link>
+            
+            
+            
+            <author><![CDATA[david_cantrell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paws anyone?]]></title>
+            <description><![CDATA[John is back blogging. We hope.]]></description>
+            <pubDate>2021.05.06</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/byterock/2021/05/paws-anyone.html</guid>
+            <link>http://blogs.perl.org/users/byterock/2021/05/paws-anyone.html</link>
+            
+            
+            
+            <author><![CDATA[john_scoles]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[All partitions of a set - W. Luis Mochán style]]></title>
+            <description><![CDATA[All partitions of a set - W. Luis Mochán style]]></description>
+            <pubDate>2021.05.07</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/07/all-partitions-wlm-style/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/05/07/all-partitions-wlm-style/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perling and Curling ]]></title>
+            <description><![CDATA[The fun in using Net::Curl::Easier]]></description>
+            <pubDate>2021.05.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/fgasper/perling-and-curling-2i10</guid>
+            <link>https://dev.to/fgasper/perling-and-curling-2i10</link>
+            
+            
+            
+            <author><![CDATA[felipe_gasper]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl evangelism project I've been working on]]></title>
+            <description><![CDATA[A discussion on Reddit and a website. Do you like it? Comment on Reddit.]]></description>
+            <pubDate>2021.05.06</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/n6hwyd/perl_evangelism_project_ive_been_working_on/</guid>
+            <link>https://www.reddit.com/r/perl/comments/n6hwyd/perl_evangelism_project_ive_been_working_on/</link>
             
             
             
@@ -50,11 +114,75 @@
         </item>
         
         <item>
-            <title><![CDATA[Downloading and Installing Perl in 2021]]></title>
-            <description><![CDATA[Mark continued his blogging series and presented us the basics of installing Perl on various platforms.]]></description>
-            <pubDate>2021.04.27</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/downloading-and-installing-perl-in-2021/</guid>
-            <link>https://www.perl.com/article/downloading-and-installing-perl-in-2021/</link>
+            <title><![CDATA[Perl changes dev's permaban for 'unacceptable' behaviour to a year-long lockout after community response]]></title>
+            <description><![CDATA[An article in The Register. So now we know what is needed for newpapers to start talking about Perl. Is this really what the Perl community needs?]]></description>
+            <pubDate>2021.05.07</pubDate>
+            <guid isPermaLink="false">https://www.theregister.com/2021/05/07/perl_permaban/</guid>
+            <link>https://www.theregister.com/2021/05/07/perl_permaban/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The problem learning Perl using Google]]></title>
+            <description><![CDATA[There were several earlier attempts to get people to link to modern Perl resources without a lot of success. Let's see if Andrew can get the community to <a href="https://andrewsolomon.github.io/influence-google-search-results">influence Google search results</a>.]]></description>
+            <pubDate>2021.05.03</pubDate>
+            <guid isPermaLink="false">https://blog.geekuni.com/2021/05/google-perl-problem.html</guid>
+            <link>https://blog.geekuni.com/2021/05/google-perl-problem.html</link>
+            
+            
+            
+            <author><![CDATA[andrew_solomon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Avoid the 'butterfly operator' with command-line options]]></title>
+            <description><![CDATA[Avoid the 'butterfly operator' with command-line options]]></description>
+            <pubDate>2021.05.08</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/08/perlrun-no-butterfly/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/05/08/perlrun-no-butterfly/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Substring DWIMmery]]></title>
+            <description><![CDATA[Substring DWIMmery]]></description>
+            <pubDate>2021.05.09</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/09/substring-dwimmery/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/05/09/substring-dwimmery/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Localizing dates in a Perl web application with JavaScript]]></title>
+            <description><![CDATA[A Mojolicious-based web application with some light JavaScript code to show the localized version of the dates. Discuss it on <a href="https://dev.to/mjgardner/localizing-dates-in-a-perl-web-application-with-javascript-1n24">dev.to</a>.]]></description>
+            <pubDate>2021.05.</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/05/04/localizing-dates-in-a-perl-web-application-with-javascript/</guid>
+            <link>https://phoenixtrap.com/2021/05/04/localizing-dates-in-a-perl-web-application-with-javascript/</link>
             
             
             
@@ -66,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[JSONify a string]]></title>
-            <description><![CDATA[Flavio continued with his daily blogging series and present us how to stringify CSS as JSON.]]></description>
-            <pubDate>2021.05.01</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/01/jsonify-string/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/05/01/jsonify-string/</link>
+            <title><![CDATA[Show dates in the timezone of the reader using JavaScript]]></title>
+            <description><![CDATA[Front-end solution only based on the post of Mark Gardner.]]></description>
+            <pubDate>2021.05.07</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/dates-in-the-timezone-of-the-reader-javascript</guid>
+            <link>https://code-maven.com/dates-in-the-timezone-of-the-reader-javascript</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Heail - head and tail together]]></title>
-            <description><![CDATA[Flavio once again created a very handy tool, Heail, in this blog.]]></description>
-            <pubDate>2021.04.30</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/04/30/heail/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/04/30/heail/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -98,27 +210,11 @@
         </item>
         
         <item>
-            <title><![CDATA[EV charge pricing per State in US]]></title>
-            <description><![CDATA[Charlie attempt to solve practical problem using Perl. A very cool attempt.]]></description>
-            <pubDate>2021.05.01</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/itcharlie/2021/05/ev-charge-pricing-per-state-in-us.html</guid>
-            <link>http://blogs.perl.org/users/itcharlie/2021/05/ev-charge-pricing-per-state-in-us.html</link>
-            
-            
-            
-            <author><![CDATA[charlie_gonzalez]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Creating REST APIs with Perl, Mojolicious and OpenAPI]]></title>
-            <description><![CDATA[Gaurav has been blogging regularly to create REST API using Mojolicious and OpenAPI. Always fun to read his blogs.]]></description>
-            <pubDate>2021.05.01</pubDate>
-            <guid isPermaLink="false">https://dev.to/raigaurav/creating-rest-apis-with-perl-mojolicious-and-openapi-1bng</guid>
-            <link>https://dev.to/raigaurav/creating-rest-apis-with-perl-mojolicious-and-openapi-1bng</link>
+            <title><![CDATA[Getting ready for production ]]></title>
+            <description><![CDATA[Mojolicious - Apache2 Server - uWSGI - Docker]]></description>
+            <pubDate>2021.05.09</pubDate>
+            <guid isPermaLink="false">https://dev.to/raigaurav/getting-ready-for-production-jio</guid>
+            <link>https://dev.to/raigaurav/getting-ready-for-production-jio</link>
             
             
             
@@ -130,15 +226,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl test coverage when you don’t have a Makefile]]></title>
-            <description><![CDATA[Mark trying to resolve the test coverage issue in the blog.]]></description>
-            <pubDate>2021.04.26</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/04/26/perl-test-coverage-when-you-dont-have-a-makefile/</guid>
-            <link>https://phoenixtrap.com/2021/04/26/perl-test-coverage-when-you-dont-have-a-makefile/</link>
+            <title><![CDATA[The Weekly Challenge - 112]]></title>
+            <description><![CDATA[Welcome to a new week with couple of fun tasks "Canonical Path" and "Climb Stairs". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read <a href="https://perlweeklychallenge.org/faq">FAQ</a> page.]]></description>
+            <pubDate>2021.05.10</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-112</guid>
+            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-112</link>
             
             
             
-            <author><![CDATA[mark_gardner]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -146,15 +242,239 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.17 Releastable]]></title>
-            <description><![CDATA[2021.17 Releastable]]></description>
-            <pubDate>2021.04.26</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/04/26/2021-17-releastable/</guid>
-            <link>https://rakudoweekly.blog/2021/04/26/2021-17-releastable/</link>
+            <title><![CDATA[RECAP - The Weekly Challenge - 111]]></title>
+            <description><![CDATA[Enjoy a quick recap of last week contributions by Team PWC dealing with the "Search Matrix" and "Ordered Letters" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
+            <pubDate>2021.05.10</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-111</guid>
+            <link>https://perlweeklychallenge.org/blog/recap-challenge-111</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 111]]></title>
+            <description><![CDATA[Cool demonstration of fetching data over the web in Raku. Thanks for sharing.]]></description>
+            <pubDate>2021.05.08</pubDate>
+            <guid isPermaLink="false">https://aaronreidsmith.github.io/blog/perl-weekly-challenge-111/</guid>
+            <link>https://aaronreidsmith.github.io/blog/perl-weekly-challenge-111/</link>
+            
+            
+            
+            <author><![CDATA[aaron_smith]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 111: Search Matrix]]></title>
+            <description><![CDATA[As always, Abigail, shows the powers of various languages while dealing with the Search Matrix task. Worth checking.]]></description>
+            <pubDate>2021.05.09</pubDate>
+            <guid isPermaLink="false">https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-111-1.html</guid>
+            <link>https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-111-1.html</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 111: Ordered Letters]]></title>
+            <description><![CDATA[Abigail is the master of regexes. He came up with another gem of regex in Perl. Highly Recommended.]]></description>
+            <pubDate>2021.05.09</pubDate>
+            <guid isPermaLink="false">https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-111-2.html</guid>
+            <link>https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-111-2.html</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ordered Search for Raku]]></title>
+            <description><![CDATA[Arne presented a complete commnad line solution. Cool, he even tried against German dictionary.]]></description>
+            <pubDate>2021.05.04</pubDate>
+            <guid isPermaLink="false">https://raku-musings.com/ordered-search.html</guid>
+            <link>https://raku-musings.com/ordered-search.html</link>
+            
+            
+            
+            <author><![CDATA[arne_sommer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Are We in the Matrix? Get in Line, Friend, Get in Line.]]></title>
+            <description><![CDATA[We are presented a couple of implementations for Search Matrix task. We even have benchmarks to compare the performance.]]></description>
+            <pubDate>2021.05.09</pubDate>
+            <guid isPermaLink="false">https://colincrain.com/2021/05/09/are-we-in-the-matrix-get-in-line-friend-get-in-line/</guid>
+            <link>https://colincrain.com/2021/05/09/are-we-in-the-matrix-get-in-line-friend-get-in-line/</link>
+            
+            
+            
+            <author><![CDATA[colin_crain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Efficient Ones: Perl Challenge #111]]></title>
+            <description><![CDATA[Dave's discussion on the performance matrix is the highlight. You don't want to miss it.]]></description>
+            <pubDate>2021.05.03</pubDate>
+            <guid isPermaLink="false">https://jacoby.github.io/2021/05/03/efficient-ones-perl-challenge-111.html</guid>
+            <link>https://jacoby.github.io/2021/05/03/efficient-ones-perl-challenge-111.html</link>
+            
+            
+            
+            <author><![CDATA[dave_jacoby]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC111 - Search Matrix]]></title>
+            <description><![CDATA[I am amazed how algorithm complexity is calculated. I still don't understand it, sorry.]]></description>
+            <pubDate>2021.05.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/05/pwc111-search-matrix/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/05/05/pwc111-search-matrix/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC111 - Ordered Letters]]></title>
+            <description><![CDATA[Flavio always surprises me with his analysis. This time we get a Unicode lesson.]]></description>
+            <pubDate>2021.05.06</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/06/pwc111-ordered-letters/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/05/06/pwc111-ordered-letters/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge #111Perl Weekly Challenge #111]]></title>
+            <description><![CDATA[James presented us with an exceptional performance matrix with analysis. Thanks for sharing.]]></description>
+            <pubDate>2021.05.07</pubDate>
+            <guid isPermaLink="false">https://github.com/drbaggy/perlweeklychallenge-club/blob/master/challenge-111/james-smith/README.md</guid>
+            <link>https://github.com/drbaggy/perlweeklychallenge-club/blob/master/challenge-111/james-smith/README.md</link>
+            
+            
+            
+            <author><![CDATA[james_smith]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 111: Search Matrix and Ordered Letters]]></title>
+            <description><![CDATA[As always Lauarent came up a with detailed analysis and presented his solutions in Perl and Raku.]]></description>
+            <pubDate>2021.05.05</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/laurent_r/2021/05/perl-weekly-challenge-111-search-matrix-and-ordered-letters.html</guid>
+            <link>http://blogs.perl.org/users/laurent_r/2021/05/perl-weekly-challenge-111-search-matrix-and-ordered-letters.html</link>
+            
+            
+            
+            <author><![CDATA[laurent_rosenfeld]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 111]]></title>
+            <description><![CDATA[Luis shared a unique solution to the Ordered Letters task in Perl. Thanks for sharing.]]></description>
+            <pubDate>2021.05.03</pubDate>
+            <guid isPermaLink="false">https://wlmb.github.io/2021/05/03/PWC111/</guid>
+            <link>https://wlmb.github.io/2021/05/03/PWC111/</link>
+            
+            
+            
+            <author><![CDATA[luis_mochan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 111: Words and Matrix]]></title>
+            <description><![CDATA[Luca showed the power of Raku when dealing with the weekly challenge. He made it look so simple.]]></description>
+            <pubDate>2021.05.03</pubDate>
+            <guid isPermaLink="false">https://fluca1978.github.io/2021/05/03/PerlWeeklyChallenge111.html</guid>
+            <link>https://fluca1978.github.io/2021/05/03/PerlWeeklyChallenge111.html</link>
+            
+            
+            
+            <author><![CDATA[luca_ferrari]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 111: Search Letters]]></title>
+            <description><![CDATA[Roger shared some very interesting ideas dealing with Ordered Letters task. Please go check out yourself.]]></description>
+            <pubDate>2021.05.05</pubDate>
+            <guid isPermaLink="false">https://blog.firedrake.org/archive/2021/05/Perl_Weekly_Challenge_111__Search_Letters.html</guid>
+            <link>https://blog.firedrake.org/archive/2021/05/Perl_Weekly_Challenge_111__Search_Letters.html</link>
+            
+            
+            
+            <author><![CDATA[roger_bell_west]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Weekly Challenge 111]]></title>
+            <description><![CDATA[Simply loved the creativity in accepting the matrix and target. Nice discussion about his approach.]]></description>
+            <pubDate>2021.05.09</pubDate>
+            <guid isPermaLink="false">https://dev.to/simongreennet/weekly-challenge-111-291m</guid>
+            <link>https://dev.to/simongreennet/weekly-challenge-111-291m</link>
+            
+            
+            
+            <author><![CDATA[simon_green]]></author>
             
                 
             
@@ -163,30 +483,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/05/cccxxxix-12-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/05/cccxxxix-12-great-cpan-modules-released.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/05/cdlxxxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.05.01</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/05/cccxl-17-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/05/cdlxvi-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/05/cdlxxxix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.05.08</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Washington, DC Perl (DCPM) - Bob King to discuss the Dancer Framework]]></title>
-            <description><![CDATA[Wednesday, May 5, 2021; 07:00 PM Eastern Time (US and Canada)]]></description>
-            
-            <guid isPermaLink="false">http://dc.pm.org/</guid>
-            <link>http://dc.pm.org/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -231,6 +535,54 @@
             
             <guid isPermaLink="false">https://www.meetup.com/SVPerl/</guid>
             <link>https://www.meetup.com/SVPerl/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Berlin Perl Mongers]]></title>
+            <description><![CDATA[Wednesday, May 26, 2021]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/Berlin-Perl-Mongers/</guid>
+            <link>https://www.meetup.com/Berlin-Perl-Mongers/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toronto Perl Mongers Online Meeting]]></title>
+            <description><![CDATA[Thursday, May 27, 2021]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/Toronto-Perl-Mongers/</guid>
+            <link>https://www.meetup.com/Toronto-Perl-Mongers/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Washington, DC Perl (DCPM)]]></title>
+            <description><![CDATA[Tuesday, 1st June, 2021; 07:00 PM Eastern Time (US and Canada)]]></description>
+            
+            <guid isPermaLink="false">http://dc.pm.org/</guid>
+            <link>http://dc.pm.org/</link>
             
             
             
