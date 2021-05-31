@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #513]]></title>
+        <title><![CDATA[Perl Weekly #514]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl 5.34.0 is now available!]]></title>
-            <description><![CDATA[Perl 5.34.0 is now available!]]></description>
-            <pubDate>2021.05.20</pubDate>
-            <guid isPermaLink="false">https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260110.html</guid>
-            <link>https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260110.html</link>
+            <title><![CDATA[Perl::Critic::Policy::RegularExpressions::RequireDefault]]></title>
+            <description><![CDATA[Jonas shared his recent patch to a PerlCritic policy. You won't want to miss it if you are a Perl::Critic fan.]]></description>
+            <pubDate>2021.05.24</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/first-public-release-of-perl-critic-policy-prohibithighprecedentlogicaloperatorerrorhandling-1p50</guid>
+            <link>https://dev.to/jonasbn/first-public-release-of-perl-critic-policy-prohibithighprecedentlogicaloperatorerrorhandling-1p50</link>
             
             
             
-            <author><![CDATA[sawyer_x]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Improving p5p: Perl is going to stay Perl]]></title>
-            <description><![CDATA[Is this just a clickbait subject line, or is this saying that 'Some people wanted to change Perl to be something not-Perl, but now the language is saved from those people.'?]]></description>
-            <pubDate>2021.05.16</pubDate>
-            <guid isPermaLink="false">https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260068.html</guid>
-            <link>https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260068.html</link>
-            
-            
-            
-            <author><![CDATA[neil_bowers]]></author>
+            <author><![CDATA[jonas_nielsen]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Killing spiders - a fresh look on Chowla Numbers]]></title>
-            <description><![CDATA[Killing spiders - a fresh look on Chowla Numbers]]></description>
-            <pubDate>2021.05.17</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/17/killing-spiders/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/05/17/killing-spiders/</link>
+            <title><![CDATA[berrybrew version 1.34 released!]]></title>
+            <description><![CDATA[Steve presented the change history for the latest release of berrybrew.]]></description>
+            <pubDate>2021.05.26</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/steve_bertrand/2021/05/berrybrew-version-134-released.html</guid>
+            <link>http://blogs.perl.org/users/steve_bertrand/2021/05/berrybrew-version-134-released.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Developing a script in small steps]]></title>
-            <description><![CDATA[A detailed example of taking a big commit and breaking it up into small steps that make the whole process easier to follow.]]></description>
-            <pubDate>2021.05.17</pubDate>
-            <guid isPermaLink="false">https://dev.to/vkroll/common-misconception-of-beginners-51jb</guid>
-            <link>https://dev.to/vkroll/common-misconception-of-beginners-51jb</link>
-            
-            
-            
-            <author><![CDATA[volker_kroll]]></author>
+            <author><![CDATA[steve_bertrand]]></author>
             
                 
             
@@ -82,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[A list of Perl list processing modules]]></title>
-            <description><![CDATA[Is that all? Do you know other things Mark should list on his blog? Comment on his blog post.]]></description>
-            <pubDate>2021.05.18</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/05/18/a-list-of-perl-list-processing-modules/</guid>
-            <link>https://phoenixtrap.com/2021/05/18/a-list-of-perl-list-processing-modules/</link>
+            <title><![CDATA[Perl’s SvPV Menace]]></title>
+            <description><![CDATA[Perl C API is meant for bravehearts only. Check it yourself if you are keen to know more about it.]]></description>
+            <pubDate>2021.05.27</pubDate>
+            <guid isPermaLink="false">https://dev.to/fgasper/perl-s-svpv-menace-5515</guid>
+            <link>https://dev.to/fgasper/perl-s-svpv-menace-5515</link>
+            
+            
+            
+            <author><![CDATA[felipe_gasper]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl can do that now!]]></title>
+            <description><![CDATA[Mark's latest blog post takes us on the release journey of Perl.]]></description>
+            <pubDate>2021.05.25</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/05/25/perl-can-do-that-now/</guid>
+            <link>https://phoenixtrap.com/2021/05/25/perl-can-do-that-now/</link>
             
             
             
@@ -98,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Grab a distribution tarball from CPAN]]></title>
-            <description><![CDATA[I admit, just a few weeks ago I wrote a partially functioning tool for myself to download and unzip a CPAN distribution. It was fun, but I should have looked for an already existing solution.]]></description>
-            <pubDate>2021.05.18</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/grab-a-distribution-tarball-from-cpan-f25</guid>
-            <link>https://dev.to/thibaultduponchelle/grab-a-distribution-tarball-from-cpan-f25</link>
+            <title><![CDATA[Perl Lists - a Partial Taxonomy]]></title>
+            <description><![CDATA[Matthew consolidated the features of List::Util and related modules.]]></description>
+            <pubDate>2021.05.25</pubDate>
+            <guid isPermaLink="false">https://dev.to/matthewpersico/perl-lists-a-partial-taxonomy-g8p</guid>
+            <link>https://dev.to/matthewpersico/perl-lists-a-partial-taxonomy-g8p</link>
             
             
             
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Solving simple problems]]></title>
-            <description><![CDATA[Dave is scrobbling using Last.FM. For those who don't know, 'scrobbling' is the act of logging what you're listening to using an external service so that, over time, you build up an accurate picture of who you listen to.]]></description>
-            <pubDate>2021.05.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/davorg/solving-simple-problems-4p2f</guid>
-            <link>https://dev.to/davorg/solving-simple-problems-4p2f</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[matthew_persico]]></author>
             
                 
             
@@ -130,11 +98,27 @@
         </item>
         
         <item>
-            <title><![CDATA[The Weekly Challenge - 114]]></title>
-            <description><![CDATA[Welcome the new week with couple of fun tasks "Next Palindrome Number" and "Higher Integer Set Bits". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read <a href="https://perlweeklychallenge.org/faq">FAQ</a> page.]]></description>
-            <pubDate>2021.05.24</pubDate>
-            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-114</guid>
-            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-114</link>
+            <title><![CDATA[Date handling modularized]]></title>
+            <description><![CDATA[Volker continued his Perl series for beginners and presented Date handling.]]></description>
+            <pubDate>2021.05.28</pubDate>
+            <guid isPermaLink="false">https://dev.to/vkroll/date-handling-modularized-10h9</guid>
+            <link>https://dev.to/vkroll/date-handling-modularized-10h9</link>
+            
+            
+            
+            <author><![CDATA[volker_kroll]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Weekly Challenge - 115]]></title>
+            <description><![CDATA[Welcome to a new week with a couple of fun tasks "String Chain" and "Largest Multiple". If you are new to the weekly challenge then why not join us and have fun every week. For more information, please read <a href="https://perlweeklychallenge.org/faq">FAQ</a> page.]]></description>
+            <pubDate>2021.05.31</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/perl-weekly-challenge-115</guid>
+            <link>https://perlweeklychallenge.org/blog/perl-weekly-challenge-115</link>
             
             
             
@@ -146,11 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[RECAP - The Weekly Challenge - 113]]></title>
-            <description><![CDATA[Enjoy a quick recap of last week's contributions by Team PWC dealing with the "Represent Integer" and "Recreate Binary Tree" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
-            <pubDate>2021.05.24</pubDate>
-            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-113</guid>
-            <link>https://perlweeklychallenge.org/blog/recap-challenge-113</link>
+            <title><![CDATA[RECAP - The Weekly Challenge - 114]]></title>
+            <description><![CDATA[Enjoy a quick recap of last week's contributions by Team PWC dealing with the "Next Palindrome Number" and "Higher Integer Set Bits" tasks in Perl and Raku. You will find plenty of solutions to keep you busy.]]></description>
+            <pubDate>2021.05.31</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/recap-challenge-114</guid>
+            <link>https://perlweeklychallenge.org/blog/recap-challenge-114</link>
             
             
             
@@ -162,123 +146,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Weekly Challenge 112]]></title>
-            <description><![CDATA[Aaron took pains to display the tree like structure. Loved it. Keep it up the great work.]]></description>
-            <pubDate>2021.05.22</pubDate>
-            <guid isPermaLink="false">https://aaronreidsmith.github.io/blog/perl-weekly-challenge-113/</guid>
-            <link>https://aaronreidsmith.github.io/blog/perl-weekly-challenge-113/</link>
-            
-            
-            
-            <author><![CDATA[aaron_smith]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge: Represent Integer]]></title>
-            <description><![CDATA[Abigail's style of expanding the task is much appreciated. There is plenty to learn from his task analysis. Thanks for sharing.]]></description>
-            <pubDate>2021.05.23</pubDate>
-            <guid isPermaLink="false">https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-113-1.html</guid>
-            <link>https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-113-1.html</link>
-            
-            
-            
-            <author><![CDATA[abigail]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Weekly Challenge 113: Recreate Binary Tree]]></title>
-            <description><![CDATA[Abigail is once again at his best. Please check it out.]]></description>
-            <pubDate>2021.05.23</pubDate>
-            <guid isPermaLink="false">https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-113-2.html</guid>
-            <link>https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-113-2.html</link>
-            
-            
-            
-            <author><![CDATA[abigail]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Weekly Challenge 113]]></title>
-            <description><![CDATA[Adam's use of pack()/unpack() is really interesting. There is always something new to learn. Thanks for sharing.]]></description>
-            <pubDate>2021.05.23</pubDate>
-            <guid isPermaLink="false">http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/05/23</guid>
-            <link>http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/05/23</link>
-            
-            
-            
-            <author><![CDATA[adam_russell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Re Raku (and Perl)]]></title>
-            <description><![CDATA[I am big fan of Arne for his creative blog titles. He is simply the best. This week, we got bonus Perl solutions as well. Thanks for sharing.]]></description>
-            <pubDate>2021.05.22</pubDate>
-            <guid isPermaLink="false">https://raku-musings.com/re-re.html</guid>
-            <link>https://raku-musings.com/re-re.html</link>
-            
-            
-            
-            <author><![CDATA[arne_sommer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CY's Take on The Weekly Challenge #113]]></title>
-            <description><![CDATA[Cheok always surprises me with something new and this week also we got two very clever solutions. Keep it up.]]></description>
-            <pubDate>2021.05.18</pubDate>
-            <guid isPermaLink="false">https://e7-87-83.github.io/coding/challenge_113.html</guid>
-            <link>https://e7-87-83.github.io/coding/challenge_113.html</link>
-            
-            
-            
-            <author><![CDATA[cheok_fung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl Weekly Challenges, #113]]></title>
-            <description><![CDATA[Welcome Christian and thanks for introducing FunctionalPerl.]]></description>
-            <pubDate>2021.05.23</pubDate>
-            <guid isPermaLink="false">http://functional-perl.org/docs/blog/perl-weekly-challenges-113.xhtml</guid>
-            <link>http://functional-perl.org/docs/blog/perl-weekly-challenges-113.xhtml</link>
-            
-            
-            
-            <author><![CDATA[christian_jaeger]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Represent the Differences, Yo!]]></title>
-            <description><![CDATA[I loved his analysis of the Represent Integer task. I wonder sometimes, how did I miss it myself.]]></description>
-            <pubDate>2021.05.21</pubDate>
-            <guid isPermaLink="false">https://colincrain.com/2021/05/21/represent-the-differences-yo/</guid>
-            <link>https://colincrain.com/2021/05/21/represent-the-differences-yo/</link>
+            <title><![CDATA[Perl Review - Perl Weekly Challenge - 112]]></title>
+            <description><![CDATA[Perl Solutions Review by Colin Crain.]]></description>
+            <pubDate>2021.05.31</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/review-challenge-112</guid>
+            <link>https://perlweeklychallenge.org/blog/review-challenge-112</link>
             
             
             
@@ -290,11 +162,155 @@
         </item>
         
         <item>
-            <title><![CDATA[PWC113 - Represent Integer]]></title>
-            <description><![CDATA[Flavio shared the mathematical expression for the task. Lot to learn from his work. Keep up the great work.]]></description>
-            <pubDate>2021.05.19</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/19/pwc113-represent-integer/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/05/19/pwc113-represent-integer/</link>
+            <title><![CDATA[Meet The Champion - Tyler Wardhaugh]]></title>
+            <description><![CDATA[Please check out the interview with Tyler Wardhaugh, Champion of the month for March.]]></description>
+            <pubDate>2021.05.30</pubDate>
+            <guid isPermaLink="false">https://perlweeklychallenge.org/blog/meet-the-champion-2021-03/</guid>
+            <link>https://perlweeklychallenge.org/blog/meet-the-champion-2021-03/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 114]]></title>
+            <description><![CDATA[Aaron's point by point explanation of Raku feature is the highpoint of his blog post. Keep it up.]]></description>
+            <pubDate>2021.05.28</pubDate>
+            <guid isPermaLink="false">https://aaronreidsmith.github.io/blog/perl-weekly-challenge-114/</guid>
+            <link>https://aaronreidsmith.github.io/blog/perl-weekly-challenge-114/</link>
+            
+            
+            
+            <author><![CDATA[aaron_smith]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 114: Next Palindrome Number]]></title>
+            <description><![CDATA[Abigail once again shared the mathematical aspect of palindromes. It makes me feel I know nothing. Thanks for sharing.]]></description>
+            <pubDate>2021.05.30</pubDate>
+            <guid isPermaLink="false">https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-114-1.html</guid>
+            <link>https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-114-1.html</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 114: Higher Integer Set Bits]]></title>
+            <description><![CDATA[Abigail is unbeatable when it comes to regex. Please check it out yourself to see what I am talking about.]]></description>
+            <pubDate>2021.05.30</pubDate>
+            <guid isPermaLink="false">https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-114-2.html</guid>
+            <link>https://abigail.github.io/HTML/Perl-Weekly-Challenge/week-114-2.html</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Weekly Challenge 114]]></title>
+            <description><![CDATA[Thank you Adam for introducing redo; I had never heard of it before.]]></description>
+            <pubDate>2021.05.30</pubDate>
+            <guid isPermaLink="false">http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/05/30</guid>
+            <link>http://www.rabbitfarm.com/cgi-bin/blosxom/perl/2021/05/30</link>
+            
+            
+            
+            <author><![CDATA[adam_russell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Palindromic Set with Raku and Perl]]></title>
+            <description><![CDATA[A complete application in Perl and Raku with detailed discussion, as always. Thanks for sharing.]]></description>
+            <pubDate>2021.05.29</pubDate>
+            <guid isPermaLink="false">https://raku-musings.com/palindromic-set.html</guid>
+            <link>https://raku-musings.com/palindromic-set.html</link>
+            
+            
+            
+            <author><![CDATA[arne_sommer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Perl Weekly Challenges, #114]]></title>
+            <description><![CDATA[Find out more about Functional Perl in this blog post. Thanks for sharing.]]></description>
+            <pubDate>2021.05.30</pubDate>
+            <guid isPermaLink="false">http://functional-perl.org/docs/blog/perl_weekly_challenges_114.xhtml</guid>
+            <link>http://functional-perl.org/docs/blog/perl_weekly_challenges_114.xhtml</link>
+            
+            
+            
+            <author><![CDATA[christian_jaeger]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Your New Pal Knows the Weight of Ham]]></title>
+            <description><![CDATA[Colin's choice of blog title is really cool. I love reading it for its literary value. Keep it up.]]></description>
+            <pubDate>2021.05.30</pubDate>
+            <guid isPermaLink="false">https://colincrain.com/2021/05/30/your-new-pal-knows-the-weight-of-ham/</guid>
+            <link>https://colincrain.com/2021/05/30/your-new-pal-knows-the-weight-of-ham/</link>
+            
+            
+            
+            <author><![CDATA[colin_crain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Escape From The Infinite Loop: Perl Weekly Challenge #114]]></title>
+            <description><![CDATA[Dave kept the discussion to the point and shared the secret. Must Read.]]></description>
+            <pubDate>2021.05.24</pubDate>
+            <guid isPermaLink="false">https://jacoby.github.io/2021/05/24/escape-from-the-infinite-loop-perl-weekly-challenge-114.html</guid>
+            <link>https://jacoby.github.io/2021/05/24/escape-from-the-infinite-loop-perl-weekly-challenge-114.html</link>
+            
+            
+            
+            <author><![CDATA[dave_jacoby]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PWC114 - Next Palindrome Number]]></title>
+            <description><![CDATA[When I see no questions being asked in the blog post, it means a lot. It reminds me of my early days with Raku.]]></description>
+            <pubDate>2021.05.26</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/26/pwc114-next-palindrome-number/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/05/26/pwc114-next-palindrome-number/</link>
             
             
             
@@ -306,11 +322,11 @@
         </item>
         
         <item>
-            <title><![CDATA[PWC113 - Recreate Binary Tree]]></title>
-            <description><![CDATA[I have a high regard for those who present the tree like structure. Although it is not part of the task, some did it on their own. Thank you.]]></description>
-            <pubDate>2021.05.20</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/20/pwc113-recreate-binary-tree/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/05/20/pwc113-recreate-binary-tree/</link>
+            <title><![CDATA[PWC114 - Higher Integer Set Bits]]></title>
+            <description><![CDATA[Flavio used brute force method to get the desired result. Small and compact solution.]]></description>
+            <pubDate>2021.05.27</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/05/27/pwc114-higher-integer-set-bits/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/05/27/pwc114-higher-integer-set-bits/</link>
             
             
             
@@ -322,11 +338,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Weekly Challenge #113]]></title>
-            <description><![CDATA[James's code presentation is always the best. It makes reading the code so simple. Also with the detailed task analysis is very handy as well.]]></description>
-            <pubDate>2021.05.19</pubDate>
-            <guid isPermaLink="false">https://github.com/drbaggy/perlweeklychallenge-club/tree/master/challenge-113/james-smith</guid>
-            <link>https://github.com/drbaggy/perlweeklychallenge-club/tree/master/challenge-113/james-smith</link>
+            <title><![CDATA[Perl Weekly Challenge #114]]></title>
+            <description><![CDATA[James's focus on performance is the highlight. Plenty to learn from his work. Keep up the great work.]]></description>
+            <pubDate>2021.05.29</pubDate>
+            <guid isPermaLink="false">https://github.com/drbaggy/perlweeklychallenge-club/tree/master/challenge-114/james-smith</guid>
+            <link>https://github.com/drbaggy/perlweeklychallenge-club/tree/master/challenge-114/james-smith</link>
             
             
             
@@ -338,11 +354,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Weekly Challenge 113]]></title>
-            <description><![CDATA[Luis' attempt to improve the performance of the Represent Integer task is commendable. Keep it up.]]></description>
-            <pubDate>2021.05.22</pubDate>
-            <guid isPermaLink="false">https://wlmb.github.io/2021/05/22/PWC113/</guid>
-            <link>https://wlmb.github.io/2021/05/22/PWC113/</link>
+            <title><![CDATA[Perl Weekly Challenge 114: Next Palindrome Number and Higher Integer Set Bits]]></title>
+            <description><![CDATA[For me the USP of Laurent's blog post is to see the comparison of his Perl and Raku implementations. You don't want to miss the discussion.]]></description>
+            <pubDate>2021.05.26</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/laurent_r/2021/05/perl-weekly-challenge-114-next-palindrome-number-and-higher-integer-set-bits.html</guid>
+            <link>http://blogs.perl.org/users/laurent_r/2021/05/perl-weekly-challenge-114-next-palindrome-number-and-higher-integer-set-bits.html</link>
+            
+            
+            
+            <author><![CDATA[laurent_rosenfeld]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Weekly Challenge 114]]></title>
+            <description><![CDATA[I loved the hack used for the 'Higher Integer Set Bits' task. Thanks for sharing the knowledge.]]></description>
+            <pubDate>2021.05.24</pubDate>
+            <guid isPermaLink="false">https://wlmb.github.io/2021/05/24/PWC114/</guid>
+            <link>https://wlmb.github.io/2021/05/24/PWC114/</link>
             
             
             
@@ -354,11 +386,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Weekly Challenge 113: sums and trees]]></title>
-            <description><![CDATA[Luca shared the real power of Raku. I loved his solution to the Recreate Binary Tree task specially.]]></description>
-            <pubDate>2021.05.18</pubDate>
-            <guid isPermaLink="false">https://fluca1978.github.io/2021/05/18/PerlWeeklyChallenge113.html</guid>
-            <link>https://fluca1978.github.io/2021/05/18/PerlWeeklyChallenge113.html</link>
+            <title><![CDATA[Perl Weekly Challenge 114: palindrome and 1's number]]></title>
+            <description><![CDATA[As always, you can find interesting Raku magic in Luca's blog post. Fun to read the blog.]]></description>
+            <pubDate>2021.05.24</pubDate>
+            <guid isPermaLink="false">https://fluca1978.github.io/2021/05/24/PerlWeeklyChallenge114.html</guid>
+            <link>https://fluca1978.github.io/2021/05/24/PerlWeeklyChallenge114.html</link>
             
             
             
@@ -370,11 +402,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Weekly Challenge 113: Represent-Recreate]]></title>
-            <description><![CDATA[Roger's optimisation of the Represent Integer the is the highlight of this blog post for me. Thanks for sharing.]]></description>
-            <pubDate>2021.05.19</pubDate>
-            <guid isPermaLink="false">https://blog.firedrake.org/archive/2021/05/Perl_Weekly_Challenge_113__Represent_Recreate.html</guid>
-            <link>https://blog.firedrake.org/archive/2021/05/Perl_Weekly_Challenge_113__Represent_Recreate.html</link>
+            <title><![CDATA[Perl Weekly Challenge 114: Going Higher]]></title>
+            <description><![CDATA[Roger's use of substr() to generate palindrome is the surprise element for me. Thanks for sharing the hack.]]></description>
+            <pubDate>2021.05.27</pubDate>
+            <guid isPermaLink="false">https://blog.firedrake.org/archive/2021/05/Perl_Weekly_Challenge_114__Going_Higher.html</guid>
+            <link>https://blog.firedrake.org/archive/2021/05/Perl_Weekly_Challenge_114__Going_Higher.html</link>
             
             
             
@@ -386,11 +418,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Weekly Challenge 113]]></title>
-            <description><![CDATA[Simon's choice of data format for representing a binary tree is very smart. I liked the story behind it too.]]></description>
-            <pubDate>2021.05.17</pubDate>
-            <guid isPermaLink="false">https://dev.to/simongreennet/weekly-challenge-113-4g2d</guid>
-            <link>https://dev.to/simongreennet/weekly-challenge-113-4g2d</link>
+            <title><![CDATA[Weekly Challenge 114]]></title>
+            <description><![CDATA[Simon's use of brute force method made it compact and concise. Cool attempt.]]></description>
+            <pubDate>2021.05.24</pubDate>
+            <guid isPermaLink="false">https://dev.to/simongreennet/weekly-challenge-114-51h1</guid>
+            <link>https://dev.to/simongreennet/weekly-challenge-114-51h1</link>
             
             
             
@@ -402,9 +434,41 @@
         </item>
         
         <item>
+            <title><![CDATA[Course Management Application in Mojolicious - part 7]]></title>
+            <description><![CDATA[Course Management Application in Mojolicious - part 7]]></description>
+            <pubDate>2021.06</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/course-management-app-in-mojolicious-7</guid>
+            <link>https://perlmaven.com/course-management-app-in-mojolicious-7</link>
+            
+            
+            
+            <author><![CDATA[mark_gardner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2021.21 Chattering]]></title>
+            <description><![CDATA[2021.21 Chattering]]></description>
+            <pubDate>2021.05.24</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/05/24/2021-21-chattering/</guid>
+            <link>https://rakudoweekly.blog/2021/05/24/2021-21-chattering/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/05/cccxlii-15-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/05/cdlxviii-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/05/cdxci-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.05.23</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/05/cccxliii-10-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/05/cdlxix-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/05/cdxcii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.05.29</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -418,11 +482,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Berlin Perl Mongers]]></title>
-            <description><![CDATA[Wednesday, May 26, 2021]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/Berlin-Perl-Mongers/</guid>
-            <link>https://www.meetup.com/Berlin-Perl-Mongers/</link>
+            <title><![CDATA[Developing an application for organising online self knowledge workshops - part 5]]></title>
+            <description><![CDATA[Developing an application for organising online self knowledge workshops - part 5]]></description>
+            <pubDate>2021.05.30</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/online-self-knowledge-workshop-5</guid>
+            <link>https://code-maven.com/online-self-knowledge-workshop-5</link>
             
             
             
@@ -434,15 +498,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Toronto Perl Mongers Online Meeting]]></title>
-            <description><![CDATA[Thursday, May 27, 2021]]></description>
+            <title><![CDATA[Working on PyDigger with Upasana Shukla]]></title>
+            <description><![CDATA[Working on PyDigger with Upasana Shukla]]></description>
+            <pubDate>2021.05.24</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/pydigger-2</guid>
+            <link>https://code-maven.com/pydigger-2</link>
             
-            <guid isPermaLink="false">https://www.meetup.com/Toronto-Perl-Mongers/</guid>
-            <link>https://www.meetup.com/Toronto-Perl-Mongers/</link>
             
             
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[upasana_shukla]]></author>
             
                 
             
@@ -503,6 +567,38 @@
             
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
             <link>https://www.meetup.com/hacklafayette/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Berlin Perl Mongers]]></title>
+            <description><![CDATA[Wednesday, June 30, 2021]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/Berlin-Perl-Mongers/</guid>
+            <link>https://www.meetup.com/Berlin-Perl-Mongers/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toronto Perl Mongers Online Meeting]]></title>
+            <description><![CDATA[Thursday, July 22, 2021]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/Toronto-Perl-Mongers/</guid>
+            <link>https://www.meetup.com/Toronto-Perl-Mongers/</link>
             
             
             
