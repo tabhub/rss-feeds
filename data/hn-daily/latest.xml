@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Don't Feed the Thought Leaders]]></title>
-            <description><![CDATA[738 points | <a href=https://news.ycombinator.com/item?id=27467999 target=_blank>262 comments</a>]]></description>
-            <pubDate>2021-06-11T00:49:35.000Z</pubDate>
-            <guid isPermaLink="false">https://earthly.dev/blog/thought-leaders/</guid>
-            <link>https://earthly.dev/blog/thought-leaders/</link>
+            <title><![CDATA[Do you really need Redis? How to get away with just PostgreSQL]]></title>
+            <description><![CDATA[707 points | <a href=https://news.ycombinator.com/item?id=27482243 target=_blank>419 comments</a>]]></description>
+            <pubDate>2021-06-12T06:57:14.000Z</pubDate>
+            <guid isPermaLink="false">https://spin.atomicobject.com/2021/02/04/redis-postgresql/</guid>
+            <link>https://spin.atomicobject.com/2021/02/04/redis-postgresql/</link>
             
             
             
-            <author><![CDATA[crummy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ALiEn – a GPU-accelerated artificial life simulation program]]></title>
-            <description><![CDATA[717 points | <a href=https://news.ycombinator.com/item?id=27472224 target=_blank>155 comments</a>]]></description>
-            <pubDate>2021-06-11T12:12:09.000Z</pubDate>
-            <guid isPermaLink="false">https://alien-project.org/</guid>
-            <link>https://alien-project.org/</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
+            <author><![CDATA[hyzyla]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[New York Senate passes Right to Repair bill]]></title>
-            <description><![CDATA[574 points | <a href=https://news.ycombinator.com/item?id=27472083 target=_blank>183 comments</a>]]></description>
-            <pubDate>2021-06-11T11:55:00.000Z</pubDate>
-            <guid isPermaLink="false">https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill</guid>
-            <link>https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill</link>
+            <title><![CDATA[How fighter jets lock on, and how the targets know (2014)]]></title>
+            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=27483412 target=_blank>202 comments</a>]]></description>
+            <pubDate>2021-06-12T10:34:27.000Z</pubDate>
+            <guid isPermaLink="false">https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1</guid>
+            <link>https://www.quora.com/How-does-a-fighter-jet-lock-onto-and-keep-track-of-an-enemy-aircraft-Can-an-aircraft-detect-that-it-has-been-locked-onto-or-is-it-just-a-convenient-plot-device-in-movies?share=1</link>
             
             
             
-            <author><![CDATA[tk75x]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Few people know that Google voluntarily removes some search results]]></title>
-            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=27477797 target=_blank>171 comments</a>]]></description>
-            <pubDate>2021-06-11T20:05:20.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/kashhill/status/1402986015107653647</guid>
-            <link>https://twitter.com/kashhill/status/1402986015107653647</link>
-            
-            
-            
-            <author><![CDATA[danso]]></author>
+            <author><![CDATA[ushakov]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenHistoricalMap]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=27469715 target=_blank>107 comments</a>]]></description>
-            <pubDate>2021-06-11T05:40:41.000Z</pubDate>
-            <guid isPermaLink="false">https://www.openhistoricalmap.org/</guid>
-            <link>https://www.openhistoricalmap.org/</link>
+            <title><![CDATA[Win at Risk by using systems thinking]]></title>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=27484288 target=_blank>209 comments</a>]]></description>
+            <pubDate>2021-06-12T13:17:02.000Z</pubDate>
+            <guid isPermaLink="false">https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by</guid>
+            <link>https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by</link>
             
             
             
-            <author><![CDATA[Tijdreiziger]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Zero downtime Postgres migration, done right]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=27473788 target=_blank>106 comments</a>]]></description>
-            <pubDate>2021-06-11T14:25:08.000Z</pubDate>
-            <guid isPermaLink="false">https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/</guid>
-            <link>https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/</link>
-            
-            
-            
-            <author><![CDATA[rigaspapas]]></author>
+            <author><![CDATA[AndyMPatton]]></author>
             
                 
             
@@ -114,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Hackers used Slack to break into EA Games]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=27473038 target=_blank>152 comments</a>]]></description>
-            <pubDate>2021-06-11T13:29:38.000Z</pubDate>
-            <guid isPermaLink="false">https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack</guid>
-            <link>https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack</link>
+            <title><![CDATA[Show HN: LANDrop – A cross-platform AirDrop-like file transfer tool]]></title>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=27481465 target=_blank>95 comments</a>]]></description>
+            <pubDate>2021-06-12T04:11:12.000Z</pubDate>
+            <guid isPermaLink="false">https://landrop.app/</guid>
+            <link>https://landrop.app/</link>
             
             
             
-            <author><![CDATA[danso]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The NSA Instruction (2019)]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=27470529 target=_blank>75 comments</a>]]></description>
-            <pubDate>2021-06-11T08:06:00.000Z</pubDate>
-            <guid isPermaLink="false">https://vaibhavsagar.com/blog/2019/09/08/popcount/</guid>
-            <link>https://vaibhavsagar.com/blog/2019/09/08/popcount/</link>
-            
-            
-            
-            <author><![CDATA[cjg]]></author>
+            <author><![CDATA[yvbbrjdr]]></author>
             
                 
             
@@ -146,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Third member of U.S. FDA advisory panel resigns over Alzheimer’s drug approval]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=27472107 target=_blank>188 comments</a>]]></description>
-            <pubDate>2021-06-11T11:58:02.000Z</pubDate>
-            <guid isPermaLink="false">https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/</guid>
-            <link>https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/</link>
+            <title><![CDATA[SSH quoting]]></title>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=27483077 target=_blank>68 comments</a>]]></description>
+            <pubDate>2021-06-12T09:33:26.000Z</pubDate>
+            <guid isPermaLink="false">https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html</guid>
+            <link>https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html</link>
             
             
             
-            <author><![CDATA[mrfusion]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Husband of Amazon employee sentenced to prison for insider trading Amazon stock]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=27468838 target=_blank>220 comments</a>]]></description>
-            <pubDate>2021-06-11T03:01:41.000Z</pubDate>
-            <guid isPermaLink="false">https://www.justice.gov/usao-wdwa/pr/husband-amazon-employee-sentenced-prison-insider-trading-amazon-stock</guid>
-            <link>https://www.justice.gov/usao-wdwa/pr/husband-amazon-employee-sentenced-prison-insider-trading-amazon-stock</link>
-            
-            
-            
-            <author><![CDATA[catillac]]></author>
+            <author><![CDATA[pabs3]]></author>
             
                 
             
@@ -178,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Fewer young men are in the labor force, more are living at home]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=27473199 target=_blank>547 comments</a>]]></description>
-            <pubDate>2021-06-11T13:42:57.000Z</pubDate>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home</guid>
-            <link>https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home</link>
+            <title><![CDATA[Finding a CPU Design Bug in the Xbox 360 (2018)]]></title>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=27480448 target=_blank>32 comments</a>]]></description>
+            <pubDate>2021-06-12T01:16:24.000Z</pubDate>
+            <guid isPermaLink="false">https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/</guid>
+            <link>https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/</link>
             
             
             
-            <author><![CDATA[harambae]]></author>
+            <author><![CDATA[salgernon]]></author>
             
                 
             
@@ -194,15 +114,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Amazon reverses course, expands work-from-home options]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=27469174 target=_blank>210 comments</a>]]></description>
-            <pubDate>2021-06-11T04:05:50.000Z</pubDate>
-            <guid isPermaLink="false">https://mynorthwest.com/2960761/amazon-offering-flexible-work-from-home-options-seattle-tech-companies/</guid>
-            <link>https://mynorthwest.com/2960761/amazon-offering-flexible-work-from-home-options-seattle-tech-companies/</link>
+            <title><![CDATA[Ask HN: Tools you have made for yourself?]]></title>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=27482397 target=_blank>331 comments</a>]]></description>
+            <pubDate>2021-06-12T07:29:04.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=27482397</guid>
+            <link>https://news.ycombinator.com/item?id=27482397</link>
             
             
             
-            <author><![CDATA[SonOfKyuss]]></author>
+            <author><![CDATA[themantri]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NymphCast – Open-source Chromecast Alternative]]></title>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=27482699 target=_blank>60 comments</a>]]></description>
+            <pubDate>2021-06-12T08:23:11.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/MayaPosch/NymphCast/</guid>
+            <link>https://github.com/MayaPosch/NymphCast/</link>
+            
+            
+            
+            <author><![CDATA[nedp]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Lisbon has shared dissident info with repressive regimes for years]]></title>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=27483895 target=_blank>62 comments</a>]]></description>
+            <pubDate>2021-06-12T12:09:18.000Z</pubDate>
+            <guid isPermaLink="false">https://www.politico.eu/article/lisbon-portugal-dissidents-personal-data-repressive-regimes/</guid>
+            <link>https://www.politico.eu/article/lisbon-portugal-dissidents-personal-data-repressive-regimes/</link>
+            
+            
+            
+            <author><![CDATA[mr_sand_man]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Containers are tents]]></title>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=27480496 target=_blank>96 comments</a>]]></description>
+            <pubDate>2021-06-12T01:23:29.000Z</pubDate>
+            <guid isPermaLink="false">https://increment.com/containers/containers-vs-vms/</guid>
+            <link>https://increment.com/containers/containers-vs-vms/</link>
+            
+            
+            
+            <author><![CDATA[vmarsy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Modern Mathematics of Deep Learning]]></title>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=27485574 target=_blank>40 comments</a>]]></description>
+            <pubDate>2021-06-12T16:37:55.000Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2105.04026</guid>
+            <link>https://arxiv.org/abs/2105.04026</link>
+            
+            
+            
+            <author><![CDATA[tims457]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A popular household fern may be the first known eusocial plant]]></title>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=27483442 target=_blank>44 comments</a>]]></description>
+            <pubDate>2021-06-12T10:39:44.000Z</pubDate>
+            <guid isPermaLink="false">http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/</guid>
+            <link>http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/</link>
+            
+            
+            
+            <author><![CDATA[pseudolus]]></author>
             
                 
             
