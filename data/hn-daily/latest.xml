@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Show HN: RSS feeds for arbitrary websites using CSS selectors]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=27739568 target=_blank>87 comments</a>]]></description>
-            <pubDate>2021-07-05T16:28:02.000Z</pubDate>
-            <guid isPermaLink="false">https://feed-me-up-scotty.vincenttunru.com/</guid>
-            <link>https://feed-me-up-scotty.vincenttunru.com/</link>
+            <title><![CDATA[Console Do Not Track – Proposal for a standard environment variable]]></title>
+            <description><![CDATA[628 points | <a href=https://news.ycombinator.com/item?id=27746587 target=_blank>316 comments</a>]]></description>
+            <pubDate>2021-07-06T10:49:48.000Z</pubDate>
+            <guid isPermaLink="false">https://consoledonottrack.com</guid>
+            <link>https://consoledonottrack.com</link>
             
             
             
-            <author><![CDATA[Vinnl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Students flee field as computer 'fad fades' (1987)]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=27734158 target=_blank>349 comments</a>]]></description>
-            <pubDate>2021-07-05T02:20:33.000Z</pubDate>
-            <guid isPermaLink="false">https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de</guid>
-            <link>https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de</link>
-            
-            
-            
-            <author><![CDATA[geocrasher]]></author>
+            <author><![CDATA[thih9]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=27737718 target=_blank>55 comments</a>]]></description>
-            <pubDate>2021-07-05T13:24:11.000Z</pubDate>
-            <guid isPermaLink="false">https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/</guid>
-            <link>https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/</link>
+            <title><![CDATA[Poisson's Equation]]></title>
+            <description><![CDATA[611 points | <a href=https://news.ycombinator.com/item?id=27748967 target=_blank>143 comments</a>]]></description>
+            <pubDate>2021-07-06T14:20:18.000Z</pubDate>
+            <guid isPermaLink="false">https://mattferraro.dev/posts/poissons-equation</guid>
+            <link>https://mattferraro.dev/posts/poissons-equation</link>
             
             
             
-            <author><![CDATA[watchdogtimer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GitHub Copilot is not infringing copyright]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=27736650 target=_blank>431 comments</a>]]></description>
-            <pubDate>2021-07-05T11:10:49.000Z</pubDate>
-            <guid isPermaLink="false">https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/</guid>
-            <link>https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/</link>
-            
-            
-            
-            <author><![CDATA[aarroyoc]]></author>
+            <author><![CDATA[mferraro89]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Music for Programming]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=27737887 target=_blank>125 comments</a>]]></description>
-            <pubDate>2021-07-05T13:42:09.000Z</pubDate>
-            <guid isPermaLink="false">https://www.musicforprogramming.net/</guid>
-            <link>https://www.musicforprogramming.net/</link>
+            <title><![CDATA[European Parliament approves mass surveillance of private communication]]></title>
+            <description><![CDATA[588 points | <a href=https://news.ycombinator.com/item?id=27753727 target=_blank>267 comments</a>]]></description>
+            <pubDate>2021-07-06T20:20:53.000Z</pubDate>
+            <guid isPermaLink="false">https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/</guid>
+            <link>https://www.patrick-breyer.de/en/chatcontrol-european-parliament-approves-mass-surveillance-of-private-communications/</link>
             
             
             
-            <author><![CDATA[Vaslo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Python Best Practices for a New Project in 2021]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=27736465 target=_blank>218 comments</a>]]></description>
-            <pubDate>2021-07-05T10:42:45.000Z</pubDate>
-            <guid isPermaLink="false">https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/</guid>
-            <link>https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/</link>
-            
-            
-            
-            <author><![CDATA[jedwhite]]></author>
+            <author><![CDATA[pepperberg]]></author>
             
                 
             
@@ -114,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Indiscriminate messaging and chatcontrol: Last chance to protest]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=27736435 target=_blank>86 comments</a>]]></description>
-            <pubDate>2021-07-05T10:38:54.000Z</pubDate>
-            <guid isPermaLink="false">https://www.patrick-breyer.de/en/indiscriminate-messaging-and-chatcontrol-last-chance-to-protest/</guid>
-            <link>https://www.patrick-breyer.de/en/indiscriminate-messaging-and-chatcontrol-last-chance-to-protest/</link>
+            <title><![CDATA[Linux Rust Support]]></title>
+            <description><![CDATA[585 points | <a href=https://news.ycombinator.com/item?id=27746130 target=_blank>378 comments</a>]]></description>
+            <pubDate>2021-07-06T09:50:27.000Z</pubDate>
+            <guid isPermaLink="false">https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/</guid>
+            <link>https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/</link>
             
             
             
-            <author><![CDATA[ColinWright]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Everything useful I know about kubectl]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=27737064 target=_blank>68 comments</a>]]></description>
-            <pubDate>2021-07-05T12:04:02.000Z</pubDate>
-            <guid isPermaLink="false">https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/</guid>
-            <link>https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/</link>
-            
-            
-            
-            <author><![CDATA[alexhwoods]]></author>
+            <author><![CDATA[doener]]></author>
             
                 
             
@@ -146,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=27736788 target=_blank>79 comments</a>]]></description>
-            <pubDate>2021-07-05T11:27:40.000Z</pubDate>
-            <guid isPermaLink="false">https://www.theregister.com/2021/07/05/infinidash/</guid>
-            <link>https://www.theregister.com/2021/07/05/infinidash/</link>
+            <title><![CDATA[No More Movies]]></title>
+            <description><![CDATA[519 points | <a href=https://news.ycombinator.com/item?id=27743738 target=_blank>526 comments</a>]]></description>
+            <pubDate>2021-07-06T02:36:37.000Z</pubDate>
+            <guid isPermaLink="false">https://jayriverlong.github.io/2021/07/05/movies.html</guid>
+            <link>https://jayriverlong.github.io/2021/07/05/movies.html</link>
             
             
             
-            <author><![CDATA[rcarmo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[World’s largest ever four day week trial in Iceland ‘overwhelming success’]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=27733827 target=_blank>113 comments</a>]]></description>
-            <pubDate>2021-07-05T00:52:01.000Z</pubDate>
-            <guid isPermaLink="false">https://www.independent.co.uk/news/uk/politics/four-day-week-pilot-iceland-b1877171.html</guid>
-            <link>https://www.independent.co.uk/news/uk/politics/four-day-week-pilot-iceland-b1877171.html</link>
-            
-            
-            
-            <author><![CDATA[toomuchtodo]]></author>
+            <author><![CDATA[jeffreyrogers]]></author>
             
                 
             
@@ -178,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[YouTube channel “TechLead” creator has created a crypto and pulled the rug]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=27734661 target=_blank>138 comments</a>]]></description>
-            <pubDate>2021-07-05T04:37:15.000Z</pubDate>
-            <guid isPermaLink="false">https://old.reddit.com/r/CryptoCurrency/comments/odusa6/techlead_youtuber_with_11_million_subscribers_is/</guid>
-            <link>https://old.reddit.com/r/CryptoCurrency/comments/odusa6/techlead_youtuber_with_11_million_subscribers_is/</link>
+            <title><![CDATA[Leaving Google]]></title>
+            <description><![CDATA[444 points | <a href=https://news.ycombinator.com/item?id=27744748 target=_blank>288 comments</a>]]></description>
+            <pubDate>2021-07-06T06:12:24.000Z</pubDate>
+            <guid isPermaLink="false">http://neugierig.org/software/blog/2021/07/leaving-google.html</guid>
+            <link>http://neugierig.org/software/blog/2021/07/leaving-google.html</link>
             
             
             
-            <author><![CDATA[donsupreme]]></author>
+            <author><![CDATA[edward]]></author>
             
                 
             
@@ -194,15 +114,95 @@
         </item>
         
         <item>
-            <title><![CDATA[GitHub Copilot regurgitates valid secrets]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=27736460 target=_blank>136 comments</a>]]></description>
-            <pubDate>2021-07-05T10:41:59.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/alexjc/status/1411966249437995010</guid>
-            <link>https://twitter.com/alexjc/status/1411966249437995010</link>
+            <title><![CDATA[“I wish I could have licensed the Id source code releases as BSD”]]></title>
+            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=27744372 target=_blank>411 comments</a>]]></description>
+            <pubDate>2021-07-06T04:56:51.000Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/ID_AA_Carmack/status/1412271091393994754</guid>
+            <link>https://twitter.com/ID_AA_Carmack/status/1412271091393994754</link>
             
             
             
-            <author><![CDATA[petulla]]></author>
+            <author><![CDATA[bifrost]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Up to 1,500 businesses affected by ransomware attack, Kaseya CEO says]]></title>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=27750040 target=_blank>278 comments</a>]]></description>
+            <pubDate>2021-07-06T15:42:41.000Z</pubDate>
+            <guid isPermaLink="false">https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/</guid>
+            <link>https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/</link>
+            
+            
+            
+            <author><![CDATA[babyblueblanket]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Side Quest – An aggregator for not full-time tech jobs]]></title>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=27749497 target=_blank>80 comments</a>]]></description>
+            <pubDate>2021-07-06T14:59:10.000Z</pubDate>
+            <guid isPermaLink="false">https://sidequestjobs.com/</guid>
+            <link>https://sidequestjobs.com/</link>
+            
+            
+            
+            <author><![CDATA[ryry]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OSSU: Path to a free, self-taught education in computer science]]></title>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=27744255 target=_blank>135 comments</a>]]></description>
+            <pubDate>2021-07-06T04:35:52.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/ossu/computer-science</guid>
+            <link>https://github.com/ossu/computer-science</link>
+            
+            
+            
+            <author><![CDATA[axiomdata316]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tell HN: YC will help you find a co-founder]]></title>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=27750298 target=_blank>91 comments</a>]]></description>
+            <pubDate>2021-07-06T16:02:05.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=27750298</guid>
+            <link>https://news.ycombinator.com/item?id=27750298</link>
+            
+            
+            
+            <author><![CDATA[kcorbitt]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[An AI wolf that preferred suicide over eating sheep]]></title>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=27746815 target=_blank>198 comments</a>]]></description>
+            <pubDate>2021-07-06T11:15:22.000Z</pubDate>
+            <guid isPermaLink="false">https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710</guid>
+            <link>https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710</link>
+            
+            
+            
+            <author><![CDATA[lancengym]]></author>
             
                 
             
