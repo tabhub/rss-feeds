@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #519]]></title>
+        <title><![CDATA[Perl Weekly #520]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,139 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[A block... blocks]]></title>
-            <description><![CDATA[Unsurprisingly, a BLOCK in Perl blocks a lot of things, including a package statement.]]></description>
-            <pubDate>2021.06.28</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/06/28/a-block-blocks/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/06/28/a-block-blocks/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Gradual method renaming in Perl]]></title>
-            <description><![CDATA[Refactoring code across several git repositories.]]></description>
-            <pubDate>2021.06.29</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/06/29/gradual-method-renaming-in-perl/</guid>
-            <link>https://phoenixtrap.com/2021/06/29/gradual-method-renaming-in-perl/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CPAN Bus Factor]]></title>
-            <description><![CDATA[A measurement of the risk resulting from information and capabilities not being shared among team members, derived from the phrase 'in case they get hit by a bus.']]></description>
-            <pubDate>2021.06.30</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2021/06/30/cpan-bus-factor/</guid>
-            <link>https://www.olafalders.com/2021/06/30/cpan-bus-factor/</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[adding the perl-support section to my CPAN modules ]]></title>
-            <description><![CDATA[P5P has been working on new features for Perl and the CPAN authors had to refrain from using those as they were expected to 'support' old versions of Perl for organizations that don't support the Perl ecosystem and have no intention to upgrade the Perl they use. (In which case, IMHO they should also stick to the old versions of the modules that ran on their version of Perl.) Ricardo now takes the leap and makes it explicit that he is not going to waste his free time doing so.]]></description>
-            <pubDate>2021.07.01</pubDate>
-            <guid isPermaLink="false">https://rjbs.manxome.org/rubric/entry/2124</guid>
-            <link>https://rjbs.manxome.org/rubric/entry/2124</link>
-            
-            
-            
-            <author><![CDATA[ricardo_signes]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[App::Easer]]></title>
-            <description><![CDATA[To write a CLI with a hierarchy of sub-commands. Something like the Git command-line interface client.]]></description>
-            <pubDate>2021.07.03</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/03/app-easer/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/07/03/app-easer/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[App::Easer example]]></title>
-            <description><![CDATA[App::Easer example]]></description>
-            <pubDate>2021.07.04</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/04/app-easer-example/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/07/04/app-easer-example/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Announcing Date-ManipX-Almanac]]></title>
-            <description><![CDATA[You can specify 'tomorrow noon', and now also 'tomorrow sunrise' However it only works in English. Would you like to help Tom add support for other languages as well?]]></description>
-            <pubDate>2021.07.04</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/07/announcing-date-manipx-almanac.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2021/07/announcing-date-manipx-almanac.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[what CPAN code did I install when?]]></title>
-            <description><![CDATA[Be like RJBS.]]></description>
-            <pubDate>2021.07.03</pubDate>
-            <guid isPermaLink="false">https://rjbs.manxome.org/rubric/entry/2125</guid>
-            <link>https://rjbs.manxome.org/rubric/entry/2125</link>
-            
-            
-            
-            <author><![CDATA[ricardo_signes]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PLS: Perl Language Server]]></title>
-            <description><![CDATA[If you are a Visual Studio Code user you might want to try this new plugin.]]></description>
-            <pubDate>2021.06.30</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/o9yfbp/pls_perl_language_server/</guid>
-            <link>https://www.reddit.com/r/perl/comments/o9yfbp/pls_perl_language_server/</link>
+            <title><![CDATA[Perl Language Server (PLS) - Visual Studio Marketplace]]></title>
+            <description><![CDATA[If you are a Visual Studio Code user then this announcement is for you.]]></description>
+            <pubDate>2021.07.08</pubDate>
+            <guid isPermaLink="false">https://marketplace.visualstudio.com/items?itemName=FractalBoy.pls</guid>
+            <link>https://marketplace.visualstudio.com/items?itemName=FractalBoy.pls</link>
             
             
             
@@ -162,15 +34,111 @@
         </item>
         
         <item>
-            <title><![CDATA[Handling of symlinks on Windows (Perl, MSYS2, Cygwin)]]></title>
-            <description><![CDATA[Tying to get the Perl language server to work on Windows. A lot of mess and a partial success.]]></description>
+            <title><![CDATA[Release notes for Rex 1.13.4]]></title>
+            <description><![CDATA[This patch release of the friendly automation framework contains documentation updates, and fixes inconsistent behavior between the `content` and `source` options of the file command.]]></description>
+            <pubDate>2021.07.05</pubDate>
+            <guid isPermaLink="false">https://www.rexify.org/docs/release_notes/1.13.4.html</guid>
+            <link>https://www.rexify.org/docs/release_notes/1.13.4.html</link>
+            
+            
+            
+            <author><![CDATA[ferenc_erki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How I Uploaded a CPAN Module]]></title>
+            <description><![CDATA[Cheok-Yin's first hand experience on how to upload a CPAN module.]]></description>
+            <pubDate>2021.07.09</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/c_y_fung/2021/07/how-i-uploaded-a-cpan-module.html</guid>
+            <link>http://blogs.perl.org/users/c_y_fung/2021/07/how-i-uploaded-a-cpan-module.html</link>
+            
+            
+            
+            <author><![CDATA[cheok_fung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl debugger superpowers, part 2]]></title>
+            <description><![CDATA[Check out this blog post if you need help with the Perl debugger.]]></description>
+            <pubDate>2021.07.06</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/07/06/perl-debugger-superpowers-part-2/</guid>
+            <link>https://phoenixtrap.com/2021/07/06/perl-debugger-superpowers-part-2/</link>
+            
+            
+            
+            <author><![CDATA[mark_gardner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App::Easer "multilevel" example]]></title>
+            <description><![CDATA[Cool example of App::Easer for you to try.]]></description>
+            <pubDate>2021.07.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/05/app-easer-multi-example/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/07/05/app-easer-multi-example/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Monthly Report - June]]></title>
+            <description><![CDATA[Time for my monthly report ...]]></description>
             <pubDate>2021.07.04</pubDate>
-            <guid isPermaLink="false">https://dev.to/hakonhagland/handling-of-symlinks-on-windows-perl-msys2-cygwin-52h3</guid>
-            <link>https://dev.to/hakonhagland/handling-of-symlinks-on-windows-perl-msys2-cygwin-52h3</link>
+            <guid isPermaLink="false">http://blogs.perl.org/users/mohammad_s_anwar/2021/07/monthly-report---june-2.html</guid>
+            <link>http://blogs.perl.org/users/mohammad_s_anwar/2021/07/monthly-report---june-2.html</link>
             
             
             
-            <author><![CDATA[hakon_haegland]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How to create awesome pull requests]]></title>
+            <description><![CDATA[JJ Merelo sharing the secrets of creating awesome pull requests.]]></description>
+            <pubDate>2021.07.05</pubDate>
+            <guid isPermaLink="false">https://medium.com/codex/how-to-create-awesome-pull-requests-b634e7f00e47</guid>
+            <link>https://medium.com/codex/how-to-create-awesome-pull-requests-b634e7f00e47</link>
+            
+            
+            
+            <author><![CDATA[jj_merelo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2021.27 For Messing Up]]></title>
+            <description><![CDATA[2021.27 For Messing Up]]></description>
+            <pubDate>2021.07.05</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/07/05/2021-27-for-messing-up/</guid>
+            <link>https://rakudoweekly.blog/2021/07/05/2021-27-for-messing-up/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -179,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/07/cccxlviii-10-great-cpan-modules.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdlxxiv-metacpan-weekly-report-pls.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdxcvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.06</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/07/cccxlix-15-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdlxxv-metacpan-weekly-report-pls.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdxcviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.07.10</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
