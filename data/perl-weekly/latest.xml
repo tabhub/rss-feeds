@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #520]]></title>
+        <title><![CDATA[Perl Weekly #521]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl Language Server (PLS) - Visual Studio Marketplace]]></title>
-            <description><![CDATA[If you are a Visual Studio Code user then this announcement is for you.]]></description>
-            <pubDate>2021.07.08</pubDate>
-            <guid isPermaLink="false">https://marketplace.visualstudio.com/items?itemName=FractalBoy.pls</guid>
-            <link>https://marketplace.visualstudio.com/items?itemName=FractalBoy.pls</link>
+            <title><![CDATA[Mojolicious Music Player]]></title>
+            <description><![CDATA[Can you build an audio player from perl Mojolicious?]]></description>
+            <pubDate>2021.06.04</pubDate>
+            <guid isPermaLink="false">https://ology.github.io/2021/06/04/mojolicious-music-player/</guid>
+            <link>https://ology.github.io/2021/06/04/mojolicious-music-player/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Release notes for Rex 1.13.4]]></title>
-            <description><![CDATA[This patch release of the friendly automation framework contains documentation updates, and fixes inconsistent behavior between the `content` and `source` options of the file command.]]></description>
-            <pubDate>2021.07.05</pubDate>
-            <guid isPermaLink="false">https://www.rexify.org/docs/release_notes/1.13.4.html</guid>
-            <link>https://www.rexify.org/docs/release_notes/1.13.4.html</link>
-            
-            
-            
-            <author><![CDATA[ferenc_erki]]></author>
+            <author><![CDATA[gene_boggs]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How I Uploaded a CPAN Module]]></title>
-            <description><![CDATA[Cheok-Yin's first hand experience on how to upload a CPAN module.]]></description>
-            <pubDate>2021.07.09</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/c_y_fung/2021/07/how-i-uploaded-a-cpan-module.html</guid>
-            <link>http://blogs.perl.org/users/c_y_fung/2021/07/how-i-uploaded-a-cpan-module.html</link>
+            <title><![CDATA[Release 1.55 of perl-workflow, a minor feature release]]></title>
+            <description><![CDATA[Release 1.55 of perl-workflow, a minor feature release]]></description>
+            <pubDate>2021.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/release-1-55-of-perl-workflow-a-minor-feature-release-o1</guid>
+            <link>https://dev.to/jonasbn/release-1-55-of-perl-workflow-a-minor-feature-release-o1</link>
             
             
             
-            <author><![CDATA[cheok_fung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl debugger superpowers, part 2]]></title>
-            <description><![CDATA[Check out this blog post if you need help with the Perl debugger.]]></description>
-            <pubDate>2021.07.06</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/07/06/perl-debugger-superpowers-part-2/</guid>
-            <link>https://phoenixtrap.com/2021/07/06/perl-debugger-superpowers-part-2/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
+            <author><![CDATA[jonas_nielsen]]></author>
             
                 
             
@@ -82,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[App::Easer "multilevel" example]]></title>
-            <description><![CDATA[Cool example of App::Easer for you to try.]]></description>
-            <pubDate>2021.07.05</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/05/app-easer-multi-example/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/07/05/app-easer-multi-example/</link>
+            <title><![CDATA[Finding Vim snippets in Bash]]></title>
+            <description><![CDATA[A little Bash program (with completions) to show Vim snippets.]]></description>
+            <pubDate>2021.07.13</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/13/finding-vim-snippets/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/07/13/finding-vim-snippets/</link>
             
             
             
@@ -98,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Monthly Report - June]]></title>
-            <description><![CDATA[Time for my monthly report ...]]></description>
-            <pubDate>2021.07.04</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/mohammad_s_anwar/2021/07/monthly-report---june-2.html</guid>
-            <link>http://blogs.perl.org/users/mohammad_s_anwar/2021/07/monthly-report---june-2.html</link>
+            <title><![CDATA[Taming the Moose: Picking the best way to subclass Perl methods]]></title>
+            <description><![CDATA[The override keyword in Perl’s Moose object system is a nice bit of code-as-documentation.]]></description>
+            <pubDate>2021.07.13</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/07/13/taming-the-moose-picking-the-best-way-to-subclass-perl-methods/</guid>
+            <link>https://phoenixtrap.com/2021/07/13/taming-the-moose-picking-the-best-way-to-subclass-perl-methods/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How to create awesome pull requests]]></title>
-            <description><![CDATA[JJ Merelo sharing the secrets of creating awesome pull requests.]]></description>
-            <pubDate>2021.07.05</pubDate>
-            <guid isPermaLink="false">https://medium.com/codex/how-to-create-awesome-pull-requests-b634e7f00e47</guid>
-            <link>https://medium.com/codex/how-to-create-awesome-pull-requests-b634e7f00e47</link>
-            
-            
-            
-            <author><![CDATA[jj_merelo]]></author>
+            <author><![CDATA[mark_gardner]]></author>
             
                 
             
@@ -130,15 +82,63 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.27 For Messing Up]]></title>
-            <description><![CDATA[2021.27 For Messing Up]]></description>
-            <pubDate>2021.07.05</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/07/05/2021-27-for-messing-up/</guid>
-            <link>https://rakudoweekly.blog/2021/07/05/2021-27-for-messing-up/</link>
+            <title><![CDATA[Adding Tab Completion to Your Favourite CLI Programs]]></title>
+            <description><![CDATA[Adding Tab Completion to Your Favourite CLI Programs]]></description>
+            <pubDate>2021.07.13</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2021/07/13/prove-tab-completion/</guid>
+            <link>https://www.olafalders.com/2021/07/13/prove-tab-completion/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Adding a Preview Window to Your Tab Completion]]></title>
+            <description><![CDATA[Adding a Preview Window to Your Tab Completion]]></description>
+            <pubDate>2021.07.15</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2021/07/15/tab-completion-with-preview/</guid>
+            <link>https://www.olafalders.com/2021/07/15/tab-completion-with-preview/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Web nostalgia: MojoX::Mechanize]]></title>
+            <description><![CDATA[Back when the web was simpler, the clients were dumb and Perl ruled as the server frontend, interfaces were IMHO more clearly defined and somehow standardized.]]></description>
+            <pubDate>2021.07.17</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/17/mojox-mechanize/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/07/17/mojox-mechanize/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[More commenting... maybe?]]></title>
+            <description><![CDATA[My code might use some more commenting, maybe? - A reflection on The Weekly Challenge]]></description>
+            <pubDate>2021.07.18</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/18/more-commenting-maybe/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/07/18/more-commenting-maybe/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -147,14 +147,30 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/07/cccxlix-15-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdlxxv-metacpan-weekly-report-pls.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdxcviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.07.10</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/07/cccl-9-great-cpan-modules-released-last.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdlxxvi-metacpan-weekly-report-objectpad.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdxcix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.07.17</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Regexp::Grammars parse text with markup or markdown]]></title>
+            <description><![CDATA[Parsing text with markup (or markdown) is not easy. It took me several days to wrap my head around this, but eventually I think I've figured it out.]]></description>
+            <pubDate>2021.07.19</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/regexp-grammars-parse-text-with-markup</guid>
+            <link>https://perlmaven.com/regexp-grammars-parse-text-with-markup</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
