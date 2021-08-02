@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #521]]></title>
+        <title><![CDATA[Perl Weekly #523]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,59 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Mojolicious Music Player]]></title>
-            <description><![CDATA[Can you build an audio player from perl Mojolicious?]]></description>
-            <pubDate>2021.06.04</pubDate>
-            <guid isPermaLink="false">https://ology.github.io/2021/06/04/mojolicious-music-player/</guid>
-            <link>https://ology.github.io/2021/06/04/mojolicious-music-player/</link>
-            
-            
-            
-            <author><![CDATA[gene_boggs]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Release 1.55 of perl-workflow, a minor feature release]]></title>
-            <description><![CDATA[Release 1.55 of perl-workflow, a minor feature release]]></description>
-            <pubDate>2021.07</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/release-1-55-of-perl-workflow-a-minor-feature-release-o1</guid>
-            <link>https://dev.to/jonasbn/release-1-55-of-perl-workflow-a-minor-feature-release-o1</link>
-            
-            
-            
-            <author><![CDATA[jonas_nielsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Finding Vim snippets in Bash]]></title>
-            <description><![CDATA[A little Bash program (with completions) to show Vim snippets.]]></description>
-            <pubDate>2021.07.13</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/13/finding-vim-snippets/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/07/13/finding-vim-snippets/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Taming the Moose: Picking the best way to subclass Perl methods]]></title>
-            <description><![CDATA[The override keyword in Perl’s Moose object system is a nice bit of code-as-documentation.]]></description>
-            <pubDate>2021.07.13</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/07/13/taming-the-moose-picking-the-best-way-to-subclass-perl-methods/</guid>
-            <link>https://phoenixtrap.com/2021/07/13/taming-the-moose-picking-the-best-way-to-subclass-perl-methods/</link>
+            <title><![CDATA[The Funhouse Mirror of Perl Criticism]]></title>
+            <description><![CDATA[An excellent article about the tools you can use to improve the way you and your team writes Perl code. However, how can you make sure you don't break your code while you implement the changes recommended by these tools?]]></description>
+            <pubDate>2021.07.27</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/</guid>
+            <link>https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/</link>
             
             
             
@@ -82,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Adding Tab Completion to Your Favourite CLI Programs]]></title>
-            <description><![CDATA[Adding Tab Completion to Your Favourite CLI Programs]]></description>
-            <pubDate>2021.07.13</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2021/07/13/prove-tab-completion/</guid>
-            <link>https://www.olafalders.com/2021/07/13/prove-tab-completion/</link>
+            <title><![CDATA[Zapp: Runbook Automation]]></title>
+            <description><![CDATA[I did not know what a runbook is, I guess it is something others call a checklist. What I do know is that I agree about the problems with Jenkins and I'd love to see something like this being developed. It can be an excellent tool for SREs and people whom are often called DevOps engineers. IMHO, in order to make it catch on it needs its own web-site that is not MetaCPAN. It needs to have an installation that does not require any knowledge of Perl. These are two big areas where others could help the project. Of course 'just' using it and reporting any issues would also be extremely valuable.]]></description>
+            <pubDate>2021.07.29</pubDate>
+            <guid isPermaLink="false">https://dev.to/preaction/zapp-runbook-automation-451g</guid>
+            <link>https://dev.to/preaction/zapp-runbook-automation-451g</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Adding a Preview Window to Your Tab Completion]]></title>
-            <description><![CDATA[Adding a Preview Window to Your Tab Completion]]></description>
-            <pubDate>2021.07.15</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2021/07/15/tab-completion-with-preview/</guid>
-            <link>https://www.olafalders.com/2021/07/15/tab-completion-with-preview/</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
+            <author><![CDATA[doug_bell]]></author>
             
                 
             
@@ -114,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Web nostalgia: MojoX::Mechanize]]></title>
-            <description><![CDATA[Back when the web was simpler, the clients were dumb and Perl ruled as the server frontend, interfaces were IMHO more clearly defined and somehow standardized.]]></description>
-            <pubDate>2021.07.17</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/17/mojox-mechanize/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/07/17/mojox-mechanize/</link>
+            <title><![CDATA[perlbrew improved]]></title>
+            <description><![CDATA[perlbrew to better name each build that is based on an arbitrary commit and not on a released version of Perl.]]></description>
+            <pubDate>2021.07.30</pubDate>
+            <guid isPermaLink="false">https://dev.to/drhyde/perlbrew-improved-23k9</guid>
+            <link>https://dev.to/drhyde/perlbrew-improved-23k9</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[david_cantrell]]></author>
             
                 
             
@@ -130,15 +66,79 @@
         </item>
         
         <item>
-            <title><![CDATA[More commenting... maybe?]]></title>
-            <description><![CDATA[My code might use some more commenting, maybe? - A reflection on The Weekly Challenge]]></description>
-            <pubDate>2021.07.18</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/07/18/more-commenting-maybe/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/07/18/more-commenting-maybe/</link>
+            <title><![CDATA[Speaking at Developer Career Day 2021]]></title>
+            <description><![CDATA[Many people complain how perl has a bad reputation based on incorrect information outside of the Perl bubble. Very few do anything about it anything. Try blogging outside the bubble.]]></description>
+            <pubDate>2021.07.27</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/07/27/speaking-at-developer-career-day-2021/</guid>
+            <link>https://phoenixtrap.com/2021/07/27/speaking-at-developer-career-day-2021/</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[mark_gardner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl UV binding hits version 2.000]]></title>
+            <description><![CDATA[libuv is a cross-platform event handling library, which focuses on providing nicely portable abstractions for things like TCP sockets, timers, and sub-process management between UNIX, Windows and other platforms. UV is the Perl bindings for it.]]></description>
+            <pubDate>2021.07.30</pubDate>
+            <guid isPermaLink="false">https://leonerds-code.blogspot.com/2021/07/perl-uv-binding-hits-version-2000.html</guid>
+            <link>https://leonerds-code.blogspot.com/2021/07/perl-uv-binding-hits-version-2000.html</link>
+            
+            
+            
+            <author><![CDATA[paul_evans]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Are you using Cache::Memcached and its ->stats method?]]></title>
+            <description><![CDATA[A module that is probably used by some large projects, but not maintained any more. Without a link to its public VCS, if it even has a public VCS. Probably the best approach would be to reach out to the original author and the author of the most recent release via their email or social network profiles.]]></description>
+            <pubDate>2021.07.29</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/lee_j/2021/07/using-cachememcached-and-its--stats-method.html</guid>
+            <link>http://blogs.perl.org/users/lee_j/2021/07/using-cachememcached-and-its--stats-method.html</link>
+            
+            
+            
+            <author><![CDATA[lee_johnson]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Release 1.56 of perl-workflow, a bug fix release]]></title>
+            <description><![CDATA[Release 1.56 of perl-workflow, a bug fix release]]></description>
+            <pubDate>2021.07.29</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/release-1-56-of-perl-workflow-a-bug-fix-release-4dj5</guid>
+            <link>https://dev.to/jonasbn/release-1-56-of-perl-workflow-a-bug-fix-release-4dj5</link>
+            
+            
+            
+            <author><![CDATA[jonas_nielsen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How deep is a recursion in Perl?]]></title>
+            <description><![CDATA[How can you find out the current depth of the recursion?]]></description>
+            <pubDate>2021.07.31</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/how-deep-is-the-recursion</guid>
+            <link>https://perlmaven.com/how-deep-is-the-recursion</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -147,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/07/cccl-9-great-cpan-modules-released-last.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdlxxvi-metacpan-weekly-report-objectpad.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/07/cdxcix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.07.17</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/08/ccclii-10-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/08/cdlxxviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br>.]]></description>
+            <pubDate>2021.08.01</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -162,11 +162,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Regexp::Grammars parse text with markup or markdown]]></title>
-            <description><![CDATA[Parsing text with markup (or markdown) is not easy. It took me several days to wrap my head around this, but eventually I think I've figured it out.]]></description>
-            <pubDate>2021.07.19</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/regexp-grammars-parse-text-with-markup</guid>
-            <link>https://perlmaven.com/regexp-grammars-parse-text-with-markup</link>
+            <title><![CDATA[Gabor self-reporting July 2021]]></title>
+            <description><![CDATA[Gabor self-reporting July 2021]]></description>
+            <pubDate>2021.08</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/report-2021-07.html</guid>
+            <link>https://szabgab.com/report-2021-07.html</link>
             
             
             
