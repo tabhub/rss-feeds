@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #523]]></title>
+        <title><![CDATA[Perl Weekly #524]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,11 +18,27 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Funhouse Mirror of Perl Criticism]]></title>
-            <description><![CDATA[An excellent article about the tools you can use to improve the way you and your team writes Perl code. However, how can you make sure you don't break your code while you implement the changes recommended by these tools?]]></description>
-            <pubDate>2021.07.27</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/</guid>
-            <link>https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/</link>
+            <title><![CDATA[Board review: Community Affairs Team]]></title>
+            <description><![CDATA[TPF board has chosen to put the CAT on hiatus while its charter is formalized, and is retracting the public announcements of previous investigations.]]></description>
+            <pubDate>2021.08.07</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/cat_review</guid>
+            <link>https://news.perlfoundation.org/post/cat_review</link>
+            
+            
+            
+            <author><![CDATA[stuart_mackintosh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What’s Next for Object-Oriented Perl?]]></title>
+            <description><![CDATA[Promoting Object::Pad by upgrading his existing code. Interesting discussion with regard to the issues faced during the process.]]></description>
+            <pubDate>2021.08.03</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/08/03/whats-next-oo-perl/</guid>
+            <link>https://phoenixtrap.com/2021/08/03/whats-next-oo-perl/</link>
             
             
             
@@ -34,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Zapp: Runbook Automation]]></title>
-            <description><![CDATA[I did not know what a runbook is, I guess it is something others call a checklist. What I do know is that I agree about the problems with Jenkins and I'd love to see something like this being developed. It can be an excellent tool for SREs and people whom are often called DevOps engineers. IMHO, in order to make it catch on it needs its own web-site that is not MetaCPAN. It needs to have an installation that does not require any knowledge of Perl. These are two big areas where others could help the project. Of course 'just' using it and reporting any issues would also be extremely valuable.]]></description>
-            <pubDate>2021.07.29</pubDate>
-            <guid isPermaLink="false">https://dev.to/preaction/zapp-runbook-automation-451g</guid>
-            <link>https://dev.to/preaction/zapp-runbook-automation-451g</link>
+            <title><![CDATA[Think Bayes]]></title>
+            <description><![CDATA[Well, in the blog, Flavio promoting a book, Think Bayes, that he is reading at the moment. Nice introduction, I must say. Bookmarking it for later reading.]]></description>
+            <pubDate>2021.08.03</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/08/03/think-bayes/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/08/03/think-bayes/</link>
             
             
             
-            <author><![CDATA[doug_bell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[perlbrew improved]]></title>
-            <description><![CDATA[perlbrew to better name each build that is based on an arbitrary commit and not on a released version of Perl.]]></description>
-            <pubDate>2021.07.30</pubDate>
-            <guid isPermaLink="false">https://dev.to/drhyde/perlbrew-improved-23k9</guid>
-            <link>https://dev.to/drhyde/perlbrew-improved-23k9</link>
-            
-            
-            
-            <author><![CDATA[david_cantrell]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -66,75 +66,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Speaking at Developer Career Day 2021]]></title>
-            <description><![CDATA[Many people complain how perl has a bad reputation based on incorrect information outside of the Perl bubble. Very few do anything about it anything. Try blogging outside the bubble.]]></description>
-            <pubDate>2021.07.27</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/07/27/speaking-at-developer-career-day-2021/</guid>
-            <link>https://phoenixtrap.com/2021/07/27/speaking-at-developer-career-day-2021/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl UV binding hits version 2.000]]></title>
-            <description><![CDATA[libuv is a cross-platform event handling library, which focuses on providing nicely portable abstractions for things like TCP sockets, timers, and sub-process management between UNIX, Windows and other platforms. UV is the Perl bindings for it.]]></description>
-            <pubDate>2021.07.30</pubDate>
-            <guid isPermaLink="false">https://leonerds-code.blogspot.com/2021/07/perl-uv-binding-hits-version-2000.html</guid>
-            <link>https://leonerds-code.blogspot.com/2021/07/perl-uv-binding-hits-version-2000.html</link>
-            
-            
-            
-            <author><![CDATA[paul_evans]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Are you using Cache::Memcached and its ->stats method?]]></title>
-            <description><![CDATA[A module that is probably used by some large projects, but not maintained any more. Without a link to its public VCS, if it even has a public VCS. Probably the best approach would be to reach out to the original author and the author of the most recent release via their email or social network profiles.]]></description>
-            <pubDate>2021.07.29</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/lee_j/2021/07/using-cachememcached-and-its--stats-method.html</guid>
-            <link>http://blogs.perl.org/users/lee_j/2021/07/using-cachememcached-and-its--stats-method.html</link>
-            
-            
-            
-            <author><![CDATA[lee_johnson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Release 1.56 of perl-workflow, a bug fix release]]></title>
-            <description><![CDATA[Release 1.56 of perl-workflow, a bug fix release]]></description>
-            <pubDate>2021.07.29</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/release-1-56-of-perl-workflow-a-bug-fix-release-4dj5</guid>
-            <link>https://dev.to/jonasbn/release-1-56-of-perl-workflow-a-bug-fix-release-4dj5</link>
-            
-            
-            
-            <author><![CDATA[jonas_nielsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How deep is a recursion in Perl?]]></title>
-            <description><![CDATA[How can you find out the current depth of the recursion?]]></description>
-            <pubDate>2021.07.31</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/how-deep-is-the-recursion</guid>
-            <link>https://perlmaven.com/how-deep-is-the-recursion</link>
+            <title><![CDATA[Binary search in Perl array]]></title>
+            <description><![CDATA[Binary search in Perl array]]></description>
+            <pubDate>2021.08.0</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/binary-search-in-perl-array</guid>
+            <link>https://perlmaven.com/binary-search-in-perl-array</link>
             
             
             
@@ -146,9 +82,73 @@
         </item>
         
         <item>
+            <title><![CDATA[2021.31 Counting Down]]></title>
+            <description><![CDATA[2021.31 Counting Down]]></description>
+            <pubDate>2021.08.02</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/08/02/2021-31-counting-down/</guid>
+            <link>https://rakudoweekly.blog/2021/08/02/2021-31-counting-down/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Day 1: The Raku Conference]]></title>
+            <description><![CDATA[Day 1: The Raku Conference]]></description>
+            <pubDate>2021.08.06</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=NRl__okr8yU&#38;t=1s</guid>
+            <link>https://www.youtube.com/watch?v=NRl__okr8yU&#38;t=1s</link>
+            
+            
+            
+            <author><![CDATA[andrew_shitov]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Day 2: The Raku Conference]]></title>
+            <description><![CDATA[Day 2: The Raku Conference]]></description>
+            <pubDate>2021.08.07</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=b6lkCR8MjAw&#38;t=4s</guid>
+            <link>https://www.youtube.com/watch?v=b6lkCR8MjAw&#38;t=4s</link>
+            
+            
+            
+            <author><![CDATA[andrew_shitov]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Day 3: The Raku Conference]]></title>
+            <description><![CDATA[Day 3: The Raku Conference]]></description>
+            <pubDate>2021.08.08</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=C3X7r_SxlDs&#38;t=1s</guid>
+            <link>https://www.youtube.com/watch?v=C3X7r_SxlDs&#38;t=1s</link>
+            
+            
+            
+            <author><![CDATA[andrew_shitov]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/08/ccclii-10-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/08/cdlxxviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br>.]]></description>
-            <pubDate>2021.08.01</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/08/cccliii-12-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/08/cdlxxix-metacpan-weekly-report-objectpad.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/08/di-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.08.07</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -162,11 +162,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Gabor self-reporting July 2021]]></title>
-            <description><![CDATA[Gabor self-reporting July 2021]]></description>
-            <pubDate>2021.08</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/report-2021-07.html</guid>
-            <link>https://szabgab.com/report-2021-07.html</link>
+            <title><![CDATA[The perils of the home-made framework]]></title>
+            <description><![CDATA[The perils of the home-made framework]]></description>
+            <pubDate>2021.08.04</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/perils-of-homemade-frameworks.html</guid>
+            <link>https://szabgab.com/perils-of-homemade-frameworks.html</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dropbox CLI - Command line client]]></title>
+            <description><![CDATA[Dropbox CLI - Command line client]]></description>
+            <pubDate>2021.08.08</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/dropbox-command-line-client.html</guid>
+            <link>https://szabgab.com/dropbox-command-line-client.html</link>
             
             
             
