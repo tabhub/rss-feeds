@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #524]]></title>
+        <title><![CDATA[Perl Weekly #525]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,27 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Board review: Community Affairs Team]]></title>
-            <description><![CDATA[TPF board has chosen to put the CAT on hiatus while its charter is formalized, and is retracting the public announcements of previous investigations.]]></description>
-            <pubDate>2021.08.07</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/cat_review</guid>
-            <link>https://news.perlfoundation.org/post/cat_review</link>
-            
-            
-            
-            <author><![CDATA[stuart_mackintosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What’s Next for Object-Oriented Perl?]]></title>
-            <description><![CDATA[Promoting Object::Pad by upgrading his existing code. Interesting discussion with regard to the issues faced during the process.]]></description>
-            <pubDate>2021.08.03</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/08/03/whats-next-oo-perl/</guid>
-            <link>https://phoenixtrap.com/2021/08/03/whats-next-oo-perl/</link>
+            <title><![CDATA[Privacy and speed with Perl's Object::Pad]]></title>
+            <description><![CDATA[I have to admit I've never encountered a project where the speed problems were caused by the selected OOP system or just by using OOP and not functions. In my experience the database, algorithmic complexity, or using the disk instead of the memory always have a lot bigger impact on speed. So I think we agree with Mark. Cleaner code is (usually) more important than faster code.]]></description>
+            <pubDate>2021.08.10</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/08/10/privacy-and-speed-with-perls-objectpad/</guid>
+            <link>https://phoenixtrap.com/2021/08/10/privacy-and-speed-with-perls-objectpad/</link>
             
             
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Think Bayes]]></title>
-            <description><![CDATA[Well, in the blog, Flavio promoting a book, Think Bayes, that he is reading at the moment. Nice introduction, I must say. Bookmarking it for later reading.]]></description>
-            <pubDate>2021.08.03</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/08/03/think-bayes/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/08/03/think-bayes/</link>
+            <title><![CDATA[Trying Object::Pad]]></title>
+            <description><![CDATA[Newbies luck hitting a bug on the first try.]]></description>
+            <pubDate>2021.08.10</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/08/10/trying-object-pad/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/08/10/trying-object-pad/</link>
             
             
             
@@ -66,11 +50,59 @@
         </item>
         
         <item>
-            <title><![CDATA[Binary search in Perl array]]></title>
-            <description><![CDATA[Binary search in Perl array]]></description>
-            <pubDate>2021.08.0</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/binary-search-in-perl-array</guid>
-            <link>https://perlmaven.com/binary-search-in-perl-array</link>
+            <title><![CDATA[Improving prove with Preview Windows]]></title>
+            <description><![CDATA[Improving prove with Preview Windows]]></description>
+            <pubDate>2021.08.12</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2021/08/12/prove-tab-completion-with-preview/</guid>
+            <link>https://www.olafalders.com/2021/08/12/prove-tab-completion-with-preview/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ClouDNS CLI]]></title>
+            <description><![CDATA[ClouDNS CLI]]></description>
+            <pubDate>2021.08.15</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/08/15/cloudns-cli/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/08/15/cloudns-cli/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[EV charge calculator from script to Dancer web]]></title>
+            <description><![CDATA[EV charge calculator from script to Dancer web]]></description>
+            <pubDate>2021.08.07</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/itcharlie/2021/08/ev-charge-calculator-from-script-to-dancer-web.html</guid>
+            <link>http://blogs.perl.org/users/itcharlie/2021/08/ev-charge-calculator-from-script-to-dancer-web.html</link>
+            
+            
+            
+            <author><![CDATA[charlie_gonzalez]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Returning multiple values or a list from a subroutine in Perl]]></title>
+            <description><![CDATA[Returning multiple values or a list from a subroutine in Perl]]></description>
+            <pubDate>2021.08.15</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/returning-a-list-from-a-subroutine</guid>
+            <link>https://perlmaven.com/returning-a-list-from-a-subroutine</link>
             
             
             
@@ -82,73 +114,9 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.31 Counting Down]]></title>
-            <description><![CDATA[2021.31 Counting Down]]></description>
-            <pubDate>2021.08.02</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/08/02/2021-31-counting-down/</guid>
-            <link>https://rakudoweekly.blog/2021/08/02/2021-31-counting-down/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Day 1: The Raku Conference]]></title>
-            <description><![CDATA[Day 1: The Raku Conference]]></description>
-            <pubDate>2021.08.06</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=NRl__okr8yU&#38;t=1s</guid>
-            <link>https://www.youtube.com/watch?v=NRl__okr8yU&#38;t=1s</link>
-            
-            
-            
-            <author><![CDATA[andrew_shitov]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Day 2: The Raku Conference]]></title>
-            <description><![CDATA[Day 2: The Raku Conference]]></description>
-            <pubDate>2021.08.07</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=b6lkCR8MjAw&#38;t=4s</guid>
-            <link>https://www.youtube.com/watch?v=b6lkCR8MjAw&#38;t=4s</link>
-            
-            
-            
-            <author><![CDATA[andrew_shitov]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Day 3: The Raku Conference]]></title>
-            <description><![CDATA[Day 3: The Raku Conference]]></description>
-            <pubDate>2021.08.08</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=C3X7r_SxlDs&#38;t=1s</guid>
-            <link>https://www.youtube.com/watch?v=C3X7r_SxlDs&#38;t=1s</link>
-            
-            
-            
-            <author><![CDATA[andrew_shitov]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/08/cccliii-12-great-cpan-modules-released.html">Great modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/08/cdlxxix-metacpan-weekly-report-objectpad.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/08/di-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.08.07</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/08/cccliv-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/08/cdlxxx-metacpan-weekly-report.html">MetaCPAN weekly report</a>]]></description>
+            <pubDate>2021.08.14</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -162,27 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[The perils of the home-made framework]]></title>
-            <description><![CDATA[The perils of the home-made framework]]></description>
-            <pubDate>2021.08.04</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/perils-of-homemade-frameworks.html</guid>
-            <link>https://szabgab.com/perils-of-homemade-frameworks.html</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dropbox CLI - Command line client]]></title>
-            <description><![CDATA[Dropbox CLI - Command line client]]></description>
-            <pubDate>2021.08.08</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/dropbox-command-line-client.html</guid>
-            <link>https://szabgab.com/dropbox-command-line-client.html</link>
+            <title><![CDATA[Rescuing an application written in Perl from total meltdown]]></title>
+            <description><![CDATA[Rescuing an application written in Perl from total meltdown]]></description>
+            <pubDate>2021.08.15</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/rescuing-a-perl-application-from-meltdown.html</guid>
+            <link>https://szabgab.com/rescuing-a-perl-application-from-meltdown.html</link>
             
             
             
