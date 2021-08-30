@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #526]]></title>
+        <title><![CDATA[Perl Weekly #527]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Politics in Programming]]></title>
-            <description><![CDATA[Curtis discusses the design aspects of Corinna. You really don't want to miss it.]]></description>
-            <pubDate>2021.08.21</pubDate>
-            <guid isPermaLink="false">https://ovid.github.io/blog/politics-in-programming.html</guid>
-            <link>https://ovid.github.io/blog/politics-in-programming.html</link>
+            <title><![CDATA[The ephemeral miniconf]]></title>
+            <description><![CDATA[The ephemeral miniconf is a Perl and Raku virtual miniconf that will take place in Zoom on the 18 November 2021.]]></description>
+            <pubDate>2021.08.24</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-292j</guid>
+            <link>https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-292j</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A dream realized]]></title>
-            <description><![CDATA[Damian's take on Corinna and encouragement to look over the RFC for Corinna.]]></description>
-            <pubDate>2021.08.18</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/damian_conway/2021/08/a-dream-realized.html</guid>
-            <link>http://blogs.perl.org/users/damian_conway/2021/08/a-dream-realized.html</link>
-            
-            
-            
-            <author><![CDATA[damian_conway]]></author>
+            <author><![CDATA[thibault_duponchelle]]></author>
             
                 
             
@@ -50,11 +34,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl & Raku: Best frenemies]]></title>
-            <description><![CDATA[Mark showing how much fun it is to port Perl code to Raku.]]></description>
-            <pubDate>2021.08.17</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/08/17/perl-raku-best-frenemies/</guid>
-            <link>https://phoenixtrap.com/2021/08/17/perl-raku-best-frenemies/</link>
+            <title><![CDATA[Perl 2020 retrospective]]></title>
+            <description><![CDATA[What were the Perl-related highlights of 2020 for you?]]></description>
+            <pubDate>2021.08.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/perl-2020-retrospective-3oek</guid>
+            <link>https://dev.to/thibaultduponchelle/perl-2020-retrospective-3oek</link>
+            
+            
+            
+            <author><![CDATA[thibault_duponchelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Frenemies part 2: What a difference a (Perl) module makes]]></title>
+            <description><![CDATA[Mark continues his mashup article mixing Perl and Raku.]]></description>
+            <pubDate>2021.08.24</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/08/24/frenemies-part-2-what-a-difference-a-perl-module-makes/</guid>
+            <link>https://phoenixtrap.com/2021/08/24/frenemies-part-2-what-a-difference-a-perl-module-makes/</link>
             
             
             
@@ -66,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Monthly Report - July]]></title>
-            <description><![CDATA[Monthly report, little late though.]]></description>
-            <pubDate>2021.08.22</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/mohammad_s_anwar/2021/08/monthly-report---july-2.html</guid>
-            <link>http://blogs.perl.org/users/mohammad_s_anwar/2021/08/monthly-report---july-2.html</link>
+            <title><![CDATA[Pod::Markdown and Pod::Markdown::Github for the win!]]></title>
+            <description><![CDATA[Convert POD documentation to Markdown with one (or two) command-line tools.]]></description>
+            <pubDate>2021.08.24</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/08/24/pod-markdown-github/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/08/24/pod-markdown-github/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -82,15 +82,31 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.33 Cucumbering]]></title>
-            <description><![CDATA[2021.33 Cucumbering]]></description>
-            <pubDate>2021.08.16</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/08/16/2021-33-cucumbering/</guid>
-            <link>https://rakudoweekly.blog/2021/08/16/2021-33-cucumbering/</link>
+            <title><![CDATA[unit sub MAIN (...);]]></title>
+            <description><![CDATA[How to define command line options in Raku]]></description>
+            <pubDate>2021.08.27</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/08/27/unit-sub-main/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/08/27/unit-sub-main/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The ephemeral miniconf - Speaker announcement]]></title>
+            <description><![CDATA[Speaker announcement: Mark Gardner]]></description>
+            <pubDate>2021.08.27</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-speaker-presentation-i0e</guid>
+            <link>https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-speaker-presentation-i0e</link>
+            
+            
+            
+            <author><![CDATA[thibault_duponchelle]]></author>
             
                 
             
@@ -99,30 +115,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/08/ccclv-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/08/cdlxxxi-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/08/dii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.08.21</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/08/ccclvi-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/08/cdlxxxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/08/diii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.08.28</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Testing a Docker image created by GitLab CI]]></title>
-            <description><![CDATA[Testing a Docker image created by GitLab CI]]></description>
-            <pubDate>2021.08.16</pubDate>
-            <guid isPermaLink="false">https://code-maven.com/gitlab-ci-testing-docker-image</guid>
-            <link>https://code-maven.com/gitlab-ci-testing-docker-image</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
