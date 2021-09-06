@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #527]]></title>
+        <title><![CDATA[Perl Weekly #528]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The ephemeral miniconf]]></title>
-            <description><![CDATA[The ephemeral miniconf is a Perl and Raku virtual miniconf that will take place in Zoom on the 18 November 2021.]]></description>
-            <pubDate>2021.08.24</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-292j</guid>
-            <link>https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-292j</link>
+            <title><![CDATA[Corinna RFC ]]></title>
+            <description><![CDATA[Rough table of contents for the Corinna RFC by Curtis]]></description>
+            <pubDate>2021.09</pubDate>
+            <guid isPermaLink="false">https://github.com/Ovid/Cor/blob/master/rfc/toc.md</guid>
+            <link>https://github.com/Ovid/Cor/blob/master/rfc/toc.md</link>
             
             
             
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl 2020 retrospective]]></title>
-            <description><![CDATA[What were the Perl-related highlights of 2020 for you?]]></description>
-            <pubDate>2021.08.23</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/perl-2020-retrospective-3oek</guid>
-            <link>https://dev.to/thibaultduponchelle/perl-2020-retrospective-3oek</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
+            <author><![CDATA[curtis_ovid_poe]]></author>
             
                 
             
@@ -50,11 +34,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Frenemies part 2: What a difference a (Perl) module makes]]></title>
-            <description><![CDATA[Mark continues his mashup article mixing Perl and Raku.]]></description>
-            <pubDate>2021.08.24</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/08/24/frenemies-part-2-what-a-difference-a-perl-module-makes/</guid>
-            <link>https://phoenixtrap.com/2021/08/24/frenemies-part-2-what-a-difference-a-perl-module-makes/</link>
+            <title><![CDATA[Migrating a Perl CGI to AWS Lambda]]></title>
+            <description><![CDATA[A very detailed blog posr talking about every aspect of migrating a CGI application to AWS.]]></description>
+            <pubDate>2021.08.30</pubDate>
+            <guid isPermaLink="false">https://www.oasys.net/posts/migrating-a-perl-cgi-to-aws-lambda/</guid>
+            <link>https://www.oasys.net/posts/migrating-a-perl-cgi-to-aws-lambda/</link>
+            
+            
+            
+            <author><![CDATA[jason_lavoie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Taming the Moose: Method modifiers instead of overrides in object-oriented Perl]]></title>
+            <description><![CDATA[If you are a Moose fan then please check out this discussion about method modifiers.]]></description>
+            <pubDate>2021.08.31</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/08/31/taming-the-moose-method-modifiers-instead-of-overrides-in-object-oriented-perl/</guid>
+            <link>https://phoenixtrap.com/2021/08/31/taming-the-moose-method-modifiers-instead-of-overrides-in-object-oriented-perl/</link>
             
             
             
@@ -66,11 +66,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Pod::Markdown and Pod::Markdown::Github for the win!]]></title>
-            <description><![CDATA[Convert POD documentation to Markdown with one (or two) command-line tools.]]></description>
-            <pubDate>2021.08.24</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/08/24/pod-markdown-github/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/08/24/pod-markdown-github/</link>
+            <title><![CDATA[Today I Learned: Portable Grayscale Map]]></title>
+            <description><![CDATA[Flavio discusses something I have never touched before. Thanks for sharing.]]></description>
+            <pubDate>2021.09.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/05/til-pgm/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/09/05/til-pgm/</link>
             
             
             
@@ -82,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[unit sub MAIN (...);]]></title>
-            <description><![CDATA[How to define command line options in Raku]]></description>
-            <pubDate>2021.08.27</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/08/27/unit-sub-main/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/08/27/unit-sub-main/</link>
+            <title><![CDATA[2021.35 Superseding]]></title>
+            <description><![CDATA[2021.35 Superseding]]></description>
+            <pubDate>2021.08.30</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/08/30/2021-35-superseding/</guid>
+            <link>https://rakudoweekly.blog/2021/08/30/2021-35-superseding/</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The ephemeral miniconf - Speaker announcement]]></title>
-            <description><![CDATA[Speaker announcement: Mark Gardner]]></description>
-            <pubDate>2021.08.27</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-speaker-presentation-i0e</guid>
-            <link>https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-speaker-presentation-i0e</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/08/ccclvi-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/08/cdlxxxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/08/diii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.08.28</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/09/ccclvii-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/09/cdlxxxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/09/div-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.09.04</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
