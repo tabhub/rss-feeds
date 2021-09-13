@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #528]]></title>
+        <title><![CDATA[Perl Weekly #529]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Corinna RFC ]]></title>
-            <description><![CDATA[Rough table of contents for the Corinna RFC by Curtis]]></description>
-            <pubDate>2021.09</pubDate>
-            <guid isPermaLink="false">https://github.com/Ovid/Cor/blob/master/rfc/toc.md</guid>
-            <link>https://github.com/Ovid/Cor/blob/master/rfc/toc.md</link>
+            <title><![CDATA[Yancy: The Next Model]]></title>
+            <description><![CDATA[Yancy is a content management system and application framework for the Mojolicious web framework.]]></description>
+            <pubDate>2021.09.06</pubDate>
+            <guid isPermaLink="false">https://dev.to/preaction/yancy-the-next-model-ndi</guid>
+            <link>https://dev.to/preaction/yancy-the-next-model-ndi</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Migrating a Perl CGI to AWS Lambda]]></title>
-            <description><![CDATA[A very detailed blog posr talking about every aspect of migrating a CGI application to AWS.]]></description>
-            <pubDate>2021.08.30</pubDate>
-            <guid isPermaLink="false">https://www.oasys.net/posts/migrating-a-perl-cgi-to-aws-lambda/</guid>
-            <link>https://www.oasys.net/posts/migrating-a-perl-cgi-to-aws-lambda/</link>
-            
-            
-            
-            <author><![CDATA[jason_lavoie]]></author>
+            <author><![CDATA[doug_bell]]></author>
             
                 
             
@@ -50,27 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Taming the Moose: Method modifiers instead of overrides in object-oriented Perl]]></title>
-            <description><![CDATA[If you are a Moose fan then please check out this discussion about method modifiers.]]></description>
-            <pubDate>2021.08.31</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/08/31/taming-the-moose-method-modifiers-instead-of-overrides-in-object-oriented-perl/</guid>
-            <link>https://phoenixtrap.com/2021/08/31/taming-the-moose-method-modifiers-instead-of-overrides-in-object-oriented-perl/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Today I Learned: Portable Grayscale Map]]></title>
-            <description><![CDATA[Flavio discusses something I have never touched before. Thanks for sharing.]]></description>
-            <pubDate>2021.09.05</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/05/til-pgm/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/09/05/til-pgm/</link>
+            <title><![CDATA[Advent of Code 2018, puzzle 6: get the job done!]]></title>
+            <description><![CDATA[Advent of Code 2018, puzzle 6: get the job done!]]></description>
+            <pubDate>2021.09.06</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/06/aoc2018-06-get-the-job-done/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/09/06/aoc2018-06-get-the-job-done/</link>
             
             
             
@@ -82,15 +50,95 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.35 Superseding]]></title>
-            <description><![CDATA[2021.35 Superseding]]></description>
-            <pubDate>2021.08.30</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/08/30/2021-35-superseding/</guid>
-            <link>https://rakudoweekly.blog/2021/08/30/2021-35-superseding/</link>
+            <title><![CDATA[Cutting the fat: Lightweight Perl OO modules]]></title>
+            <description><![CDATA[CPAN has a rich history of lighter-weight OO modules to meet many different needs. If you can live with their trade-offs, they're worth investigating instead of rolling your own layer over Perl's OO. Here are a few: Class::Struct, Class::Accessor, Class::Tiny, Object::Tiny, and more.]]></description>
+            <pubDate>2021.09.07</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/09/07/cutting-the-fat-lightweight-perl-oo/</guid>
+            <link>https://phoenixtrap.com/2021/09/07/cutting-the-fat-lightweight-perl-oo/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[mark_gardner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Fun with Advent of Code 2018]]></title>
+            <description><![CDATA[If you’re looking for some diversion or something to do some exercising (e.g. learning some Raku), Flavio suggests you giving Advent of Code a try.]]></description>
+            <pubDate>2021.09.07</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/07/aoc2018-fun/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/09/07/aoc2018-fun/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CPAN Release of Time::Verbal module]]></title>
+            <description><![CDATA[How do you say half past 8 in Klingon?]]></description>
+            <pubDate>2021.09.08</pubDate>
+            <guid isPermaLink="false">https://gugod.org/2021/09/cpan-release-of-time-verbal/</guid>
+            <link>https://gugod.org/2021/09/cpan-release-of-time-verbal/</link>
+            
+            
+            
+            <author><![CDATA[gugod]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Crop an image with ImageMagick]]></title>
+            <description><![CDATA[ImageMagick is an amazing set of command-line tools for doing image manipulation.]]></description>
+            <pubDate>2021.09.10</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/10/crop-with-imagemagick/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/09/10/crop-with-imagemagick/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Outreachy Perl internship 2021 successful completion]]></title>
+            <description><![CDATA[This year <a href="https://twitter.com/RosheenNaeem">Rosheen Naeem</a> was mentored by <a href="https://twitter.com/stephanebiz">Stéphane Gigandet</a> and worked on the <a href="https://world.openfoodfacts.org/">Open Food Facts</a> project. Which is looking for more contributors knowing Perl and people who like to eat.]]></description>
+            <pubDate>2021.09.11</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/outreachy2021-complete</guid>
+            <link>https://news.perlfoundation.org/post/outreachy2021-complete</link>
+            
+            
+            
+            <author><![CDATA[makoto_nozaki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[No voids, please]]></title>
+            <description><![CDATA[A small filtering program to rename files removing spaces and tabs.]]></description>
+            <pubDate>2021.09.11</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/11/no-voids-please/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/09/11/no-voids-please/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -99,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/09/ccclvii-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/09/cdlxxxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/09/div-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.09.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/09/ccclviii-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/09/cdlxxxiv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br>.]]></description>
+            <pubDate>2021.09</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
