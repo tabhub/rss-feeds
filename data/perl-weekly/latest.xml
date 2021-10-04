@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #531]]></title>
+        <title><![CDATA[Perl Weekly #532]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The ephemeral miniconf - Planning full... and frozen!]]></title>
-            <description><![CDATA[Planned to be on November 18, 2021]]></description>
-            <pubDate>2021.09.20</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-planning-full-and-frozen-5eo9</guid>
-            <link>https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-planning-full-and-frozen-5eo9</link>
+            <title><![CDATA[Episodic Volunteering in FLOSS Communities]]></title>
+            <description><![CDATA[Ann is conducting research to understand episodic, or occasional, participation in the Perl / Raku community, in collaboration with The Perl Foundation.]]></description>
+            <pubDate>2021.09.28</pubDate>
+            <guid isPermaLink="false">https://survey.yeticraft.net/index.php/361854?lang=en</guid>
+            <link>https://survey.yeticraft.net/index.php/361854?lang=en</link>
             
             
             
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A good old-fashioned Perl log analyzer]]></title>
-            <description><![CDATA[A good old-fashioned Perl log analyzer]]></description>
-            <pubDate>2021.09.14</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/09/14/a-good-old-fashioned-perl-log-analyzer/</guid>
-            <link>https://phoenixtrap.com/2021/09/14/a-good-old-fashioned-perl-log-analyzer/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
+            <author><![CDATA[ann_barcomb]]></author>
             
                 
             
@@ -50,123 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[CPAN Release of TooMuchCode 0.17]]></title>
-            <description><![CDATA[Perl::Critic::TooMuchCode is a set of policy addons that checks for dead code or redundant code.]]></description>
-            <pubDate>2021.09.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/gugod/cpan-release-of-toomuchcode-0-17-3e6m</guid>
-            <link>https://dev.to/gugod/cpan-release-of-toomuchcode-0-17-3e6m</link>
-            
-            
-            
-            <author><![CDATA[gugod]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[perl-builder]]></title>
-            <description><![CDATA[perl-builder]]></description>
-            <pubDate>2021.09.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/20/perl-builder/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/09/20/perl-builder/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Everyone’s a (Perl) critic, and you can be too!]]></title>
-            <description><![CDATA[The perlcritic tool is often your first defense against awkward, hard to read, error-prone, or unconventional constructs in your code.]]></description>
-            <pubDate>2021.09.21</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/09/21/everyones-a-perl-critic/</guid>
-            <link>https://phoenixtrap.com/2021/09/21/everyones-a-perl-critic/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Wider List::Util]]></title>
-            <description><![CDATA[... and List::MoreUtils]]></description>
-            <pubDate>2021.09.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/21/wider-list-util/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/09/21/wider-list-util/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl's File::Find on Windows: A path forward?]]></title>
-            <description><![CDATA[An interesting discussion on mixing up file-system and operating-system features and making changes to core modules.]]></description>
-            <pubDate>2021.09.22</pubDate>
-            <guid isPermaLink="false">https://www.nu42.com/2021/09/canonical-paths-file-find-way-forward.html</guid>
-            <link>https://www.nu42.com/2021/09/canonical-paths-file-find-way-forward.html</link>
-            
-            
-            
-            <author><![CDATA[sinan_unur]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Term::QRCode]]></title>
-            <description><![CDATA[Term::QRCode generates QR Codes on the terminal.]]></description>
-            <pubDate>2021.09.22</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/25/term-qrcode/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/09/25/term-qrcode/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Terminal QR Code with Unicode characters]]></title>
-            <description><![CDATA[Terminal QR Code with Unicode characters]]></description>
-            <pubDate>2021.09.23</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/09/26/text-qrcode-unicode/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/09/26/text-qrcode-unicode/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[My Favorite Modules: if]]></title>
-            <description><![CDATA[My Favorite Modules: if]]></description>
-            <pubDate>2021.09.24</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/09/my-favorite-modules-if.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2021/09/my-favorite-modules-if.html</link>
+            <title><![CDATA[My Favorite Warnings: exiting]]></title>
+            <description><![CDATA[Tom discussing transfer of control out of normal flow. Interesting read.]]></description>
+            <pubDate>2021.09.30</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/09/my-favorite-warnings-exiting.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2021/09/my-favorite-warnings-exiting.html</link>
             
             
             
@@ -178,15 +50,159 @@
         </item>
         
         <item>
+            <title><![CDATA[A pull request for Path::Tiny]]></title>
+            <description><![CDATA[Flavio talking about an issue related to Path::Tiny and his workaround.]]></description>
+            <pubDate>2021.10.02</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/10/02/path-tiny-pr/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/10/02/path-tiny-pr/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Fast Perl module installation with cpm]]></title>
+            <description><![CDATA[Mark sharing the details of cpm.]]></description>
+            <pubDate>2021.09.29</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/09/28/fast-perl-module-installation-with-cpm/</guid>
+            <link>https://phoenixtrap.com/2021/09/28/fast-perl-module-installation-with-cpm/</link>
+            
+            
+            
+            <author><![CDATA[mark_gardner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Delete an element from a hash]]></title>
+            <description><![CDATA[Delete an element from a hash]]></description>
+            <pubDate>2021.09.30</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/delete</guid>
+            <link>https://perlmaven.com/delete</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2021.39 Programming Haku]]></title>
+            <description><![CDATA[2021.39 Programming Haku]]></description>
+            <pubDate>2021.09.27</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/09/27/2021-39-programming-haku/</guid>
+            <link>https://rakudoweekly.blog/2021/09/27/2021-39-programming-haku/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/09/ccclx-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/09/cdlxxxv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/09/dvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.09.25</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/10/ccclxi-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2021.10.02</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Git branching strategy for when you cannot use the --force]]></title>
+            <description><![CDATA[Git branching strategy for when you cannot use the --force]]></description>
+            <pubDate>2021.09.29</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/git-branching-strategy-for-when-you-cannot-use-the-force</guid>
+            <link>https://code-maven.com/git-branching-strategy-for-when-you-cannot-use-the-force</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[When a software is "done"]]></title>
+            <description><![CDATA[When a software is "done"]]></description>
+            <pubDate>2021.09.29</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/when-software-is-done.html</guid>
+            <link>https://szabgab.com/when-software-is-done.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Asynchronous Communication and distributed work]]></title>
+            <description><![CDATA[Asynchronous Communication and distributed work]]></description>
+            <pubDate>2021.09.30</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/asynchronous-communication-and-distributed-work.html</guid>
+            <link>https://szabgab.com/asynchronous-communication-and-distributed-work.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Gabor self reporting for 2021.09.01]]></title>
+            <description><![CDATA[Gabor self reporting for 2021.09.01]]></description>
+            <pubDate>2021.10.01</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/report-2021-09-01.html</guid>
+            <link>https://szabgab.com/report-2021-09-01.html</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The issue with software rewrites]]></title>
+            <description><![CDATA[The issue with software rewrites]]></description>
+            <pubDate>2021.10.01</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/the-issue-with-software-rewrite.html</guid>
+            <link>https://szabgab.com/the-issue-with-software-rewrite.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
