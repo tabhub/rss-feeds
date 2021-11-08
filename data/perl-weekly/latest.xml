@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #536]]></title>
+        <title><![CDATA[Perl Weekly #537]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Please spare ten minutes for the Calgary Research Study ]]></title>
-            <description><![CDATA[Have you completed the online survey which forms part of the research by Dr. Ann Barcomb of the University of Calgary to understand episodic, or occasional, participation in the Perl and Raku communities.]]></description>
-            <pubDate>2021.10.25</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/survey-please-take-part</guid>
-            <link>https://news.perlfoundation.org/post/survey-please-take-part</link>
+            <title><![CDATA[Reinventing Netcat in Perl]]></title>
+            <description><![CDATA[Reinventing Netcat in Perl]]></description>
+            <pubDate>2021.11.01</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/01/netcat-perl-2/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/01/netcat-perl-2/</link>
             
             
             
-            <author><![CDATA[nic_evans]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[My Favorite Warnings: redefine]]></title>
-            <description><![CDATA[Tom's extending his blog series with yet another useful topic. It is worth reading.]]></description>
-            <pubDate>2021.10.29</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/10/my-favorite-warnings-redefine-sooner.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2021/10/my-favorite-warnings-redefine-sooner.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Better Perl: Four list processing best practices with map, grep, and more]]></title>
-            <description><![CDATA[A very interesting discussion about the use of map and grep. I am sure you will find it useful too.]]></description>
-            <pubDate>2021.10.26</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/10/26/better-perl-four-list-processing-best-practices-with-map-grep-and-more/</guid>
-            <link>https://phoenixtrap.com/2021/10/26/better-perl-four-list-processing-best-practices-with-map-grep-and-more/</link>
+            <title><![CDATA[Some thoughts on Perl template processing]]></title>
+            <description><![CDATA[Template processors and engines are one of those pieces of software where it seems every developer wants to reinvent the wheel. Goodness knows I’ve done it earlier in my career. Tell me if this sounds familiar?]]></description>
+            <pubDate>2021.11.02</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/11/02/template_processing_perl/</guid>
+            <link>https://phoenixtrap.com/2021/11/02/template_processing_perl/</link>
             
             
             
@@ -66,15 +50,127 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.43 Thank You]]></title>
-            <description><![CDATA[2021.43 Thank You]]></description>
-            <pubDate>2021.10.25</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/10/25/2021-43-thank-you/</guid>
-            <link>https://rakudoweekly.blog/2021/10/25/2021-43-thank-you/</link>
+            <title><![CDATA[Book review 'Mastering Perl']]></title>
+            <description><![CDATA[Book review 'Mastering Perl']]></description>
+            <pubDate>2021.11.02</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/book-review-mastering-perl-1bmo</guid>
+            <link>https://dev.to/thibaultduponchelle/book-review-mastering-perl-1bmo</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[thibault_duponchelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Proxy setup for Netcat in Perl]]></title>
+            <description><![CDATA[Proxy setup for Netcat in Perl]]></description>
+            <pubDate>2021.11.02</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/02/netcat-perl-proxy/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/02/netcat-perl-proxy/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Yancy: What We Leave Behind]]></title>
+            <description><![CDATA[Yancy is a Content Management System and now, 4 years after its initial release, Yancy is on its way to becoming the M in Mojolicious MVC.]]></description>
+            <pubDate>2021.11.04</pubDate>
+            <guid isPermaLink="false">https://dev.to/preaction/yancy-what-we-leave-behind-509n</guid>
+            <link>https://dev.to/preaction/yancy-what-we-leave-behind-509n</link>
+            
+            
+            
+            <author><![CDATA[doug_bell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AnyEvent for Netcat?]]></title>
+            <description><![CDATA[AnyEvent for Netcat?]]></description>
+            <pubDate>2021.11.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/05/anyevent-for-netcat/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/05/anyevent-for-netcat/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Tk: The label, button, and entry widgets]]></title>
+            <description><![CDATA[Perl Tk: The label, button, and entry widgets]]></description>
+            <pubDate>2021.11</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/perl-tk-label-button-entry-widgets</guid>
+            <link>https://perlmaven.com/perl-tk-label-button-entry-widgets</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cross-posting considered harmful?]]></title>
+            <description><![CDATA[Cross-posting considered harmful?]]></description>
+            <pubDate>2021.11.06</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/06/cross-posting/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/06/cross-posting/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Max password length... WTF?!?]]></title>
+            <description><![CDATA[Max password length... WTF?!?]]></description>
+            <pubDate>2021.11.07</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/07/max-password-length/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/07/max-password-length/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My Favorite Modules: Term::ReadLine::Perl]]></title>
+            <description><![CDATA[My Favorite Modules: Term::ReadLine::Perl]]></description>
+            <pubDate>2021.11.05</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-modules-termreadlineperl.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-modules-termreadlineperl.html</link>
+            
+            
+            
+            <author><![CDATA[tom_wyant]]></author>
             
                 
             
@@ -83,30 +179,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/10/ccclxv-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/10/cdlxxxviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/10/dix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.10.30</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/11/ccclxvi-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/11/cdlxxxix-metacpan-weekly-report.html">MetaCPAN weekly report</a>;]]></description>
+            <pubDate>2021.11.08</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Bitbucket Pipelines testing Perl projects]]></title>
-            <description><![CDATA[There are some other posts about <a href="https://code-maven.com/bitbucket">Bitbucket</a>]]></description>
-            <pubDate>2021.11.01</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/bitbucket-pipelines-testing-perl-projects</guid>
-            <link>https://perlmaven.com/bitbucket-pipelines-testing-perl-projects</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
