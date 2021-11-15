@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #537]]></title>
+        <title><![CDATA[Perl Weekly #538]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,43 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Reinventing Netcat in Perl]]></title>
-            <description><![CDATA[Reinventing Netcat in Perl]]></description>
-            <pubDate>2021.11.01</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/01/netcat-perl-2/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/01/netcat-perl-2/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Some thoughts on Perl template processing]]></title>
-            <description><![CDATA[Template processors and engines are one of those pieces of software where it seems every developer wants to reinvent the wheel. Goodness knows I’ve done it earlier in my career. Tell me if this sounds familiar?]]></description>
-            <pubDate>2021.11.02</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/11/02/template_processing_perl/</guid>
-            <link>https://phoenixtrap.com/2021/11/02/template_processing_perl/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Book review 'Mastering Perl']]></title>
-            <description><![CDATA[Book review 'Mastering Perl']]></description>
-            <pubDate>2021.11.02</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/book-review-mastering-perl-1bmo</guid>
-            <link>https://dev.to/thibaultduponchelle/book-review-mastering-perl-1bmo</link>
+            <title><![CDATA[The ephemeral miniconf]]></title>
+            <description><![CDATA[The Ephemeral Miniconf is planned on thursday 18th of november 2021.]]></description>
+            <pubDate>2021.11.12</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-connection-infos-1dmb</guid>
+            <link>https://dev.to/thibaultduponchelle/the-ephemeral-miniconf-connection-infos-1dmb</link>
             
             
             
@@ -66,63 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Proxy setup for Netcat in Perl]]></title>
-            <description><![CDATA[Proxy setup for Netcat in Perl]]></description>
-            <pubDate>2021.11.02</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/02/netcat-perl-proxy/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/02/netcat-perl-proxy/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Yancy: What We Leave Behind]]></title>
-            <description><![CDATA[Yancy is a Content Management System and now, 4 years after its initial release, Yancy is on its way to becoming the M in Mojolicious MVC.]]></description>
-            <pubDate>2021.11.04</pubDate>
-            <guid isPermaLink="false">https://dev.to/preaction/yancy-what-we-leave-behind-509n</guid>
-            <link>https://dev.to/preaction/yancy-what-we-leave-behind-509n</link>
-            
-            
-            
-            <author><![CDATA[doug_bell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AnyEvent for Netcat?]]></title>
-            <description><![CDATA[AnyEvent for Netcat?]]></description>
-            <pubDate>2021.11.05</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/05/anyevent-for-netcat/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/05/anyevent-for-netcat/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Tk: The label, button, and entry widgets]]></title>
-            <description><![CDATA[Perl Tk: The label, button, and entry widgets]]></description>
+            <title><![CDATA[open invitation to participate in Perl-OpenMP on Github]]></title>
+            <description><![CDATA[Please do join Perl-OpenMP invitation.]]></description>
             <pubDate>2021.11</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/perl-tk-label-button-entry-widgets</guid>
-            <link>https://perlmaven.com/perl-tk-label-button-entry-widgets</link>
+            <guid isPermaLink="false">http://blogs.perl.org/users/oodler_577/2021/10/open-invitation-to-participate-in-perl-openmp-on-github.html</guid>
+            <link>http://blogs.perl.org/users/oodler_577/2021/10/open-invitation-to-participate-in-perl-openmp-on-github.html</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[oodler]]></author>
             
                 
             
@@ -130,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Cross-posting considered harmful?]]></title>
-            <description><![CDATA[Cross-posting considered harmful?]]></description>
-            <pubDate>2021.11.06</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/06/cross-posting/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/06/cross-posting/</link>
+            <title><![CDATA[Processing dates and times with Perl]]></title>
+            <description><![CDATA[I always miss Dave's blog but this time I made sure you all get the benefit of his writings. It is great blog talking about different CPAN modules dealing with Date in general.]]></description>
+            <pubDate>2021.11.10</pubDate>
+            <guid isPermaLink="false">https://dev.to/davorg/processing-dates-and-times-with-perl-31gh</guid>
+            <link>https://dev.to/davorg/processing-dates-and-times-with-perl-31gh</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl LDAP]]></title>
+            <description><![CDATA[Cool mix of LDAP and Perl.]]></description>
+            <pubDate>2021.11.13</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/13/perl-ldap/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/13/perl-ldap/</link>
             
             
             
@@ -146,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Max password length... WTF?!?]]></title>
-            <description><![CDATA[Max password length... WTF?!?]]></description>
-            <pubDate>2021.11.07</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/07/max-password-length/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/07/max-password-length/</link>
+            <title><![CDATA[Perl OpenAPI with Mojolicious]]></title>
+            <description><![CDATA[Find out the power of OpenAPI.]]></description>
+            <pubDate>2021.11.08</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/08/perl-openapi/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/08/perl-openapi/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -162,11 +98,27 @@
         </item>
         
         <item>
-            <title><![CDATA[My Favorite Modules: Term::ReadLine::Perl]]></title>
-            <description><![CDATA[My Favorite Modules: Term::ReadLine::Perl]]></description>
-            <pubDate>2021.11.05</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-modules-termreadlineperl.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-modules-termreadlineperl.html</link>
+            <title><![CDATA[Taming the Moose: Classing up Perl attributes]]></title>
+            <description><![CDATA[Find out ways to tame a Moose, thanks to Mark.]]></description>
+            <pubDate>2021.11.09</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/11/09/taming-the-moose-classing-up-perl-attributes/</guid>
+            <link>https://phoenixtrap.com/2021/11/09/taming-the-moose-classing-up-perl-attributes/</link>
+            
+            
+            
+            <author><![CDATA[mark_gardner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My Favorite (?) Warnings - Ex-Warnings]]></title>
+            <description><![CDATA[Please checkout Tom's another favourite.]]></description>
+            <pubDate>2021.11.10</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-warnings---ex-warnings.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-warnings---ex-warnings.html</link>
             
             
             
@@ -178,15 +130,79 @@
         </item>
         
         <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/11/ccclxvi-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/11/cdlxxxix-metacpan-weekly-report.html">MetaCPAN weekly report</a>;]]></description>
+            <title><![CDATA[I finally start to translate Japanese Perl Zemi to English]]></title>
+            <description><![CDATA[Perl Zemi is Japanese Perl Tutorial site which is well known and red in Japan.]]></description>
+            <pubDate>2021.11.15</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/yuki_kimoto/2021/11/i-finally-start-to-translate-japanese-perl-zemi-to-english.html</guid>
+            <link>http://blogs.perl.org/users/yuki_kimoto/2021/11/i-finally-start-to-translate-japanese-perl-zemi-to-english.html</link>
+            
+            
+            
+            <author><![CDATA[yuki_kimoto]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Tk: The label, button, and entry widgets]]></title>
+            <description><![CDATA[Perl Tk: The label, button, and entry widgets]]></description>
+            <pubDate>2021.11.15</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/perl-tk-menu</guid>
+            <link>https://perlmaven.com/perl-tk-menu</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2021.45 Two Commas]]></title>
+            <description><![CDATA[2021.45 Two Commas]]></description>
             <pubDate>2021.11.08</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/11/08/2021-45-two-commas/</guid>
+            <link>https://rakudoweekly.blog/2021/11/08/2021-45-two-commas/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/11/ccclxvii-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/11/cdxc-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/11/dx-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.11.13</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Self report for October 2021]]></title>
+            <description><![CDATA[Self report for October 2021]]></description>
+            <pubDate>2021.11.08</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/report-2021-11-08.html</guid>
+            <link>https://szabgab.com/report-2021-11-08.html</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
