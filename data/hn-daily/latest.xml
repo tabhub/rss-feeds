@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[“Click to subscribe, call to cancel” is illegal, FTC says]]></title>
-            <description><![CDATA[2694 points | <a href=https://news.ycombinator.com/item?id=29250063 target=_blank>760 comments</a>]]></description>
-            <pubDate>2021-11-17T07:22:16.000Z</pubDate>
-            <guid isPermaLink="false">https://www.niemanlab.org/2021/11/the-end-of-click-to-subscribe-call-to-cancel-one-of-the-news-industrys-favorite-retention-tactics-is-illegal-ftc-says/</guid>
-            <link>https://www.niemanlab.org/2021/11/the-end-of-click-to-subscribe-call-to-cancel-one-of-the-news-industrys-favorite-retention-tactics-is-illegal-ftc-says/</link>
+            <title><![CDATA[Spy camera detection using smartphone time-of-flight sensors]]></title>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=29267168 target=_blank>157 comments</a>]]></description>
+            <pubDate>2021-11-18T16:21:00.000Z</pubDate>
+            <guid isPermaLink="false">https://dl.acm.org/doi/10.1145/3485730.3485941</guid>
+            <link>https://dl.acm.org/doi/10.1145/3485730.3485941</link>
             
             
             
-            <author><![CDATA[spzx]]></author>
+            <author><![CDATA[Nirali_Feige]]></author>
             
                 
             
@@ -34,11 +34,107 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple announces Self Service Repair]]></title>
-            <description><![CDATA[1178 points | <a href=https://news.ycombinator.com/item?id=29253047 target=_blank>399 comments</a>]]></description>
-            <pubDate>2021-11-17T14:02:39.000Z</pubDate>
-            <guid isPermaLink="false">https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/</guid>
-            <link>https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/</link>
+            <title><![CDATA[Twitter rolls back AMP support, no longer sends users to AMP pages]]></title>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=29268438 target=_blank>87 comments</a>]]></description>
+            <pubDate>2021-11-18T18:02:47.000Z</pubDate>
+            <guid isPermaLink="false">https://searchengineland.com/twitter-rolls-back-amp-support-no-longer-sends-users-to-amp-pages-376168</guid>
+            <link>https://searchengineland.com/twitter-rolls-back-amp-support-no-longer-sends-users-to-amp-pages-376168</link>
+            
+            
+            
+            <author><![CDATA[twapi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[10 years of whatever this has been]]></title>
+            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=29261439 target=_blank>646 comments</a>]]></description>
+            <pubDate>2021-11-18T02:35:47.000Z</pubDate>
+            <guid isPermaLink="false">https://apenwarr.ca/log/20211117</guid>
+            <link>https://apenwarr.ca/log/20211117</link>
+            
+            
+            
+            <author><![CDATA[zdw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tldraw – a tiny little drawing app]]></title>
+            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=29261733 target=_blank>103 comments</a>]]></description>
+            <pubDate>2021-11-18T03:38:54.000Z</pubDate>
+            <guid isPermaLink="false">https://www.tldraw.com/</guid>
+            <link>https://www.tldraw.com/</link>
+            
+            
+            
+            <author><![CDATA[ChrisArchitect]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[German state planning to switch 25,000 PCs to LibreOffice]]></title>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=29264770 target=_blank>323 comments</a>]]></description>
+            <pubDate>2021-11-18T12:44:37.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</guid>
+            <link>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</link>
+            
+            
+            
+            <author><![CDATA[jrepinc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Backdooring Rust crates for fun and profit]]></title>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=29265765 target=_blank>153 comments</a>]]></description>
+            <pubDate>2021-11-18T14:29:03.000Z</pubDate>
+            <guid isPermaLink="false">https://kerkour.com/rust-crate-backdoor/</guid>
+            <link>https://kerkour.com/rust-crate-backdoor/</link>
+            
+            
+            
+            <author><![CDATA[cjg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SerenityOS demo at Handmade Seattle 2021 [video]]]></title>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=29270776 target=_blank>55 comments</a>]]></description>
+            <pubDate>2021-11-18T21:24:23.000Z</pubDate>
+            <guid isPermaLink="false">https://media.handmade-seattle.com/serenityos/</guid>
+            <link>https://media.handmade-seattle.com/serenityos/</link>
+            
+            
+            
+            <author><![CDATA[akling]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenAI’s API now available with no waitlist]]></title>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=29265640 target=_blank>102 comments</a>]]></description>
+            <pubDate>2021-11-18T14:19:36.000Z</pubDate>
+            <guid isPermaLink="false">https://openai.com/blog/api-no-waitlist/</guid>
+            <link>https://openai.com/blog/api-no-waitlist/</link>
             
             
             
@@ -50,31 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Microsoft blocks EdgeDeflector to force Windows 11 users into Edge]]></title>
-            <description><![CDATA[845 points | <a href=https://news.ycombinator.com/item?id=29251210 target=_blank>519 comments</a>]]></description>
-            <pubDate>2021-11-17T10:31:26.000Z</pubDate>
-            <guid isPermaLink="false">https://www.theverge.com/2021/11/15/22782802/microsoft-block-edgedeflector-windows-11</guid>
-            <link>https://www.theverge.com/2021/11/15/22782802/microsoft-block-edgedeflector-windows-11</link>
+            <title><![CDATA[Megaprocessor – A micro-processor built large (2016)]]></title>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=29264209 target=_blank>83 comments</a>]]></description>
+            <pubDate>2021-11-18T11:14:53.000Z</pubDate>
+            <guid isPermaLink="false">https://www.megaprocessor.com/</guid>
+            <link>https://www.megaprocessor.com/</link>
             
             
             
-            <author><![CDATA[Vinnl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ivermectin: Much More Than You Wanted to Know]]></title>
-            <description><![CDATA[653 points | <a href=https://news.ycombinator.com/item?id=29249686 target=_blank>625 comments</a>]]></description>
-            <pubDate>2021-11-17T06:01:11.000Z</pubDate>
-            <guid isPermaLink="false">https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted</guid>
-            <link>https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted</link>
-            
-            
-            
-            <author><![CDATA[4monthsaway]]></author>
+            <author><![CDATA[amadeuspzs]]></author>
             
                 
             
@@ -82,31 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How to grow sodium chloride crystals at home]]></title>
-            <description><![CDATA[630 points | <a href=https://news.ycombinator.com/item?id=29255511 target=_blank>105 comments</a>]]></description>
-            <pubDate>2021-11-17T16:54:03.000Z</pubDate>
-            <guid isPermaLink="false">https://crystalverse.com/sodium-chloride-crystals/</guid>
-            <link>https://crystalverse.com/sodium-chloride-crystals/</link>
+            <title><![CDATA[Dask – A flexible library for parallel computing in Python]]></title>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=29260492 target=_blank>80 comments</a>]]></description>
+            <pubDate>2021-11-17T23:58:15.000Z</pubDate>
+            <guid isPermaLink="false">https://dask.org/</guid>
+            <link>https://dask.org/</link>
             
             
             
-            <author><![CDATA[kdavis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The OBS project has accused Streamlabs of copying their name and trademark]]></title>
-            <description><![CDATA[500 points | <a href=https://news.ycombinator.com/item?id=29249766 target=_blank>87 comments</a>]]></description>
-            <pubDate>2021-11-17T06:20:52.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OBSProject/status/1460782968633499651</guid>
-            <link>https://twitter.com/OBSProject/status/1460782968633499651</link>
-            
-            
-            
-            <author><![CDATA[vopi]]></author>
+            <author><![CDATA[gjvc]]></author>
             
                 
             
@@ -114,31 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[.plan]]></title>
-            <description><![CDATA[486 points | <a href=https://news.ycombinator.com/item?id=29248368 target=_blank>209 comments</a>]]></description>
-            <pubDate>2021-11-17T01:19:03.000Z</pubDate>
-            <guid isPermaLink="false">https://plan.cat</guid>
-            <link>https://plan.cat</link>
+            <title><![CDATA[How we protect our most sensitive secrets from the most determined attackers]]></title>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=29265760 target=_blank>158 comments</a>]]></description>
+            <pubDate>2021-11-18T14:28:46.000Z</pubDate>
+            <guid isPermaLink="false">https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets/</guid>
+            <link>https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets/</link>
             
             
             
-            <author><![CDATA[niedzielski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Scan of the Month: Lego Minifigures]]></title>
-            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=29253441 target=_blank>71 comments</a>]]></description>
-            <pubDate>2021-11-17T14:30:47.000Z</pubDate>
-            <guid isPermaLink="false">https://www.scanofthemonth.com/</guid>
-            <link>https://www.scanofthemonth.com/</link>
-            
-            
-            
-            <author><![CDATA[bookofjoe]]></author>
+            <author><![CDATA[intunderflow]]></author>
             
                 
             
@@ -146,63 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: I made a Chrome extension that can automate any website]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=29254147 target=_blank>116 comments</a>]]></description>
-            <pubDate>2021-11-17T15:16:22.000Z</pubDate>
-            <guid isPermaLink="false">https://browserflow.app/</guid>
-            <link>https://browserflow.app/</link>
+            <title><![CDATA[TheNFTbay.org – The Billion Dollar Torrent (All NFT's from Ethereum and Solana)]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=29265064 target=_blank>230 comments</a>]]></description>
+            <pubDate>2021-11-18T13:22:27.000Z</pubDate>
+            <guid isPermaLink="false">https://thenftbay.org/description.html</guid>
+            <link>https://thenftbay.org/description.html</link>
             
             
             
-            <author><![CDATA[dkthehuman]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Learn RegEx step by step, from zero to advanced]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=29251702 target=_blank>101 comments</a>]]></description>
-            <pubDate>2021-11-17T11:41:06.000Z</pubDate>
-            <guid isPermaLink="false">https://regexlearn.com/</guid>
-            <link>https://regexlearn.com/</link>
-            
-            
-            
-            <author><![CDATA[aykutkardas]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Stacked changes: how FB and Google engineers stay unblocked and ship faster]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=29255195 target=_blank>169 comments</a>]]></description>
-            <pubDate>2021-11-17T16:31:38.000Z</pubDate>
-            <guid isPermaLink="false">https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y</guid>
-            <link>https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y</link>
-            
-            
-            
-            <author><![CDATA[tomasreimers]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Amazon to stop accepting UK Visa credit cards]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=29250582 target=_blank>486 comments</a>]]></description>
-            <pubDate>2021-11-17T09:09:11.000Z</pubDate>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2021-11-17/amazon-will-stop-accepting-visa-credit-cards-issued-in-the-u-k</guid>
-            <link>https://www.bloomberg.com/news/articles/2021-11-17/amazon-will-stop-accepting-visa-credit-cards-issued-in-the-u-k</link>
-            
-            
-            
-            <author><![CDATA[barrkel]]></author>
+            <author><![CDATA[ghuntley]]></author>
             
                 
             
