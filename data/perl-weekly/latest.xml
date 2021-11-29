@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #539]]></title>
+        <title><![CDATA[Perl Weekly #540]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl benchmark]]></title>
-            <description><![CDATA[A follow-up on a benchmark that appeared in the Rakudo Weekly News newsletter on September 27 comparing C to Perl and Raku among many other languages. Though Perl turned out to be much slower than C, using PDL the difference becomes much smaller and by turning on a switch, it can actually become faster!]]></description>
-            <pubDate>2021.11</pubDate>
-            <guid isPermaLink="false">https://wlmb.github.io/2021/10/03/pdl/</guid>
-            <link>https://wlmb.github.io/2021/10/03/pdl/</link>
+            <title><![CDATA[GivingTuesday Fundraiser for TPF]]></title>
+            <description><![CDATA[Do you want to join Dean in supporting a good cause?]]></description>
+            <pubDate>2021.11.28</pubDate>
+            <guid isPermaLink="false">https://www.facebook.com/donate/3140048336317912/1110543563086602/</guid>
+            <link>https://www.facebook.com/donate/3140048336317912/1110543563086602/</link>
             
             
             
-            <author><![CDATA[luis_mochan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Tk: The label, button, and entry widgets]]></title>
-            <description><![CDATA[Perl Tk: The label, button, and entry widgets]]></description>
-            <pubDate>2021.11.15</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/perl-tk-menu</guid>
-            <link>https://perlmaven.com/perl-tk-menu</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[dean_hamstead]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[LDAP program: eldap]]></title>
-            <description><![CDATA[LDAP program: eldap]]></description>
-            <pubDate>2021.11.16</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/15/eldap/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/15/eldap/</link>
+            <title><![CDATA[Why is Perl not putting Moose in the core?]]></title>
+            <description><![CDATA[The best post ever on the subject. It has plenty for everyone. I thoroughly enjoyed it.]]></description>
+            <pubDate>2021.11.22</pubDate>
+            <guid isPermaLink="false">https://ovid.github.io/articles/why-is-perl-not-putting-moose-in-the-core.html</guid>
+            <link>https://ovid.github.io/articles/why-is-perl-not-putting-moose-in-the-core.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Multiple ways to inheritance in Perl]]></title>
-            <description><![CDATA[BEGIN @ISA; use base; use parent; use parent::versioned; extends; isa; with; role;]]></description>
-            <pubDate>2021.11.16</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/11/16/multiple-ways-to-inheritance-in-perl/</guid>
-            <link>https://phoenixtrap.com/2021/11/16/multiple-ways-to-inheritance-in-perl/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
+            <author><![CDATA[curtis_ovid_poe]]></author>
             
                 
             
@@ -82,107 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[encode_json does encoding]]></title>
-            <description><![CDATA[encode_json does encoding]]></description>
-            <pubDate>2021.11.16</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/16/encode_json-does-encoding/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/16/encode_json-does-encoding/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Detective Work with perlimports]]></title>
-            <description><![CDATA[The story of a patch.]]></description>
-            <pubDate>2021.11.18</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2021/11/18/detective-work-with-perlimports/</guid>
-            <link>https://www.olafalders.com/2021/11/18/detective-work-with-perlimports/</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Release of Perl distribution of Crypt::OpenSSL::PKCS12 1.9]]></title>
-            <description><![CDATA[Release of Perl distribution of Crypt::OpenSSL::PKCS12 1.9]]></description>
-            <pubDate>2021.11.19</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/release-of-perl-distribution-of-cryptopensslpkcs12-19-1715</guid>
-            <link>https://dev.to/jonasbn/release-of-perl-distribution-of-cryptopensslpkcs12-19-1715</link>
-            
-            
-            
-            <author><![CDATA[jonas_nielsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Remove objects from an array with jq]]></title>
-            <description><![CDATA[Remove objects from an array with jq]]></description>
-            <pubDate>2021.11.19</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/19/jq-remove-objects/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/19/jq-remove-objects/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl OpenAPI with Mojolicious - an update!]]></title>
-            <description><![CDATA[Perl OpenAPI with Mojolicious - an update!]]></description>
-            <pubDate>2021.11.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/21/perl-openapi-update/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/21/perl-openapi-update/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Quickest Way to Set Up HTTPS]]></title>
-            <description><![CDATA[The Quickest Way to Set Up HTTPS]]></description>
-            <pubDate>2021.11.16</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/nerdvana/2021/11/ssl-is-easy-with-traefik.html</guid>
-            <link>http://blogs.perl.org/users/nerdvana/2021/11/ssl-is-easy-with-traefik.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[My Favorite Warnings: deprecated]]></title>
-            <description><![CDATA[The deprecated warning is a grab-bag. Basically, anything that is deprecated causes this warning to be generated, and the list changes from release to release.]]></description>
-            <pubDate>2021.11.19</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-warnings-deprecated.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-warnings-deprecated.html</link>
+            <title><![CDATA[My Favorite Warnings: experimental]]></title>
+            <description><![CDATA[Tom continued his series of favourite warnings. Please check it out to find out more about 'experimental'.]]></description>
+            <pubDate>2021.11.26</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-warnings-experimental.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-warnings-experimental.html</link>
             
             
             
@@ -194,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A New Type of Mojolicious Frontend]]></title>
-            <description><![CDATA[How to use Typescript with a minimum of fuss for the frontend of an application based on Mojolicious.]]></description>
-            <pubDate>2021.11.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/preaction/a-new-type-of-mojolicious-frontend-3i52</guid>
-            <link>https://dev.to/preaction/a-new-type-of-mojolicious-frontend-3i52</link>
+            <title><![CDATA[Addressing CPAN vulnerabilities related to checksums]]></title>
+            <description><![CDATA[This blog post addresses checksum and signature verification vulnerabilities affecting CPAN, the cpan client, and the cpanm client.]]></description>
+            <pubDate>2021.11.23</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/neilb/2021/11/addressing-cpan-vulnerabilities-related-to-checksums.html</guid>
+            <link>http://blogs.perl.org/users/neilb/2021/11/addressing-cpan-vulnerabilities-related-to-checksums.html</link>
             
             
             
-            <author><![CDATA[doug_bell]]></author>
+            <author><![CDATA[neil_bowers]]></author>
             
                 
             
@@ -210,11 +82,59 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Tk: Keyboard and Mouse events]]></title>
-            <description><![CDATA[Perl Tk: Keyboard and Mouse events]]></description>
-            <pubDate>2021.11.21</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/perl-tk-keyboard-and-mouse-events</guid>
-            <link>https://perlmaven.com/perl-tk-keyboard-and-mouse-events</link>
+            <title><![CDATA[A bare-bones kinit in Perl]]></title>
+            <description><![CDATA[Implementing a very basic kinit functionality using Authen::Krb5 in Perl.]]></description>
+            <pubDate>2021.11.23</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/23/kerberos-perl-kinit-basic/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/23/kerberos-perl-kinit-basic/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl GSSAPI options]]></title>
+            <description><![CDATA[Passing options to Perl's GSSAPI module is a bit clunky but doable.]]></description>
+            <pubDate>2021.11.26</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/26/perl-gssapi-options/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/26/perl-gssapi-options/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Example LDAP with on-the-fly Kerberos authentication]]></title>
+            <description><![CDATA[An example of how to do Kerberos authentication in memory, i.e. without needing to use [kinit][] beforehand or to save anything on the disk.]]></description>
+            <pubDate>2021.11.27</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/27/ldap-sasl-gssapi-memory/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/27/ldap-sasl-gssapi-memory/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2: Install Perl, editor, Dancer2]]></title>
+            <description><![CDATA[Dancer2: Install Perl, editor, Dancer2]]></description>
+            <pubDate>2021.12.29</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-install</guid>
+            <link>https://perlmaven.com/dancer2-install</link>
             
             
             
@@ -226,9 +146,25 @@
         </item>
         
         <item>
+            <title><![CDATA[2021.47 David H. Adler RIP]]></title>
+            <description><![CDATA[2021.47 David H. Adler RIP]]></description>
+            <pubDate>2021.11.23</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/11/23/2021-47-david-h-adler-rip/</guid>
+            <link>https://rakudoweekly.blog/2021/11/23/2021-47-david-h-adler-rip/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/11/ccclxviii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/11/cdxci-metacpan-weekly-report-appsdview.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2021.11.20</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/11/ccclxix-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/11/cdxcii-metacpan-weekly-report-dbdpg.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/11/dxi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.11.27</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
