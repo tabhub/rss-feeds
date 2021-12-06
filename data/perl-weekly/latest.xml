@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #540]]></title>
+        <title><![CDATA[Perl Weekly #541]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[GivingTuesday Fundraiser for TPF]]></title>
-            <description><![CDATA[Do you want to join Dean in supporting a good cause?]]></description>
-            <pubDate>2021.11.28</pubDate>
-            <guid isPermaLink="false">https://www.facebook.com/donate/3140048336317912/1110543563086602/</guid>
-            <link>https://www.facebook.com/donate/3140048336317912/1110543563086602/</link>
+            <title><![CDATA[The cookie jar]]></title>
+            <description><![CDATA[Leave a tip to show you appreciation of his work.]]></description>
+            <pubDate>2021.12.01</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/tip/</guid>
+            <link>https://phoenixtrap.com/tip/</link>
             
             
             
-            <author><![CDATA[dean_hamstead]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Why is Perl not putting Moose in the core?]]></title>
-            <description><![CDATA[The best post ever on the subject. It has plenty for everyone. I thoroughly enjoyed it.]]></description>
-            <pubDate>2021.11.22</pubDate>
-            <guid isPermaLink="false">https://ovid.github.io/articles/why-is-perl-not-putting-moose-in-the-core.html</guid>
-            <link>https://ovid.github.io/articles/why-is-perl-not-putting-moose-in-the-core.html</link>
-            
-            
-            
-            <author><![CDATA[curtis_ovid_poe]]></author>
+            <author><![CDATA[mark_gardner]]></author>
             
                 
             
@@ -50,43 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[My Favorite Warnings: experimental]]></title>
-            <description><![CDATA[Tom continued his series of favourite warnings. Please check it out to find out more about 'experimental'.]]></description>
-            <pubDate>2021.11.26</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-warnings-experimental.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2021/11/my-favorite-warnings-experimental.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Addressing CPAN vulnerabilities related to checksums]]></title>
-            <description><![CDATA[This blog post addresses checksum and signature verification vulnerabilities affecting CPAN, the cpan client, and the cpanm client.]]></description>
-            <pubDate>2021.11.23</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/neilb/2021/11/addressing-cpan-vulnerabilities-related-to-checksums.html</guid>
-            <link>http://blogs.perl.org/users/neilb/2021/11/addressing-cpan-vulnerabilities-related-to-checksums.html</link>
-            
-            
-            
-            <author><![CDATA[neil_bowers]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A bare-bones kinit in Perl]]></title>
-            <description><![CDATA[Implementing a very basic kinit functionality using Authen::Krb5 in Perl.]]></description>
-            <pubDate>2021.11.23</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/23/kerberos-perl-kinit-basic/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/23/kerberos-perl-kinit-basic/</link>
+            <title><![CDATA[Tutorials for modules]]></title>
+            <description><![CDATA[Some thoughts about writing tutorials for Perl modules.]]></description>
+            <pubDate>2021.12.29</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/29/tutorials-for-modules/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/29/tutorials-for-modules/</link>
             
             
             
@@ -98,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl GSSAPI options]]></title>
-            <description><![CDATA[Passing options to Perl's GSSAPI module is a bit clunky but doable.]]></description>
-            <pubDate>2021.11.26</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/26/perl-gssapi-options/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/26/perl-gssapi-options/</link>
+            <title><![CDATA[Observing Network Traffic with LWP::ConsoleLogger::Everywhere]]></title>
+            <description><![CDATA[Observing Network Traffic with LWP::ConsoleLogger::Everywhere]]></description>
+            <pubDate>2021.12.30</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/</guid>
+            <link>https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Feature creeping in App::Easer]]></title>
+            <description><![CDATA[Feature creeping in App::Easer]]></description>
+            <pubDate>2021.11.30</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/30/app-easer-feature-creeping/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/11/30/app-easer-feature-creeping/</link>
             
             
             
@@ -114,15 +82,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Example LDAP with on-the-fly Kerberos authentication]]></title>
-            <description><![CDATA[An example of how to do Kerberos authentication in memory, i.e. without needing to use [kinit][] beforehand or to save anything on the disk.]]></description>
-            <pubDate>2021.11.27</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/27/ldap-sasl-gssapi-memory/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/27/ldap-sasl-gssapi-memory/</link>
+            <title><![CDATA[Vicious (test) mockery of a Perl modulino]]></title>
+            <description><![CDATA[Vicious (test) mockery of a Perl modulino]]></description>
+            <pubDate>2021.11.30</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/11/30/vicious-test-mockery-of-a-perl-modulino/</guid>
+            <link>https://phoenixtrap.com/2021/11/30/vicious-test-mockery-of-a-perl-modulino/</link>
+            
+            
+            
+            <author><![CDATA[mark_gardner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A (possible) bug in RRDTool]]></title>
+            <description><![CDATA[A (possible) bug in RRDTool]]></description>
+            <pubDate>2021.12.04</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/04/bug-in-rrdtool/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/12/04/bug-in-rrdtool/</link>
             
             
             
             <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Geizhals Preisvergleich sponsors the German Perl/Raku Workshop 2022]]></title>
+            <description><![CDATA[Geizhals Preisvergleich sponsors the German Perl/Raku Workshop 2022]]></description>
+            <pubDate>2021.12.04</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/max_maischein/2021/12/geizhals-preisvergleich-sponsors-the-german-perlraku-workshop-2022.html</guid>
+            <link>http://blogs.perl.org/users/max_maischein/2021/12/geizhals-preisvergleich-sponsors-the-german-perlraku-workshop-2022.html</link>
+            
+            
+            
+            <author><![CDATA[max_maischein]]></author>
             
                 
             
@@ -132,7 +132,7 @@
         <item>
             <title><![CDATA[Dancer2: Install Perl, editor, Dancer2]]></title>
             <description><![CDATA[Dancer2: Install Perl, editor, Dancer2]]></description>
-            <pubDate>2021.12.29</pubDate>
+            <pubDate>2021.11.29</pubDate>
             <guid isPermaLink="false">https://perlmaven.com/dancer2-install</guid>
             <link>https://perlmaven.com/dancer2-install</link>
             
@@ -146,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2021.47 David H. Adler RIP]]></title>
-            <description><![CDATA[2021.47 David H. Adler RIP]]></description>
-            <pubDate>2021.11.23</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/11/23/2021-47-david-h-adler-rip/</guid>
-            <link>https://rakudoweekly.blog/2021/11/23/2021-47-david-h-adler-rip/</link>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/12/ccclxx-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/12/cdxciii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/12/dxii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.12.04</pubDate>
+            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
+            <link>http://niceperl.blogspot.com/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
@@ -162,15 +162,31 @@
         </item>
         
         <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/11/ccclxix-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/11/cdxcii-metacpan-weekly-report-dbdpg.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/11/dxi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.11.27</pubDate>
-            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
-            <link>http://niceperl.blogspot.com/</link>
+            <title><![CDATA[Language skills and proficiency levels]]></title>
+            <description><![CDATA[Language skills and proficiency levels]]></description>
+            <pubDate>2021.12.05</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/language-proficiency.html</guid>
+            <link>https://szabgab.com/language-proficiency.html</link>
             
             
             
-            <author><![CDATA[miguel_prz]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ladino tomorrow]]></title>
+            <description><![CDATA[Ladino, also known as Judeo-Spanish, is the language of the Jews who were expelled from the Iberian peninsula in 1492. It is medieval Spanish mixed with Hebrew, Turkish, Greek, Arabic, Slavic, etc. words. It can be written either with Latin letters or with Hebrew letters. (sample fun word: 'kreatura' meaning small child or baby)]]></description>
+            <pubDate>2021.12.05</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/ladino-tomorrow.html</guid>
+            <link>https://szabgab.com/ladino-tomorrow.html</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
