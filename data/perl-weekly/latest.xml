@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #541]]></title>
+        <title><![CDATA[Perl Weekly #542]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,11 +18,43 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The cookie jar]]></title>
-            <description><![CDATA[Leave a tip to show you appreciation of his work.]]></description>
-            <pubDate>2021.12.01</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/tip/</guid>
-            <link>https://phoenixtrap.com/tip/</link>
+            <title><![CDATA[Corinna Update 6th Dec 2021]]></title>
+            <description><![CDATA[After considerable discussion, slot has been renamed to field.]]></description>
+            <pubDate>2021.12.06</pubDate>
+            <guid isPermaLink="false">https://github.com/Ovid/Cor/blob/master/rfc/major-changes.md#december-6-2021</guid>
+            <link>https://github.com/Ovid/Cor/blob/master/rfc/major-changes.md#december-6-2021</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Corinna Update 8th Dec 2021]]></title>
+            <description><![CDATA[Some more updates to how Class data and methods are agreed to be declared. And few more.]]></description>
+            <pubDate>2021.12.08</pubDate>
+            <guid isPermaLink="false">https://github.com/Ovid/Cor/blob/master/rfc/major-changes.md#december-8-2021</guid>
+            <link>https://github.com/Ovid/Cor/blob/master/rfc/major-changes.md#december-8-2021</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sweeter Perl exception classes]]></title>
+            <description><![CDATA[Mark shared different ways to deal with exceptions in Perl. A very thought-provoking post.]]></description>
+            <pubDate>2021.12.07</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/12/07/sweeter-perl-exception-classes/</guid>
+            <link>https://phoenixtrap.com/2021/12/07/sweeter-perl-exception-classes/</link>
             
             
             
@@ -34,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Tutorials for modules]]></title>
-            <description><![CDATA[Some thoughts about writing tutorials for Perl modules.]]></description>
-            <pubDate>2021.12.29</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/29/tutorials-for-modules/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/29/tutorials-for-modules/</link>
+            <title><![CDATA[My Favorite Warnings: shadow]]></title>
+            <description><![CDATA[Tom discussed another of his favourite warnings, <strong>shadow</strong>, in hid ongoing blog series.]]></description>
+            <pubDate>2021.12.09</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/12/my-favorite-warnings-shadow.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2021/12/my-favorite-warnings-shadow.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Observing Network Traffic with LWP::ConsoleLogger::Everywhere]]></title>
-            <description><![CDATA[Observing Network Traffic with LWP::ConsoleLogger::Everywhere]]></description>
-            <pubDate>2021.12.30</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/</guid>
-            <link>https://www.olafalders.com/2021/12/01/observing-network-traffic-with-lwp-consolelogger-everywhere/</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
+            <author><![CDATA[tom_wyant]]></author>
             
                 
             
@@ -66,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Feature creeping in App::Easer]]></title>
-            <description><![CDATA[Feature creeping in App::Easer]]></description>
-            <pubDate>2021.11.30</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/11/30/app-easer-feature-creeping/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/11/30/app-easer-feature-creeping/</link>
+            <title><![CDATA[JavaScript Supported Web Scraping using Perl and Selenium]]></title>
+            <description><![CDATA[If you want to scrape web contents, this article explains how to do it using Perl and Selenium.]]></description>
+            <pubDate>2021.12.08</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/yuki_kimoto/2021/12/javascript-supported-web-scraping-using-perl-and-selenium.html</guid>
+            <link>http://blogs.perl.org/users/yuki_kimoto/2021/12/javascript-supported-web-scraping-using-perl-and-selenium.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Vicious (test) mockery of a Perl modulino]]></title>
-            <description><![CDATA[Vicious (test) mockery of a Perl modulino]]></description>
-            <pubDate>2021.11.30</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/11/30/vicious-test-mockery-of-a-perl-modulino/</guid>
-            <link>https://phoenixtrap.com/2021/11/30/vicious-test-mockery-of-a-perl-modulino/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
+            <author><![CDATA[yuki_kimoto]]></author>
             
                 
             
@@ -98,47 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A (possible) bug in RRDTool]]></title>
-            <description><![CDATA[A (possible) bug in RRDTool]]></description>
-            <pubDate>2021.12.04</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/04/bug-in-rrdtool/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/12/04/bug-in-rrdtool/</link>
+            <title><![CDATA[2021.49 Adventing Is On!]]></title>
+            <description><![CDATA[2021.49 Adventing Is On!]]></description>
+            <pubDate>2021.12.06</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/12/06/2021-49-adventing-is-on/</guid>
+            <link>https://rakudoweekly.blog/2021/12/06/2021-49-adventing-is-on/</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Geizhals Preisvergleich sponsors the German Perl/Raku Workshop 2022]]></title>
-            <description><![CDATA[Geizhals Preisvergleich sponsors the German Perl/Raku Workshop 2022]]></description>
-            <pubDate>2021.12.04</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/max_maischein/2021/12/geizhals-preisvergleich-sponsors-the-german-perlraku-workshop-2022.html</guid>
-            <link>http://blogs.perl.org/users/max_maischein/2021/12/geizhals-preisvergleich-sponsors-the-german-perlraku-workshop-2022.html</link>
-            
-            
-            
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2: Install Perl, editor, Dancer2]]></title>
-            <description><![CDATA[Dancer2: Install Perl, editor, Dancer2]]></description>
-            <pubDate>2021.11.29</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-install</guid>
-            <link>https://perlmaven.com/dancer2-install</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -147,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/12/ccclxx-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/12/cdxciii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2021/12/dxii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.12.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/12/ccclxxi-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/12/dxiii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2021.12.11</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -162,27 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Language skills and proficiency levels]]></title>
-            <description><![CDATA[Language skills and proficiency levels]]></description>
-            <pubDate>2021.12.05</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/language-proficiency.html</guid>
-            <link>https://szabgab.com/language-proficiency.html</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ladino tomorrow]]></title>
-            <description><![CDATA[Ladino, also known as Judeo-Spanish, is the language of the Jews who were expelled from the Iberian peninsula in 1492. It is medieval Spanish mixed with Hebrew, Turkish, Greek, Arabic, Slavic, etc. words. It can be written either with Latin letters or with Hebrew letters. (sample fun word: 'kreatura' meaning small child or baby)]]></description>
-            <pubDate>2021.12.05</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/ladino-tomorrow.html</guid>
-            <link>https://szabgab.com/ladino-tomorrow.html</link>
+            <title><![CDATA[Italki number of tutors per language ]]></title>
+            <description><![CDATA[Looking for conversation partners? Italki is an excellent place where you can find speakers in most of the languages in the world. I put together a page listing some of the languages available on italki along with the number of tutors you can select from.]]></description>
+            <pubDate>2021.12.13</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/italki-number-of-tutors-2021-12-13.html</guid>
+            <link>https://szabgab.com/italki-number-of-tutors-2021-12-13.html</link>
             
             
             
