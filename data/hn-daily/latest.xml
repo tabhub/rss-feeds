@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Tell HN: AWS appears to be down again]]></title>
-            <description><![CDATA[839 points | <a href=https://news.ycombinator.com/item?id=29567170 target=_blank>450 comments</a>]]></description>
-            <pubDate>2021-12-15T15:26:35.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=29567170</guid>
-            <link>https://news.ycombinator.com/item?id=29567170</link>
+            <title><![CDATA[Don't start with microservices – monoliths are your friend]]></title>
+            <description><![CDATA[976 points | <a href=https://news.ycombinator.com/item?id=29576352 target=_blank>368 comments</a>]]></description>
+            <pubDate>2021-12-16T08:51:34.000Z</pubDate>
+            <guid isPermaLink="false">https://arnoldgalovics.com/microservices-in-production/</guid>
+            <link>https://arnoldgalovics.com/microservices-in-production/</link>
             
             
             
-            <author><![CDATA[thadjo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mess with DNS]]></title>
-            <description><![CDATA[684 points | <a href=https://news.ycombinator.com/item?id=29568510 target=_blank>55 comments</a>]]></description>
-            <pubDate>2021-12-15T16:55:45.000Z</pubDate>
-            <guid isPermaLink="false">https://jvns.ca/blog/2021/12/15/mess-with-dns/</guid>
-            <link>https://jvns.ca/blog/2021/12/15/mess-with-dns/</link>
-            
-            
-            
-            <author><![CDATA[im2nguyen]]></author>
+            <author><![CDATA[galovics]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Log4Shell update: second Log4j vulnerability published]]></title>
-            <description><![CDATA[660 points | <a href=https://news.ycombinator.com/item?id=29561532 target=_blank>259 comments</a>]]></description>
-            <pubDate>2021-12-15T02:58:59.000Z</pubDate>
-            <guid isPermaLink="false">https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/</guid>
-            <link>https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/</link>
+            <title><![CDATA[Ask HN: Are most of us developers lying about how much work we do?]]></title>
+            <description><![CDATA[934 points | <a href=https://news.ycombinator.com/item?id=29581125 target=_blank>635 comments</a>]]></description>
+            <pubDate>2021-12-16T17:42:10.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=29581125</guid>
+            <link>https://news.ycombinator.com/item?id=29581125</link>
             
             
             
-            <author><![CDATA[freeqaz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution]]></title>
-            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=29568625 target=_blank>212 comments</a>]]></description>
-            <pubDate>2021-12-15T17:03:10.000Z</pubDate>
-            <guid isPermaLink="false">https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html</guid>
-            <link>https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html</link>
-            
-            
-            
-            <author><![CDATA[arkadiyt]]></author>
+            <author><![CDATA[ConfessionTime]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Log4jmemes.com: for those of us that need a laugh]]></title>
-            <description><![CDATA[473 points | <a href=https://news.ycombinator.com/item?id=29566541 target=_blank>102 comments</a>]]></description>
-            <pubDate>2021-12-15T14:42:20.000Z</pubDate>
-            <guid isPermaLink="false">https://log4jmemes.com</guid>
-            <link>https://log4jmemes.com</link>
+            <title><![CDATA[From Node to Ruby on Rails]]></title>
+            <description><![CDATA[740 points | <a href=https://news.ycombinator.com/item?id=29577897 target=_blank>505 comments</a>]]></description>
+            <pubDate>2021-12-16T13:32:30.000Z</pubDate>
+            <guid isPermaLink="false">https://nikodunk.com/a-node-js-developer-discovers-rails/</guid>
+            <link>https://nikodunk.com/a-node-js-developer-discovers-rails/</link>
             
             
             
-            <author><![CDATA[MalacodaV]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[HTTP/3 Is Fast]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=29563229 target=_blank>274 comments</a>]]></description>
-            <pubDate>2021-12-15T08:08:26.000Z</pubDate>
-            <guid isPermaLink="false">https://requestmetrics.com/web-performance/http3-is-fast</guid>
-            <link>https://requestmetrics.com/web-performance/http3-is-fast</link>
-            
-            
-            
-            <author><![CDATA[SerCe]]></author>
+            <author><![CDATA[mokkol]]></author>
             
                 
             
@@ -114,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Pico CSS Framework]]></title>
-            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=29559961 target=_blank>91 comments</a>]]></description>
-            <pubDate>2021-12-15T00:02:00.000Z</pubDate>
-            <guid isPermaLink="false">https://picocss.com/</guid>
-            <link>https://picocss.com/</link>
+            <title><![CDATA[Pelosi defends stock trading by lawmakers. ‘We are a free-market economy’]]></title>
+            <description><![CDATA[538 points | <a href=https://news.ycombinator.com/item?id=29578450 target=_blank>452 comments</a>]]></description>
+            <pubDate>2021-12-16T14:29:53.000Z</pubDate>
+            <guid isPermaLink="false">https://www.marketwatch.com/story/pelosi-defends-lawmakers-and-their-spouses-trading-stocks-we-are-a-free-market-economy-01639606786</guid>
+            <link>https://www.marketwatch.com/story/pelosi-defends-lawmakers-and-their-spouses-trading-stocks-we-are-a-free-market-economy-01639606786</link>
             
             
             
-            <author><![CDATA[brianzelip]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Apple removes references to CSAM  from its child safety webpage]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=29564300 target=_blank>360 comments</a>]]></description>
-            <pubDate>2021-12-15T11:01:40.000Z</pubDate>
-            <guid isPermaLink="false">https://www.macrumors.com/2021/12/15/apple-nixes-csam-references-website/</guid>
-            <link>https://www.macrumors.com/2021/12/15/apple-nixes-csam-references-website/</link>
-            
-            
-            
-            <author><![CDATA[virgildotcodes]]></author>
+            <author><![CDATA[tiahura]]></author>
             
                 
             
@@ -146,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Busy Simulator: Feign importance with repeating app sounds]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=29561296 target=_blank>107 comments</a>]]></description>
-            <pubDate>2021-12-15T02:24:48.000Z</pubDate>
-            <guid isPermaLink="false">https://busysimulator.com/</guid>
-            <link>https://busysimulator.com/</link>
+            <title><![CDATA[Reddit files to go public]]></title>
+            <description><![CDATA[527 points | <a href=https://news.ycombinator.com/item?id=29574359 target=_blank>755 comments</a>]]></description>
+            <pubDate>2021-12-16T03:09:54.000Z</pubDate>
+            <guid isPermaLink="false">https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/</guid>
+            <link>https://www.reuters.com/markets/us/reddit-files-us-ipo-2021-12-16/</link>
             
             
             
-            <author><![CDATA[karmanyaahm]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Asahi Linux for M1 Macs Progress October-November 2021]]></title>
-            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=29564384 target=_blank>187 comments</a>]]></description>
-            <pubDate>2021-12-15T11:11:35.000Z</pubDate>
-            <guid isPermaLink="false">https://asahilinux.org/2021/12/progress-report-oct-nov-2021/</guid>
-            <link>https://asahilinux.org/2021/12/progress-report-oct-nov-2021/</link>
-            
-            
-            
-            <author><![CDATA[svenpeter]]></author>
+            <author><![CDATA[stevemk14ebr]]></author>
             
                 
             
@@ -178,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[BusKill – A USB kill cord for laptops]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=29564593 target=_blank>301 comments</a>]]></description>
-            <pubDate>2021-12-15T11:38:46.000Z</pubDate>
-            <guid isPermaLink="false">https://www.buskill.in/</guid>
-            <link>https://www.buskill.in/</link>
+            <title><![CDATA[Windows 11 Officially Shuts Down Firefox’s Default Browser Workaround]]></title>
+            <description><![CDATA[504 points | <a href=https://news.ycombinator.com/item?id=29579994 target=_blank>393 comments</a>]]></description>
+            <pubDate>2021-12-16T16:29:24.000Z</pubDate>
+            <guid isPermaLink="false">https://www.howtogeek.com/774542/windows-11-officially-shuts-down-firefoxs-default-browser-workaround/</guid>
+            <link>https://www.howtogeek.com/774542/windows-11-officially-shuts-down-firefoxs-default-browser-workaround/</link>
             
             
             
-            <author><![CDATA[favourable]]></author>
+            <author><![CDATA[beezle]]></author>
             
                 
             
@@ -194,15 +114,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Ask HN: I've lost faith in myself as a developer, how do I get it back?]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=29567743 target=_blank>196 comments</a>]]></description>
-            <pubDate>2021-12-15T15:57:30.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=29567743</guid>
-            <link>https://news.ycombinator.com/item?id=29567743</link>
+            <title><![CDATA[PNG Parser Differential]]></title>
+            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=29573792 target=_blank>48 comments</a>]]></description>
+            <pubDate>2021-12-16T01:32:32.000Z</pubDate>
+            <guid isPermaLink="false">https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</guid>
+            <link>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</link>
             
             
             
-            <author><![CDATA[cwitty88]]></author>
+            <author><![CDATA[Retr0id]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rails 7 Released]]></title>
+            <description><![CDATA[418 points | <a href=https://news.ycombinator.com/item?id=29573607 target=_blank>122 comments</a>]]></description>
+            <pubDate>2021-12-16T01:03:09.000Z</pubDate>
+            <guid isPermaLink="false">https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision</guid>
+            <link>https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision</link>
+            
+            
+            
+            <author><![CDATA[baggy_trough]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[There oughta be a WiFi Game Boy cartridge]]></title>
+            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=29580726 target=_blank>79 comments</a>]]></description>
+            <pubDate>2021-12-16T17:18:31.000Z</pubDate>
+            <guid isPermaLink="false">https://there.oughta.be/a/wifi-game-boy-cartridge</guid>
+            <link>https://there.oughta.be/a/wifi-game-boy-cartridge</link>
+            
+            
+            
+            <author><![CDATA[CyberRabbi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tqdm (Python)]]></title>
+            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=29582437 target=_blank>83 comments</a>]]></description>
+            <pubDate>2021-12-16T19:10:15.000Z</pubDate>
+            <guid isPermaLink="false">https://tqdm.github.io/</guid>
+            <link>https://tqdm.github.io/</link>
+            
+            
+            
+            <author><![CDATA[manjana]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Carmen Ortiz Has Blood on Her Hands (2013)]]></title>
+            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=29573357 target=_blank>119 comments</a>]]></description>
+            <pubDate>2021-12-16T00:29:19.000Z</pubDate>
+            <guid isPermaLink="false">https://mattbruenig.com/2021/12/13/carmen-ortiz-has-blood-on-her-hands/</guid>
+            <link>https://mattbruenig.com/2021/12/13/carmen-ortiz-has-blood-on-her-hands/</link>
+            
+            
+            
+            <author><![CDATA[viburnum]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cryptocurrency scams cost owners $7.7B in 2021, driven by DeFi-based “rug pulls”]]></title>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=29579362 target=_blank>322 comments</a>]]></description>
+            <pubDate>2021-12-16T15:47:52.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/</guid>
+            <link>https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/</link>
+            
+            
+            
+            <author><![CDATA[marban]]></author>
             
                 
             
