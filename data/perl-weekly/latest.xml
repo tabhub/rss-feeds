@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #542]]></title>
+        <title><![CDATA[Perl Weekly #543]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Corinna Update 6th Dec 2021]]></title>
-            <description><![CDATA[After considerable discussion, slot has been renamed to field.]]></description>
-            <pubDate>2021.12.06</pubDate>
-            <guid isPermaLink="false">https://github.com/Ovid/Cor/blob/master/rfc/major-changes.md#december-6-2021</guid>
-            <link>https://github.com/Ovid/Cor/blob/master/rfc/major-changes.md#december-6-2021</link>
+            <title><![CDATA[GNU timeout annoyed me so I replaced it; or an extremely simple introduction to fork() and signal handling in perl]]></title>
+            <description><![CDATA[One of the problems CPAN testers are facing is code that hangs. That just sits there waiting for Godot.]]></description>
+            <pubDate>2021.12.13</pubDate>
+            <guid isPermaLink="false">https://dev.to/drhyde/gnu-timeout-annoyed-me-so-i-replaced-it-or-an-extremely-simple-introduction-to-fork-and-signal-handling-in-perl-32f7</guid>
+            <link>https://dev.to/drhyde/gnu-timeout-annoyed-me-so-i-replaced-it-or-an-extremely-simple-introduction-to-fork-and-signal-handling-in-perl-32f7</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
+            <author><![CDATA[david_cantrell]]></author>
             
                 
             
@@ -34,15 +34,79 @@
         </item>
         
         <item>
-            <title><![CDATA[Corinna Update 8th Dec 2021]]></title>
-            <description><![CDATA[Some more updates to how Class data and methods are agreed to be declared. And few more.]]></description>
+            <title><![CDATA[AoC 2021/09 - Flood fill]]></title>
+            <description><![CDATA[The Advent of Code puzzle 9 from 2021: using the flood fill algorithm.]]></description>
+            <pubDate>2021.12.13</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/13/a0c2021-09-flood-fill/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/12/13/a0c2021-09-flood-fill/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advent Of Code 2021, Day 1: Sonar Sweep]]></title>
+            <description><![CDATA[The first part of the Advent series of Abigail. You can edit the URL to see the rest of the posts. The <a href="https://github.com/Abigail/Abigail.github.io/tree/master/HTML/AdventOfCode/2021">source</a> of the posts are available on GitHub.]]></description>
+            <pubDate>2021.12.01</pubDate>
+            <guid isPermaLink="false">https://abigail.github.io/HTML/AdventOfCode/2021/day-01.html</guid>
+            <link>https://abigail.github.io/HTML/AdventOfCode/2021/day-01.html</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advent Of Code 2021, Day 15: Chiton]]></title>
+            <description><![CDATA[Advent Of Code 2021, Day 15: Chiton]]></description>
+            <pubDate>2021.12.15</pubDate>
+            <guid isPermaLink="false">https://abigail.github.io/HTML/AdventOfCode/2021/day-15.html</guid>
+            <link>https://abigail.github.io/HTML/AdventOfCode/2021/day-15.html</link>
+            
+            
+            
+            <author><![CDATA[abigail]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advent of Code Day 1 to 5]]></title>
+            <description><![CDATA[Advent of Code Day 1 to 5]]></description>
+            <pubDate>2021.12.05</pubDate>
+            <guid isPermaLink="false">https://domm.plix.at/perl/2021_aoc_day_01_to_05.html</guid>
+            <link>https://domm.plix.at/perl/2021_aoc_day_01_to_05.html</link>
+            
+            
+            
+            <author><![CDATA[thomas_klausner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advent of Code Day 6, 7 and 8]]></title>
+            <description><![CDATA[Advent of Code Day 6, 7 and 8]]></description>
             <pubDate>2021.12.08</pubDate>
-            <guid isPermaLink="false">https://github.com/Ovid/Cor/blob/master/rfc/major-changes.md#december-8-2021</guid>
-            <link>https://github.com/Ovid/Cor/blob/master/rfc/major-changes.md#december-8-2021</link>
+            <guid isPermaLink="false">https://domm.plix.at/perl/2021_aoc_day_06_to_08.html</guid>
+            <link>https://domm.plix.at/perl/2021_aoc_day_06_to_08.html</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
+            <author><![CDATA[thomas_klausner]]></author>
             
                 
             
@@ -50,11 +114,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Sweeter Perl exception classes]]></title>
-            <description><![CDATA[Mark shared different ways to deal with exceptions in Perl. A very thought-provoking post.]]></description>
-            <pubDate>2021.12.07</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/12/07/sweeter-perl-exception-classes/</guid>
-            <link>https://phoenixtrap.com/2021/12/07/sweeter-perl-exception-classes/</link>
+            <title><![CDATA[Advent of Code Day 9 to 14]]></title>
+            <description><![CDATA[https://domm.plix.at/perl/2021_aoc_day_09_to_14.html]]></description>
+            <pubDate>2021.12.14</pubDate>
+            <guid isPermaLink="false">https://domm.plix.at/perl/2021_aoc_day_09_to_14.html</guid>
+            <link>https://domm.plix.at/perl/2021_aoc_day_09_to_14.html</link>
+            
+            
+            
+            <author><![CDATA[thomas_klausner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A brief note on Log4perl]]></title>
+            <description><![CDATA[Does the vulnaribility in the Java package impact the similarly named package in Perl?]]></description>
+            <pubDate>2021.12.14</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2021/12/14/a-brief-note-on-log4perl/</guid>
+            <link>https://phoenixtrap.com/2021/12/14/a-brief-note-on-log4perl/</link>
             
             
             
@@ -66,11 +146,91 @@
         </item>
         
         <item>
-            <title><![CDATA[My Favorite Warnings: shadow]]></title>
-            <description><![CDATA[Tom discussed another of his favourite warnings, <strong>shadow</strong>, in hid ongoing blog series.]]></description>
-            <pubDate>2021.12.09</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/12/my-favorite-warnings-shadow.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2021/12/my-favorite-warnings-shadow.html</link>
+            <title><![CDATA[AoC 2021/10 - Syntax scoring]]></title>
+            <description><![CDATA[Playing with parentheses.]]></description>
+            <pubDate>2021.12.14</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/14/aoc2021-10-syntax-scoring/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/12/14/aoc2021-10-syntax-scoring/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[100 Languages Speedrun: Episode 26: Raku (Perl 6)]]></title>
+            <description><![CDATA[100 Languages Speedrun: Episode 26: Raku (Perl 6)]]></description>
+            <pubDate>2021.12.16</pubDate>
+            <guid isPermaLink="false">https://dev.to/taw/languages-speedrun-episode-26-raku-perl-6-4emf</guid>
+            <link>https://dev.to/taw/languages-speedrun-episode-26-raku-perl-6-4emf</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AoC 2021/11 - Calm Dumbo Octopuses]]></title>
+            <description><![CDATA[On with Advent of Code puzzle 11 from 2021: taking it with calm.]]></description>
+            <pubDate>2021.12.17</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/17/aoc2021-11-calm-dumbo-octopuses/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/12/17/aoc2021-11-calm-dumbo-octopuses/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AoC 2021/12 - A trip in the caves]]></title>
+            <description><![CDATA[AoC 2021/12 - A trip in the caves]]></description>
+            <pubDate>2021.12.18</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/18/aoc2021-12-a-trip-in-the-caves/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2021/12/18/aoc2021-12-a-trip-in-the-caves/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A (not so) simple matter of privacy]]></title>
+            <description><![CDATA[With lots of discussion.]]></description>
+            <pubDate>2021.12.12</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/damian_conway/2021/12/a-not-so-simple-matter-of-privacy.html</guid>
+            <link>http://blogs.perl.org/users/damian_conway/2021/12/a-not-so-simple-matter-of-privacy.html</link>
+            
+            
+            
+            <author><![CDATA[damian_conway]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My Favorite Warnings: syntax]]></title>
+            <description><![CDATA[Warnings category syntax contains a number of sub-categories representing possibly-problematic syntax. These include ambiguous syntax, problematic bareword usage, invalid printf conversions, and more.]]></description>
+            <pubDate>2021.12.16</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/12/my-favorite-warnings-syntax.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2021/12/my-favorite-warnings-syntax.html</link>
             
             
             
@@ -82,31 +242,15 @@
         </item>
         
         <item>
-            <title><![CDATA[JavaScript Supported Web Scraping using Perl and Selenium]]></title>
-            <description><![CDATA[If you want to scrape web contents, this article explains how to do it using Perl and Selenium.]]></description>
-            <pubDate>2021.12.08</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/yuki_kimoto/2021/12/javascript-supported-web-scraping-using-perl-and-selenium.html</guid>
-            <link>http://blogs.perl.org/users/yuki_kimoto/2021/12/javascript-supported-web-scraping-using-perl-and-selenium.html</link>
+            <title><![CDATA[Larry Wall website???]]></title>
+            <description><![CDATA[The author ask when will Larry Wall update his website and I think the response is great: 'Why would you update a masterpiece like that?']]></description>
+            <pubDate>2021.12.16</pubDate>
+            <guid isPermaLink="false">https://dev.to/nic3point0/larry-wall-website-195p</guid>
+            <link>https://dev.to/nic3point0/larry-wall-website-195p</link>
             
             
             
-            <author><![CDATA[yuki_kimoto]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2021.49 Adventing Is On!]]></title>
-            <description><![CDATA[2021.49 Adventing Is On!]]></description>
-            <pubDate>2021.12.06</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2021/12/06/2021-49-adventing-is-on/</guid>
-            <link>https://rakudoweekly.blog/2021/12/06/2021-49-adventing-is-on/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -115,30 +259,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/12/ccclxxi-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2021/12/dxiii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.12.11</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2021/12/ccclxxii-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
+            <pubDate>2021.12</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Italki number of tutors per language ]]></title>
-            <description><![CDATA[Looking for conversation partners? Italki is an excellent place where you can find speakers in most of the languages in the world. I put together a page listing some of the languages available on italki along with the number of tutors you can select from.]]></description>
-            <pubDate>2021.12.13</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/italki-number-of-tutors-2021-12-13.html</guid>
-            <link>https://szabgab.com/italki-number-of-tutors-2021-12-13.html</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
