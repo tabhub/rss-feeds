@@ -3,7 +3,7 @@ name: daily-update
 on:
   push:
   schedule:
-    - cron: "1 0 * * *"
+    - cron: "*/3 * * * *"
 
 jobs:
   hackernews-daily:
