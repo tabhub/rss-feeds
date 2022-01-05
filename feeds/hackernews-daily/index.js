@@ -9,7 +9,16 @@ const run = async (date, num) => {
     const startTime = Math.round(new Date(date).getTime() / 1000) - (25 * 60 * 60);
     const res = await axios.get(
       `https://hn.algolia.com/api/v1/search?numericFilters=created_at_i>${startTime},created_at_i<${endTime}`);
-    const topN = res.data.hits.slice(0, num);
+
+    let topN = [];
+    for (let i = 0;; i++) {
+      let item = res.data.hits[i];
+      if (item.title) topN.push(item);
+      if (topN.length === num) {
+        break;
+      }
+    }
+
     console.log(topN);
     if (!topN) {
       console.log("Failed to get topics from API");
