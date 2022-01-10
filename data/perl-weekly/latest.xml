@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #545]]></title>
+        <title><![CDATA[Perl Weekly #546]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Capture STDOUT and STDERR of external program using Capture::Tiny]]></title>
-            <description><![CDATA[Capture STDOUT and STDERR of external program using Capture::Tiny]]></description>
-            <pubDate>2021.12.27</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/capture-stdout-stderr-of-external-program</guid>
-            <link>https://perlmaven.com/capture-stdout-stderr-of-external-program</link>
+            <title><![CDATA[Are Microservices the Next Phase of Object-Oriented Programming?]]></title>
+            <description><![CDATA[Curtis sharing little secrets about OOP and its follow-up with microservices. The discussion about inheritance is fascinating. Thank you; great blog post. Please keep it coming regularly.]]></description>
+            <pubDate>2022.01.09</pubDate>
+            <guid isPermaLink="false">https://ovid.github.io/articles/are-microservices-the-next-phase-of-object-oriented-programming.html</guid>
+            <link>https://ovid.github.io/articles/are-microservices-the-next-phase-of-object-oriented-programming.html</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2021/17 - Ballistic]]></title>
-            <description><![CDATA[This day's puzzle is about throwing stuff around. It involves some physics models.]]></description>
-            <pubDate>2021.12.27</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/27/aoc2021-17-ballistic/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/12/27/aoc2021-17-ballistic/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[curtis_ovid_poe]]></author>
             
                 
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Avoid Yoda conditions in Perl you should]]></title>
-            <description><![CDATA[Just use warnings and strictures, he says.]]></description>
-            <pubDate>2021.12.28</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2021/12/28/avoid-yoda-conditions-in-perl-you-should/</guid>
-            <link>https://phoenixtrap.com/2021/12/28/avoid-yoda-conditions-in-perl-you-should/</link>
+            <title><![CDATA[Perl warnings and the warn function]]></title>
+            <description><![CDATA[A very interesting discussion of 'warn' and 'warnings'. Highly recommended.]]></description>
+            <pubDate>2021.12.04</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2022/01/04/perl-warnings-and-the-warn-function/</guid>
+            <link>https://phoenixtrap.com/2022/01/04/perl-warnings-and-the-warn-function/</link>
             
             
             
@@ -66,107 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[AoC 2021/18 - Fishy accordion]]></title>
-            <description><![CDATA[Something about balancing binary trees.]]></description>
-            <pubDate>2021.12.28</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/28/aoc2021-18-fishy-accordion/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/12/28/aoc2021-18-fishy-accordion/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[My new modules in 2021]]></title>
-            <description><![CDATA[The Perl modules Leon created in 2021: Crypt::Passphrase - Thread::Csp - autocroak; in Raku: Crypt::Passphrase - Net::MQTT]]></description>
-            <pubDate>2021.12.29</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/leon_timmermans/2021/12/my-new-modules-in-2021.html</guid>
-            <link>http://blogs.perl.org/users/leon_timmermans/2021/12/my-new-modules-in-2021.html</link>
-            
-            
-            
-            <author><![CDATA[leon_timmermans]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Draft: Dancer2 Deprecation Policy]]></title>
-            <description><![CDATA[See the open <a href="https://github.com/PerlDancer/Dancer2/issues/1635">issue</a>.]]></description>
-            <pubDate>2021.12.29</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/jason_a_crome/2021/12/draft-dancer2-deprecation-policy.html</guid>
-            <link>http://blogs.perl.org/users/jason_a_crome/2021/12/draft-dancer2-deprecation-policy.html</link>
-            
-            
-            
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Advent of Code Days 15 to 24, with some gaps]]></title>
-            <description><![CDATA[Advent of Code Days 15 to 24, with some gaps]]></description>
-            <pubDate>2021.12.30</pubDate>
-            <guid isPermaLink="false">https://domm.plix.at/perl/2021_aoc_day_15_to_24_with_gaps.html</guid>
-            <link>https://domm.plix.at/perl/2021_aoc_day_15_to_24_with_gaps.html</link>
-            
-            
-            
-            <author><![CDATA[thomas_klausner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2021/19 - GPS is smarter]]></title>
-            <description><![CDATA[AoC 2021/19 - GPS is smarter]]></description>
-            <pubDate>2021.12.30</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2021/12/31/aoc2021-19-gps-is-smarter/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2021/12/31/aoc2021-19-gps-is-smarter/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2021/19 - GPS is smarter - part 2]]></title>
-            <description><![CDATA[AoC 2021/19 - GPS is smarter - part 2]]></description>
-            <pubDate>2022.01.02</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/02/aoc2021-19-gps-is-smarter-2/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/01/02/aoc2021-19-gps-is-smarter-2/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Do-It-Yourself Lexical Pragmas]]></title>
-            <description><![CDATA[This blog post is about writing Perl code whose configuration changes are limited to a lexical scope, just like built-in pragmata such as strict or warnings.]]></description>
-            <pubDate>2021.12.30</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2021/12/do-it-yourself-lexical-pragmas.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2021/12/do-it-yourself-lexical-pragmas.html</link>
+            <title><![CDATA[My Favorite Warnings: closure]]></title>
+            <description><![CDATA[This weekly blog by Tom shares the insights of 'closures' in a compact and cocise way. ]]></description>
+            <pubDate>2021.12.07</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/01/my-favorite-warnings-closure.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2022/01/my-favorite-warnings-closure.html</link>
             
             
             
@@ -178,9 +66,73 @@
         </item>
         
         <item>
+            <title><![CDATA[Opening Files Quickly from Inside vim]]></title>
+            <description><![CDATA[It is not something new to many but in this blog post he is talking how to use 'ot' within vim.]]></description>
+            <pubDate>2022.01.05</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2022/01/05/open-this-file-from-inside-vim/</guid>
+            <link>https://www.olafalders.com/2022/01/05/open-this-file-from-inside-vim/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GNU Parallel's 20th birthday]]></title>
+            <description><![CDATA[On 2022-01-06 GNU Parallel was 20 years old. Please check out how Perl is related to it.]]></description>
+            <pubDate>2022.01.06</pubDate>
+            <guid isPermaLink="false">https://www.gnu.org/software/parallel/20th-birthday.html</guid>
+            <link>https://www.gnu.org/software/parallel/20th-birthday.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Programming in 1987 Versus Today]]></title>
+            <description><![CDATA[Curtis sharing his programming days in 1987. A very entertaining blog post.]]></description>
+            <pubDate>2022.01.03</pubDate>
+            <guid isPermaLink="false">https://ovid.github.io/blog/programming-in-1987-versus-today.html</guid>
+            <link>https://ovid.github.io/blog/programming-in-1987-versus-today.html</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2021.52 JDV Released]]></title>
+            <description><![CDATA[2021.52 JDV Released]]></description>
+            <pubDate>2021.12.27</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2021/12/27/2021-52-jdv-released/</guid>
+            <link>https://rakudoweekly.blog/2021/12/27/2021-52-jdv-released/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/01/ccclxxiv-5-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/01/10-best-perl-distributions-created-at.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/01/dxv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2021.12</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/01/ccclxxvi-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/01/dxvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.01.08</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -194,11 +146,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Learn Yiddish on YiddishPOP]]></title>
-            <description><![CDATA[When my kids were small we subscribed to (the Hebrew edition of) <a href="https://www.brainpop.com/">BrainPOP</a> and we all loved it. As I can see they have English, Spanish and French editions. They also created this series of introduction to Yiddish. It is cute.]]></description>
-            <pubDate>2021.12.27</pubDate>
-            <guid isPermaLink="false">http://www.yiddishpop.com/</guid>
-            <link>http://www.yiddishpop.com/</link>
+            <title><![CDATA[Dancer2: Install Perl on Linux and Mac OSX]]></title>
+            <description><![CDATA[Dancer2: Install Perl on Linux and Mac OSX]]></description>
+            <pubDate>2022.01.10</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-install-perl-on-linux</guid>
+            <link>https://perlmaven.com/dancer2-install-perl-on-linux</link>
             
             
             
