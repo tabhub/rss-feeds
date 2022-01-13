@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Apple execs: Let's take a 30% cut of Uber and Lyft's membership programs (2018)]]></title>
-            <description><![CDATA[660 points | <a href=https://news.ycombinator.com/item?id=29913693 target=_blank>686 comments</a>]]></description>
+            <description><![CDATA[661 points | <a href=https://news.ycombinator.com/item?id=29913693 target=_blank>687 comments</a>]]></description>
             <pubDate>2022-01-12T22:33:57.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/TechEmails/status/1481339345822879745</guid>
             <link>https://twitter.com/TechEmails/status/1481339345822879745</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Firefox connection problems after enabling DoH?]]></title>
-            <description><![CDATA[651 points | <a href=https://news.ycombinator.com/item?id=29918052 target=_blank>375 comments</a>]]></description>
+            <description><![CDATA[657 points | <a href=https://news.ycombinator.com/item?id=29918052 target=_blank>376 comments</a>]]></description>
             <pubDate>2022-01-13T08:10:20.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=29918052</guid>
             <link>https://news.ycombinator.com/item?id=29918052</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Parcel CSS: A new CSS parser, compiler, and minifier]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=29909533 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=29909533 target=_blank>113 comments</a>]]></description>
             <pubDate>2022-01-12T17:05:35.000Z</pubDate>
             <guid isPermaLink="false">https://parceljs.org/blog/parcel-css/</guid>
             <link>https://parceljs.org/blog/parcel-css/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Dark Web – Justice League]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=29912184 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=29912184 target=_blank>187 comments</a>]]></description>
             <pubDate>2022-01-12T20:17:47.000Z</pubDate>
             <guid isPermaLink="false">https://analyst1.com/blog/dark-web-justice-league</guid>
             <link>https://analyst1.com/blog/dark-web-justice-league</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Send text messages for free using Python]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=29915412 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=29915412 target=_blank>89 comments</a>]]></description>
             <pubDate>2022-01-13T01:07:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/</guid>
             <link>https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Async Rust in Practice: Performance, Pitfalls, Profiling]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=29911141 target=_blank>33 comments</a>]]></description>
-            <pubDate>2022-01-12T18:45:46.000Z</pubDate>
-            <guid isPermaLink="false">https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/</guid>
-            <link>https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/</link>
-            
-            
-            
-            <author><![CDATA[uberdru]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Toxic culture is driving the great resignation]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=29917755 target=_blank>220 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=29917755 target=_blank>245 comments</a>]]></description>
             <pubDate>2022-01-13T07:17:53.000Z</pubDate>
             <guid isPermaLink="false">https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/</guid>
             <link>https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Async Rust in Practice: Performance, Pitfalls, Profiling]]></title>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=29911141 target=_blank>36 comments</a>]]></description>
+            <pubDate>2022-01-12T18:45:46.000Z</pubDate>
+            <guid isPermaLink="false">https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/</guid>
+            <link>https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/</link>
+            
+            
+            
+            <author><![CDATA[uberdru]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Poor man's VPN (pay for only what you need)]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=29913515 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=29913515 target=_blank>97 comments</a>]]></description>
             <pubDate>2022-01-12T22:18:03.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/amritb/poor-mans-vpn</guid>
             <link>https://github.com/amritb/poor-mans-vpn</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[How to Set Up a Router's Port Forwarding for a Nintendo Switch Console]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=29919228 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=29919228 target=_blank>148 comments</a>]]></description>
             <pubDate>2022-01-13T10:45:20.000Z</pubDate>
             <guid isPermaLink="false">https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console</guid>
             <link>https://en-americas-support.nintendo.com/app/answers/detail/a_id/22272/~/how-to-set-up-a-routers-port-forwarding-for-a-nintendo-switch-console</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Austrian DSB: EU-US Data Transfers to Google Analytics Illegal]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=29918496 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=29918496 target=_blank>190 comments</a>]]></description>
             <pubDate>2022-01-13T09:11:53.000Z</pubDate>
             <guid isPermaLink="false">https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal</guid>
             <link>https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Using Git commit message templates to write better commit messages]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=29911308 target=_blank>76 comments</a>]]></description>
-            <pubDate>2022-01-12T18:58:43.000Z</pubDate>
-            <guid isPermaLink="false">https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</guid>
-            <link>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</link>
+            <title><![CDATA[Database-less torrent website]]></title>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=29917818 target=_blank>53 comments</a>]]></description>
+            <pubDate>2022-01-13T07:26:44.000Z</pubDate>
+            <guid isPermaLink="false">https://boredcaveman.xyz/post/0x1_dbless-torrent-website.html</guid>
+            <link>https://boredcaveman.xyz/post/0x1_dbless-torrent-website.html</link>
             
             
             
-            <author><![CDATA[ingve]]></author>
+            <author><![CDATA[etagate]]></author>
             
                 
             
