@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Apple execs: Let's take a 30% cut of Uber and Lyft's membership programs (2018)]]></title>
-            <description><![CDATA[654 points | <a href=https://news.ycombinator.com/item?id=29913693 target=_blank>681 comments</a>]]></description>
+            <description><![CDATA[656 points | <a href=https://news.ycombinator.com/item?id=29913693 target=_blank>684 comments</a>]]></description>
             <pubDate>2022-01-12T22:33:57.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/TechEmails/status/1481339345822879745</guid>
             <link>https://twitter.com/TechEmails/status/1481339345822879745</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Firefox connection problems after enabling DoH?]]></title>
-            <description><![CDATA[641 points | <a href=https://news.ycombinator.com/item?id=29918052 target=_blank>373 comments</a>]]></description>
+            <description><![CDATA[643 points | <a href=https://news.ycombinator.com/item?id=29918052 target=_blank>374 comments</a>]]></description>
             <pubDate>2022-01-13T08:10:20.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=29918052</guid>
             <link>https://news.ycombinator.com/item?id=29918052</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[In MySQL, use “utf8mb4” instead of “utf8” (2016)]]></title>
-            <description><![CDATA[597 points | <a href=https://news.ycombinator.com/item?id=29907551 target=_blank>329 comments</a>]]></description>
+            <description><![CDATA[601 points | <a href=https://news.ycombinator.com/item?id=29907551 target=_blank>329 comments</a>]]></description>
             <pubDate>2022-01-12T15:21:01.000Z</pubDate>
             <guid isPermaLink="false">https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434</guid>
             <link>https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Google hired union-busting consultants to convince employees “unions suck”]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=29906713 target=_blank>457 comments</a>]]></description>
-            <pubDate>2022-01-12T14:30:38.000Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/</guid>
-            <link>https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/</link>
-            
-            
-            
-            <author><![CDATA[60654]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Parcel CSS: A new CSS parser, compiler, and minifier]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=29909533 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=29909533 target=_blank>110 comments</a>]]></description>
             <pubDate>2022-01-12T17:05:35.000Z</pubDate>
             <guid isPermaLink="false">https://parceljs.org/blog/parcel-css/</guid>
             <link>https://parceljs.org/blog/parcel-css/</link>
@@ -91,22 +75,6 @@
             
             
             <author><![CDATA[Lapz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[IPython 8.0]]></title>
-            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=29906774 target=_blank>117 comments</a>]]></description>
-            <pubDate>2022-01-12T14:35:37.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e</guid>
-            <link>https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef?gi=5efbb52d543e</link>
-            
-            
-            
-            <author><![CDATA[carreau]]></author>
             
                 
             
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[Send text messages for free using Python]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=29915412 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=29915412 target=_blank>84 comments</a>]]></description>
             <pubDate>2022-01-13T01:07:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/</guid>
             <link>https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[alfredosequeida]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Poor man's VPN (pay for only what you need)]]></title>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=29913515 target=_blank>95 comments</a>]]></description>
+            <pubDate>2022-01-12T22:18:03.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/amritb/poor-mans-vpn</guid>
+            <link>https://github.com/amritb/poor-mans-vpn</link>
+            
+            
+            
+            <author><![CDATA[benpiper]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toxic Culture Is Driving the Great Resignation]]></title>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=29917755 target=_blank>197 comments</a>]]></description>
+            <pubDate>2022-01-13T07:17:53.000Z</pubDate>
+            <guid isPermaLink="false">https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/</guid>
+            <link>https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/</link>
+            
+            
+            
+            <author><![CDATA[Hard_Space]]></author>
             
                 
             
