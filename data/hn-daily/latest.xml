@@ -34,8 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[cURL to add native JSON support]]></title>
-            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=30011382 target=_blank>108 comments</a>]]></description>
+            <title><![CDATA[JSON support]]></title>
+            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=30011382 target=_blank>116 comments</a>]]></description>
             <pubDate>2022-01-20T16:51:18.000Z</pubDate>
             <guid isPermaLink="false">https://curl.se/mail/archive-2022-01/0043.html</guid>
             <link>https://curl.se/mail/archive-2022-01/0043.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[No amount of alcohol is good for the heart, says World Heart Federation]]></title>
-            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=30009882 target=_blank>557 comments</a>]]></description>
+            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=30009882 target=_blank>558 comments</a>]]></description>
             <pubDate>2022-01-20T15:15:44.000Z</pubDate>
             <guid isPermaLink="false">https://world-heart-federation.org/news/no-amount-of-alcohol-is-good-for-the-heart-says-world-heart-federation/</guid>
             <link>https://world-heart-federation.org/news/no-amount-of-alcohol-is-good-for-the-heart-says-world-heart-federation/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Burned Out. What Now?]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=30000069 target=_blank>189 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=30000069 target=_blank>190 comments</a>]]></description>
             <pubDate>2022-01-19T21:02:24.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30000069</guid>
             <link>https://news.ycombinator.com/item?id=30000069</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Postgres Indexes for Newbies]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=30001964 target=_blank>36 comments</a>]]></description>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=30001964 target=_blank>36 comments</a>]]></description>
             <pubDate>2022-01-19T23:25:10.000Z</pubDate>
             <guid isPermaLink="false">https://blog.crunchydata.com/blog/postgres-indexes-for-newbies</guid>
             <link>https://blog.crunchydata.com/blog/postgres-indexes-for-newbies</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Crypto.com accounts had unauthorized withdrawals]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=30009714 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=30009714 target=_blank>270 comments</a>]]></description>
             <pubDate>2022-01-20T15:02:44.000Z</pubDate>
             <guid isPermaLink="false">https://crypto.com/product-news/crypto-com-security-report-next-steps</guid>
             <link>https://crypto.com/product-news/crypto-com-security-report-next-steps</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Facebook versus The BMJ: when fact checking goes wrong]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=30006877 target=_blank>269 comments</a>]]></description>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=30006877 target=_blank>271 comments</a>]]></description>
             <pubDate>2022-01-20T09:58:23.000Z</pubDate>
             <guid isPermaLink="false">https://www.bmj.com/content/376/bmj.o95</guid>
             <link>https://www.bmj.com/content/376/bmj.o95</link>
@@ -155,6 +155,38 @@
             
             
             <author><![CDATA[dberhane]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Police in tiny Alabama town suck drivers into legal ‘black hole’]]></title>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=30012544 target=_blank>218 comments</a>]]></description>
+            <pubDate>2022-01-20T18:19:02.000Z</pubDate>
+            <guid isPermaLink="false">https://www.al.com/news/2022/01/police-in-this-tiny-alabama-town-suck-drivers-into-legal-black-hole.html</guid>
+            <link>https://www.al.com/news/2022/01/police-in-this-tiny-alabama-town-suck-drivers-into-legal-black-hole.html</link>
+            
+            
+            
+            <author><![CDATA[ourmandave]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[JetBrains Mono – the free and open-source typeface for developers]]></title>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=30009287 target=_blank>120 comments</a>]]></description>
+            <pubDate>2022-01-20T14:26:33.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/JetBrains/JetBrainsMono</guid>
+            <link>https://github.com/JetBrains/JetBrainsMono</link>
+            
+            
+            
+            <author><![CDATA[onnnon]]></author>
             
                 
             
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[0x53]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[JetBrains Mono – the free and open-source typeface for developers]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=30009287 target=_blank>106 comments</a>]]></description>
-            <pubDate>2022-01-20T14:26:33.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/JetBrains/JetBrainsMono</guid>
-            <link>https://github.com/JetBrains/JetBrainsMono</link>
-            
-            
-            
-            <author><![CDATA[onnnon]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Tiny Alabama Town of 1,200 Has Been Overrun by Out Out of Control Police]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=30012544 target=_blank>188 comments</a>]]></description>
-            <pubDate>2022-01-20T18:19:02.000Z</pubDate>
-            <guid isPermaLink="false">https://jalopnik.com/this-tiny-alabama-town-of-1-200-has-been-overrun-by-pol-1848389331</guid>
-            <link>https://jalopnik.com/this-tiny-alabama-town-of-1-200-has-been-overrun-by-pol-1848389331</link>
-            
-            
-            
-            <author><![CDATA[ourmandave]]></author>
             
                 
             
