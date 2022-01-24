@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #547]]></title>
+        <title><![CDATA[Perl Weekly #548]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[An Image Collage of CPAN Authors]]></title>
-            <description><![CDATA[Collect a few avatars from CPAN and put them together to create a bigger one.]]></description>
-            <pubDate>2022.01.09</pubDate>
-            <guid isPermaLink="false">https://ology.github.io/2022/01/09/an-image-collage-of-cpan-authors/</guid>
-            <link>https://ology.github.io/2022/01/09/an-image-collage-of-cpan-authors/</link>
+            <title><![CDATA[RFC-Modern OOP In Perl]]></title>
+            <description><![CDATA[It's official, Corinna is going to the Perl core, most probably after the release of 5.36.]]></description>
+            <pubDate>2022.01.16</pubDate>
+            <guid isPermaLink="false">https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262421.html</guid>
+            <link>https://www.nntp.perl.org/group/perl.perl5.porters/2022/01/msg262421.html</link>
             
             
             
-            <author><![CDATA[gene_boggs]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Book review 'Advanced Perl programming']]></title>
-            <description><![CDATA[That's a 25 years old book in the review!]]></description>
-            <pubDate>2022.01.10</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/book-review-advanced-perl-programming-5ceo</guid>
-            <link>https://dev.to/thibaultduponchelle/book-review-advanced-perl-programming-5ceo</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
+            <author><![CDATA[ricardo_signes]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancer2: Install Perl on Linux and Mac OSX]]></title>
-            <description><![CDATA[Video]]></description>
-            <pubDate>2022.01.10</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-install-perl-on-linux</guid>
-            <link>https://perlmaven.com/dancer2-install-perl-on-linux</link>
+            <title><![CDATA[Git::Critic]]></title>
+            <description><![CDATA[Do you like Perl::Critic but you can't use it against your legacy codebase because it reports too many problems? Then you should try this new module and share your experience with the author.]]></description>
+            <pubDate>2022.01.23</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/pod/Git::Critic</guid>
+            <link>https://metacpan.org/pod/Git::Critic</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[curtis_ovid_poe]]></author>
             
                 
             
@@ -66,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[AoC 2021/23 - Then came amphipods...]]></title>
-            <description><![CDATA[Advent has been over for almost 3 weeks now, but Flavio just continues, and continues. We can only envy his persistence. (We could also follow it, but that's much harder.)]]></description>
-            <pubDate>2022.01.10</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/10/aoc2021-23-then-came-amphipods/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/01/10/aoc2021-23-then-came-amphipods/</link>
+            <title><![CDATA[Call for Papers, Perl & Raku Conference in Houston 2022]]></title>
+            <description><![CDATA[The Perl & Raku Conference is a high-quality, inexpensive, technical Conference that celebrates the family of Perl programming languages. Do submit papers if you are keen to give a talk.]]></description>
+            <pubDate>2022.01.22</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/dean/2022/01/call-for-papers-perl-raku-conference-in-houston-2022.html</guid>
+            <link>http://blogs.perl.org/users/dean/2022/01/call-for-papers-perl-raku-conference-in-houston-2022.html</link>
+            
+            
+            
+            <author><![CDATA[dean_hamstead]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App::Easer guides]]></title>
+            <description><![CDATA[Thanks to Flavio for sharing tutorials on App::Easer.]]></description>
+            <pubDate>2022.01.23</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/23/app-easer-guides/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/01/23/app-easer-guides/</link>
             
             
             
@@ -82,11 +82,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Highlighting members of the Perl family]]></title>
-            <description><![CDATA[Mark has started an irregular series highlighting members of the Perl community. In this first episode he mentioned Paul 'LeoNerd' Evans, Elliot Holden, and yours truly. (That would be me, Gábor Szabó). Thanks Mark, I appreciate it.]]></description>
-            <pubDate>2022.01.11</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2022/01/11/highlighting-members-of-the-perl-family/</guid>
-            <link>https://phoenixtrap.com/2022/01/11/highlighting-members-of-the-perl-family/</link>
+            <title><![CDATA[Data::Tubes release and... how cool is CPAN Testers?!?]]></title>
+            <description><![CDATA[Find out more about the recent release of Data::Tubes by Flavio.]]></description>
+            <pubDate>2022.01.18</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/18/data-tubes-release/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/01/18/data-tubes-release/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Get out early with Perl statement modifiers]]></title>
+            <description><![CDATA[Yet another cool blog post by Mark for you if you want to explore different ways to exit early using Perl.]]></description>
+            <pubDate>2022.01.19</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2022/01/19/get-out-early-with-perl-statement-modifiers/</guid>
+            <link>https://phoenixtrap.com/2022/01/19/get-out-early-with-perl-statement-modifiers/</link>
             
             
             
@@ -98,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[100 Languages Speedrun: Episode 52: Perl]]></title>
-            <description><![CDATA[Highlighting some interesting features of Perl, but his conclusion is not positive. These kids today are so spoiled. Can't appreciate a good trade-off.]]></description>
-            <pubDate>2022.01.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/taw/100-languages-speedrun-episode-52-perl-pn7</guid>
-            <link>https://dev.to/taw/100-languages-speedrun-episode-52-perl-pn7</link>
+            <title><![CDATA[My Favorite Warnings: qw]]></title>
+            <description><![CDATA[Tom shares information about one of the most commonly used qw() constructs.]]></description>
+            <pubDate>2022.01.21</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/01/my-favorite-warnings-qw.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2022/01/my-favorite-warnings-qw.html</link>
             
             
             
-            <author><![CDATA[tomasz_wegrzanowski]]></author>
+            <author><![CDATA[tom_wyant]]></author>
             
                 
             
@@ -114,11 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[AoC 2021/24 - Blockchain under the sea]]></title>
-            <description><![CDATA[The fun of processing some assembly code in Perl]]></description>
-            <pubDate>2022.01.11</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/11/aoc2021-24-blockchain-under-the-sea/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/01/11/aoc2021-24-blockchain-under-the-sea/</link>
+            <title><![CDATA[Paste around]]></title>
+            <description><![CDATA[Ever wanted to share code, then this is your friend.]]></description>
+            <pubDate>2022.01.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/22/paste-around/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/01/22/paste-around/</link>
             
             
             
@@ -130,79 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Roles]]></title>
-            <description><![CDATA[Perl Roles]]></description>
-            <pubDate>2022.01.14</pubDate>
-            <guid isPermaLink="false">https://dev.to/dragostrif/perl-roles-54ff</guid>
-            <link>https://dev.to/dragostrif/perl-roles-54ff</link>
+            <title><![CDATA[2022.03 RakuCon How?]]></title>
+            <description><![CDATA[2022.03 RakuCon How?]]></description>
+            <pubDate>2022.01.17</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2022/01/17/2022-03-rakucon-how/</guid>
+            <link>https://rakudoweekly.blog/2022/01/17/2022-03-rakucon-how/</link>
             
             
             
-            <author><![CDATA[dragos_trif]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2021/25 - Sea traffic jam]]></title>
-            <description><![CDATA[Wow, it seems we arrived at the end of the Advent of Code. I am not worried, but OMG, what will Flavio write about now?]]></description>
-            <pubDate>2022.01.14</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/14/aoc2021-25-sea-traffic-jam/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/01/14/aoc2021-25-sea-traffic-jam/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2021/01 - Up and down]]></title>
-            <description><![CDATA[Oh, I thought the AoC is over. But no, this is a Raku solution.]]></description>
-            <pubDate>2022.01.15</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/15/aoc2021-01-up-and-down/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/01/15/aoc2021-01-up-and-down/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[New year, new impetus for Perl Foundation Marketing Committee]]></title>
-            <description><![CDATA[The TPF Marketing Committee wants to raise USD $100,000 to fund Perl and Raku development and make 2022 the year of Perl and Raku. Well, I think this is the first time for many years that I have seen any fund-raising effort from TPF. I wonder what are their plans reaching out to the Perl community and to the corporations that use Perl. In any case, good luck!]]></description>
-            <pubDate>2022.01.15</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/marketing-support-2022</guid>
-            <link>https://news.perlfoundation.org/post/marketing-support-2022</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2021/02 - Ready, set, go!]]></title>
-            <description><![CDATA[Another Raku solution]]></description>
-            <pubDate>2022.01.16</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/01/16/aoc2021-02-ready-set-go/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/01/16/aoc2021-02-ready-set-go/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -211,8 +163,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/01/ccclxxv-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/01/cdxcv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/01/dxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.01.15</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/01/ccclxxvi-9-great-cpan-modules-released_22.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/01/cdxcvi-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/01/dxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.01.22</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -226,11 +178,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Yak shaving while learning Ladino]]></title>
-            <description><![CDATA[Yak shaving while learning Ladino]]></description>
-            <pubDate>2022.01.15</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/yak-shaving-for-ladino.html</guid>
-            <link>https://szabgab.com/yak-shaving-for-ladino.html</link>
+            <title><![CDATA[LibreLingo development with the author]]></title>
+            <description><![CDATA[In this video you see a long pair programming session with Dániel Kántor and Gábor Szabó making some changes to the LibreLingo project. Front-end: Svelte and Bulma. Testing with Cypress.]]></description>
+            <pubDate>2022.01.23</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/librelingo-2022-01-23</guid>
+            <link>https://code-maven.com/librelingo-2022-01-23</link>
             
             
             
@@ -242,15 +194,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Measuring progress while learning Ladino]]></title>
-            <description><![CDATA[Measuring progress while learning Ladino]]></description>
-            <pubDate>2022.01,15</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/measuring-progress-with-ladino.html</guid>
-            <link>https://szabgab.com/measuring-progress-with-ladino.html</link>
+            <title><![CDATA[Developing a caching plugin for LWP::UserAgent and HTTP::Tiny]]></title>
+            <description><![CDATA[Wednesday, January 26, 2022; 06:00 PM Eastern Time (US and Canada)]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/events/283318887/</guid>
+            <link>https://www.meetup.com/charlotte-pm/events/283318887/</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston Perl Mongers Online Meeting - topic TBD]]></title>
+            <description><![CDATA[Tuesday February 8th, 2021 07:00 PM Eastern Time (US and Canada)]]></description>
+            
+            <guid isPermaLink="false">https://boston.pm.org/bpm/Calendar</guid>
+            <link>https://boston.pm.org/bpm/Calendar</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
