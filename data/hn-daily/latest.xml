@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[I got pwned by my cloud costs]]></title>
-            <description><![CDATA[1240 points | <a href=https://news.ycombinator.com/item?id=30054739 target=_blank>562 comments</a>]]></description>
+            <description><![CDATA[1249 points | <a href=https://news.ycombinator.com/item?id=30054739 target=_blank>563 comments</a>]]></description>
             <pubDate>2022-01-24T08:06:46.000Z</pubDate>
             <guid isPermaLink="false">https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/</guid>
             <link>https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Google Drive flags file only containing “1” for copyright infringement]]></title>
-            <description><![CDATA[593 points | <a href=https://news.ycombinator.com/item?id=30060405 target=_blank>234 comments</a>]]></description>
+            <description><![CDATA[602 points | <a href=https://news.ycombinator.com/item?id=30060405 target=_blank>241 comments</a>]]></description>
             <pubDate>2022-01-24T17:01:03.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/emilyldolson/status/1485434187968614411</guid>
             <link>https://twitter.com/emilyldolson/status/1485434187968614411</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Last Windows 11 update changed all default browser settings to Edge]]></title>
-            <description><![CDATA[557 points | <a href=https://news.ycombinator.com/item?id=30055222 target=_blank>407 comments</a>]]></description>
+            <description><![CDATA[557 points | <a href=https://news.ycombinator.com/item?id=30055222 target=_blank>408 comments</a>]]></description>
             <pubDate>2022-01-24T09:26:31.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30055222</guid>
             <link>https://news.ycombinator.com/item?id=30055222</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The Curse of NixOS]]></title>
-            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=30057287 target=_blank>261 comments</a>]]></description>
+            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=30057287 target=_blank>261 comments</a>]]></description>
             <pubDate>2022-01-24T13:24:51.000Z</pubDate>
             <guid isPermaLink="false">https://blog.wesleyac.com/posts/the-curse-of-nixos</guid>
             <link>https://blog.wesleyac.com/posts/the-curse-of-nixos</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[How big was the Tonga eruption?]]></title>
-            <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=30060458 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=30060458 target=_blank>189 comments</a>]]></description>
             <pubDate>2022-01-24T17:03:55.000Z</pubDate>
             <guid isPermaLink="false">https://graphics.reuters.com/TONGA-VOLCANO/lgpdwjyqbvo/</guid>
             <link>https://graphics.reuters.com/TONGA-VOLCANO/lgpdwjyqbvo/</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[We're migrating many of our servers from Linux to FreeBSD]]></title>
-            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=30057549 target=_blank>267 comments</a>]]></description>
-            <pubDate>2022-01-24T13:53:07.000Z</pubDate>
-            <guid isPermaLink="false">https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/</guid>
-            <link>https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/</link>
-            
-            
-            
-            <author><![CDATA[NexRebular]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[PRQL – A proposal for a better SQL]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=30060784 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=30060784 target=_blank>174 comments</a>]]></description>
             <pubDate>2022-01-24T17:24:54.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/max-sixty/prql</guid>
             <link>https://github.com/max-sixty/prql</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[maximilianroos]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We're migrating many of our servers from Linux to FreeBSD]]></title>
+            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=30057549 target=_blank>272 comments</a>]]></description>
+            <pubDate>2022-01-24T13:53:07.000Z</pubDate>
+            <guid isPermaLink="false">https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/</guid>
+            <link>https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/</link>
+            
+            
+            
+            <author><![CDATA[NexRebular]]></author>
             
                 
             
