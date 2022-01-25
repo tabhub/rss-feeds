@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I got pwned by my cloud costs]]></title>
-            <description><![CDATA[1284 points | <a href=https://news.ycombinator.com/item?id=30054739 target=_blank>577 comments</a>]]></description>
+            <description><![CDATA[1291 points | <a href=https://news.ycombinator.com/item?id=30054739 target=_blank>578 comments</a>]]></description>
             <pubDate>2022-01-24T08:06:46.000Z</pubDate>
             <guid isPermaLink="false">https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/</guid>
             <link>https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Google Drive flags file only containing “1” for copyright infringement]]></title>
-            <description><![CDATA[692 points | <a href=https://news.ycombinator.com/item?id=30060405 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[746 points | <a href=https://news.ycombinator.com/item?id=30060405 target=_blank>300 comments</a>]]></description>
             <pubDate>2022-01-24T17:01:03.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/emilyldolson/status/1485434187968614411</guid>
             <link>https://twitter.com/emilyldolson/status/1485434187968614411</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Last Windows 11 update changed all default browser settings to Edge]]></title>
-            <description><![CDATA[561 points | <a href=https://news.ycombinator.com/item?id=30055222 target=_blank>408 comments</a>]]></description>
+            <description><![CDATA[562 points | <a href=https://news.ycombinator.com/item?id=30055222 target=_blank>409 comments</a>]]></description>
             <pubDate>2022-01-24T09:26:31.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30055222</guid>
             <link>https://news.ycombinator.com/item?id=30055222</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How big was the Tonga eruption?]]></title>
-            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=30060458 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[483 points | <a href=https://news.ycombinator.com/item?id=30060458 target=_blank>210 comments</a>]]></description>
             <pubDate>2022-01-24T17:03:55.000Z</pubDate>
             <guid isPermaLink="false">https://graphics.reuters.com/TONGA-VOLCANO/lgpdwjyqbvo/</guid>
             <link>https://graphics.reuters.com/TONGA-VOLCANO/lgpdwjyqbvo/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The Curse of NixOS]]></title>
-            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=30057287 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[474 points | <a href=https://news.ycombinator.com/item?id=30057287 target=_blank>278 comments</a>]]></description>
             <pubDate>2022-01-24T13:24:51.000Z</pubDate>
             <guid isPermaLink="false">https://blog.wesleyac.com/posts/the-curse-of-nixos</guid>
             <link>https://blog.wesleyac.com/posts/the-curse-of-nixos</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[PRQL – A proposal for a better SQL]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=30060784 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=30060784 target=_blank>194 comments</a>]]></description>
             <pubDate>2022-01-24T17:24:54.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/max-sixty/prql</guid>
             <link>https://github.com/max-sixty/prql</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I accidentally used YAML.parse instead of JSON.parse and it worked]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=30052128 target=_blank>194 comments</a>]]></description>
-            <pubDate>2022-01-24T00:17:18.000Z</pubDate>
-            <guid isPermaLink="false">https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json</guid>
-            <link>https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json</link>
-            
-            
-            
-            <author><![CDATA[rohitpaulk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[We're migrating many of our servers from Linux to FreeBSD]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=30057549 target=_blank>294 comments</a>]]></description>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=30057549 target=_blank>301 comments</a>]]></description>
             <pubDate>2022-01-24T13:53:07.000Z</pubDate>
             <guid isPermaLink="false">https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/</guid>
             <link>https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[I accidentally used YAML.parse instead of JSON.parse and it worked]]></title>
+            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=30052128 target=_blank>195 comments</a>]]></description>
+            <pubDate>2022-01-24T00:17:18.000Z</pubDate>
+            <guid isPermaLink="false">https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json</guid>
+            <link>https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json</link>
+            
+            
+            
+            <author><![CDATA[rohitpaulk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LogJ4 Security Inquiry – Response Required]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=30059404 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=30059404 target=_blank>111 comments</a>]]></description>
             <pubDate>2022-01-24T16:08:33.000Z</pubDate>
             <guid isPermaLink="false">https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/</guid>
             <link>https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[GitHub Actions by Example]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=30060765 target=_blank>41 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=30060765 target=_blank>42 comments</a>]]></description>
             <pubDate>2022-01-24T17:23:22.000Z</pubDate>
             <guid isPermaLink="false">https://www.actionsbyexample.com/</guid>
             <link>https://www.actionsbyexample.com/</link>
