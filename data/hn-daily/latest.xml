@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I won the local election, but my township ignored the results and state law]]></title>
-            <description><![CDATA[1079 points | <a href=https://news.ycombinator.com/item?id=30108998 target=_blank>371 comments</a>]]></description>
+            <description><![CDATA[1080 points | <a href=https://news.ycombinator.com/item?id=30108998 target=_blank>371 comments</a>]]></description>
             <pubDate>2022-01-28T00:16:19.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/gaughen/status/1486834885964832770</guid>
             <link>https://twitter.com/gaughen/status/1486834885964832770</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple removes Python 2.7 in macOS 12.3 beta]]></title>
-            <description><![CDATA[608 points | <a href=https://news.ycombinator.com/item?id=30115214 target=_blank>344 comments</a>]]></description>
+            <description><![CDATA[614 points | <a href=https://news.ycombinator.com/item?id=30115214 target=_blank>347 comments</a>]]></description>
             <pubDate>2022-01-28T14:46:45.000Z</pubDate>
             <guid isPermaLink="false">https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</guid>
             <link>https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[If Looks Could Kill]]></title>
-            <description><![CDATA[595 points | <a href=https://news.ycombinator.com/item?id=30109233 target=_blank>243 comments</a>]]></description>
+            <description><![CDATA[596 points | <a href=https://news.ycombinator.com/item?id=30109233 target=_blank>243 comments</a>]]></description>
             <pubDate>2022-01-28T00:40:54.000Z</pubDate>
             <guid isPermaLink="false">https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html</guid>
             <link>https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html</link>
@@ -75,22 +75,6 @@
             
             
             <author><![CDATA[erickhill]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Writing an open source GPU driver without the hardware]]></title>
-            <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=30107002 target=_blank>80 comments</a>]]></description>
-            <pubDate>2022-01-27T21:29:47.000Z</pubDate>
-            <guid isPermaLink="false">https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/</guid>
-            <link>https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/</link>
-            
-            
-            
-            <author><![CDATA[mfilion]]></author>
             
                 
             
@@ -114,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[I got an FBI record at age 11 from dabbling in cryptography (2015)]]></title>
+            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=30118686 target=_blank>148 comments</a>]]></description>
+            <pubDate>2022-01-28T18:43:37.000Z</pubDate>
+            <guid isPermaLink="false">https://web.stanford.edu/~learnest/les/crypto.htm</guid>
+            <link>https://web.stanford.edu/~learnest/les/crypto.htm</link>
+            
+            
+            
+            <author><![CDATA[monort]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Dozens of U.S. states say Apple stifles competition, back Epic]]></title>
             <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=30110514 target=_blank>293 comments</a>]]></description>
             <pubDate>2022-01-28T03:49:06.000Z</pubDate>
@@ -123,22 +123,6 @@
             
             
             <author><![CDATA[keleftheriou]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[I got an FBI record at age 11 from dabbling in cryptography (2015)]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=30118686 target=_blank>137 comments</a>]]></description>
-            <pubDate>2022-01-28T18:43:37.000Z</pubDate>
-            <guid isPermaLink="false">https://web.stanford.edu/~learnest/les/crypto.htm</guid>
-            <link>https://web.stanford.edu/~learnest/les/crypto.htm</link>
-            
-            
-            
-            <author><![CDATA[monort]]></author>
             
                 
             
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Bridge collapse in Pittsburgh’s Frick Park]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=30114737 target=_blank>348 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=30114737 target=_blank>352 comments</a>]]></description>
             <pubDate>2022-01-28T14:09:07.000Z</pubDate>
             <guid isPermaLink="false">https://triblive.com/local/frick-park-bridge-collapses-natural-gas-smell-in-area/</guid>
             <link>https://triblive.com/local/frick-park-bridge-collapses-natural-gas-smell-in-area/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[ahelwer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Reclaiming the lost art of Linux server administration]]></title>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=30118273 target=_blank>182 comments</a>]]></description>
+            <pubDate>2022-01-28T18:09:22.000Z</pubDate>
+            <guid isPermaLink="false">https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/</guid>
+            <link>https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/</link>
+            
+            
+            
+            <author><![CDATA[prea]]></author>
             
                 
             
