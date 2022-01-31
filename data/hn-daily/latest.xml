@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Royal Society cautions against censorship of scientific misinformation online]]></title>
-            <description><![CDATA[899 points | <a href=https://news.ycombinator.com/item?id=30141460 target=_blank>759 comments</a>]]></description>
+            <description><![CDATA[902 points | <a href=https://news.ycombinator.com/item?id=30141460 target=_blank>766 comments</a>]]></description>
             <pubDate>2022-01-30T21:47:10.000Z</pubDate>
             <guid isPermaLink="false">https://royalsociety.org/news/2022/01/scientific-misinformation-report/</guid>
             <link>https://royalsociety.org/news/2022/01/scientific-misinformation-report/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[A UX designer walks into a Tesla Bar]]></title>
-            <description><![CDATA[840 points | <a href=https://news.ycombinator.com/item?id=30140984 target=_blank>530 comments</a>]]></description>
+            <description><![CDATA[841 points | <a href=https://news.ycombinator.com/item?id=30140984 target=_blank>534 comments</a>]]></description>
             <pubDate>2022-01-30T20:55:21.000Z</pubDate>
             <guid isPermaLink="false">https://jenson.org/tesla/</guid>
             <link>https://jenson.org/tesla/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Don't forget Microsoft]]></title>
-            <description><![CDATA[371 points | <a href=https://news.ycombinator.com/item?id=30141192 target=_blank>355 comments</a>]]></description>
+            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=30141192 target=_blank>359 comments</a>]]></description>
             <pubDate>2022-01-30T21:16:53.000Z</pubDate>
             <guid isPermaLink="false">https://luttig.substack.com/p/dont-forget-microsoft</guid>
             <link>https://luttig.substack.com/p/dont-forget-microsoft</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Decommissioned Atlas F missile silo complex for sale]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=30144229 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=30144229 target=_blank>160 comments</a>]]></description>
             <pubDate>2022-01-31T03:45:01.000Z</pubDate>
             <guid isPermaLink="false">https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/</guid>
             <link>https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[How I Discovered Thousands of Open Databases on AWS]]></title>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=30144021 target=_blank>61 comments</a>]]></description>
+            <pubDate>2022-01-31T03:05:47.000Z</pubDate>
+            <guid isPermaLink="false">https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685</guid>
+            <link>https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685</link>
+            
+            
+            
+            <author><![CDATA[boyter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[U.S. companies are hiring Latin America’s tech talent]]></title>
             <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=30137720 target=_blank>313 comments</a>]]></description>
             <pubDate>2022-01-30T14:57:38.000Z</pubDate>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How I Discovered Thousands of Open Databases on AWS]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=30144021 target=_blank>61 comments</a>]]></description>
-            <pubDate>2022-01-31T03:05:47.000Z</pubDate>
-            <guid isPermaLink="false">https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685</guid>
-            <link>https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685</link>
+            <title><![CDATA[Zero-copy network transmission with io_uring (2021)]]></title>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=30144652 target=_blank>23 comments</a>]]></description>
+            <pubDate>2022-01-31T04:57:21.000Z</pubDate>
+            <guid isPermaLink="false">https://lwn.net/Articles/879724/</guid>
+            <link>https://lwn.net/Articles/879724/</link>
             
             
             
-            <author><![CDATA[boyter]]></author>
+            <author><![CDATA[pabs3]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[ingve]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Zero-copy network transmission with io_uring (2021)]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=30144652 target=_blank>22 comments</a>]]></description>
-            <pubDate>2022-01-31T04:57:21.000Z</pubDate>
-            <guid isPermaLink="false">https://lwn.net/Articles/879724/</guid>
-            <link>https://lwn.net/Articles/879724/</link>
-            
-            
-            
-            <author><![CDATA[pabs3]]></author>
             
                 
             
