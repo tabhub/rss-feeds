@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The New York Times buys Wordle]]></title>
-            <description><![CDATA[882 points | <a href=https://news.ycombinator.com/item?id=30154781 target=_blank>290 comments</a>]]></description>
+            <description><![CDATA[883 points | <a href=https://news.ycombinator.com/item?id=30154781 target=_blank>292 comments</a>]]></description>
             <pubDate>2022-01-31T21:34:40.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html</guid>
             <link>https://www.nytimes.com/2022/01/31/business/media/new-york-times-wordle.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Red Light Green Light]]></title>
-            <description><![CDATA[652 points | <a href=https://news.ycombinator.com/item?id=30155927 target=_blank>151 comments</a>]]></description>
+            <description><![CDATA[653 points | <a href=https://news.ycombinator.com/item?id=30155927 target=_blank>151 comments</a>]]></description>
             <pubDate>2022-01-31T22:53:59.000Z</pubDate>
             <guid isPermaLink="false">https://jamessevedge.com/articles/red-light-green-light/</guid>
             <link>https://jamessevedge.com/articles/red-light-green-light/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Fetch API has landed into Node.js]]></title>
-            <description><![CDATA[549 points | <a href=https://news.ycombinator.com/item?id=30161626 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[553 points | <a href=https://news.ycombinator.com/item?id=30161626 target=_blank>172 comments</a>]]></description>
             <pubDate>2022-02-01T12:31:47.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7</guid>
             <link>https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Nearly 1k mysterious strands revealed in Milky Way’s center]]></title>
-            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=30159468 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=30159468 target=_blank>157 comments</a>]]></description>
             <pubDate>2022-02-01T07:04:28.000Z</pubDate>
             <guid isPermaLink="false">https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/</guid>
             <link>https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Career advice nobody gave me: Never ignore a recruiter]]></title>
-            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=30163676 target=_blank>361 comments</a>]]></description>
+            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=30163676 target=_blank>375 comments</a>]]></description>
             <pubDate>2022-02-01T15:23:04.000Z</pubDate>
             <guid isPermaLink="false">https://alexchesser.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556</guid>
             <link>https://alexchesser.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Framework Raises $18M Series A]]></title>
-            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=30165724 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=30165724 target=_blank>169 comments</a>]]></description>
             <pubDate>2022-02-01T17:13:28.000Z</pubDate>
             <guid isPermaLink="false">https://frame.work/blog/frameworks-series-a-and-the-years-ahead</guid>
             <link>https://frame.work/blog/frameworks-series-a-and-the-years-ahead</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Pay attention to WebAssembly]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=30155295 target=_blank>226 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=30155295 target=_blank>226 comments</a>]]></description>
             <pubDate>2022-01-31T22:08:47.000Z</pubDate>
             <guid isPermaLink="false">https://harshal.sheth.io/2022/01/31/webassembly.html</guid>
             <link>https://harshal.sheth.io/2022/01/31/webassembly.html</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The GNU Name System]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=30154830 target=_blank>115 comments</a>]]></description>
-            <pubDate>2022-01-31T21:37:45.000Z</pubDate>
-            <guid isPermaLink="false">https://lsd.gnunet.org/lsd0001/</guid>
-            <link>https://lsd.gnunet.org/lsd0001/</link>
-            
-            
-            
-            <author><![CDATA[simonpure]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[MariaDB to go public at $672M valuation]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=30163983 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=30163983 target=_blank>182 comments</a>]]></description>
             <pubDate>2022-02-01T15:42:12.000Z</pubDate>
             <guid isPermaLink="false">https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/</guid>
             <link>https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[ashvardanian]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The GNU Name System]]></title>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=30154830 target=_blank>115 comments</a>]]></description>
+            <pubDate>2022-01-31T21:37:45.000Z</pubDate>
+            <guid isPermaLink="false">https://lsd.gnunet.org/lsd0001/</guid>
+            <link>https://lsd.gnunet.org/lsd0001/</link>
+            
+            
+            
+            <author><![CDATA[simonpure]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Tell HN: Replace the X with a 5 in arXiv.org to display a paper in HTML]]></title>
-            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=30163308 target=_blank>58 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=30163308 target=_blank>58 comments</a>]]></description>
             <pubDate>2022-02-01T15:00:27.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30163308</guid>
             <link>https://news.ycombinator.com/item?id=30163308</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Koenigsegg's Tiny Electric Motor Makes 335 HP and 443 LB-FT of Torque]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=30157910 target=_blank>306 comments</a>]]></description>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=30157910 target=_blank>308 comments</a>]]></description>
             <pubDate>2022-02-01T02:33:25.000Z</pubDate>
             <guid isPermaLink="false">https://www.roadandtrack.com/news/a38940998/koenigsegg-quark-electric-motor/</guid>
             <link>https://www.roadandtrack.com/news/a38940998/koenigsegg-quark-electric-motor/</link>
