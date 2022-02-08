@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Apple unveils contactless payments via Tap to Pay on iPhone]]></title>
-            <description><![CDATA[683 points | <a href=https://news.ycombinator.com/item?id=30259183 target=_blank>539 comments</a>]]></description>
+            <description><![CDATA[689 points | <a href=https://news.ycombinator.com/item?id=30259183 target=_blank>542 comments</a>]]></description>
             <pubDate>2022-02-08T15:03:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/</guid>
             <link>https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[SoftBank's Sale of Arm to Nvidia Collapses, Arm to IPO]]></title>
-            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=30254201 target=_blank>208 comments</a>]]></description>
+            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=30254201 target=_blank>209 comments</a>]]></description>
             <pubDate>2022-02-08T02:18:50.000Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/</guid>
             <link>https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I would like a job writing Haskell]]></title>
-            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=30256012 target=_blank>449 comments</a>]]></description>
-            <pubDate>2022-02-08T08:11:06.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.plover.com/2022/02/07/</guid>
-            <link>https://blog.plover.com/2022/02/07/</link>
-            
-            
-            
-            <author><![CDATA[Rerarom]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Tell HN: Stack Exchange (Stack Overflow) is now blocking Tor]]></title>
-            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=30256016 target=_blank>178 comments</a>]]></description>
+            <description><![CDATA[394 points | <a href=https://news.ycombinator.com/item?id=30256016 target=_blank>178 comments</a>]]></description>
             <pubDate>2022-02-08T08:12:04.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30256016</guid>
             <link>https://news.ycombinator.com/item?id=30256016</link>
@@ -98,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[I would like a job writing Haskell]]></title>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=30256012 target=_blank>450 comments</a>]]></description>
+            <pubDate>2022-02-08T08:11:06.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.plover.com/2022/02/07/</guid>
+            <link>https://blog.plover.com/2022/02/07/</link>
+            
+            
+            
+            <author><![CDATA[Rerarom]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Feds arrest couple, seize $3.6B in hacked Bitcoin funds]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=30260787 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=30260787 target=_blank>147 comments</a>]]></description>
             <pubDate>2022-02-08T16:50:15.000Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/</guid>
             <link>https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Garage, our self-hosted distributed object storage solution]]></title>
-            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=30256753 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=30256753 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-02-08T10:20:13.000Z</pubDate>
             <guid isPermaLink="false">https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/</guid>
             <link>https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Some mistakes Rust doesn't catch]]></title>
-            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=30253426 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=30253426 target=_blank>161 comments</a>]]></description>
             <pubDate>2022-02-08T00:19:20.000Z</pubDate>
             <guid isPermaLink="false">https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch</guid>
             <link>https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Exposing a web service with Cloudflare Tunnel]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=30257978 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=30257978 target=_blank>145 comments</a>]]></description>
             <pubDate>2022-02-08T13:15:33.000Z</pubDate>
             <guid isPermaLink="false">https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/</guid>
             <link>https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/</link>
