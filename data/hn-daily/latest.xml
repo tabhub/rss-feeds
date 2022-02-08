@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Apple unveils contactless payments via Tap to Pay on iPhone]]></title>
-            <description><![CDATA[677 points | <a href=https://news.ycombinator.com/item?id=30259183 target=_blank>537 comments</a>]]></description>
+            <description><![CDATA[683 points | <a href=https://news.ycombinator.com/item?id=30259183 target=_blank>539 comments</a>]]></description>
             <pubDate>2022-02-08T15:03:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/</guid>
             <link>https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[SoftBank's Sale of Arm to Nvidia Collapses, Arm to IPO]]></title>
-            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=30254201 target=_blank>208 comments</a>]]></description>
+            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=30254201 target=_blank>208 comments</a>]]></description>
             <pubDate>2022-02-08T02:18:50.000Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/</guid>
             <link>https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[I would like a job writing Haskell]]></title>
-            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=30256012 target=_blank>447 comments</a>]]></description>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=30256012 target=_blank>449 comments</a>]]></description>
             <pubDate>2022-02-08T08:11:06.000Z</pubDate>
             <guid isPermaLink="false">https://blog.plover.com/2022/02/07/</guid>
             <link>https://blog.plover.com/2022/02/07/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Garage, our self-hosted distributed object storage solution]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=30256753 target=_blank>109 comments</a>]]></description>
-            <pubDate>2022-02-08T10:20:13.000Z</pubDate>
-            <guid isPermaLink="false">https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/</guid>
-            <link>https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/</link>
-            
-            
-            
-            <author><![CDATA[lxpz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Feds arrest couple, seize $3.6B in hacked Bitcoin funds]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=30260787 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=30260787 target=_blank>145 comments</a>]]></description>
             <pubDate>2022-02-08T16:50:15.000Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/</guid>
             <link>https://www.washingtonpost.com/national-security/2022/02/08/bitfinex-hack-bitcoin-arrests/</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Garage, our self-hosted distributed object storage solution]]></title>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=30256753 target=_blank>109 comments</a>]]></description>
+            <pubDate>2022-02-08T10:20:13.000Z</pubDate>
+            <guid isPermaLink="false">https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/</guid>
+            <link>https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/</link>
+            
+            
+            
+            <author><![CDATA[lxpz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Wine bricks saved the U.S. wine industry during Prohibition (2015)]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=30254234 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=30254234 target=_blank>175 comments</a>]]></description>
             <pubDate>2022-02-08T02:23:59.000Z</pubDate>
             <guid isPermaLink="false">https://vinepair.com/wine-blog/how-wine-bricks-saved-the-u-s-wine-industry-during-prohibition/</guid>
             <link>https://vinepair.com/wine-blog/how-wine-bricks-saved-the-u-s-wine-industry-during-prohibition/</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Exposing a web service with Cloudflare Tunnel]]></title>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=30257978 target=_blank>145 comments</a>]]></description>
+            <pubDate>2022-02-08T13:15:33.000Z</pubDate>
+            <guid isPermaLink="false">https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/</guid>
+            <link>https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/</link>
+            
+            
+            
+            <author><![CDATA[geostyx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[KDE: A Nice Tiling Environment and a Surprisingly Awesome DE]]></title>
             <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=30251867 target=_blank>166 comments</a>]]></description>
             <pubDate>2022-02-07T21:55:06.000Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[jrepinc]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Exposing a web service with Cloudflare Tunnel]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=30257978 target=_blank>144 comments</a>]]></description>
-            <pubDate>2022-02-08T13:15:33.000Z</pubDate>
-            <guid isPermaLink="false">https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/</guid>
-            <link>https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/</link>
-            
-            
-            
-            <author><![CDATA[geostyx]]></author>
             
                 
             
