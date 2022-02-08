@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[You can change your number]]></title>
-            <description><![CDATA[636 points | <a href=https://news.ycombinator.com/item?id=30250215 target=_blank>366 comments</a>]]></description>
+            <description><![CDATA[636 points | <a href=https://news.ycombinator.com/item?id=30250215 target=_blank>367 comments</a>]]></description>
             <pubDate>2022-02-07T20:03:24.000Z</pubDate>
             <guid isPermaLink="false">https://signal.org/blog/change-number/</guid>
             <link>https://signal.org/blog/change-number/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Apple unveils contactless payments via Tap to Pay on iPhone]]></title>
-            <description><![CDATA[562 points | <a href=https://news.ycombinator.com/item?id=30259183 target=_blank>444 comments</a>]]></description>
+            <description><![CDATA[578 points | <a href=https://news.ycombinator.com/item?id=30259183 target=_blank>454 comments</a>]]></description>
             <pubDate>2022-02-08T15:03:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/</guid>
             <link>https://www.apple.com/newsroom/2022/02/apple-unveils-contactless-payments-via-tap-to-pay-on-iphone/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[SoftBank's Sale of Arm to Nvidia Collapses, Arm to IPO]]></title>
-            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=30254201 target=_blank>203 comments</a>]]></description>
+            <description><![CDATA[461 points | <a href=https://news.ycombinator.com/item?id=30254201 target=_blank>203 comments</a>]]></description>
             <pubDate>2022-02-08T02:18:50.000Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/</guid>
             <link>https://www.reuters.com/business/softbanks-66-bln-sale-arm-nvidia-collapses-ft-2022-02-08/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[I would like a job writing Haskell]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=30256012 target=_blank>406 comments</a>]]></description>
+            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=30256012 target=_blank>407 comments</a>]]></description>
             <pubDate>2022-02-08T08:11:06.000Z</pubDate>
             <guid isPermaLink="false">https://blog.plover.com/2022/02/07/</guid>
             <link>https://blog.plover.com/2022/02/07/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Tell HN: Stack Exchange (Stack Overflow) is now blocking Tor]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=30256016 target=_blank>163 comments</a>]]></description>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=30256016 target=_blank>163 comments</a>]]></description>
             <pubDate>2022-02-08T08:12:04.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30256016</guid>
             <link>https://news.ycombinator.com/item?id=30256016</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Some mistakes Rust doesn't catch]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=30253426 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=30253426 target=_blank>154 comments</a>]]></description>
             <pubDate>2022-02-08T00:19:20.000Z</pubDate>
             <guid isPermaLink="false">https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch</guid>
             <link>https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[jacobwg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Garage, our self-hosted distributed object storage solution]]></title>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=30256753 target=_blank>107 comments</a>]]></description>
+            <pubDate>2022-02-08T10:20:13.000Z</pubDate>
+            <guid isPermaLink="false">https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/</guid>
+            <link>https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/</link>
+            
+            
+            
+            <author><![CDATA[lxpz]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[mrzool]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[KDE: A Nice Tiling Environment and a Surprisingly Awesome DE]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=30251867 target=_blank>155 comments</a>]]></description>
-            <pubDate>2022-02-07T21:55:06.000Z</pubDate>
-            <guid isPermaLink="false">https://changelog.complete.org/archives/10338-kde-a-nice-tiling-envieonment-and-a-surprisingly-awesome-de</guid>
-            <link>https://changelog.complete.org/archives/10338-kde-a-nice-tiling-envieonment-and-a-surprisingly-awesome-de</link>
-            
-            
-            
-            <author><![CDATA[jrepinc]]></author>
             
                 
             
