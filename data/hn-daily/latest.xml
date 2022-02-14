@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[What does it mean to listen on a port?]]></title>
-            <description><![CDATA[599 points | <a href=https://news.ycombinator.com/item?id=30323865 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[611 points | <a href=https://news.ycombinator.com/item?id=30323865 target=_blank>164 comments</a>]]></description>
             <pubDate>2022-02-13T18:01:24.000Z</pubDate>
             <guid isPermaLink="false">https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/</guid>
             <link>https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[White hat hacker awarded $2M for fixing ETH-creation bug]]></title>
-            <description><![CDATA[525 points | <a href=https://news.ycombinator.com/item?id=30321347 target=_blank>293 comments</a>]]></description>
+            <description><![CDATA[529 points | <a href=https://news.ycombinator.com/item?id=30321347 target=_blank>293 comments</a>]]></description>
             <pubDate>2022-02-13T12:42:53.000Z</pubDate>
             <guid isPermaLink="false">https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/</guid>
             <link>https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Anyone else feel the constant urge to leave the field and become a plumber?]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=30323561 target=_blank>420 comments</a>]]></description>
+            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=30323561 target=_blank>420 comments</a>]]></description>
             <pubDate>2022-02-13T17:34:08.000Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/cscareerquestions/comments/sm54ri/anyone_else_feel_the_constant_urge_to_leave_the/</guid>
             <link>https://old.reddit.com/r/cscareerquestions/comments/sm54ri/anyone_else_feel_the_constant_urge_to_leave_the/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Social engineering scam that nearly cost me all of my ETH]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=30322715 target=_blank>345 comments</a>]]></description>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=30322715 target=_blank>348 comments</a>]]></description>
             <pubDate>2022-02-13T16:12:23.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/thomasg_eth/status/1492663192404779013</guid>
             <link>https://twitter.com/thomasg_eth/status/1492663192404779013</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Guinea worm disease nears eradication]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=30321133 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=30321133 target=_blank>105 comments</a>]]></description>
             <pubDate>2022-02-13T11:56:25.000Z</pubDate>
             <guid isPermaLink="false">https://www.nature.com/articles/d41586-022-00385-z</guid>
             <link>https://www.nature.com/articles/d41586-022-00385-z</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Kubernetes: The Documentary]]></title>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=30323432 target=_blank>119 comments</a>]]></description>
+            <pubDate>2022-02-13T17:22:39.000Z</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=BE77h7dmoQU</guid>
+            <link>https://www.youtube.com/watch?v=BE77h7dmoQU</link>
+            
+            
+            
+            <author><![CDATA[wallflower]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Rust started as a personal project in 2006]]></title>
             <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=30321747 target=_blank>75 comments</a>]]></description>
             <pubDate>2022-02-13T13:48:30.000Z</pubDate>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Kubernetes: The Documentary]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=30323432 target=_blank>119 comments</a>]]></description>
-            <pubDate>2022-02-13T17:22:39.000Z</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=BE77h7dmoQU</guid>
-            <link>https://www.youtube.com/watch?v=BE77h7dmoQU</link>
+            <title><![CDATA[Ask HN: Tools to visualize data in SQL databases?]]></title>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=30323131 target=_blank>106 comments</a>]]></description>
+            <pubDate>2022-02-13T16:52:32.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=30323131</guid>
+            <link>https://news.ycombinator.com/item?id=30323131</link>
             
             
             
-            <author><![CDATA[wallflower]]></author>
+            <author><![CDATA[dyml]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[morpheos137]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ask HN: Tools to visualize data in SQL databases?]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=30323131 target=_blank>106 comments</a>]]></description>
-            <pubDate>2022-02-13T16:52:32.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=30323131</guid>
-            <link>https://news.ycombinator.com/item?id=30323131</link>
-            
-            
-            
-            <author><![CDATA[dyml]]></author>
             
                 
             
