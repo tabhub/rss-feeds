@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #550]]></title>
+        <title><![CDATA[Perl Weekly #551]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -16,166 +16,6 @@
         
         <lastBuildDate></lastBuildDate>
         <ttl></ttl>
-        
-        <item>
-            <title><![CDATA[Perl 5.34 transition underway]]></title>
-            <description><![CDATA[Niko uploaded Perl 5.34 to Debian unstable.]]></description>
-            <pubDate>2022.02.05</pubDate>
-            <guid isPermaLink="false">https://lists.debian.org/debian-devel-announce/2022/02/msg00000.html</guid>
-            <link>https://lists.debian.org/debian-devel-announce/2022/02/msg00000.html</link>
-            
-            
-            
-            <author><![CDATA[niko_tyni]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Workflow v1.58]]></title>
-            <description><![CDATA[Jonas shared the maintenance release of Perl workflow.]]></description>
-            <pubDate>2022.02.02</pubDate>
-            <guid isPermaLink="false">https://github.com/jonasbn/perl-workflow/releases/tag/1.58</guid>
-            <link>https://github.com/jonasbn/perl-workflow/releases/tag/1.58</link>
-            
-            
-            
-            <author><![CDATA[jonas_nielsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The difficult road to Perl]]></title>
-            <description><![CDATA[Tib sharing his journey to Perl and all the wonderful bits in between.]]></description>
-            <pubDate>2022.02.03</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-difficult-road-to-perl-3o5f</guid>
-            <link>https://dev.to/thibaultduponchelle/the-difficult-road-to-perl-3o5f</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Test web API's with Perl and Cucumber]]></title>
-            <description><![CDATA[A very interesting introduction to Behaviour-Driven development.]]></description>
-            <pubDate>2022.01.31</pubDate>
-            <guid isPermaLink="false">https://dev.to/dragostrif/test-web-apis-with-perl-and-cucumber-5fff</guid>
-            <link>https://dev.to/dragostrif/test-web-apis-with-perl-and-cucumber-5fff</link>
-            
-            
-            
-            <author><![CDATA[dragos_trif]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ProtoWebz]]></title>
-            <description><![CDATA[A very short and sweet introduction to ProtoWebz]]></description>
-            <pubDate>2022.02.01</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/01/protowebz/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/02/01/protowebz/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[My Favorite Modules: re]]></title>
-            <description><![CDATA[Tom sharing his favourite module 're' dealing with Perl regex.]]></description>
-            <pubDate>2022.02.04</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/02/my-favorite-modules-re.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2022/02/my-favorite-modules-re.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Augmenting Exporter]]></title>
-            <description><![CDATA[Flavio shared widely discussed topic 'import' and how he visualises the feature.]]></description>
-            <pubDate>2022.02.06</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/06/augmenting-exporter/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/02/06/augmenting-exporter/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Annual Report - 2021]]></title>
-            <description><![CDATA[My annual report, little late though.]]></description>
-            <pubDate>2022.01.31</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/mohammad_s_anwar/2022/01/annual-report---2021.html</guid>
-            <link>http://blogs.perl.org/users/mohammad_s_anwar/2022/01/annual-report---2021.html</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2022.05 foo = 42]]></title>
-            <description><![CDATA[2022.05 foo = 42]]></description>
-            <pubDate>2022.01.31</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/01/31/2022-05-foo-is-42/</guid>
-            <link>https://rakudoweekly.blog/2022/01/31/2022-05-foo-is-42/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/02/ccclxxviii-11-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/02/cdxcvii-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/02/dxx-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.02.05</pubDate>
-            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
-            <link>http://niceperl.blogspot.com/</link>
-            
-            
-            
-            <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Dancer2: Hello World]]></title>
@@ -194,11 +34,123 @@
         </item>
         
         <item>
-            <title><![CDATA[Gabor self reporting for 2022.02.06]]></title>
-            <description><![CDATA[Gabor self reporting for 2022.02.06]]></description>
-            <pubDate>2022.02.06</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/report-2022-02-06.html</guid>
-            <link>https://szabgab.com/report-2022-02-06.html</link>
+            <title><![CDATA[Role-like augmentation]]></title>
+            <description><![CDATA[One way to add methods in a class, similar to how roles would work.]]></description>
+            <pubDate>2022.02.07</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/07/role-like-augmentation/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/02/07/role-like-augmentation/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[So pleased to use Perl]]></title>
+            <description><![CDATA[It is easy to make Flavio happy. You just need give him a -r flag.]]></description>
+            <pubDate>2022.02.08</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/08/such-a-giant/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/02/08/such-a-giant/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[100 Languages Speedrun: Episode 84: Lingua Romana Perligata]]></title>
+            <description><![CDATA[It is nice that it was included in the series, but the author obviously hasn't seen Damian Conway's presentation explaining it. Unfortunately I think there is no publicly available recording of it.]]></description>
+            <pubDate>2022.02.10</pubDate>
+            <guid isPermaLink="false">https://dev.to/taw/100-languages-speedrun-episode-84-lingua-romana-perligata-276l</guid>
+            <link>https://dev.to/taw/100-languages-speedrun-episode-84-lingua-romana-perligata-276l</link>
+            
+            
+            
+            <author><![CDATA[tomasz_wegrzanowski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Wordle in Perl]]></title>
+            <description><![CDATA[Two weeks ago I mentioned the various Wordle clones and Saif went ahead and created a Perl implementation of it. Very nice!]]></description>
+            <pubDate>2022.02.03</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/siuqy9/nothing_to_do_with_perl/</guid>
+            <link>https://www.reddit.com/r/perl/comments/siuqy9/nothing_to_do_with_perl/</link>
+            
+            
+            
+            <author><![CDATA[saif_ahmed]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl list processing is for hashes, too]]></title>
+            <description><![CDATA[Perl list processing is for hashes, too]]></description>
+            <pubDate>2022.02.10</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2022/02/10/perl-list-processing-is-for-hashes-too/</guid>
+            <link>https://phoenixtrap.com/2022/02/10/perl-list-processing-is-for-hashes-too/</link>
+            
+            
+            
+            <author><![CDATA[mark_gardner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Active Directory time thing]]></title>
+            <description><![CDATA[Converting from and to the Active Directory way of representing time.]]></description>
+            <pubDate>2022.02.12</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/12/active-directory-time-thing/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/02/12/active-directory-time-thing/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Learn Perl in 2022]]></title>
+            <description><![CDATA[I saw this post on <a href="https://www.reddit.com/r/perl/comments/sprqm0/article_learn_perl_in_2022/">Reddit</a> where people also had quite a few negative comments on the code. Some of those people have written tutorials, books, or taught the language and thus I am fine seeing their criticism. But some have only criticized. Well go ahead, write a better article. Show us that you know how to write an article with good examples.]]></description>
+            <pubDate>2022.02.12</pubDate>
+            <guid isPermaLink="false">https://opensource.com/article/22/2/perl-cheat-sheet</guid>
+            <link>https://opensource.com/article/22/2/perl-cheat-sheet</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2: Testing Hello World]]></title>
+            <description><![CDATA[Dancer2: Testing Hello World]]></description>
+            <pubDate>2022.02.13</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-hello-world-testing</guid>
+            <link>https://perlmaven.com/dancer2-hello-world-testing</link>
             
             
             
@@ -210,15 +162,63 @@
         </item>
         
         <item>
-            <title><![CDATA[Boston Perl Mongers Online Meeting - topic TBD]]></title>
-            <description><![CDATA[Tuesday February 8th, 2021 07:00 PM Eastern Time (US and Canada)]]></description>
+            <title><![CDATA[Outreachy participation - looking for mentors]]></title>
+            <description><![CDATA[I love the idea behind the Outreachy program and a while ago, while learning Spanish, I wanted to encourage more people living in South America to apply. So I read the <a href="https://www.outreachy.org/docs/applicant/">Outreachy Applicant Guide</a>. They explain that one needs to show why they should be accepted and they recommend this to be detailed. So instead of writing "I face religious discrimination" they suggest the applicant writes "I am a Muslim in France. Muslims make up less than 2.3% of France's population. I face religious discrimination.". So people at Outreachy think that Muslims in France face religious discrimination AND/OR they try to encourage people to feel that way. It is strange they thought that this should be the example on their web site on how to provide clear information.]]></description>
+            <pubDate>2022.02.13</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/outreachy-2022</guid>
+            <link>https://news.perlfoundation.org/post/outreachy-2022</link>
             
-            <guid isPermaLink="false">https://boston.pm.org/bpm/Calendar</guid>
-            <link>https://boston.pm.org/bpm/Calendar</link>
+            
+            
+            <author><![CDATA[makoto_nozaki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App::Easer V2 - let's start!]]></title>
+            <description><![CDATA[App::Easer V2 - let's start!]]></description>
+            <pubDate>2022.02.13</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/13/app-easer-v2-start/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/02/13/app-easer-v2-start/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rakudo compiler, Release #153 (2022.02)]]></title>
+            <description><![CDATA[Rakudo compiler, Release #153 (2022.02)]]></description>
+            <pubDate>2022.02.11</pubDate>
+            <guid isPermaLink="false">https://rakudo.org/post/announce-rakudo-release-2022.02</guid>
+            <link>https://rakudo.org/post/announce-rakudo-release-2022.02</link>
             
             
             
             <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/02/ccclxxix-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/02/cdxcviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/02/dxxi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.02.12</pubDate>
+            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
+            <link>http://niceperl.blogspot.com/</link>
+            
+            
+            
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
