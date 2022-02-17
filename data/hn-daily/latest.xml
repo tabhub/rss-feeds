@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[A new wave of Linux applications]]></title>
-            <description><![CDATA[642 points | <a href=https://news.ycombinator.com/item?id=30364337 target=_blank>519 comments</a>]]></description>
+            <description><![CDATA[645 points | <a href=https://news.ycombinator.com/item?id=30364337 target=_blank>519 comments</a>]]></description>
             <pubDate>2022-02-16T19:10:32.000Z</pubDate>
             <guid isPermaLink="false">https://tuxphones.com/convergent-linux-phone-apps/</guid>
             <link>https://tuxphones.com/convergent-linux-phone-apps/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple's custom NVMes are amazingly fast – if you don't care about data integrity]]></title>
-            <description><![CDATA[528 points | <a href=https://news.ycombinator.com/item?id=30370551 target=_blank>264 comments</a>]]></description>
+            <description><![CDATA[538 points | <a href=https://news.ycombinator.com/item?id=30370551 target=_blank>265 comments</a>]]></description>
             <pubDate>2022-02-17T07:54:10.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/marcan42/status/1494213855387734019</guid>
             <link>https://twitter.com/marcan42/status/1494213855387734019</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Building for the 99% Developers]]></title>
-            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=30367781 target=_blank>266 comments</a>]]></description>
+            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=30367781 target=_blank>267 comments</a>]]></description>
             <pubDate>2022-02-17T00:19:16.000Z</pubDate>
             <guid isPermaLink="false">https://future.a16z.com/software-development-building-for-99-developers/</guid>
             <link>https://future.a16z.com/software-development-building-for-99-developers/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Pure Bash Bible – A collection of pure bash alternatives to external processes]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=30363506 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=30363506 target=_blank>87 comments</a>]]></description>
             <pubDate>2022-02-16T18:14:51.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/dylanaraps/pure-bash-bible</guid>
             <link>https://github.com/dylanaraps/pure-bash-bible</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Reddit can't build a better search engine]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=30369402 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=30369402 target=_blank>248 comments</a>]]></description>
             <pubDate>2022-02-17T04:05:11.000Z</pubDate>
             <guid isPermaLink="false">https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine/</guid>
             <link>https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[AWS S3: Why sometimes you should press the $100k button]]></title>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=30371604 target=_blank>123 comments</a>]]></description>
+            <pubDate>2022-02-17T10:32:28.000Z</pubDate>
+            <guid isPermaLink="false">https://www.cyclic.sh/posts/aws-s3-why-sometimes-you-should-press-the-100k-dollar-button</guid>
+            <link>https://www.cyclic.sh/posts/aws-s3-why-sometimes-you-should-press-the-100k-dollar-button</link>
+            
+            
+            
+            <author><![CDATA[korostelevm]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Show HN: ytcast – cast YouTube videos to your smart TV from command-line]]></title>
             <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=30364020 target=_blank>45 comments</a>]]></description>
             <pubDate>2022-02-16T18:49:58.000Z</pubDate>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AWS S3: Why sometimes you should press the $100k button]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=30371604 target=_blank>121 comments</a>]]></description>
-            <pubDate>2022-02-17T10:32:28.000Z</pubDate>
-            <guid isPermaLink="false">https://www.cyclic.sh/posts/aws-s3-why-sometimes-you-should-press-the-100k-dollar-button</guid>
-            <link>https://www.cyclic.sh/posts/aws-s3-why-sometimes-you-should-press-the-100k-dollar-button</link>
+            <title><![CDATA[Who is squatting IPv4 addresses?]]></title>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=30372741 target=_blank>89 comments</a>]]></description>
+            <pubDate>2022-02-17T13:21:14.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.benjojo.co.uk/post/ip-address-squatting</guid>
+            <link>https://blog.benjojo.co.uk/post/ip-address-squatting</link>
             
             
             
-            <author><![CDATA[korostelevm]]></author>
+            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[remoquete]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Current MFA fatigue attack campaign targeting Microsoft Office 365 users]]></title>
-            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=30363537 target=_blank>176 comments</a>]]></description>
-            <pubDate>2022-02-16T18:17:07.000Z</pubDate>
-            <guid isPermaLink="false">https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/</guid>
-            <link>https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/</link>
-            
-            
-            
-            <author><![CDATA[WaitWaitWha]]></author>
             
                 
             
