@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Do you find working on large distributed systems exhausting?]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=30396454 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=30396454 target=_blank>188 comments</a>]]></description>
             <pubDate>2022-02-19T11:58:46.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30396454</guid>
             <link>https://news.ycombinator.com/item?id=30396454</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Safari now supports File System Access API with private origin]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=30394737 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=30394737 target=_blank>70 comments</a>]]></description>
             <pubDate>2022-02-19T05:51:19.000Z</pubDate>
             <guid isPermaLink="false">https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/</guid>
             <link>https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[We shouldn’t push a positive mindset on those in poverty]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=30395256 target=_blank>330 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=30395256 target=_blank>337 comments</a>]]></description>
             <pubDate>2022-02-19T08:04:16.000Z</pubDate>
             <guid isPermaLink="false">https://psyche.co/ideas/why-we-shouldnt-push-a-positive-mindset-on-those-in-poverty</guid>
             <link>https://psyche.co/ideas/why-we-shouldnt-push-a-positive-mindset-on-those-in-poverty</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[homarp]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Jujutsu – A Git-compatible DVCS that is both simple and powerful]]></title>
+            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=30398662 target=_blank>73 comments</a>]]></description>
+            <pubDate>2022-02-19T17:17:09.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/martinvonz/jj</guid>
+            <link>https://github.com/martinvonz/jj</link>
+            
+            
+            
+            <author><![CDATA[rolisz]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[C meeting is over. C23 added the follow:]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=30395016 target=_blank>244 comments</a>]]></description>
-            <pubDate>2022-02-19T07:11:08.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/__phantomderp/status/1494884135688626180</guid>
-            <link>https://twitter.com/__phantomderp/status/1494884135688626180</link>
-            
-            
-            
-            <author><![CDATA[ksec]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[‘Zero-click’ hacks are growing in popularity]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=30395786 target=_blank>288 comments</a>]]></description>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=30395786 target=_blank>294 comments</a>]]></description>
             <pubDate>2022-02-19T09:52:55.000Z</pubDate>
             <guid isPermaLink="false">https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity</guid>
             <link>https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity</link>
@@ -162,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Jujutsu – A Git-compatible DVCS that is both simple and powerful]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=30398662 target=_blank>70 comments</a>]]></description>
-            <pubDate>2022-02-19T17:17:09.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/martinvonz/jj</guid>
-            <link>https://github.com/martinvonz/jj</link>
+            <title><![CDATA[C meeting is over. C23 added the follow:]]></title>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=30395016 target=_blank>245 comments</a>]]></description>
+            <pubDate>2022-02-19T07:11:08.000Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/__phantomderp/status/1494884135688626180</guid>
+            <link>https://twitter.com/__phantomderp/status/1494884135688626180</link>
             
             
             
-            <author><![CDATA[rolisz]]></author>
+            <author><![CDATA[ksec]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Brain doesn't slow down until your 60s – later than we thought]]></title>
-            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=30394136 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=30394136 target=_blank>57 comments</a>]]></description>
             <pubDate>2022-02-19T03:21:46.000Z</pubDate>
             <guid isPermaLink="false">https://www.newscientist.com/article/2308810-your-brain-doesnt-slow-down-until-your-60s-later-than-we-thought/</guid>
             <link>https://www.newscientist.com/article/2308810-your-brain-doesnt-slow-down-until-your-60s-later-than-we-thought/</link>
