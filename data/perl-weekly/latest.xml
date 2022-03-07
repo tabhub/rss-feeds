@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #553]]></title>
+        <title><![CDATA[Perl Weekly #554]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Finding Unused Perl Variables]]></title>
-            <description><![CDATA[App::perlvars and a bunch of Perl::Critic rules.]]></description>
-            <pubDate>2022.02.22</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/</guid>
-            <link>https://www.olafalders.com/2022/02/22/finding-unused-perl-variables/</link>
+            <title><![CDATA[I start to write the book "Perl for Beginners to Mastering Perl in a week"]]></title>
+            <description><![CDATA[An honest attempt by Yuki to write Perl book. Please do spread the news.]]></description>
+            <pubDate>2022.03.01</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/yuki_kimoto/2022/03/i-start-to-write-the-book-perl-for-beginners-to-mastering-perl-in-a-week.html</guid>
+            <link>http://blogs.perl.org/users/yuki_kimoto/2022/03/i-start-to-write-the-book-perl-for-beginners-to-mastering-perl-in-a-week.html</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[and or AND and ElasticSearch, or: Case matters]]></title>
-            <description><![CDATA[Dealing with Koha.]]></description>
-            <pubDate>2022.02.22</pubDate>
-            <guid isPermaLink="false">https://domm.plix.at/perl/2022_02_and_or_and.html</guid>
-            <link>https://domm.plix.at/perl/2022_02_and_or_and.html</link>
-            
-            
-            
-            <author><![CDATA[thomas_klausner]]></author>
+            <author><![CDATA[yuki_kimoto]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Gitolite image - Helm chart]]></title>
-            <description><![CDATA[Gitolite image - Helm chart]]></description>
-            <pubDate>2022.02.22</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/22/gitolite-dibs-helm/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/02/22/gitolite-dibs-helm/</link>
+            <title><![CDATA[Cloud Provider Performance Comparison - Perl & more]]></title>
+            <description><![CDATA[Interesting performance comparison and very detailed analysis. Highly recommended if you are looking for right cloud provider.]]></description>
+            <pubDate>2022.03.05</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html</guid>
+            <link>http://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Common causes and fixes for HTTP 500 Error in Perl CGI scripts]]></title>
-            <description><![CDATA[Once in a while someone sends me an email asking for help with some Perl or Perl/CGI project. I don't have time for such work, even if it is paid, so I usually direct them to Stack Overflow for technical help and jobs.perl.org to find someone to the work for them. Sometimes however I am inspired to write up a technical post that can address their problem in a generic way. This is such a post.]]></description>
-            <pubDate>2022.02.25</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/http-500-error</guid>
-            <link>https://perlmaven.com/http-500-error</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[dimitrios_kechagias]]></author>
             
                 
             
@@ -83,7 +51,7 @@
         
         <item>
             <title><![CDATA[GeoIP database from MaxMind]]></title>
-            <description><![CDATA[GeoIP database from MaxMind]]></description>
+            <description><![CDATA[Cool use of IP::Geolocation::MMDB and free database by MaxMind to create magic.]]></description>
             <pubDate>2022.02.28</pubDate>
             <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/28/geoip-maxmind/</guid>
             <link>https://github.polettix.it/ETOOBUSY/2022/02/28/geoip-maxmind/</link>
@@ -98,9 +66,57 @@
         </item>
         
         <item>
+            <title><![CDATA[Fail2ban2geo]]></title>
+            <description><![CDATA[Short demo of Fail2ban2geo tool.]]></description>
+            <pubDate>2022.03.01</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/03/01/fail2ban2geo/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/03/01/fail2ban2geo/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App::Easer - tree auto-command]]></title>
+            <description><![CDATA[Introduction of tree sub-command to the automatically available ones.]]></description>
+            <pubDate>2022.03.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/03/05/app-easer-tree/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/03/05/app-easer-tree/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2022.08 Grammarly Co-op]]></title>
+            <description><![CDATA[2022.08 Grammarly Co-op]]></description>
+            <pubDate>2022.02.21</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2022/02/21/2022-08-grammarly-co-op/</guid>
+            <link>https://rakudoweekly.blog/2022/02/21/2022-08-grammarly-co-op/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/02/ccclxxxi-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/02/dxxiii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.02.26</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/03/ccclxxxii-11-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/03/cdxcix-metacpan-weekly-report-cgitiny.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/03/dxxiv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.03.05</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
