@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I start to write the book "Perl for Beginners to Mastering Perl in a week"]]></title>
-            <description><![CDATA[An honest attempt by Yuki to write Perl book. Please do spread the news.]]></description>
+            <description><![CDATA[An honest attempt by Yuki to write a Perl book. Please do spread the news.]]></description>
             <pubDate>2022.03.01</pubDate>
             <guid isPermaLink="false">http://blogs.perl.org/users/yuki_kimoto/2022/03/i-start-to-write-the-book-perl-for-beginners-to-mastering-perl-in-a-week.html</guid>
             <link>http://blogs.perl.org/users/yuki_kimoto/2022/03/i-start-to-write-the-book-perl-for-beginners-to-mastering-perl-in-a-week.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Cloud Provider Performance Comparison - Perl & more]]></title>
-            <description><![CDATA[Interesting performance comparison and very detailed analysis. Highly recommended if you are looking for right cloud provider.]]></description>
+            <description><![CDATA[Interesting performance comparison and very detailed analysis. Highly recommended if you are looking for the right cloud provider.]]></description>
             <pubDate>2022.03.05</pubDate>
             <guid isPermaLink="false">http://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html</guid>
             <link>http://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[GeoIP database from MaxMind]]></title>
-            <description><![CDATA[Cool use of IP::Geolocation::MMDB and free database by MaxMind to create magic.]]></description>
+            <description><![CDATA[Cool use of IP::Geolocation::MMDB and a free database from MaxMind to create magic.]]></description>
             <pubDate>2022.02.28</pubDate>
             <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/02/28/geoip-maxmind/</guid>
             <link>https://github.polettix.it/ETOOBUSY/2022/02/28/geoip-maxmind/</link>
