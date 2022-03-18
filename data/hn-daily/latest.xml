@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Each Firefox download has a unique identifier]]></title>
-            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=30715163 target=_blank>385 comments</a>]]></description>
+            <description><![CDATA[545 points | <a href=https://news.ycombinator.com/item?id=30715163 target=_blank>385 comments</a>]]></description>
             <pubDate>2022-03-17T19:48:16.000Z</pubDate>
             <guid isPermaLink="false">https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/</guid>
             <link>https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Google open sources solar atmospheric water generator]]></title>
-            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=30714506 target=_blank>212 comments</a>]]></description>
+            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=30714506 target=_blank>213 comments</a>]]></description>
             <pubDate>2022-03-17T18:42:30.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/google/h2e_technical_documentation</guid>
             <link>https://github.com/google/h2e_technical_documentation</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Food Packaging]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=30717785 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=30717785 target=_blank>106 comments</a>]]></description>
             <pubDate>2022-03-18T01:34:38.000Z</pubDate>
             <guid isPermaLink="false">https://www.scanofthemonth.com/scans/food-packaging</guid>
             <link>https://www.scanofthemonth.com/scans/food-packaging</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Intel financialized and lost leadership in semiconductor fabrication (2021)]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=30715268 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=30715268 target=_blank>251 comments</a>]]></description>
             <pubDate>2022-03-17T19:59:12.000Z</pubDate>
             <guid isPermaLink="false">https://www.ineteconomics.org/perspectives/blog/how-intel-financialized-and-lost-leadership-in-semiconductor-fabrication</guid>
             <link>https://www.ineteconomics.org/perspectives/blog/how-intel-financialized-and-lost-leadership-in-semiconductor-fabrication</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Linux on an M1 Mac]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=30717758 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=30717758 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-03-18T01:31:31.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/AsahiLinux/status/1504626783240736768</guid>
             <link>https://twitter.com/AsahiLinux/status/1504626783240736768</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Kharkiv Rubyist during the war: We are still here]]></title>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=30720995 target=_blank>47 comments</a>]]></description>
+            <pubDate>2022-03-18T11:53:16.000Z</pubDate>
+            <guid isPermaLink="false">https://zverok.space/blog/2022-03-15-STILL-WAR.html</guid>
+            <link>https://zverok.space/blog/2022-03-15-STILL-WAR.html</link>
+            
+            
+            
+            <author><![CDATA[pabs3]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Physically Based Rendering: From theory to implementation (2016)]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=30714104 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=30714104 target=_blank>33 comments</a>]]></description>
             <pubDate>2022-03-17T18:03:09.000Z</pubDate>
             <guid isPermaLink="false">https://www.pbr-book.org/3ed-2018/contents</guid>
             <link>https://www.pbr-book.org/3ed-2018/contents</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[Hot-code reloading on macOS/arm64 with Zig]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=30716177 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=30716177 target=_blank>50 comments</a>]]></description>
             <pubDate>2022-03-17T21:39:33.000Z</pubDate>
             <guid isPermaLink="false">http://www.jakubkonka.com/2022/03/16/hcs-zig.html</guid>
             <link>http://www.jakubkonka.com/2022/03/16/hcs-zig.html</link>
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[syrusakbary]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Kharkiv Rubyist during the war: We are still here]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=30720995 target=_blank>46 comments</a>]]></description>
-            <pubDate>2022-03-18T11:53:16.000Z</pubDate>
-            <guid isPermaLink="false">https://zverok.space/blog/2022-03-15-STILL-WAR.html</guid>
-            <link>https://zverok.space/blog/2022-03-15-STILL-WAR.html</link>
-            
-            
-            
-            <author><![CDATA[pabs3]]></author>
             
                 
             
