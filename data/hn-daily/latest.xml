@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Arizona moves to ban recording video of police]]></title>
-            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=30737311 target=_blank>286 comments</a>]]></description>
-            <pubDate>2022-03-19T20:28:57.000Z</pubDate>
-            <guid isPermaLink="false">https://www.fox10phoenix.com/news/arizona-house-approves-ban-on-close-up-videotaping-of-police-officers</guid>
-            <link>https://www.fox10phoenix.com/news/arizona-house-approves-ban-on-close-up-videotaping-of-police-officers</link>
-            
-            
-            
-            <author><![CDATA[Eddy_Viscosity2]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NYC allows citizens to report idling vehicles in exchange for a cut of the fines]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=30738715 target=_blank>464 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=30738715 target=_blank>464 comments</a>]]></description>
             <pubDate>2022-03-20T00:02:41.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2022/03/19/nyregion/clean-air-idle-car.html</guid>
             <link>https://www.nytimes.com/2022/03/19/nyregion/clean-air-idle-car.html</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Decrypting your own HTTPS traffic with Wireshark]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=30743141 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=30743141 target=_blank>68 comments</a>]]></description>
             <pubDate>2022-03-20T14:58:19.000Z</pubDate>
             <guid isPermaLink="false">https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/</guid>
             <link>https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Vimeo: “We are a B2B solution, not the indie version of YouTube.”]]></title>
-            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=30743371 target=_blank>252 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=30743371 target=_blank>255 comments</a>]]></description>
             <pubDate>2022-03-20T15:24:03.000Z</pubDate>
             <guid isPermaLink="false">https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</guid>
             <link>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Meld is a visual diff and merge tool targeted at developers]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=30741123 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=30741123 target=_blank>106 comments</a>]]></description>
             <pubDate>2022-03-20T08:42:51.000Z</pubDate>
             <guid isPermaLink="false">https://meldmerge.org/</guid>
             <link>https://meldmerge.org/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Developers who switched careers, what are you doing now?]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=30742589 target=_blank>274 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=30742589 target=_blank>275 comments</a>]]></description>
             <pubDate>2022-03-20T13:52:48.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30742589</guid>
             <link>https://news.ycombinator.com/item?id=30742589</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Rust's unsafe pointer types need an overhaul]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=30739557 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=30739557 target=_blank>52 comments</a>]]></description>
             <pubDate>2022-03-20T02:43:17.000Z</pubDate>
             <guid isPermaLink="false">https://gankra.github.io/blah/fix-rust-pointers/</guid>
             <link>https://gankra.github.io/blah/fix-rust-pointers/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[When Apple Built a Mac OS Running on Top of Solaris and HP-UX]]></title>
-            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=30740438 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=30740438 target=_blank>49 comments</a>]]></description>
             <pubDate>2022-03-20T05:38:39.000Z</pubDate>
             <guid isPermaLink="false">https://lunduke.substack.com/p/remember-when-apple-built-a-mac-os</guid>
             <link>https://lunduke.substack.com/p/remember-when-apple-built-a-mac-os</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Google will soon ask Australian users to show ID to view some content]]></title>
-            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=30742802 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=30742802 target=_blank>173 comments</a>]]></description>
             <pubDate>2022-03-20T14:19:12.000Z</pubDate>
             <guid isPermaLink="false">https://reclaimthenet.org/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/</guid>
             <link>https://reclaimthenet.org/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[dannywarner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Addressing Criticism of RISC-V Microprocessors]]></title>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=30740433 target=_blank>106 comments</a>]]></description>
+            <pubDate>2022-03-20T05:37:23.000Z</pubDate>
+            <guid isPermaLink="false">https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284</guid>
+            <link>https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284</link>
+            
+            
+            
+            <author><![CDATA[nnx]]></author>
             
                 
             
