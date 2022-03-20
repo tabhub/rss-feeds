@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Decrypting your own HTTPS traffic with Wireshark]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=30743141 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=30743141 target=_blank>68 comments</a>]]></description>
             <pubDate>2022-03-20T14:58:19.000Z</pubDate>
             <guid isPermaLink="false">https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/</guid>
             <link>https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Meld is a visual diff and merge tool targeted at developers]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=30741123 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=30741123 target=_blank>107 comments</a>]]></description>
             <pubDate>2022-03-20T08:42:51.000Z</pubDate>
             <guid isPermaLink="false">https://meldmerge.org/</guid>
             <link>https://meldmerge.org/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Study on quality of sleep when pet cats choose location of slumber]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=30738478 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=30738478 target=_blank>102 comments</a>]]></description>
             <pubDate>2022-03-19T23:24:00.000Z</pubDate>
             <guid isPermaLink="false">https://www.spoon-tamago.com/2022/03/09/cat-sleep-study/</guid>
             <link>https://www.spoon-tamago.com/2022/03/09/cat-sleep-study/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Developers who switched careers, what are you doing now?]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=30742589 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=30742589 target=_blank>275 comments</a>]]></description>
             <pubDate>2022-03-20T13:52:48.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30742589</guid>
             <link>https://news.ycombinator.com/item?id=30742589</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Rust's unsafe pointer types need an overhaul]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=30739557 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=30739557 target=_blank>52 comments</a>]]></description>
             <pubDate>2022-03-20T02:43:17.000Z</pubDate>
             <guid isPermaLink="false">https://gankra.github.io/blah/fix-rust-pointers/</guid>
             <link>https://gankra.github.io/blah/fix-rust-pointers/</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[faitswulff]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Google will soon ask Australian users to show ID to view some content]]></title>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=30742802 target=_blank>173 comments</a>]]></description>
+            <pubDate>2022-03-20T14:19:12.000Z</pubDate>
+            <guid isPermaLink="false">https://reclaimthenet.org/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/</guid>
+            <link>https://reclaimthenet.org/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/</link>
+            
+            
+            
+            <author><![CDATA[dannywarner]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Google will soon ask Australian users to show ID to view some content]]></title>
-            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=30742802 target=_blank>173 comments</a>]]></description>
-            <pubDate>2022-03-20T14:19:12.000Z</pubDate>
-            <guid isPermaLink="false">https://reclaimthenet.org/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/</guid>
-            <link>https://reclaimthenet.org/google-will-soon-ask-australian-users-to-show-id-to-view-some-content/</link>
-            
-            
-            
-            <author><![CDATA[dannywarner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Addressing Criticism of RISC-V Microprocessors]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=30740433 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=30740433 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-03-20T05:37:23.000Z</pubDate>
             <guid isPermaLink="false">https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284</guid>
             <link>https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284</link>
