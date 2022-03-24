@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[But life had other plans]]></title>
-            <description><![CDATA[1504 points | <a href=https://news.ycombinator.com/item?id=30784939 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[1504 points | <a href=https://news.ycombinator.com/item?id=30784939 target=_blank>202 comments</a>]]></description>
             <pubDate>2022-03-23T23:36:00.000Z</pubDate>
             <guid isPermaLink="false">https://danlebrero.com/2022/03/23/but-life-had-other-plans/</guid>
             <link>https://danlebrero.com/2022/03/23/but-life-had-other-plans/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Tell HN: There needs to be a “right to speak with a human”]]></title>
-            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=30788681 target=_blank>271 comments</a>]]></description>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=30788681 target=_blank>274 comments</a>]]></description>
             <pubDate>2022-03-24T12:03:42.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=30788681</guid>
             <link>https://news.ycombinator.com/item?id=30788681</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[If you’re not using SSH certificates you’re doing SSH wrong (2019)]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=30788544 target=_blank>244 comments</a>]]></description>
+            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=30788544 target=_blank>248 comments</a>]]></description>
             <pubDate>2022-03-24T11:46:33.000Z</pubDate>
             <guid isPermaLink="false">https://smallstep.com/blog/use-ssh-certificates/</guid>
             <link>https://smallstep.com/blog/use-ssh-certificates/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: Bionic Reading – Formats text to make it faster to read]]></title>
-            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=30787290 target=_blank>228 comments</a>]]></description>
+            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=30787290 target=_blank>231 comments</a>]]></description>
             <pubDate>2022-03-24T08:04:34.000Z</pubDate>
             <guid isPermaLink="false">https://bionic-reading.com/</guid>
             <link>https://bionic-reading.com/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Korn Meets KoRN]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=30789831 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=30789831 target=_blank>69 comments</a>]]></description>
             <pubDate>2022-03-24T13:58:26.000Z</pubDate>
             <guid isPermaLink="false">http://www.kornshell.com/fun/</guid>
             <link>http://www.kornshell.com/fun/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Open source ‘protestware’ harms Open Source]]></title>
-            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=30789256 target=_blank>412 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=30789256 target=_blank>415 comments</a>]]></description>
             <pubDate>2022-03-24T13:13:10.000Z</pubDate>
             <guid isPermaLink="false">https://opensource.org/open-source-protestware-harms-open-source</guid>
             <link>https://opensource.org/open-source-protestware-harms-open-source</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Open Golf: A cross-platform minigolf game written in C]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=30789387 target=_blank>59 comments</a>]]></description>
-            <pubDate>2022-03-24T13:23:43.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/mgerdes/Open-Golf</guid>
-            <link>https://github.com/mgerdes/Open-Golf</link>
-            
-            
-            
-            <author><![CDATA[10000truths]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[MDN Plus]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=30792365 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=30792365 target=_blank>135 comments</a>]]></description>
             <pubDate>2022-03-24T16:46:35.000Z</pubDate>
             <guid isPermaLink="false">https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/</guid>
             <link>https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Open Golf: A cross-platform minigolf game written in C]]></title>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=30789387 target=_blank>59 comments</a>]]></description>
+            <pubDate>2022-03-24T13:23:43.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/mgerdes/Open-Golf</guid>
+            <link>https://github.com/mgerdes/Open-Golf</link>
+            
+            
+            
+            <author><![CDATA[10000truths]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Evidence of Fabricated Data in a Vitamin C trial by Paul E Marik et al in CHEST]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=30785370 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=30785370 target=_blank>132 comments</a>]]></description>
             <pubDate>2022-03-24T00:57:42.000Z</pubDate>
             <guid isPermaLink="false">http://kylesheldrick.blogspot.com/2022/03/evidence-of-fabricated-data-in-vitamin.html</guid>
             <link>http://kylesheldrick.blogspot.com/2022/03/evidence-of-fabricated-data-in-vitamin.html</link>
