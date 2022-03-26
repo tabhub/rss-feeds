@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I built a receipt printer for GitHub issues]]></title>
-            <description><![CDATA[714 points | <a href=https://news.ycombinator.com/item?id=30803589 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[715 points | <a href=https://news.ycombinator.com/item?id=30803589 target=_blank>152 comments</a>]]></description>
             <pubDate>2022-03-25T15:49:18.000Z</pubDate>
             <guid isPermaLink="false">https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/</guid>
             <link>https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Nvidia Research Turns 2D Photos into 3D Scenes]]></title>
-            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=30806925 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[386 points | <a href=https://news.ycombinator.com/item?id=30806925 target=_blank>177 comments</a>]]></description>
             <pubDate>2022-03-25T20:51:04.000Z</pubDate>
             <guid isPermaLink="false">https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</guid>
             <link>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Various Honda vehicles send the same, unencrypted RF signal for each door-open]]></title>
-            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=30804702 target=_blank>177 comments</a>]]></description>
+            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=30804702 target=_blank>177 comments</a>]]></description>
             <pubDate>2022-03-25T17:10:09.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/nonamecoder/CVE-2022-27254</guid>
             <link>https://github.com/nonamecoder/CVE-2022-27254</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[37% of jobs in the United States can be performed entirely at home]]></title>
-            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=30802137 target=_blank>377 comments</a>]]></description>
+            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=30802137 target=_blank>377 comments</a>]]></description>
             <pubDate>2022-03-25T13:50:01.000Z</pubDate>
             <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0047272720300992</guid>
             <link>https://www.sciencedirect.com/science/article/pii/S0047272720300992</link>
@@ -130,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[`COPY –chmod` reduced the size of my container image by 35%]]></title>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=30808945 target=_blank>78 comments</a>]]></description>
+            <pubDate>2022-03-26T03:11:58.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.vamc19.dev/posts/dockerfile-copy-chmod/</guid>
+            <link>https://blog.vamc19.dev/posts/dockerfile-copy-chmod/</link>
+            
+            
+            
+            <author><![CDATA[unmole]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The Edited Latecomer’s Guide to Crypto]]></title>
             <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=30804984 target=_blank>242 comments</a>]]></description>
             <pubDate>2022-03-25T17:32:21.000Z</pubDate>
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[`COPY –chmod` reduced the size of my container image by 35%]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=30808945 target=_blank>78 comments</a>]]></description>
-            <pubDate>2022-03-26T03:11:58.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.vamc19.dev/posts/dockerfile-copy-chmod/</guid>
-            <link>https://blog.vamc19.dev/posts/dockerfile-copy-chmod/</link>
-            
-            
-            
-            <author><![CDATA[unmole]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Pidgin: The Universal Chat Client]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=30802832 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=30802832 target=_blank>144 comments</a>]]></description>
             <pubDate>2022-03-25T14:49:24.000Z</pubDate>
             <guid isPermaLink="false">https://pidgin.im/</guid>
             <link>https://pidgin.im/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Cat Printer]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=30804204 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=30804204 target=_blank>68 comments</a>]]></description>
             <pubDate>2022-03-25T16:34:12.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/rbaron/catprinter</guid>
             <link>https://github.com/rbaron/catprinter</link>
