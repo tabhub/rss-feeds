@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I built a receipt printer for GitHub issues]]></title>
-            <description><![CDATA[755 points | <a href=https://news.ycombinator.com/item?id=30803589 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[757 points | <a href=https://news.ycombinator.com/item?id=30803589 target=_blank>161 comments</a>]]></description>
             <pubDate>2022-03-25T15:49:18.000Z</pubDate>
             <guid isPermaLink="false">https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/</guid>
             <link>https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[`COPY –chmod` reduced the size of my container image by 35%]]></title>
-            <description><![CDATA[454 points | <a href=https://news.ycombinator.com/item?id=30808945 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[467 points | <a href=https://news.ycombinator.com/item?id=30808945 target=_blank>134 comments</a>]]></description>
             <pubDate>2022-03-26T03:11:58.000Z</pubDate>
             <guid isPermaLink="false">https://blog.vamc19.dev/posts/dockerfile-copy-chmod/</guid>
             <link>https://blog.vamc19.dev/posts/dockerfile-copy-chmod/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Nvidia Research Turns 2D Photos into 3D Scenes]]></title>
-            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=30806925 target=_blank>211 comments</a>]]></description>
-            <pubDate>2022-03-25T20:51:04.000Z</pubDate>
-            <guid isPermaLink="false">https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</guid>
-            <link>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</link>
-            
-            
-            
-            <author><![CDATA[bcaulfield]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Mourning loss as a remote team]]></title>
-            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=30811187 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=30811187 target=_blank>131 comments</a>]]></description>
             <pubDate>2022-03-26T12:13:44.000Z</pubDate>
             <guid isPermaLink="false">https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team</guid>
             <link>https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team</link>
@@ -75,6 +59,22 @@
             
             
             <author><![CDATA[asyncscrum]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Nvidia Research Turns 2D Photos into 3D Scenes]]></title>
+            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=30806925 target=_blank>212 comments</a>]]></description>
+            <pubDate>2022-03-25T20:51:04.000Z</pubDate>
+            <guid isPermaLink="false">https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</guid>
+            <link>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</link>
+            
+            
+            
+            <author><![CDATA[bcaulfield]]></author>
             
                 
             
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[The Edited Latecomer’s Guide to Crypto]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=30804984 target=_blank>264 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=30804984 target=_blank>266 comments</a>]]></description>
             <pubDate>2022-03-25T17:32:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#</guid>
             <link>https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#</link>
@@ -130,40 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Half of women will get a false positive 3D mammogram, study finds]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=30803165 target=_blank>149 comments</a>]]></description>
-            <pubDate>2022-03-25T15:15:45.000Z</pubDate>
-            <guid isPermaLink="false">https://www.axios.com/half-of-women-will-get-a-false-positive-3d-mammogram-study-finds-5caf02eb-e5d8-4216-82b1-ac83f36523b2.html</guid>
-            <link>https://www.axios.com/half-of-women-will-get-a-false-positive-3d-mammogram-study-finds-5caf02eb-e5d8-4216-82b1-ac83f36523b2.html</link>
-            
-            
-            
-            <author><![CDATA[samizdis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[An Introduction to Generics]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=30804253 target=_blank>52 comments</a>]]></description>
-            <pubDate>2022-03-25T16:37:40.000Z</pubDate>
-            <guid isPermaLink="false">https://go.dev/blog/intro-generics</guid>
-            <link>https://go.dev/blog/intro-generics</link>
-            
-            
-            
-            <author><![CDATA[mfrw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google destroyed my Play Developer Account and my work for the last 2 years]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=30811297 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=30811297 target=_blank>63 comments</a>]]></description>
             <pubDate>2022-03-26T12:31:11.000Z</pubDate>
             <guid isPermaLink="false">https://medium.com/@andrey.savchuk/google-destroyed-my-google-play-developer-account-and-my-work-for-the-last-2-years-c4aa5034a221</guid>
             <link>https://medium.com/@andrey.savchuk/google-destroyed-my-google-play-developer-account-and-my-work-for-the-last-2-years-c4aa5034a221</link>
@@ -178,8 +146,40 @@
         </item>
         
         <item>
+            <title><![CDATA[An Introduction to Generics]]></title>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=30804253 target=_blank>52 comments</a>]]></description>
+            <pubDate>2022-03-25T16:37:40.000Z</pubDate>
+            <guid isPermaLink="false">https://go.dev/blog/intro-generics</guid>
+            <link>https://go.dev/blog/intro-generics</link>
+            
+            
+            
+            <author><![CDATA[mfrw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Running GUI apps within Docker containers]]></title>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=30810410 target=_blank>70 comments</a>]]></description>
+            <pubDate>2022-03-26T09:19:23.000Z</pubDate>
+            <guid isPermaLink="false">https://www.trickster.dev/post/running-gui-apps-within-docker-containers/</guid>
+            <link>https://www.trickster.dev/post/running-gui-apps-within-docker-containers/</link>
+            
+            
+            
+            <author><![CDATA[rl1987]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Old Spleens Suck (2021)]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=30807680 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=30807680 target=_blank>78 comments</a>]]></description>
             <pubDate>2022-03-25T22:39:06.000Z</pubDate>
             <guid isPermaLink="false">https://sarahconstantin.substack.com/p/old-spleens-suck</guid>
             <link>https://sarahconstantin.substack.com/p/old-spleens-suck</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Phantom OS]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=30807668 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=30807668 target=_blank>107 comments</a>]]></description>
             <pubDate>2022-03-25T22:37:13.000Z</pubDate>
             <guid isPermaLink="false">http://phantomos.org/</guid>
             <link>http://phantomos.org/</link>
