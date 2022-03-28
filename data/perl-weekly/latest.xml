@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #556]]></title>
+        <title><![CDATA[Perl Weekly #557]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,43 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl and Raku featured in Linux Format magazine]]></title>
-            <description><![CDATA[Thanks to Nic Evans for securing a regular slot in Linux magazine. If you would like to contribute then please do get in touch with her.]]></description>
-            <pubDate>2022.03.04</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/perl-raku-linux-format-magazine</guid>
-            <link>https://news.perlfoundation.org/post/perl-raku-linux-format-magazine</link>
-            
-            
-            
-            <author><![CDATA[stuart_mackintosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PDL 2.077 released]]></title>
-            <description><![CDATA[Lots of performace improvements in the latest release. Please check out the link for more details.]]></description>
-            <pubDate>2022.03.17</pubDate>
-            <guid isPermaLink="false">https://www.perlmonks.org/?node_id=11142132</guid>
-            <link>https://www.perlmonks.org/?node_id=11142132</link>
-            
-            
-            
-            <author><![CDATA[ed_jordan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Log::Log4perl::Tiny]]></title>
-            <description><![CDATA[It is aimed to fix issue and allow intermix text parts in the messages to log with sub references.]]></description>
-            <pubDate>2022.03.20</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/release/POLETTIX/Log-Log4perl-Tiny-1.4.1-TRIAL</guid>
-            <link>https://metacpan.org/release/POLETTIX/Log-Log4perl-Tiny-1.4.1-TRIAL</link>
+            <title><![CDATA[Tricked by __PACKAGE__]]></title>
+            <description><![CDATA[__PACKAGE__ (and __LINE__ and __FILE__) cannot be treated like a sub in versions of Perl prior to 5.16.]]></description>
+            <pubDate>2022.03.21</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/03/21/tricked-by-package/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/03/21/tricked-by-package/</link>
             
             
             
@@ -66,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How To Test Web APIs with Perl and Cucumber]]></title>
-            <description><![CDATA[A thorough tutorial on the use of Cucumber and Perl.]]></description>
-            <pubDate>2022.03.10</pubDate>
-            <guid isPermaLink="false">https://www.cognizantsoftvision.com/blog/how-to-test-web-apis-with-perl-and-cucumber</guid>
-            <link>https://www.cognizantsoftvision.com/blog/how-to-test-web-apis-with-perl-and-cucumber</link>
+            <title><![CDATA[Local to remote port forwarding with socat]]></title>
+            <description><![CDATA[You may wish to view a site that is only accessible within a VM on the host machine. In this post, Flavio demonstrates how to use socat to listen on a local port and send the traffic to a remote host/port.]]></description>
+            <pubDate>2022.03.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/03/22/socat-local-to-remote-port/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/03/22/socat-local-to-remote-port/</link>
             
             
             
-            <author><![CDATA[dragos_trif]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Access the Tesla API with Perl!]]></title>
-            <description><![CDATA[Cool use of Tesla::Vehicle to access Tesla API.]]></description>
-            <pubDate>2022.03.18</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/steve_bertrand/2022/03/access-the-tesla-api-with-perl.html</guid>
-            <link>http://blogs.perl.org/users/steve_bertrand/2022/03/access-the-tesla-api-with-perl.html</link>
-            
-            
-            
-            <author><![CDATA[steve_bertrand]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -98,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[The love of Perl in Memes]]></title>
-            <description><![CDATA[Nice collection of Memes about Perl. Do you have more?]]></description>
-            <pubDate>2022.03.15</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/the-love-of-perl-in-memes-1lmm</guid>
-            <link>https://dev.to/thibaultduponchelle/the-love-of-perl-in-memes-1lmm</link>
+            <title><![CDATA[Perl TCP client/server sample code]]></title>
+            <description><![CDATA[This post explains how to implement a simple TCP client/server in Perl using IO::Socket::INET.]]></description>
+            <pubDate>2022.03.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/perl-tcp-clientserver-sample-code-4pnm</guid>
+            <link>https://dev.to/thibaultduponchelle/perl-tcp-clientserver-sample-code-4pnm</link>
             
             
             
@@ -114,15 +66,95 @@
         </item>
         
         <item>
-            <title><![CDATA[2022.11 Tau / 2]]></title>
-            <description><![CDATA[2022.11 Tau / 2]]></description>
-            <pubDate>2022.03.14</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/03/14/2022-011-tau-2/</guid>
-            <link>https://rakudoweekly.blog/2022/03/14/2022-011-tau-2/</link>
+            <title><![CDATA[Yet Another Perl Switch Statement]]></title>
+            <description><![CDATA[When converting Perl code to Python, Pythonistas will tell you that explicit is better than implicit. However, we must be careful when setting $_ directly to avoid introducing new issues into the code.]]></description>
+            <pubDate>2022.03.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/matthewpersico/yet-another-perl-switch-statement-54h3</guid>
+            <link>https://dev.to/matthewpersico/yet-another-perl-switch-statement-54h3</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[matthew_persico]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Corkscrew in Perl]]></title>
+            <description><![CDATA[Corkscrew is a tool to set up SSH connectivity through a web proxy that supports the CONNECT verb.]]></description>
+            <pubDate>2022.03.25</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/03/25/corkscrew-in-perl/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/03/25/corkscrew-in-perl/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenAPI with Mojolicious - using name for default_response]]></title>
+            <description><![CDATA[Mojolicious::Plugin::OpenAPI author Jan Henning Thorsen provides Flavio with a handy short-circuit trick to avoid loading an API specification twice.]]></description>
+            <pubDate>2022.03.26</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/03/26/openapi-name/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/03/26/openapi-name/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Minion]]></title>
+            <description><![CDATA[Minion is a high-performance job queue for Perl that integrates with Mojolicious applications and leading databases.]]></description>
+            <pubDate>2022.03.27</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/03/27/minion/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/03/27/minion/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Installing Perl: A Chicken-and-Egg Problem]]></title>
+            <description><![CDATA[Installing Perl from scratch on a Raspberry Pi that lost its mind.]]></description>
+            <pubDate>2022.03.27</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/03/installing-perl-a-chicken-and-egg-problem.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2022/03/installing-perl-a-chicken-and-egg-problem.html</link>
+            
+            
+            
+            <author><![CDATA[tom_wyant]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2: Plackup reload on Windows and Linux]]></title>
+            <description><![CDATA[Dancer2: Plackup reload on Windows and Linux]]></description>
+            <pubDate>2022.03.28</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-plackup-reload</guid>
+            <link>https://perlmaven.com/dancer2-plackup-reload</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -131,14 +163,46 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/03/ccclxxxiv-12-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/03/dxxvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.03.19</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/03/ccclxxxv-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/03/d-metacpan-weekly-report-starman.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/03/dxxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.03.26</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show and Tell! (round robin)]]></title>
+            <description><![CDATA[Wednesday, March 30, 2022; 06:00 PM Eastern Time (US and Canada)]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/events/284815352/</guid>
+            <link>https://www.meetup.com/charlotte-pm/events/284815352/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston Perl Mongers Online Meeting - topic TBD or round-table]]></title>
+            <description><![CDATA[Tuesday April 12th, 2021 07:00 PM Eastern Time (US and Canada)]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/Boston-pm/</guid>
+            <link>https://www.meetup.com/Boston-pm/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
