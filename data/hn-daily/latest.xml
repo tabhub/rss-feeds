@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[A few things to know before stealing my 914]]></title>
-            <description><![CDATA[749 points | <a href=https://news.ycombinator.com/item?id=30878489 target=_blank>281 comments</a>]]></description>
+            <description><![CDATA[774 points | <a href=https://news.ycombinator.com/item?id=30878489 target=_blank>289 comments</a>]]></description>
             <pubDate>2022-04-01T14:40:16.000Z</pubDate>
             <guid isPermaLink="false">https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/</guid>
             <link>https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Pens and Tablets for Linux]]></title>
-            <description><![CDATA[475 points | <a href=https://news.ycombinator.com/item?id=30874256 target=_blank>198 comments</a>]]></description>
+            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=30874256 target=_blank>198 comments</a>]]></description>
             <pubDate>2022-04-01T01:34:14.000Z</pubDate>
             <guid isPermaLink="false">https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</guid>
             <link>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Amazon workers on Staten Island vote to unionize]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=30880203 target=_blank>290 comments</a>]]></description>
+            <description><![CDATA[427 points | <a href=https://news.ycombinator.com/item?id=30880203 target=_blank>306 comments</a>]]></description>
             <pubDate>2022-04-01T16:40:46.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html</guid>
             <link>https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Why have female animals evolved such wild genitals?]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=30874206 target=_blank>212 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=30874206 target=_blank>212 comments</a>]]></description>
             <pubDate>2022-04-01T01:24:12.000Z</pubDate>
             <guid isPermaLink="false">https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/</guid>
             <link>https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The Gov.uk Design System is now live]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=30877049 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=30877049 target=_blank>95 comments</a>]]></description>
             <pubDate>2022-04-01T11:16:44.000Z</pubDate>
             <guid isPermaLink="false">https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/</guid>
             <link>https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Hackers Leak Lichess Source Code]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=30877087 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=30877087 target=_blank>40 comments</a>]]></description>
             <pubDate>2022-04-01T11:24:38.000Z</pubDate>
             <guid isPermaLink="false">https://lichess.org/blog/YkYNyREAAB8Amiit/hackers-leak-lichess-source-code</guid>
             <link>https://lichess.org/blog/YkYNyREAAB8Amiit/hackers-leak-lichess-source-code</link>
@@ -130,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Postgres wire compatible SQLite proxy]]></title>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=30875837 target=_blank>71 comments</a>]]></description>
+            <pubDate>2022-04-01T06:58:02.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/benbjohnson/postlite</guid>
+            <link>https://github.com/benbjohnson/postlite</link>
+            
+            
+            
+            <author><![CDATA[ithkuil]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Can Grafana run Doom?]]></title>
             <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=30871697 target=_blank>37 comments</a>]]></description>
             <pubDate>2022-03-31T20:10:25.000Z</pubDate>
@@ -139,22 +155,6 @@
             
             
             <author><![CDATA[thinkmassive]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Postgres wire compatible SQLite proxy]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=30875837 target=_blank>71 comments</a>]]></description>
-            <pubDate>2022-04-01T06:58:02.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/benbjohnson/postlite</guid>
-            <link>https://github.com/benbjohnson/postlite</link>
-            
-            
-            
-            <author><![CDATA[ithkuil]]></author>
             
                 
             
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: A plain-text file format for todos and check lists]]></title>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=30879327 target=_blank>90 comments</a>]]></description>
+            <pubDate>2022-04-01T15:39:56.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=30879327</guid>
+            <link>https://news.ycombinator.com/item?id=30879327</link>
+            
+            
+            
+            <author><![CDATA[jotaen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Fake emergency search warrants draw scrutiny from Capitol Hill]]></title>
             <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=30873211 target=_blank>77 comments</a>]]></description>
             <pubDate>2022-03-31T23:00:58.000Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: A plain-text file format for todos and check lists]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=30879327 target=_blank>84 comments</a>]]></description>
-            <pubDate>2022-04-01T15:39:56.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=30879327</guid>
-            <link>https://news.ycombinator.com/item?id=30879327</link>
-            
-            
-            
-            <author><![CDATA[jotaen]]></author>
             
                 
             
