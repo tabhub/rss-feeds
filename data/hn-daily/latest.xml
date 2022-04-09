@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Persepolis of ancient Persia rendered in WebGL]]></title>
-            <description><![CDATA[766 points | <a href=https://news.ycombinator.com/item?id=30965352 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[768 points | <a href=https://news.ycombinator.com/item?id=30965352 target=_blank>183 comments</a>]]></description>
             <pubDate>2022-04-09T04:52:09.000Z</pubDate>
             <guid isPermaLink="false">https://persepolis.getty.edu</guid>
             <link>https://persepolis.getty.edu</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[MIT graduate students vote to unionize]]></title>
-            <description><![CDATA[542 points | <a href=https://news.ycombinator.com/item?id=30967375 target=_blank>308 comments</a>]]></description>
+            <description><![CDATA[550 points | <a href=https://news.ycombinator.com/item?id=30967375 target=_blank>313 comments</a>]]></description>
             <pubDate>2022-04-09T12:15:25.000Z</pubDate>
             <guid isPermaLink="false">https://thetech.com/2022/04/08/grad-students-unionize</guid>
             <link>https://thetech.com/2022/04/08/grad-students-unionize</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[An Account of the Shanghai Lockdown]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=30966378 target=_blank>475 comments</a>]]></description>
+            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=30966378 target=_blank>475 comments</a>]]></description>
             <pubDate>2022-04-09T09:04:28.000Z</pubDate>
             <guid isPermaLink="false">https://jaapgrolleman.com/shanghais-stunning-fall-from-grace/</guid>
             <link>https://jaapgrolleman.com/shanghais-stunning-fall-from-grace/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[I need to find an apartment]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=30968721 target=_blank>223 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=30968721 target=_blank>226 comments</a>]]></description>
             <pubDate>2022-04-09T15:13:49.000Z</pubDate>
             <guid isPermaLink="false">https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html</guid>
             <link>https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Parking kills businesses, not bikes or buses]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=30970777 target=_blank>322 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=30970777 target=_blank>328 comments</a>]]></description>
             <pubDate>2022-04-09T18:43:30.000Z</pubDate>
             <guid isPermaLink="false">https://www.newsroom.co.nz/ideasroom/parking-kills-businesses-not-bikes-or-buses</guid>
             <link>https://www.newsroom.co.nz/ideasroom/parking-kills-businesses-not-bikes-or-buses</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Raspberry Pi Pico: What is this code doing in its boot ROM, line 442?]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=30970274 target=_blank>55 comments</a>]]></description>
-            <pubDate>2022-04-09T17:53:18.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S</guid>
-            <link>https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S</link>
-            
-            
-            
-            <author><![CDATA[nynyny7]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Heaps: A free, open-source and cross-platform game engine]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=30970934 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=30970934 target=_blank>22 comments</a>]]></description>
             <pubDate>2022-04-09T19:00:34.000Z</pubDate>
             <guid isPermaLink="false">https://heaps.io/index.html</guid>
             <link>https://heaps.io/index.html</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[The Unexpected Importance of the Trailing Slash]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=30965200 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=30965200 target=_blank>43 comments</a>]]></description>
             <pubDate>2022-04-09T04:03:31.000Z</pubDate>
             <guid isPermaLink="false">https://tookmund.com/2022/04/importance-of-the-trailing-slash</guid>
             <link>https://tookmund.com/2022/04/importance-of-the-trailing-slash</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Raspberry Pi Pico: What is this code doing in its boot ROM, line 442?]]></title>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=30970274 target=_blank>56 comments</a>]]></description>
+            <pubDate>2022-04-09T17:53:18.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S</guid>
+            <link>https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S</link>
+            
+            
+            
+            <author><![CDATA[nynyny7]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Back to India]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=30965402 target=_blank>302 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=30965402 target=_blank>303 comments</a>]]></description>
             <pubDate>2022-04-09T05:06:30.000Z</pubDate>
             <guid isPermaLink="false">https://yugal.me/back-to-india/</guid>
             <link>https://yugal.me/back-to-india/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Middle managers fear they've become irrelevant with work from home]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=30969200 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=30969200 target=_blank>114 comments</a>]]></description>
             <pubDate>2022-04-09T16:04:37.000Z</pubDate>
             <guid isPermaLink="false">https://fortune.com/2022/04/07/remote-work-from-home-is-over-firing-pay-cut/</guid>
             <link>https://fortune.com/2022/04/07/remote-work-from-home-is-over-firing-pay-cut/</link>
