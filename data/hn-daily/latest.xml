@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Human brain compresses working memories into low-res ‘summaries’]]></title>
-            <description><![CDATA[606 points | <a href=https://news.ycombinator.com/item?id=31002179 target=_blank>302 comments</a>]]></description>
-            <pubDate>2022-04-12T13:11:48.000Z</pubDate>
-            <guid isPermaLink="false">https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/</guid>
-            <link>https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/</link>
-            
-            
-            
-            <author><![CDATA[nihkolberg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[New(ish) command line tools]]></title>
-            <description><![CDATA[596 points | <a href=https://news.ycombinator.com/item?id=31009313 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[608 points | <a href=https://news.ycombinator.com/item?id=31009313 target=_blank>186 comments</a>]]></description>
             <pubDate>2022-04-12T23:08:52.000Z</pubDate>
             <guid isPermaLink="false">https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</guid>
             <link>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Human brain compresses working memories into low-res ‘summaries’]]></title>
+            <description><![CDATA[607 points | <a href=https://news.ycombinator.com/item?id=31002179 target=_blank>303 comments</a>]]></description>
+            <pubDate>2022-04-12T13:11:48.000Z</pubDate>
+            <guid isPermaLink="false">https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/</guid>
+            <link>https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/</link>
+            
+            
+            
+            <author><![CDATA[nihkolberg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Eden]]></title>
-            <description><![CDATA[568 points | <a href=https://news.ycombinator.com/item?id=31006003 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[574 points | <a href=https://news.ycombinator.com/item?id=31006003 target=_blank>202 comments</a>]]></description>
             <pubDate>2022-04-12T17:48:44.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/facebookexperimental/eden</guid>
             <link>https://github.com/facebookexperimental/eden</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Git security vulnerability announced]]></title>
-            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=31009675 target=_blank>217 comments</a>]]></description>
+            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=31009675 target=_blank>220 comments</a>]]></description>
             <pubDate>2022-04-13T00:02:29.000Z</pubDate>
             <guid isPermaLink="false">https://github.blog/2022-04-12-git-security-vulnerability-announced/</guid>
             <link>https://github.blog/2022-04-12-git-security-vulnerability-announced/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Consumer prices rose 8.5% in March – highest since 1981]]></title>
-            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=31002002 target=_blank>655 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=31002002 target=_blank>656 comments</a>]]></description>
             <pubDate>2022-04-12T12:56:17.000Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2022/04/12/consumer-prices-rose-8point5percent-in-march-slightly-hotter-than-expected.html</guid>
             <link>https://www.cnbc.com/2022/04/12/consumer-prices-rose-8point5percent-in-march-slightly-hotter-than-expected.html</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Amazon workers at 100 more facilities want to unionize: Amazon Labor Union]]></title>
-            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=31004363 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=31004363 target=_blank>287 comments</a>]]></description>
             <pubDate>2022-04-12T15:55:43.000Z</pubDate>
             <guid isPermaLink="false">https://finance.yahoo.com/news/amazon-workers-at-100-more-facilities-want-to-unionize-amazon-labor-union-president-chris-smalls-181900885.html</guid>
             <link>https://finance.yahoo.com/news/amazon-workers-at-100-more-facilities-want-to-unionize-amazon-labor-union-president-chris-smalls-181900885.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[A tiny Docker image to serve static websites]]></title>
-            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=31003395 target=_blank>133 comments</a>]]></description>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=31003395 target=_blank>133 comments</a>]]></description>
             <pubDate>2022-04-12T14:42:46.000Z</pubDate>
             <guid isPermaLink="false">https://lipanski.com/posts/smallest-docker-image-static-website</guid>
             <link>https://lipanski.com/posts/smallest-docker-image-static-website</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[BBEdit is 30 years old today]]></title>
-            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=31008290 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=31008290 target=_blank>93 comments</a>]]></description>
             <pubDate>2022-04-12T21:12:55.000Z</pubDate>
             <guid isPermaLink="false">https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs</guid>
             <link>https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Never hose out a Honda Element]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=31008275 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=31008275 target=_blank>216 comments</a>]]></description>
             <pubDate>2022-04-12T21:10:51.000Z</pubDate>
             <guid isPermaLink="false">https://fifthelementcamping.com/never-hose-it-out</guid>
             <link>https://fifthelementcamping.com/never-hose-it-out</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[RaidForums gets raided, alleged admin arrested]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=31005770 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=31005770 target=_blank>171 comments</a>]]></description>
             <pubDate>2022-04-12T17:32:55.000Z</pubDate>
             <guid isPermaLink="false">https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/</guid>
             <link>https://krebsonsecurity.com/2022/04/raidforums-get-raided-alleged-admin-arrested/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Top Mac app store dev abuses free with in-app purchase for bait-and-switch apps]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=31005708 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=31005708 target=_blank>136 comments</a>]]></description>
             <pubDate>2022-04-12T17:28:33.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/lapcatsoftware/status/1513672378236166149</guid>
             <link>https://twitter.com/lapcatsoftware/status/1513672378236166149</link>
