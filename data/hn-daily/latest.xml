@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Human brain compresses working memories into low-res ‘summaries’]]></title>
-            <description><![CDATA[597 points | <a href=https://news.ycombinator.com/item?id=31002179 target=_blank>297 comments</a>]]></description>
+            <description><![CDATA[599 points | <a href=https://news.ycombinator.com/item?id=31002179 target=_blank>298 comments</a>]]></description>
             <pubDate>2022-04-12T13:11:48.000Z</pubDate>
             <guid isPermaLink="false">https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/</guid>
             <link>https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Eden]]></title>
-            <description><![CDATA[555 points | <a href=https://news.ycombinator.com/item?id=31006003 target=_blank>198 comments</a>]]></description>
-            <pubDate>2022-04-12T17:48:44.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/facebookexperimental/eden</guid>
-            <link>https://github.com/facebookexperimental/eden</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[New(ish) command line tools]]></title>
-            <description><![CDATA[551 points | <a href=https://news.ycombinator.com/item?id=31009313 target=_blank>168 comments</a>]]></description>
+            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=31009313 target=_blank>170 comments</a>]]></description>
             <pubDate>2022-04-12T23:08:52.000Z</pubDate>
             <guid isPermaLink="false">https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</guid>
             <link>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</link>
@@ -66,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Eden]]></title>
+            <description><![CDATA[556 points | <a href=https://news.ycombinator.com/item?id=31006003 target=_blank>198 comments</a>]]></description>
+            <pubDate>2022-04-12T17:48:44.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/facebookexperimental/eden</guid>
+            <link>https://github.com/facebookexperimental/eden</link>
+            
+            
+            
+            <author><![CDATA[tosh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Git security vulnerability announced]]></title>
-            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=31009675 target=_blank>210 comments</a>]]></description>
+            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=31009675 target=_blank>212 comments</a>]]></description>
             <pubDate>2022-04-13T00:02:29.000Z</pubDate>
             <guid isPermaLink="false">https://github.blog/2022-04-12-git-security-vulnerability-announced/</guid>
             <link>https://github.blog/2022-04-12-git-security-vulnerability-announced/</link>
@@ -114,6 +114,22 @@
         </item>
         
         <item>
+            <title><![CDATA[A tiny Docker image to serve static websites]]></title>
+            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=31003395 target=_blank>133 comments</a>]]></description>
+            <pubDate>2022-04-12T14:42:46.000Z</pubDate>
+            <guid isPermaLink="false">https://lipanski.com/posts/smallest-docker-image-static-website</guid>
+            <link>https://lipanski.com/posts/smallest-docker-image-static-website</link>
+            
+            
+            
+            <author><![CDATA[nilsandrey]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Amazon workers at 100 more facilities want to unionize: Amazon Labor Union]]></title>
             <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=31004363 target=_blank>283 comments</a>]]></description>
             <pubDate>2022-04-12T15:55:43.000Z</pubDate>
@@ -130,40 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A tiny Docker image to serve static websites]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=31003395 target=_blank>133 comments</a>]]></description>
-            <pubDate>2022-04-12T14:42:46.000Z</pubDate>
-            <guid isPermaLink="false">https://lipanski.com/posts/smallest-docker-image-static-website</guid>
-            <link>https://lipanski.com/posts/smallest-docker-image-static-website</link>
-            
-            
-            
-            <author><![CDATA[nilsandrey]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How is the free firmware for the Raspberry progressing?]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=31000725 target=_blank>164 comments</a>]]></description>
-            <pubDate>2022-04-12T10:23:23.000Z</pubDate>
-            <guid isPermaLink="false">https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html</guid>
-            <link>https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html</link>
-            
-            
-            
-            <author><![CDATA[JNRowe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[BBEdit is 30 years old today]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=31008290 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=31008290 target=_blank>87 comments</a>]]></description>
             <pubDate>2022-04-12T21:12:55.000Z</pubDate>
             <guid isPermaLink="false">https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs</guid>
             <link>https://groups.google.com/g/comp.sys.mac.announce/c/gvPGyuX3UCs</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Never hose out a Honda Element]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=31008275 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=31008275 target=_blank>193 comments</a>]]></description>
             <pubDate>2022-04-12T21:10:51.000Z</pubDate>
             <guid isPermaLink="false">https://fifthelementcamping.com/never-hose-it-out</guid>
             <link>https://fifthelementcamping.com/never-hose-it-out</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[Apocryphon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ask HN: When did tech stop being cool?]]></title>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=31001155 target=_blank>343 comments</a>]]></description>
+            <pubDate>2022-04-12T11:31:36.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=31001155</guid>
+            <link>https://news.ycombinator.com/item?id=31001155</link>
+            
+            
+            
+            <author><![CDATA[dvh1990]]></author>
             
                 
             
