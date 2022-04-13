@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[New(ish) command line tools]]></title>
-            <description><![CDATA[642 points | <a href=https://news.ycombinator.com/item?id=31009313 target=_blank>208 comments</a>]]></description>
+            <description><![CDATA[645 points | <a href=https://news.ycombinator.com/item?id=31009313 target=_blank>211 comments</a>]]></description>
             <pubDate>2022-04-12T23:08:52.000Z</pubDate>
             <guid isPermaLink="false">https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</guid>
             <link>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Eden]]></title>
-            <description><![CDATA[583 points | <a href=https://news.ycombinator.com/item?id=31006003 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[584 points | <a href=https://news.ycombinator.com/item?id=31006003 target=_blank>211 comments</a>]]></description>
             <pubDate>2022-04-12T17:48:44.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/facebookexperimental/eden</guid>
             <link>https://github.com/facebookexperimental/eden</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Git security vulnerability announced]]></title>
-            <description><![CDATA[496 points | <a href=https://news.ycombinator.com/item?id=31009675 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[497 points | <a href=https://news.ycombinator.com/item?id=31009675 target=_blank>231 comments</a>]]></description>
             <pubDate>2022-04-13T00:02:29.000Z</pubDate>
             <guid isPermaLink="false">https://github.blog/2022-04-12-git-security-vulnerability-announced/</guid>
             <link>https://github.blog/2022-04-12-git-security-vulnerability-announced/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[U+237C ⍼ Right Angle with Downwards Zigzag Arrow]]></title>
-            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=31012865 target=_blank>189 comments</a>]]></description>
+            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=31012865 target=_blank>198 comments</a>]]></description>
             <pubDate>2022-04-13T10:01:26.000Z</pubDate>
             <guid isPermaLink="false">https://ionathan.ch/2022/04/09/angzarr.html</guid>
             <link>https://ionathan.ch/2022/04/09/angzarr.html</link>
@@ -98,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Insider Trading at Coinbase]]></title>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=31012462 target=_blank>226 comments</a>]]></description>
+            <pubDate>2022-04-13T08:48:03.000Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/cobie/status/1513874972552355846</guid>
+            <link>https://twitter.com/cobie/status/1513874972552355846</link>
+            
+            
+            
+            <author><![CDATA[Shadonototra]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[BBEdit is 30 years old today]]></title>
             <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=31008290 target=_blank>95 comments</a>]]></description>
             <pubDate>2022-04-12T21:12:55.000Z</pubDate>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Amazon workers at 100 more facilities want to unionize: Amazon Labor Union]]></title>
-            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=31004363 target=_blank>290 comments</a>]]></description>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=31004363 target=_blank>293 comments</a>]]></description>
             <pubDate>2022-04-12T15:55:43.000Z</pubDate>
             <guid isPermaLink="false">https://finance.yahoo.com/news/amazon-workers-at-100-more-facilities-want-to-unionize-amazon-labor-union-president-chris-smalls-181900885.html</guid>
             <link>https://finance.yahoo.com/news/amazon-workers-at-100-more-facilities-want-to-unionize-amazon-labor-union-president-chris-smalls-181900885.html</link>
@@ -123,38 +139,6 @@
             
             
             <author><![CDATA[guerrilla]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Insider Trading at Coinbase]]></title>
-            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=31012462 target=_blank>215 comments</a>]]></description>
-            <pubDate>2022-04-13T08:48:03.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/cobie/status/1513874972552355846</guid>
-            <link>https://twitter.com/cobie/status/1513874972552355846</link>
-            
-            
-            
-            <author><![CDATA[Shadonototra]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A tiny Docker image to serve static websites]]></title>
-            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=31003395 target=_blank>137 comments</a>]]></description>
-            <pubDate>2022-04-12T14:42:46.000Z</pubDate>
-            <guid isPermaLink="false">https://lipanski.com/posts/smallest-docker-image-static-website</guid>
-            <link>https://lipanski.com/posts/smallest-docker-image-static-website</link>
-            
-            
-            
-            <author><![CDATA[nilsandrey]]></author>
             
                 
             
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[Apocryphon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote]]></title>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=31011083 target=_blank>303 comments</a>]]></description>
+            <pubDate>2022-04-13T03:58:51.000Z</pubDate>
+            <guid isPermaLink="false">https://meta.wikimedia.org/wiki/Requests_for_comment/Stop_accepting_cryptocurrency_donations</guid>
+            <link>https://meta.wikimedia.org/wiki/Requests_for_comment/Stop_accepting_cryptocurrency_donations</link>
+            
+            
+            
+            <author><![CDATA[SwimSwimHungry]]></author>
             
                 
             
