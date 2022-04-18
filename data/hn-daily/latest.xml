@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The best engineering interview question I've ever gotten]]></title>
-            <description><![CDATA[818 points | <a href=https://news.ycombinator.com/item?id=31065143 target=_blank>391 comments</a>]]></description>
-            <pubDate>2022-04-17T22:34:08.000Z</pubDate>
-            <guid isPermaLink="false">https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</guid>
-            <link>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</link>
-            
-            
-            
-            <author><![CDATA[db48x]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[TurboTax’s fight against free tax filing]]></title>
-            <description><![CDATA[623 points | <a href=https://news.ycombinator.com/item?id=31072202 target=_blank>307 comments</a>]]></description>
+            <description><![CDATA[628 points | <a href=https://news.ycombinator.com/item?id=31072202 target=_blank>308 comments</a>]]></description>
             <pubDate>2022-04-18T15:42:03.000Z</pubDate>
             <guid isPermaLink="false">https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html</guid>
             <link>https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Web scraping is legal, US appeals court reaffirms]]></title>
-            <description><![CDATA[461 points | <a href=https://news.ycombinator.com/item?id=31075396 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[474 points | <a href=https://news.ycombinator.com/item?id=31075396 target=_blank>126 comments</a>]]></description>
             <pubDate>2022-04-18T19:37:55.000Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2022/04/18/web-scraping-legal-court/</guid>
             <link>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</link>
@@ -59,6 +43,22 @@
             
             
             <author><![CDATA[spenvo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mental speed is high until age sixty]]></title>
+            <description><![CDATA[433 points | <a href=https://news.ycombinator.com/item?id=31068388 target=_blank>247 comments</a>]]></description>
+            <pubDate>2022-04-18T07:57:35.000Z</pubDate>
+            <guid isPermaLink="false">https://www.nature.com/articles/s41562-021-01282-7</guid>
+            <link>https://www.nature.com/articles/s41562-021-01282-7</link>
+            
+            
+            
+            <author><![CDATA[qw]]></author>
             
                 
             
@@ -75,22 +75,6 @@
             
             
             <author><![CDATA[barlo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mental speed is high until age sixty]]></title>
-            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=31068388 target=_blank>247 comments</a>]]></description>
-            <pubDate>2022-04-18T07:57:35.000Z</pubDate>
-            <guid isPermaLink="false">https://www.nature.com/articles/s41562-021-01282-7</guid>
-            <link>https://www.nature.com/articles/s41562-021-01282-7</link>
-            
-            
-            
-            <author><![CDATA[qw]]></author>
             
                 
             
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[James Webb telescope's coldest instrument reaches operating temperature]]></title>
-            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=31072590 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=31072590 target=_blank>183 comments</a>]]></description>
             <pubDate>2022-04-18T16:07:12.000Z</pubDate>
             <guid isPermaLink="false">https://phys.org/news/2022-04-james-webb-telescope-coldest-instrument.html</guid>
             <link>https://phys.org/news/2022-04-james-webb-telescope-coldest-instrument.html</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[CatalanGate: Spyware operation against Catalans using Pegasus and Candiru]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=31069422 target=_blank>221 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=31069422 target=_blank>221 comments</a>]]></description>
             <pubDate>2022-04-18T11:36:03.000Z</pubDate>
             <guid isPermaLink="false">https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/</guid>
             <link>https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[BirdNET-Pi: Automated, locally run bird sound identification and tracking]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=31072485 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=31072485 target=_blank>60 comments</a>]]></description>
             <pubDate>2022-04-18T16:00:09.000Z</pubDate>
             <guid isPermaLink="false">https://birdnetpi.com/</guid>
             <link>https://birdnetpi.com/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[ingve]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[UK Government Officials Infected with Pegasus]]></title>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=31075558 target=_blank>71 comments</a>]]></description>
+            <pubDate>2022-04-18T19:49:57.000Z</pubDate>
+            <guid isPermaLink="false">https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/</guid>
+            <link>https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/</link>
+            
+            
+            
+            <author><![CDATA[yablak]]></author>
             
                 
             
