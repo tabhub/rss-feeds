@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Framework Laptop Mainboard]]></title>
-            <description><![CDATA[953 points | <a href=https://news.ycombinator.com/item?id=31089677 target=_blank>236 comments</a>]]></description>
+            <description><![CDATA[955 points | <a href=https://news.ycombinator.com/item?id=31089677 target=_blank>237 comments</a>]]></description>
             <pubDate>2022-04-19T21:43:41.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/FrameworkComputer/Mainboard</guid>
             <link>https://github.com/FrameworkComputer/Mainboard</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The absurd complexity of server-side rendering]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=31087795 target=_blank>351 comments</a>]]></description>
+            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=31087795 target=_blank>353 comments</a>]]></description>
             <pubDate>2022-04-19T19:30:58.000Z</pubDate>
             <guid isPermaLink="false">https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984</guid>
             <link>https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[How can I get my boyfriend to stop digging his tunnel?]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=31096994 target=_blank>286 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=31096994 target=_blank>286 comments</a>]]></description>
             <pubDate>2022-04-20T13:55:35.000Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/Advice/comments/u3qipy/how_can_i_get_my_boyfriend_to_stop_digging_his/</guid>
             <link>https://old.reddit.com/r/Advice/comments/u3qipy/how_can_i_get_my_boyfriend_to_stop_digging_his/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Ask HN: What’s a good laptop for software development at around $2k?]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=31094361 target=_blank>700 comments</a>]]></description>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=31094361 target=_blank>704 comments</a>]]></description>
             <pubDate>2022-04-20T09:03:56.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=31094361</guid>
             <link>https://news.ycombinator.com/item?id=31094361</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[QEMU 7.0]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=31093564 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=31093564 target=_blank>85 comments</a>]]></description>
             <pubDate>2022-04-20T06:41:24.000Z</pubDate>
             <guid isPermaLink="false">https://www.qemu.org/2022/04/19/qemu-7-0-0/</guid>
             <link>https://www.qemu.org/2022/04/19/qemu-7-0-0/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Favicons for HN]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=31095046 target=_blank>66 comments</a>]]></description>
-            <pubDate>2022-04-20T10:52:15.000Z</pubDate>
-            <guid isPermaLink="false">https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a</guid>
-            <link>https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a</link>
-            
-            
-            
-            <author><![CDATA[frabert]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ruby YJIT Ported to Rust]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=31094130 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=31094130 target=_blank>72 comments</a>]]></description>
             <pubDate>2022-04-20T08:18:30.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ruby/ruby/pull/5826</guid>
             <link>https://github.com/ruby/ruby/pull/5826</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: Favicons for HN]]></title>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=31095046 target=_blank>66 comments</a>]]></description>
+            <pubDate>2022-04-20T10:52:15.000Z</pubDate>
+            <guid isPermaLink="false">https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a</guid>
+            <link>https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a</link>
+            
+            
+            
+            <author><![CDATA[frabert]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Changing std:sort at Google’s scale and beyond]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=31098822 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=31098822 target=_blank>84 comments</a>]]></description>
             <pubDate>2022-04-20T15:57:01.000Z</pubDate>
             <guid isPermaLink="false">https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/</guid>
             <link>https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Guido van Rossum: Let Web3 die in a flaming ball of fire]]></title>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=31101082 target=_blank>212 comments</a>]]></description>
+            <pubDate>2022-04-20T18:34:09.000Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/gvanrossum/status/1508959260905918465</guid>
+            <link>https://twitter.com/gvanrossum/status/1508959260905918465</link>
+            
+            
+            
+            <author><![CDATA[donsupreme]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Netflix loses subscribers for the first time in 10+ years]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=31088353 target=_blank>374 comments</a>]]></description>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=31088353 target=_blank>374 comments</a>]]></description>
             <pubDate>2022-04-19T20:11:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2022/04/19/netflix-nflx-earnings-q1-2022.html</guid>
             <link>https://www.cnbc.com/2022/04/19/netflix-nflx-earnings-q1-2022.html</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[On anti-crypto toxicity]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=31094479 target=_blank>605 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=31094479 target=_blank>610 comments</a>]]></description>
             <pubDate>2022-04-20T09:24:24.000Z</pubDate>
             <guid isPermaLink="false">https://blog.mollywhite.net/anti-crypto-toxicity/</guid>
             <link>https://blog.mollywhite.net/anti-crypto-toxicity/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[chalst]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Guido van Rossum: Let Web3 die in a flaming ball of fire]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=31101082 target=_blank>143 comments</a>]]></description>
-            <pubDate>2022-04-20T18:34:09.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/gvanrossum/status/1508959260905918465</guid>
-            <link>https://twitter.com/gvanrossum/status/1508959260905918465</link>
-            
-            
-            
-            <author><![CDATA[donsupreme]]></author>
             
                 
             
