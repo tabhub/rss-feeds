@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[A YouTuber purposely crashed his plane in California, FAA says]]></title>
-            <description><![CDATA[560 points | <a href=https://news.ycombinator.com/item?id=31104691 target=_blank>377 comments</a>]]></description>
+            <description><![CDATA[573 points | <a href=https://news.ycombinator.com/item?id=31104691 target=_blank>382 comments</a>]]></description>
             <pubDate>2022-04-21T00:14:32.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html</guid>
             <link>https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Memray: a memory profiler for Python]]></title>
-            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=31102089 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=31102089 target=_blank>42 comments</a>]]></description>
             <pubDate>2022-04-20T19:54:19.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/bloomberg/memray</guid>
             <link>https://github.com/bloomberg/memray</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[California grid set record of 97% renewable power on April 3]]></title>
-            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=31103275 target=_blank>234 comments</a>]]></description>
+            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=31103275 target=_blank>234 comments</a>]]></description>
             <pubDate>2022-04-20T21:30:16.000Z</pubDate>
             <guid isPermaLink="false">https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/</guid>
             <link>https://www.solarpowerworldonline.com/2022/04/california-grid-set-record-with-97-percent-renewable-power-april-3/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[A 4-year-old can run errands alone and not just on reality TV]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=31097578 target=_blank>490 comments</a>]]></description>
+            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=31097578 target=_blank>490 comments</a>]]></description>
             <pubDate>2022-04-20T14:36:12.000Z</pubDate>
             <guid isPermaLink="false">https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv</guid>
             <link>https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Go will use pdqsort in next release]]></title>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=31106157 target=_blank>85 comments</a>]]></description>
+            <pubDate>2022-04-21T05:00:19.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</guid>
+            <link>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</link>
+            
+            
+            
+            <author><![CDATA[ngaut]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How can I get my boyfriend to stop digging his tunnel?]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=31096994 target=_blank>309 comments</a>]]></description>
+            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=31096994 target=_blank>310 comments</a>]]></description>
             <pubDate>2022-04-20T13:55:35.000Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/Advice/comments/u3qipy/how_can_i_get_my_boyfriend_to_stop_digging_his/</guid>
             <link>https://old.reddit.com/r/Advice/comments/u3qipy/how_can_i_get_my_boyfriend_to_stop_digging_his/</link>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Are you the asshole? – AI powered answer bot]]></title>
-            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=31099655 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=31099655 target=_blank>186 comments</a>]]></description>
             <pubDate>2022-04-20T16:45:00.000Z</pubDate>
             <guid isPermaLink="false">https://areyoutheasshole.com/</guid>
             <link>https://areyoutheasshole.com/</link>
@@ -123,22 +139,6 @@
             
             
             <author><![CDATA[davidcelis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Go will use pdqsort in next release]]></title>
-            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=31106157 target=_blank>84 comments</a>]]></description>
-            <pubDate>2022-04-21T05:00:19.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</guid>
-            <link>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</link>
-            
-            
-            
-            <author><![CDATA[ngaut]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[If founders treated investors the way they treat employees]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=31099791 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=31099791 target=_blank>140 comments</a>]]></description>
             <pubDate>2022-04-20T16:55:01.000Z</pubDate>
             <guid isPermaLink="false">https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/</guid>
             <link>https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[You probably don’t need AWS and are better off without it]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=31101516 target=_blank>277 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=31101516 target=_blank>277 comments</a>]]></description>
             <pubDate>2022-04-20T19:09:29.000Z</pubDate>
             <guid isPermaLink="false">https://www.trickster.dev/post/you-probably-dont-need-aws-and-are-better-off-without-it/</guid>
             <link>https://www.trickster.dev/post/you-probably-dont-need-aws-and-are-better-off-without-it/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[The unreasonable fight for municipal broadband]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=31103133 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=31103133 target=_blank>99 comments</a>]]></description>
             <pubDate>2022-04-20T21:17:21.000Z</pubDate>
             <guid isPermaLink="false">https://tylercipriani.com/blog/2022/04/20/the-unreasonable-fight-for-municipal-broadband/</guid>
             <link>https://tylercipriani.com/blog/2022/04/20/the-unreasonable-fight-for-municipal-broadband/</link>
