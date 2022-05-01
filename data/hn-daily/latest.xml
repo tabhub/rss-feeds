@@ -18,6 +18,22 @@
         <ttl></ttl>
         
         <item>
+            <title><![CDATA[Internet Archive joins opposition to the “SMART Copyright Act”]]></title>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=31220422 target=_blank>71 comments</a>]]></description>
+            <pubDate>2022-04-30T23:16:44.000Z</pubDate>
+            <guid isPermaLink="false">http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/</guid>
+            <link>http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/</link>
+            
+            
+            
+            <author><![CDATA[raybb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Achieving 5M persistent connections with Project Loom virtual threads]]></title>
             <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=31214253 target=_blank>127 comments</a>]]></description>
             <pubDate>2022-04-30T08:07:42.000Z</pubDate>
@@ -35,7 +51,7 @@
         
         <item>
             <title><![CDATA[I've used all the notebooks]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=31218232 target=_blank>202 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=31218232 target=_blank>210 comments</a>]]></description>
             <pubDate>2022-04-30T18:49:57.000Z</pubDate>
             <guid isPermaLink="false">https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/</guid>
             <link>https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/</link>
@@ -50,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Internet Archive joins opposition to the “SMART Copyright Act”]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=31220422 target=_blank>58 comments</a>]]></description>
-            <pubDate>2022-04-30T23:16:44.000Z</pubDate>
-            <guid isPermaLink="false">http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/</guid>
-            <link>http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/</link>
+            <title><![CDATA[Experience Report: 6 months of Go]]></title>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=31217032 target=_blank>217 comments</a>]]></description>
+            <pubDate>2022-04-30T16:07:21.000Z</pubDate>
+            <guid isPermaLink="false">https://typesanitizer.com/blog/go-experience-report.html</guid>
+            <link>https://typesanitizer.com/blog/go-experience-report.html</link>
             
             
             
-            <author><![CDATA[raybb]]></author>
+            <author><![CDATA[eatonphil]]></author>
             
                 
             
@@ -67,7 +83,7 @@
         
         <item>
             <title><![CDATA[Did the W-boson just “break the standard model”?]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=31215891 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=31215891 target=_blank>233 comments</a>]]></description>
             <pubDate>2022-04-30T13:22:00.000Z</pubDate>
             <guid isPermaLink="false">http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html</guid>
             <link>http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html</link>
@@ -75,22 +91,6 @@
             
             
             <author><![CDATA[IdealeZahlen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Experience Report: 6 months of Go]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=31217032 target=_blank>212 comments</a>]]></description>
-            <pubDate>2022-04-30T16:07:21.000Z</pubDate>
-            <guid isPermaLink="false">https://typesanitizer.com/blog/go-experience-report.html</guid>
-            <link>https://typesanitizer.com/blog/go-experience-report.html</link>
-            
-            
-            
-            <author><![CDATA[eatonphil]]></author>
             
                 
             
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[How to Corrupt an SQLite Database File]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=31214131 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=31214131 target=_blank>123 comments</a>]]></description>
             <pubDate>2022-04-30T07:36:15.000Z</pubDate>
             <guid isPermaLink="false">https://sqlite.org/howtocorrupt.html</guid>
             <link>https://sqlite.org/howtocorrupt.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[PyScript: Run Python in your HTML]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=31217337 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=31217337 target=_blank>42 comments</a>]]></description>
             <pubDate>2022-04-30T16:52:00.000Z</pubDate>
             <guid isPermaLink="false">https://pyscript.net/</guid>
             <link>https://pyscript.net/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Noto emoji, a new black and white emoji font with less color]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=31218434 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=31218434 target=_blank>54 comments</a>]]></description>
             <pubDate>2022-04-30T19:17:07.000Z</pubDate>
             <guid isPermaLink="false">https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</guid>
             <link>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[How do you power a rocket engine?]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=31215149 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=31215149 target=_blank>69 comments</a>]]></description>
             <pubDate>2022-04-30T11:24:32.000Z</pubDate>
             <guid isPermaLink="false">https://everydayastronaut.com/rocket-engine-cycles/</guid>
             <link>https://everydayastronaut.com/rocket-engine-cycles/</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Exposed by a Strava KOM: The Many Lives of a Fake Pro Cyclist]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=31213059 target=_blank>67 comments</a>]]></description>
-            <pubDate>2022-04-30T03:18:46.000Z</pubDate>
-            <guid isPermaLink="false">https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/</guid>
-            <link>https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/</link>
+            <title><![CDATA[UIs are streaming DAGs [video]]]></title>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=31217448 target=_blank>35 comments</a>]]></description>
+            <pubDate>2022-04-30T17:08:38.000Z</pubDate>
+            <guid isPermaLink="false">https://www.hytradboi.com/2022/uis-are-streaming-dags</guid>
+            <link>https://www.hytradboi.com/2022/uis-are-streaming-dags</link>
             
             
             
-            <author><![CDATA[altStoner]]></author>
+            <author><![CDATA[simongray]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[At one company I worked at only one thing mattered: the yearly bonus]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=31218309 target=_blank>161 comments</a>]]></description>
-            <pubDate>2022-04-30T18:58:39.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/richgel999/status/1520473199410135040</guid>
-            <link>https://twitter.com/richgel999/status/1520473199410135040</link>
+            <title><![CDATA[Exposed by a Strava KOM: The Many Lives of a Fake Pro Cyclist]]></title>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=31213059 target=_blank>68 comments</a>]]></description>
+            <pubDate>2022-04-30T03:18:46.000Z</pubDate>
+            <guid isPermaLink="false">https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/</guid>
+            <link>https://cyclingtips.com/2022/04/exposed-by-a-strava-kom-the-many-lives-of-a-fake-pro-cyclist/</link>
             
             
             
-            <author><![CDATA[tosh]]></author>
+            <author><![CDATA[altStoner]]></author>
             
                 
             
