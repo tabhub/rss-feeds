@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #561]]></title>
+        <title><![CDATA[Perl Weekly #562]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
@@ -18,143 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Early bird discount expires 30th April for The Perl and Raku Conf 2022]]></title>
-            <description><![CDATA[Early bird discount expires 30th April for The Perl and Raku Conf 2022]]></description>
-            <pubDate>2022.04.20</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/dean/2022/04/early-bird-discount-expires-30th-april-for-the-perl-and-raku-conf-2022.html</guid>
-            <link>http://blogs.perl.org/users/dean/2022/04/early-bird-discount-expires-30th-april-for-the-perl-and-raku-conf-2022.html</link>
-            
-            
-            
-            <author><![CDATA[dean_hamstead]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Software Job Search 2022 Retrospective: Coding Challenges]]></title>
-            <description><![CDATA[While this is nothing to do specifically with Perl Dave is very well known in the Perl community and his posts are always very interesting. This is no exception. It is interesting to follow his process of looking for a new job.]]></description>
-            <pubDate>2022.04.19</pubDate>
-            <guid isPermaLink="false">https://blog.urth.org/2022/04/19/software-job-search-2022-retrospective-coding-challenges/</guid>
-            <link>https://blog.urth.org/2022/04/19/software-job-search-2022-retrospective-coding-challenges/</link>
-            
-            
-            
-            <author><![CDATA[dave_rolsky]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[QRate]]></title>
-            <description><![CDATA[Flavio is working on QRate, a tool to backup stuff as QR codes in a PDF that can be printed.]]></description>
-            <pubDate>2022.04.18</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/04/18/qrate/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/04/18/qrate/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[QRate - High Level Design (provisional)]]></title>
-            <description><![CDATA[QRate - High Level Design (provisional)]]></description>
-            <pubDate>2022.04.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/04/21/qrate-hld/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/04/21/qrate-hld/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[QRate - encoding]]></title>
-            <description><![CDATA[QRate - encoding]]></description>
-            <pubDate>2022.04.22</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/04/22/qrate-encoding/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/04/22/qrate-encoding/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[QRate - iterators for encoding]]></title>
-            <description><![CDATA[QRate - iterators for encoding]]></description>
-            <pubDate>2022.04.23</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/04/23/qrate-encoding-iterators/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/04/23/qrate-encoding-iterators/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[QRate - decoding]]></title>
-            <description><![CDATA[QRate - decoding]]></description>
-            <pubDate>2022.04.24</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/04/24/qrate-decoding/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/04/24/qrate-decoding/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2: Testing 404 and 500 error responses]]></title>
-            <description><![CDATA[Dancer2: Testing 404 and 500 error responses]]></description>
+            <title><![CDATA[QRate - complete program]]></title>
+            <description><![CDATA[finally we got the complete program. I would recommend you checkout earlier post first.]]></description>
             <pubDate>2022.04.25</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-testing-404-and-500-responses</guid>
-            <link>https://perlmaven.com/dancer2-testing-404-and-500-responses</link>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/04/25/qrate-complete-program/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/04/25/qrate-complete-program/</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Web Frameworks]]></title>
-            <description><![CDATA[Covering CGI - Mojolicious - Interchange - Dancer - Catalyst]]></description>
-            <pubDate>2022.04.19</pubDate>
-            <guid isPermaLink="false">https://www.endpointdev.com/blog/2022/04/perl-web-frameworks/</guid>
-            <link>https://www.endpointdev.com/blog/2022/04/perl-web-frameworks/</link>
-            
-            
-            
-            <author><![CDATA[melmothx]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -162,15 +34,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Rakudo compiler, Release #155 (2022.04)]]></title>
-            <description><![CDATA[Rakudo compiler, Release #155 (2022.04)]]></description>
-            <pubDate>2022.04.24</pubDate>
-            <guid isPermaLink="false">https://rakudo.org/post/announce-rakudo-release-2022.04</guid>
-            <link>https://rakudo.org/post/announce-rakudo-release-2022.04</link>
+            <title><![CDATA[App::Easer options collection]]></title>
+            <description><![CDATA[Please checkout how to collect options using App:Easier.]]></description>
+            <pubDate>2022.04.28</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/04/28/app-easer-options-collections/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/04/28/app-easer-options-collections/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App::Easer help as (command line) option]]></title>
+            <description><![CDATA[Please find out various ways to get the full text for hep]]></description>
+            <pubDate>2022.04.29</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/04/29/app-easer-help-option/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/04/29/app-easer-help-option/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2022.16/7 ComplainRelease]]></title>
+            <description><![CDATA[2022.16/7 ComplainRelease]]></description>
+            <pubDate>2022.04.25</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2022/04/25/2022-16-7-complainrelease/</guid>
+            <link>https://rakudoweekly.blog/2022/04/25/2022-16-7-complainrelease/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -179,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/04/ccclxxxix-15-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/04/diii-metacpan-weekly-report-appsqitch.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/04/dxxxi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/04/cccxc-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/04/div-metacpan-weekly-report-emailsimple.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/04/dxxxii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.04.30</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
