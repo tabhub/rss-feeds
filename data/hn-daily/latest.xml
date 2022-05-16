@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Fly.io: The reclaimer of Heroku's magic]]></title>
-            <description><![CDATA[491 points | <a href=https://news.ycombinator.com/item?id=31390506 target=_blank>272 comments</a>]]></description>
+            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=31390506 target=_blank>272 comments</a>]]></description>
             <pubDate>2022-05-15T19:56:39.000Z</pubDate>
             <guid isPermaLink="false">https://christine.website/blog/fly.io-heroku-replacement</guid>
             <link>https://christine.website/blog/fly.io-heroku-replacement</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Modern JavaScript Tutorial]]></title>
-            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=31390742 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[481 points | <a href=https://news.ycombinator.com/item?id=31390742 target=_blank>91 comments</a>]]></description>
             <pubDate>2022-05-15T20:24:31.000Z</pubDate>
             <guid isPermaLink="false">https://javascript.info/</guid>
             <link>https://javascript.info/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Almost all searches on my independent search engine are now from SEO spam bots]]></title>
-            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=31395231 target=_blank>264 comments</a>]]></description>
+            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=31395231 target=_blank>277 comments</a>]]></description>
             <pubDate>2022-05-16T10:08:38.000Z</pubDate>
             <guid isPermaLink="false">https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/</guid>
             <link>https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Correctness and composability bugs in the Julia ecosystem]]></title>
+            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=31396861 target=_blank>188 comments</a>]]></description>
+            <pubDate>2022-05-16T13:28:57.000Z</pubDate>
+            <guid isPermaLink="false">https://yuri.is/not-julia/</guid>
+            <link>https://yuri.is/not-julia/</link>
+            
+            
+            
+            <author><![CDATA[benjojo12]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The problem with Bitcoin miners]]></title>
-            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=31389647 target=_blank>457 comments</a>]]></description>
+            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=31389647 target=_blank>462 comments</a>]]></description>
             <pubDate>2022-05-15T18:19:00.000Z</pubDate>
             <guid isPermaLink="false">https://paulbutler.org/2022/the-problem-with-bitcoin-miners/</guid>
             <link>https://paulbutler.org/2022/the-problem-with-bitcoin-miners/</link>
@@ -98,40 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Julia language has a number of correctness flaws]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=31396861 target=_blank>167 comments</a>]]></description>
-            <pubDate>2022-05-16T13:28:57.000Z</pubDate>
-            <guid isPermaLink="false">https://yuri.is/not-julia/</guid>
-            <link>https://yuri.is/not-julia/</link>
-            
-            
-            
-            <author><![CDATA[benjojo12]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Many software companies are a joke]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=31394604 target=_blank>305 comments</a>]]></description>
-            <pubDate>2022-05-16T08:12:13.000Z</pubDate>
-            <guid isPermaLink="false">https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a</guid>
-            <link>https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a</link>
-            
-            
-            
-            <author><![CDATA[openplatypus]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Web3 is just expensive P2P]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=31396329 target=_blank>226 comments</a>]]></description>
+            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=31396329 target=_blank>235 comments</a>]]></description>
             <pubDate>2022-05-16T12:48:44.000Z</pubDate>
             <guid isPermaLink="false">https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</guid>
             <link>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Many software companies are a joke]]></title>
+            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=31394604 target=_blank>309 comments</a>]]></description>
+            <pubDate>2022-05-16T08:12:13.000Z</pubDate>
+            <guid isPermaLink="false">https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a</guid>
+            <link>https://liou28335.medium.com/many-software-companies-are-a-joke-9f4b10378c7a</link>
+            
+            
+            
+            <author><![CDATA[openplatypus]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[McDonald’s to Exit from Russia]]></title>
-            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=31395765 target=_blank>285 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=31395765 target=_blank>294 comments</a>]]></description>
             <pubDate>2022-05-16T11:39:32.000Z</pubDate>
             <guid isPermaLink="false">https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html</guid>
             <link>https://corporate.mcdonalds.com/corpmcd/en-us/our-stories/article/ourstories.mcd-exit-russia.html</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The weird Hewlett Packard FreeDOS option]]></title>
-            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=31389893 target=_blank>135 comments</a>]]></description>
-            <pubDate>2022-05-15T18:45:11.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/</guid>
-            <link>https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/</link>
-            
-            
-            
-            <author><![CDATA[erik]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Nearly 20% of active Twitter accounts are fake or spam]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=31397137 target=_blank>259 comments</a>]]></description>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=31397137 target=_blank>276 comments</a>]]></description>
             <pubDate>2022-05-16T13:49:34.000Z</pubDate>
             <guid isPermaLink="false">https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/</guid>
             <link>https://sparktoro.com/blog/sparktoro-followerwonk-joint-twitter-analysis-19-42-of-active-accounts-are-fake-or-spam/</link>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[iamflimflam1]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The weird Hewlett Packard FreeDOS option]]></title>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=31389893 target=_blank>136 comments</a>]]></description>
+            <pubDate>2022-05-15T18:45:11.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/</guid>
+            <link>https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/</link>
+            
+            
+            
+            <author><![CDATA[erik]]></author>
             
                 
             
