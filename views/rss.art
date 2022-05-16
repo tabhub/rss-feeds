@@ -8,9 +8,9 @@
 >
     <channel>
         <title><![CDATA[{{@ title || 'TabHub RSS' }}]]></title>
-        <link>{{ link || 'https://tabhub.io' }}</link>
+        <link>{{ link || 'https://tabhub.github.io' }}</link>
         <atom:link href="{{ atomlink }}" rel="self" type="application/rss+xml" />
-        <description><![CDATA[{{@ description || title }} - Made with love by TabHub(https://tabhub.io)]]></description>
+        <description><![CDATA[{{@ description || title }} - Made with love by TabHub(https://tabhub.github.io)]]></description>
         <generator>TabHub</generator>
         <webMaster>TabHub</webMaster>
         {{ if itunes_author }}<itunes:author>{{ itunes_author}}</itunes:author>{{ /if }}
