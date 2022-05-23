@@ -3,10 +3,10 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #564]]></title>
+        <title><![CDATA[Perl Weekly #565]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
-        <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.io)]]></description>
+        <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
         <generator>TabHub</generator>
         <webMaster>TabHub</webMaster>
         
@@ -18,11 +18,91 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[My Favorite Modules: Errno]]></title>
-            <description><![CDATA[Nice introduction to Errno with apt example to get the point across.]]></description>
-            <pubDate>2022.05.11</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/05/my-favorite-modules-errno.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2022/05/my-favorite-modules-errno.html</link>
+            <title><![CDATA[ActiveDirectory password encoding in Perl and shell]]></title>
+            <description><![CDATA[ActiveDirectory password encoding in Perl and shell]]></description>
+            <pubDate>2022.05.16</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/05/16/ad-password-perl-and-shell/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/05/16/ad-password-perl-and-shell/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Adding functions in Template::Perlish]]></title>
+            <description><![CDATA['As any average Perl hacker, ...' Flavio opens his post. On the second reading I understood that he means that many Perl hackers do it, but first I thought he think of himself as being average. If that was the case, Perl would not be declining and we would have so many articles for the Perl weekly that we would not be able to include even 10% of them. Anyway, who does not want to maintain a templating system?]]></description>
+            <pubDate>2022.05.20</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/05/20/template-perlish-adding-functions/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/05/20/template-perlish-adding-functions/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Curses::UI and signatures]]></title>
+            <description><![CDATA[Curses::UI and signatures]]></description>
+            <pubDate>2022.05.21</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/05/21/curses-ui-and-signatures/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/05/21/curses-ui-and-signatures/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Curses::UI callbacks]]></title>
+            <description><![CDATA[Curses::UI callbacks]]></description>
+            <pubDate>2022.05.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/05/22/curses-ui-callbacks/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/05/22/curses-ui-callbacks/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MooseX::Extreme Needs a New Name]]></title>
+            <description><![CDATA[How to create a version of Moose which is safer and easier to use, including removing a lot of boilerplate?]]></description>
+            <pubDate>2022.05.22</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/ovid/2022/05/moosexextreme-needs-a-new-name.html</guid>
+            <link>http://blogs.perl.org/users/ovid/2022/05/moosexextreme-needs-a-new-name.html</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My Favorite Modules: Time::Piece]]></title>
+            <description><![CDATA[My Favorite Modules: Time::Piece]]></description>
+            <pubDate>2022.05.19</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/05/my-favorite-modules-timepiece.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2022/05/my-favorite-modules-timepiece.html</link>
             
             
             
@@ -34,47 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Towards Perl 5.36 - try/catch/finally]]></title>
-            <description><![CDATA[I always wish for finally block and it seems we are getting it soon. Thank you for sharing the good news.]]></description>
-            <pubDate>2022.05.12</pubDate>
-            <guid isPermaLink="false">https://blog.perl-academy.de/2022-05-12-auf-dem-weg-zu-perl-536-trycatchfinally</guid>
-            <link>https://blog.perl-academy.de/2022-05-12-auf-dem-weg-zu-perl-536-trycatchfinally</link>
+            <title><![CDATA[Mojolicious in Portuguese]]></title>
+            <description><![CDATA[More articles about Mojolicious from Victoria Ricarte Bispo Beserra]]></description>
+            <pubDate>2022.05.16</pubDate>
+            <guid isPermaLink="false">https://dev.to/victoriabispo/mojolicious-12j</guid>
+            <link>https://dev.to/victoriabispo/mojolicious-12j</link>
             
             
             
-            <author><![CDATA[renee_baecker]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2022.19 DocuBlast]]></title>
-            <description><![CDATA[2022.19 DocuBlast]]></description>
-            <pubDate>2022.05.09</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/05/09/2022-19-docublast/</guid>
-            <link>https://rakudoweekly.blog/2022/05/09/2022-19-docublast/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/05/cccxcii-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/05/dvi-metacpan-weekly-report-carmel.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/05/dxxxiv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.05.14</pubDate>
-            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
-            <link>http://niceperl.blogspot.com/</link>
-            
-            
-            
-            <author><![CDATA[miguel_prz]]></author>
+            <author><![CDATA[victoria_beserra]]></author>
             
                 
             
@@ -98,15 +146,31 @@
         </item>
         
         <item>
-            <title><![CDATA[My blog in Ladino]]></title>
-            <description><![CDATA[My blog in Ladino]]></description>
-            <pubDate>2022.05.16</pubDate>
-            <guid isPermaLink="false">https://ladino.szabgab.com/lad/</guid>
-            <link>https://ladino.szabgab.com/lad/</link>
+            <title><![CDATA[Dancer2: Solution: 1 - Calculator]]></title>
+            <description><![CDATA[Dancer2: Solution: 1 - Calculator]]></description>
+            <pubDate>2022.05.23</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-solution-1-calculator</guid>
+            <link>https://perlmaven.com/dancer2-solution-1-calculator</link>
             
             
             
             <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/05/cccxciii-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/05/dvii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/05/dxxxv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.05.21</pubDate>
+            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
+            <link>http://niceperl.blogspot.com/</link>
+            
+            
+            
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
