@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ask HN: What game do you wish existed?]]></title>
-            <description><![CDATA[511 points | <a href=https://news.ycombinator.com/item?id=31503201 target=_blank>1307 comments</a>]]></description>
+            <description><![CDATA[537 points | <a href=https://news.ycombinator.com/item?id=31503201 target=_blank>1335 comments</a>]]></description>
             <pubDate>2022-05-25T11:50:35.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=31503201</guid>
             <link>https://news.ycombinator.com/item?id=31503201</link>
@@ -50,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Tell HN: I made $1000 with my app and now making $500/mo]]></title>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=31508009 target=_blank>108 comments</a>]]></description>
+            <pubDate>2022-05-25T17:50:12.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=31508009</guid>
+            <link>https://news.ycombinator.com/item?id=31508009</link>
+            
+            
+            
+            <author><![CDATA[strongpigeon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The benefits of “low tech” user interfaces]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=31502193 target=_blank>346 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=31502193 target=_blank>348 comments</a>]]></description>
             <pubDate>2022-05-25T09:21:33.000Z</pubDate>
             <guid isPermaLink="false">https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83</guid>
             <link>https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83</link>
@@ -66,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Tell HN: I made $1000 with my app and now making $500/mo]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=31508009 target=_blank>103 comments</a>]]></description>
-            <pubDate>2022-05-25T17:50:12.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=31508009</guid>
-            <link>https://news.ycombinator.com/item?id=31508009</link>
+            <title><![CDATA[A Kernel Hacker Meets Fuchsia OS]]></title>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=31502257 target=_blank>86 comments</a>]]></description>
+            <pubDate>2022-05-25T09:34:07.000Z</pubDate>
+            <guid isPermaLink="false">https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</guid>
+            <link>https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</link>
             
             
             
-            <author><![CDATA[strongpigeon]]></author>
+            <author><![CDATA[kerneis]]></author>
             
                 
             
@@ -98,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A Kernel Hacker Meets Fuchsia OS]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=31502257 target=_blank>86 comments</a>]]></description>
-            <pubDate>2022-05-25T09:34:07.000Z</pubDate>
-            <guid isPermaLink="false">https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</guid>
-            <link>https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</link>
-            
-            
-            
-            <author><![CDATA[kerneis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[SwiftUI in 2022]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=31504354 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=31504354 target=_blank>180 comments</a>]]></description>
             <pubDate>2022-05-25T13:39:59.000Z</pubDate>
             <guid isPermaLink="false">https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/</guid>
             <link>https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Google has been DDoSing Sourcehut for over a year]]></title>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=31508000 target=_blank>57 comments</a>]]></description>
+            <pubDate>2022-05-25T17:49:42.000Z</pubDate>
+            <guid isPermaLink="false">https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html</guid>
+            <link>https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html</link>
+            
+            
+            
+            <author><![CDATA[Tomte]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Fly Machines: An API for Fast-Booting VMs]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=31496744 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=31496744 target=_blank>111 comments</a>]]></description>
             <pubDate>2022-05-24T19:48:33.000Z</pubDate>
             <guid isPermaLink="false">https://fly.io/blog/fly-machines/</guid>
             <link>https://fly.io/blog/fly-machines/</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[On rebooting: the unreasonable effectiveness of turning computers off and on]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=31497555 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=31497555 target=_blank>185 comments</a>]]></description>
             <pubDate>2022-05-24T21:08:16.000Z</pubDate>
             <guid isPermaLink="false">https://keunwoo.com/notes/rebooting/</guid>
             <link>https://keunwoo.com/notes/rebooting/</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[HTTPS Everywhere will sunset in January 2023]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=31503451 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=31503451 target=_blank>129 comments</a>]]></description>
             <pubDate>2022-05-25T12:19:00.000Z</pubDate>
             <guid isPermaLink="false">https://www.eff.org/https-everywhere/set-https-default-your-browser</guid>
             <link>https://www.eff.org/https-everywhere/set-https-default-your-browser</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[A Kernel Hacker Meets Fuchsia OS]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=31497827 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=31497827 target=_blank>108 comments</a>]]></description>
             <pubDate>2022-05-24T21:39:48.000Z</pubDate>
             <guid isPermaLink="false">https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</guid>
             <link>https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[chrisdinn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Leslie Lamport revolutionized computer science with math [video]]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=31496816 target=_blank>86 comments</a>]]></description>
-            <pubDate>2022-05-24T19:55:35.000Z</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=rkZzg7Vowao</guid>
-            <link>https://www.youtube.com/watch?v=rkZzg7Vowao</link>
-            
-            
-            
-            <author><![CDATA[chat]]></author>
             
                 
             
