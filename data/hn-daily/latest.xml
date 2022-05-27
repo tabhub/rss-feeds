@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[GoodWill ransomware forces victims to donate to the poor]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=31527446 target=_blank>292 comments</a>]]></description>
+            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=31527446 target=_blank>294 comments</a>]]></description>
             <pubDate>2022-05-27T08:55:02.000Z</pubDate>
             <guid isPermaLink="false">https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</guid>
             <link>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Windows OS, Services and Apps: Network Connection Target Hosts (2021)]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=31527621 target=_blank>273 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=31527621 target=_blank>273 comments</a>]]></description>
             <pubDate>2022-05-27T09:31:03.000Z</pubDate>
             <guid isPermaLink="false">https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/</guid>
             <link>https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[pmoriarty]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Knots 3D – Learn how to tie over 150 useful knots]]></title>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=31532199 target=_blank>70 comments</a>]]></description>
+            <pubDate>2022-05-27T17:23:31.000Z</pubDate>
+            <guid isPermaLink="false">https://knots3d.com/</guid>
+            <link>https://knots3d.com/</link>
+            
+            
+            
+            <author><![CDATA[kosasbest]]></author>
             
                 
             
@@ -114,22 +130,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Knots 3D – Learn how to tie over 150 useful knots]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=31532199 target=_blank>68 comments</a>]]></description>
-            <pubDate>2022-05-27T17:23:31.000Z</pubDate>
-            <guid isPermaLink="false">https://knots3d.com/</guid>
-            <link>https://knots3d.com/</link>
-            
-            
-            
-            <author><![CDATA[kosasbest]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NPM security update: Attack campaign using stolen OAuth tokens]]></title>
             <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=31526044 target=_blank>72 comments</a>]]></description>
             <pubDate>2022-05-27T04:38:48.000Z</pubDate>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[S.F. population fell 6.3%, most in nation, to lowest level since 2010]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=31531997 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=31531997 target=_blank>277 comments</a>]]></description>
             <pubDate>2022-05-27T17:07:45.000Z</pubDate>
             <guid isPermaLink="false">https://www.sfchronicle.com/sf/article/S-F-population-fell-6-3-most-in-nation-to-17199403.php</guid>
             <link>https://www.sfchronicle.com/sf/article/S-F-population-fell-6-3-most-in-nation-to-17199403.php</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: A Reddit style site to discuss podcast episodes]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=31527544 target=_blank>114 comments</a>]]></description>
-            <pubDate>2022-05-27T09:15:10.000Z</pubDate>
-            <guid isPermaLink="false">https://podbabble.com/</guid>
-            <link>https://podbabble.com/</link>
-            
-            
-            
-            <author><![CDATA[wolframhempel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Architecture Notes: Datasette]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=31530690 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=31530690 target=_blank>39 comments</a>]]></description>
             <pubDate>2022-05-27T15:25:22.000Z</pubDate>
             <guid isPermaLink="false">https://architecturenotes.co/datasette-simon-willison/</guid>
             <link>https://architecturenotes.co/datasette-simon-willison/</link>
@@ -194,15 +178,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Organice: An implementation of Org mode without the dependency of Emacs]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=31526231 target=_blank>85 comments</a>]]></description>
-            <pubDate>2022-05-27T05:18:44.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/200ok-ch/organice</guid>
-            <link>https://github.com/200ok-ch/organice</link>
+            <title><![CDATA[Show HN: A Reddit style site to discuss podcast episodes]]></title>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=31527544 target=_blank>115 comments</a>]]></description>
+            <pubDate>2022-05-27T09:15:10.000Z</pubDate>
+            <guid isPermaLink="false">https://podbabble.com/</guid>
+            <link>https://podbabble.com/</link>
             
             
             
-            <author><![CDATA[Tomte]]></author>
+            <author><![CDATA[wolframhempel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How I Built Zig-SQLite]]></title>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=31527559 target=_blank>82 comments</a>]]></description>
+            <pubDate>2022-05-27T09:16:49.000Z</pubDate>
+            <guid isPermaLink="false">https://rischmann.fr/blog/how-i-built-zig-sqlite</guid>
+            <link>https://rischmann.fr/blog/how-i-built-zig-sqlite</link>
+            
+            
+            
+            <author><![CDATA[Sphax]]></author>
             
                 
             
