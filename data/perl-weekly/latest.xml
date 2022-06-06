@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #566]]></title>
+        <title><![CDATA[Perl Weekly #567]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl v5.36]]></title>
-            <description><![CDATA[Latest Perl v5.36 released on 27th May 2022. Please find the complement documentation about the release.]]></description>
-            <pubDate>2022.05.27</pubDate>
-            <guid isPermaLink="false">https://perldoc.perl.org/5.36.0/</guid>
-            <link>https://perldoc.perl.org/5.36.0/</link>
+            <title><![CDATA[TPRC June Newsletter]]></title>
+            <description><![CDATA[The in person Perl and Raku Conference is in Houston from Tuesday June 21st to Friday June 25th.]]></description>
+            <pubDate>2022.06.02</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc-newsletter-2022-06-02</guid>
+            <link>https://news.perlfoundation.org/post/tprc-newsletter-2022-06-02</link>
             
             
             
@@ -34,11 +34,91 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl v5.37]]></title>
-            <description><![CDATA[First development release of the v5.37 series is out. Please do checkout.]]></description>
-            <pubDate>2022.05.28</pubDate>
-            <guid isPermaLink="false">https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263786.html</guid>
-            <link>https://www.nntp.perl.org/group/perl.perl5.porters/2022/05/msg263786.html</link>
+            <title><![CDATA[Rendering trees in the terminal]]></title>
+            <description><![CDATA[The <b>tree</b> command in Linux would show a directory structure as a tree, but what if you have some in-memory tree-like data-structure? How can you visualize that?]]></description>
+            <pubDate>2022.06.30</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/05/30/terminal-trees-rendering/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/05/30/terminal-trees-rendering/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Caching with CHI]]></title>
+            <description><![CDATA[Caching with CHI]]></description>
+            <pubDate>2022.06.02</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/02/caching-with-chi/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/02/caching-with-chi/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Short flight over Tickit]]></title>
+            <description><![CDATA[Tickit is Terminal Interface Construction KIT by Paul Evans. A few notes by Flavio.]]></description>
+            <pubDate>2022.06.03</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/03/short-flight-over-tickit/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/03/short-flight-over-tickit/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A Dockerfile for Perl 5.36 / Alpine, with working SSL]]></title>
+            <description><![CDATA[Installing Net::SSLeay always made me tired. Now it comes with the docker image.]]></description>
+            <pubDate>2022.06.05</pubDate>
+            <guid isPermaLink="false">https://domm.plix.at/perl/2022_06_dockerfile_for_perl_5_36.html</guid>
+            <link>https://domm.plix.at/perl/2022_06_dockerfile_for_perl_5_36.html</link>
+            
+            
+            
+            <author><![CDATA[thomas_klausner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Curses::UI data viewer]]></title>
+            <description><![CDATA[An example application with Curses::UI]]></description>
+            <pubDate>2022.06.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/05/curses-ui-dataviewer/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/05/curses-ui-dataviewer/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[perl v5.36.0 has been released]]></title>
+            <description><![CDATA[Ricardo, who released this version of perl writes about it.]]></description>
+            <pubDate>2022.05.30</pubDate>
+            <guid isPermaLink="false">https://rjbs.cloud/blog/2022/05/perl-5.36/</guid>
+            <link>https://rjbs.cloud/blog/2022/05/perl-5.36/</link>
             
             
             
@@ -50,31 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Translating Jenkins with Perl]]></title>
-            <description><![CDATA[Ever played with Jenkins before. This is first hand experience with Jenkins and Perl by Alceu.]]></description>
-            <pubDate>2022.05.26</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/alceu_rodrigues_de_freitas_junior/2022/05/translating-jenkins-with-perl.html</guid>
-            <link>http://blogs.perl.org/users/alceu_rodrigues_de_freitas_junior/2022/05/translating-jenkins-with-perl.html</link>
+            <title><![CDATA[Perl 5.36 is released]]></title>
+            <description><![CDATA[warnings enabled, subroutine signatures, try-catch-finally statements, Unicode 14 support]]></description>
+            <pubDate>2022.06</pubDate>
+            <guid isPermaLink="false">https://en.perlzemi.com/blog/20220530161828.html</guid>
+            <link>https://en.perlzemi.com/blog/20220530161828.html</link>
             
             
             
-            <author><![CDATA[alceu_rodrigues]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What's In That String?]]></title>
-            <description><![CDATA[One of the steps of debugging Perl can be to find out what is actually in a string.]]></description>
-            <pubDate>2022.05.25</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/05/whats-in-that-string.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2022/05/whats-in-that-string.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -82,79 +146,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl's pos]]></title>
-            <description><![CDATA[Interesting subject discussed in the post about how pos() influence regex match.]]></description>
-            <pubDate>2022.05.23</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/05/23/perl-string-pos/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/05/23/perl-string-pos/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl v5.36 is out]]></title>
-            <description><![CDATA[Flavio's take on features introduced in Perl v5.36.]]></description>
-            <pubDate>2022.05.29</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/05/29/perl-5-36-is-out/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/05/29/perl-5-36-is-out/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2022.21 Math Like]]></title>
-            <description><![CDATA[2022.21 Math Like]]></description>
-            <pubDate>2022.05.23</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/05/23/2022-21-math-like/</guid>
-            <link>https://rakudoweekly.blog/2022/05/23/2022-21-math-like/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/05/cccxciv-18-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/05/dviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/05/dxxxvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.05.28</pubDate>
-            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
-            <link>http://niceperl.blogspot.com/</link>
-            
-            
-            
-            <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Write and test Perl command line tools with ease]]></title>
-            <description><![CDATA[Write and test Perl command line tools with ease]]></description>
+            <title><![CDATA[Outreachy 2022 - Two Interns Selected ]]></title>
+            <description><![CDATA[Outreachy 2022 - Two Interns Selected ]]></description>
             <pubDate>2022.05.30</pubDate>
-            <guid isPermaLink="false">https://thorsen.pm/blog/2022-05-30/write-and-test-your-perl-command-line-tools-with-ease</guid>
-            <link>https://thorsen.pm/blog/2022-05-30/write-and-test-your-perl-command-line-tools-with-ease</link>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/outreachy2022-interns-selected</guid>
+            <link>https://news.perlfoundation.org/post/outreachy2022-interns-selected</link>
             
             
             
-            <author><![CDATA[jan_henning_thorsen]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Replay Cron Events With Cron::Sequencer]]></title>
+            <description><![CDATA[Trivially find out which cron events ran, or will run, for an arbitrary time range; allowing you to rerun, debug, fast forward (speed up test iterations), with cron-sequencer.]]></description>
+            <pubDate>2022.06.02</pubDate>
+            <guid isPermaLink="false">https://leejo.github.io/2022/06/02/cron_sequencer/</guid>
+            <link>https://leejo.github.io/2022/06/02/cron_sequencer/</link>
+            
+            
+            
+            <author><![CDATA[lee_johnson]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl 7 domains]]></title>
+            <description><![CDATA[Dave has a few Perl 7 themed domain names that expire soon. Anyone wants to take over and make use of them? You know when Perl 7 takes off they might worth millions.]]></description>
+            <pubDate>2022.06.01</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/v1mqjb/perl_7_domains/</guid>
+            <link>https://www.reddit.com/r/perl/comments/v1mqjb/perl_7_domains/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -171,6 +203,54 @@
             
             
             <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2: Solution: 1 - Counter]]></title>
+            <description><![CDATA[Dancer2: Solution: 1 - Counter]]></description>
+            <pubDate>2022.06.05</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-solution-1-counter</guid>
+            <link>https://perlmaven.com/dancer2-solution-1-counter</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rakudo compiler, Release #156 (2022.06)]]></title>
+            <description><![CDATA[Rakudo compiler, Release #156 (2022.06)]]></description>
+            <pubDate>2022.06.05</pubDate>
+            <guid isPermaLink="false">https://rakudo.org/post/announce-rakudo-release-2022.06</guid>
+            <link>https://rakudo.org/post/announce-rakudo-release-2022.06</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/06/cccxcv-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/06/dix-metacpan-weekly-report-getoptapp.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/06/dxxxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.05</pubDate>
+            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
+            <link>http://niceperl.blogspot.com/</link>
+            
+            
+            
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
