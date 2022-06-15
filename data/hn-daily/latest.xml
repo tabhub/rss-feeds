@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Hertzbleed Attack]]></title>
-            <description><![CDATA[1252 points | <a href=https://news.ycombinator.com/item?id=31743110 target=_blank>343 comments</a>]]></description>
+            <description><![CDATA[1259 points | <a href=https://news.ycombinator.com/item?id=31743110 target=_blank>345 comments</a>]]></description>
             <pubDate>2022-06-14T17:43:58.000Z</pubDate>
             <guid isPermaLink="false">https://www.hertzbleed.com/</guid>
             <link>https://www.hertzbleed.com/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Amazon builds property empire, quietly buying land across the US]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=31743335 target=_blank>365 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=31743335 target=_blank>367 comments</a>]]></description>
             <pubDate>2022-06-14T17:58:28.000Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows</guid>
             <link>https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[jbredeche]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Everything Is Broken: Shipping Rust-Minidump at Mozilla]]></title>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=31740768 target=_blank>55 comments</a>]]></description>
+            <pubDate>2022-06-14T15:19:44.000Z</pubDate>
+            <guid isPermaLink="false">https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/</guid>
+            <link>https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/</link>
+            
+            
+            
+            <author><![CDATA[mthermidor]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Everything Is Broken: Shipping Rust-Minidump at Mozilla]]></title>
-            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=31740768 target=_blank>55 comments</a>]]></description>
-            <pubDate>2022-06-14T15:19:44.000Z</pubDate>
-            <guid isPermaLink="false">https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/</guid>
-            <link>https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/</link>
-            
-            
-            
-            <author><![CDATA[mthermidor]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Scotland starts renewed case for independence]]></title>
-            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=31736919 target=_blank>683 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=31736919 target=_blank>685 comments</a>]]></description>
             <pubDate>2022-06-14T10:29:36.000Z</pubDate>
             <guid isPermaLink="false">https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/</guid>
             <link>https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[IBM ordered to hand over ex-CEO emails plotting cuts in older workers]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=31740101 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=31740101 target=_blank>77 comments</a>]]></description>
             <pubDate>2022-06-14T14:31:43.000Z</pubDate>
             <guid isPermaLink="false">https://www.theregister.com/2022/06/13/ibm_discrimination_email/</guid>
             <link>https://www.theregister.com/2022/06/13/ibm_discrimination_email/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[The hunt for a cluster-killer Erlang bug]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=31746090 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=31746090 target=_blank>24 comments</a>]]></description>
             <pubDate>2022-06-14T21:05:45.000Z</pubDate>
             <guid isPermaLink="false">https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b</guid>
             <link>https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b</link>
