@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Hertzbleed Attack]]></title>
-            <description><![CDATA[1271 points | <a href=https://news.ycombinator.com/item?id=31743110 target=_blank>349 comments</a>]]></description>
+            <description><![CDATA[1278 points | <a href=https://news.ycombinator.com/item?id=31743110 target=_blank>351 comments</a>]]></description>
             <pubDate>2022-06-14T17:43:58.000Z</pubDate>
             <guid isPermaLink="false">https://www.hertzbleed.com/</guid>
             <link>https://www.hertzbleed.com/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Firefox rolls out Total Cookie Protection by default to all users]]></title>
-            <description><![CDATA[813 points | <a href=https://news.ycombinator.com/item?id=31738975 target=_blank>308 comments</a>]]></description>
+            <description><![CDATA[814 points | <a href=https://news.ycombinator.com/item?id=31738975 target=_blank>309 comments</a>]]></description>
             <pubDate>2022-06-14T13:16:24.000Z</pubDate>
             <guid isPermaLink="false">https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/</guid>
             <link>https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Clarus returns home in macOS Ventura]]></title>
-            <description><![CDATA[420 points | <a href=https://news.ycombinator.com/item?id=31741589 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=31741589 target=_blank>132 comments</a>]]></description>
             <pubDate>2022-06-14T16:16:06.000Z</pubDate>
             <guid isPermaLink="false">https://shadowfacts.net/2022/clarus/</guid>
             <link>https://shadowfacts.net/2022/clarus/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Amazon builds property empire, quietly buying land across the US]]></title>
-            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=31743335 target=_blank>368 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=31743335 target=_blank>370 comments</a>]]></description>
             <pubDate>2022-06-14T17:58:28.000Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows</guid>
             <link>https://www.bloomberg.com/news/features/2022-06-13/amazon-builds-property-empire-for-warehouses-even-as-online-sales-growth-slows</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Grafana releases OnCall open source project]]></title>
-            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=31740902 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=31740902 target=_blank>119 comments</a>]]></description>
             <pubDate>2022-06-14T15:28:25.000Z</pubDate>
             <guid isPermaLink="false">https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/</guid>
             <link>https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/</link>
@@ -139,22 +139,6 @@
             
             
             <author><![CDATA[netingle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Scotland starts renewed case for independence]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=31736919 target=_blank>686 comments</a>]]></description>
-            <pubDate>2022-06-14T10:29:36.000Z</pubDate>
-            <guid isPermaLink="false">https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/</guid>
-            <link>https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/</link>
-            
-            
-            
-            <author><![CDATA[binbag]]></author>
             
                 
             
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Cheat sheet for if I'm gone]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=31748553 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=31748553 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-06-15T02:43:23.000Z</pubDate>
             <guid isPermaLink="false">https://thoughtscollected.tech/posts/for-when-im-gone/</guid>
             <link>https://thoughtscollected.tech/posts/for-when-im-gone/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[protonbob]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The hunt for a cluster-killer Erlang bug]]></title>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=31746090 target=_blank>24 comments</a>]]></description>
+            <pubDate>2022-06-14T21:05:45.000Z</pubDate>
+            <guid isPermaLink="false">https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b</guid>
+            <link>https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b</link>
+            
+            
+            
+            <author><![CDATA[eproxus]]></author>
             
                 
             
