@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #568]]></title>
+        <title><![CDATA[Perl Weekly #569]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Curses::UI data viewer becomes dew]]></title>
-            <description><![CDATA[Structure data viewer got new home. Nice demo of Perl power.]]></description>
-            <pubDate>2022.06.07</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/07/cuidv-is-dew/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/06/07/cuidv-is-dew/</link>
+            <title><![CDATA[A long due interface change in skfold]]></title>
+            <description><![CDATA[Apparently this is the 900th post by Flavio. Congratulations!]]></description>
+            <pubDate>2022.06.13</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/13/skfold-long-due-change/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/13/skfold-long-due-change/</link>
             
             
             
@@ -34,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Do you want to get started with Perl v5.36?]]></title>
-            <description><![CDATA[Here is my personal journey with the latest Perl release.]]></description>
-            <pubDate>2022.06.11</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/mohammad_s_anwar/2022/06/do-you-want-to-get-started-with-perl-v536.html</guid>
-            <link>http://blogs.perl.org/users/mohammad_s_anwar/2022/06/do-you-want-to-get-started-with-perl-v536.html</link>
+            <title><![CDATA[Adopting Shame Driven Development for App::Easer]]></title>
+            <description><![CDATA[Adopting Shame Driven Development for App::Easer]]></description>
+            <pubDate>2022.06.14</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/14/shame-driven-development/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/14/shame-driven-development/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Taint in Perl]]></title>
-            <description><![CDATA[Dealing with taint was always a mystery to me. In this blog, I share my experience dealing with taint in Perl.]]></description>
-            <pubDate>2022.06.09</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/mohammad_s_anwar/2022/06/taint-in-perl.html</guid>
-            <link>http://blogs.perl.org/users/mohammad_s_anwar/2022/06/taint-in-perl.html</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -66,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Memory Leak in Perl]]></title>
-            <description><![CDATA[Memory management in Perl never an issue for many. In the blog, I tried to scratch the surface.]]></description>
-            <pubDate>2022.06.08</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/mohammad_s_anwar/2022/06/memory-leak-in-perl.html</guid>
-            <link>http://blogs.perl.org/users/mohammad_s_anwar/2022/06/memory-leak-in-perl.html</link>
+            <title><![CDATA[MooseX::Extended Tutorial]]></title>
+            <description><![CDATA[MooseX::Extended Tutorial]]></description>
+            <pubDate>2022.06.15</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/ovid/2022/06/moosexextended-tutorial.html</guid>
+            <link>http://blogs.perl.org/users/ovid/2022/06/moosexextended-tutorial.html</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[curtis_ovid_poe]]></author>
             
                 
             
@@ -82,11 +66,75 @@
         </item>
         
         <item>
-            <title><![CDATA[Core Modules: filetest]]></title>
-            <description><![CDATA[Tom shared the details of filetest pragma in the light of latest Perl v5.36. A very nice introduction, not to be missed.]]></description>
-            <pubDate>2022.06.10</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/06/core-modules-filetest.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2022/06/core-modules-filetest.html</link>
+            <title><![CDATA[Job Search 2022 Update: Postscript]]></title>
+            <description><![CDATA[Before you read this post, write down how long do you think it took for GitHub, Oso, and Netflix to respond to the application of Dave Rolsky? Then go ahead and check it.]]></description>
+            <pubDate>2022.06.17</pubDate>
+            <guid isPermaLink="false">https://blog.urth.org/2022/06/17/job-search-2022-update-postscript/</guid>
+            <link>https://blog.urth.org/2022/06/17/job-search-2022-update-postscript/</link>
+            
+            
+            
+            <author><![CDATA[dave_rolsky]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Foo::Bar mystery in Strawberry Perl]]></title>
+            <description><![CDATA[The Foo::Bar mystery in Strawberry Perl]]></description>
+            <pubDate>2022.06.17</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/17/foo-bar-strawberry/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/17/foo-bar-strawberry/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A builtin::readonly?]]></title>
+            <description><![CDATA[Wondering whether builtin::readonly will ever appear.]]></description>
+            <pubDate>2022.06.18</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/18/builtin-readonly/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/18/builtin-readonly/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App::Easer V2 is out... and can be improved!]]></title>
+            <description><![CDATA[App::Easer V2 is out... and can be improved!]]></description>
+            <pubDate>2022.06.19</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/19/app-easer-v2-is-out/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/19/app-easer-v2-is-out/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My Favorite Modules: File::stat]]></title>
+            <description><![CDATA[My Favorite Modules: File::stat]]></description>
+            <pubDate>2022.06.17</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/06/my-favorite-modules-filestat.html</guid>
+            <link>http://blogs.perl.org/users/tom_wyant/2022/06/my-favorite-modules-filestat.html</link>
             
             
             
@@ -98,31 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Entering the Charts]]></title>
-            <description><![CDATA[Kephra presenting Charts for Perl fans. Please checkout the blog for the ground work behind it. Well done.]]></description>
-            <pubDate>2022.06.08</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/lichtkind/2022/06/entering-the-charts.html</guid>
-            <link>http://blogs.perl.org/users/lichtkind/2022/06/entering-the-charts.html</link>
+            <title><![CDATA[Decode Hexdump]]></title>
+            <description><![CDATA[Decode Hexdump]]></description>
+            <pubDate>2022.06.18</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/decode-hexdump/</guid>
+            <link>https://theweeklychallenge.org/blog/decode-hexdump/</link>
             
             
             
-            <author><![CDATA[herbert_breunung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mojo::IOLoop likes running programs asynchronously]]></title>
-            <description><![CDATA[Mojo::IOLoop likes running programs asynchronously]]></description>
-            <pubDate>2022.06.12</pubDate>
-            <guid isPermaLink="false">https://thorsen.pm/blog/2022-06-12/mojo-ioloop-and-subprocesses</guid>
-            <link>https://thorsen.pm/blog/2022-06-12/mojo-ioloop-and-subprocesses</link>
-            
-            
-            
-            <author><![CDATA[jan_henning_thorsen]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -130,31 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Cleaner code with perl 5.36 and defer]]></title>
-            <description><![CDATA[Cleaner code with perl 5.36 and defer]]></description>
-            <pubDate>2022.06.06</pubDate>
-            <guid isPermaLink="false">https://www.cattlegrid.info/cleaner-code-with-perl-536-and-defer</guid>
-            <link>https://www.cattlegrid.info/cleaner-code-with-perl-536-and-defer</link>
+            <title><![CDATA[Dancer2: Show errors during development]]></title>
+            <description><![CDATA[Dancer2: Show errors during development]]></description>
+            <pubDate>2022.06.20</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-show-errors-during-development</guid>
+            <link>https://perlmaven.com/dancer2-show-errors-during-development</link>
             
             
             
-            <author><![CDATA[michele_beltrame]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2022.23 Learly Release]]></title>
-            <description><![CDATA[2022.23 Learly Release]]></description>
-            <pubDate>2022.06.06</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/06/06/2022-23-learly-release/</guid>
-            <link>https://rakudoweekly.blog/2022/06/06/2022-23-learly-release/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -163,14 +179,30 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/06/dx-metacpan-weekly-report-logger.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/06/dxxxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.06.11</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/06/cccxcvii-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/06/dxi-metacpan-weekly-report-test2suite.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/06/dxxxix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.05</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl IDE Hackathon 2022]]></title>
+            <description><![CDATA[On Tuesday 21st June there will be a Perl IDE Hackathon in the Hackathon room at The Perl and Raku Conference. You can also participate in this event remotely.]]></description>
+            <pubDate>2022.06.14</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/dean/2022/06/perl-ide-hackathon-2022.html</guid>
+            <link>http://blogs.perl.org/users/dean/2022/06/perl-ide-hackathon-2022.html</link>
+            
+            
+            
+            <author><![CDATA[dean_hamstead]]></author>
             
                 
             
