@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[HDMI Firewall]]></title>
-            <description><![CDATA[485 points | <a href=https://news.ycombinator.com/item?id=31828193 target=_blank>156 comments</a>]]></description>
-            <pubDate>2022-06-21T19:38:00.000Z</pubDate>
-            <guid isPermaLink="false">https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</guid>
-            <link>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Tailscale SSH]]></title>
-            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=31837115 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=31837115 target=_blank>144 comments</a>]]></description>
             <pubDate>2022-06-22T15:14:32.000Z</pubDate>
             <guid isPermaLink="false">https://tailscale.com/blog/tailscale-ssh/</guid>
             <link>https://tailscale.com/blog/tailscale-ssh/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Why is Apache clinging to OpenOffice?]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=31836293 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=31836293 target=_blank>284 comments</a>]]></description>
             <pubDate>2022-06-22T14:19:29.000Z</pubDate>
             <guid isPermaLink="false">https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/</guid>
             <link>https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Crafting Interpreters: A Review]]></title>
-            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=31835818 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=31835818 target=_blank>88 comments</a>]]></description>
             <pubDate>2022-06-22T13:36:09.000Z</pubDate>
             <guid isPermaLink="false">https://chidiwilliams.com/post/crafting-interpreters-a-review/</guid>
             <link>https://chidiwilliams.com/post/crafting-interpreters-a-review/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Brave Search passes 2.5B queries, allows users to choose search rankings]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=31837865 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=31837865 target=_blank>194 comments</a>]]></description>
             <pubDate>2022-06-22T16:07:01.000Z</pubDate>
             <guid isPermaLink="false">https://brave.com/search-anniversary/</guid>
             <link>https://brave.com/search-anniversary/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[What will a Chromium-only Web look like?]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=31833561 target=_blank>304 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=31833561 target=_blank>307 comments</a>]]></description>
             <pubDate>2022-06-22T09:04:11.000Z</pubDate>
             <guid isPermaLink="false">https://www.mnot.net/blog/2022/06/22/chromium-only</guid>
             <link>https://www.mnot.net/blog/2022/06/22/chromium-only</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[The end of the world is just beginning for shipping]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=31837460 target=_blank>308 comments</a>]]></description>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=31837460 target=_blank>319 comments</a>]]></description>
             <pubDate>2022-06-22T15:38:32.000Z</pubDate>
             <guid isPermaLink="false">https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/</guid>
             <link>https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[10mbps over 1km on a single pair of wires]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=31834532 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=31834532 target=_blank>152 comments</a>]]></description>
             <pubDate>2022-06-22T11:21:03.000Z</pubDate>
             <guid isPermaLink="false">https://botblox.io/products/speblox-long</guid>
             <link>https://botblox.io/products/speblox-long</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[BrandonJung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Stack Overflow Developer Survey 2022]]></title>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=31836974 target=_blank>164 comments</a>]]></description>
+            <pubDate>2022-06-22T15:05:46.000Z</pubDate>
+            <guid isPermaLink="false">https://survey.stackoverflow.co/2022/</guid>
+            <link>https://survey.stackoverflow.co/2022/</link>
+            
+            
+            
+            <author><![CDATA[klez]]></author>
             
                 
             
