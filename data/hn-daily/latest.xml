@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Cloudflare had a partial outage]]></title>
-            <description><![CDATA[711 points | <a href=https://news.ycombinator.com/item?id=31820635 target=_blank>413 comments</a>]]></description>
+            <description><![CDATA[713 points | <a href=https://news.ycombinator.com/item?id=31820635 target=_blank>414 comments</a>]]></description>
             <pubDate>2022-06-21T06:37:35.000Z</pubDate>
             <guid isPermaLink="false">https://www.cloudflare.com/</guid>
             <link>https://www.cloudflare.com/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[One-liner for running queries against CSV files with SQLite]]></title>
-            <description><![CDATA[658 points | <a href=https://news.ycombinator.com/item?id=31824030 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[674 points | <a href=https://news.ycombinator.com/item?id=31824030 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-06-21T13:59:36.000Z</pubDate>
             <guid isPermaLink="false">https://til.simonwillison.net/sqlite/one-line-csv-operations</guid>
             <link>https://til.simonwillison.net/sqlite/one-line-csv-operations</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cloudflare outage on June 21, 2022]]></title>
-            <description><![CDATA[635 points | <a href=https://news.ycombinator.com/item?id=31823132 target=_blank>209 comments</a>]]></description>
-            <pubDate>2022-06-21T12:39:30.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/</guid>
-            <link>https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/</link>
-            
-            
-            
-            <author><![CDATA[jgrahamc]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[GitHub Copilot is generally available]]></title>
-            <description><![CDATA[629 points | <a href=https://news.ycombinator.com/item?id=31825742 target=_blank>575 comments</a>]]></description>
+            <description><![CDATA[660 points | <a href=https://news.ycombinator.com/item?id=31825742 target=_blank>596 comments</a>]]></description>
             <pubDate>2022-06-21T16:23:21.000Z</pubDate>
             <guid isPermaLink="false">https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/</guid>
             <link>https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Cloudflare outage on June 21, 2022]]></title>
+            <description><![CDATA[647 points | <a href=https://news.ycombinator.com/item?id=31823132 target=_blank>213 comments</a>]]></description>
+            <pubDate>2022-06-21T12:39:30.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/</guid>
+            <link>https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/</link>
+            
+            
+            
+            <author><![CDATA[jgrahamc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[One year as a solo dev building open-source data tools without funding]]></title>
-            <description><![CDATA[533 points | <a href=https://news.ycombinator.com/item?id=31821914 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[537 points | <a href=https://news.ycombinator.com/item?id=31821914 target=_blank>110 comments</a>]]></description>
             <pubDate>2022-06-21T09:13:40.000Z</pubDate>
             <guid isPermaLink="false">https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html</guid>
             <link>https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Deno raises $21M]]></title>
-            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=31827387 target=_blank>242 comments</a>]]></description>
+            <description><![CDATA[486 points | <a href=https://news.ycombinator.com/item?id=31827387 target=_blank>259 comments</a>]]></description>
             <pubDate>2022-06-21T18:33:40.000Z</pubDate>
             <guid isPermaLink="false">https://deno.com/blog/series-a</guid>
             <link>https://deno.com/blog/series-a</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[HDMI Firewall]]></title>
-            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=31828193 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=31828193 target=_blank>108 comments</a>]]></description>
             <pubDate>2022-06-21T19:38:00.000Z</pubDate>
             <guid isPermaLink="false">https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</guid>
             <link>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[A look at search engines with their own indexes (2021)]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=31820149 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=31820149 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-06-21T05:12:53.000Z</pubDate>
             <guid isPermaLink="false">https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/</guid>
             <link>https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Show HN: Avo – Build Ruby on Rails apps faster]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=31824877 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=31824877 target=_blank>137 comments</a>]]></description>
             <pubDate>2022-06-21T15:14:02.000Z</pubDate>
             <guid isPermaLink="false">https://avohq.io/</guid>
             <link>https://avohq.io/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Laundry symbols make no sense]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=31823485 target=_blank>212 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=31823485 target=_blank>215 comments</a>]]></description>
             <pubDate>2022-06-21T13:10:55.000Z</pubDate>
             <guid isPermaLink="false">https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0</guid>
             <link>https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[allenwhsu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)]]></title>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=31828509 target=_blank>176 comments</a>]]></description>
+            <pubDate>2022-06-21T20:05:54.000Z</pubDate>
+            <guid isPermaLink="false">https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/</guid>
+            <link>https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/</link>
+            
+            
+            
+            <author><![CDATA[nabla9]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[loudtdarrow]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=31828509 target=_blank>162 comments</a>]]></description>
-            <pubDate>2022-06-21T20:05:54.000Z</pubDate>
-            <guid isPermaLink="false">https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/</guid>
-            <link>https://www.statnews.com/2019/06/25/alzheimers-cabal-thwarted-progress-toward-cure/</link>
-            
-            
-            
-            <author><![CDATA[nabla9]]></author>
             
                 
             
