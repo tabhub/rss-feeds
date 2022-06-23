@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The Grug Brained Developer]]></title>
-            <description><![CDATA[906 points | <a href=https://news.ycombinator.com/item?id=31840331 target=_blank>334 comments</a>]]></description>
+            <description><![CDATA[909 points | <a href=https://news.ycombinator.com/item?id=31840331 target=_blank>334 comments</a>]]></description>
             <pubDate>2022-06-22T19:00:18.000Z</pubDate>
             <guid isPermaLink="false">https://grugbrain.dev/</guid>
             <link>https://grugbrain.dev/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[YaLM-100B: Pretrained language model with 100B parameters]]></title>
-            <description><![CDATA[577 points | <a href=https://news.ycombinator.com/item?id=31846593 target=_blank>448 comments</a>]]></description>
+            <description><![CDATA[589 points | <a href=https://news.ycombinator.com/item?id=31846593 target=_blank>462 comments</a>]]></description>
             <pubDate>2022-06-23T09:00:26.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/yandex/YaLM-100B</guid>
             <link>https://github.com/yandex/YaLM-100B</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Brave Search Goggles: Alter search rankings with rules and filters]]></title>
-            <description><![CDATA[467 points | <a href=https://news.ycombinator.com/item?id=31837986 target=_blank>83 comments</a>]]></description>
-            <pubDate>2022-06-22T16:16:57.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/brave/goggles-quickstart</guid>
-            <link>https://github.com/brave/goggles-quickstart</link>
-            
-            
-            
-            <author><![CDATA[llevert]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Copilot sells code other people wrote]]></title>
-            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=31846543 target=_blank>530 comments</a>]]></description>
+            <description><![CDATA[463 points | <a href=https://news.ycombinator.com/item?id=31846543 target=_blank>547 comments</a>]]></description>
             <pubDate>2022-06-23T08:48:46.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/ReinH/status/1539626662274269185</guid>
             <link>https://twitter.com/ReinH/status/1539626662274269185</link>
@@ -82,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Twitter Notes]]></title>
-            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=31838049 target=_blank>294 comments</a>]]></description>
-            <pubDate>2022-06-22T16:21:42.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/TwitterWrite/status/1539640956915290112</guid>
-            <link>https://twitter.com/TwitterWrite/status/1539640956915290112</link>
-            
-            
-            
-            <author><![CDATA[yellow_lead]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Introducing PyScript (summary of PyCon keynote)]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=31843996 target=_blank>212 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=31843996 target=_blank>214 comments</a>]]></description>
             <pubDate>2022-06-23T01:12:06.000Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/SubscriberLink/898452/357b195db1ecce28/</guid>
             <link>https://lwn.net/SubscriberLink/898452/357b195db1ecce28/</link>
@@ -114,40 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Brave Search passes 2.5B queries, allows users to choose search rankings]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=31837865 target=_blank>336 comments</a>]]></description>
-            <pubDate>2022-06-22T16:07:01.000Z</pubDate>
-            <guid isPermaLink="false">https://brave.com/search-anniversary/</guid>
-            <link>https://brave.com/search-anniversary/</link>
-            
-            
-            
-            <author><![CDATA[quick_brown_fox]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dolt is Git for Data]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=31847416 target=_blank>95 comments</a>]]></description>
-            <pubDate>2022-06-23T11:04:44.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/dolthub/dolt</guid>
-            <link>https://github.com/dolthub/dolt</link>
-            
-            
-            
-            <author><![CDATA[gjvc]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=31848499 target=_blank>173 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=31848499 target=_blank>185 comments</a>]]></description>
             <pubDate>2022-06-23T13:05:47.000Z</pubDate>
             <guid isPermaLink="false">https://www.phoronix.com/scan.php?page=news_item&#38;px=Rust-For-Linux-5.20-Possible</guid>
             <link>https://www.phoronix.com/scan.php?page=news_item&#38;px=Rust-For-Linux-5.20-Possible</link>
@@ -162,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Permissive forwarding rule leads to unintentional exposure of containers (2021)]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=31839936 target=_blank>170 comments</a>]]></description>
-            <pubDate>2022-06-22T18:31:33.000Z</pubDate>
-            <guid isPermaLink="false">https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632</guid>
-            <link>https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632</link>
+            <title><![CDATA[Dolt is Git for Data]]></title>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=31847416 target=_blank>98 comments</a>]]></description>
+            <pubDate>2022-06-23T11:04:44.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/dolthub/dolt</guid>
+            <link>https://github.com/dolthub/dolt</link>
             
             
             
-            <author><![CDATA[password4321]]></author>
+            <author><![CDATA[gjvc]]></author>
             
                 
             
@@ -179,7 +115,7 @@
         
         <item>
             <title><![CDATA[Repurposing an old Android phone as a web server]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=31841051 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=31841051 target=_blank>112 comments</a>]]></description>
             <pubDate>2022-06-22T19:55:50.000Z</pubDate>
             <guid isPermaLink="false">https://lbrito1.github.io/blog/2020/02/repurposing-android.html</guid>
             <link>https://lbrito1.github.io/blog/2020/02/repurposing-android.html</link>
@@ -194,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Permissive forwarding rule leads to unintentional exposure of containers (2021)]]></title>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=31839936 target=_blank>171 comments</a>]]></description>
+            <pubDate>2022-06-22T18:31:33.000Z</pubDate>
+            <guid isPermaLink="false">https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632</guid>
+            <link>https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632</link>
+            
+            
+            
+            <author><![CDATA[password4321]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[New Tolkien book, The Fall of Númenor, to be published]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=31845968 target=_blank>246 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=31845968 target=_blank>256 comments</a>]]></description>
             <pubDate>2022-06-23T07:00:09.000Z</pubDate>
             <guid isPermaLink="false">https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/</guid>
             <link>https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/</link>
@@ -203,6 +155,54 @@
             
             
             <author><![CDATA[taubek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[7-zip 22.00 – APFS, Posix TAR, high precision timestamps]]></title>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=31845829 target=_blank>119 comments</a>]]></description>
+            <pubDate>2022-06-23T06:35:33.000Z</pubDate>
+            <guid isPermaLink="false">https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/</guid>
+            <link>https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/</link>
+            
+            
+            
+            <author><![CDATA[Sami_Lehtinen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Random Ultima Online anecdote #2 – Horses inside players (2014)]]></title>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=31844479 target=_blank>103 comments</a>]]></description>
+            <pubDate>2022-06-23T02:22:26.000Z</pubDate>
+            <guid isPermaLink="false">https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/</guid>
+            <link>https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/</link>
+            
+            
+            
+            <author><![CDATA[nieve]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Investigating the effects of bike lanes in Minneapolis]]></title>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=31848253 target=_blank>165 comments</a>]]></description>
+            <pubDate>2022-06-23T12:44:10.000Z</pubDate>
+            <guid isPermaLink="false">https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/</guid>
+            <link>https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/</link>
+            
+            
+            
+            <author><![CDATA[Cenk]]></author>
             
                 
             
