@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Things to know about databases]]></title>
-            <description><![CDATA[631 points | <a href=https://news.ycombinator.com/item?id=31895623 target=_blank>204 comments</a>]]></description>
+            <description><![CDATA[634 points | <a href=https://news.ycombinator.com/item?id=31895623 target=_blank>204 comments</a>]]></description>
             <pubDate>2022-06-27T15:08:58.000Z</pubDate>
             <guid isPermaLink="false">https://architecturenotes.co/things-you-should-know-about-databases/</guid>
             <link>https://architecturenotes.co/things-you-should-know-about-databases/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Detecting unauthorized physical access with beans, lentils and colored rice]]></title>
-            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=31897530 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=31897530 target=_blank>85 comments</a>]]></description>
             <pubDate>2022-06-27T17:10:25.000Z</pubDate>
             <guid isPermaLink="false">https://dys2p.com/en/2021-12-tamper-evident-protection.html</guid>
             <link>https://dys2p.com/en/2021-12-tamper-evident-protection.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple's claim is that it bans other browsers for security]]></title>
-            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=31894690 target=_blank>528 comments</a>]]></description>
+            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=31894690 target=_blank>528 comments</a>]]></description>
             <pubDate>2022-06-27T14:00:05.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/OpenWebAdvocacy/status/1541318055636369409</guid>
             <link>https://twitter.com/OpenWebAdvocacy/status/1541318055636369409</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Three Arrows Capital has defaulted on a loan worth more than $670M]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=31895820 target=_blank>259 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=31895820 target=_blank>259 comments</a>]]></description>
             <pubDate>2022-06-27T15:21:27.000Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html</guid>
             <link>https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: PRQL 0.2 – a better SQL]]></title>
-            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=31897430 target=_blank>150 comments</a>]]></description>
-            <pubDate>2022-06-27T17:03:33.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/prql/prql</guid>
-            <link>https://github.com/prql/prql</link>
-            
-            
-            
-            <author><![CDATA[maximilianroos]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch]]></title>
-            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=31903076 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=31903076 target=_blank>67 comments</a>]]></description>
             <pubDate>2022-06-28T01:27:52.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/kuprel/min-dalle</guid>
             <link>https://github.com/kuprel/min-dalle</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: PRQL 0.2 – a better SQL]]></title>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=31897430 target=_blank>150 comments</a>]]></description>
+            <pubDate>2022-06-27T17:03:33.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/prql/prql</guid>
+            <link>https://github.com/prql/prql</link>
+            
+            
+            
+            <author><![CDATA[maximilianroos]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Meta is inviting researchers to pick apart the flaws in its version of GPT-3]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=31897101 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=31897101 target=_blank>166 comments</a>]]></description>
             <pubDate>2022-06-27T16:41:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/</guid>
             <link>https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[The PocketReform is a made-in-Berlin Linux handheld]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=31903480 target=_blank>95 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=31903480 target=_blank>98 comments</a>]]></description>
             <pubDate>2022-06-28T02:36:22.000Z</pubDate>
             <guid isPermaLink="false">https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/</guid>
             <link>https://tuxphones.com/mnt-pocketreform-open-hardware-linux-pda-keyboard-arm/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Open Food Facts – a food products database made by everyone, for everyone]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=31898218 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=31898218 target=_blank>46 comments</a>]]></description>
             <pubDate>2022-06-27T17:59:08.000Z</pubDate>
             <guid isPermaLink="false">https://world.openfoodfacts.org</guid>
             <link>https://world.openfoodfacts.org</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Wasting time in tech interviews]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=31898454 target=_blank>221 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=31898454 target=_blank>221 comments</a>]]></description>
             <pubDate>2022-06-27T18:15:35.000Z</pubDate>
             <guid isPermaLink="false">https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html</guid>
             <link>https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html</link>
