@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #570]]></title>
+        <title><![CDATA[Perl Weekly #571]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[A troubling thought - smartmatch reïmagined]]></title>
-            <description><![CDATA[Nice discussion around smartmatch, something I only found out recently. Thank you Paul for the inside story.]]></description>
-            <pubDate>2022.06.25</pubDate>
-            <guid isPermaLink="false">https://leonerds-code.blogspot.com/2022/06/a-troubling-thought-smartmatch.html</guid>
-            <link>https://leonerds-code.blogspot.com/2022/06/a-troubling-thought-smartmatch.html</link>
+            <title><![CDATA[CPAN::Audit]]></title>
+            <description><![CDATA[brian d foy writes: We've revitalized CPAN::Audit. It's a tool that can scan your installed modules for known security issues. It's all at <a href="https://github.com/briandfoy/cpan-audit">cpan-audit</a>.  Along with that, I'm soliciting people to sign the keys that I use to sign the data that we distribute. Since this is security software, we want people to trust the data that we are giving them. Just follow the <a href="https://github.com/briandfoy/cpan-audit/blob/master/GPG_README.md">instructions</a>]]></description>
+            <pubDate>2022.06.27</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/pod/CPAN::Audit</guid>
+            <link>https://metacpan.org/pod/CPAN::Audit</link>
             
             
             
-            <author><![CDATA[paul_evans]]></author>
+            <author><![CDATA[brian_d_foy]]></author>
             
                 
             
@@ -34,11 +34,59 @@
         </item>
         
         <item>
-            <title><![CDATA[A skfold module for Mojolicious applications]]></title>
-            <description><![CDATA[Cool introduction to skfold for all Mojolicious fan. Thank you Flavio.]]></description>
+            <title><![CDATA[Corinna Status, 2022]]></title>
+            <description><![CDATA[Ovid talking about OO systems and Corinna]]></description>
             <pubDate>2022.06.24</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/24/skfold-module-mojo/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/06/24/skfold-module-mojo/</link>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=5lSdBSCkFGs</guid>
+            <link>https://www.youtube.com/watch?v=5lSdBSCkFGs</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Installing Perl dependencies based on your Perl version in Github Actions]]></title>
+            <description><![CDATA[A short introduction to 'YAML development'.]]></description>
+            <pubDate>2022.06.23</pubDate>
+            <guid isPermaLink="false">https://simbabque.github.io/posts/install-perl-version-depedencies-github-workflow/</guid>
+            <link>https://simbabque.github.io/posts/install-perl-version-depedencies-github-workflow/</link>
+            
+            
+            
+            <author><![CDATA[simbabque]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Do you have Perl question?]]></title>
+            <description><![CDATA[Is here any run-time penalty for copying the content of @_ in a function-call? What about using getter/setter methods?]]></description>
+            <pubDate>2022.06.29</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/perl-question/</guid>
+            <link>https://theweeklychallenge.org/blog/perl-question/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OATH Toolkit]]></title>
+            <description><![CDATA[Flavio discovered that there are a couple of CPAN modules to help with OATH stuff... like App::OATH and Authen::OATH, which are worth investigating.]]></description>
+            <pubDate>2022.06.28</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/06/28/oath-toolkit/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/06/28/oath-toolkit/</link>
             
             
             
@@ -50,31 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Compiling Libraries for Strawberry Perl]]></title>
-            <description><![CDATA[Ever wanted to compile libraries on Windows using Strawberry Perl? Well this can help you get started if you are inclined.]]></description>
-            <pubDate>2022.06.24</pubDate>
-            <guid isPermaLink="false">http://blog.laufeyjarson.com/2022/06/compiling-libraries-for-strawberry-perl/</guid>
-            <link>http://blog.laufeyjarson.com/2022/06/compiling-libraries-for-strawberry-perl/</link>
+            <title><![CDATA[Reverse printing the QR Code in the terminal]]></title>
+            <description><![CDATA[Reverse printing the QR Code in the terminal]]></description>
+            <pubDate>2022.07.01</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/01/cmdline-qrcode-update/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/07/01/cmdline-qrcode-update/</link>
             
             
             
-            <author><![CDATA[laufeyjarson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Annotated Perl::Critic Policy Index]]></title>
-            <description><![CDATA[Tom gathered Perl::Critic policies in one place for all of us. Good job.]]></description>
-            <pubDate>2022.06.24</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/06/annotated-perlcritic-policy-index.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2022/06/annotated-perlcritic-policy-index.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -82,15 +114,31 @@
         </item>
         
         <item>
-            <title><![CDATA[2022.25 We Will Raku!]]></title>
-            <description><![CDATA[2022.25 We Will Raku!]]></description>
-            <pubDate>2022.06.20</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/06/20/2022-25-we-will-raku/</guid>
-            <link>https://rakudoweekly.blog/2022/06/20/2022-25-we-will-raku/</link>
+            <title><![CDATA[Mite: an OO compiler for Perl]]></title>
+            <description><![CDATA[Mite is a OO system for Perl created 10 years ago by Michael Schwern. It is developed and maintained by Toby Inkster. It allows you to write Moose-like OOP code and compile it to code without dependencies.]]></description>
+            <pubDate>2022.07.02</pubDate>
+            <guid isPermaLink="false">https://dev.to/tobyink/mite-an-oo-compiler-for-perl-b70</guid>
+            <link>https://dev.to/tobyink/mite-an-oo-compiler-for-perl-b70</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[toby_inkster]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2: Route parameters and sending 404 manually]]></title>
+            <description><![CDATA[Dancer2: Route parameters and sending 404 manually]]></description>
+            <pubDate>2022.07.04</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-route-parameters</guid>
+            <link>https://perlmaven.com/dancer2-route-parameters</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -99,30 +147,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/06/cccxcviii-12-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/06/dxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/06/dxl-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.06.26</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/07/cccxcix-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/07/dxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/07/dxli-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.07.02</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2: Logging]]></title>
-            <description><![CDATA[Dancer2: Logging]]></description>
-            <pubDate>2022.06.27</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-logging</guid>
-            <link>https://perlmaven.com/dancer2-logging</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
