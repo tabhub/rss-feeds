@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Glassdoor not so anonymous]]></title>
-            <description><![CDATA[1085 points | <a href=https://news.ycombinator.com/item?id=32146082 target=_blank>457 comments</a>]]></description>
+            <description><![CDATA[1086 points | <a href=https://news.ycombinator.com/item?id=32146082 target=_blank>458 comments</a>]]></description>
             <pubDate>2022-07-19T00:52:13.000Z</pubDate>
             <guid isPermaLink="false">https://www.webworm.co/p/glassdoor</guid>
             <link>https://www.webworm.co/p/glassdoor</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Intel Microcode Decryptor]]></title>
-            <description><![CDATA[817 points | <a href=https://news.ycombinator.com/item?id=32148318 target=_blank>207 comments</a>]]></description>
+            <description><![CDATA[817 points | <a href=https://news.ycombinator.com/item?id=32148318 target=_blank>208 comments</a>]]></description>
             <pubDate>2022-07-19T06:52:10.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/h0t_max/status/1549155542786080774</guid>
             <link>https://twitter.com/h0t_max/status/1549155542786080774</link>
@@ -66,6 +66,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Carbon Language: An experimental successor to C++]]></title>
+            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=32151609 target=_blank>359 comments</a>]]></description>
+            <pubDate>2022-07-19T14:05:02.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/carbon-language/carbon-lang</guid>
+            <link>https://github.com/carbon-language/carbon-lang</link>
+            
+            
+            
+            <author><![CDATA[slimsag]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens]]></title>
             <description><![CDATA[378 points | <a href=https://news.ycombinator.com/item?id=32152143 target=_blank>473 comments</a>]]></description>
             <pubDate>2022-07-19T14:36:45.000Z</pubDate>
@@ -82,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Carbon Language: An experimental successor to C++]]></title>
-            <description><![CDATA[376 points | <a href=https://news.ycombinator.com/item?id=32151609 target=_blank>355 comments</a>]]></description>
-            <pubDate>2022-07-19T14:05:02.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/carbon-language/carbon-lang</guid>
-            <link>https://github.com/carbon-language/carbon-lang</link>
-            
-            
-            
-            <author><![CDATA[slimsag]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Nutanix Objects violates MinIO’s open source license]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=32148007 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=32148007 target=_blank>119 comments</a>]]></description>
             <pubDate>2022-07-19T05:55:33.000Z</pubDate>
             <guid isPermaLink="false">https://blog.min.io/nutanix-objects-violates-minios-open-source-license/</guid>
             <link>https://blog.min.io/nutanix-objects-violates-minios-open-source-license/</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[gaul]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Soft deletion probably isn't worth it]]></title>
+            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=32156009 target=_blank>284 comments</a>]]></description>
+            <pubDate>2022-07-19T18:35:39.000Z</pubDate>
+            <guid isPermaLink="false">https://brandur.org/soft-deletion</guid>
+            <link>https://brandur.org/soft-deletion</link>
+            
+            
+            
+            <author><![CDATA[lfittl]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Soft deletion probably isn't worth it]]></title>
-            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=32156009 target=_blank>273 comments</a>]]></description>
-            <pubDate>2022-07-19T18:35:39.000Z</pubDate>
-            <guid isPermaLink="false">https://brandur.org/soft-deletion</guid>
-            <link>https://brandur.org/soft-deletion</link>
-            
-            
-            
-            <author><![CDATA[lfittl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Intel Microcode Decryptor]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=32145324 target=_blank>7 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=32145324 target=_blank>7 comments</a>]]></description>
             <pubDate>2022-07-18T23:11:52.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/chip-red-pill/MicrocodeDecryptor</guid>
             <link>https://github.com/chip-red-pill/MicrocodeDecryptor</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Show HN: I made some ambient music generators that run in your browser]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=32149989 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=32149989 target=_blank>97 comments</a>]]></description>
             <pubDate>2022-07-19T11:17:11.000Z</pubDate>
             <guid isPermaLink="false">https://www.flowful.app</guid>
             <link>https://www.flowful.app</link>
