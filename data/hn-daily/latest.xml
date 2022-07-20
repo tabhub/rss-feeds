@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Glassdoor not so anonymous]]></title>
-            <description><![CDATA[1086 points | <a href=https://news.ycombinator.com/item?id=32146082 target=_blank>458 comments</a>]]></description>
+            <description><![CDATA[1092 points | <a href=https://news.ycombinator.com/item?id=32146082 target=_blank>459 comments</a>]]></description>
             <pubDate>2022-07-19T00:52:13.000Z</pubDate>
             <guid isPermaLink="false">https://www.webworm.co/p/glassdoor</guid>
             <link>https://www.webworm.co/p/glassdoor</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Intel Microcode Decryptor]]></title>
-            <description><![CDATA[817 points | <a href=https://news.ycombinator.com/item?id=32148318 target=_blank>209 comments</a>]]></description>
+            <description><![CDATA[817 points | <a href=https://news.ycombinator.com/item?id=32148318 target=_blank>217 comments</a>]]></description>
             <pubDate>2022-07-19T06:52:10.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/h0t_max/status/1549155542786080774</guid>
             <link>https://twitter.com/h0t_max/status/1549155542786080774</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[FCC: TikTok is unacceptable security risk and should be removed from app stores]]></title>
-            <description><![CDATA[811 points | <a href=https://news.ycombinator.com/item?id=32148218 target=_blank>790 comments</a>]]></description>
+            <description><![CDATA[812 points | <a href=https://news.ycombinator.com/item?id=32148218 target=_blank>795 comments</a>]]></description>
             <pubDate>2022-07-19T06:31:12.000Z</pubDate>
             <guid isPermaLink="false">https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/</guid>
             <link>https://blog.malwarebytes.com/privacy-2/2022/07/tiktok-is-unacceptable-security-risk-and-should-be-removed-from-app-stores-says-fcc/</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Soft deletion probably isn't worth it]]></title>
+            <description><![CDATA[426 points | <a href=https://news.ycombinator.com/item?id=32156009 target=_blank>327 comments</a>]]></description>
+            <pubDate>2022-07-19T18:35:39.000Z</pubDate>
+            <guid isPermaLink="false">https://brandur.org/soft-deletion</guid>
+            <link>https://brandur.org/soft-deletion</link>
+            
+            
+            
+            <author><![CDATA[lfittl]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Carbon Language: An experimental successor to C++]]></title>
-            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=32151609 target=_blank>361 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=32151609 target=_blank>370 comments</a>]]></description>
             <pubDate>2022-07-19T14:05:02.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/carbon-language/carbon-lang</guid>
             <link>https://github.com/carbon-language/carbon-lang</link>
@@ -83,7 +99,7 @@
         
         <item>
             <title><![CDATA[Germany to Rethink Nuclear Shutdown as Energy Crisis Deepens]]></title>
-            <description><![CDATA[378 points | <a href=https://news.ycombinator.com/item?id=32152143 target=_blank>473 comments</a>]]></description>
+            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=32152143 target=_blank>477 comments</a>]]></description>
             <pubDate>2022-07-19T14:36:45.000Z</pubDate>
             <guid isPermaLink="false">https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/</guid>
             <link>https://climatechangedispatch.com/germany-to-rethink-nuclear-shutdown-as-energy-crisis-deepens/</link>
@@ -99,7 +115,7 @@
         
         <item>
             <title><![CDATA[Nutanix Objects violates MinIO’s open source license]]></title>
-            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=32148007 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=32148007 target=_blank>122 comments</a>]]></description>
             <pubDate>2022-07-19T05:55:33.000Z</pubDate>
             <guid isPermaLink="false">https://blog.min.io/nutanix-objects-violates-minios-open-source-license/</guid>
             <link>https://blog.min.io/nutanix-objects-violates-minios-open-source-license/</link>
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Soft deletion probably isn't worth it]]></title>
-            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=32156009 target=_blank>286 comments</a>]]></description>
-            <pubDate>2022-07-19T18:35:39.000Z</pubDate>
-            <guid isPermaLink="false">https://brandur.org/soft-deletion</guid>
-            <link>https://brandur.org/soft-deletion</link>
-            
-            
-            
-            <author><![CDATA[lfittl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[To download from Google Drive, you must enable third party cookies?]]></title>
-            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=32148463 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=32148463 target=_blank>147 comments</a>]]></description>
             <pubDate>2022-07-19T07:19:30.000Z</pubDate>
             <guid isPermaLink="false">https://support.google.com/drive/answer/2423534?hl=en&#38;co=GENIE.Platform%3DDesktop</guid>
             <link>https://support.google.com/drive/answer/2423534?hl=en&#38;co=GENIE.Platform%3DDesktop</link>
@@ -146,40 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Intel Microcode Decryptor]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=32145324 target=_blank>7 comments</a>]]></description>
-            <pubDate>2022-07-18T23:11:52.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/chip-red-pill/MicrocodeDecryptor</guid>
-            <link>https://github.com/chip-red-pill/MicrocodeDecryptor</link>
-            
-            
-            
-            <author><![CDATA[bfoks]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[See Thru Jet Engine [video]]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=32145297 target=_blank>68 comments</a>]]></description>
-            <pubDate>2022-07-18T23:09:59.000Z</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=MgL0GW248mE</guid>
-            <link>https://www.youtube.com/watch?v=MgL0GW248mE</link>
-            
-            
-            
-            <author><![CDATA[clouddrover]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[America’s favorite family outings are increasingly out of reach]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=32151044 target=_blank>526 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=32151044 target=_blank>532 comments</a>]]></description>
             <pubDate>2022-07-19T13:20:49.000Z</pubDate>
             <guid isPermaLink="false">https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/</guid>
             <link>https://thehustle.co/americas-favorite-family-outings-are-increasingly-out-of-reach/</link>
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[Show HN: I made some ambient music generators that run in your browser]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=32149989 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=32149989 target=_blank>101 comments</a>]]></description>
             <pubDate>2022-07-19T11:17:11.000Z</pubDate>
             <guid isPermaLink="false">https://www.flowful.app</guid>
             <link>https://www.flowful.app</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[printscreen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Runway melts at London Luton airport as temperatures in UK near 40°C]]></title>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=32151868 target=_blank>339 comments</a>]]></description>
+            <pubDate>2022-07-19T14:20:04.000Z</pubDate>
+            <guid isPermaLink="false">https://www.dailytelegraph.com.au/news/world/runway-melts-at-london-luton-airport-has-temperatures-in-uk-near-40c/news-story/d7266194145cda7949f2af1c243e9065</guid>
+            <link>https://www.dailytelegraph.com.au/news/world/runway-melts-at-london-luton-airport-has-temperatures-in-uk-near-40c/news-story/d7266194145cda7949f2af1c243e9065</link>
+            
+            
+            
+            <author><![CDATA[russfink]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Brazilian Amazon lost 18 trees per second in 2021]]></title>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=32151007 target=_blank>201 comments</a>]]></description>
+            <pubDate>2022-07-19T13:16:55.000Z</pubDate>
+            <guid isPermaLink="false">https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml</guid>
+            <link>https://www.batimes.com.ar/news/latin-america/brazilian-amazon-lost-18-trees-per-second-in-2021.phtml</link>
+            
+            
+            
+            <author><![CDATA[carride]]></author>
             
                 
             
