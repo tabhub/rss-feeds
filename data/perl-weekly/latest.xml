@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #573]]></title>
+        <title><![CDATA[Perl Weekly #575]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,27 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl Community on Twitter]]></title>
-            <description><![CDATA[A while ago Twitter created a feature called 'communities' and now Mark Gardner has one for the Perl Community. Not only that, there are already more than 300 members. So if you are a Twitter user, join the community now!]]></description>
-            <pubDate>2022.07.17</pubDate>
-            <guid isPermaLink="false">https://twitter.com/i/communities/1471579416216145924</guid>
-            <link>https://twitter.com/i/communities/1471579416216145924</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ETOOBUSY on Codeberg]]></title>
-            <description><![CDATA[You know, you can create a static blog on GitHub pages or Codeberg and you hardly need to do anything. And it is fun.]]></description>
-            <pubDate>2022.07.12</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/12/etoobusy-on-codeberg/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/07/12/etoobusy-on-codeberg/</link>
+            <title><![CDATA[Cryptopals 3 - Single-byte XOR cipher]]></title>
+            <description><![CDATA[Cryptopals 3 - Single-byte XOR cipher]]></description>
+            <pubDate>2022.07.25</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/25/cryptopals-03/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/07/25/cryptopals-03/</link>
             
             
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[App::Easer validations]]></title>
-            <description><![CDATA[Why did I think that this is about Easter? Anyway, Falvio thought that he could get away with sloppyness, but could not. You see that's the problem with open source :-)]]></description>
-            <pubDate>2022.07.16</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/16/app-easer-validations/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/07/16/app-easer-validations/</link>
+            <title><![CDATA[Cryptopals 4 - Detect single-character XOR]]></title>
+            <description><![CDATA[Cryptopals 4 - Detect single-character XOR]]></description>
+            <pubDate>2022.07.26</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/26/cryptopals-04/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/07/26/cryptopals-04/</link>
             
             
             
@@ -66,59 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Case Study - Geekuni at Grant Street Group, 2022]]></title>
-            <description><![CDATA[This new case study will be helpful for any company looking to expand their Perl team - it's clear about what the challenges are!]]></description>
-            <pubDate>2022.07.15</pubDate>
-            <guid isPermaLink="false">https://geekuni.com/case-studies/grant-street</guid>
-            <link>https://geekuni.com/case-studies/grant-street</link>
-            
-            
-            
-            <author><![CDATA[andrew_solomon]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ideas from TPRC2022: Tools to help refactor large mature code bases]]></title>
-            <description><![CDATA[Ideas from TPRC2022: Tools to help refactor large mature code bases]]></description>
-            <pubDate>2022.07.17</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/dean/2022/07/ideas-from-tprc2022-tools-to-help-refactor-large-mature-code-bases.html</guid>
-            <link>http://blogs.perl.org/users/dean/2022/07/ideas-from-tprc2022-tools-to-help-refactor-large-mature-code-bases.html</link>
-            
-            
-            
-            <author><![CDATA[dean_hamstead]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Scalar Context: Lists Versus Arrays]]></title>
-            <description><![CDATA[When a function returns multiple values in LIST context, what would you like it to return in SCALAR context? You have a decision to make and it is better that you decide and not fate.]]></description>
-            <pubDate>2022.07.12</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/07/scalar-context-lists-versus-arrays.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2022/07/scalar-context-lists-versus-arrays.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Codeberg Pages - Custom domains]]></title>
-            <description><![CDATA[Codeberg Pages - Custom domains]]></description>
-            <pubDate>2022.07.18</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/18/codeberg-pages-domains/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/07/18/codeberg-pages-domains/</link>
+            <title><![CDATA[Cryptopals 5 - Implementing repeated-key XOR]]></title>
+            <description><![CDATA[Cryptopals 5 - Implementing repeated-key XOR]]></description>
+            <pubDate>2022.07.29</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/29/cryptopals-05/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/07/29/cryptopals-05/</link>
             
             
             
@@ -130,11 +66,43 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancer2: More route parameters]]></title>
-            <description><![CDATA[Another episode from the <a href="https://perlmaven.com/dancer2-more-route-parameters">Dancer 2</a> series.]]></description>
-            <pubDate>2022.07.17</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-more-route-parameters</guid>
-            <link>https://perlmaven.com/dancer2-more-route-parameters</link>
+            <title><![CDATA[Cryptopals 6 - Break repeated-key XOR]]></title>
+            <description><![CDATA[Cryptopals 6 - Break repeated-key XOR]]></description>
+            <pubDate>2022.07.30</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/30/cryptopals-06/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/07/30/cryptopals-06/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AES is doable]]></title>
+            <description><![CDATA[AES is Advanced Encryption Standard]]></description>
+            <pubDate>2022.07.31</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/07/31/aes-is-doable/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/07/31/aes-is-doable/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2: Exercise 2 - Multi-Counter, Random redirection]]></title>
+            <description><![CDATA[Dancer2: Exercise 2 - Multi-Counter, Random redirection]]></description>
+            <pubDate>2022.07.31</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-exercise-2</guid>
+            <link>https://perlmaven.com/dancer2-exercise-2</link>
             
             
             
@@ -146,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/07/cdi-3-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/07/dxv-metacpan-weekly-report-objectpad.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/07/dxliii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.07.16</pubDate>
-            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
-            <link>http://niceperl.blogspot.com/</link>
+            <title><![CDATA[Rakudo compiler, Release #157 (2022.07)]]></title>
+            <description><![CDATA[Rakudo compiler, Release #157 (2022.07)]]></description>
+            <pubDate>2022.07.31</pubDate>
+            <guid isPermaLink="false">https://rakudo.org/post/announce-rakudo-release-2022.07</guid>
+            <link>https://rakudo.org/post/announce-rakudo-release-2022.07</link>
             
             
             
-            <author><![CDATA[miguel_prz]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -162,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Rabbi Sacks on the Holocaust]]></title>
-            <description><![CDATA[I recently watched this series of YouTube videos. It made me think about a lot of unrelated things that's going on in the world today.]]></description>
-            <pubDate>2022.07.17</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=Ltz8FYy3tBs&#38;list=PLLhNqwqU_BMsH1SCoS7Wq2SpAjOLQhpxq</guid>
-            <link>https://www.youtube.com/watch?v=Ltz8FYy3tBs&#38;list=PLLhNqwqU_BMsH1SCoS7Wq2SpAjOLQhpxq</link>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/07/cdiii-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/07/dxvii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/07/dxlv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.07.30</pubDate>
+            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
+            <link>http://niceperl.blogspot.com/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
