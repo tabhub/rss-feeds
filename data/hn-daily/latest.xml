@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[What’s the strangest thing you ever found in a book?]]></title>
-            <description><![CDATA[515 points | <a href=https://news.ycombinator.com/item?id=32334552 target=_blank>212 comments</a>]]></description>
+            <description><![CDATA[530 points | <a href=https://news.ycombinator.com/item?id=32334552 target=_blank>221 comments</a>]]></description>
             <pubDate>2022-08-03T17:26:30.000Z</pubDate>
             <guid isPermaLink="false">https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/</guid>
             <link>https://noctslackv2.wordpress.com/2022/08/02/whats-the-strangest-thing-you-ever-found-in-a-book/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[I still love PHP and JavaScript]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=32325055 target=_blank>368 comments</a>]]></description>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=32325055 target=_blank>369 comments</a>]]></description>
             <pubDate>2022-08-02T22:27:29.000Z</pubDate>
             <guid isPermaLink="false">https://the.scapegoat.dev/why-i-love-php-and-javascript/</guid>
             <link>https://the.scapegoat.dev/why-i-love-php-and-javascript/</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[FauxPilot – an attempt to build a locally hosted version of GitHub Copilot]]></title>
-            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=32327711 target=_blank>66 comments</a>]]></description>
-            <pubDate>2022-08-03T04:38:11.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/moyix/fauxpilot</guid>
-            <link>https://github.com/moyix/fauxpilot</link>
-            
-            
-            
-            <author><![CDATA[fniephaus]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Hikaru Nakamura's Forbidden Platform]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=32328846 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[376 points | <a href=https://news.ycombinator.com/item?id=32328846 target=_blank>128 comments</a>]]></description>
             <pubDate>2022-08-03T07:55:35.000Z</pubDate>
             <guid isPermaLink="false">https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform</guid>
             <link>https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform</link>
@@ -91,6 +75,22 @@
             
             
             <author><![CDATA[jdthedisciple]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FauxPilot – an attempt to build a locally hosted version of GitHub Copilot]]></title>
+            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=32327711 target=_blank>66 comments</a>]]></description>
+            <pubDate>2022-08-03T04:38:11.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/moyix/fauxpilot</guid>
+            <link>https://github.com/moyix/fauxpilot</link>
+            
+            
+            
+            <author><![CDATA[fniephaus]]></author>
             
                 
             
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Being swamped is normal and not impressive]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=32332109 target=_blank>132 comments</a>]]></description>
-            <pubDate>2022-08-03T14:25:03.000Z</pubDate>
-            <guid isPermaLink="false">https://www.gkogan.co/blog/swamped/</guid>
-            <link>https://www.gkogan.co/blog/swamped/</link>
-            
-            
-            
-            <author><![CDATA[gk1]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Things I've learned building a modern TUI framework]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=32331367 target=_blank>123 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=32331367 target=_blank>126 comments</a>]]></description>
             <pubDate>2022-08-03T13:24:45.000Z</pubDate>
             <guid isPermaLink="false">https://www.textualize.io/blog/posts/7-things-about-terminals</guid>
             <link>https://www.textualize.io/blog/posts/7-things-about-terminals</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Being swamped is normal and not impressive]]></title>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=32332109 target=_blank>133 comments</a>]]></description>
+            <pubDate>2022-08-03T14:25:03.000Z</pubDate>
+            <guid isPermaLink="false">https://www.gkogan.co/blog/swamped/</guid>
+            <link>https://www.gkogan.co/blog/swamped/</link>
+            
+            
+            
+            <author><![CDATA[gk1]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ask HN: Working in tech for climate?]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=32324592 target=_blank>242 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=32324592 target=_blank>242 comments</a>]]></description>
             <pubDate>2022-08-02T21:39:03.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=32324592</guid>
             <link>https://news.ycombinator.com/item?id=32324592</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[TikTok’s Poison Pill]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=32327791 target=_blank>366 comments</a>]]></description>
-            <pubDate>2022-08-03T04:52:02.000Z</pubDate>
-            <guid isPermaLink="false">https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/</guid>
-            <link>https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/</link>
-            
-            
-            
-            <author><![CDATA[yarapavan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Productivity porn]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=32335165 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=32335165 target=_blank>165 comments</a>]]></description>
             <pubDate>2022-08-03T18:21:36.000Z</pubDate>
             <guid isPermaLink="false">https://calebschoepp.com/blog/2022/productivity-porn/</guid>
             <link>https://calebschoepp.com/blog/2022/productivity-porn/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[triplechill]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TikTok’s Poison Pill]]></title>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=32327791 target=_blank>367 comments</a>]]></description>
+            <pubDate>2022-08-03T04:52:02.000Z</pubDate>
+            <guid isPermaLink="false">https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/</guid>
+            <link>https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/</link>
+            
+            
+            
+            <author><![CDATA[yarapavan]]></author>
             
                 
             
