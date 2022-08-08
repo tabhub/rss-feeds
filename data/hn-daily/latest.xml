@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Fake IMDB credits]]></title>
-            <description><![CDATA[511 points | <a href=https://news.ycombinator.com/item?id=32377063 target=_blank>216 comments</a>]]></description>
+            <description><![CDATA[513 points | <a href=https://news.ycombinator.com/item?id=32377063 target=_blank>219 comments</a>]]></description>
             <pubDate>2022-08-07T15:08:30.000Z</pubDate>
             <guid isPermaLink="false">https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits</guid>
             <link>https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Mysterious holes on the seafloor]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=32379066 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=32379066 target=_blank>122 comments</a>]]></description>
             <pubDate>2022-08-07T19:26:35.000Z</pubDate>
             <guid isPermaLink="false">https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html</guid>
             <link>https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[I 10x'd a TI-84 emulator's speed by replacing a switch-case]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=32381550 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=32381550 target=_blank>100 comments</a>]]></description>
             <pubDate>2022-08-08T01:20:41.000Z</pubDate>
             <guid isPermaLink="false">https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html</guid>
             <link>https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Why does gRPC insist on trailers?]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=32380769 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=32380769 target=_blank>102 comments</a>]]></description>
             <pubDate>2022-08-07T22:59:19.000Z</pubDate>
             <guid isPermaLink="false">https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers</guid>
             <link>https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[A physical wiring diagram for the human immune system]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=32381790 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=32381790 target=_blank>36 comments</a>]]></description>
             <pubDate>2022-08-08T02:07:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.nature.com/articles/s41586-022-05028-x</guid>
             <link>https://www.nature.com/articles/s41586-022-05028-x</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[bookofjoe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[No More “Insight Porn”]]></title>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=32384613 target=_blank>140 comments</a>]]></description>
+            <pubDate>2022-08-08T12:21:17.000Z</pubDate>
+            <guid isPermaLink="false">https://jakobgreenfeld.com/insight-porn</guid>
+            <link>https://jakobgreenfeld.com/insight-porn</link>
+            
+            
+            
+            <author><![CDATA[jakobgreenfeld]]></author>
             
                 
             
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Oncall Compensation for Software Engineers]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=32378752 target=_blank>289 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=32378752 target=_blank>290 comments</a>]]></description>
             <pubDate>2022-08-07T18:52:43.000Z</pubDate>
             <guid isPermaLink="false">https://blog.pragmaticengineer.com/oncall-compensation/</guid>
             <link>https://blog.pragmaticengineer.com/oncall-compensation/</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[From throwaway side project to Switch in 2 years: my indie gamedev story]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=32379927 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=32379927 target=_blank>49 comments</a>]]></description>
             <pubDate>2022-08-07T21:09:37.000Z</pubDate>
             <guid isPermaLink="false">https://kellsgame.com/how-kells-came-to-be/</guid>
             <link>https://kellsgame.com/how-kells-came-to-be/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[brianrisk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[No More “Insight Porn”]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=32384613 target=_blank>120 comments</a>]]></description>
-            <pubDate>2022-08-08T12:21:17.000Z</pubDate>
-            <guid isPermaLink="false">https://jakobgreenfeld.com/insight-porn</guid>
-            <link>https://jakobgreenfeld.com/insight-porn</link>
-            
-            
-            
-            <author><![CDATA[jakobgreenfeld]]></author>
             
                 
             
