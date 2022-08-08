@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[“Code” 2nd Edition Now Available]]></title>
-            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=32377735 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[496 points | <a href=https://news.ycombinator.com/item?id=32377735 target=_blank>148 comments</a>]]></description>
             <pubDate>2022-08-07T16:36:57.000Z</pubDate>
             <guid isPermaLink="false">https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html</guid>
             <link>https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mysterious holes on the seafloor]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=32379066 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=32379066 target=_blank>126 comments</a>]]></description>
             <pubDate>2022-08-07T19:26:35.000Z</pubDate>
             <guid isPermaLink="false">https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html</guid>
             <link>https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[I 10x'd a TI-84 emulator's speed by replacing a switch-case]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=32381550 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=32381550 target=_blank>106 comments</a>]]></description>
             <pubDate>2022-08-08T01:20:41.000Z</pubDate>
             <guid isPermaLink="false">https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html</guid>
             <link>https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html</link>
@@ -66,40 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Why does gRPC insist on trailers?]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=32380769 target=_blank>103 comments</a>]]></description>
-            <pubDate>2022-08-07T22:59:19.000Z</pubDate>
-            <guid isPermaLink="false">https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers</guid>
-            <link>https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers</link>
-            
-            
-            
-            <author><![CDATA[strzalek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A physical wiring diagram for the human immune system]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=32381790 target=_blank>39 comments</a>]]></description>
-            <pubDate>2022-08-08T02:07:21.000Z</pubDate>
-            <guid isPermaLink="false">https://www.nature.com/articles/s41586-022-05028-x</guid>
-            <link>https://www.nature.com/articles/s41586-022-05028-x</link>
-            
-            
-            
-            <author><![CDATA[bookofjoe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[No More “Insight Porn”]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=32384613 target=_blank>153 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=32384613 target=_blank>174 comments</a>]]></description>
             <pubDate>2022-08-08T12:21:17.000Z</pubDate>
             <guid isPermaLink="false">https://jakobgreenfeld.com/insight-porn</guid>
             <link>https://jakobgreenfeld.com/insight-porn</link>
@@ -114,15 +82,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Look at median, and not mean GDP per capita]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=32380079 target=_blank>194 comments</a>]]></description>
-            <pubDate>2022-08-07T21:26:28.000Z</pubDate>
-            <guid isPermaLink="false">https://medianism.org/</guid>
-            <link>https://medianism.org/</link>
+            <title><![CDATA[Why does gRPC insist on trailers?]]></title>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=32380769 target=_blank>104 comments</a>]]></description>
+            <pubDate>2022-08-07T22:59:19.000Z</pubDate>
+            <guid isPermaLink="false">https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers</guid>
+            <link>https://carlmastrangelo.com/blog/why-does-grpc-insist-on-trailers</link>
             
             
             
-            <author><![CDATA[amin]]></author>
+            <author><![CDATA[strzalek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[To uncover a deepfake video call, ask the caller to turn sideways]]></title>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=32384653 target=_blank>102 comments</a>]]></description>
+            <pubDate>2022-08-08T12:26:05.000Z</pubDate>
+            <guid isPermaLink="false">https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/</guid>
+            <link>https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/</link>
+            
+            
+            
+            <author><![CDATA[Hard_Space]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A physical wiring diagram for the human immune system]]></title>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=32381790 target=_blank>41 comments</a>]]></description>
+            <pubDate>2022-08-08T02:07:21.000Z</pubDate>
+            <guid isPermaLink="false">https://www.nature.com/articles/s41586-022-05028-x</guid>
+            <link>https://www.nature.com/articles/s41586-022-05028-x</link>
+            
+            
+            
+            <author><![CDATA[bookofjoe]]></author>
             
                 
             
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Oncall Compensation for Software Engineers]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=32378752 target=_blank>292 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=32378752 target=_blank>294 comments</a>]]></description>
             <pubDate>2022-08-07T18:52:43.000Z</pubDate>
             <guid isPermaLink="false">https://blog.pragmaticengineer.com/oncall-compensation/</guid>
             <link>https://blog.pragmaticengineer.com/oncall-compensation/</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Look at median, and not mean GDP per capita]]></title>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=32380079 target=_blank>194 comments</a>]]></description>
+            <pubDate>2022-08-07T21:26:28.000Z</pubDate>
+            <guid isPermaLink="false">https://medianism.org/</guid>
+            <link>https://medianism.org/</link>
+            
+            
+            
+            <author><![CDATA[amin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[From throwaway side project to Switch in 2 years: my indie gamedev story]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=32379927 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=32379927 target=_blank>52 comments</a>]]></description>
             <pubDate>2022-08-07T21:09:37.000Z</pubDate>
             <guid isPermaLink="false">https://kellsgame.com/how-kells-came-to-be/</guid>
             <link>https://kellsgame.com/how-kells-came-to-be/</link>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Carbon offsetting is just another form of greenwashing]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=32379764 target=_blank>292 comments</a>]]></description>
-            <pubDate>2022-08-07T20:50:31.000Z</pubDate>
-            <guid isPermaLink="false">https://www.theartnewspaper.com/2022/08/04/offsetting-greenwashing-carbon-emissions</guid>
-            <link>https://www.theartnewspaper.com/2022/08/04/offsetting-greenwashing-carbon-emissions</link>
-            
-            
-            
-            <author><![CDATA[boredemployee]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[In-browser retro-futuristic tank game, open source]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=32379430 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=32379430 target=_blank>57 comments</a>]]></description>
             <pubDate>2022-08-07T20:11:32.000Z</pubDate>
             <guid isPermaLink="false">https://synthblast.com</guid>
             <link>https://synthblast.com</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[To uncover a deepfake video call, ask the caller to turn sideways]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=32384653 target=_blank>83 comments</a>]]></description>
-            <pubDate>2022-08-08T12:26:05.000Z</pubDate>
-            <guid isPermaLink="false">https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/</guid>
-            <link>https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/</link>
+            <title><![CDATA[Carbon offsetting is just another form of greenwashing]]></title>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=32379764 target=_blank>296 comments</a>]]></description>
+            <pubDate>2022-08-07T20:50:31.000Z</pubDate>
+            <guid isPermaLink="false">https://www.theartnewspaper.com/2022/08/04/offsetting-greenwashing-carbon-emissions</guid>
+            <link>https://www.theartnewspaper.com/2022/08/04/offsetting-greenwashing-carbon-emissions</link>
             
             
             
-            <author><![CDATA[Hard_Space]]></author>
+            <author><![CDATA[boredemployee]]></author>
             
                 
             
