@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #576]]></title>
+        <title><![CDATA[Perl Weekly #577]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[MooseX::Extended]]></title>
-            <description><![CDATA[Curtis announced proper try/catch support in the latest release of MooseX::Extended. Please give it a try.]]></description>
-            <pubDate>2022.08.07</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/pod/MooseX::Extended</guid>
-            <link>https://metacpan.org/pod/MooseX::Extended</link>
+            <title><![CDATA[Regex basics]]></title>
+            <description><![CDATA["It's an introduction to the basics of regular expressions. There are many like it, but this is mine."]]></description>
+            <pubDate>2022.08.08</pubDate>
+            <guid isPermaLink="false">https://dev.to/nottrobin/regex-basics-3224</guid>
+            <link>https://dev.to/nottrobin/regex-basics-3224</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SPVM continues to undergo heavy changes.]]></title>
-            <description><![CDATA[Yuki sharing recent changes to SPVM in a nutshell.]]></description>
-            <pubDate>2022.08.01</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/yuki_kimoto/2022/08/spvm-continues-to-undergo-heavy-changes.html</guid>
-            <link>http://blogs.perl.org/users/yuki_kimoto/2022/08/spvm-continues-to-undergo-heavy-changes.html</link>
-            
-            
-            
-            <author><![CDATA[yuki_kimoto]]></author>
+            <author><![CDATA[robin_winslow]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Match Anything, Quickly]]></title>
-            <description><![CDATA[Interesting benchmark when it comes to filter using regex objects or sub wrapping a match.]]></description>
-            <pubDate>2022.08.06</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/08/match-anything-quickly.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2022/08/match-anything-quickly.html</link>
+            <title><![CDATA[AES - Cipher]]></title>
+            <description><![CDATA[At this point, we have all the moving parts we need to assemble the Cipher function, let's go!]]></description>
+            <pubDate>2022.08.08</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/08/aes-cipher/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/08/08/aes-cipher/</link>
             
             
             
-            <author><![CDATA[tom_wyant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[More Things I Should Have Already Figured Out Years Ago]]></title>
-            <description><![CDATA[Are you Mojo fan? If yes then you should check out this.]]></description>
-            <pubDate>2022.08.05</pubDate>
-            <guid isPermaLink="false">https://blog.swagg.net/more-things-i-should-have-already-figured-out-years-ago</guid>
-            <link>https://blog.swagg.net/more-things-i-should-have-already-figured-out-years-ago</link>
-            
-            
-            
-            <author><![CDATA[daniel_bowling]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -82,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Testing Code That is Difficult to Test (With Perl)]]></title>
-            <description><![CDATA[A very interesting aspect of testing discussed here. Highly recommended if you are into testing.]]></description>
-            <pubDate>2022.08.04</pubDate>
-            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/testing-code-that-is-difficult-to-test-with-perl-81n</guid>
-            <link>https://dev.to/nicholasbhubbard/testing-code-that-is-difficult-to-test-with-perl-81n</link>
+            <title><![CDATA[AES - Higher level functions]]></title>
+            <description><![CDATA[Our implementation now has a useable way to encrypt and decrypt stuff according to the AES standard, although it’s not very straightforward. We can do better from a useability point of view.]]></description>
+            <pubDate>2022.08.09</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/09/aes-higher-level/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/08/09/aes-higher-level/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[4 Unrelated Perl Tidbits ]]></title>
+            <description><![CDATA[Some fun parts of perl]]></description>
+            <pubDate>2022.08.10</pubDate>
+            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/4-unrelated-perl-tidbits-2766</guid>
+            <link>https://dev.to/nicholasbhubbard/4-unrelated-perl-tidbits-2766</link>
             
             
             
@@ -98,11 +82,11 @@
         </item>
         
         <item>
-            <title><![CDATA[AES - SubBytes]]></title>
-            <description><![CDATA[AES - SubBytes]]></description>
-            <pubDate>2022.08.01</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/01/aes-subbytes/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/08/01/aes-subbytes/</link>
+            <title><![CDATA[Cryptopals 7 - AES in ECB mode]]></title>
+            <description><![CDATA[After a little detour to build our own AES toy implementation, we're finally ready for addressing Challenge 7.]]></description>
+            <pubDate>2022.08.12</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/12/cryptopals-07/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/08/12/cryptopals-07/</link>
             
             
             
@@ -114,11 +98,11 @@
         </item>
         
         <item>
-            <title><![CDATA[AES - ShiftRows]]></title>
-            <description><![CDATA[AES - ShiftRows]]></description>
-            <pubDate>2022.08.02</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/02/aes-shiftrows/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/08/02/aes-shiftrows/</link>
+            <title><![CDATA[Cryptopals 8 - Detect AES in ECB mode]]></title>
+            <description><![CDATA[This challenge is about sifting through a bunch of lines in a provided file and see which represents something encrypted with AES-ECB. There is, apparently, exactly one such line.]]></description>
+            <pubDate>2022.08.13</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/13/cryptopals-08/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/08/13/cryptopals-08/</link>
             
             
             
@@ -130,11 +114,11 @@
         </item>
         
         <item>
-            <title><![CDATA[AES - multiplications in GF(256)]]></title>
-            <description><![CDATA[AES - multiplications in GF(256)]]></description>
-            <pubDate>2022.08.05</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/05/aes-gf28-multiplications/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/08/05/aes-gf28-multiplications/</link>
+            <title><![CDATA[Cryptopals 9 - Implement PKCS#7 padding]]></title>
+            <description><![CDATA[Cryptopals 9 - Implement PKCS#7 padding]]></description>
+            <pubDate>2022.08.14</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/14/cryptopals-09/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/08/14/cryptopals-09/</link>
             
             
             
@@ -146,31 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AES - MixColumns]]></title>
-            <description><![CDATA[AES - MixColumns]]></description>
-            <pubDate>2022.08.06</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/06/aes-mixcolumns/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/08/06/aes-mixcolumns/</link>
+            <title><![CDATA[Please relicense from "Perl 5" to MIT or Apache 2.0 license]]></title>
+            <description><![CDATA[Please relicense from "Perl 5" to MIT or Apache 2.0 license]]></description>
+            <pubDate>2022.08.11</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/dean/2022/08/please-relicense-from-perl-5-to-mit-or-apache-20-license.html</guid>
+            <link>http://blogs.perl.org/users/dean/2022/08/please-relicense-from-perl-5-to-mit-or-apache-20-license.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AES - Key stuff]]></title>
-            <description><![CDATA[AES - Key stuff]]></description>
-            <pubDate>2022.08.07</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/07/aes-key-stuff/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/08/07/aes-key-stuff/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[dean_hamstead]]></author>
             
                 
             
@@ -178,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2022.31 JustinTimeRelease]]></title>
-            <description><![CDATA[2022.31 JustinTimeRelease]]></description>
-            <pubDate>2022.08.02</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/08/01/2022-31-justintimerelease/</guid>
-            <link>https://rakudoweekly.blog/2022/08/01/2022-31-justintimerelease/</link>
+            <title><![CDATA[Dancer2: Solution 2 - Random redirect]]></title>
+            <description><![CDATA[Dancer2: Solution 2 - Random redirect]]></description>
+            <pubDate>2022.08.15</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-solution-2-random-redirect</guid>
+            <link>https://perlmaven.com/dancer2-solution-2-random-redirect</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -195,30 +163,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/08/cdiv-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/08/dxviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/08/dxlvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.08.06</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/08/cdv-18-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/08/dxix-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/08/dxlvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.08.13</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2: Solution 2 - Route-based Multi-Counter]]></title>
-            <description><![CDATA[Dancer2: Solution 2 - Route-based Multi-Counter]]></description>
-            <pubDate>2022.08.08</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-solution-2-route-based-multicounter</guid>
-            <link>https://perlmaven.com/dancer2-solution-2-route-based-multicounter</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
