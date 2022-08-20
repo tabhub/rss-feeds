@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[App Store doesn't accept “too simple” apps]]></title>
-            <description><![CDATA[498 points | <a href=https://news.ycombinator.com/item?id=32526047 target=_blank>331 comments</a>]]></description>
+            <description><![CDATA[501 points | <a href=https://news.ycombinator.com/item?id=32526047 target=_blank>331 comments</a>]]></description>
             <pubDate>2022-08-19T21:20:58.000Z</pubDate>
             <guid isPermaLink="false">https://notes.alinpanaitiu.com/Dealing%20with%20App%20Store%20rejections</guid>
             <link>https://notes.alinpanaitiu.com/Dealing%20with%20App%20Store%20rejections</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Resolving an unusual WiFi issue]]></title>
-            <description><![CDATA[473 points | <a href=https://news.ycombinator.com/item?id=32524702 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=32524702 target=_blank>107 comments</a>]]></description>
             <pubDate>2022-08-19T18:48:25.000Z</pubDate>
             <guid isPermaLink="false">https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/</guid>
             <link>https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[John Carmack's new AGI company, Keen Technologies, has raised a $20M round]]></title>
-            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=32525721 target=_blank>560 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=32525721 target=_blank>563 comments</a>]]></description>
             <pubDate>2022-08-19T20:46:09.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/ID_AA_Carmack/status/1560728042959507457</guid>
             <link>https://twitter.com/ID_AA_Carmack/status/1560728042959507457</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[jasondavies]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[“Quantum-Safe” Crypto Hacked by 10-Year-Old PC]]></title>
+            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=32523584 target=_blank>157 comments</a>]]></description>
+            <pubDate>2022-08-19T17:07:02.000Z</pubDate>
+            <guid isPermaLink="false">https://spectrum.ieee.org/quantum-safe-encryption-hacked</guid>
+            <link>https://spectrum.ieee.org/quantum-safe-encryption-hacked</link>
+            
+            
+            
+            <author><![CDATA[oipoloi]]></author>
             
                 
             
@@ -82,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[“Quantum-Safe” Crypto Hacked by 10-Year-Old PC]]></title>
-            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=32523584 target=_blank>156 comments</a>]]></description>
-            <pubDate>2022-08-19T17:07:02.000Z</pubDate>
-            <guid isPermaLink="false">https://spectrum.ieee.org/quantum-safe-encryption-hacked</guid>
-            <link>https://spectrum.ieee.org/quantum-safe-encryption-hacked</link>
-            
-            
-            
-            <author><![CDATA[oipoloi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[LackRack: IKEA's cheapest table is perfectly sized to rackmount computers (2020)]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=32520882 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=32520882 target=_blank>218 comments</a>]]></description>
             <pubDate>2022-08-19T13:47:09.000Z</pubDate>
             <guid isPermaLink="false">https://wiki.eth0.nl/index.php/LackRack</guid>
             <link>https://wiki.eth0.nl/index.php/LackRack</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Diablo 1 for Web Browsers]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=32528433 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=32528433 target=_blank>62 comments</a>]]></description>
             <pubDate>2022-08-20T02:27:18.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/d07RiV/diabloweb</guid>
             <link>https://github.com/d07RiV/diabloweb</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Visual Sum of Cubes]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=32528769 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=32528769 target=_blank>22 comments</a>]]></description>
             <pubDate>2022-08-20T03:28:12.000Z</pubDate>
             <guid isPermaLink="false">https://x.st/visual-sum-of-cubes/</guid>
             <link>https://x.st/visual-sum-of-cubes/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=32529412 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=32529412 target=_blank>75 comments</a>]]></description>
             <pubDate>2022-08-20T05:34:41.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/adrianco/status/1560854827810361345</guid>
             <link>https://twitter.com/adrianco/status/1560854827810361345</link>
