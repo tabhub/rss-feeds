@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage]]></title>
-            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=32529412 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=32529412 target=_blank>167 comments</a>]]></description>
             <pubDate>2022-08-20T05:34:41.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/adrianco/status/1560854827810361345</guid>
             <link>https://twitter.com/adrianco/status/1560854827810361345</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Zig is now self–hosted by default]]></title>
-            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=32529113 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=32529113 target=_blank>75 comments</a>]]></description>
             <pubDate>2022-08-20T04:35:36.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide</guid>
             <link>https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Brian Kernighan adds Unicode support to Awk]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>76 comments</a>]]></description>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>80 comments</a>]]></description>
             <pubDate>2022-08-20T18:32:31.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</guid>
             <link>https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Coping with Copilot]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=32532438 target=_blank>264 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=32532438 target=_blank>272 comments</a>]]></description>
             <pubDate>2022-08-20T14:49:41.000Z</pubDate>
             <guid isPermaLink="false">https://www.sigarch.org/coping-with-copilot/</guid>
             <link>https://www.sigarch.org/coping-with-copilot/</link>
@@ -139,6 +139,38 @@
             
             
             <author><![CDATA[lameda]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: A new way to use GPT-3 to generate code (and everything else)]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=32532875 target=_blank>59 comments</a>]]></description>
+            <pubDate>2022-08-20T15:45:52.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=32532875</guid>
+            <link>https://news.ycombinator.com/item?id=32532875</link>
+            
+            
+            
+            <author><![CDATA[goodside]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cosmopolitan Libc v2.0]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=32529526 target=_blank>31 comments</a>]]></description>
+            <pubDate>2022-08-20T05:55:55.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/jart/cosmopolitan/releases/tag/2.0</guid>
+            <link>https://github.com/jart/cosmopolitan/releases/tag/2.0</link>
+            
+            
+            
+            <author><![CDATA[Orochikaku]]></author>
             
                 
             
@@ -155,38 +187,6 @@
             
             
             <author><![CDATA[runarberg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Cosmopolitan Libc v2.0]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=32529526 target=_blank>31 comments</a>]]></description>
-            <pubDate>2022-08-20T05:55:55.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/jart/cosmopolitan/releases/tag/2.0</guid>
-            <link>https://github.com/jart/cosmopolitan/releases/tag/2.0</link>
-            
-            
-            
-            <author><![CDATA[Orochikaku]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: A new way to use GPT-3 to generate code (and everything else)]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=32532875 target=_blank>59 comments</a>]]></description>
-            <pubDate>2022-08-20T15:45:52.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=32532875</guid>
-            <link>https://news.ycombinator.com/item?id=32532875</link>
-            
-            
-            
-            <author><![CDATA[goodside]]></author>
             
                 
             
