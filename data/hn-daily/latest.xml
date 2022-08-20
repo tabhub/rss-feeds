@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[John Carmack's new AGI company, Keen Technologies, has raised a $20M round]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=32525721 target=_blank>588 comments</a>]]></description>
+            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=32525721 target=_blank>588 comments</a>]]></description>
             <pubDate>2022-08-19T20:46:09.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/ID_AA_Carmack/status/1560728042959507457</guid>
             <link>https://twitter.com/ID_AA_Carmack/status/1560728042959507457</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage]]></title>
-            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=32529412 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=32529412 target=_blank>157 comments</a>]]></description>
             <pubDate>2022-08-20T05:34:41.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/adrianco/status/1560854827810361345</guid>
             <link>https://twitter.com/adrianco/status/1560854827810361345</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Lessons I wish I had learned before I started teaching differential equations [pdf] (1997)]]></title>
-            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=32530035 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=32530035 target=_blank>140 comments</a>]]></description>
             <pubDate>2022-08-20T07:31:02.000Z</pubDate>
             <guid isPermaLink="false">https://web.williams.edu/Mathematics/lg5/Rota.pdf</guid>
             <link>https://web.williams.edu/Mathematics/lg5/Rota.pdf</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Zig is now self–hosted by default]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=32529113 target=_blank>59 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=32529113 target=_blank>61 comments</a>]]></description>
             <pubDate>2022-08-20T04:35:36.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide</guid>
             <link>https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[After 50 years, Michael Heizer is finally ready to unveil City, his life's work]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=32529260 target=_blank>340 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=32529260 target=_blank>341 comments</a>]]></description>
             <pubDate>2022-08-20T05:08:02.000Z</pubDate>
             <guid isPermaLink="false">https://news.artnet.com/art-world/city-michael-heizers-desert-masterpiece-2162720</guid>
             <link>https://news.artnet.com/art-world/city-michael-heizers-desert-masterpiece-2162720</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[High-speed rail board completes environmental clearance in northern California]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=32527321 target=_blank>324 comments</a>]]></description>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=32527321 target=_blank>326 comments</a>]]></description>
             <pubDate>2022-08-19T23:25:15.000Z</pubDate>
             <guid isPermaLink="false">https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/</guid>
             <link>https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Brian Kernighan adds Unicode support to Awk]]></title>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>43 comments</a>]]></description>
+            <pubDate>2022-08-20T18:32:31.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</guid>
+            <link>https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</link>
+            
+            
+            
+            <author><![CDATA[ducktective]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ask HN: Why is there no performant remote desktop for Mac/Linux?]]></title>
             <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=32526108 target=_blank>195 comments</a>]]></description>
             <pubDate>2022-08-19T21:25:27.000Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[asiachick]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Brian Kernighan adds Unicode support to Awk]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>42 comments</a>]]></description>
-            <pubDate>2022-08-20T18:32:31.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</guid>
-            <link>https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</link>
-            
-            
-            
-            <author><![CDATA[ducktective]]></author>
             
                 
             
