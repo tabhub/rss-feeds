@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Brian Kernighan adds Unicode support to Awk]]></title>
-            <description><![CDATA[533 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>153 comments</a>]]></description>
-            <pubDate>2022-08-20T18:32:31.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</guid>
-            <link>https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</link>
-            
-            
-            
-            <author><![CDATA[ducktective]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[A dad took photos of his naked child for a doctor; Google reported him to police]]></title>
-            <description><![CDATA[531 points | <a href=https://news.ycombinator.com/item?id=32538805 target=_blank>307 comments</a>]]></description>
+            <description><![CDATA[541 points | <a href=https://news.ycombinator.com/item?id=32538805 target=_blank>314 comments</a>]]></description>
             <pubDate>2022-08-21T10:15:42.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html</guid>
             <link>https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html</link>
@@ -43,6 +27,22 @@
             
             
             <author><![CDATA[dklsf]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Brian Kernighan adds Unicode support to Awk]]></title>
+            <description><![CDATA[534 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>153 comments</a>]]></description>
+            <pubDate>2022-08-20T18:32:31.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</guid>
+            <link>https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</link>
+            
+            
+            
+            <author><![CDATA[ducktective]]></author>
             
                 
             
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Tell HN: A new way to use GPT-3 to generate code (and everything else)]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=32532875 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=32532875 target=_blank>80 comments</a>]]></description>
             <pubDate>2022-08-20T15:45:52.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=32532875</guid>
             <link>https://news.ycombinator.com/item?id=32532875</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Why don’t we do email verification in reverse?]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=32537565 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=32537565 target=_blank>271 comments</a>]]></description>
             <pubDate>2022-08-21T05:08:56.000Z</pubDate>
             <guid isPermaLink="false">https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse</guid>
             <link>https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Nobody wants to teach anymore]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=32539424 target=_blank>290 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=32539424 target=_blank>297 comments</a>]]></description>
             <pubDate>2022-08-21T12:18:38.000Z</pubDate>
             <guid isPermaLink="false">https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11</guid>
             <link>https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Faster zlib/DEFLATE decompression on the Apple M1 (and x86)]]></title>
-            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=32533061 target=_blank>15 comments</a>]]></description>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=32533061 target=_blank>15 comments</a>]]></description>
             <pubDate>2022-08-20T16:09:36.000Z</pubDate>
             <guid isPermaLink="false">https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/</guid>
             <link>https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A demo of GPT-3's ability to understand long instructions]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=32534389 target=_blank>58 comments</a>]]></description>
-            <pubDate>2022-08-20T19:03:08.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/goodside/status/1557524546412052482</guid>
-            <link>https://twitter.com/goodside/status/1557524546412052482</link>
-            
-            
-            
-            <author><![CDATA[monort]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Apple is building an ad empire as its iPhone privacy crackdown weakens rivals]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=32539762 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=32539762 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-08-21T13:05:46.000Z</pubDate>
             <guid isPermaLink="false">https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone</guid>
             <link>https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[galogon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A demo of GPT-3's ability to understand long instructions]]></title>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=32534389 target=_blank>58 comments</a>]]></description>
+            <pubDate>2022-08-20T19:03:08.000Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/goodside/status/1557524546412052482</guid>
+            <link>https://twitter.com/goodside/status/1557524546412052482</link>
+            
+            
+            
+            <author><![CDATA[monort]]></author>
             
                 
             
