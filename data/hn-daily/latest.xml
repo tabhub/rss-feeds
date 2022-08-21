@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Brian Kernighan adds Unicode support to Awk]]></title>
-            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[453 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>122 comments</a>]]></description>
             <pubDate>2022-08-20T18:32:31.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</guid>
             <link>https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</link>
@@ -27,22 +27,6 @@
             
             
             <author><![CDATA[ducktective]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage]]></title>
-            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=32529412 target=_blank>172 comments</a>]]></description>
-            <pubDate>2022-08-20T05:34:41.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/adrianco/status/1560854827810361345</guid>
-            <link>https://twitter.com/adrianco/status/1560854827810361345</link>
-            
-            
-            
-            <author><![CDATA[luu]]></author>
             
                 
             
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Coping with Copilot]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=32532438 target=_blank>357 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=32532438 target=_blank>357 comments</a>]]></description>
             <pubDate>2022-08-20T14:49:41.000Z</pubDate>
             <guid isPermaLink="false">https://www.sigarch.org/coping-with-copilot/</guid>
             <link>https://www.sigarch.org/coping-with-copilot/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Tell HN: A new way to use GPT-3 to generate code (and everything else)]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=32532875 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=32532875 target=_blank>66 comments</a>]]></description>
             <pubDate>2022-08-20T15:45:52.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=32532875</guid>
             <link>https://news.ycombinator.com/item?id=32532875</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Using: Has() as a CSS Parent Selector and much more]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=32529838 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=32529838 target=_blank>112 comments</a>]]></description>
             <pubDate>2022-08-20T06:53:21.000Z</pubDate>
             <guid isPermaLink="false">https://webkit.org/blog/13096/css-has-pseudo-class/</guid>
             <link>https://webkit.org/blog/13096/css-has-pseudo-class/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[I recreated famous album covers with DALL-E]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=32533986 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=32533986 target=_blank>111 comments</a>]]></description>
             <pubDate>2022-08-20T18:06:14.000Z</pubDate>
             <guid isPermaLink="false">https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/</guid>
             <link>https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[The Collapse of Complex Societies (Book Review)]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=32530180 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=32530180 target=_blank>140 comments</a>]]></description>
             <pubDate>2022-08-20T07:55:57.000Z</pubDate>
             <guid isPermaLink="false">https://continuations.com/post/685683226736525312/joseph-tainter-the-collapse-of-complex-societies</guid>
             <link>https://continuations.com/post/685683226736525312/joseph-tainter-the-collapse-of-complex-societies</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Supabase Vault]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=32532313 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=32532313 target=_blank>63 comments</a>]]></description>
             <pubDate>2022-08-20T14:31:33.000Z</pubDate>
             <guid isPermaLink="false">https://supabase.com/blog/supabase-vault</guid>
             <link>https://supabase.com/blog/supabase-vault</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[traviskuhl]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ask HN: So, what's up with Phoenix (web framework)?]]></title>
+            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=32530203 target=_blank>125 comments</a>]]></description>
+            <pubDate>2022-08-20T08:01:34.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=32530203</guid>
+            <link>https://news.ycombinator.com/item?id=32530203</link>
+            
+            
+            
+            <author><![CDATA[jstummbillig]]></author>
             
                 
             
