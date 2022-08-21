@@ -18,6 +18,22 @@
         <ttl></ttl>
         
         <item>
+            <title><![CDATA[Brian Kernighan adds Unicode support to Awk]]></title>
+            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>115 comments</a>]]></description>
+            <pubDate>2022-08-20T18:32:31.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</guid>
+            <link>https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</link>
+            
+            
+            
+            <author><![CDATA[ducktective]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage]]></title>
             <description><![CDATA[436 points | <a href=https://news.ycombinator.com/item?id=32529412 target=_blank>172 comments</a>]]></description>
             <pubDate>2022-08-20T05:34:41.000Z</pubDate>
@@ -27,22 +43,6 @@
             
             
             <author><![CDATA[luu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Brian Kernighan adds Unicode support to Awk]]></title>
-            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=32534173 target=_blank>113 comments</a>]]></description>
-            <pubDate>2022-08-20T18:32:31.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</guid>
-            <link>https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636</link>
-            
-            
-            
-            <author><![CDATA[ducktective]]></author>
             
                 
             
@@ -82,6 +82,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Coping with Copilot]]></title>
+            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=32532438 target=_blank>351 comments</a>]]></description>
+            <pubDate>2022-08-20T14:49:41.000Z</pubDate>
+            <guid isPermaLink="false">https://www.sigarch.org/coping-with-copilot/</guid>
+            <link>https://www.sigarch.org/coping-with-copilot/</link>
+            
+            
+            
+            <author><![CDATA[lameda]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[After 50 years, Michael Heizer is finally ready to unveil City, his life's work]]></title>
             <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=32529260 target=_blank>350 comments</a>]]></description>
             <pubDate>2022-08-20T05:08:02.000Z</pubDate>
@@ -98,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Coping with Copilot]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=32532438 target=_blank>346 comments</a>]]></description>
-            <pubDate>2022-08-20T14:49:41.000Z</pubDate>
-            <guid isPermaLink="false">https://www.sigarch.org/coping-with-copilot/</guid>
-            <link>https://www.sigarch.org/coping-with-copilot/</link>
-            
-            
-            
-            <author><![CDATA[lameda]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Tell HN: A new way to use GPT-3 to generate code (and everything else)]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=32532875 target=_blank>64 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=32532875 target=_blank>64 comments</a>]]></description>
             <pubDate>2022-08-20T15:45:52.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=32532875</guid>
             <link>https://news.ycombinator.com/item?id=32532875</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Using: Has() as a CSS Parent Selector and much more]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=32529838 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=32529838 target=_blank>112 comments</a>]]></description>
             <pubDate>2022-08-20T06:53:21.000Z</pubDate>
             <guid isPermaLink="false">https://webkit.org/blog/13096/css-has-pseudo-class/</guid>
             <link>https://webkit.org/blog/13096/css-has-pseudo-class/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[I recreated famous album covers with DALL-E]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=32533986 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=32533986 target=_blank>110 comments</a>]]></description>
             <pubDate>2022-08-20T18:06:14.000Z</pubDate>
             <guid isPermaLink="false">https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/</guid>
             <link>https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/</link>
