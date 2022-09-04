@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Blocking Kiwifarms]]></title>
-            <description><![CDATA[871 points | <a href=https://news.ycombinator.com/item?id=32706673 target=_blank>1407 comments</a>]]></description>
+            <description><![CDATA[886 points | <a href=https://news.ycombinator.com/item?id=32706673 target=_blank>1409 comments</a>]]></description>
             <pubDate>2022-09-03T22:17:41.000Z</pubDate>
             <guid isPermaLink="false">https://blog.cloudflare.com/kiwifarms-blocked/</guid>
             <link>https://blog.cloudflare.com/kiwifarms-blocked/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Generalist contractors, what is your hourly rate?]]></title>
-            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=32701641 target=_blank>288 comments</a>]]></description>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=32701641 target=_blank>289 comments</a>]]></description>
             <pubDate>2022-09-03T13:20:16.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=32701641</guid>
             <link>https://news.ycombinator.com/item?id=32701641</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Jetbrains Space]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=32700615 target=_blank>96 comments</a>]]></description>
-            <pubDate>2022-09-03T10:58:51.000Z</pubDate>
-            <guid isPermaLink="false">https://www.jetbrains.com/space/</guid>
-            <link>https://www.jetbrains.com/space/</link>
-            
-            
-            
-            <author><![CDATA[solalf]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=32709329 target=_blank>159 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=32709329 target=_blank>164 comments</a>]]></description>
             <pubDate>2022-09-04T02:58:08.000Z</pubDate>
             <guid isPermaLink="false">https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped</guid>
             <link>https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Amazon's Global Quest to Crush Unions]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=32702117 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=32702117 target=_blank>232 comments</a>]]></description>
             <pubDate>2022-09-03T14:22:29.000Z</pubDate>
             <guid isPermaLink="false">https://newrepublic.com/maz/article/167263/amazons-global-quest-crush-unions</guid>
             <link>https://newrepublic.com/maz/article/167263/amazons-global-quest-crush-unions</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Less is more agile]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=32706548 target=_blank>130 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=32706548 target=_blank>132 comments</a>]]></description>
             <pubDate>2022-09-03T22:02:12.000Z</pubDate>
             <guid isPermaLink="false">https://beny23.github.io/posts/my_take_on_engineering_room_9/</guid>
             <link>https://beny23.github.io/posts/my_take_on_engineering_room_9/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[PC wakes from sleep when changing clothes]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=32704340 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=32704340 target=_blank>156 comments</a>]]></description>
             <pubDate>2022-09-03T17:55:30.000Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/pcmasterrace/comments/x4ox3p/why_does_my_pc_wake_from_sleep_when_i_change_my/</guid>
             <link>https://old.reddit.com/r/pcmasterrace/comments/x4ox3p/why_does_my_pc_wake_from_sleep_when_i_change_my/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Dear Oracle, Please Release the JavaScript Trademark]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=32709870 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=32709870 target=_blank>91 comments</a>]]></description>
             <pubDate>2022-09-04T04:36:00.000Z</pubDate>
             <guid isPermaLink="false">https://tinyclouds.org</guid>
             <link>https://tinyclouds.org</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[docmechanic]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM]]></title>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=32709201 target=_blank>115 comments</a>]]></description>
+            <pubDate>2022-09-04T02:35:09.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/basujindal/stable-diffusion/pull/103</guid>
+            <link>https://github.com/basujindal/stable-diffusion/pull/103</link>
+            
+            
+            
+            <author><![CDATA[avocado2]]></author>
             
                 
             
