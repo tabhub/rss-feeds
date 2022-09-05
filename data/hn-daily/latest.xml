@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Why A4? – The Mathematical Beauty of Paper Size]]></title>
-            <description><![CDATA[625 points | <a href=https://news.ycombinator.com/item?id=32721602 target=_blank>502 comments</a>]]></description>
+            <description><![CDATA[631 points | <a href=https://news.ycombinator.com/item?id=32721602 target=_blank>510 comments</a>]]></description>
             <pubDate>2022-09-05T07:47:56.000Z</pubDate>
             <guid isPermaLink="false">https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/</guid>
             <link>https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Has  tiktok_us  been breached?]]></title>
-            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=32718327 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=32718327 target=_blank>127 comments</a>]]></description>
             <pubDate>2022-09-04T22:26:23.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/troyhunt/status/1566565409939427328</guid>
             <link>https://twitter.com/troyhunt/status/1566565409939427328</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Kiwi Farms is down across all domains as DDoS-Guard terminates service]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=32722950 target=_blank>599 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=32722950 target=_blank>609 comments</a>]]></description>
             <pubDate>2022-09-05T11:01:31.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/GossiTheDog/status/1566728231893573634</guid>
             <link>https://twitter.com/GossiTheDog/status/1566728231893573634</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[All poverty is energy poverty]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=32724162 target=_blank>316 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=32724162 target=_blank>317 comments</a>]]></description>
             <pubDate>2022-09-05T13:37:58.000Z</pubDate>
             <guid isPermaLink="false">https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty</guid>
             <link>https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Common Lisp vs Racket]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=32723784 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=32723784 target=_blank>81 comments</a>]]></description>
             <pubDate>2022-09-05T12:56:48.000Z</pubDate>
             <guid isPermaLink="false">https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac</guid>
             <link>https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Apple AMX instruction set (M1/M2 matrix coprocessor)]]></title>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=32722510 target=_blank>45 comments</a>]]></description>
+            <pubDate>2022-09-05T10:06:45.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/corsix/amx</guid>
+            <link>https://github.com/corsix/amx</link>
+            
+            
+            
+            <author><![CDATA[rostayob]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Heatwaves kill more Americans than hurricanes, tornadoes and floods]]></title>
             <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=32724659 target=_blank>115 comments</a>]]></description>
             <pubDate>2022-09-05T14:26:18.000Z</pubDate>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple AMX instruction set (M1/M2 matrix coprocessor)]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=32722510 target=_blank>45 comments</a>]]></description>
-            <pubDate>2022-09-05T10:06:45.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/corsix/amx</guid>
-            <link>https://github.com/corsix/amx</link>
+            <title><![CDATA[How the FLAC format compresses audio without loss of quality]]></title>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=32727829 target=_blank>86 comments</a>]]></description>
+            <pubDate>2022-09-05T18:53:59.000Z</pubDate>
+            <guid isPermaLink="false">https://xiph.org/flac/documentation_format_overview.html</guid>
+            <link>https://xiph.org/flac/documentation_format_overview.html</link>
             
             
             
-            <author><![CDATA[rostayob]]></author>
+            <author><![CDATA[jsbg]]></author>
             
                 
             
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Userspace FUSE for macOS]]></title>
-            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=32726166 target=_blank>63 comments</a>]]></description>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=32726166 target=_blank>66 comments</a>]]></description>
             <pubDate>2022-09-05T16:30:09.000Z</pubDate>
             <guid isPermaLink="false">https://www.fuse-t.org/</guid>
             <link>https://www.fuse-t.org/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[freebeer2]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA['Serious errors' in research linking deaths to red meat]]></title>
-            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=32724569 target=_blank>171 comments</a>]]></description>
-            <pubDate>2022-09-05T14:17:17.000Z</pubDate>
-            <guid isPermaLink="false">https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5</guid>
-            <link>https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5</link>
-            
-            
-            
-            <author><![CDATA[rgrieselhuber]]></author>
             
                 
             
