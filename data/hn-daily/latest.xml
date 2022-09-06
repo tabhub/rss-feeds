@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Bitwarden raises $100M]]></title>
-            <description><![CDATA[830 points | <a href=https://news.ycombinator.com/item?id=32735479 target=_blank>446 comments</a>]]></description>
+            <description><![CDATA[836 points | <a href=https://news.ycombinator.com/item?id=32735479 target=_blank>446 comments</a>]]></description>
             <pubDate>2022-09-06T11:12:22.000Z</pubDate>
             <guid isPermaLink="false">https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/</guid>
             <link>https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[TIL: You can access a user’s camera with just HTML]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=32738501 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=32738501 target=_blank>177 comments</a>]]></description>
             <pubDate>2022-09-06T15:31:14.000Z</pubDate>
             <guid isPermaLink="false">https://austingil.com/html-capture-attribute/</guid>
             <link>https://austingil.com/html-capture-attribute/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Judge rules Facebook parent Meta intentionally violated campaign finance laws]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=32740814 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=32740814 target=_blank>111 comments</a>]]></description>
             <pubDate>2022-09-06T18:08:48.000Z</pubDate>
             <guid isPermaLink="false">https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign</guid>
             <link>https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Vulnerability Management for Go]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=32737886 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=32737886 target=_blank>39 comments</a>]]></description>
             <pubDate>2022-09-06T14:53:25.000Z</pubDate>
             <guid isPermaLink="false">https://go.dev/blog/vuln</guid>
             <link>https://go.dev/blog/vuln</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[San Francisco braces for commercial real estate crash]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=32740071 target=_blank>466 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=32740071 target=_blank>471 comments</a>]]></description>
             <pubDate>2022-09-06T17:14:56.000Z</pubDate>
             <guid isPermaLink="false">https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/</guid>
             <link>https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[NASA selects SiFive and makes RISC-V the go-to ecosystem for future missions]]></title>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=32740653 target=_blank>43 comments</a>]]></description>
+            <pubDate>2022-09-06T17:57:50.000Z</pubDate>
+            <guid isPermaLink="false">https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem</guid>
+            <link>https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem</link>
+            
+            
+            
+            <author><![CDATA[georgelyon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Deviations from Chromium (features we disable or remove)]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=32740396 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=32740396 target=_blank>193 comments</a>]]></description>
             <pubDate>2022-09-06T17:39:37.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/</guid>
             <link>https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/</link>
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[I patched my Slack client to keep “oops” messages others delete]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=32730600 target=_blank>210 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=32730600 target=_blank>210 comments</a>]]></description>
             <pubDate>2022-09-05T23:14:27.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/SharonBrizinov/slack-anti-delete</guid>
             <link>https://github.com/SharonBrizinov/slack-anti-delete</link>
@@ -146,40 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[NASA selects SiFive and makes RISC-V the go-to ecosystem for future missions]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=32740653 target=_blank>37 comments</a>]]></description>
-            <pubDate>2022-09-06T17:57:50.000Z</pubDate>
-            <guid isPermaLink="false">https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem</guid>
-            <link>https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem</link>
-            
-            
-            
-            <author><![CDATA[georgelyon]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Richard Stallman Announces GNU C Language Reference Manual]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=32738885 target=_blank>154 comments</a>]]></description>
-            <pubDate>2022-09-06T15:55:51.000Z</pubDate>
-            <guid isPermaLink="false">https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</guid>
-            <link>https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</link>
-            
-            
-            
-            <author><![CDATA[cf100clunk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Someone’s Been Messing with My Subnormals]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=32738206 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=32738206 target=_blank>69 comments</a>]]></description>
             <pubDate>2022-09-06T15:14:10.000Z</pubDate>
             <guid isPermaLink="false">http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html</guid>
             <link>http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html</link>
@@ -194,15 +178,31 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenWrt 22.03]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=32733425 target=_blank>122 comments</a>]]></description>
-            <pubDate>2022-09-06T05:57:09.000Z</pubDate>
-            <guid isPermaLink="false">https://openwrt.org/releases/22.03/notes-22.03.0</guid>
-            <link>https://openwrt.org/releases/22.03/notes-22.03.0</link>
+            <title><![CDATA[Richard Stallman Announces GNU C Language Reference Manual]]></title>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=32738885 target=_blank>158 comments</a>]]></description>
+            <pubDate>2022-09-06T15:55:51.000Z</pubDate>
+            <guid isPermaLink="false">https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</guid>
+            <link>https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</link>
             
             
             
-            <author><![CDATA[arcxyz]]></author>
+            <author><![CDATA[cf100clunk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NASA can now reliably produce a tree’s worth of oxygen on Mars]]></title>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=32737596 target=_blank>184 comments</a>]]></description>
+            <pubDate>2022-09-06T14:31:41.000Z</pubDate>
+            <guid isPermaLink="false">https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/</guid>
+            <link>https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/</link>
+            
+            
+            
+            <author><![CDATA[Brajeshwar]]></author>
             
                 
             
