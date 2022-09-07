@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Bitwarden raises $100M]]></title>
-            <description><![CDATA[921 points | <a href=https://news.ycombinator.com/item?id=32735479 target=_blank>481 comments</a>]]></description>
-            <pubDate>2022-09-06T11:12:22.000Z</pubDate>
-            <guid isPermaLink="false">https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/</guid>
-            <link>https://bitwarden.com/blog/accelerating-value-for-bitwarden-users-bitwarden-raises-usd100-million/</link>
-            
-            
-            
-            <author><![CDATA[deanmoriarty]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Health insurers just published close to a trillion hospital prices]]></title>
-            <description><![CDATA[742 points | <a href=https://news.ycombinator.com/item?id=32738783 target=_blank>426 comments</a>]]></description>
+            <description><![CDATA[757 points | <a href=https://news.ycombinator.com/item?id=32738783 target=_blank>439 comments</a>]]></description>
             <pubDate>2022-09-06T15:49:32.000Z</pubDate>
             <guid isPermaLink="false">https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/</guid>
             <link>https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[NASA selects SiFive and makes RISC-V the go-to ecosystem for future missions]]></title>
-            <description><![CDATA[709 points | <a href=https://news.ycombinator.com/item?id=32740653 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[714 points | <a href=https://news.ycombinator.com/item?id=32740653 target=_blank>139 comments</a>]]></description>
             <pubDate>2022-09-06T17:57:50.000Z</pubDate>
             <guid isPermaLink="false">https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem</guid>
             <link>https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[TIL: You can access a user’s camera with just HTML]]></title>
-            <description><![CDATA[521 points | <a href=https://news.ycombinator.com/item?id=32738501 target=_blank>222 comments</a>]]></description>
+            <description><![CDATA[522 points | <a href=https://news.ycombinator.com/item?id=32738501 target=_blank>222 comments</a>]]></description>
             <pubDate>2022-09-06T15:31:14.000Z</pubDate>
             <guid isPermaLink="false">https://austingil.com/html-capture-attribute/</guid>
             <link>https://austingil.com/html-capture-attribute/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Someone’s Been Messing with My Subnormals]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=32738206 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=32738206 target=_blank>120 comments</a>]]></description>
             <pubDate>2022-09-06T15:14:10.000Z</pubDate>
             <guid isPermaLink="false">http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html</guid>
             <link>http://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Difftastic, the fantastic diff]]></title>
-            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=32746258 target=_blank>38 comments</a>]]></description>
+            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=32746258 target=_blank>43 comments</a>]]></description>
             <pubDate>2022-09-07T04:20:00.000Z</pubDate>
             <guid isPermaLink="false">https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/</guid>
             <link>https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/</link>
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Vulnerability Management for Go]]></title>
-            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=32737886 target=_blank>59 comments</a>]]></description>
-            <pubDate>2022-09-06T14:53:25.000Z</pubDate>
-            <guid isPermaLink="false">https://go.dev/blog/vuln</guid>
-            <link>https://go.dev/blog/vuln</link>
-            
-            
-            
-            <author><![CDATA[mfrw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Quake 1 ported to the Apple Watch]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=32747067 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=32747067 target=_blank>57 comments</a>]]></description>
             <pubDate>2022-09-07T06:21:17.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/MyOwnClone/quake_watch</guid>
             <link>https://github.com/MyOwnClone/quake_watch</link>
@@ -146,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Vulnerability Management for Go]]></title>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=32737886 target=_blank>59 comments</a>]]></description>
+            <pubDate>2022-09-06T14:53:25.000Z</pubDate>
+            <guid isPermaLink="false">https://go.dev/blog/vuln</guid>
+            <link>https://go.dev/blog/vuln</link>
+            
+            
+            
+            <author><![CDATA[mfrw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Judge rules Facebook parent Meta intentionally violated campaign finance laws]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=32740814 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=32740814 target=_blank>140 comments</a>]]></description>
             <pubDate>2022-09-06T18:08:48.000Z</pubDate>
             <guid isPermaLink="false">https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign</guid>
             <link>https://www.atg.wa.gov/news/news-releases/ag-ferguson-judge-rules-facebook-parent-meta-intentionally-violated-campaign</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[NASA can now reliably produce a tree’s worth of oxygen on Mars]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=32737596 target=_blank>270 comments</a>]]></description>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=32737596 target=_blank>272 comments</a>]]></description>
             <pubDate>2022-09-06T14:31:41.000Z</pubDate>
             <guid isPermaLink="false">https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/</guid>
             <link>https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Deviations from Chromium (features we disable or remove)]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=32740396 target=_blank>259 comments</a>]]></description>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=32740396 target=_blank>260 comments</a>]]></description>
             <pubDate>2022-09-06T17:39:37.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/</guid>
             <link>https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[San Francisco braces for commercial real estate crash]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=32740071 target=_blank>570 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=32740071 target=_blank>571 comments</a>]]></description>
             <pubDate>2022-09-06T17:14:56.000Z</pubDate>
             <guid isPermaLink="false">https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/</guid>
             <link>https://sfstandard.com/business/san-francisco-braces-for-epic-commercial-real-estate-crash/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[mortenjorck]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Make 3D art in your browser using Lisp and math]]></title>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=32738654 target=_blank>36 comments</a>]]></description>
+            <pubDate>2022-09-06T15:41:27.000Z</pubDate>
+            <guid isPermaLink="false">https://bauble.studio</guid>
+            <link>https://bauble.studio</link>
+            
+            
+            
+            <author><![CDATA[ianthehenry]]></author>
             
                 
             
