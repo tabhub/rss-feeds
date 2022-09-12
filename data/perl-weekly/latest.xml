@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #580]]></title>
+        <title><![CDATA[Perl Weekly #581]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Naming and Object-Oriented Code]]></title>
-            <description><![CDATA[Curtis is back with yet another interesting blog about a subtle issue with naming in object-oriented code. Highly recommended.]]></description>
-            <pubDate>2022.09.02</pubDate>
-            <guid isPermaLink="false">https://ovid.github.io/articles/naming-and-object-oriented-code.html</guid>
-            <link>https://ovid.github.io/articles/naming-and-object-oriented-code.html</link>
+            <title><![CDATA[ANSI Colors and Perl]]></title>
+            <description><![CDATA[A response to another article on using ANSI colors in Perl.]]></description>
+            <pubDate>2022.09.05</pubDate>
+            <guid isPermaLink="false">http://gott-gehabt.de/800_wer_wir_sind/thomas/Homepage/Computer/perl/ansi-colors.html</guid>
+            <link>http://gott-gehabt.de/800_wer_wir_sind/thomas/Homepage/Computer/perl/ansi-colors.html</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
+            <author><![CDATA[thomas_kohler]]></author>
             
                 
             
@@ -34,11 +34,91 @@
         </item>
         
         <item>
-            <title><![CDATA[Segregate Perl Projects with App::plx]]></title>
-            <description><![CDATA[Nice little introduction to the App::plx with detailed discussion. Keep it up great work.]]></description>
-            <pubDate>2022.09.03</pubDate>
-            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/segregate-perl-projects-with-appplx-7oj</guid>
-            <link>https://dev.to/nicholasbhubbard/segregate-perl-projects-with-appplx-7oj</link>
+            <title><![CDATA[Cryptopals 22 - Crack an MT19937 seed]]></title>
+            <description><![CDATA[Cryptopals 22 - Crack an MT19937 seed]]></description>
+            <pubDate>2022.09.05</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/05/cryptopals-22/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/09/05/cryptopals-22/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Release 0.3.0 of my Perl Dist::Zilla GitHub Action]]></title>
+            <description><![CDATA[The release is long over due and the first in two years.]]></description>
+            <pubDate>2022.09.06</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/release-030-of-my-perl-distzilla-github-action-25ig</guid>
+            <link>https://dev.to/jonasbn/release-030-of-my-perl-distzilla-github-action-25ig</link>
+            
+            
+            
+            <author><![CDATA[jonas_nielsen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cryptopals 23 - Clone an MT19937 RNG from its output]]></title>
+            <description><![CDATA[Cryptopals 23 - Clone an MT19937 RNG from its output]]></description>
+            <pubDate>2022.09.06</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/06/cryptopals-23/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/09/06/cryptopals-23/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Release 0.7.0 of Ebirah]]></title>
+            <description><![CDATA[Ebirah is an experimental Docker project for Dist::Zilla. This release contains a minor improvement from Alceu Rodrigues de Freitas Junior.]]></description>
+            <pubDate>2022.09.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/release-070-of-ebirah-213n</guid>
+            <link>https://dev.to/jonasbn/release-070-of-ebirah-213n</link>
+            
+            
+            
+            <author><![CDATA[jonas_nielsen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cryptopals 24 - Create the MT19937 stream cipher and break it]]></title>
+            <description><![CDATA[Cryptopals 24 - Create the MT19937 stream cipher and break it]]></description>
+            <pubDate>2022.09.07</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/07/cryptopals-24/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/09/07/cryptopals-24/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Create a Daemon in Perl with Schedule::Cron]]></title>
+            <description><![CDATA[A daemon is a program that runs in the background for an indefinite period of time. An important daemon on Unix-like operating systems is the cron scheduler that can be configured to perform tasks periodically.]]></description>
+            <pubDate>2022.09.08</pubDate>
+            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/create-a-daemon-in-perl-with-schedulecron-4pb6</guid>
+            <link>https://dev.to/nicholasbhubbard/create-a-daemon-in-perl-with-schedulecron-4pb6</link>
             
             
             
@@ -50,11 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Cryptopals 19 - Break fixed-nonce CTR mode using substitutions (part 1)]]></title>
-            <description><![CDATA[Cryptopals 19 - Break fixed-nonce CTR mode using substitutions (part 1)]]></description>
-            <pubDate>2022.08.29</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/29/cryptopals-19-1/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/08/29/cryptopals-19-1/</link>
+            <title><![CDATA[Cryptopals 25 - Break "random access read/write" AES CTR]]></title>
+            <description><![CDATA[Cryptopals 25 - Break "random access read/write" AES CTR]]></description>
+            <pubDate>2022.09.10</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/10/cryptopals-25/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/09/10/cryptopals-25/</link>
             
             
             
@@ -66,11 +146,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Cryptopals 19 - Break fixed-nonce CTR mode using substitutions (part 2)]]></title>
-            <description><![CDATA[Cryptopals 19 - Break fixed-nonce CTR mode using substitutions (part 2)]]></description>
-            <pubDate>2022.08.30</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/30/cryptopals-19-2/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/08/30/cryptopals-19-2/</link>
+            <title><![CDATA[Cryptopals 26 - CTR bitflipping]]></title>
+            <description><![CDATA[Cryptopals 26 - CTR bitflipping]]></description>
+            <pubDate>2022.09.11</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/11/cryptopals-26/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/09/11/cryptopals-26/</link>
             
             
             
@@ -82,31 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Cryptopals 19 - Break fixed-nonce CTR mode using substitutions (part 3)]]></title>
-            <description><![CDATA[Cryptopals 19 - Break fixed-nonce CTR mode using substitutions (part 3)]]></description>
-            <pubDate>2022.08.31</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/08/31/cryptopals-19-3/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/08/31/cryptopals-19-3/</link>
+            <title><![CDATA[Dancer2: Return JSON]]></title>
+            <description><![CDATA[Dancer2: Return JSON]]></description>
+            <pubDate>2022.09.09</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-return-json</guid>
+            <link>https://perlmaven.com/dancer2-return-json</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Cryptopals 20 - Break fixed-nonce CTR statistically]]></title>
-            <description><![CDATA[Cryptopals 20 - Break fixed-nonce CTR statistically]]></description>
-            <pubDate>2022.09.03</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/03/cryptopals-20/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/09/03/cryptopals-20/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -114,79 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Cryptopals 21 - Implement the MT19937 Mersenne Twister RNG]]></title>
-            <description><![CDATA[Cryptopals 21 - Implement the MT19937 Mersenne Twister RNG]]></description>
-            <pubDate>2022.09.04</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/04/cryptopals-21/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/09/04/cryptopals-21/</link>
+            <title><![CDATA[Use of implicit split to @_ is deprecated ...]]></title>
+            <description><![CDATA[Use of implicit split to @_ is deprecated ...]]></description>
+            <pubDate>2022.09.12</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/use-of-implicit-split-to-is-deprecated</guid>
+            <link>https://perlmaven.com/use-of-implicit-split-to-is-deprecated</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Death: A Terminal Experience]]></title>
-            <description><![CDATA[After a long time, we have blog post by Saif, talking about dealing with surprises.]]></description>
-            <pubDate>2022.09.03</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/saif/2022/09/death-a-terminal-experience.html</guid>
-            <link>http://blogs.perl.org/users/saif/2022/09/death-a-terminal-experience.html</link>
-            
-            
-            
-            <author><![CDATA[saif_ahmed]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[On interpolating stuff into pattern matches]]></title>
-            <description><![CDATA[For all regex fan, nice performance comparison between the presence and absence of /o in regex.]]></description>
-            <pubDate>2022.09.03</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/aristotle/2022/09/reinterpolate.html</guid>
-            <link>http://blogs.perl.org/users/aristotle/2022/09/reinterpolate.html</link>
-            
-            
-            
-            <author><![CDATA[aristotle_pagaltzis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Match Anything, Quickly -- Revision 1]]></title>
-            <description><![CDATA[Regex always present challenge and facing the challenge is never boring.]]></description>
-            <pubDate>2022.09.02</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/tom_wyant/2022/09/match-anything-quickly----revision-1.html</guid>
-            <link>http://blogs.perl.org/users/tom_wyant/2022/09/match-anything-quickly----revision-1.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2022.35 Reworkout]]></title>
-            <description><![CDATA[2022.35 Reworkout]]></description>
-            <pubDate>2022.08.29</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/08/29/2022-35-reworkout/</guid>
-            <link>https://rakudoweekly.blog/2022/08/29/2022-35-reworkout/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -195,8 +195,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/09/cdviii-23-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/09/dxxi-metacpan-weekly-report-datadumper.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/09/dxlix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.09.03</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/09/cdix-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/09/dxxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/09/dl-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.09</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -210,15 +210,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancer2: Sessions]]></title>
-            <description><![CDATA[Dancer2: Sessions]]></description>
-            <pubDate>2022.09.02</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-sessions</guid>
-            <link>https://perlmaven.com/dancer2-sessions</link>
+            <title><![CDATA[What's new in Perl 5.036 (group discussion)]]></title>
+            <description><![CDATA[Tuesday Sept 13th, 2022 07:00 PM Eastern Time (US and Canada)]]></description>
+            
+            <guid isPermaLink="false">https://boston-pm.github.io/</guid>
+            <link>https://boston-pm.github.io/</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -226,15 +226,31 @@
         </item>
         
         <item>
-            <title><![CDATA[ANSI command line colors with Perl]]></title>
-            <description><![CDATA[ANSI command line colors with Perl]]></description>
-            <pubDate>2022.09.05</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/ansi-command-line-colors-with-perl</guid>
-            <link>https://perlmaven.com/ansi-command-line-colors-with-perl</link>
+            <title><![CDATA[In person - co-host with Charlotte Python; stream TBD]]></title>
+            <description><![CDATA[Wednesday, Sept 28, 2022; 06:00 PM Eastern Time (US and Canada)]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/events/</guid>
+            <link>https://www.meetup.com/charlotte-pm/events/</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ovid+LeoNerd on Corinna - OO in Perl5 Core (live but virtual)]]></title>
+            <description><![CDATA[Tuesday Oct 11th, 2022 07:00 PM Eastern Time (US and Canada)]]></description>
+            
+            <guid isPermaLink="false">https://boston-pm.github.io/</guid>
+            <link>https://boston-pm.github.io/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
