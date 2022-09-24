@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The image in this post displays its own MD5 hash]]></title>
-            <description><![CDATA[719 points | <a href=https://news.ycombinator.com/item?id=32956964 target=_blank>125 comments</a>]]></description>
-            <pubDate>2022-09-23T20:58:00.000Z</pubDate>
-            <guid isPermaLink="false">https://retr0.id/notice/ANqlvFZD1eIqjmRiFc</guid>
-            <link>https://retr0.id/notice/ANqlvFZD1eIqjmRiFc</link>
-            
-            
-            
-            <author><![CDATA[kstrauser]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[A mysterious voice is haunting American Airlines’ in-flight announcements]]></title>
             <description><![CDATA[556 points | <a href=https://news.ycombinator.com/item?id=32958319 target=_blank>263 comments</a>]]></description>
             <pubDate>2022-09-23T23:34:00.000Z</pubDate>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mozilla reaffirms that Firefox will continue to support current content blockers]]></title>
-            <description><![CDATA[501 points | <a href=https://news.ycombinator.com/item?id=32960833 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[508 points | <a href=https://news.ycombinator.com/item?id=32960833 target=_blank>146 comments</a>]]></description>
             <pubDate>2022-09-24T08:48:16.000Z</pubDate>
             <guid isPermaLink="false">https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/</guid>
             <link>https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Volvo is using Rust for its in-vehicle software]]></title>
-            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=32960768 target=_blank>269 comments</a>]]></description>
+            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=32960768 target=_blank>271 comments</a>]]></description>
             <pubDate>2022-09-24T08:34:00.000Z</pubDate>
             <guid isPermaLink="false">https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09</guid>
             <link>https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Homemade Heat Pump Manifesto (2009)]]></title>
-            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=32959850 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=32959850 target=_blank>191 comments</a>]]></description>
             <pubDate>2022-09-24T05:02:08.000Z</pubDate>
             <guid isPermaLink="false">https://ecorenovator.org/forum/showthread.php?p=2631#post2631</guid>
             <link>https://ecorenovator.org/forum/showthread.php?p=2631#post2631</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Aging programmer]]></title>
-            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=32961933 target=_blank>228 comments</a>]]></description>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=32961933 target=_blank>232 comments</a>]]></description>
             <pubDate>2022-09-24T12:35:22.000Z</pubDate>
             <guid isPermaLink="false">https://world.hey.com/jorge/aging-programmer-d448bdec</guid>
             <link>https://world.hey.com/jorge/aging-programmer-d448bdec</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Linux on the laptop works so damn well that it’s boring]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=32964519 target=_blank>397 comments</a>]]></description>
+            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=32964519 target=_blank>401 comments</a>]]></description>
             <pubDate>2022-09-24T17:04:50.000Z</pubDate>
             <guid isPermaLink="false">https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941</guid>
             <link>https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Get in zoomer, we're saving React]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=32959397 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=32959397 target=_blank>214 comments</a>]]></description>
             <pubDate>2022-09-24T03:04:33.000Z</pubDate>
             <guid isPermaLink="false">https://acko.net/blog/get-in-zoomer-we-re-saving-react/</guid>
             <link>https://acko.net/blog/get-in-zoomer-we-re-saving-react/</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Want cleaner code? Use the rule of six]]></title>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=32963021 target=_blank>220 comments</a>]]></description>
+            <pubDate>2022-09-24T14:39:58.000Z</pubDate>
+            <guid isPermaLink="false">https://davidamos.dev/the-rule-of-six/</guid>
+            <link>https://davidamos.dev/the-rule-of-six/</link>
+            
+            
+            
+            <author><![CDATA[da12]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[3dfx Voodoo 5 6000 recreated via reverse engineering (2021)]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=32960140 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=32960140 target=_blank>89 comments</a>]]></description>
             <pubDate>2022-09-24T06:25:37.000Z</pubDate>
             <guid isPermaLink="false">https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/</guid>
             <link>https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Want cleaner code? Use the rule of six]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=32963021 target=_blank>218 comments</a>]]></description>
-            <pubDate>2022-09-24T14:39:58.000Z</pubDate>
-            <guid isPermaLink="false">https://davidamos.dev/the-rule-of-six/</guid>
-            <link>https://davidamos.dev/the-rule-of-six/</link>
+            <title><![CDATA[iPhones and action discoverability]]></title>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=32965288 target=_blank>126 comments</a>]]></description>
+            <pubDate>2022-09-24T18:21:20.000Z</pubDate>
+            <guid isPermaLink="false">https://alexanderell.is/posts/iphone-discoverability/</guid>
+            <link>https://alexanderell.is/posts/iphone-discoverability/</link>
             
             
             
-            <author><![CDATA[da12]]></author>
+            <author><![CDATA[otras]]></author>
             
                 
             
