@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #583]]></title>
+        <title><![CDATA[Perl Weekly #584]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[ETOOBUSY turns 1000]]></title>
-            <description><![CDATA[Congratulations!]]></description>
-            <pubDate>2022.09.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/21/etoobusy-1000/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/09/21/etoobusy-1000/</link>
+            <title><![CDATA[TPF launches merch store for Perl 5]]></title>
+            <description><![CDATA[TPF has launched an online store with Perl merchandise celebrating the Perl 5.36 release.]]></description>
+            <pubDate>2022.09.24</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/dean/2022/09/tpf-launches-merch-store-for-perl-5.html</guid>
+            <link>http://blogs.perl.org/users/dean/2022/09/tpf-launches-merch-store-for-perl-5.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[dean_hamstead]]></author>
             
                 
             
@@ -34,11 +34,43 @@
         </item>
         
         <item>
-            <title><![CDATA[Types, Objects, and Systems, Oh my!]]></title>
-            <description><![CDATA[This article introduces Venus::Assert, a simple data type assertion class that could serve as the foundation for a future object-oriented type assertion and coercion system for Perl 5.]]></description>
-            <pubDate>2022.09.19</pubDate>
-            <guid isPermaLink="false">https://dev.to/iamalnewkirk/types-objects-and-systems-oh-my-27hk</guid>
-            <link>https://dev.to/iamalnewkirk/types-objects-and-systems-oh-my-27hk</link>
+            <title><![CDATA[Meet jp]]></title>
+            <description><![CDATA[Nice little introduction to the JSON tool jp by Stefan.]]></description>
+            <pubDate>2022.10.01</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/stefan_adams/2022/10/meet-jp.html</guid>
+            <link>http://blogs.perl.org/users/stefan_adams/2022/10/meet-jp.html</link>
+            
+            
+            
+            <author><![CDATA[stefan_adams]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sending a simple email]]></title>
+            <description><![CDATA[Do you need SMTP authentication during email sending? Den sharing an example how to deal with it.]]></description>
+            <pubDate>2022.09.30</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/den/2022/09/sending-simple-email.html</guid>
+            <link>http://blogs.perl.org/users/den/2022/09/sending-simple-email.html</link>
+            
+            
+            
+            <author><![CDATA[den]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My Perl Weekly Challenge]]></title>
+            <description><![CDATA[Interesting challenge to deal with typing with examples. You must checkout.]]></description>
+            <pubDate>2022.09.23</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/al_newkirk/2022/09/my-perl-weekly-challenge.html</guid>
+            <link>http://blogs.perl.org/users/al_newkirk/2022/09/my-perl-weekly-challenge.html</link>
             
             
             
@@ -50,27 +82,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Net::SAML2 0.60 TRIAL Released]]></title>
-            <description><![CDATA[Net::SAML2 0.60 TRIAL Released]]></description>
-            <pubDate>2022.09.19</pubDate>
-            <guid isPermaLink="false">https://dev.to/timlegge/netsaml2-060-trial-released-m81</guid>
-            <link>https://dev.to/timlegge/netsaml2-060-trial-released-m81</link>
-            
-            
-            
-            <author><![CDATA[timothy_legge]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Cryptopals 31 - Implement and break HMAC-SHA1 with an artificial timing leak]]></title>
-            <description><![CDATA[Cryptopals 31 - Implement and break HMAC-SHA1 with an artificial timing leak]]></description>
-            <pubDate>2022.09.19</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/19/cryptopals-31/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/09/19/cryptopals-31/</link>
+            <title><![CDATA[Cryptopals 35 - Implement DH with negotiated groups...]]></title>
+            <description><![CDATA[Cryptopals 35 - Implement DH with negotiated groups...]]></description>
+            <pubDate>2022.09.26</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/26/cryptopals-35/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/09/26/cryptopals-35/</link>
             
             
             
@@ -82,11 +98,75 @@
         </item>
         
         <item>
-            <title><![CDATA[Read section of a file]]></title>
-            <description><![CDATA[A simple example using seek and read.]]></description>
-            <pubDate>2022.09.20</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/read-section-of-a-file</guid>
-            <link>https://perlmaven.com/read-section-of-a-file</link>
+            <title><![CDATA[Cryptopals 36 - Implement Secure Remote Password (SRP)]]></title>
+            <description><![CDATA[Cryptopals 36 - Implement Secure Remote Password (SRP)]]></description>
+            <pubDate>2022.09.27</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/27/cryptopals-36/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/09/27/cryptopals-36/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cryptopals Diversion 3 - SRP server and client]]></title>
+            <description><![CDATA[Cryptopals Diversion 3 - SRP server and client]]></description>
+            <pubDate>2022.09.28</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/28/cryptopals-d3/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/09/28/cryptopals-d3/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cryptopals 37 - Break SRP with a zero key]]></title>
+            <description><![CDATA[Cryptopals 37 - Break SRP with a zero key]]></description>
+            <pubDate>2022.10.01</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/01/cryptopals-37/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/01/cryptopals-37/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cryptopals 38 - Offline dictionary attack on simplified SRP]]></title>
+            <description><![CDATA[Cryptopals 38 - Offline dictionary attack on simplified SRP]]></description>
+            <pubDate>2022.10.02</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/02/cryptopals-38/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/02/cryptopals-38/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Multi dimensional arrays in Perl]]></title>
+            <description><![CDATA[Multi dimensional arrays in Perl]]></description>
+            <pubDate>2022.03.01</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/multi-dimensional-arrays-in-perl</guid>
+            <link>https://perlmaven.com/multi-dimensional-arrays-in-perl</link>
             
             
             
@@ -98,127 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Cryptopals 32 - Break HMAC-SHA1 with a slightly less artificial timing leak]]></title>
-            <description><![CDATA[Cryptopals 32 - Break HMAC-SHA1 with a slightly less artificial timing leak]]></description>
-            <pubDate>2022.09.20</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/20/cryptopals-32/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/09/20/cryptopals-32/</link>
+            <title><![CDATA[2022.39 Upcoming Hacking]]></title>
+            <description><![CDATA[2022.39 Upcoming Hacking]]></description>
+            <pubDate>2022.09.26</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2022/09/26/2022-39-upcoming-hacking/</guid>
+            <link>https://rakudoweekly.blog/2022/09/26/2022-39-upcoming-hacking/</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Class::Plain - Class Syntax for Hash-Based Perl OO]]></title>
-            <description><![CDATA[Class::Plain - Class Syntax for Hash-Based Perl OO]]></description>
-            <pubDate>2022.09.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/yukikimoto/classplain-class-syntax-for-hash-based-perl-oo-4j6a</guid>
-            <link>https://dev.to/yukikimoto/classplain-class-syntax-for-hash-based-perl-oo-4j6a</link>
-            
-            
-            
-            <author><![CDATA[yuki_kimoto]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Named Subroutine Arguments in Perl]]></title>
-            <description><![CDATA[Naming your subroutine arguments has benefits around increasing the readability of your code.]]></description>
-            <pubDate>2022.09.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/named-subroutine-arguments-in-perl-2a3h</guid>
-            <link>https://dev.to/nicholasbhubbard/named-subroutine-arguments-in-perl-2a3h</link>
-            
-            
-            
-            <author><![CDATA[nicholas_hubbard]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Cryptopals 33 - Implement Diffie-Hellman]]></title>
-            <description><![CDATA[Cryptopals 33 - Implement Diffie-Hellman]]></description>
-            <pubDate>2022.09.24</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/24/cryptopals-33/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/09/24/cryptopals-33/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[course change for Kephra]]></title>
-            <description><![CDATA[course change for Kephra]]></description>
-            <pubDate>2022.09.25</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/lichtkind/2022/09/course-change-for-kephra.html</guid>
-            <link>http://blogs.perl.org/users/lichtkind/2022/09/course-change-for-kephra.html</link>
-            
-            
-            
-            <author><![CDATA[herbert_breunung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Enable GitHub Actions for CI on Math::Polynomial::Chebyshev]]></title>
-            <description><![CDATA[A little contribution to an Open Source project.]]></description>
-            <pubDate>2022.09.25</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/enable-github-actions-on-chebyshev</guid>
-            <link>https://perlmaven.com/enable-github-actions-on-chebyshev</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Cryptopals 34 - Implement a MITM key-fixing attack on Diffie-Hellman...]]></title>
-            <description><![CDATA[Cryptopals 34 - Implement a MITM key-fixing attack on Diffie-Hellman...]]></description>
-            <pubDate>2022.09.25</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/09/25/cryptopals-34/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/09/25/cryptopals-34/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2: Exercise 3 - Simple Single-user TODO list AP]]></title>
-            <description><![CDATA[Dancer2: Exercise 3 - Simple Single-user TODO list AP]]></description>
-            <pubDate>2022.09.23</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-exercise-3</guid>
-            <link>https://perlmaven.com/dancer2-exercise-3</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -227,8 +195,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/09/cdxi-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/09/dxxiv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/09/dlii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.09.24</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/10/cdxii-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dxxv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dliii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.10.01</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -242,15 +210,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Office Hours - Charlotte PM co-host with Charlotte Python; in-person only, Optimist Hall]]></title>
-            <description><![CDATA[Wednesday, Sept 28, 2022; 06:00 PM Eastern Time (US and Canada)]]></description>
+            <title><![CDATA[Dancer2: Solution 3 - Simple Single-user TODO list AP]]></title>
+            <description><![CDATA[Part of the <a href="https://perlmaven.com/dancer">Perl Dancer course</a>.]]></description>
+            <pubDate>2022.09.27</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-solution-3-simple-todo-api</guid>
+            <link>https://perlmaven.com/dancer2-solution-3-simple-todo-api</link>
             
-            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/events/288492557/</guid>
-            <link>https://www.meetup.com/charlotte-pm/events/288492557/</link>
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Docker course]]></title>
+            <description><![CDATA[Started to publish the parts of the Docker course that was recorded 2 years ago. 4 parts are already public.]]></description>
+            <pubDate>2022.09.29</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/docker</guid>
+            <link>https://code-maven.com/docker</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Programming Boootcamp for Scientists]]></title>
+            <description><![CDATA[Published 2 new part of the Python for beginners course.]]></description>
+            <pubDate>2022.09.28</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/programming-bootcamp-for-scientists</guid>
+            <link>https://code-maven.com/programming-bootcamp-for-scientists</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
