@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: America – Road Trip Simulator]]></title>
-            <description><![CDATA[483 points | <a href=https://news.ycombinator.com/item?id=33217395 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[489 points | <a href=https://news.ycombinator.com/item?id=33217395 target=_blank>132 comments</a>]]></description>
             <pubDate>2022-10-15T18:39:54.000Z</pubDate>
             <guid isPermaLink="false">https://4m3ric4.com</guid>
             <link>https://4m3ric4.com</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Uncovering a 24-year-old bug in the Linux Kernel (2021)]]></title>
-            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=33214439 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[461 points | <a href=https://news.ycombinator.com/item?id=33214439 target=_blank>61 comments</a>]]></description>
             <pubDate>2022-10-15T13:08:59.000Z</pubDate>
             <guid isPermaLink="false">https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/</guid>
             <link>https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/</link>
@@ -66,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Everyone going to World Cup must have this app, experts are sounding the alarm]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=33212168 target=_blank>311 comments</a>]]></description>
-            <pubDate>2022-10-15T06:05:17.000Z</pubDate>
-            <guid isPermaLink="false">https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267</guid>
-            <link>https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267</link>
+            <title><![CDATA[Moving from React to Htmx]]></title>
+            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=33218439 target=_blank>153 comments</a>]]></description>
+            <pubDate>2022-10-15T20:43:30.000Z</pubDate>
+            <guid isPermaLink="false">https://htmx.org/essays/a-real-world-react-to-htmx-port/</guid>
+            <link>https://htmx.org/essays/a-real-world-react-to-htmx-port/</link>
             
             
             
-            <author><![CDATA[ingve]]></author>
+            <author><![CDATA[mpweiher]]></author>
             
                 
             
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[We're moving on from Firebase]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=33215770 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=33215770 target=_blank>195 comments</a>]]></description>
             <pubDate>2022-10-15T15:42:30.000Z</pubDate>
             <guid isPermaLink="false">https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase</guid>
             <link>https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase</link>
@@ -91,22 +91,6 @@
             
             
             <author><![CDATA[jackconsidine]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Moving from React to Htmx]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=33218439 target=_blank>149 comments</a>]]></description>
-            <pubDate>2022-10-15T20:43:30.000Z</pubDate>
-            <guid isPermaLink="false">https://htmx.org/essays/a-real-world-react-to-htmx-port/</guid>
-            <link>https://htmx.org/essays/a-real-world-react-to-htmx-port/</link>
-            
-            
-            
-            <author><![CDATA[mpweiher]]></author>
             
                 
             
@@ -130,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Even after $100B, self-driving cars are going nowhere]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=33212850 target=_blank>371 comments</a>]]></description>
-            <pubDate>2022-10-15T08:12:32.000Z</pubDate>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere</guid>
-            <link>https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere</link>
-            
-            
-            
-            <author><![CDATA[simonebrunozzi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Bocker: Docker implemented in around 100 lines of Bash (2015)]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=33218094 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=33218094 target=_blank>83 comments</a>]]></description>
             <pubDate>2022-10-15T20:00:39.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/p8952/bocker</guid>
             <link>https://github.com/p8952/bocker</link>
@@ -162,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Even after $100B, self-driving cars are going nowhere]]></title>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=33212850 target=_blank>375 comments</a>]]></description>
+            <pubDate>2022-10-15T08:12:32.000Z</pubDate>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere</guid>
+            <link>https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere</link>
+            
+            
+            
+            <author><![CDATA[simonebrunozzi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Former WSJ reporter says law firm used Indian hackers to sabotage his career]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=33217265 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=33217265 target=_blank>88 comments</a>]]></description>
             <pubDate>2022-10-15T18:23:47.000Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/legal/former-wsj-reporter-says-law-firm-used-indian-hackers-sabotage-his-career-2022-10-15/</guid>
             <link>https://www.reuters.com/legal/former-wsj-reporter-says-law-firm-used-indian-hackers-sabotage-his-career-2022-10-15/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Ardour 7.0]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=33215431 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=33215431 target=_blank>65 comments</a>]]></description>
             <pubDate>2022-10-15T15:02:01.000Z</pubDate>
             <guid isPermaLink="false">https://ardour.org/whatsnew.html</guid>
             <link>https://ardour.org/whatsnew.html</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Let's order strange things from NIST]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=33212290 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=33212290 target=_blank>48 comments</a>]]></description>
             <pubDate>2022-10-15T06:28:10.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/tubetimeus/status/1335061382501261312</guid>
             <link>https://twitter.com/tubetimeus/status/1335061382501261312</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[ggm]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Possibly a new way of drawing boxes in the terminal]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=33216626 target=_blank>87 comments</a>]]></description>
+            <pubDate>2022-10-15T17:15:01.000Z</pubDate>
+            <guid isPermaLink="false">https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/</guid>
+            <link>https://www.willmcgugan.com/blog/tech/post/ceo-just-wants-to-draw-boxes/</link>
+            
+            
+            
+            <author><![CDATA[willm]]></author>
             
                 
             
