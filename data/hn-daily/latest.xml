@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Moving from React to htmx]]></title>
-            <description><![CDATA[497 points | <a href=https://news.ycombinator.com/item?id=33218439 target=_blank>255 comments</a>]]></description>
+            <description><![CDATA[499 points | <a href=https://news.ycombinator.com/item?id=33218439 target=_blank>257 comments</a>]]></description>
             <pubDate>2022-10-15T20:43:30.000Z</pubDate>
             <guid isPermaLink="false">https://htmx.org/essays/a-real-world-react-to-htmx-port/</guid>
             <link>https://htmx.org/essays/a-real-world-react-to-htmx-port/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Bocker: Docker implemented in around 100 lines of Bash (2015)]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=33218094 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=33218094 target=_blank>106 comments</a>]]></description>
             <pubDate>2022-10-15T20:00:39.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/p8952/bocker</guid>
             <link>https://github.com/p8952/bocker</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Trying new programming languages helped me grow as a software engineer]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=33222357 target=_blank>155 comments</a>]]></description>
-            <pubDate>2022-10-16T09:29:46.000Z</pubDate>
-            <guid isPermaLink="false">https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer</guid>
-            <link>https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer</link>
-            
-            
-            
-            <author><![CDATA[baransu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Jessica Wade made more than 1k Wikipedia bios for unknown women scientists]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=33223953 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=33223953 target=_blank>181 comments</a>]]></description>
             <pubDate>2022-10-16T14:43:18.000Z</pubDate>
             <guid isPermaLink="false">https://www.today.com/parents/jessica-wade-wikipedia-women-scientists-rcna51628</guid>
             <link>https://www.today.com/parents/jessica-wade-wikipedia-women-scientists-rcna51628</link>
@@ -107,6 +91,22 @@
             
             
             <author><![CDATA[Brajeshwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Trying new programming languages helped me grow as a software engineer]]></title>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=33222357 target=_blank>157 comments</a>]]></description>
+            <pubDate>2022-10-16T09:29:46.000Z</pubDate>
+            <guid isPermaLink="false">https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer</guid>
+            <link>https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer</link>
+            
+            
+            
+            <author><![CDATA[baransu]]></author>
             
                 
             
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Compiler Explorer]]></title>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=33224542 target=_blank>48 comments</a>]]></description>
+            <pubDate>2022-10-16T15:50:51.000Z</pubDate>
+            <guid isPermaLink="false">https://godbolt.org/</guid>
+            <link>https://godbolt.org/</link>
+            
+            
+            
+            <author><![CDATA[disadvantage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I *detest* the crazy industry politics that made ECC memory so “special”]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=33224680 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=33224680 target=_blank>157 comments</a>]]></description>
             <pubDate>2022-10-16T16:08:24.000Z</pubDate>
             <guid isPermaLink="false">https://lkml.iu.edu/hypermail/linux/kernel/2210.1/00691.html</guid>
             <link>https://lkml.iu.edu/hypermail/linux/kernel/2210.1/00691.html</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Warpd: A modal keyboard-driven virtual pointer]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=33221901 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=33221901 target=_blank>82 comments</a>]]></description>
             <pubDate>2022-10-16T07:43:35.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/rvaiya/warpd</guid>
             <link>https://github.com/rvaiya/warpd</link>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Compiler Explorer]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=33224542 target=_blank>44 comments</a>]]></description>
-            <pubDate>2022-10-16T15:50:51.000Z</pubDate>
-            <guid isPermaLink="false">https://godbolt.org/</guid>
-            <link>https://godbolt.org/</link>
+            <title><![CDATA[Announcing KataOS and Sparrow]]></title>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=33222400 target=_blank>143 comments</a>]]></description>
+            <pubDate>2022-10-16T09:42:49.000Z</pubDate>
+            <guid isPermaLink="false">https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html</guid>
+            <link>https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html</link>
             
             
             
-            <author><![CDATA[disadvantage]]></author>
+            <author><![CDATA[nix23]]></author>
             
                 
             
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Poll: Is there a negative stigma toward articles written in Medium?]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=33223222 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=33223222 target=_blank>172 comments</a>]]></description>
             <pubDate>2022-10-16T12:53:34.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=33223222</guid>
             <link>https://news.ycombinator.com/item?id=33223222</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[LinuxBender]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Announcing KataOS and Sparrow]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=33222400 target=_blank>142 comments</a>]]></description>
-            <pubDate>2022-10-16T09:42:49.000Z</pubDate>
-            <guid isPermaLink="false">https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html</guid>
-            <link>https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html</link>
-            
-            
-            
-            <author><![CDATA[nix23]]></author>
             
                 
             
