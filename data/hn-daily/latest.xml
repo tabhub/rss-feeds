@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The HTTP crash course nobody asked for]]></title>
-            <description><![CDATA[705 points | <a href=https://news.ycombinator.com/item?id=33280605 target=_blank>107 comments</a>]]></description>
-            <pubDate>2022-10-20T20:58:54.000Z</pubDate>
-            <guid isPermaLink="false">https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for</guid>
-            <link>https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for</link>
-            
-            
-            
-            <author><![CDATA[gbrown_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Restfox – Open source lightweight alternative to Postman]]></title>
-            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=33287137 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[490 points | <a href=https://news.ycombinator.com/item?id=33287137 target=_blank>139 comments</a>]]></description>
             <pubDate>2022-10-21T12:06:31.000Z</pubDate>
             <guid isPermaLink="false">https://restfox.dev</guid>
             <link>https://restfox.dev</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Stop Scanning Me]]></title>
-            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=33281148 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=33281148 target=_blank>127 comments</a>]]></description>
             <pubDate>2022-10-20T21:37:56.000Z</pubDate>
             <guid isPermaLink="false">https://stopscanningme.eu/en/</guid>
             <link>https://stopscanningme.eu/en/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[SHA-3 Buffer Overflow]]></title>
-            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=33281106 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=33281106 target=_blank>159 comments</a>]]></description>
             <pubDate>2022-10-20T21:34:55.000Z</pubDate>
             <guid isPermaLink="false">https://mouha.be/sha-3-buffer-overflow/</guid>
             <link>https://mouha.be/sha-3-buffer-overflow/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Linux M1 GPU driver passes 99% of the dEQP-GLES2 compliance tests]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=33288706 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=33288706 target=_blank>107 comments</a>]]></description>
             <pubDate>2022-10-21T15:00:42.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/linaasahi/status/1583444549648543744</guid>
             <link>https://twitter.com/linaasahi/status/1583444549648543744</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Illegal host, electric shocks, slugs, leaks and no support – How Airbnb failed]]></title>
-            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=33286238 target=_blank>369 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=33286238 target=_blank>369 comments</a>]]></description>
             <pubDate>2022-10-21T09:38:10.000Z</pubDate>
             <guid isPermaLink="false">https://medium.com/@julia.airbnb.horrorstory/illegal-host-electric-shocks-slugs-leaks-and-no-support-how-airbnb-failed-ae89925fca7b</guid>
             <link>https://medium.com/@julia.airbnb.horrorstory/illegal-host-electric-shocks-slugs-leaks-and-no-support-how-airbnb-failed-ae89925fca7b</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[The availability of text generators will force positive changes to education]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=33287952 target=_blank>338 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=33287952 target=_blank>339 comments</a>]]></description>
             <pubDate>2022-10-21T13:47:16.000Z</pubDate>
             <guid isPermaLink="false">https://aisnakeoil.substack.com/p/students-are-acing-their-homework</guid>
             <link>https://aisnakeoil.substack.com/p/students-are-acing-their-homework</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Why we chose not to release Stable Diffusion 1.5 as quickly]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=33283712 target=_blank>329 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=33283712 target=_blank>330 comments</a>]]></description>
             <pubDate>2022-10-21T02:25:56.000Z</pubDate>
             <guid isPermaLink="false">https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai</guid>
             <link>https://danieljeffries.substack.com/p/why-the-future-of-open-source-ai</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[The Commodordion]]></title>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=33290863 target=_blank>33 comments</a>]]></description>
+            <pubDate>2022-10-21T17:44:50.000Z</pubDate>
+            <guid isPermaLink="false">https://linusakesson.net/commodordion/index.php</guid>
+            <link>https://linusakesson.net/commodordion/index.php</link>
+            
+            
+            
+            <author><![CDATA[cowtools]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Blink-182 tickets are so expensive because Ticketmaster is a monopoly]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=33288709 target=_blank>340 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=33288709 target=_blank>344 comments</a>]]></description>
             <pubDate>2022-10-21T15:00:53.000Z</pubDate>
             <guid isPermaLink="false">https://www.vice.com/en/article/m7gx34/blink-182-tickets-are-so-expensive-because-ticketmaster-is-a-disastrous-monopoly-and-now-everyone-pays-ticket-broker-prices</guid>
             <link>https://www.vice.com/en/article/m7gx34/blink-182-tickets-are-so-expensive-because-ticketmaster-is-a-disastrous-monopoly-and-now-everyone-pays-ticket-broker-prices</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Commodordion]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=33290863 target=_blank>30 comments</a>]]></description>
-            <pubDate>2022-10-21T17:44:50.000Z</pubDate>
-            <guid isPermaLink="false">https://linusakesson.net/commodordion/index.php</guid>
-            <link>https://linusakesson.net/commodordion/index.php</link>
+            <title><![CDATA[Starlink signals can be reverse-engineered to work like GPS]]></title>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=33287224 target=_blank>114 comments</a>]]></description>
+            <pubDate>2022-10-21T12:18:19.000Z</pubDate>
+            <guid isPermaLink="false">https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/</guid>
+            <link>https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/</link>
             
             
             
-            <author><![CDATA[cowtools]]></author>
+            <author><![CDATA[SanjayMehta]]></author>
             
                 
             
