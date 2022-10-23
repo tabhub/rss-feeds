@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[A chill driving game with procedurally generate scenic landscapes]]></title>
-            <description><![CDATA[526 points | <a href=https://news.ycombinator.com/item?id=33305234 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[536 points | <a href=https://news.ycombinator.com/item?id=33305234 target=_blank>155 comments</a>]]></description>
             <pubDate>2022-10-23T07:24:52.000Z</pubDate>
             <guid isPermaLink="false">https://slowroads.io/</guid>
             <link>https://slowroads.io/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Five origami books by Shuzo Fujimoto are now public domain]]></title>
-            <description><![CDATA[395 points | <a href=https://news.ycombinator.com/item?id=33307845 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=33307845 target=_blank>25 comments</a>]]></description>
             <pubDate>2022-10-23T15:50:51.000Z</pubDate>
             <guid isPermaLink="false">https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain</guid>
             <link>https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Is Anyone Else Tired of the Self Enforced Limits on AI Tech?]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=33306168 target=_blank>346 comments</a>]]></description>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=33306168 target=_blank>346 comments</a>]]></description>
             <pubDate>2022-10-23T11:37:23.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=33306168</guid>
             <link>https://news.ycombinator.com/item?id=33306168</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Pocket Casts goes open source]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=33304184 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=33304184 target=_blank>128 comments</a>]]></description>
             <pubDate>2022-10-23T03:01:32.000Z</pubDate>
             <guid isPermaLink="false">https://ma.tt/2022/10/open-source-podcasting-client/</guid>
             <link>https://ma.tt/2022/10/open-source-podcasting-client/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Cloudflare Pages: Best server tech since CGI-bin?]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=33307950 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=33307950 target=_blank>141 comments</a>]]></description>
             <pubDate>2022-10-23T16:03:30.000Z</pubDate>
             <guid isPermaLink="false">https://taras.glek.net/post/cloudflare-pages-kind-of-amazing/</guid>
             <link>https://taras.glek.net/post/cloudflare-pages-kind-of-amazing/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Wolfgang Denk, creator of the U-Boot bootloader, has died]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=33307306 target=_blank>18 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=33307306 target=_blank>19 comments</a>]]></description>
             <pubDate>2022-10-23T14:31:12.000Z</pubDate>
             <guid isPermaLink="false">https://lists.denx.de/pipermail/u-boot/2022-October/497955.html</guid>
             <link>https://lists.denx.de/pipermail/u-boot/2022-October/497955.html</link>
@@ -162,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[The Raspberry Pi 400 in My Bedroom]]></title>
-            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=33302748 target=_blank>39 comments</a>]]></description>
-            <pubDate>2022-10-22T22:24:40.000Z</pubDate>
-            <guid isPermaLink="false">https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html</guid>
-            <link>https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Curl doesn't add libproxy due to its quality issues]]></title>
             <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=33306378 target=_blank>52 comments</a>]]></description>
             <pubDate>2022-10-23T12:21:24.000Z</pubDate>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[fagnerbrack]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Textual TUI framework for Python adds CSS renderer]]></title>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=33306881 target=_blank>42 comments</a>]]></description>
+            <pubDate>2022-10-23T13:35:24.000Z</pubDate>
+            <guid isPermaLink="false">https://www.textualize.io/blog/posts/textual-0-point-2-point-0</guid>
+            <link>https://www.textualize.io/blog/posts/textual-0-point-2-point-0</link>
+            
+            
+            
+            <author><![CDATA[willm]]></author>
             
                 
             
