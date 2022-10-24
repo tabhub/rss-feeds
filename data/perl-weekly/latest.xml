@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #586]]></title>
+        <title><![CDATA[Perl Weekly #587]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,91 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Class::Plain supports Role using Role::Tiny]]></title>
-            <description><![CDATA[Announcement by Yuki-san, support of Role now available by Class::Plain v0.05.]]></description>
-            <pubDate>2022.10.11</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/yuki_kimoto/2022/10/classplain-supports-role-using-roletiny.html</guid>
-            <link>http://blogs.perl.org/users/yuki_kimoto/2022/10/classplain-supports-role-using-roletiny.html</link>
-            
-            
-            
-            <author><![CDATA[yuki_kimoto]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Frankfurter Perl Workshop 2022 - 6.11.2022]]></title>
-            <description><![CDATA[Announcement of another Perl Workshop by Max. Please do join the event if you can.]]></description>
-            <pubDate>2022.10.10</pubDate>
-            <guid isPermaLink="false">http://blogs.perl.org/users/max_maischein/2022/10/frankfurter-perl-workshop-2022---6112022.html</guid>
-            <link>http://blogs.perl.org/users/max_maischein/2022/10/frankfurter-perl-workshop-2022---6112022.html</link>
-            
-            
-            
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A Github Workflow guide for CPAN modules]]></title>
-            <description><![CDATA[A thorough and detailed guide for anyone wants to play with GitHub Workflow. Kudos to your effort, Julien.]]></description>
-            <pubDate>2022.10.16</pubDate>
-            <guid isPermaLink="false">https://simbabque.github.io/posts/github-workflow-guide-for-modules/</guid>
-            <link>https://simbabque.github.io/posts/github-workflow-guide-for-modules/</link>
-            
-            
-            
-            <author><![CDATA[simbabque]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Passphrases]]></title>
-            <description><![CDATA[After a long time, I found the subject is explained in detail. All your questions answered in this blog post. ]]></description>
-            <pubDate>2022.10.10</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/10/passphrases/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/10/10/passphrases/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Diceware]]></title>
-            <description><![CDATA[Another ineresting topic discussed. I really enjoyed it. Lots of informations to process.]]></description>
-            <pubDate>2022.10.11</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/11/diceware/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/10/11/diceware/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Global symbol requires explicit package name]]></title>
-            <description><![CDATA[Global symbol requires explicit package name]]></description>
-            <pubDate>2022.10.16</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/global-symbol-requires-explicit-package-name</guid>
-            <link>https://perlmaven.com/global-symbol-requires-explicit-package-name</link>
+            <title><![CDATA[CI for CPAN modules]]></title>
+            <description><![CDATA[CI for CPAN modules]]></description>
+            <pubDate>2022.10.17</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/ci-for-cpan-modules</guid>
+            <link>https://perlmaven.com/ci-for-cpan-modules</link>
             
             
             
@@ -114,15 +34,143 @@
         </item>
         
         <item>
-            <title><![CDATA[2022.41 On Your Phone]]></title>
-            <description><![CDATA[2022.41 On Your Phone]]></description>
-            <pubDate>2022.10.10</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/10/10/2022-41-on-your-phone/</guid>
-            <link>https://rakudoweekly.blog/2022/10/10/2022-41-on-your-phone/</link>
+            <title><![CDATA[Expanding words in NVdB]]></title>
+            <description><![CDATA[Expanding words in NVdB]]></description>
+            <pubDate>2022.10.17</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/17/nvdb-expansions/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/17/nvdb-expansions/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Containers for Coverage]]></title>
+            <description><![CDATA[Containers for Coverage]]></description>
+            <pubDate>2022.10.18</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2022/10/containers-for-coverage/</guid>
+            <link>https://perlhacks.com/2022/10/containers-for-coverage/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Expanding verbs in NVdB]]></title>
+            <description><![CDATA[Expanding verbs in NVdB]]></description>
+            <pubDate>2022.10.18</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/18/nvdb-expand-verbs/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/18/nvdb-expand-verbs/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Expanding nouns and adjectives in NVdB]]></title>
+            <description><![CDATA[Expanding nouns and adjectives in NVdB]]></description>
+            <pubDate>2022.10.19</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/19/nvdb-expand-nouns-adjectives/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/19/nvdb-expand-nouns-adjectives/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Grouping in NVdB]]></title>
+            <description><![CDATA[Grouping in NVdB]]></description>
+            <pubDate>2022.10.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/22/nvdb-grouping/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/22/nvdb-grouping/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Use Dist::Zilla to Create a Perl Distribution]]></title>
+            <description><![CDATA[A short introduction with the most commonly used plugins of Dist::Zilla.]]></description>
+            <pubDate>2022.10.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/use-distzilla-to-create-a-perl-distribution-2c5i</guid>
+            <link>https://dev.to/nicholasbhubbard/use-distzilla-to-create-a-perl-distribution-2c5i</link>
+            
+            
+            
+            <author><![CDATA[nicholas_hubbard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Challenges, Solutions and more Challenges and more Solutions]]></title>
+            <description><![CDATA[Challenges, Solutions and more Challenges and more Solutions]]></description>
+            <pubDate>2022.10.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/challenges-solutions-and-more-challenges-and-more-solutions-4j3f</guid>
+            <link>https://dev.to/jonasbn/challenges-solutions-and-more-challenges-and-more-solutions-4j3f</link>
+            
+            
+            
+            <author><![CDATA[jonas_nielsen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Compactification in NVdB]]></title>
+            <description><![CDATA[Compactification in NVdB]]></description>
+            <pubDate>2022.10.23</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/23/nvdb-compactification/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/23/nvdb-compactification/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2: Template Tiny]]></title>
+            <description><![CDATA[Dancer2: Template Tiny]]></description>
+            <pubDate>2022.10.19</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-template-tiny</guid>
+            <link>https://perlmaven.com/dancer2-template-tiny</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -131,46 +179,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/10/cdxiv-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dxxvii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dlv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.10.15</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/10/cdxv-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dxxviii-metacpan-weekly-report-texttable.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dlvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.10</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ruby Digger]]></title>
-            <description><![CDATA[Similar to the <a href="https://cpan-digger.perlmaven.com/">CPAN Digger</a> and the <a href="https://pydigger.com/">PyDigger</a>, there is now a Ruby Digger to locate Ruby Gems that could be improved by adding Continuous Integration]]></description>
-            <pubDate>2022.10.15</pubDate>
-            <guid isPermaLink="false">http://ruby-digger.code-maven.com/</guid>
-            <link>http://ruby-digger.code-maven.com/</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Contirbution to Open Source projects]]></title>
-            <description><![CDATA[A number of blog posts and YouTue videos on contributing to Open Source projects.]]></description>
-            <pubDate>2022.10.16</pubDate>
-            <guid isPermaLink="false">https://code-maven.com/os</guid>
-            <link>https://code-maven.com/os</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
