@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[My dad's resume and skills from 1980]]></title>
-            <description><![CDATA[1202 points | <a href=https://news.ycombinator.com/item?id=33330864 target=_blank>508 comments</a>]]></description>
+            <description><![CDATA[1222 points | <a href=https://news.ycombinator.com/item?id=33330864 target=_blank>516 comments</a>]]></description>
             <pubDate>2022-10-25T14:25:15.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/runvnc/dadsresume</guid>
             <link>https://github.com/runvnc/dadsresume</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Python 3.11.0 final]]></title>
-            <description><![CDATA[602 points | <a href=https://news.ycombinator.com/item?id=33327896 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[603 points | <a href=https://news.ycombinator.com/item?id=33327896 target=_blank>276 comments</a>]]></description>
             <pubDate>2022-10-25T08:47:05.000Z</pubDate>
             <guid isPermaLink="false">https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291</guid>
             <link>https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Turbopack, the successor to Webpack]]></title>
-            <description><![CDATA[526 points | <a href=https://news.ycombinator.com/item?id=33333695 target=_blank>245 comments</a>]]></description>
+            <description><![CDATA[535 points | <a href=https://news.ycombinator.com/item?id=33333695 target=_blank>248 comments</a>]]></description>
             <pubDate>2022-10-25T17:35:28.000Z</pubDate>
             <guid isPermaLink="false">https://vercel.com/blog/turbopack</guid>
             <link>https://vercel.com/blog/turbopack</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Stranger Strings: An exploitable flaw in SQLite]]></title>
-            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=33329184 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=33329184 target=_blank>125 comments</a>]]></description>
             <pubDate>2022-10-25T11:40:43.000Z</pubDate>
             <guid isPermaLink="false">https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/</guid>
             <link>https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[From zero to 10M lines of Kotlin]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=33329509 target=_blank>306 comments</a>]]></description>
-            <pubDate>2022-10-25T12:19:41.000Z</pubDate>
-            <guid isPermaLink="false">https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/</guid>
-            <link>https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/</link>
-            
-            
-            
-            <author><![CDATA[binkHN]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NY Supreme Court reinstates NYC's fired unvaccinated employees, orders backpay]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=33336636 target=_blank>214 comments</a>]]></description>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=33336636 target=_blank>227 comments</a>]]></description>
             <pubDate>2022-10-25T21:51:33.000Z</pubDate>
             <guid isPermaLink="false">https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&#38;system=prod&#38;TSPD_101_R0=08533cd43fab2000edb19601c775225bb3f6399e467eba468d5199c578db439f849eb7e40f10149908fdb0d7a514480063155165f24217998870310adf4e840d6f2dc7e02b7b4af121d79ec670c4468d9bd049aca6bd09e1e6afd8e75126fd352e140d96c7de44a910dd0fd70c45a64765c0ad37a316ee13</guid>
             <link>https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&#38;system=prod&#38;TSPD_101_R0=08533cd43fab2000edb19601c775225bb3f6399e467eba468d5199c578db439f849eb7e40f10149908fdb0d7a514480063155165f24217998870310adf4e840d6f2dc7e02b7b4af121d79ec670c4468d9bd049aca6bd09e1e6afd8e75126fd352e140d96c7de44a910dd0fd70c45a64765c0ad37a316ee13</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[From zero to 10M lines of Kotlin]]></title>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=33329509 target=_blank>309 comments</a>]]></description>
+            <pubDate>2022-10-25T12:19:41.000Z</pubDate>
+            <guid isPermaLink="false">https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/</guid>
+            <link>https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/</link>
+            
+            
+            
+            <author><![CDATA[binkHN]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Employers should prioritize retention over hiring, study suggests]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=33334957 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=33334957 target=_blank>192 comments</a>]]></description>
             <pubDate>2022-10-25T19:20:29.000Z</pubDate>
             <guid isPermaLink="false">https://www.hrdive.com/news/employers-may-need-to-prioritize-retention-over-hiring-study-suggests/632540/</guid>
             <link>https://www.hrdive.com/news/employers-may-need-to-prioritize-retention-over-hiring-study-suggests/632540/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Zig Is Self-Hosted Now, What's Next?]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=33331549 target=_blank>123 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=33331549 target=_blank>127 comments</a>]]></description>
             <pubDate>2022-10-25T15:06:12.000Z</pubDate>
             <guid isPermaLink="false">https://kristoff.it/blog/zig-self-hosted-now-what/</guid>
             <link>https://kristoff.it/blog/zig-self-hosted-now-what/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[I recorded user behaviour on my competitor’s websites (2018)]]></title>
-            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=33331019 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=33331019 target=_blank>86 comments</a>]]></description>
             <pubDate>2022-10-25T14:37:02.000Z</pubDate>
             <guid isPermaLink="false">https://dejanmarketing.com/competitor-hack/</guid>
             <link>https://dejanmarketing.com/competitor-hack/</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[metadat]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ClockworkPi – uConsole, “fantasy console” for indie game developers]]></title>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=33331139 target=_blank>134 comments</a>]]></description>
+            <pubDate>2022-10-25T14:45:00.000Z</pubDate>
+            <guid isPermaLink="false">https://www.clockworkpi.com/</guid>
+            <link>https://www.clockworkpi.com/</link>
+            
+            
+            
+            <author><![CDATA[emdashcomma]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[ClockworkPi – uConsole, “fantasy console” for indie game developers]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=33331139 target=_blank>134 comments</a>]]></description>
-            <pubDate>2022-10-25T14:45:00.000Z</pubDate>
-            <guid isPermaLink="false">https://www.clockworkpi.com/</guid>
-            <link>https://www.clockworkpi.com/</link>
-            
-            
-            
-            <author><![CDATA[emdashcomma]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Chromium based browsers leak user local IP via WebRTC foundation attribute]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=33327678 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=33327678 target=_blank>83 comments</a>]]></description>
             <pubDate>2022-10-25T08:19:02.000Z</pubDate>
             <guid isPermaLink="false">https://niespodd.github.io/webrtc-local-ip-leak/</guid>
             <link>https://niespodd.github.io/webrtc-local-ip-leak/</link>
