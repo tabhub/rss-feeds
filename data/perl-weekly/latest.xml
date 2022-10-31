@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #587]]></title>
+        <title><![CDATA[Perl Weekly #588]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[CI for CPAN modules]]></title>
-            <description><![CDATA[CI for CPAN modules]]></description>
-            <pubDate>2022.10.17</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/ci-for-cpan-modules</guid>
-            <link>https://perlmaven.com/ci-for-cpan-modules</link>
+            <title><![CDATA[Announcements from the Board]]></title>
+            <description><![CDATA[Official announcement of name change <strong>TPF</strong> to <strong>TPRF</strong>.]]></description>
+            <pubDate>2022.10.26</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/announcements</guid>
+            <link>https://news.perlfoundation.org/post/announcements</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[amber_deuel]]></author>
             
                 
             
@@ -34,11 +34,43 @@
         </item>
         
         <item>
-            <title><![CDATA[Expanding words in NVdB]]></title>
-            <description><![CDATA[Expanding words in NVdB]]></description>
-            <pubDate>2022.10.17</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/17/nvdb-expansions/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/10/17/nvdb-expansions/</link>
+            <title><![CDATA[Next stable DBD::SQLite will be released at the beginning of November]]></title>
+            <description><![CDATA[DBD::SQLite 1.71_07 (with SQLite 3.39.4) is a release candidate for the next stable DBD::SQLite.]]></description>
+            <pubDate>2022.10.26</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/kenichi_ishigaki/2022/10/next-stable-dbdsqlite-will-be-released-at-the-beginning-of-november.html</guid>
+            <link>http://blogs.perl.org/users/kenichi_ishigaki/2022/10/next-stable-dbdsqlite-will-be-released-at-the-beginning-of-november.html</link>
+            
+            
+            
+            <author><![CDATA[kenichi_ishigaki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hello and welcome!]]></title>
+            <description><![CDATA[A new website introduced for all Perl fans. Please go checkout.]]></description>
+            <pubDate>2022.10.30</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/marisag/2022/10/hello-and-welcome.html</guid>
+            <link>http://blogs.perl.org/users/marisag/2022/10/hello-and-welcome.html</link>
+            
+            
+            
+            <author><![CDATA[marisa_g]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Light Git repository checkout]]></title>
+            <description><![CDATA[A very handy tutorial for those dealing with large git repository. Highly Recommended.]]></description>
+            <pubDate>2022.10.26</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/26/light-git-pwc/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/26/light-git-pwc/</link>
             
             
             
@@ -50,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Containers for Coverage]]></title>
-            <description><![CDATA[Containers for Coverage]]></description>
-            <pubDate>2022.10.18</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2022/10/containers-for-coverage/</guid>
-            <link>https://perlhacks.com/2022/10/containers-for-coverage/</link>
+            <title><![CDATA[The scoop on Windows running Perl]]></title>
+            <description><![CDATA[Nice introduction to "scoop", command-line installer for Windows.]]></description>
+            <pubDate>2022.10.28</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/itcharlie/2022/10/the-scoop-on-windows-running-perl.html</guid>
+            <link>http://blogs.perl.org/users/itcharlie/2022/10/the-scoop-on-windows-running-perl.html</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[charlie_gonzalez]]></author>
             
                 
             
@@ -66,11 +98,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Expanding verbs in NVdB]]></title>
-            <description><![CDATA[Expanding verbs in NVdB]]></description>
-            <pubDate>2022.10.18</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/18/nvdb-expand-verbs/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/10/18/nvdb-expand-verbs/</link>
+            <title><![CDATA[Pass4me]]></title>
+            <description><![CDATA[Interesting discusion to engage with. I thoroughly enjoyed it.]]></description>
+            <pubDate>2022.10.24</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/24/pass4me/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/24/pass4me/</link>
             
             
             
@@ -82,11 +114,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Expanding nouns and adjectives in NVdB]]></title>
-            <description><![CDATA[Expanding nouns and adjectives in NVdB]]></description>
-            <pubDate>2022.10.19</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/19/nvdb-expand-nouns-adjectives/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/10/19/nvdb-expand-nouns-adjectives/</link>
+            <title><![CDATA[Cryptopals 38 - New insights from a kind reader]]></title>
+            <description><![CDATA[Cryptopals 38 - New insights from a kind reader]]></description>
+            <pubDate>2022.10.25</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/25/cryptopals-38-addon/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/25/cryptopals-38-addon/</link>
             
             
             
@@ -98,11 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Grouping in NVdB]]></title>
-            <description><![CDATA[Grouping in NVdB]]></description>
-            <pubDate>2022.10.22</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/22/nvdb-grouping/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/10/22/nvdb-grouping/</link>
+            <title><![CDATA[Certificates expiration]]></title>
+            <description><![CDATA[Have you ever dealt with certificate? If yes then you must read this post.]]></description>
+            <pubDate>2022.10.29</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/29/certificates-expiration/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/29/certificates-expiration/</link>
             
             
             
@@ -114,43 +146,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Use Dist::Zilla to Create a Perl Distribution]]></title>
-            <description><![CDATA[A short introduction with the most commonly used plugins of Dist::Zilla.]]></description>
-            <pubDate>2022.10.23</pubDate>
-            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/use-distzilla-to-create-a-perl-distribution-2c5i</guid>
-            <link>https://dev.to/nicholasbhubbard/use-distzilla-to-create-a-perl-distribution-2c5i</link>
-            
-            
-            
-            <author><![CDATA[nicholas_hubbard]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Challenges, Solutions and more Challenges and more Solutions]]></title>
-            <description><![CDATA[Challenges, Solutions and more Challenges and more Solutions]]></description>
-            <pubDate>2022.10.23</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/challenges-solutions-and-more-challenges-and-more-solutions-4j3f</guid>
-            <link>https://dev.to/jonasbn/challenges-solutions-and-more-challenges-and-more-solutions-4j3f</link>
-            
-            
-            
-            <author><![CDATA[jonas_nielsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Compactification in NVdB]]></title>
-            <description><![CDATA[Compactification in NVdB]]></description>
-            <pubDate>2022.10.23</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/23/nvdb-compactification/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/10/23/nvdb-compactification/</link>
+            <title><![CDATA[Blaming past self]]></title>
+            <description><![CDATA[Fun post and it is the story of every developer in my opinion. I found a subtle bug in one of my own <strong>CPAN</strong> module after 10 years. I don't want to name and shame it, though.]]></description>
+            <pubDate>2022.10.30</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/10/30/blaming-past-self/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/10/30/blaming-past-self/</link>
             
             
             
@@ -162,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancer2: Template Tiny]]></title>
-            <description><![CDATA[Dancer2: Template Tiny]]></description>
-            <pubDate>2022.10.19</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/dancer2-template-tiny</guid>
-            <link>https://perlmaven.com/dancer2-template-tiny</link>
+            <title><![CDATA[2022.43 Cro Apper]]></title>
+            <description><![CDATA[2022.43 Cro Apper]]></description>
+            <pubDate>2022.10.24</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2022/10/24/2022-43-cro-apper/</guid>
+            <link>https://rakudoweekly.blog/2022/10/24/2022-43-cro-apper/</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -179,8 +179,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/10/cdxv-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dxxviii-metacpan-weekly-report-texttable.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dlvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.10</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/10/cdxvi-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dxxix-metacpan-weekly-report-texttable.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/10/dlvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.10.29</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -194,15 +194,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Charlotte PM : I <3 Smol backend (and I cannot lie) - Yanick ]]></title>
-            <description><![CDATA[Wednesday Oct 26th, 2022 06:00 PM Eastern Time (US and Canada)]]></description>
+            <title><![CDATA[Dancer2: Template Toolkit]]></title>
+            <description><![CDATA[Dancer2: Template Toolkit]]></description>
+            <pubDate>2022.10.25</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/dancer2-template-toolkit</guid>
+            <link>https://perlmaven.com/dancer2-template-toolkit</link>
             
-            <guid isPermaLink="false">https://www.meetup.com/charlotte-pm/events/289085740/</guid>
-            <link>https://www.meetup.com/charlotte-pm/events/289085740/</link>
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Docker course]]></title>
+            <description><![CDATA[New parts of the Docker course were published]]></description>
+            <pubDate>2022.10.26</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/docker</guid>
+            <link>https://code-maven.com/docker</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Continuous Integration (CI)]]></title>
+            <description><![CDATA[A collection of posts about Continuous Integration]]></description>
+            <pubDate>2022.10.24</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/ci</guid>
+            <link>https://code-maven.com/ci</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
