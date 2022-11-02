@@ -26,8 +26,8 @@ jobs:
       run: |
         # git commit if there's any change
         if test -n "$(git status --porcelain 2>/dev/null)"; then
-            git config --global user.email "idegorepl@gmail.com"
-            git config --global user.name "TabHub Bot"
+            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
             git add .
             git commit -m "Update Hacker News daily top data"
             git push origin main
