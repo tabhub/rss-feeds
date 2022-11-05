@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[In defense of linked lists]]></title>
-            <description><![CDATA[549 points | <a href=https://news.ycombinator.com/item?id=33473497 target=_blank>445 comments</a>]]></description>
+            <description><![CDATA[549 points | <a href=https://news.ycombinator.com/item?id=33473497 target=_blank>447 comments</a>]]></description>
             <pubDate>2022-11-04T20:46:02.000Z</pubDate>
             <guid isPermaLink="false">http://antirez.com/news/138</guid>
             <link>http://antirez.com/news/138</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mathics: A free, open-source alternative to Mathematica]]></title>
-            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=33477793 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=33477793 target=_blank>185 comments</a>]]></description>
             <pubDate>2022-11-05T03:59:59.000Z</pubDate>
             <guid isPermaLink="false">https://mathics.org/</guid>
             <link>https://mathics.org/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Many companies aren’t prepared to replace underperforming CEOs]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=33471314 target=_blank>233 comments</a>]]></description>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=33471314 target=_blank>233 comments</a>]]></description>
             <pubDate>2022-11-04T18:09:45.000Z</pubDate>
             <guid isPermaLink="false">https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos</guid>
             <link>https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Birdwatch, Twitter's collaborative fact checking system]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=33478845 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=33478845 target=_blank>213 comments</a>]]></description>
             <pubDate>2022-11-05T07:28:02.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.github.io/birdwatch/#</guid>
             <link>https://twitter.github.io/birdwatch/#</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Multiple assertions are fine in a unit test]]></title>
-            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=33479397 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=33479397 target=_blank>251 comments</a>]]></description>
             <pubDate>2022-11-05T08:56:47.000Z</pubDate>
             <guid isPermaLink="false">https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/</guid>
             <link>https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[MDN converted to Markdown]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=33477842 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=33477842 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-11-05T04:07:22.000Z</pubDate>
             <guid isPermaLink="false">https://openwebdocs.org/content/posts/markdown-conversion/</guid>
             <link>https://openwebdocs.org/content/posts/markdown-conversion/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[It looks like I’m moving to Mastodon]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=33478570 target=_blank>388 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=33478570 target=_blank>389 comments</a>]]></description>
             <pubDate>2022-11-05T06:33:10.000Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2022/Nov/5/mastodon/</guid>
             <link>https://simonwillison.net/2022/Nov/5/mastodon/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Intel plans to rival TSMC and Samsung as a chip supplier]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=33475749 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=33475749 target=_blank>182 comments</a>]]></description>
             <pubDate>2022-11-04T23:46:45.000Z</pubDate>
             <guid isPermaLink="false">https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier</guid>
             <link>https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[retskrad]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Quantum winter is coming]]></title>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=33481232 target=_blank>155 comments</a>]]></description>
+            <pubDate>2022-11-05T13:24:32.000Z</pubDate>
+            <guid isPermaLink="false">http://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html</guid>
+            <link>http://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html</link>
+            
+            
+            
+            <author><![CDATA[nsoonhui]]></author>
             
                 
             
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[elorant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Quantum winter is coming]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=33481232 target=_blank>152 comments</a>]]></description>
-            <pubDate>2022-11-05T13:24:32.000Z</pubDate>
-            <guid isPermaLink="false">http://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html</guid>
-            <link>http://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html</link>
-            
-            
-            
-            <author><![CDATA[nsoonhui]]></author>
             
                 
             
