@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Twitter’s mass layoffs have begun]]></title>
-            <description><![CDATA[1006 points | <a href=https://news.ycombinator.com/item?id=33463908 target=_blank>2045 comments</a>]]></description>
-            <pubDate>2022-11-04T09:33:25.000Z</pubDate>
-            <guid isPermaLink="false">https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/</guid>
-            <link>https://techcrunch.com/2022/11/03/twitter-layoffs-elon-musk/</link>
-            
-            
-            
-            <author><![CDATA[matthieu_bl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[In defense of linked lists]]></title>
-            <description><![CDATA[484 points | <a href=https://news.ycombinator.com/item?id=33473497 target=_blank>405 comments</a>]]></description>
+            <description><![CDATA[491 points | <a href=https://news.ycombinator.com/item?id=33473497 target=_blank>406 comments</a>]]></description>
             <pubDate>2022-11-04T20:46:02.000Z</pubDate>
             <guid isPermaLink="false">http://antirez.com/news/138</guid>
             <link>http://antirez.com/news/138</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Use RSS for privacy and efficiency (2021)]]></title>
-            <description><![CDATA[420 points | <a href=https://news.ycombinator.com/item?id=33469271 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=33469271 target=_blank>166 comments</a>]]></description>
             <pubDate>2022-11-04T16:22:38.000Z</pubDate>
             <guid isPermaLink="false">https://rsapkf.org/weblog/q2z/</guid>
             <link>https://rsapkf.org/weblog/q2z/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Tim Berners-Lee: Web3 is not the web]]></title>
-            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=33469978 target=_blank>268 comments</a>]]></description>
+            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=33469978 target=_blank>269 comments</a>]]></description>
             <pubDate>2022-11-04T16:57:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html</guid>
             <link>https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[White House deletes tweet after Twitter adds 'context' note]]></title>
-            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=33472161 target=_blank>350 comments</a>]]></description>
+            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=33472161 target=_blank>351 comments</a>]]></description>
             <pubDate>2022-11-04T19:11:50.000Z</pubDate>
             <guid isPermaLink="false">https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647</guid>
             <link>https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[UK Government scans all web servers hosted in the UK for vulnerabilities]]></title>
-            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=33470079 target=_blank>215 comments</a>]]></description>
+            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=33470079 target=_blank>215 comments</a>]]></description>
             <pubDate>2022-11-04T17:03:34.000Z</pubDate>
             <guid isPermaLink="false">https://www.ncsc.gov.uk/information/ncsc-scanning-information</guid>
             <link>https://www.ncsc.gov.uk/information/ncsc-scanning-information</link>
@@ -146,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Mathics: A free, open-source alternative to Mathematica]]></title>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=33477793 target=_blank>86 comments</a>]]></description>
+            <pubDate>2022-11-05T03:59:59.000Z</pubDate>
+            <guid isPermaLink="false">https://mathics.org/</guid>
+            <link>https://mathics.org/</link>
+            
+            
+            
+            <author><![CDATA[memorable]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Crypto trading firm Alameda Research might be insolvent]]></title>
             <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=33464494 target=_blank>188 comments</a>]]></description>
             <pubDate>2022-11-04T10:44:31.000Z</pubDate>
@@ -155,22 +155,6 @@
             
             
             <author><![CDATA[janmo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mathics: A free, open-source alternative to Mathematica]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=33477793 target=_blank>78 comments</a>]]></description>
-            <pubDate>2022-11-05T03:59:59.000Z</pubDate>
-            <guid isPermaLink="false">https://mathics.org/</guid>
-            <link>https://mathics.org/</link>
-            
-            
-            
-            <author><![CDATA[memorable]]></author>
             
                 
             
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[It looks like I’m moving to Mastodon]]></title>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=33478570 target=_blank>279 comments</a>]]></description>
+            <pubDate>2022-11-05T06:33:10.000Z</pubDate>
+            <guid isPermaLink="false">https://simonwillison.net/2022/Nov/5/mastodon/</guid>
+            <link>https://simonwillison.net/2022/Nov/5/mastodon/</link>
+            
+            
+            
+            <author><![CDATA[swyx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Top 70000 educational YouTube channels in 20 languages by category]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=33470066 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=33470066 target=_blank>70 comments</a>]]></description>
             <pubDate>2022-11-04T17:02:37.000Z</pubDate>
             <guid isPermaLink="false">https://limnology.co/</guid>
             <link>https://limnology.co/</link>
