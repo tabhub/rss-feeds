@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[In defense of linked lists]]></title>
-            <description><![CDATA[506 points | <a href=https://news.ycombinator.com/item?id=33473497 target=_blank>411 comments</a>]]></description>
+            <description><![CDATA[515 points | <a href=https://news.ycombinator.com/item?id=33473497 target=_blank>413 comments</a>]]></description>
             <pubDate>2022-11-04T20:46:02.000Z</pubDate>
             <guid isPermaLink="false">http://antirez.com/news/138</guid>
             <link>http://antirez.com/news/138</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Use RSS for privacy and efficiency (2021)]]></title>
-            <description><![CDATA[427 points | <a href=https://news.ycombinator.com/item?id=33469271 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=33469271 target=_blank>174 comments</a>]]></description>
             <pubDate>2022-11-04T16:22:38.000Z</pubDate>
             <guid isPermaLink="false">https://rsapkf.org/weblog/q2z/</guid>
             <link>https://rsapkf.org/weblog/q2z/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Tim Berners-Lee: Web3 is not the web]]></title>
-            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=33469978 target=_blank>277 comments</a>]]></description>
+            <description><![CDATA[415 points | <a href=https://news.ycombinator.com/item?id=33469978 target=_blank>277 comments</a>]]></description>
             <pubDate>2022-11-04T16:57:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html</guid>
             <link>https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[White House deletes tweet after Twitter adds 'context' note]]></title>
-            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=33472161 target=_blank>356 comments</a>]]></description>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=33472161 target=_blank>358 comments</a>]]></description>
             <pubDate>2022-11-04T19:11:50.000Z</pubDate>
             <guid isPermaLink="false">https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647</guid>
             <link>https://www.politico.com/news/2022/11/02/white-house-twitter-context-note-00064647</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[UK Government scans all web servers hosted in the UK for vulnerabilities]]></title>
-            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=33470079 target=_blank>219 comments</a>]]></description>
+            <description><![CDATA[378 points | <a href=https://news.ycombinator.com/item?id=33470079 target=_blank>220 comments</a>]]></description>
             <pubDate>2022-11-04T17:03:34.000Z</pubDate>
             <guid isPermaLink="false">https://www.ncsc.gov.uk/information/ncsc-scanning-information</guid>
             <link>https://www.ncsc.gov.uk/information/ncsc-scanning-information</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Many companies aren’t prepared to replace underperforming CEOs]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=33471314 target=_blank>222 comments</a>]]></description>
-            <pubDate>2022-11-04T18:09:45.000Z</pubDate>
-            <guid isPermaLink="false">https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos</guid>
-            <link>https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos</link>
-            
-            
-            
-            <author><![CDATA[PaulHoule]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Mathics: A free, open-source alternative to Mathematica]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=33477793 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=33477793 target=_blank>116 comments</a>]]></description>
             <pubDate>2022-11-05T03:59:59.000Z</pubDate>
             <guid isPermaLink="false">https://mathics.org/</guid>
             <link>https://mathics.org/</link>
@@ -123,6 +107,22 @@
             
             
             <author><![CDATA[memorable]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Many companies aren’t prepared to replace underperforming CEOs]]></title>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=33471314 target=_blank>225 comments</a>]]></description>
+            <pubDate>2022-11-04T18:09:45.000Z</pubDate>
+            <guid isPermaLink="false">https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos</guid>
+            <link>https://www.gsb.stanford.edu/insights/many-companies-arent-prepared-replace-underperforming-ceos</link>
+            
+            
+            
+            <author><![CDATA[PaulHoule]]></author>
             
                 
             
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[It looks like I’m moving to Mastodon]]></title>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=33478570 target=_blank>343 comments</a>]]></description>
+            <pubDate>2022-11-05T06:33:10.000Z</pubDate>
+            <guid isPermaLink="false">https://simonwillison.net/2022/Nov/5/mastodon/</guid>
+            <link>https://simonwillison.net/2022/Nov/5/mastodon/</link>
+            
+            
+            
+            <author><![CDATA[swyx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Twitter faces a class action lawsuit over mass employee layoffs with proper]]></title>
             <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=33467652 target=_blank>271 comments</a>]]></description>
             <pubDate>2022-11-04T14:49:40.000Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[It looks like I’m moving to Mastodon]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=33478570 target=_blank>337 comments</a>]]></description>
-            <pubDate>2022-11-05T06:33:10.000Z</pubDate>
-            <guid isPermaLink="false">https://simonwillison.net/2022/Nov/5/mastodon/</guid>
-            <link>https://simonwillison.net/2022/Nov/5/mastodon/</link>
-            
-            
-            
-            <author><![CDATA[swyx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Top 70000 educational YouTube channels in 20 languages by category]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=33470066 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=33470066 target=_blank>70 comments</a>]]></description>
             <pubDate>2022-11-04T17:02:37.000Z</pubDate>
             <guid isPermaLink="false">https://limnology.co/</guid>
             <link>https://limnology.co/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[New Hampshire set to pilot voting machines that use software everyone can see]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=33465770 target=_blank>219 comments</a>]]></description>
-            <pubDate>2022-11-04T12:54:50.000Z</pubDate>
-            <guid isPermaLink="false">https://therecord.media/new-hampshire-set-to-pilot-voting-machines-that-use-software-everyone-can-see/</guid>
-            <link>https://therecord.media/new-hampshire-set-to-pilot-voting-machines-that-use-software-everyone-can-see/</link>
+            <title><![CDATA[Intel plans to rival TSMC and Samsung as a chip supplier]]></title>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=33475749 target=_blank>148 comments</a>]]></description>
+            <pubDate>2022-11-04T23:46:45.000Z</pubDate>
+            <guid isPermaLink="false">https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier</guid>
+            <link>https://asia.nikkei.com/Business/Business-Spotlight/How-Intel-plans-to-rival-TSMC-and-Samsung-as-a-chip-supplier</link>
             
             
             
-            <author><![CDATA[isaacfrond]]></author>
+            <author><![CDATA[retskrad]]></author>
             
                 
             
