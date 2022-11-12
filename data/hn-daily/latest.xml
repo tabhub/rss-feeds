@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Bubbles]]></title>
-            <description><![CDATA[1602 points | <a href=https://news.ycombinator.com/item?id=33566924 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[1615 points | <a href=https://news.ycombinator.com/item?id=33566924 target=_blank>143 comments</a>]]></description>
             <pubDate>2022-11-11T21:12:48.000Z</pubDate>
             <guid isPermaLink="false">https://oimo.io/works/bubbles/</guid>
             <link>https://oimo.io/works/bubbles/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Resolving the great undo-redo quandary]]></title>
-            <description><![CDATA[454 points | <a href=https://news.ycombinator.com/item?id=33560275 target=_blank>228 comments</a>]]></description>
-            <pubDate>2022-11-11T12:59:15.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/zaboople/klonk/blob/master/TheGURQ.md</guid>
-            <link>https://github.com/zaboople/klonk/blob/master/TheGURQ.md</link>
-            
-            
-            
-            <author><![CDATA[kerblang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Each visit to the page deteriorates the main image]]></title>
-            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=33566897 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=33566897 target=_blank>121 comments</a>]]></description>
             <pubDate>2022-11-11T21:10:32.000Z</pubDate>
             <guid isPermaLink="false">https://crowd-jpeg.vercel.app/</guid>
             <link>https://crowd-jpeg.vercel.app/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Wa-tunnel – HTTP Tunneling through Whatsapp]]></title>
-            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=33568994 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=33568994 target=_blank>99 comments</a>]]></description>
             <pubDate>2022-11-12T01:17:42.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/aleixrodriala/wa-tunnel</guid>
             <link>https://github.com/aleixrodriala/wa-tunnel</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[FTX faces potential hack, sees mysterious outflows totaling more than $600M]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=33570274 target=_blank>278 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=33570274 target=_blank>285 comments</a>]]></description>
             <pubDate>2022-11-12T05:30:55.000Z</pubDate>
             <guid isPermaLink="false">https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/</guid>
             <link>https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/</link>
@@ -146,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[AWS IAM Roles, a tale of unnecessary complexity]]></title>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=33566419 target=_blank>72 comments</a>]]></description>
+            <pubDate>2022-11-11T20:34:16.000Z</pubDate>
+            <guid isPermaLink="false">https://infosec.rodeo/posts/thoughts-on-aws-iam/</guid>
+            <link>https://infosec.rodeo/posts/thoughts-on-aws-iam/</link>
+            
+            
+            
+            <author><![CDATA[wglb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Shopify Is Illegal in Germany]]></title>
             <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=33561222 target=_blank>280 comments</a>]]></description>
             <pubDate>2022-11-11T14:31:44.000Z</pubDate>
@@ -162,40 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[AWS IAM Roles, a tale of unnecessary complexity]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=33566419 target=_blank>72 comments</a>]]></description>
-            <pubDate>2022-11-11T20:34:16.000Z</pubDate>
-            <guid isPermaLink="false">https://infosec.rodeo/posts/thoughts-on-aws-iam/</guid>
-            <link>https://infosec.rodeo/posts/thoughts-on-aws-iam/</link>
-            
-            
-            
-            <author><![CDATA[wglb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NSA urges orgs to use memory-safe programming languages]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=33560227 target=_blank>207 comments</a>]]></description>
-            <pubDate>2022-11-11T12:55:11.000Z</pubDate>
-            <guid isPermaLink="false">https://www.theregister.com/2022/11/11/nsa_urges_orgs_to_use/</guid>
-            <link>https://www.theregister.com/2022/11/11/nsa_urges_orgs_to_use/</link>
-            
-            
-            
-            <author><![CDATA[AlexeyBrin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Size is the best predictor of code quality (2011)]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=33566329 target=_blank>168 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=33566329 target=_blank>169 comments</a>]]></description>
             <pubDate>2022-11-11T20:26:05.000Z</pubDate>
             <guid isPermaLink="false">https://blog.vivekhaldar.com/post/10669678292/size-is-the-best-predictor-of-code-quality</guid>
             <link>https://blog.vivekhaldar.com/post/10669678292/size-is-the-best-predictor-of-code-quality</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[crapvoter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: A little side project, a watercolor art generator]]></title>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=33561232 target=_blank>68 comments</a>]]></description>
+            <pubDate>2022-11-11T14:32:11.000Z</pubDate>
+            <guid isPermaLink="false">https://brushify.art/?couponCode=HACKER-NEWS</guid>
+            <link>https://brushify.art/?couponCode=HACKER-NEWS</link>
+            
+            
+            
+            <author><![CDATA[nfriend]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The world is run by people no smarter than you]]></title>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=33562204 target=_blank>228 comments</a>]]></description>
+            <pubDate>2022-11-11T15:43:39.000Z</pubDate>
+            <guid isPermaLink="false">https://www.swyx.io/no-smarter</guid>
+            <link>https://www.swyx.io/no-smarter</link>
+            
+            
+            
+            <author><![CDATA[swyx]]></author>
             
                 
             
