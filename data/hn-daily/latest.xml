@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Why Twitter didn’t go down: From a real Twitter SRE]]></title>
-            <description><![CDATA[936 points | <a href=https://news.ycombinator.com/item?id=33701371 target=_blank>1249 comments</a>]]></description>
+            <description><![CDATA[938 points | <a href=https://news.ycombinator.com/item?id=33701371 target=_blank>1250 comments</a>]]></description>
             <pubDate>2022-11-22T03:20:20.000Z</pubDate>
             <guid isPermaLink="false">https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a</guid>
             <link>https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Is wine fake?]]></title>
-            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=33698094 target=_blank>521 comments</a>]]></description>
+            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=33698094 target=_blank>522 comments</a>]]></description>
             <pubDate>2022-11-21T21:20:57.000Z</pubDate>
             <guid isPermaLink="false">https://asteriskmag.com/issues/1/is-wine-fake</guid>
             <link>https://asteriskmag.com/issues/1/is-wine-fake</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Improving Firefox stability on Windows by retrying failed memory allocation]]></title>
-            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=33706117 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=33706117 target=_blank>255 comments</a>]]></description>
             <pubDate>2022-11-22T14:26:42.000Z</pubDate>
             <guid isPermaLink="false">https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/</guid>
             <link>https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[D2, a diagram scripting language that turns text to diagrams, is now open source]]></title>
-            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=33704254 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=33704254 target=_blank>109 comments</a>]]></description>
             <pubDate>2022-11-22T10:37:11.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/terrastruct/d2</guid>
             <link>https://github.com/terrastruct/d2</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Extremely Linear Git History]]></title>
-            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=33704297 target=_blank>245 comments</a>]]></description>
+            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=33704297 target=_blank>249 comments</a>]]></description>
             <pubDate>2022-11-22T10:43:30.000Z</pubDate>
             <guid isPermaLink="false">https://westling.dev/b/extremely-linear-git</guid>
             <link>https://westling.dev/b/extremely-linear-git</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[High-documentation, low-meeting work culture]]></title>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=33707022 target=_blank>208 comments</a>]]></description>
+            <pubDate>2022-11-22T15:50:26.000Z</pubDate>
+            <guid isPermaLink="false">https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture</guid>
+            <link>https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture</link>
+            
+            
+            
+            <author><![CDATA[seltzerboys]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[TinyGL 0.4.1]]></title>
             <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=33701826 target=_blank>28 comments</a>]]></description>
             <pubDate>2022-11-22T04:18:41.000Z</pubDate>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[High-documentation, low-meeting work culture]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=33707022 target=_blank>184 comments</a>]]></description>
-            <pubDate>2022-11-22T15:50:26.000Z</pubDate>
-            <guid isPermaLink="false">https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture</guid>
-            <link>https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture</link>
-            
-            
-            
-            <author><![CDATA[seltzerboys]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[CICERO: An AI agent that negotiates, persuades, and cooperates with people]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=33706750 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=33706750 target=_blank>115 comments</a>]]></description>
             <pubDate>2022-11-22T15:24:17.000Z</pubDate>
             <guid isPermaLink="false">https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/</guid>
             <link>https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/</link>
