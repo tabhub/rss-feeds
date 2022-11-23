@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[High-documentation, low-meeting work culture]]></title>
-            <description><![CDATA[627 points | <a href=https://news.ycombinator.com/item?id=33707022 target=_blank>404 comments</a>]]></description>
+            <description><![CDATA[630 points | <a href=https://news.ycombinator.com/item?id=33707022 target=_blank>406 comments</a>]]></description>
             <pubDate>2022-11-22T15:50:26.000Z</pubDate>
             <guid isPermaLink="false">https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture</guid>
             <link>https://www.tremendous.com/blog/the-perks-of-a-high-documentation-low-meeting-work-culture</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[D2, a diagram scripting language that turns text to diagrams, is now open source]]></title>
-            <description><![CDATA[530 points | <a href=https://news.ycombinator.com/item?id=33704254 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[531 points | <a href=https://news.ycombinator.com/item?id=33704254 target=_blank>134 comments</a>]]></description>
             <pubDate>2022-11-22T10:37:11.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/terrastruct/d2</guid>
             <link>https://github.com/terrastruct/d2</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Improving Firefox stability on Windows by retrying failed memory allocation]]></title>
-            <description><![CDATA[521 points | <a href=https://news.ycombinator.com/item?id=33706117 target=_blank>286 comments</a>]]></description>
+            <description><![CDATA[523 points | <a href=https://news.ycombinator.com/item?id=33706117 target=_blank>286 comments</a>]]></description>
             <pubDate>2022-11-22T14:26:42.000Z</pubDate>
             <guid isPermaLink="false">https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/</guid>
             <link>https://hacks.mozilla.org/2022/11/improving-firefox-stability-with-this-one-weird-trick/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Dwarf Fortress – randomly generated, persistent fantasy world]]></title>
-            <description><![CDATA[466 points | <a href=https://news.ycombinator.com/item?id=33711253 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=33711253 target=_blank>132 comments</a>]]></description>
             <pubDate>2022-11-22T20:45:12.000Z</pubDate>
             <guid isPermaLink="false">http://www.bay12games.com/dwarves/features.html</guid>
             <link>http://www.bay12games.com/dwarves/features.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Extremely Linear Git History]]></title>
-            <description><![CDATA[453 points | <a href=https://news.ycombinator.com/item?id=33704297 target=_blank>312 comments</a>]]></description>
+            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=33704297 target=_blank>312 comments</a>]]></description>
             <pubDate>2022-11-22T10:43:30.000Z</pubDate>
             <guid isPermaLink="false">https://westling.dev/b/extremely-linear-git</guid>
             <link>https://westling.dev/b/extremely-linear-git</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[CICERO: An AI agent that negotiates, persuades, and cooperates with people]]></title>
-            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=33706750 target=_blank>203 comments</a>]]></description>
+            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=33706750 target=_blank>204 comments</a>]]></description>
             <pubDate>2022-11-22T15:24:17.000Z</pubDate>
             <guid isPermaLink="false">https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/</guid>
             <link>https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[tuzongyu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Building the fastest Lua interpreter automatically]]></title>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=33711583 target=_blank>66 comments</a>]]></description>
+            <pubDate>2022-11-22T21:11:37.000Z</pubDate>
+            <guid isPermaLink="false">https://sillycross.github.io/2022/11/22/2022-11-22/</guid>
+            <link>https://sillycross.github.io/2022/11/22/2022-11-22/</link>
+            
+            
+            
+            <author><![CDATA[hr0m]]></author>
             
                 
             
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Building the fastest Lua interpreter automatically]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=33711583 target=_blank>64 comments</a>]]></description>
-            <pubDate>2022-11-22T21:11:37.000Z</pubDate>
-            <guid isPermaLink="false">https://sillycross.github.io/2022/11/22/2022-11-22/</guid>
-            <link>https://sillycross.github.io/2022/11/22/2022-11-22/</link>
-            
-            
-            
-            <author><![CDATA[hr0m]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[TinyGL 0.4.1]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=33701826 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=33701826 target=_blank>33 comments</a>]]></description>
             <pubDate>2022-11-22T04:18:41.000Z</pubDate>
             <guid isPermaLink="false">https://bellard.org/TinyGL/</guid>
             <link>https://bellard.org/TinyGL/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[November 2022 Progress Report]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=33707115 target=_blank>159 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=33707115 target=_blank>159 comments</a>]]></description>
             <pubDate>2022-11-22T15:56:50.000Z</pubDate>
             <guid isPermaLink="false">https://asahilinux.org/2022/11/november-2022-report/</guid>
             <link>https://asahilinux.org/2022/11/november-2022-report/</link>
