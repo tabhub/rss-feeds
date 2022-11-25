@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Azure has run out of compute – anyone else affected?]]></title>
-            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=33743567 target=_blank>256 comments</a>]]></description>
+            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=33743567 target=_blank>257 comments</a>]]></description>
             <pubDate>2022-11-25T15:58:49.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=33743567</guid>
             <link>https://news.ycombinator.com/item?id=33743567</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Factorio runs on Apple Silicon]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=33741952 target=_blank>225 comments</a>]]></description>
+            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=33741952 target=_blank>227 comments</a>]]></description>
             <pubDate>2022-11-25T12:57:10.000Z</pubDate>
             <guid isPermaLink="false">https://factorio.com/blog/post/fff-371</guid>
             <link>https://factorio.com/blog/post/fff-371</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Issue dialing 911 on Google Pixel 6 cell phones]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=33739583 target=_blank>222 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=33739583 target=_blank>222 comments</a>]]></description>
             <pubDate>2022-11-25T05:38:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.actionnewsjax.com/news/local/investigates-very-scary-cell-phone-issue-dialing-911/ZNT76HVHRRCB5AUVRTT7JL43DM/</guid>
             <link>https://www.actionnewsjax.com/news/local/investigates-very-scary-cell-phone-issue-dialing-911/ZNT76HVHRRCB5AUVRTT7JL43DM/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[KDE runs on the Apple M2 with full GPU acceleration]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=33744598 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=33744598 target=_blank>26 comments</a>]]></description>
             <pubDate>2022-11-25T17:18:13.000Z</pubDate>
             <guid isPermaLink="false">https://vt.social/@lina/109405566112910885</guid>
             <link>https://vt.social/@lina/109405566112910885</link>
@@ -139,6 +139,22 @@
             
             
             <author><![CDATA[c80e74f077]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ask HN: Why the Linux Kernel doesn't have unit tests?]]></title>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=33742130 target=_blank>196 comments</a>]]></description>
+            <pubDate>2022-11-25T13:24:00.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=33742130</guid>
+            <link>https://news.ycombinator.com/item?id=33742130</link>
+            
+            
+            
+            <author><![CDATA[develatio]]></author>
             
                 
             
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Ask HN: Why the Linux Kernel doesn't have unit tests?]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=33742130 target=_blank>195 comments</a>]]></description>
-            <pubDate>2022-11-25T13:24:00.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=33742130</guid>
-            <link>https://news.ycombinator.com/item?id=33742130</link>
+            <title><![CDATA[Jqjq: Jq Implementation of Jq]]></title>
+            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=33741688 target=_blank>50 comments</a>]]></description>
+            <pubDate>2022-11-25T12:15:12.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/wader/jqjq</guid>
+            <link>https://github.com/wader/jqjq</link>
             
             
             
-            <author><![CDATA[develatio]]></author>
+            <author><![CDATA[petercooper]]></author>
             
                 
             
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Stripe is wrongly suspending accounts]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=33743750 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=33743750 target=_blank>125 comments</a>]]></description>
             <pubDate>2022-11-25T16:14:09.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=33743750</guid>
             <link>https://news.ycombinator.com/item?id=33743750</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[nerder92]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Jqjq: Jq Implementation of Jq]]></title>
-            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=33741688 target=_blank>50 comments</a>]]></description>
-            <pubDate>2022-11-25T12:15:12.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/wader/jqjq</guid>
-            <link>https://github.com/wader/jqjq</link>
-            
-            
-            
-            <author><![CDATA[petercooper]]></author>
             
                 
             
