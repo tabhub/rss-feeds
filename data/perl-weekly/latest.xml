@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #591]]></title>
+        <title><![CDATA[Perl Weekly #592]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,43 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Template::Perlish: added functions injection]]></title>
-            <description><![CDATA[Template::Perlish: added functions injection]]></description>
-            <pubDate>2022.11.14</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/11/14/template-perlish-functions/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/11/14/template-perlish-functions/</link>
+            <title><![CDATA[This Week in PSC (088)]]></title>
+            <description><![CDATA[Brief update about the Perl Steering Council latest meetup.]]></description>
+            <pubDate>2022.11.25</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/psc/2022/11/this-week-in-psc-088.html</guid>
+            <link>http://blogs.perl.org/users/psc/2022/11/this-week-in-psc-088.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Two-factor authentication (2FA) in Perl with TOTP algorithm (Microsoft or Google Authenticator or others)]]></title>
+            <description><![CDATA[Get the insights of 2FA and how Perl can help you deal with it.]]></description>
+            <pubDate>2022.11.08</pubDate>
+            <guid isPermaLink="false">https://www.cattlegrid.info/two-factor-2fa-authentication-in-perl-with-totp-algorithm-microsoft-google-authenticator-others</guid>
+            <link>https://www.cattlegrid.info/two-factor-2fa-authentication-in-perl-with-totp-algorithm-microsoft-google-authenticator-others</link>
+            
+            
+            
+            <author><![CDATA[michele_beltrame]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Speaking of certificates and Root CAs...]]></title>
+            <description><![CDATA[Speaking of certificates and Root CAs...]]></description>
+            <pubDate>2022.11.21</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/11/21/infosec-blackpill/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/11/21/infosec-blackpill/</link>
             
             
             
@@ -34,11 +66,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Lured by overengineering]]></title>
-            <description><![CDATA[Working on a little website for helping people getting started and up to speed in using The GNU Privacy Guard.]]></description>
-            <pubDate>2022.11.15</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/11/15/lured-by-overengineering/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/11/15/lured-by-overengineering/</link>
+            <title><![CDATA[Preparing for Advent of Code 2022]]></title>
+            <description><![CDATA[Samir sharing his plan for this year Advent of Code.]]></description>
+            <pubDate>2022.11.25</pubDate>
+            <guid isPermaLink="false">https://samirparikh.com/blog/preparing-for-advent-of-code-2022.html</guid>
+            <link>https://samirparikh.com/blog/preparing-for-advent-of-code-2022.html</link>
+            
+            
+            
+            <author><![CDATA[samir_parikh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mojolicious cheatsheet]]></title>
+            <description><![CDATA[For Mojolicious fan, please checkout this cheatsheet.]]></description>
+            <pubDate>2022.11.23</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/11/23/mojolicious-cheatsheet/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/11/23/mojolicious-cheatsheet/</link>
             
             
             
@@ -50,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Is local a bad part in Perl? ]]></title>
-            <description><![CDATA[Yuki thinks it is.]]></description>
-            <pubDate>2022.11.17</pubDate>
-            <guid isPermaLink="false">https://dev.to/yukikimoto/is-local-a-bad-part-in-perl-ffg</guid>
-            <link>https://dev.to/yukikimoto/is-local-a-bad-part-in-perl-ffg</link>
+            <title><![CDATA[Kephra: Select All]]></title>
+            <description><![CDATA[If you are following post about Kephra then this is for you to explore further.]]></description>
+            <pubDate>2022.11.25</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/lichtkind/2022/11/kephra-select-all.html</guid>
+            <link>http://blogs.perl.org/users/lichtkind/2022/11/kephra-select-all.html</link>
             
             
             
-            <author><![CDATA[yuki_kimoto]]></author>
+            <author><![CDATA[herbert_breunung]]></author>
             
                 
             
@@ -66,11 +114,107 @@
         </item>
         
         <item>
-            <title><![CDATA[Beyond Perl]]></title>
-            <description><![CDATA[Thinking aloud about the ways I can server the people who are using Perl.]]></description>
-            <pubDate>2022.11.19</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/beyond-perl.html</guid>
-            <link>https://szabgab.com/beyond-perl.html</link>
+            <title><![CDATA[Feature Switch Best Practices]]></title>
+            <description><![CDATA[Curtis is back, well organised blog post. Highly Recommended.]]></description>
+            <pubDate>2022.11.23</pubDate>
+            <guid isPermaLink="false">https://ovid.github.io/articles/feature-switch-best-practices.html</guid>
+            <link>https://ovid.github.io/articles/feature-switch-best-practices.html</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Git worktree]]></title>
+            <description><![CDATA[Nice little introduction to git worktree. Highly recommended if you are git fan.]]></description>
+            <pubDate>2022.11.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/11/22/git-worktree/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/11/22/git-worktree/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[An objective criteria for deprecating community platforms]]></title>
+            <description><![CDATA[Take a look at the history of community platforms. Interesting ...]]></description>
+            <pubDate>2022.11.26</pubDate>
+            <guid isPermaLink="false">http://blogs.perl.org/users/dean/2022/11/an-objective-criteria-for-deprecating-community-platforms.html</guid>
+            <link>http://blogs.perl.org/users/dean/2022/11/an-objective-criteria-for-deprecating-community-platforms.html</link>
+            
+            
+            
+            <author><![CDATA[dean_hamstead]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advent of Code 2022 is coming]]></title>
+            <description><![CDATA[Never played with Advent of Code. If time permits, I will give it a go. Thanks for sharing.]]></description>
+            <pubDate>2022.11.27</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/11/27/aoc-2022-is-coming/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/11/27/aoc-2022-is-coming/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2022.47 Migratory]]></title>
+            <description><![CDATA[2022.47 Migratory]]></description>
+            <pubDate>2022.11.21</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2022/11/21/2022-47-migratory/</guid>
+            <link>https://rakudoweekly.blog/2022/11/21/2022-47-migratory/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/11/cdxx-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/11/dxxxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/11/dlxi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.11.27</pubDate>
+            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
+            <link>http://niceperl.blogspot.com/</link>
+            
+            
+            
+            <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Read dates from Excel file using Perl]]></title>
+            <description><![CDATA[Read dates from Excel file using Perl]]></description>
+            <pubDate>2022.11.23</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/read-dates-from-excel</guid>
+            <link>https://perlmaven.com/read-dates-from-excel</link>
             
             
             
@@ -82,15 +226,31 @@
         </item>
         
         <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/11/cdxix-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/11/dxxxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/11/dlx-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.11.19</pubDate>
-            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
-            <link>http://niceperl.blogspot.com/</link>
+            <title><![CDATA[Videos about Docker]]></title>
+            <description><![CDATA[Videos about Docker]]></description>
+            <pubDate>2022.11.25</pubDate>
+            <guid isPermaLink="false">https://code-maven.com/docker</guid>
+            <link>https://code-maven.com/docker</link>
             
             
             
-            <author><![CDATA[miguel_prz]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The latest Perl-related posts on DEV]]></title>
+            <description><![CDATA[Which articles did you <b>like</b>?]]></description>
+            <pubDate>2022.11.28</pubDate>
+            <guid isPermaLink="false">https://dev.to/t/perl/latest</guid>
+            <link>https://dev.to/t/perl/latest</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
