@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Tales of the M1 GPU]]></title>
-            <description><![CDATA[900 points | <a href=https://news.ycombinator.com/item?id=33789940 target=_blank>335 comments</a>]]></description>
+            <description><![CDATA[902 points | <a href=https://news.ycombinator.com/item?id=33789940 target=_blank>336 comments</a>]]></description>
             <pubDate>2022-11-29T16:50:20.000Z</pubDate>
             <guid isPermaLink="false">https://asahilinux.org/2022/11/tales-of-the-m1-gpu/</guid>
             <link>https://asahilinux.org/2022/11/tales-of-the-m1-gpu/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Goodbye, data science]]></title>
-            <description><![CDATA[757 points | <a href=https://news.ycombinator.com/item?id=33787270 target=_blank>375 comments</a>]]></description>
+            <description><![CDATA[759 points | <a href=https://news.ycombinator.com/item?id=33787270 target=_blank>375 comments</a>]]></description>
             <pubDate>2022-11-29T13:26:14.000Z</pubDate>
             <guid isPermaLink="false">https://ryxcommar.com/2022/11/27/goodbye-data-science/</guid>
             <link>https://ryxcommar.com/2022/11/27/goodbye-data-science/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: Trading cards made with e-ink displays]]></title>
-            <description><![CDATA[690 points | <a href=https://news.ycombinator.com/item?id=33795296 target=_blank>210 comments</a>]]></description>
+            <description><![CDATA[696 points | <a href=https://news.ycombinator.com/item?id=33795296 target=_blank>211 comments</a>]]></description>
             <pubDate>2022-11-30T00:24:09.000Z</pubDate>
             <guid isPermaLink="false">https://www.wyldcard.io/blog/introducing-wyldcard</guid>
             <link>https://www.wyldcard.io/blog/introducing-wyldcard</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Firefox Translations: Translate websites in your browser without using the cloud]]></title>
-            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=33792447 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[566 points | <a href=https://news.ycombinator.com/item?id=33792447 target=_blank>128 comments</a>]]></description>
             <pubDate>2022-11-29T19:59:52.000Z</pubDate>
             <guid isPermaLink="false">https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/</guid>
             <link>https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[A collection of 88x31 pixel web buttons from the 1990s and 2000s]]></title>
-            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=33793273 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=33793273 target=_blank>134 comments</a>]]></description>
             <pubDate>2022-11-29T21:04:37.000Z</pubDate>
             <guid isPermaLink="false">https://anlucas.neocities.org/88x31Buttons.html</guid>
             <link>https://anlucas.neocities.org/88x31Buttons.html</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[An extensive tutorial on how to setup a Pi-Hole]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=33787505 target=_blank>206 comments</a>]]></description>
-            <pubDate>2022-11-29T13:50:43.000Z</pubDate>
-            <guid isPermaLink="false">https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/</guid>
-            <link>https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/</link>
-            
-            
-            
-            <author><![CDATA[Brajeshwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Speeding up the JavaScript ecosystem, one library at a time]]></title>
-            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=33793570 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=33793570 target=_blank>129 comments</a>]]></description>
             <pubDate>2022-11-29T21:27:58.000Z</pubDate>
             <guid isPermaLink="false">https://marvinh.dev/blog/speeding-up-javascript-ecosystem/</guid>
             <link>https://marvinh.dev/blog/speeding-up-javascript-ecosystem/</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[An extensive tutorial on how to setup a Pi-Hole]]></title>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=33787505 target=_blank>207 comments</a>]]></description>
+            <pubDate>2022-11-29T13:50:43.000Z</pubDate>
+            <guid isPermaLink="false">https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/</guid>
+            <link>https://www.crosstalksolutions.com/the-worlds-greatest-pi-hole-and-unbound-tutorial-2023/</link>
+            
+            
+            
+            <author><![CDATA[Brajeshwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Tailwind is a leaky abstraction]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=33787218 target=_blank>339 comments</a>]]></description>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=33787218 target=_blank>343 comments</a>]]></description>
             <pubDate>2022-11-29T13:19:50.000Z</pubDate>
             <guid isPermaLink="false">https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/</guid>
             <link>https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Ruby adds a core class called Data to represent simple immutable value objects]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=33792874 target=_blank>138 comments</a>]]></description>
-            <pubDate>2022-11-29T20:32:34.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.saeloun.com/2022/11/22/data-immutable-object.html</guid>
-            <link>https://blog.saeloun.com/2022/11/22/data-immutable-object.html</link>
-            
-            
-            
-            <author><![CDATA[feross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[In Game of Life any buildable pattern can be constructed by colliding 15 gliders]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=33797799 target=_blank>36 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=33797799 target=_blank>39 comments</a>]]></description>
             <pubDate>2022-11-30T07:04:31.000Z</pubDate>
             <guid isPermaLink="false">https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/</guid>
             <link>https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[mikro2nd]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ruby adds a core class called Data to represent simple immutable value objects]]></title>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=33792874 target=_blank>139 comments</a>]]></description>
+            <pubDate>2022-11-29T20:32:34.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.saeloun.com/2022/11/22/data-immutable-object.html</guid>
+            <link>https://blog.saeloun.com/2022/11/22/data-immutable-object.html</link>
+            
+            
+            
+            <author><![CDATA[feross]]></author>
             
                 
             
