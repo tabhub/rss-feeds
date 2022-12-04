@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Building a Virtual Machine Inside ChatGPT]]></title>
-            <description><![CDATA[1293 points | <a href=https://news.ycombinator.com/item?id=33847479 target=_blank>663 comments</a>]]></description>
+            <description><![CDATA[1307 points | <a href=https://news.ycombinator.com/item?id=33847479 target=_blank>668 comments</a>]]></description>
             <pubDate>2022-12-03T21:19:45.000Z</pubDate>
             <guid isPermaLink="false">https://www.engraved.blog/building-a-virtual-machine-inside/</guid>
             <link>https://www.engraved.blog/building-a-virtual-machine-inside/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Blockbench – A low-poly 3D model editor]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=33845291 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=33845291 target=_blank>45 comments</a>]]></description>
             <pubDate>2022-12-03T17:36:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.blockbench.net/</guid>
             <link>https://www.blockbench.net/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Silver Bullet: Markdown-based extensible open source personal knowledge platform]]></title>
-            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=33843009 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=33843009 target=_blank>94 comments</a>]]></description>
             <pubDate>2022-12-03T12:35:18.000Z</pubDate>
             <guid isPermaLink="false">https://silverbullet.md/</guid>
             <link>https://silverbullet.md/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Twenty five thousand dollars of funny money]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=33844117 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=33844117 target=_blank>161 comments</a>]]></description>
             <pubDate>2022-12-03T15:24:14.000Z</pubDate>
             <guid isPermaLink="false">http://rachelbythebay.com/w/2022/12/02/25k/</guid>
             <link>http://rachelbythebay.com/w/2022/12/02/25k/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[MSN replaced journalists with AI publishing fake news about mermaids and Bigfoot]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=33846723 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=33846723 target=_blank>120 comments</a>]]></description>
             <pubDate>2022-12-03T20:00:25.000Z</pubDate>
             <guid isPermaLink="false">https://futurism.com/msn-is-publishing-more-fake-news</guid>
             <link>https://futurism.com/msn-is-publishing-more-fake-news</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Bettercap – Swiss Army Knife for 802.11, BLE, IPv4 and IPv6 networks]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=33843148 target=_blank>20 comments</a>]]></description>
-            <pubDate>2022-12-03T12:59:43.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/bettercap/bettercap</guid>
-            <link>https://github.com/bettercap/bettercap</link>
-            
-            
-            
-            <author><![CDATA[punnerud]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Anker’s Eufy lied to us about the security of its security cameras]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=33847199 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=33847199 target=_blank>72 comments</a>]]></description>
             <pubDate>2022-12-03T20:50:16.000Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage</guid>
             <link>https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Bettercap – Swiss Army Knife for 802.11, BLE, IPv4 and IPv6 networks]]></title>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=33843148 target=_blank>20 comments</a>]]></description>
+            <pubDate>2022-12-03T12:59:43.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/bettercap/bettercap</guid>
+            <link>https://github.com/bettercap/bettercap</link>
+            
+            
+            
+            <author><![CDATA[punnerud]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How the 8086 processor's microcode engine works]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=33845941 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=33845941 target=_blank>64 comments</a>]]></description>
             <pubDate>2022-12-03T18:29:31.000Z</pubDate>
             <guid isPermaLink="false">https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html</guid>
             <link>https://www.righto.com/2022/11/how-8086-processors-microcode-engine.html</link>
