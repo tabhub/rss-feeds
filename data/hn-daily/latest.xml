@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Amazon rescinding the offer while I am on the notice period]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=34128698 target=_blank>169 comments</a>]]></description>
-            <pubDate>2022-12-25T16:51:55.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=34128698</guid>
-            <link>https://news.ycombinator.com/item?id=34128698</link>
-            
-            
-            
-            <author><![CDATA[YuryVladkov]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The 5GHz “Problem” for Wi-Fi Networks: DFS (2018)]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=34134905 target=_blank>159 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=34134905 target=_blank>159 comments</a>]]></description>
             <pubDate>2022-12-26T05:36:52.000Z</pubDate>
             <guid isPermaLink="false">http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html</guid>
             <link>http://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[2022 was the year of Linux on the Desktop?]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=34130894 target=_blank>331 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=34130894 target=_blank>331 comments</a>]]></description>
             <pubDate>2022-12-25T20:25:19.000Z</pubDate>
             <guid isPermaLink="false">https://www.justingarrison.com/blog/year-of-linux-desktop/</guid>
             <link>https://www.justingarrison.com/blog/year-of-linux-desktop/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[AI chatbots are not a replacement for search engines]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=34131553 target=_blank>379 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=34131553 target=_blank>379 comments</a>]]></description>
             <pubDate>2022-12-25T21:31:42.000Z</pubDate>
             <guid isPermaLink="false">https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334</guid>
             <link>https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[The FBI was the primary link between the intelligence community and Twitter]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=34129518 target=_blank>420 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=34129518 target=_blank>421 comments</a>]]></description>
             <pubDate>2022-12-25T18:07:13.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/mtaibbi/status/1606701397109796866</guid>
             <link>https://twitter.com/mtaibbi/status/1606701397109796866</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[NixOS on M1]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=34134109 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=34134109 target=_blank>55 comments</a>]]></description>
             <pubDate>2022-12-26T03:03:35.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/tpwrules/nixos-m1</guid>
             <link>https://github.com/tpwrules/nixos-m1</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Customer service reps for Disney and Airbnb who have to pay to take calls (2020)]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=34134935 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=34134935 target=_blank>97 comments</a>]]></description>
             <pubDate>2022-12-26T05:41:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.propublica.org/article/meet-the-customer-service-reps-for-disney-and-airbnb-who-have-to-pay-to-talk-to-you</guid>
             <link>https://www.propublica.org/article/meet-the-customer-service-reps-for-disney-and-airbnb-who-have-to-pay-to-talk-to-you</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[mavelikara]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Writing a Mini-CDN to Learn Nginx/Prometheus/Grafana/Lua]]></title>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=34137065 target=_blank>19 comments</a>]]></description>
+            <pubDate>2022-12-26T12:17:38.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/leandromoreira/cdn-up-and-running</guid>
+            <link>https://github.com/leandromoreira/cdn-up-and-running</link>
+            
+            
+            
+            <author><![CDATA[dreampeppers99]]></author>
             
                 
             
