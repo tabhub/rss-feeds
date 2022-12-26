@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #595]]></title>
+        <title><![CDATA[Perl Weekly #596]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[FOSDEM]]></title>
-            <description><![CDATA[FOSDEM 2023 is in person on February 4th and 5th and TPRF is seeking volunteers to help run the The Perl/Raku Foundation stand. I am quite happy that the tradition of having a stand at FOSDEM continues. It is a fun opportunity to talk about your favorite programming language with strangers.]]></description>
-            <pubDate>2022.12.16</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/fosdemstand</guid>
-            <link>https://news.perlfoundation.org/post/fosdemstand</link>
+            <title><![CDATA[First round of feature 'class']]></title>
+            <description><![CDATA[Paul "LeoNerd" Evans has created the first pull request for Corinna, the modern OOP system for Perl. Merry Christmas!]]></description>
+            <pubDate>2022.12.25</pubDate>
+            <guid isPermaLink="false">https://github.com/Perl/perl5/pull/20647</guid>
+            <link>https://github.com/Perl/perl5/pull/20647</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Strawberry Perl vs ActivePerl ]]></title>
-            <description><![CDATA[Which Perl distribution to use on Windows?]]></description>
-            <pubDate>2022.12.13</pubDate>
-            <guid isPermaLink="false">https://dev.to/midas/strawberry-perl-vs-activeperl-1fb6</guid>
-            <link>https://dev.to/midas/strawberry-perl-vs-activeperl-1fb6</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[curtis_ovid_poe]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Delivery Map - using GraphViz]]></title>
-            <description><![CDATA[Santa has started to get more absent-minded lately. Year after year he tends to forget a few more things. Just little things like where he left the keys to the sled, or to put his red Santa hat on before he leaves the house.<p>To give you an idea, in 2021, Santa completely forgot to deliver presents to the Johnson family in Birmingham. He had to come back later to fix it, and nearly got caught by the children!]]></description>
-            <pubDate>2022.12.12</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2022/2022-12-12.html</guid>
-            <link>https://perladvent.org/2022/2022-12-12.html</link>
+            <title><![CDATA[Catalyst Framework]]></title>
+            <description><![CDATA[For any of the Catalyst programmers out there interested in seeing the framework move forward, here's a PR that changes action chaining so that you can call the next action from within the action code, optionally passing and recieving arguments.]]></description>
+            <pubDate>2022.12</pubDate>
+            <guid isPermaLink="false">https://github.com/perl-catalyst/catalyst-runtime/pull/181</guid>
+            <link>https://github.com/perl-catalyst/catalyst-runtime/pull/181</link>
             
             
             
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Santa's Helper Embrace the Shell]]></title>
-            <description><![CDATA[jp is a tool to analyze JSON files.]]></description>
-            <pubDate>2022.12.13</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2022/2022-12-13.html</guid>
-            <link>https://perladvent.org/2022/2022-12-13.html</link>
-            
-            
-            
-            <author><![CDATA[stefan_adams]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Let the Elves Import Your Packages]]></title>
-            <description><![CDATA[Load all the modules in a namespace.]]></description>
-            <pubDate>2022.12.14</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2022/2022-12-14.html</guid>
-            <link>https://perladvent.org/2022/2022-12-14.html</link>
+            <title><![CDATA[Writing a CPAN module that talks to ChatGPT]]></title>
+            <description><![CDATA[ChatGPT is the hot topic now a days and Dave shared his view on the same.]]></description>
+            <pubDate>2022.12.20</pubDate>
+            <guid isPermaLink="false">https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5</guid>
+            <link>https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5</link>
             
             
             
-            <author><![CDATA[bartosz_jarzyna]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Create Professional Slideshows with Mojolicious::Plugin::RevealJS]]></title>
-            <description><![CDATA[Santa's elf had a problem. He had to write a presentation very fast and show it to a bunch of new elves. The email assigning this to him was sent by Santa himself. The elf started to look on MetaCPAN and found this module: Mojolicious::Plugin::RevealJS]]></description>
-            <pubDate>2022.12.15</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2022/2022-12-15.html</guid>
-            <link>https://perladvent.org/2022/2022-12-15.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -114,63 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Day 16: Moving from Travis-CI to GitHub Actions for Marpa::R2]]></title>
-            <description><![CDATA[Do you think tests should <b>always</b> pass or are you in the school that's ok to go for some time while tests are failing. I think it is much better to make sure the test always pass and when they fail to make some intelligent decision. Those who let tests start to fail will most likely start expecting and accepting them to fail and slowly, but surely the tests will loose their value. Jeffrey Kegler, author of Marpa, thinks about this differently.]]></description>
-            <pubDate>2022.12.16</pubDate>
-            <guid isPermaLink="false">https://dev.to/szabgab/day-16-moving-from-travis-ci-to-github-actions-for-marpar2-21cj</guid>
-            <link>https://dev.to/szabgab/day-16-moving-from-travis-ci-to-github-actions-for-marpar2-21cj</link>
+            <title><![CDATA[Linux::NFTables]]></title>
+            <description><![CDATA[Perl interface to libnftables.]]></description>
+            <pubDate>2022.12.24</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/pod/Linux::NFTables</guid>
+            <link>https://metacpan.org/pod/Linux::NFTables</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Relocatable Perl]]></title>
-            <description><![CDATA[That is, releases of perl that you can install anywhere on your disk.]]></description>
-            <pubDate>2022.12.16</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2022/2022-12-16.html</guid>
-            <link>https://perladvent.org/2022/2022-12-16.html</link>
-            
-            
-            
-            <author><![CDATA[shoichi_kaji]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Naughty or Nice Networks]]></title>
-            <description><![CDATA[IPv4 and IPv6 address mapping during the winter]]></description>
-            <pubDate>2022.12.17</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2022/2022-12-17.html</guid>
-            <link>https://perladvent.org/2022/2022-12-17.html</link>
-            
-            
-            
-            <author><![CDATA[pete_houston]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[TWVycnkgQ2hyaXN0bWFzIDop]]></title>
-            <description><![CDATA[Perl birthday party]]></description>
-            <pubDate>2022.12.18</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2022/2022-12-18.html</guid>
-            <link>https://perladvent.org/2022/2022-12-18.html</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
+            <author><![CDATA[felipe_gasper]]></author>
             
                 
             
@@ -179,7 +83,7 @@
         
         <item>
             <title><![CDATA[PerlayStation Games Console (Part 1)]]></title>
-            <description><![CDATA[Game building in Perl using SDL and OpenGL]]></description>
+            <description><![CDATA[Saif is back in action after a long break with yet another engaging topic.]]></description>
             <pubDate>2022.12.19</pubDate>
             <guid isPermaLink="false">https://blogs.perl.org/users/saif/2022/12/perlaystation-games-console.html</guid>
             <link>https://blogs.perl.org/users/saif/2022/12/perlaystation-games-console.html</link>
@@ -194,15 +98,95 @@
         </item>
         
         <item>
-            <title><![CDATA[The Weekly Challenge Advent Calendar 2022]]></title>
-            <description><![CDATA[The Weekly Challenge Advent Calendar 2022]]></description>
-            <pubDate>2022.12.18</pubDate>
-            <guid isPermaLink="false">https://dev.to/manwar/the-weekly-challenge-advent-calendar-2022-6ad</guid>
-            <link>https://dev.to/manwar/the-weekly-challenge-advent-calendar-2022-6ad</link>
+            <title><![CDATA[AoC 2022/13 - Nested lists]]></title>
+            <description><![CDATA[AoC 2022/13 - Nested lists]]></description>
+            <pubDate>2022.12.19</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/19/aoc2022-13-nested-lists/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/12/19/aoc2022-13-nested-lists/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AoC 2022/14 - Sand accumulation]]></title>
+            <description><![CDATA[AoC 2022/14 - Sand accumulation]]></description>
+            <pubDate>2022.12.20</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/20/aoc2022-14-accumulation/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/12/20/aoc2022-14-accumulation/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AoC 2022/15 - Diamonds are squares in disguise]]></title>
+            <description><![CDATA[AoC 2022/15 - Diamonds are squares in disguise]]></description>
+            <pubDate>2022.12.21</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/21/aoc2022-14-diamonds-are-squares/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/12/21/aoc2022-14-diamonds-are-squares/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AoC 2022/16 - Pressured shame]]></title>
+            <description><![CDATA[AoC 2022/16 - Pressured shame]]></description>
+            <pubDate>2022.12.24</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/24/aoc2022-16-pressured-shame/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/12/24/aoc2022-16-pressured-shame/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AoC 2022/17 - Tetris-ish accumulation]]></title>
+            <description><![CDATA[AoC 2022/17 - Tetris-ish accumulation]]></description>
+            <pubDate>2022.12.25</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/25/aoc2022-17-accumulations/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2022/12/25/aoc2022-17-accumulations/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2022.51 Hijacking D3]]></title>
+            <description><![CDATA[2022.51 Hijacking D3]]></description>
+            <pubDate>2022.12.19</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2022/12/19/2022-51hijacking-d3/</guid>
+            <link>https://rakudoweekly.blog/2022/12/19/2022-51hijacking-d3/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -211,14 +195,78 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/12/cdxxiii-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/12/dxxxvi-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/12/dlxiv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.12.18</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/12/cdxxiv-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/12/dxxxvii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/12/dlxv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2022.12.24</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Billions of unnecessary files in GitHub]]></title>
+            <description><![CDATA[People seem to ignore the .gitignore file.]]></description>
+            <pubDate>2022.12.21</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85</guid>
+            <link>https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Day 25: CI for Data::Alias in Perl - including threaded perl]]></title>
+            <description><![CDATA[A simple GitHub Action configuration with some twist]]></description>
+            <pubDate>2022.12.25</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/day-25-ci-for-dataalias-in-perl-including-threaded-perl-5feh</guid>
+            <link>https://dev.to/szabgab/day-25-ci-for-dataalias-in-perl-including-threaded-perl-5feh</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Day 24: CI for perl5-MIME-Types]]></title>
+            <description><![CDATA[Day 24: CI for perl5-MIME-Types]]></description>
+            <pubDate>2022.12.24</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/day-24-ci-for-perl5-mime-types-1nf</guid>
+            <link>https://dev.to/szabgab/day-24-ci-for-perl5-mime-types-1nf</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Day 23: CI using timescaledb a PostgreSQL based time series database]]></title>
+            <description><![CDATA[Though this is a Ruby project, it was very interesting (and complex) setting up the Continuous Integration.]]></description>
+            <pubDate>2022.12.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/day-23-ci-using-timescaledb-a-postgresql-based-time-series-database-2ak2</guid>
+            <link>https://dev.to/szabgab/day-23-ci-using-timescaledb-a-postgresql-based-time-series-database-2ak2</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
