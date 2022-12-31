@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Golang disables Nagle's Algorithm by default]]></title>
-            <description><![CDATA[771 points | <a href=https://news.ycombinator.com/item?id=34179426 target=_blank>357 comments</a>]]></description>
-            <pubDate>2022-12-29T23:17:43.000Z</pubDate>
-            <guid isPermaLink="false">https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/</guid>
-            <link>https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/</link>
-            
-            
-            
-            <author><![CDATA[withinboredom]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[PRQL: a simple, powerful, pipelined SQL replacement]]></title>
-            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=34181319 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[394 points | <a href=https://news.ycombinator.com/item?id=34181319 target=_blank>185 comments</a>]]></description>
             <pubDate>2022-12-30T03:04:44.000Z</pubDate>
             <guid isPermaLink="false">https://prql-lang.org/</guid>
             <link>https://prql-lang.org/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[We got grifted by a distributor and need to move 30k bags of coffee [updated]]]></title>
-            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=34186886 target=_blank>313 comments</a>]]></description>
+            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=34186886 target=_blank>321 comments</a>]]></description>
             <pubDate>2022-12-30T16:56:07.000Z</pubDate>
             <guid isPermaLink="false">https://www.modest.coffee/2022/12/how-we-got-grifted/</guid>
             <link>https://www.modest.coffee/2022/12/how-we-got-grifted/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Poll: What's the best laptop for Linux these days?]]></title>
-            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=34180508 target=_blank>401 comments</a>]]></description>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=34180508 target=_blank>406 comments</a>]]></description>
             <pubDate>2022-12-30T01:24:47.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=34180508</guid>
             <link>https://news.ycombinator.com/item?id=34180508</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Tamagui 1.0 – Cross-platform React apps in less time, with better performance]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=34186742 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=34186742 target=_blank>87 comments</a>]]></description>
             <pubDate>2022-12-30T16:45:50.000Z</pubDate>
             <guid isPermaLink="false">https://tamagui.dev/blog/version-one</guid>
             <link>https://tamagui.dev/blog/version-one</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Where does ChatGPT fall on the political compass?]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=34181339 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=34181339 target=_blank>108 comments</a>]]></description>
             <pubDate>2022-12-30T03:07:37.000Z</pubDate>
             <guid isPermaLink="false">https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/</guid>
             <link>https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Phoenix 1.7 is View-less]]></title>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=34188461 target=_blank>98 comments</a>]]></description>
+            <pubDate>2022-12-30T18:52:32.000Z</pubDate>
+            <guid isPermaLink="false">https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less</guid>
+            <link>https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[An M1 for Curl]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=34183020 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=34183020 target=_blank>159 comments</a>]]></description>
             <pubDate>2022-12-30T08:11:07.000Z</pubDate>
             <guid isPermaLink="false">https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/</guid>
             <link>https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Kagi – Paid Search Engine]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=34179949 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=34179949 target=_blank>156 comments</a>]]></description>
             <pubDate>2022-12-30T00:17:12.000Z</pubDate>
             <guid isPermaLink="false">https://kagi.com:443/</guid>
             <link>https://kagi.com:443/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Pomsky – A portable, modern regular expression language]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=34183944 target=_blank>137 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=34183944 target=_blank>140 comments</a>]]></description>
             <pubDate>2022-12-30T11:04:23.000Z</pubDate>
             <guid isPermaLink="false">https://pomsky-lang.org/</guid>
             <link>https://pomsky-lang.org/</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Phoenix 1.7 is View-less]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=34188461 target=_blank>78 comments</a>]]></description>
-            <pubDate>2022-12-30T18:52:32.000Z</pubDate>
-            <guid isPermaLink="false">https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less</guid>
-            <link>https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Stripe is holding over $400k of mine with no explanation]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=34189717 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=34189717 target=_blank>113 comments</a>]]></description>
             <pubDate>2022-12-30T20:31:49.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=34189717</guid>
             <link>https://news.ycombinator.com/item?id=34189717</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Auth.js Authentication for the Web]]></title>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=34184669 target=_blank>69 comments</a>]]></description>
+            <pubDate>2022-12-30T13:10:21.000Z</pubDate>
+            <guid isPermaLink="false">https://authjs.dev/</guid>
+            <link>https://authjs.dev/</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Color Formats in CSS]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=34183663 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=34183663 target=_blank>30 comments</a>]]></description>
             <pubDate>2022-12-30T10:12:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.joshwcomeau.com/css/color-formats/</guid>
             <link>https://www.joshwcomeau.com/css/color-formats/</link>
