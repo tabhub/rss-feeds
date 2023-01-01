@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Draw SVG rope using JavaScript]]></title>
-            <description><![CDATA[1097 points | <a href=https://news.ycombinator.com/item?id=34197379 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[1098 points | <a href=https://news.ycombinator.com/item?id=34197379 target=_blank>62 comments</a>]]></description>
             <pubDate>2022-12-31T15:43:54.000Z</pubDate>
             <guid isPermaLink="false">https://muffinman.io/blog/draw-svg-rope-using-javascript/</guid>
             <link>https://muffinman.io/blog/draw-svg-rope-using-javascript/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Croatia to switch to euro, enter passport-free Schengen zone]]></title>
-            <description><![CDATA[426 points | <a href=https://news.ycombinator.com/item?id=34199962 target=_blank>430 comments</a>]]></description>
+            <description><![CDATA[427 points | <a href=https://news.ycombinator.com/item?id=34199962 target=_blank>432 comments</a>]]></description>
             <pubDate>2022-12-31T19:43:57.000Z</pubDate>
             <guid isPermaLink="false">https://www.aljazeera.com/news/2022/12/31/croatia-to-switch-to-euro-enter-passport-free-schengen-zone</guid>
             <link>https://www.aljazeera.com/news/2022/12/31/croatia-to-switch-to-euro-enter-passport-free-schengen-zone</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[I am not a supplier]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=34201368 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=34201368 target=_blank>185 comments</a>]]></description>
             <pubDate>2022-12-31T22:22:39.000Z</pubDate>
             <guid isPermaLink="false">https://www.softwaremaxims.com/blog/not-a-supplier</guid>
             <link>https://www.softwaremaxims.com/blog/not-a-supplier</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Should small Rust structs be passed by-copy or by-borrow? (2019)]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=34196294 target=_blank>213 comments</a>]]></description>
-            <pubDate>2022-12-31T13:33:30.000Z</pubDate>
-            <guid isPermaLink="false">https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/</guid>
-            <link>https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/</link>
-            
-            
-            
-            <author><![CDATA[aloukissas]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Cached Chrome Top Million Websites]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=34196381 target=_blank>95 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=34196381 target=_blank>96 comments</a>]]></description>
             <pubDate>2022-12-31T13:49:20.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/zakird/crux-top-lists</guid>
             <link>https://github.com/zakird/crux-top-lists</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[React Native is not the future]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=34197613 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=34197613 target=_blank>251 comments</a>]]></description>
             <pubDate>2022-12-31T16:02:48.000Z</pubDate>
             <guid isPermaLink="false">https://blog.standardnotes.com/40921/no-react-native-is-not-the-future</guid>
             <link>https://blog.standardnotes.com/40921/no-react-native-is-not-the-future</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[The State of HTTP in 2022]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=34201082 target=_blank>153 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=34201082 target=_blank>154 comments</a>]]></description>
             <pubDate>2022-12-31T21:45:02.000Z</pubDate>
             <guid isPermaLink="false">https://blog.cloudflare.com/the-state-of-http-in-2022/</guid>
             <link>https://blog.cloudflare.com/the-state-of-http-in-2022/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[ibobev]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CPU branch prediction evolution over years (2017)]]></title>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=34200564 target=_blank>62 comments</a>]]></description>
+            <pubDate>2022-12-31T20:46:07.000Z</pubDate>
+            <guid isPermaLink="false">https://danluu.com/branch-prediction/</guid>
+            <link>https://danluu.com/branch-prediction/</link>
+            
+            
+            
+            <author><![CDATA[Keyframe]]></author>
             
                 
             
