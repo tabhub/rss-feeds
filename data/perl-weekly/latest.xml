@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #596]]></title>
+        <title><![CDATA[Perl Weekly #597]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[First round of feature 'class']]></title>
-            <description><![CDATA[Paul "LeoNerd" Evans has created the first pull request for Corinna, the modern OOP system for Perl. Merry Christmas!]]></description>
-            <pubDate>2022.12.25</pubDate>
-            <guid isPermaLink="false">https://github.com/Perl/perl5/pull/20647</guid>
-            <link>https://github.com/Perl/perl5/pull/20647</link>
+            <title><![CDATA[Set HTTP headers with WWW-Mechanize]]></title>
+            <description><![CDATA[Set HTTP headers with WWW-Mechanize]]></description>
+            <pubDate>2022.12.26</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/set-http-headers-with-www-mechanize-4bd5</guid>
+            <link>https://dev.to/szabgab/set-http-headers-with-www-mechanize-4bd5</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Catalyst Framework]]></title>
-            <description><![CDATA[For any of the Catalyst programmers out there interested in seeing the framework move forward, here's a PR that changes action chaining so that you can call the next action from within the action code, optionally passing and recieving arguments.]]></description>
-            <pubDate>2022.12</pubDate>
-            <guid isPermaLink="false">https://github.com/perl-catalyst/catalyst-runtime/pull/181</guid>
-            <link>https://github.com/perl-catalyst/catalyst-runtime/pull/181</link>
-            
-            
-            
-            <author><![CDATA[john_napiorkowski]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Writing a CPAN module that talks to ChatGPT]]></title>
-            <description><![CDATA[ChatGPT is the hot topic now a days and Dave shared his view on the same.]]></description>
-            <pubDate>2022.12.20</pubDate>
-            <guid isPermaLink="false">https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5</guid>
-            <link>https://dev.to/davorg/writing-a-cpan-module-that-talks-to-chatgpt-gb5</link>
+            <title><![CDATA[Perl Suggestion: Improve metacpan title in Google SEO]]></title>
+            <description><![CDATA[Yuki is trying hard to improve the ranking of MetaCPAN pages, but does he talk to the MetaCPAN developers. Did he send a pull-request to implement this? If not Yuki, then will someone pick-up the idea and implement it?]]></description>
+            <pubDate>2022.12.26</pubDate>
+            <guid isPermaLink="false">https://dev.to/yukikimoto/perl-suggestion-improve-metacpan-title-in-google-seo-3a9f</guid>
+            <link>https://dev.to/yukikimoto/perl-suggestion-improve-metacpan-title-in-google-seo-3a9f</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Linux::NFTables]]></title>
-            <description><![CDATA[Perl interface to libnftables.]]></description>
-            <pubDate>2022.12.24</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/pod/Linux::NFTables</guid>
-            <link>https://metacpan.org/pod/Linux::NFTables</link>
-            
-            
-            
-            <author><![CDATA[felipe_gasper]]></author>
+            <author><![CDATA[yuki_kimoto]]></author>
             
                 
             
@@ -82,123 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[PerlayStation Games Console (Part 1)]]></title>
-            <description><![CDATA[Saif is back in action after a long break with yet another engaging topic.]]></description>
-            <pubDate>2022.12.19</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2022/12/perlaystation-games-console.html</guid>
-            <link>https://blogs.perl.org/users/saif/2022/12/perlaystation-games-console.html</link>
-            
-            
-            
-            <author><![CDATA[saif_ahmed]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2022/13 - Nested lists]]></title>
-            <description><![CDATA[AoC 2022/13 - Nested lists]]></description>
-            <pubDate>2022.12.19</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/19/aoc2022-13-nested-lists/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/12/19/aoc2022-13-nested-lists/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2022/14 - Sand accumulation]]></title>
-            <description><![CDATA[AoC 2022/14 - Sand accumulation]]></description>
-            <pubDate>2022.12.20</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/20/aoc2022-14-accumulation/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/12/20/aoc2022-14-accumulation/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2022/15 - Diamonds are squares in disguise]]></title>
-            <description><![CDATA[AoC 2022/15 - Diamonds are squares in disguise]]></description>
-            <pubDate>2022.12.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/21/aoc2022-14-diamonds-are-squares/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/12/21/aoc2022-14-diamonds-are-squares/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2022/16 - Pressured shame]]></title>
-            <description><![CDATA[AoC 2022/16 - Pressured shame]]></description>
-            <pubDate>2022.12.24</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/24/aoc2022-16-pressured-shame/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/12/24/aoc2022-16-pressured-shame/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AoC 2022/17 - Tetris-ish accumulation]]></title>
-            <description><![CDATA[AoC 2022/17 - Tetris-ish accumulation]]></description>
-            <pubDate>2022.12.25</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2022/12/25/aoc2022-17-accumulations/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2022/12/25/aoc2022-17-accumulations/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2022.51 Hijacking D3]]></title>
-            <description><![CDATA[2022.51 Hijacking D3]]></description>
-            <pubDate>2022.12.19</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2022/12/19/2022-51hijacking-d3/</guid>
-            <link>https://rakudoweekly.blog/2022/12/19/2022-51hijacking-d3/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2022/12/cdxxiv-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2022/12/dxxxvii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2022/12/dlxv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2022.12.24</pubDate>
-            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
-            <link>http://niceperl.blogspot.com/</link>
+            <title><![CDATA[MetaCPAN most voted distributions in 2022 ]]></title>
+            <description><![CDATA[This is the metacpan most voted distributions in 2022]]></description>
+            <pubDate>2023.01.01</pubDate>
+            <guid isPermaLink="false">https://niceperl.blogspot.com/2023/01/metacpan-most-voted-distributions-in.html</guid>
+            <link>https://niceperl.blogspot.com/2023/01/metacpan-most-voted-distributions-in.html</link>
             
             
             
@@ -210,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Billions of unnecessary files in GitHub]]></title>
-            <description><![CDATA[People seem to ignore the .gitignore file.]]></description>
-            <pubDate>2022.12.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85</guid>
-            <link>https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85</link>
+            <title><![CDATA[13 best perl distributions created at 2022 (metacpan rating) ]]></title>
+            <description><![CDATA[This list contains distributions created at 2022]]></description>
+            <pubDate>2023.01.01</pubDate>
+            <guid isPermaLink="false">https://niceperl.blogspot.com/2023/01/13-best-perl-distributions-created-at.html</guid>
+            <link>https://niceperl.blogspot.com/2023/01/13-best-perl-distributions-created-at.html</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Day 25: CI for Data::Alias in Perl - including threaded perl]]></title>
-            <description><![CDATA[A simple GitHub Action configuration with some twist]]></description>
-            <pubDate>2022.12.25</pubDate>
-            <guid isPermaLink="false">https://dev.to/szabgab/day-25-ci-for-dataalias-in-perl-including-threaded-perl-5feh</guid>
-            <link>https://dev.to/szabgab/day-25-ci-for-dataalias-in-perl-including-threaded-perl-5feh</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
@@ -242,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Day 24: CI for perl5-MIME-Types]]></title>
-            <description><![CDATA[Day 24: CI for perl5-MIME-Types]]></description>
-            <pubDate>2022.12.24</pubDate>
-            <guid isPermaLink="false">https://dev.to/szabgab/day-24-ci-for-perl5-mime-types-1nf</guid>
-            <link>https://dev.to/szabgab/day-24-ci-for-perl5-mime-types-1nf</link>
+            <title><![CDATA[10 best Perl questions at stackoverflow in 2022 ]]></title>
+            <description><![CDATA[This is the ten most rated questions at 2022 Stack Overflow.]]></description>
+            <pubDate>2023.01.01</pubDate>
+            <guid isPermaLink="false">https://niceperl.blogspot.com/2023/01/10-best-perl-questions-at-stackoverflow.html</guid>
+            <link>https://niceperl.blogspot.com/2023/01/10-best-perl-questions-at-stackoverflow.html</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
@@ -258,15 +98,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Day 23: CI using timescaledb a PostgreSQL based time series database]]></title>
-            <description><![CDATA[Though this is a Ruby project, it was very interesting (and complex) setting up the Continuous Integration.]]></description>
-            <pubDate>2022.12.23</pubDate>
-            <guid isPermaLink="false">https://dev.to/szabgab/day-23-ci-using-timescaledb-a-postgresql-based-time-series-database-2ak2</guid>
-            <link>https://dev.to/szabgab/day-23-ci-using-timescaledb-a-postgresql-based-time-series-database-2ak2</link>
+            <title><![CDATA[SemVer but with Extra Steps]]></title>
+            <description><![CDATA[SemVer is Semantic Versioning. Versions have three parts: MAJOR, MINOR, and PATCH.]]></description>
+            <pubDate>2022.12.30</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/toby_inkster/2022/12/semver-but-with-extra-steps.html</guid>
+            <link>https://blogs.perl.org/users/toby_inkster/2022/12/semver-but-with-extra-steps.html</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[toby_inkster]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PSA: Changing your b.p.o password is recommended]]></title>
+            <description><![CDATA[Aristotle has further improved blogs.Perl.org and now he invites the users to update their passwords to ensure that they are secure.]]></description>
+            <pubDate>2022.12.31</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/meta/2022/12/tls-pwdupdate-psa.html</guid>
+            <link>https://blogs.perl.org/users/meta/2022/12/tls-pwdupdate-psa.html</link>
+            
+            
+            
+            <author><![CDATA[aristotle_pagaltzis]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/01/cdxxv-23-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/01/dxxxviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/01/dlxvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.01.01</pubDate>
+            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
+            <link>http://niceperl.blogspot.com/</link>
+            
+            
+            
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
