@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[NYC Slice]]></title>
-            <description><![CDATA[613 points | <a href=https://news.ycombinator.com/item?id=34342871 target=_blank>460 comments</a>]]></description>
+            <description><![CDATA[616 points | <a href=https://news.ycombinator.com/item?id=34342871 target=_blank>464 comments</a>]]></description>
             <pubDate>2023-01-11T19:00:54.000Z</pubDate>
             <guid isPermaLink="false">https://elkue.com/nyc-slice/</guid>
             <link>https://elkue.com/nyc-slice/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: Kandria, an action RPG made in Common Lisp, is now out]]></title>
-            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=34338629 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=34338629 target=_blank>119 comments</a>]]></description>
             <pubDate>2023-01-11T14:09:54.000Z</pubDate>
             <guid isPermaLink="false">https://store.steampowered.com/app/1261430/Kandria/</guid>
             <link>https://store.steampowered.com/app/1261430/Kandria/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple announces full Swift rewrite of the Foundation framework (2022)]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=34339153 target=_blank>295 comments</a>]]></description>
+            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=34339153 target=_blank>299 comments</a>]]></description>
             <pubDate>2023-01-11T15:01:11.000Z</pubDate>
             <guid isPermaLink="false">https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/</guid>
             <link>https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Guerrilla guide to CNC machining, mold making, and resin casting (2015)]]></title>
-            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=34339459 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=34339459 target=_blank>143 comments</a>]]></description>
             <pubDate>2023-01-11T15:26:42.000Z</pubDate>
             <guid isPermaLink="false">https://lcamtuf.coredump.cx/gcnc/</guid>
             <link>https://lcamtuf.coredump.cx/gcnc/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[A corrupt file led to the FAA ground stoppage – also found in backup system]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=34348388 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=34348388 target=_blank>181 comments</a>]]></description>
             <pubDate>2023-01-12T02:30:05.000Z</pubDate>
             <guid isPermaLink="false">https://www.cnn.com/travel/article/faa-ground-stop-causes/index.html</guid>
             <link>https://www.cnn.com/travel/article/faa-ground-stop-causes/index.html</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[The yaml document from hell]]></title>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=34351503 target=_blank>129 comments</a>]]></description>
+            <pubDate>2023-01-12T10:15:41.000Z</pubDate>
+            <guid isPermaLink="false">https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell</guid>
+            <link>https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell</link>
+            
+            
+            
+            <author><![CDATA[ruuda]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Conc: Better Structured Concurrency for Go]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=34344514 target=_blank>115 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=34344514 target=_blank>116 comments</a>]]></description>
             <pubDate>2023-01-11T20:48:53.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/sourcegraph/conc</guid>
             <link>https://github.com/sourcegraph/conc</link>
@@ -162,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[New video of Tesla crash demonstrates the problem of semi-automated driving]]></title>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=34347778 target=_blank>488 comments</a>]]></description>
+            <pubDate>2023-01-12T01:19:40.000Z</pubDate>
+            <guid isPermaLink="false">https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/</guid>
+            <link>https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/</link>
+            
+            
+            
+            <author><![CDATA[frxx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[On leading underscores and names reserved by the C and C++ languages]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=34337996 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=34337996 target=_blank>147 comments</a>]]></description>
             <pubDate>2023-01-11T13:13:37.000Z</pubDate>
             <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685</guid>
             <link>https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685</link>
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[rwmj]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Why are there so many tech layoffs, and why should we be worried?]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=34339698 target=_blank>314 comments</a>]]></description>
-            <pubDate>2023-01-11T15:44:06.000Z</pubDate>
-            <guid isPermaLink="false">https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/</guid>
-            <link>https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/</link>
-            
-            
-            
-            <author><![CDATA[tim_sw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[T95 Allwinner T616 Malware Analysis]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=34342255 target=_blank>64 comments</a>]]></description>
-            <pubDate>2023-01-11T18:22:52.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/DesktopECHO/T95-H616-Malware</guid>
-            <link>https://github.com/DesktopECHO/T95-H616-Malware</link>
-            
-            
-            
-            <author><![CDATA[DesktopECHO]]></author>
             
                 
             
