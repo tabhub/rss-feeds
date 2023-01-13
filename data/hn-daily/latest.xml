@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The James Webb Space Telescope is finding too many early galaxies]]></title>
-            <description><![CDATA[609 points | <a href=https://news.ycombinator.com/item?id=34360010 target=_blank>407 comments</a>]]></description>
+            <description><![CDATA[614 points | <a href=https://news.ycombinator.com/item?id=34360010 target=_blank>416 comments</a>]]></description>
             <pubDate>2023-01-12T20:45:57.000Z</pubDate>
             <guid isPermaLink="false">https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-is-finding-too-many-early-galaxies/</guid>
             <link>https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-is-finding-too-many-early-galaxies/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Grayscale on 1-bit LCDs (2022)]]></title>
-            <description><![CDATA[590 points | <a href=https://news.ycombinator.com/item?id=34354213 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[591 points | <a href=https://news.ycombinator.com/item?id=34354213 target=_blank>85 comments</a>]]></description>
             <pubDate>2023-01-12T14:47:14.000Z</pubDate>
             <guid isPermaLink="false">https://www.zephray.me/post/grayscale_lcd/</guid>
             <link>https://www.zephray.me/post/grayscale_lcd/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The Yaml document from hell]]></title>
-            <description><![CDATA[512 points | <a href=https://news.ycombinator.com/item?id=34351503 target=_blank>322 comments</a>]]></description>
+            <description><![CDATA[512 points | <a href=https://news.ycombinator.com/item?id=34351503 target=_blank>323 comments</a>]]></description>
             <pubDate>2023-01-12T10:15:41.000Z</pubDate>
             <guid isPermaLink="false">https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell</guid>
             <link>https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Europe's largest deposit of rare earth metals discovered in Sweden]]></title>
-            <description><![CDATA[493 points | <a href=https://news.ycombinator.com/item?id=34352040 target=_blank>304 comments</a>]]></description>
+            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=34352040 target=_blank>304 comments</a>]]></description>
             <pubDate>2023-01-12T11:30:45.000Z</pubDate>
             <guid isPermaLink="false">https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152</guid>
             <link>https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[The UK is wasting a lot of wind power]]></title>
-            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=34358795 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=34358795 target=_blank>285 comments</a>]]></description>
             <pubDate>2023-01-12T19:08:36.000Z</pubDate>
             <guid isPermaLink="false">https://archy.deberker.com/the-uk-is-wasting-a-lot-of-wind-power/</guid>
             <link>https://archy.deberker.com/the-uk-is-wasting-a-lot-of-wind-power/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Geoffrey Hinton publishes new deep learning algorithm]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=34350662 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=34350662 target=_blank>117 comments</a>]]></description>
             <pubDate>2023-01-12T08:22:18.000Z</pubDate>
             <guid isPermaLink="false">https://www.infoq.com/news/2023/01/hinton-forward-algorithm/</guid>
             <link>https://www.infoq.com/news/2023/01/hinton-forward-algorithm/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Nintendo 64 Java]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=34359656 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=34359656 target=_blank>57 comments</a>]]></description>
             <pubDate>2023-01-12T20:15:10.000Z</pubDate>
             <guid isPermaLink="false">https://www.mikekohn.net/micro/nintendo64_java.php</guid>
             <link>https://www.mikekohn.net/micro/nintendo64_java.php</link>
@@ -162,15 +162,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Kristall – a browser without support for CSS/JS/WASM or graphical websites]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=34350436 target=_blank>176 comments</a>]]></description>
-            <pubDate>2023-01-12T07:50:26.000Z</pubDate>
-            <guid isPermaLink="false">https://kristall.random-projects.net/</guid>
-            <link>https://kristall.random-projects.net/</link>
+            <title><![CDATA[Supporting the use of Rust in the Chromium project]]></title>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=34360179 target=_blank>94 comments</a>]]></description>
+            <pubDate>2023-01-12T21:00:08.000Z</pubDate>
+            <guid isPermaLink="false">https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html</guid>
+            <link>https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html</link>
             
             
             
-            <author><![CDATA[tsujp]]></author>
+            <author><![CDATA[mfiguiere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This Voice Doesn't Exist – Generative Voice AI]]></title>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=34361651 target=_blank>122 comments</a>]]></description>
+            <pubDate>2023-01-12T23:19:25.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/</guid>
+            <link>https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/</link>
+            
+            
+            
+            <author><![CDATA[goleary]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[tyoung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This Voice Doesn't Exist – Generative Voice AI]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=34361651 target=_blank>118 comments</a>]]></description>
-            <pubDate>2023-01-12T23:19:25.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/</guid>
-            <link>https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/</link>
-            
-            
-            
-            <author><![CDATA[goleary]]></author>
             
                 
             
