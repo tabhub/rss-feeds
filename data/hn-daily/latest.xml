@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Do you hate software engineering but love programming?]]></title>
-            <description><![CDATA[598 points | <a href=https://news.ycombinator.com/item?id=34366610 target=_blank>554 comments</a>]]></description>
+            <description><![CDATA[598 points | <a href=https://news.ycombinator.com/item?id=34366610 target=_blank>555 comments</a>]]></description>
             <pubDate>2023-01-13T11:57:46.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=34366610</guid>
             <link>https://news.ycombinator.com/item?id=34366610</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Analog Chess]]></title>
-            <description><![CDATA[524 points | <a href=https://news.ycombinator.com/item?id=34370440 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[525 points | <a href=https://news.ycombinator.com/item?id=34370440 target=_blank>186 comments</a>]]></description>
             <pubDate>2023-01-13T16:55:21.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ehulinsky/AnalogChess/blob/main/README.md</guid>
             <link>https://github.com/ehulinsky/AnalogChess/blob/main/README.md</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Alpine.js]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=34365515 target=_blank>232 comments</a>]]></description>
+            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=34365515 target=_blank>233 comments</a>]]></description>
             <pubDate>2023-01-13T09:09:47.000Z</pubDate>
             <guid isPermaLink="false">https://alpinejs.dev/</guid>
             <link>https://alpinejs.dev/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Docker-OSX: Run macOS VM in a Docker]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=34374710 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=34374710 target=_blank>72 comments</a>]]></description>
             <pubDate>2023-01-13T22:20:27.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/sickcodes/Docker-OSX</guid>
             <link>https://github.com/sickcodes/Docker-OSX</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[A 116kb WASM of Blink that lets you run x86_64 Linux binaries in the browser]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=34367767 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=34367767 target=_blank>61 comments</a>]]></description>
             <pubDate>2023-01-13T13:58:45.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/justinetunney/status/1613895681038770182</guid>
             <link>https://twitter.com/justinetunney/status/1613895681038770182</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Alpine Linux in the Browser (2020)]]></title>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=34371073 target=_blank>54 comments</a>]]></description>
+            <pubDate>2023-01-13T17:41:28.000Z</pubDate>
+            <guid isPermaLink="false">https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&#38;mem=192</guid>
+            <link>https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&#38;mem=192</link>
+            
+            
+            
+            <author><![CDATA[kevmo314]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Big meat can’t quit antibiotics]]></title>
             <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=34367820 target=_blank>177 comments</a>]]></description>
             <pubDate>2023-01-13T14:01:58.000Z</pubDate>
@@ -162,40 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Alpine Linux in the Browser (2020)]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=34371073 target=_blank>54 comments</a>]]></description>
-            <pubDate>2023-01-13T17:41:28.000Z</pubDate>
-            <guid isPermaLink="false">https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&#38;mem=192</guid>
-            <link>https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&#38;mem=192</link>
-            
-            
-            
-            <author><![CDATA[kevmo314]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Long Covid: major findings, mechanisms and recommendations]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=34375735 target=_blank>120 comments</a>]]></description>
-            <pubDate>2023-01-14T00:12:23.000Z</pubDate>
-            <guid isPermaLink="false">https://www.nature.com/articles/s41579-022-00846-2</guid>
-            <link>https://www.nature.com/articles/s41579-022-00846-2</link>
-            
-            
-            
-            <author><![CDATA[CharlesW]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Pi-hole: A black hole for Internet advertisements]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=34374725 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=34374725 target=_blank>111 comments</a>]]></description>
             <pubDate>2023-01-13T22:22:31.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/pi-hole/pi-hole</guid>
             <link>https://github.com/pi-hole/pi-hole</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[axiomdata316]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WInd3x, the iPod Bootrom exploit 10 years too late]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=34376276 target=_blank>22 comments</a>]]></description>
+            <pubDate>2023-01-14T01:27:03.000Z</pubDate>
+            <guid isPermaLink="false">https://q3k.org/wInd3x.html</guid>
+            <link>https://q3k.org/wInd3x.html</link>
+            
+            
+            
+            <author><![CDATA[user890104]]></author>
             
                 
             
