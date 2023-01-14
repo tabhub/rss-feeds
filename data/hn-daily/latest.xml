@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Do you hate software engineering but love programming?]]></title>
-            <description><![CDATA[598 points | <a href=https://news.ycombinator.com/item?id=34366610 target=_blank>555 comments</a>]]></description>
+            <description><![CDATA[599 points | <a href=https://news.ycombinator.com/item?id=34366610 target=_blank>557 comments</a>]]></description>
             <pubDate>2023-01-13T11:57:46.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=34366610</guid>
             <link>https://news.ycombinator.com/item?id=34366610</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Analog Chess]]></title>
-            <description><![CDATA[525 points | <a href=https://news.ycombinator.com/item?id=34370440 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[526 points | <a href=https://news.ycombinator.com/item?id=34370440 target=_blank>187 comments</a>]]></description>
             <pubDate>2023-01-13T16:55:21.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ehulinsky/AnalogChess/blob/main/README.md</guid>
             <link>https://github.com/ehulinsky/AnalogChess/blob/main/README.md</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Alpine.js]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=34365515 target=_blank>233 comments</a>]]></description>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=34365515 target=_blank>234 comments</a>]]></description>
             <pubDate>2023-01-13T09:09:47.000Z</pubDate>
             <guid isPermaLink="false">https://alpinejs.dev/</guid>
             <link>https://alpinejs.dev/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Docker 2.0 went from $11M to $135M in 2 years]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=34372140 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=34372140 target=_blank>268 comments</a>]]></description>
             <pubDate>2023-01-13T18:49:42.000Z</pubDate>
             <guid isPermaLink="false">https://sacra.com/p/docker-plg-pivot/</guid>
             <link>https://sacra.com/p/docker-plg-pivot/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Docker-OSX: Run macOS VM in a Docker]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=34374710 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=34374710 target=_blank>73 comments</a>]]></description>
             <pubDate>2023-01-13T22:20:27.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/sickcodes/Docker-OSX</guid>
             <link>https://github.com/sickcodes/Docker-OSX</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Examples of floating point problems]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=34368597 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=34368597 target=_blank>151 comments</a>]]></description>
             <pubDate>2023-01-13T14:59:21.000Z</pubDate>
             <guid isPermaLink="false">https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/</guid>
             <link>https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Pi-hole: A black hole for Internet advertisements]]></title>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=34374725 target=_blank>112 comments</a>]]></description>
+            <pubDate>2023-01-13T22:22:31.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/pi-hole/pi-hole</guid>
+            <link>https://github.com/pi-hole/pi-hole</link>
+            
+            
+            
+            <author><![CDATA[axiomdata316]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Alpine Linux in the Browser (2020)]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=34371073 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=34371073 target=_blank>56 comments</a>]]></description>
             <pubDate>2023-01-13T17:41:28.000Z</pubDate>
             <guid isPermaLink="false">https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&#38;mem=192</guid>
             <link>https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&#38;mem=192</link>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Pi-hole: A black hole for Internet advertisements]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=34374725 target=_blank>111 comments</a>]]></description>
-            <pubDate>2023-01-13T22:22:31.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/pi-hole/pi-hole</guid>
-            <link>https://github.com/pi-hole/pi-hole</link>
-            
-            
-            
-            <author><![CDATA[axiomdata316]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[WInd3x, the iPod Bootrom exploit 10 years too late]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=34376276 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=34376276 target=_blank>22 comments</a>]]></description>
             <pubDate>2023-01-14T01:27:03.000Z</pubDate>
             <guid isPermaLink="false">https://q3k.org/wInd3x.html</guid>
             <link>https://q3k.org/wInd3x.html</link>
