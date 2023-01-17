@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Wobbly clock]]></title>
-            <description><![CDATA[804 points | <a href=https://news.ycombinator.com/item?id=34399970 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[804 points | <a href=https://news.ycombinator.com/item?id=34399970 target=_blank>180 comments</a>]]></description>
             <pubDate>2023-01-16T12:32:39.000Z</pubDate>
             <guid isPermaLink="false">https://somethingorotherwhatever.com/wobble-clock/</guid>
             <link>https://somethingorotherwhatever.com/wobble-clock/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Reverse engineering a neural network's clever solution to binary addition]]></title>
-            <description><![CDATA[515 points | <a href=https://news.ycombinator.com/item?id=34399142 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[516 points | <a href=https://news.ycombinator.com/item?id=34399142 target=_blank>141 comments</a>]]></description>
             <pubDate>2023-01-16T10:32:12.000Z</pubDate>
             <guid isPermaLink="false">https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/</guid>
             <link>https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Quitting the rat race]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=34406760 target=_blank>314 comments</a>]]></description>
+            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=34406760 target=_blank>317 comments</a>]]></description>
             <pubDate>2023-01-16T23:08:09.000Z</pubDate>
             <guid isPermaLink="false">https://seanbarry.dev/posts/quitting-the-rat-race/</guid>
             <link>https://seanbarry.dev/posts/quitting-the-rat-race/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[The Pretty Good House]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=34408123 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=34408123 target=_blank>150 comments</a>]]></description>
             <pubDate>2023-01-17T01:38:01.000Z</pubDate>
             <guid isPermaLink="false">https://www.prettygoodhouse.org</guid>
             <link>https://www.prettygoodhouse.org</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Godot for AA/AAA game development – What's missing?]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=34401530 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=34401530 target=_blank>172 comments</a>]]></description>
             <pubDate>2023-01-16T15:24:51.000Z</pubDate>
             <guid isPermaLink="false">https://godotengine.org/article/whats-missing-in-godot-for-aaa/</guid>
             <link>https://godotengine.org/article/whats-missing-in-godot-for-aaa/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Boris Yeltsin's visit to a suburban Houston supermarket in 1989 (2016)]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=34404923 target=_blank>271 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=34404923 target=_blank>274 comments</a>]]></description>
             <pubDate>2023-01-16T20:09:27.000Z</pubDate>
             <guid isPermaLink="false">http://beelineblogger.blogspot.com/2016/01/how-supermarket-visit-brought-down.html</guid>
             <link>http://beelineblogger.blogspot.com/2016/01/how-supermarket-visit-brought-down.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Show HN: Sketch – AI code-writing assistant that understands data content]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=34400443 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=34400443 target=_blank>47 comments</a>]]></description>
             <pubDate>2023-01-16T13:33:36.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/approximatelabs/sketch</guid>
             <link>https://github.com/approximatelabs/sketch</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[bluecoconut]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Major standard library changes in Go 1.20]]></title>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=34406127 target=_blank>149 comments</a>]]></description>
+            <pubDate>2023-01-16T22:11:38.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/</guid>
+            <link>https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[simonebrunozzi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Major standard library changes in Go 1.20]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=34406127 target=_blank>140 comments</a>]]></description>
-            <pubDate>2023-01-16T22:11:38.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/</guid>
-            <link>https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
