@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Bitwarden Acquires Passwordless.dev]]></title>
-            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=34427553 target=_blank>319 comments</a>]]></description>
+            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=34427553 target=_blank>322 comments</a>]]></description>
             <pubDate>2023-01-18T15:11:36.000Z</pubDate>
             <guid isPermaLink="false">https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/</guid>
             <link>https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Amazon Closing AmazonSmile]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=34435338 target=_blank>214 comments</a>]]></description>
+            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=34435338 target=_blank>216 comments</a>]]></description>
             <pubDate>2023-01-19T00:52:27.000Z</pubDate>
             <guid isPermaLink="false">https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact</guid>
             <link>https://www.aboutamazon.com/news/company-news/amazon-closing-amazonsmile-to-focus-its-philanthropic-giving-to-programs-with-greater-impact</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[U.S. military-run slot machines earn $100M a year from service members]]></title>
-            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=34429502 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=34429502 target=_blank>248 comments</a>]]></description>
             <pubDate>2023-01-18T17:10:00.000Z</pubDate>
             <guid isPermaLink="false">https://www.npr.org/2022/07/31/1110882487/dod-slot-machines-overseas-bases</guid>
             <link>https://www.npr.org/2022/07/31/1110882487/dod-slot-machines-overseas-bases</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Someone stole my car and now I own hundreds of vinyl records]]></title>
+            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=34433089 target=_blank>210 comments</a>]]></description>
+            <pubDate>2023-01-18T21:07:47.000Z</pubDate>
+            <guid isPermaLink="false">https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own</guid>
+            <link>https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own</link>
+            
+            
+            
+            <author><![CDATA[mkaic]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Rust concepts I wish I learned earlier]]></title>
-            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=34427604 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=34427604 target=_blank>158 comments</a>]]></description>
             <pubDate>2023-01-18T15:14:36.000Z</pubDate>
             <guid isPermaLink="false">https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/</guid>
             <link>https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/</link>
@@ -114,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Someone stole my car and now I own hundreds of vinyl records]]></title>
-            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=34433089 target=_blank>204 comments</a>]]></description>
-            <pubDate>2023-01-18T21:07:47.000Z</pubDate>
-            <guid isPermaLink="false">https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own</guid>
-            <link>https://mkaic.substack.com/p/someone-stole-my-car-and-now-i-own</link>
+            <title><![CDATA[Why to start a startup in a bad economy (2008)]]></title>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=34429869 target=_blank>192 comments</a>]]></description>
+            <pubDate>2023-01-18T17:32:14.000Z</pubDate>
+            <guid isPermaLink="false">http://paulgraham.com/badeconomy.html</guid>
+            <link>http://paulgraham.com/badeconomy.html</link>
             
             
             
-            <author><![CDATA[mkaic]]></author>
+            <author><![CDATA[dbrereton]]></author>
             
                 
             
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Why to start a startup in a bad economy (2008)]]></title>
-            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=34429869 target=_blank>189 comments</a>]]></description>
-            <pubDate>2023-01-18T17:32:14.000Z</pubDate>
-            <guid isPermaLink="false">http://paulgraham.com/badeconomy.html</guid>
-            <link>http://paulgraham.com/badeconomy.html</link>
-            
-            
-            
-            <author><![CDATA[dbrereton]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[HC-tree is an experimental high-concurrency database back end for SQLite]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=34434025 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=34434025 target=_blank>122 comments</a>]]></description>
             <pubDate>2023-01-18T22:27:06.000Z</pubDate>
             <guid isPermaLink="false">https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html</guid>
             <link>https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Bun v0.5]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=34430458 target=_blank>130 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=34430458 target=_blank>132 comments</a>]]></description>
             <pubDate>2023-01-18T18:09:13.000Z</pubDate>
             <guid isPermaLink="false">https://bun.sh/blog/bun-v0.5.0</guid>
             <link>https://bun.sh/blog/bun-v0.5.0</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Which GPU(s) to get for deep learning]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=34431056 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=34431056 target=_blank>108 comments</a>]]></description>
             <pubDate>2023-01-18T18:48:18.000Z</pubDate>
             <guid isPermaLink="false">https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/</guid>
             <link>https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/</link>
