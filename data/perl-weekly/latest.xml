@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #599]]></title>
+        <title><![CDATA[Perl Weekly #600]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,139 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[so many CPAN uploads! (code review mark iii)]]></title>
-            <description><![CDATA[Ricardo has 114 distributions on CPAN, give or take a few. (<a href="https://metacpan.org/author/RJBS">MetaCPAN</a> shows 265). He wanted to do some housekeeping that was almost fun. I think one of these cleanup uploads caught my eye thinking that the distribution is actively maintained and I sent him PR adding GitHub Actions probably making him regret a bit the new uploads.]]></description>
-            <pubDate>2022.12.31</pubDate>
-            <guid isPermaLink="false">https://rjbs.cloud/blog/2022/12/so-many-cpan-uploads-code-review-mark-iii/</guid>
-            <link>https://rjbs.cloud/blog/2022/12/so-many-cpan-uploads-code-review-mark-iii/</link>
-            
-            
-            
-            <author><![CDATA[ricardo_signes]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Jenkins for running scripts! ]]></title>
-            <description><![CDATA[Using Jenkins as a cron daemon that also nicely collects the results of all the jobs.]]></description>
-            <pubDate>2023.01.09</pubDate>
-            <guid isPermaLink="false">https://dev.to/scotticles/jenkins-for-running-scripts-kg1</guid>
-            <link>https://dev.to/scotticles/jenkins-for-running-scripts-kg1</link>
-            
-            
-            
-            <author><![CDATA[scotticles]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Creating a Simple DSL in Perl]]></title>
-            <description><![CDATA[Creating a XSPF playlist with your own words.]]></description>
-            <pubDate>2023.01.09</pubDate>
-            <guid isPermaLink="false">https://dev.to/tobyink/creating-a-simple-dsl-in-perl-4f12</guid>
-            <link>https://dev.to/tobyink/creating-a-simple-dsl-in-perl-4f12</link>
-            
-            
-            
-            <author><![CDATA[toby_inkster]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[New App::Easer release 2.006]]></title>
-            <description><![CDATA[New App::Easer release 2.006]]></description>
-            <pubDate>2023.01.09</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/01/09/app-easer-release/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/01/09/app-easer-release/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Home-brewn sets]]></title>
-            <description><![CDATA[Set operations are rarely needed, but when they are, perl developers usually use the keys of a hash to pretend they have sets.]]></description>
-            <pubDate>2023.01.10</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/01/10/home-brewn-sets/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/01/10/home-brewn-sets/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Number::Phone release candidate]]></title>
-            <description><![CDATA[Number::Phone release candidate]]></description>
-            <pubDate>2023.01.12</pubDate>
-            <guid isPermaLink="false">https://dev.to/drhyde/numberphone-release-candidate-3h7</guid>
-            <link>https://dev.to/drhyde/numberphone-release-candidate-3h7</link>
-            
-            
-            
-            <author><![CDATA[david_cantrell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[leaving perl v5.8 behind]]></title>
-            <description><![CDATA[For a long time I felt that it is not a good idea to want to support people who have not upgraded their version of perl for 5-10-15(!) years, but want the latest modules from CPAN. I am glad RJBS also thinks so. He also writes about it a lot more nicely than I could ever do and gives several ways to handle the situation when a new version of a module starts requiring a version of Perl that is only 10 years old...]]></description>
-            <pubDate>2023.01.08</pubDate>
-            <guid isPermaLink="false">https://rjbs.cloud/blog/2023/01/leaving-perl-v5.8-behind/</guid>
-            <link>https://rjbs.cloud/blog/2023/01/leaving-perl-v5.8-behind/</link>
-            
-            
-            
-            <author><![CDATA[ricardo_signes]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Updating GitHub Pages using GitHub Actions]]></title>
-            <description><![CDATA[Updating GitHub Pages using GitHub Actions]]></description>
-            <pubDate>2023.01.13</pubDate>
-            <guid isPermaLink="false">https://dev.to/davorg/updating-github-pages-using-github-actions-395a</guid>
-            <link>https://dev.to/davorg/updating-github-pages-using-github-actions-395a</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How to prevent an infinite loop]]></title>
-            <description><![CDATA[How to prevent an infinite loop]]></description>
-            <pubDate>2023.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/aristotle/2023/01/io-loop-abort.html</guid>
-            <link>https://blogs.perl.org/users/aristotle/2023/01/io-loop-abort.html</link>
+            <title><![CDATA[This Week in PSC (094)]]></title>
+            <description><![CDATA[I love getting regular update by the Perl Steering Council. Every minute details are now public. Well done.]]></description>
+            <pubDate>2023.01.20</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/01/this-week-in-psc-094.html</guid>
+            <link>https://blogs.perl.org/users/psc/2023/01/this-week-in-psc-094.html</link>
             
             
             
@@ -162,9 +34,153 @@
         </item>
         
         <item>
+            <title><![CDATA[OTOBO supports the German Perl/Raku-Workshop]]></title>
+            <description><![CDATA[Happy to see GPW getting support of OTOBO. You should attend the workshop if you can. It is not just for German speaking audience. I have attended once in the past too.]]></description>
+            <pubDate>2023.01.20</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2023/01/otobo-supports-the-german-perlraku-workshop.html</guid>
+            <link>https://blogs.perl.org/users/max_maischein/2023/01/otobo-supports-the-german-perlraku-workshop.html</link>
+            
+            
+            
+            <author><![CDATA[max_maischein]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Retirement Announcement - Dave Rolsky]]></title>
+            <description><![CDATA[After several years of service to The Perl/Raku Foundation, Dave Rolsky is retiring. The board thanks Dave for all of his work, he will be missed.]]></description>
+            <pubDate>2023.01.20</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/retirementdave</guid>
+            <link>https://news.perlfoundation.org/post/retirementdave</link>
+            
+            
+            
+            <author><![CDATA[amber_deuel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Using Perl to prepare sequencing files to submit to NCBI's GEO]]></title>
+            <description><![CDATA[Pleasantly surprised to see how Perl can be used is so many different fields.]]></description>
+            <pubDate>2023.01.22</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/chrisarg/2023/01/using-perl-to-prepare-sequencing-files-to-submit-to-ncbis-geo.html</guid>
+            <link>https://blogs.perl.org/users/chrisarg/2023/01/using-perl-to-prepare-sequencing-files-to-submit-to-ncbis-geo.html</link>
+            
+            
+            
+            <author><![CDATA[chrisarg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Util::H2O and More, during Ordinary Times]]></title>
+            <description><![CDATA[Nice to see, Perl Advent Calendar post is still being discussed today. We should all share the work done by the Perl community with the rest of the world.]]></description>
+            <pubDate>2023.01.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2023/01/post-advent-carolling.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2023/01/post-advent-carolling.html</link>
+            
+            
+            
+            <author><![CDATA[oodler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My Family and Other Fish (PerlayStation Part 2)]]></title>
+            <description><![CDATA[Good to see Saif is back. I find the subject very engaging and ofcouse his style of writing takes it to another level..]]></description>
+            <pubDate>2023.01.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2023/01/my-family-and-other-fish.html</guid>
+            <link>https://blogs.perl.org/users/saif/2023/01/my-family-and-other-fish.html</link>
+            
+            
+            
+            <author><![CDATA[saif_ahmed]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Regexp Delimiters]]></title>
+            <description><![CDATA[Looking at regexp through the lens of Perl is always fun. You will never get bored.]]></description>
+            <pubDate>2023.01.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/tom_wyant/2023/01/regexp-delimiters.html</guid>
+            <link>https://blogs.perl.org/users/tom_wyant/2023/01/regexp-delimiters.html</link>
+            
+            
+            
+            <author><![CDATA[tom_wyant]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Synacor Challenge - my repo]]></title>
+            <description><![CDATA[Did you know about Synacor Challenge? I didn't. Find out more in the blog post.]]></description>
+            <pubDate>2023.01.16</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/01/16/synacor-challenge-repo/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/01/16/synacor-challenge-repo/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[KnowTee - easy notifications]]></title>
+            <description><![CDATA[Another tool for hobby-scale projects. Interesting, worth checking.]]></description>
+            <pubDate>2023.01.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/01/22/knowtee/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/01/22/knowtee/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.03 Advent Radux]]></title>
+            <description><![CDATA[2023.03 Advent Radux]]></description>
+            <pubDate>2023.01.16</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/01/16/2023-03-advent-radux/</guid>
+            <link>https://rakudoweekly.blog/2023/01/16/2023-03-advent-radux/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/01/cdxxvii-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/01/dxl-metacpan-weekly-report-testnamed.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/01/dlxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.01.14</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/01/cdxxviii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/01/dxli-metacpan-weekly-report-iosocketssl.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/01/dlxix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.01.21</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -178,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Geizhals Preisvergleich sponsors the German Perl/Raku Workshop]]></title>
-            <description><![CDATA[The German Perl/Raku Workshop conference will take place 27.2-1.3 2023 in Frankfurt.]]></description>
-            <pubDate>2023.01.13</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2023/01/geizhals-preisvergleich-sponsors-the-german-perlraku-workshop.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2023/01/geizhals-preisvergleich-sponsors-the-german-perlraku-workshop.html</link>
+            <title><![CDATA[one-liner: read first elements of a huge directory]]></title>
+            <description><![CDATA[At a client where I work we have a pretty big folder with quite a few files. Trying the list the first few files was an issue with <b>ls</b> and thus I wrote a short one-liner. Then shortened it. I wrote an article about it. Then Aristotle further improved it. It's all there in the blog post.]]></description>
+            <pubDate>2023.01.17</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/oneliner-read-huge-directory</guid>
+            <link>https://perlmaven.com/oneliner-read-huge-directory</link>
             
             
             
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl Toolchain Summit is back in 2023!]]></title>
-            <description><![CDATA[It will take place in Lyon, from Wednesday April 27 to Sunday April 30 2023]]></description>
-            <pubDate>2023.01.14</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/book/2023/01/the-perl-toolchain-summit-is-back-in-2023.html</guid>
-            <link>https://blogs.perl.org/users/book/2023/01/the-perl-toolchain-summit-is-back-in-2023.html</link>
-            
-            
-            
-            <author><![CDATA[philippe_bruhat]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -210,15 +210,15 @@
         </item>
         
         <item>
-            <title><![CDATA[FOSDEM mini grants ]]></title>
-            <description><![CDATA[Would you like to give a Perl or Raku related presentation at <a href="https://fosdem.org/2023/">FOSDEM 2023</a> that will take place 4-5 February in Brussels? TPRF can help you financially.]]></description>
-            <pubDate>2023.01.11</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/fosdem2023</guid>
-            <link>https://news.perlfoundation.org/post/fosdem2023</link>
+            <title><![CDATA[Open Source Development Course for Perl developers]]></title>
+            <description><![CDATA[Last week I already mentioned this course that will <b>start tomorrow</b>, January 24th, 2023. In the course we'll learn and practice all the process of contributing to Open Source projects with an emphasize on Perl. We'll learn and practice git/github/pull-request/github pages/testing/test coverage/github actions/etc. You can still register and join the group.]]></description>
+            <pubDate>2023.01.23</pubDate>
+            <guid isPermaLink="false">https://osdc.code-maven.com/osdc-public-2023-01-perl</guid>
+            <link>https://osdc.code-maven.com/osdc-public-2023-01-perl</link>
             
             
             
-            <author><![CDATA[amber_deuel]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
