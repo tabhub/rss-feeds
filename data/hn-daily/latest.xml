@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Those making $0/month or less on side projects – Show and tell]]></title>
-            <description><![CDATA[551 points | <a href=https://news.ycombinator.com/item?id=34547265 target=_blank>667 comments</a>]]></description>
+            <description><![CDATA[586 points | <a href=https://news.ycombinator.com/item?id=34547265 target=_blank>709 comments</a>]]></description>
             <pubDate>2023-01-27T15:42:30.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=34547265</guid>
             <link>https://news.ycombinator.com/item?id=34547265</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Erlang's not about lightweight processes and message passing]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=34545061 target=_blank>222 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=34545061 target=_blank>224 comments</a>]]></description>
             <pubDate>2023-01-27T11:56:12.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md</guid>
             <link>https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md</link>
@@ -43,6 +43,22 @@
             
             
             <author><![CDATA[stevan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Forking Chrome to render in a terminal]]></title>
+            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=34547259 target=_blank>41 comments</a>]]></description>
+            <pubDate>2023-01-27T15:42:00.000Z</pubDate>
+            <guid isPermaLink="false">https://fathy.fr/carbonyl</guid>
+            <link>https://fathy.fr/carbonyl</link>
+            
+            
+            
+            <author><![CDATA[fathyb]]></author>
             
                 
             
@@ -67,7 +83,7 @@
         
         <item>
             <title><![CDATA[Lytro Unlock – Making a bad camera slightly better]]></title>
-            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=34542993 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=34542993 target=_blank>68 comments</a>]]></description>
             <pubDate>2023-01-27T05:48:52.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ea/lytro_unlock</guid>
             <link>https://github.com/ea/lytro_unlock</link>
@@ -82,40 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Forking Chrome to render in a terminal]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=34547259 target=_blank>38 comments</a>]]></description>
-            <pubDate>2023-01-27T15:42:00.000Z</pubDate>
-            <guid isPermaLink="false">https://fathy.fr/carbonyl</guid>
-            <link>https://fathy.fr/carbonyl</link>
-            
-            
-            
-            <author><![CDATA[fathyb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DataDog asked OpenTelemetry contributor to kill pull request]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=34540419 target=_blank>91 comments</a>]]></description>
-            <pubDate>2023-01-26T23:37:26.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836</guid>
-            <link>https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/5836</link>
-            
-            
-            
-            <author><![CDATA[raybb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[OsmAnd (OpenStreetMap) 4.3 for Android is fast with a new rendering engine]]></title>
-            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=34545961 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=34545961 target=_blank>129 comments</a>]]></description>
             <pubDate>2023-01-27T13:49:43.000Z</pubDate>
             <guid isPermaLink="false">https://osmand.net/blog/osmand-android-4-3-released/</guid>
             <link>https://osmand.net/blog/osmand-android-4-3-released/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[The Mystery of the Dune Font]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=34544074 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=34544074 target=_blank>85 comments</a>]]></description>
             <pubDate>2023-01-27T09:01:23.000Z</pubDate>
             <guid isPermaLink="false">https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font</guid>
             <link>https://fontsinuse.com/uses/43515/the-mystery-of-the-dune-font</link>
@@ -162,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[ChatGPT and the Enshittening of Knowledge]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=34546846 target=_blank>264 comments</a>]]></description>
-            <pubDate>2023-01-27T15:07:44.000Z</pubDate>
-            <guid isPermaLink="false">https://castlebridge.ie/insights/chatgpt-and-the-enshittening-of-knowledge/</guid>
-            <link>https://castlebridge.ie/insights/chatgpt-and-the-enshittening-of-knowledge/</link>
-            
-            
-            
-            <author><![CDATA[bootyfarm]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[PagerDuty CEO Quotes Martin Luther King Jr. In Worst Layoff Email Ever]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=34549392 target=_blank>207 comments</a>]]></description>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=34549392 target=_blank>213 comments</a>]]></description>
             <pubDate>2023-01-27T17:58:45.000Z</pubDate>
             <guid isPermaLink="false">https://gizmodo.com/pagerduty-ceo-quotes-martin-luther-king-jr-layoff-email-1850039237</guid>
             <link>https://gizmodo.com/pagerduty-ceo-quotes-martin-luther-king-jr-layoff-email-1850039237</link>
@@ -194,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[ChatGPT and the Enshittening of Knowledge]]></title>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=34546846 target=_blank>267 comments</a>]]></description>
+            <pubDate>2023-01-27T15:07:44.000Z</pubDate>
+            <guid isPermaLink="false">https://castlebridge.ie/insights/chatgpt-and-the-enshittening-of-knowledge/</guid>
+            <link>https://castlebridge.ie/insights/chatgpt-and-the-enshittening-of-knowledge/</link>
+            
+            
+            
+            <author><![CDATA[bootyfarm]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Contracts you should never sign]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=34544008 target=_blank>244 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=34544008 target=_blank>246 comments</a>]]></description>
             <pubDate>2023-01-27T08:48:52.000Z</pubDate>
             <guid isPermaLink="false">https://vadimkravcenko.com/shorts/contracts-you-should-never-sign/</guid>
             <link>https://vadimkravcenko.com/shorts/contracts-you-should-never-sign/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[bndr]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[“They wanted my Instagram handle, and somehow they've now got it.”]]></title>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=34547773 target=_blank>95 comments</a>]]></description>
+            <pubDate>2023-01-27T16:23:22.000Z</pubDate>
+            <guid isPermaLink="false">https://mastodon.social/@alexjsp/109760277713815857</guid>
+            <link>https://mastodon.social/@alexjsp/109760277713815857</link>
+            
+            
+            
+            <author><![CDATA[Shank]]></author>
             
                 
             
