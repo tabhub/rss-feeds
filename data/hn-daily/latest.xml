@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Update on Samsung SSD Reliability]]></title>
-            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=34648149 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=34648149 target=_blank>218 comments</a>]]></description>
             <pubDate>2023-02-03T21:44:32.000Z</pubDate>
             <guid isPermaLink="false">https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/</guid>
             <link>https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Universal Summarizer]]></title>
-            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=34646389 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[420 points | <a href=https://news.ycombinator.com/item?id=34646389 target=_blank>156 comments</a>]]></description>
             <pubDate>2023-02-03T19:13:28.000Z</pubDate>
             <guid isPermaLink="false">https://labs.kagi.com/ai/sum</guid>
             <link>https://labs.kagi.com/ai/sum</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[43 Hours on the Amtrak Southwest Chief]]></title>
-            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=34648543 target=_blank>238 comments</a>]]></description>
+            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=34648543 target=_blank>238 comments</a>]]></description>
             <pubDate>2023-02-03T22:17:09.000Z</pubDate>
             <guid isPermaLink="false">https://www.0x58ed.com/blog/amtrak-southwest-chief</guid>
             <link>https://www.0x58ed.com/blog/amtrak-southwest-chief</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data]]></title>
-            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=34646199 target=_blank>64 comments</a>]]></description>
-            <pubDate>2023-02-03T19:00:45.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/orlp/glidesort</guid>
-            <link>https://github.com/orlp/glidesort</link>
-            
-            
-            
-            <author><![CDATA[orlp]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Open Assistant – project meant to give everyone access to a great chat based LLM]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=34654937 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=34654937 target=_blank>142 comments</a>]]></description>
             <pubDate>2023-02-04T14:56:35.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/LAION-AI/Open-Assistant</guid>
             <link>https://github.com/LAION-AI/Open-Assistant</link>
@@ -91,6 +75,22 @@
             
             
             <author><![CDATA[pps]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data]]></title>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=34646199 target=_blank>64 comments</a>]]></description>
+            <pubDate>2023-02-03T19:00:45.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/orlp/glidesort</guid>
+            <link>https://github.com/orlp/glidesort</link>
+            
+            
+            
+            <author><![CDATA[orlp]]></author>
             
                 
             
@@ -114,6 +114,22 @@
         </item>
         
         <item>
+            <title><![CDATA[ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors]]></title>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=34653729 target=_blank>120 comments</a>]]></description>
+            <pubDate>2023-02-04T11:48:25.000Z</pubDate>
+            <guid isPermaLink="false">https://eitherway.io/posts/esp32-buyers-guide/</guid>
+            <link>https://eitherway.io/posts/esp32-buyers-guide/</link>
+            
+            
+            
+            <author><![CDATA[eitherway]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Is this poison ivy?]]></title>
             <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=34648259 target=_blank>187 comments</a>]]></description>
             <pubDate>2023-02-03T21:53:49.000Z</pubDate>
@@ -130,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=34653729 target=_blank>120 comments</a>]]></description>
-            <pubDate>2023-02-04T11:48:25.000Z</pubDate>
-            <guid isPermaLink="false">https://eitherway.io/posts/esp32-buyers-guide/</guid>
-            <link>https://eitherway.io/posts/esp32-buyers-guide/</link>
+            <title><![CDATA[FOSDEM 2023 is live now]]></title>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=34653405 target=_blank>38 comments</a>]]></description>
+            <pubDate>2023-02-04T10:39:23.000Z</pubDate>
+            <guid isPermaLink="false">https://fosdem.org/2023/schedule/streaming/</guid>
+            <link>https://fosdem.org/2023/schedule/streaming/</link>
             
             
             
-            <author><![CDATA[eitherway]]></author>
+            <author><![CDATA[0x54MUR41]]></author>
             
                 
             
@@ -155,22 +171,6 @@
             
             
             <author><![CDATA[robomartin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FOSDEM 2023 is live now]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=34653405 target=_blank>36 comments</a>]]></description>
-            <pubDate>2023-02-04T10:39:23.000Z</pubDate>
-            <guid isPermaLink="false">https://fosdem.org/2023/schedule/streaming/</guid>
-            <link>https://fosdem.org/2023/schedule/streaming/</link>
-            
-            
-            
-            <author><![CDATA[0x54MUR41]]></author>
             
                 
             
