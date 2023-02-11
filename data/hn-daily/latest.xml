@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[A Heisenbug lurking in async Python]]></title>
-            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=34754276 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=34754276 target=_blank>132 comments</a>]]></description>
             <pubDate>2023-02-11T17:25:46.000Z</pubDate>
             <guid isPermaLink="false">https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/</guid>
             <link>https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A Gentle Introduction to CRDTs]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=34746716 target=_blank>35 comments</a>]]></description>
-            <pubDate>2023-02-10T22:15:02.000Z</pubDate>
-            <guid isPermaLink="false">https://vlcn.io/blog/gentle-intro-to-crdts.html</guid>
-            <link>https://vlcn.io/blog/gentle-intro-to-crdts.html</link>
-            
-            
-            
-            <author><![CDATA[tantaman]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google Python Style Guide]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=34750397 target=_blank>163 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=34750397 target=_blank>164 comments</a>]]></description>
             <pubDate>2023-02-11T07:39:05.000Z</pubDate>
             <guid isPermaLink="false">https://google.github.io/styleguide/pyguide.html</guid>
             <link>https://google.github.io/styleguide/pyguide.html</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Treasure trove of mechanical animations (2015)]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=34747927 target=_blank>36 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=34747927 target=_blank>36 comments</a>]]></description>
             <pubDate>2023-02-11T00:11:11.000Z</pubDate>
             <guid isPermaLink="false">https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations</guid>
             <link>https://kottke.org/15/04/treasure-trove-of-over-1700-mechanical-animations</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[SDK update for Raspberry Pi Pico W unlocks Bluetooth support]]></title>
-            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=34750997 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=34750997 target=_blank>45 comments</a>]]></description>
             <pubDate>2023-02-11T10:07:54.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0</guid>
             <link>https://github.com/raspberrypi/pico-sdk/releases/tag/1.5.0</link>
@@ -130,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[DeepMind AI is as fast as humans at solving previously unseen tasks]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=34752293 target=_blank>115 comments</a>]]></description>
-            <pubDate>2023-02-11T13:53:42.000Z</pubDate>
-            <guid isPermaLink="false">https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/</guid>
-            <link>https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/</link>
-            
-            
-            
-            <author><![CDATA[antondd]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I made ChatGPT and Bing AI have a conversation]]></title>
-            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=34754652 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=34754652 target=_blank>74 comments</a>]]></description>
             <pubDate>2023-02-11T18:07:38.000Z</pubDate>
             <guid isPermaLink="false">https://moritz.pm/posts/chatgpt-bing</guid>
             <link>https://moritz.pm/posts/chatgpt-bing</link>
@@ -162,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[DeepMind AI is as fast as humans at solving previously unseen tasks]]></title>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=34752293 target=_blank>116 comments</a>]]></description>
+            <pubDate>2023-02-11T13:53:42.000Z</pubDate>
+            <guid isPermaLink="false">https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/</guid>
+            <link>https://www.newscientist.com/article/2357017-deepmind-ai-is-as-fast-as-humans-at-solving-previously-unseen-tasks/</link>
+            
+            
+            
+            <author><![CDATA[antondd]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I had ChatGPT write a Decemberists song and recorded it]]></title>
-            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=34754661 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=34754661 target=_blank>83 comments</a>]]></description>
             <pubDate>2023-02-11T18:09:57.000Z</pubDate>
             <guid isPermaLink="false">https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists</guid>
             <link>https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[How to train large models on many GPUs? (2021)]]></title>
-            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=34752489 target=_blank>21 comments</a>]]></description>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=34752489 target=_blank>22 comments</a>]]></description>
             <pubDate>2023-02-11T14:22:23.000Z</pubDate>
             <guid isPermaLink="false">https://lilianweng.github.io/posts/2021-09-25-train-large/</guid>
             <link>https://lilianweng.github.io/posts/2021-09-25-train-large/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[eternalban]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WW2 Bomb Explodes in England]]></title>
+            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=34754387 target=_blank>120 comments</a>]]></description>
+            <pubDate>2023-02-11T17:38:06.000Z</pubDate>
+            <guid isPermaLink="false">https://www.cbsnews.com/news/wwii-era-bomb-explodes-in-england-in-unplanned-detonation/</guid>
+            <link>https://www.cbsnews.com/news/wwii-era-bomb-explodes-in-england-in-unplanned-detonation/</link>
+            
+            
+            
+            <author><![CDATA[mensetmanusman]]></author>
             
                 
             
