@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #602]]></title>
+        <title><![CDATA[Perl Weekly #603]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[New Dancer, Dancer2 plus Ecosystem Updates]]></title>
-            <description><![CDATA[Welcome to 2023 (just a little bit late)! We've put together a number of long overdue updates for Dancer, Dancer2, and other parts of the ecosystem.]]></description>
-            <pubDate>2023.02.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2023/02/new-dancer-dancer2-plus-ecosystem-updates.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2023/02/new-dancer-dancer2-plus-ecosystem-updates.html</link>
+            <title><![CDATA[Project Report "Google TensorFlow API Bindings for Perl"]]></title>
+            <description><![CDATA[The project has been submitted for final review. The delivered deliverables are in the article as outlined by John Napiorkowski.]]></description>
+            <pubDate>2023.02.12</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/project_google_tensorflow_api_bindings</guid>
+            <link>https://news.perlfoundation.org/post/project_google_tensorflow_api_bindings</link>
             
             
             
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This Week in PSC (096)]]></title>
-            <description><![CDATA[Another quick updates from Perl Steering Council.]]></description>
-            <pubDate>2023.02.03</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/02/this-week-in-psc-096.html</guid>
-            <link>https://blogs.perl.org/users/psc/2023/02/this-week-in-psc-096.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[saif_ahmed]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[United-domains supports the German Perl/Raku-Workshop]]></title>
-            <description><![CDATA[United-domains now sponsor for German Perl/Raku workshop.]]></description>
-            <pubDate>2023.02.03</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2023/02/united-domains-supports-the-german-perlraku-workshop.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2023/02/united-domains-supports-the-german-perlraku-workshop.html</link>
+            <title><![CDATA[Bug fix and maintenance release 1.62 of perl-workflow]]></title>
+            <description><![CDATA[I can only applaud the extra mile Jonas goes publishing about his releases on DEV.to too.]]></description>
+            <pubDate>2023.02.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/bug-fix-and-maintenance-release-162-of-perl-workflow-30o</guid>
+            <link>https://dev.to/jonasbn/bug-fix-and-maintenance-release-162-of-perl-workflow-30o</link>
             
             
             
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Color Evolution]]></title>
-            <description><![CDATA[The most requested feature of the Cellgraph is now in operation: Colors.]]></description>
-            <pubDate>2023.01.30</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2023/01/color-evolution.html</guid>
-            <link>https://blogs.perl.org/users/lichtkind/2023/01/color-evolution.html</link>
-            
-            
-            
-            <author><![CDATA[herbert_breunung]]></author>
+            <author><![CDATA[jonas_nielsen]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Add a base URL to xlinx]]></title>
-            <description><![CDATA[Add a base URL to xlinx]]></description>
-            <pubDate>2023.02.05</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/05/base-in-xlinx/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/05/base-in-xlinx/</link>
+            <title><![CDATA[The Perl Toolchain Summit 2023 has a COVID Policy]]></title>
+            <description><![CDATA[The single most important step in protecting others is to not show up sick.]]></description>
+            <pubDate>2023.02.11</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/book/2023/02/the-perl-toolchain-summit-2023-has-a-covid-policy.html</guid>
+            <link>https://blogs.perl.org/users/book/2023/02/the-perl-toolchain-summit-2023-has-a-covid-policy.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[I used... Raku]]></title>
-            <description><![CDATA[Why use Raku? Nice answer.]]></description>
-            <pubDate>2023.02.04</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/04/used-raku/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/04/used-raku/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[philippe_bruhat]]></author>
             
                 
             
@@ -114,15 +66,31 @@
         </item>
         
         <item>
-            <title><![CDATA[2023.05 RB Awarded]]></title>
-            <description><![CDATA[2023.05 RB Awarded]]></description>
-            <pubDate>2023.01.31</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/01/31/2023-05-rb-awarded/</guid>
-            <link>https://rakudoweekly.blog/2023/01/31/2023-05-rb-awarded/</link>
+            <title><![CDATA[First release of SPVM::File::Copy and SPVM::FindBin]]></title>
+            <description><![CDATA[It is really nice that Yuki sticks to his project(s) so much and even keeps blogging about them. Where are the followers?]]></description>
+            <pubDate>2023.02.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/yukikimoto/first-release-of-spvmfilecopy-and-spvmfindbin-1bem</guid>
+            <link>https://dev.to/yukikimoto/first-release-of-spvmfilecopy-and-spvmfindbin-1bem</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[yuki_kimoto]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Find expiring SSL certs using curl, Go and Perl.]]></title>
+            <description><![CDATA[Just like domain name registrations, SSL certificates need to be renewed regularly, otherwise they expire. This means you now have one more thing to monitor. Let's look at ways to do this in Perl, curl and Go. The article also gives a quick introduction to a hosted Mojolicious app that Olaf wrote to make this even easier.]]></description>
+            <pubDate>2023.02.07</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/find-expiring-ssl-certs/</guid>
+            <link>https://www.olafalders.com/find-expiring-ssl-certs/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
             
                 
             
@@ -131,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/02/cdxxx-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dxliii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dlxxi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.02.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/02/cdxxxi-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dxliv-metacpan-weekly-report-objectpad.html">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.02</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
