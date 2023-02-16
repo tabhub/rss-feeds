@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Bing: “I will not harm you unless you harm me first”]]></title>
-            <description><![CDATA[2987 points | <a href=https://news.ycombinator.com/item?id=34804874 target=_blank>1483 comments</a>]]></description>
+            <description><![CDATA[3006 points | <a href=https://news.ycombinator.com/item?id=34804874 target=_blank>1488 comments</a>]]></description>
             <pubDate>2023-02-15T15:14:15.000Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2023/Feb/15/bing/</guid>
             <link>https://simonwillison.net/2023/Feb/15/bing/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[AMD Grabs over 30% CPU Market Share as Intel Continues to Decline]]></title>
-            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=34810153 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[477 points | <a href=https://news.ycombinator.com/item?id=34810153 target=_blank>267 comments</a>]]></description>
             <pubDate>2023-02-15T20:32:17.000Z</pubDate>
             <guid isPermaLink="false">https://wccftech.com/amd-grabs-over-30-percent-market-share-with-epyc-cpus-intel-continues-to-decline/</guid>
             <link>https://wccftech.com/amd-grabs-over-30-percent-market-share-with-epyc-cpus-intel-continues-to-decline/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[CMU CS Academy: a free online computer science curriculum by Carnegie Mellon]]></title>
-            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=34814178 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=34814178 target=_blank>97 comments</a>]]></description>
             <pubDate>2023-02-16T02:26:01.000Z</pubDate>
             <guid isPermaLink="false">https://academy.cs.cmu.edu/</guid>
             <link>https://academy.cs.cmu.edu/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[SQLite the only database you will ever need in most cases (2021)]]></title>
-            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=34812527 target=_blank>322 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=34812527 target=_blank>327 comments</a>]]></description>
             <pubDate>2023-02-15T23:31:42.000Z</pubDate>
             <guid isPermaLink="false">https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html</guid>
             <link>https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[WebKit Supports Nested CSS]]></title>
-            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=34814070 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=34814070 target=_blank>123 comments</a>]]></description>
             <pubDate>2023-02-16T02:12:30.000Z</pubDate>
             <guid isPermaLink="false">https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/</guid>
             <link>https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Tell HN: DigitalOcean is doing layoffs]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=34803696 target=_blank>246 comments</a>]]></description>
-            <pubDate>2023-02-15T13:46:35.000Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=34803696</guid>
-            <link>https://news.ycombinator.com/item?id=34803696</link>
-            
-            
-            
-            <author><![CDATA[bobbybc]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Squares in Squares]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=34809023 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=34809023 target=_blank>43 comments</a>]]></description>
             <pubDate>2023-02-15T19:13:37.000Z</pubDate>
             <guid isPermaLink="false">https://erich-friedman.github.io/packing/squinsqu/</guid>
             <link>https://erich-friedman.github.io/packing/squinsqu/</link>
@@ -139,6 +123,22 @@
             
             
             <author><![CDATA[yowzadave]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tell HN: DigitalOcean is doing layoffs]]></title>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=34803696 target=_blank>247 comments</a>]]></description>
+            <pubDate>2023-02-15T13:46:35.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=34803696</guid>
+            <link>https://news.ycombinator.com/item?id=34803696</link>
+            
+            
+            
+            <author><![CDATA[bobbybc]]></author>
             
                 
             
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[When Rust hurts]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=34803379 target=_blank>188 comments</a>]]></description>
-            <pubDate>2023-02-15T13:18:10.000Z</pubDate>
-            <guid isPermaLink="false">https://mmapped.blog/posts/15-when-rust-hurts.html</guid>
-            <link>https://mmapped.blog/posts/15-when-rust-hurts.html</link>
-            
-            
-            
-            <author><![CDATA[nequo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Prompt Engine – Microsoft's prompt engineering library]]></title>
-            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=34811070 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=34811070 target=_blank>67 comments</a>]]></description>
             <pubDate>2023-02-15T21:46:36.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/microsoft/prompt-engine</guid>
             <link>https://github.com/microsoft/prompt-engine</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Intel Publishes Fast AVX-512 Sorting Library, 10~17x Faster Sorts in NumPy]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=34810610 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=34810610 target=_blank>89 comments</a>]]></description>
             <pubDate>2023-02-15T21:09:52.000Z</pubDate>
             <guid isPermaLink="false">https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy</guid>
             <link>https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[mfiguiere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Urine Test Detects Prostate and Pancreatic Cancers with Near-Perfect Accuracy]]></title>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=34816778 target=_blank>38 comments</a>]]></description>
+            <pubDate>2023-02-16T09:42:36.000Z</pubDate>
+            <guid isPermaLink="false">https://www.sciencedirect.com/science/article/abs/pii/S0956566323000180</guid>
+            <link>https://www.sciencedirect.com/science/article/abs/pii/S0956566323000180</link>
+            
+            
+            
+            <author><![CDATA[birriel]]></author>
             
                 
             
