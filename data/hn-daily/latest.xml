@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[TabFS – a browser extension that mounts the browser tabs as a filesystem]]></title>
-            <description><![CDATA[726 points | <a href=https://news.ycombinator.com/item?id=34847611 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[731 points | <a href=https://news.ycombinator.com/item?id=34847611 target=_blank>140 comments</a>]]></description>
             <pubDate>2023-02-18T15:33:30.000Z</pubDate>
             <guid isPermaLink="false">https://omar.website/tabfs/</guid>
             <link>https://omar.website/tabfs/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Password protect a static HTML page]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=34849024 target=_blank>197 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=34849024 target=_blank>197 comments</a>]]></description>
             <pubDate>2023-02-18T17:44:34.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/robinmoisson/staticrypt</guid>
             <link>https://github.com/robinmoisson/staticrypt</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Doom the Way It Was Meant to Be Played – v1.1 Multi-Monitor]]></title>
-            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=34846546 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=34846546 target=_blank>163 comments</a>]]></description>
             <pubDate>2023-02-18T12:54:51.000Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=q3NQQ7bPf6U</guid>
             <link>https://www.youtube.com/watch?v=q3NQQ7bPf6U</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Hundreds of changes made to latest editions of Roald Dahl's books]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=34849383 target=_blank>489 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=34849383 target=_blank>496 comments</a>]]></description>
             <pubDate>2023-02-18T18:15:23.000Z</pubDate>
             <guid isPermaLink="false">https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-books-rewritten-offensive-matilda-witches-twits/</guid>
             <link>https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-books-rewritten-offensive-matilda-witches-twits/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Internal review finds falsified data in Stanford President’s Alzheimer research]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=34847734 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=34847734 target=_blank>101 comments</a>]]></description>
             <pubDate>2023-02-18T15:48:20.000Z</pubDate>
             <guid isPermaLink="false">https://stanforddaily.com/2023/02/17/internal-review-found-falsified-data-in-stanford-presidents-alzheimers-research-colleagues-allege/</guid>
             <link>https://stanforddaily.com/2023/02/17/internal-review-found-falsified-data-in-stanford-presidents-alzheimers-research-colleagues-allege/</link>
@@ -130,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Mozilla solves the Manifest V3 puzzle to save ad blockers]]></title>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=34849739 target=_blank>90 comments</a>]]></description>
+            <pubDate>2023-02-18T18:45:37.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/</guid>
+            <link>https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/</link>
+            
+            
+            
+            <author><![CDATA[Vinnl]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[John Carmack on Functional Programming in C++ (2018)]]></title>
             <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=34844716 target=_blank>160 comments</a>]]></description>
             <pubDate>2023-02-18T07:09:02.000Z</pubDate>
@@ -139,22 +155,6 @@
             
             
             <author><![CDATA[signa11]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mozilla solves the Manifest V3 puzzle to save ad blockers]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=34849739 target=_blank>89 comments</a>]]></description>
-            <pubDate>2023-02-18T18:45:37.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/</guid>
-            <link>https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/</link>
-            
-            
-            
-            <author><![CDATA[Vinnl]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Civilization 7 Is in Development]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=34843841 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=34843841 target=_blank>189 comments</a>]]></description>
             <pubDate>2023-02-18T04:16:07.000Z</pubDate>
             <guid isPermaLink="false">https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement</guid>
             <link>https://www.polygon.com/23604146/civilization-7-release-date-firaxis-games-announcement</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Steam now allows you to copy games over a local network to another PC]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=34849967 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=34849967 target=_blank>102 comments</a>]]></description>
             <pubDate>2023-02-18T19:06:53.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/OnDeck/status/1626693524489121793</guid>
             <link>https://twitter.com/OnDeck/status/1626693524489121793</link>
