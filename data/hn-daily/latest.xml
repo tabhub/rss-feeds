@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Help! Is This Arabic?]]></title>
-            <description><![CDATA[596 points | <a href=https://news.ycombinator.com/item?id=34949146 target=_blank>277 comments</a>]]></description>
-            <pubDate>2023-02-26T20:38:38.000Z</pubDate>
-            <guid isPermaLink="false">https://isthisarabic.com/</guid>
-            <link>https://isthisarabic.com/</link>
-            
-            
-            
-            <author><![CDATA[davikr]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Poor sleep drove me insane, and my long path to recovery]]></title>
-            <description><![CDATA[565 points | <a href=https://news.ycombinator.com/item?id=34953053 target=_blank>269 comments</a>]]></description>
+            <description><![CDATA[566 points | <a href=https://news.ycombinator.com/item?id=34953053 target=_blank>270 comments</a>]]></description>
             <pubDate>2023-02-27T04:43:01.000Z</pubDate>
             <guid isPermaLink="false">https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/</guid>
             <link>https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Most data work seems fundamentally worthless]]></title>
-            <description><![CDATA[531 points | <a href=https://news.ycombinator.com/item?id=34955309 target=_blank>272 comments</a>]]></description>
+            <description><![CDATA[533 points | <a href=https://news.ycombinator.com/item?id=34955309 target=_blank>273 comments</a>]]></description>
             <pubDate>2023-02-27T11:43:16.000Z</pubDate>
             <guid isPermaLink="false">https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/</guid>
             <link>https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[The Camera-Shy Hoodie]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=34958153 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=34958153 target=_blank>165 comments</a>]]></description>
             <pubDate>2023-02-27T16:16:34.000Z</pubDate>
             <guid isPermaLink="false">https://www.macpierce.com/the-camera-shy-hoodie</guid>
             <link>https://www.macpierce.com/the-camera-shy-hoodie</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[From Go on EC2 to Fly.io]]></title>
-            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=34953242 target=_blank>184 comments</a>]]></description>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=34953242 target=_blank>184 comments</a>]]></description>
             <pubDate>2023-02-27T05:13:09.000Z</pubDate>
             <guid isPermaLink="false">https://benhoyt.com/writings/flyio/</guid>
             <link>https://benhoyt.com/writings/flyio/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Open source implementation for LLaMA-based ChatGPT]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=34956807 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=34956807 target=_blank>103 comments</a>]]></description>
             <pubDate>2023-02-27T14:30:40.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama</guid>
             <link>https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Turn your backyard into a biodiversity hotspot]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=34956067 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=34956067 target=_blank>139 comments</a>]]></description>
             <pubDate>2023-02-27T13:20:35.000Z</pubDate>
             <guid isPermaLink="false">https://www.wired.com/story/you-can-turn-your-backyard-into-a-biodiversity-hotspot/</guid>
             <link>https://www.wired.com/story/you-can-turn-your-backyard-into-a-biodiversity-hotspot/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Ongoing Incident in Google Cloud]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=34956319 target=_blank>91 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=34956319 target=_blank>91 comments</a>]]></description>
             <pubDate>2023-02-27T13:47:36.000Z</pubDate>
             <guid isPermaLink="false">https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf#RP1d9aZLNFZEJmTBk8e1</guid>
             <link>https://status.cloud.google.com/incidents/LnvJwfYu3TCyUrcrP7yf#RP1d9aZLNFZEJmTBk8e1</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Zig's multi-sequence for loops]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=34956407 target=_blank>198 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=34956407 target=_blank>202 comments</a>]]></description>
             <pubDate>2023-02-27T13:55:01.000Z</pubDate>
             <guid isPermaLink="false">https://kristoff.it/blog/zig-multi-sequence-for-loops/</guid>
             <link>https://kristoff.it/blog/zig-multi-sequence-for-loops/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[TikTok just dropped a new realistic beauty filter]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=34952509 target=_blank>163 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=34952509 target=_blank>163 comments</a>]]></description>
             <pubDate>2023-02-27T03:13:05.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/memotv/status/1629905103724396546</guid>
             <link>https://twitter.com/memotv/status/1629905103724396546</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[ZephyrBlu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Very Long-Term Backup (2008)]]></title>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=34952950 target=_blank>118 comments</a>]]></description>
+            <pubDate>2023-02-27T04:27:16.000Z</pubDate>
+            <guid isPermaLink="false">https://longnow.org/ideas/very-long-term-backup/</guid>
+            <link>https://longnow.org/ideas/very-long-term-backup/</link>
+            
+            
+            
+            <author><![CDATA[tnorthcutt]]></author>
             
                 
             
