@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #604]]></title>
+        <title><![CDATA[Perl Weekly #605]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[This Week in PSC (098)]]></title>
-            <description><![CDATA[Quick recaps of what discussed.]]></description>
-            <pubDate>2023.02.17</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/02/this-week-in-psc-098.html</guid>
-            <link>https://blogs.perl.org/users/psc/2023/02/this-week-in-psc-098.html</link>
+            <title><![CDATA[Perl and Raku Merch from Freewear]]></title>
+            <description><![CDATA[A portion of the profit from each sale goes to TPRF]]></description>
+            <pubDate>2023.02.24</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/tprfmarketing/2023/02/perl-and-raku-merch-from-freewear.html</guid>
+            <link>https://blogs.perl.org/users/tprfmarketing/2023/02/perl-and-raku-merch-from-freewear.html</link>
             
             
             
@@ -34,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[PayProp supports the German Perl/Raku Workshop 2023]]></title>
-            <description><![CDATA[So now we have one more sponsor for Perl/Raku Workshop 2023. Congratulations.]]></description>
-            <pubDate>2023.02.13</pubDate>
-            <guid isPermaLink="false">ihttps://blogs.perl.org/users/max_maischein/2023/02/payprop-supports-the-german-perlraku-workshop-2023.html</guid>
-            <link>ihttps://blogs.perl.org/users/max_maischein/2023/02/payprop-supports-the-german-perlraku-workshop-2023.html</link>
+            <title><![CDATA[First release of SPVM::File::Temp and SPVM::File::Find]]></title>
+            <description><![CDATA[SPVM (Static Perl Virtual Machine) is a perl-ish static typed programing language. SPVM provides fast calculation, fast array operations, easy C/C++ binding, and creating executable files.]]></description>
+            <pubDate>2023.02</pubDate>
+            <guid isPermaLink="false">https://dev.to/yukikimoto/first-release-of-spvmfiletemp-and-spvmfilefind-ca2</guid>
+            <link>https://dev.to/yukikimoto/first-release-of-spvmfiletemp-and-spvmfilefind-ca2</link>
             
             
             
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ChatGPT suggests new keywords for Perl]]></title>
-            <description><![CDATA[Have you played with ChatGPT? Please checkout how Perl behaves with ChatGPT.]]></description>
-            <pubDate>2023.02.17</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/john_napiorkowski/2023/02/chatgpt-suggests-new-keywords-for-perl.html</guid>
-            <link>https://blogs.perl.org/users/john_napiorkowski/2023/02/chatgpt-suggests-new-keywords-for-perl.html</link>
-            
-            
-            
-            <author><![CDATA[john_napiorkowski]]></author>
+            <author><![CDATA[yuki_kimoto]]></author>
             
                 
             
@@ -66,79 +50,95 @@
         </item>
         
         <item>
-            <title><![CDATA[What does ChatGPT think about improving Perl?]]></title>
-            <description><![CDATA[ChatGPT helping with role and inheritance in Perl. Fun.]]></description>
+            <title><![CDATA[Assert Your Environment]]></title>
+            <description><![CDATA[When container image gets passed around, the information about the required env settings will certainly get lost. Here is something of a solution to that: How to ensure you have the environment variables and values you need?]]></description>
+            <pubDate>2023.02.23</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2023/02/-assert-your-environment-in.html</guid>
+            <link>https://blogs.perl.org/users/mikko_koivunalho/2023/02/-assert-your-environment-in.html</link>
+            
+            
+            
+            <author><![CDATA[mikko_koivunalho]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Data::Resolver base class for resolver]]></title>
+            <description><![CDATA[Data::Resolver base class for resolver]]></description>
+            <pubDate>2023.02.20</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/20/data-resolver-base/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/02/20/data-resolver-base/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[mobundle]]></title>
+            <description><![CDATA[mobundle]]></description>
+            <pubDate>2023.02.21</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/21/mobundle/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/02/21/mobundle/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tantalizing TTD]]></title>
+            <description><![CDATA[I see TDD as an ideal that you can rarely attain. In green-field projects I rarely know how things should work so my test-writing lags behind the code-writing. However usually after 'some' development I start to feel the lack of tests and then my focus changes.]]></description>
+            <pubDate>2023.02.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/22/tttd/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/02/22/tttd/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Portable(ish) Random(ish) Number Generator]]></title>
+            <description><![CDATA[Portable(ish) Random(ish) Number Generator]]></description>
+            <pubDate>2023.02.25</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/25/portable-random-ish/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/02/25/portable-random-ish/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Template fragments with Mojolicious]]></title>
+            <description><![CDATA[It is about adding template fragment functionality to Mojolicious, for use with htmx.]]></description>
             <pubDate>2023.02.16</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/john_napiorkowski/2023/02/what-does-chatgpt-think-about-improving-perl.html</guid>
-            <link>https://blogs.perl.org/users/john_napiorkowski/2023/02/what-does-chatgpt-think-about-improving-perl.html</link>
+            <guid isPermaLink="false">https://blog.htbaa.com/programming/template-fragments-with-mojolicious</guid>
+            <link>https://blog.htbaa.com/programming/template-fragments-with-mojolicious</link>
             
             
             
-            <author><![CDATA[john_napiorkowski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Outstanding GitHub Items]]></title>
-            <description><![CDATA[Do you use GitHub? If yes then you should checkout this post,]]></description>
-            <pubDate>2023.02.17</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/tom_wyant/2023/02/outstanding-github-items.html</guid>
-            <link>https://blogs.perl.org/users/tom_wyant/2023/02/outstanding-github-items.html</link>
-            
-            
-            
-            <author><![CDATA[tom_wyant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[csv2json]]></title>
-            <description><![CDATA[Handy tool to convert csv file to JSON. You get plenty of examples to play with.]]></description>
-            <pubDate>2023.02.13</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/13/csv2json/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/13/csv2json/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A quick look at Skate]]></title>
-            <description><![CDATA[The personal key value store with a simple, powerful command line user interface. You can also sync it across all your machines to access your data anywhere.]]></description>
-            <pubDate>2023.02.15</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/15/skate-quick-look/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/15/skate-quick-look/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2023.07 Core Class]]></title>
-            <description><![CDATA[2023.07 Core Class]]></description>
-            <pubDate>2023.02.13</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/02/13/2023-07-core-class/</guid>
-            <link>https://rakudoweekly.blog/2023/02/13/2023-07-core-class/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[christiaan_kras]]></author>
             
                 
             
@@ -147,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/02/cdxxxii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dxlv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dlxxii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.02.18</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/02/cdxxxiii-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dxlvi-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dlxxiii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.02</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
