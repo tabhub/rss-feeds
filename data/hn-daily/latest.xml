@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[ARM64 Linux Workstation]]></title>
-            <description><![CDATA[737 points | <a href=https://news.ycombinator.com/item?id=35014677 target=_blank>426 comments</a>]]></description>
-            <pubDate>2023-03-03T20:36:47.000Z</pubDate>
-            <guid isPermaLink="false">https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/</guid>
-            <link>https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/</link>
-            
-            
-            
-            <author><![CDATA[jasoneckert]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Could we make the web more immersive using a simple optical illusion?]]></title>
-            <description><![CDATA[545 points | <a href=https://news.ycombinator.com/item?id=35016988 target=_blank>235 comments</a>]]></description>
+            <description><![CDATA[546 points | <a href=https://news.ycombinator.com/item?id=35016988 target=_blank>235 comments</a>]]></description>
             <pubDate>2023-03-04T00:50:20.000Z</pubDate>
             <guid isPermaLink="false">https://shopify.github.io/spatial-commerce-projects/WonkaVision/</guid>
             <link>https://shopify.github.io/spatial-commerce-projects/WonkaVision/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[What I Learned Reading 1k Investor Reports]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=35015753 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=35015753 target=_blank>33 comments</a>]]></description>
             <pubDate>2023-03-03T22:12:18.000Z</pubDate>
             <guid isPermaLink="false">https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/</guid>
             <link>https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Cool URIs Don't Change (1998)]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=35015624 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=35015624 target=_blank>103 comments</a>]]></description>
             <pubDate>2023-03-03T21:59:56.000Z</pubDate>
             <guid isPermaLink="false">https://www.w3.org/Provider/Style/URI</guid>
             <link>https://www.w3.org/Provider/Style/URI</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Secret Service, ICE,and fake cell tower spying]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=35020809 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=35020809 target=_blank>90 comments</a>]]></description>
             <pubDate>2023-03-04T14:01:22.000Z</pubDate>
             <guid isPermaLink="false">https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/</guid>
             <link>https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Ask HN: How did you rebuild yourself after having hit rock bottom?]]></title>
-            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=35019993 target=_blank>234 comments</a>]]></description>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=35019993 target=_blank>236 comments</a>]]></description>
             <pubDate>2023-03-04T11:01:30.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=35019993</guid>
             <link>https://news.ycombinator.com/item?id=35019993</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Phoenix Dev Blog – Streams]]></title>
-            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=35020551 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=35020551 target=_blank>53 comments</a>]]></description>
             <pubDate>2023-03-04T13:16:34.000Z</pubDate>
             <guid isPermaLink="false">https://fly.io/phoenix-files/phoenix-dev-blog-streams/</guid>
             <link>https://fly.io/phoenix-files/phoenix-dev-blog-streams/</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Be Careful Using Tmux and Environment Variables]]></title>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=35021587 target=_blank>69 comments</a>]]></description>
+            <pubDate>2023-03-04T15:41:11.000Z</pubDate>
+            <guid isPermaLink="false">https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/</guid>
+            <link>https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Continuous growth is cancer]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=35016402 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=35016402 target=_blank>113 comments</a>]]></description>
             <pubDate>2023-03-03T23:29:02.000Z</pubDate>
             <guid isPermaLink="false">https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/</guid>
             <link>https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/</link>
