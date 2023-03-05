@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[3dfx: So powerful it’s kind of ridiculous]]></title>
-            <description><![CDATA[418 points | <a href=https://news.ycombinator.com/item?id=35026862 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[427 points | <a href=https://news.ycombinator.com/item?id=35026862 target=_blank>177 comments</a>]]></description>
             <pubDate>2023-03-05T04:13:32.000Z</pubDate>
             <guid isPermaLink="false">https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous</guid>
             <link>https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Be Careful Using Tmux and Environment Variables]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=35021587 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=35021587 target=_blank>111 comments</a>]]></description>
             <pubDate>2023-03-04T15:41:11.000Z</pubDate>
             <guid isPermaLink="false">https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/</guid>
             <link>https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Deutschlandticket for regional bus and rail services to be offered for €49/month]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=35028212 target=_blank>198 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=35028212 target=_blank>203 comments</a>]]></description>
             <pubDate>2023-03-05T09:48:08.000Z</pubDate>
             <guid isPermaLink="false">https://www.deutschland.de/en/topic/life/49-euro-ticket-deutschlandticket-for-buses-and-trains</guid>
             <link>https://www.deutschland.de/en/topic/life/49-euro-ticket-deutschlandticket-for-buses-and-trains</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[2022 letter on life in China]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=35021682 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=35021682 target=_blank>143 comments</a>]]></description>
             <pubDate>2023-03-04T15:52:14.000Z</pubDate>
             <guid isPermaLink="false">https://danwang.co/2022-letter/</guid>
             <link>https://danwang.co/2022-letter/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Facebook and Google hand over user data, help police prosecute abortion seekers]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=35028107 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=35028107 target=_blank>159 comments</a>]]></description>
             <pubDate>2023-03-05T09:24:05.000Z</pubDate>
             <guid isPermaLink="false">https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2</guid>
             <link>https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Nannou – An open-source creative-coding framework for Rust]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=35027543 target=_blank>30 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=35027543 target=_blank>31 comments</a>]]></description>
             <pubDate>2023-03-05T07:06:21.000Z</pubDate>
             <guid isPermaLink="false">https://nannou.cc/</guid>
             <link>https://nannou.cc/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Rogule: A dungeon a day keeps the Balrog away]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=35026863 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=35026863 target=_blank>31 comments</a>]]></description>
             <pubDate>2023-03-05T04:13:37.000Z</pubDate>
             <guid isPermaLink="false">https://rogule.com/</guid>
             <link>https://rogule.com/</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Fix Intel CPU Throttling on Linux]]></title>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=35025838 target=_blank>118 comments</a>]]></description>
+            <pubDate>2023-03-05T00:16:25.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/erpalma/throttled</guid>
+            <link>https://github.com/erpalma/throttled</link>
+            
+            
+            
+            <author><![CDATA[ladyanita22]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Minimal, allocation-free OpenMetrics implementation for no-std/embedded Rust]]></title>
             <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=35024630 target=_blank>21 comments</a>]]></description>
             <pubDate>2023-03-04T21:24:42.000Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[ingve]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Fix Intel CPU Throttling on Linux]]></title>
-            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=35025838 target=_blank>118 comments</a>]]></description>
-            <pubDate>2023-03-05T00:16:25.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/erpalma/throttled</guid>
-            <link>https://github.com/erpalma/throttled</link>
-            
-            
-            
-            <author><![CDATA[ladyanita22]]></author>
             
                 
             
