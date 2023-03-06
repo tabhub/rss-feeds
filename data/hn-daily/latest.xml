@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[After Dark Screensavers in CSS]]></title>
-            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=35031545 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=35031545 target=_blank>96 comments</a>]]></description>
             <pubDate>2023-03-05T17:10:55.000Z</pubDate>
             <guid isPermaLink="false">https://www.bryanbraun.com/after-dark-css/</guid>
             <link>https://www.bryanbraun.com/after-dark-css/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Self-Host All the Things?]]></title>
-            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=35031109 target=_blank>227 comments</a>]]></description>
+            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=35031109 target=_blank>228 comments</a>]]></description>
             <pubDate>2023-03-05T16:35:10.000Z</pubDate>
             <guid isPermaLink="false">https://tedium.co/2023/03/04/self-hosted-saas-app-alternatives/</guid>
             <link>https://tedium.co/2023/03/04/self-hosted-saas-app-alternatives/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: Lander, a lunar lander style web game]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=35032506 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=35032506 target=_blank>128 comments</a>]]></description>
             <pubDate>2023-03-05T18:35:12.000Z</pubDate>
             <guid isPermaLink="false">https://ehmorris.com/lander/</guid>
             <link>https://ehmorris.com/lander/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[How to hire engineering talent without the BS]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=35031474 target=_blank>426 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=35031474 target=_blank>427 comments</a>]]></description>
             <pubDate>2023-03-05T17:03:49.000Z</pubDate>
             <guid isPermaLink="false">https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/</guid>
             <link>https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Amazon is closing its cashierless stores in NYC, San Francisco and Seattle]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=35027922 target=_blank>367 comments</a>]]></description>
-            <pubDate>2023-03-05T08:34:46.000Z</pubDate>
-            <guid isPermaLink="false">https://www.cstoredive.com/news/amazon-go-closing-8-of-its-c-stores/644167/</guid>
-            <link>https://www.cstoredive.com/news/amazon-go-closing-8-of-its-c-stores/644167/</link>
-            
-            
-            
-            <author><![CDATA[taubek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Van Gogh, AMD’s Steam Deck APU]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=35035100 target=_blank>76 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=35035100 target=_blank>77 comments</a>]]></description>
             <pubDate>2023-03-05T22:55:15.000Z</pubDate>
             <guid isPermaLink="false">https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/</guid>
             <link>https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Why does the all 0 public key have a known private key in SR25519 and ED25519?]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=35031405 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=35031405 target=_blank>48 comments</a>]]></description>
             <pubDate>2023-03-05T16:58:22.000Z</pubDate>
             <guid isPermaLink="false">https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519</guid>
             <link>https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[navigaid]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Phoenix 1.7.0]]></title>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=35036637 target=_blank>60 comments</a>]]></description>
+            <pubDate>2023-03-06T02:00:06.000Z</pubDate>
+            <guid isPermaLink="false">https://www.phoenixframework.org/blog/phoenix-1.7-final-released</guid>
+            <link>https://www.phoenixframework.org/blog/phoenix-1.7-final-released</link>
+            
+            
+            
+            <author><![CDATA[thefreeman]]></author>
             
                 
             
