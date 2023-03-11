@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[FDIC Takes over Silicon Valley Bank]]></title>
-            <description><![CDATA[2606 points | <a href=https://news.ycombinator.com/item?id=35096877 target=_blank>1336 comments</a>]]></description>
+            <description><![CDATA[2630 points | <a href=https://news.ycombinator.com/item?id=35096877 target=_blank>1345 comments</a>]]></description>
             <pubDate>2023-03-10T16:46:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.fdic.gov/news/press-releases/2023/pr23016.html</guid>
             <link>https://www.fdic.gov/news/press-releases/2023/pr23016.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Nearly 40% of software engineers will only work remotely]]></title>
-            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=35090739 target=_blank>377 comments</a>]]></description>
+            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=35090739 target=_blank>379 comments</a>]]></description>
             <pubDate>2023-03-10T05:28:32.000Z</pubDate>
             <guid isPermaLink="false">https://www.techtarget.com/searchhrsoftware/news/365531979/Nearly-40-of-software-engineers-will-only-work-remotely</guid>
             <link>https://www.techtarget.com/searchhrsoftware/news/365531979/Nearly-40-of-software-engineers-will-only-work-remotely</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Llama.cpp: Port of Facebook's LLaMA model in C/C++, with Apple Silicon support]]></title>
-            <description><![CDATA[415 points | <a href=https://news.ycombinator.com/item?id=35100086 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[425 points | <a href=https://news.ycombinator.com/item?id=35100086 target=_blank>124 comments</a>]]></description>
             <pubDate>2023-03-10T20:01:54.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ggerganov/llama.cpp</guid>
             <link>https://github.com/ggerganov/llama.cpp</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How to Yubikey]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=35091768 target=_blank>149 comments</a>]]></description>
-            <pubDate>2023-03-10T08:04:36.000Z</pubDate>
-            <guid isPermaLink="false">https://debugging.works/blog/yubikey-cheatsheet/</guid>
-            <link>https://debugging.works/blog/yubikey-cheatsheet/</link>
-            
-            
-            
-            <author><![CDATA[kmille]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Giving the finger is a ‘God-given right’, Canadian judge rules]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=35095832 target=_blank>207 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=35095832 target=_blank>210 comments</a>]]></description>
             <pubDate>2023-03-10T15:44:14.000Z</pubDate>
             <guid isPermaLink="false">http://citoyens.soquij.qc.ca/php/decision.php?ID=B40649560046AC98B6BC3AA9D9C409F7</guid>
             <link>http://citoyens.soquij.qc.ca/php/decision.php?ID=B40649560046AC98B6BC3AA9D9C409F7</link>
@@ -91,6 +75,22 @@
             
             
             <author><![CDATA[matbilodeau]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How to Yubikey]]></title>
+            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=35091768 target=_blank>149 comments</a>]]></description>
+            <pubDate>2023-03-10T08:04:36.000Z</pubDate>
+            <guid isPermaLink="false">https://debugging.works/blog/yubikey-cheatsheet/</guid>
+            <link>https://debugging.works/blog/yubikey-cheatsheet/</link>
+            
+            
+            
+            <author><![CDATA[kmille]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Telehealth startup Cerebral shared millions of patients’ data with advertisers]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=35094866 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=35094866 target=_blank>147 comments</a>]]></description>
             <pubDate>2023-03-10T14:44:49.000Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/</guid>
             <link>https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[What a good debugger can do]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=35092998 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=35092998 target=_blank>188 comments</a>]]></description>
             <pubDate>2023-03-10T11:15:19.000Z</pubDate>
             <guid isPermaLink="false">https://werat.dev/blog/what-a-good-debugger-can-do/</guid>
             <link>https://werat.dev/blog/what-a-good-debugger-can-do/</link>
