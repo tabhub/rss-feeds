@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #605]]></title>
+        <title><![CDATA[Perl Weekly #606]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl and Raku Merch from Freewear]]></title>
-            <description><![CDATA[A portion of the profit from each sale goes to TPRF]]></description>
-            <pubDate>2023.02.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/tprfmarketing/2023/02/perl-and-raku-merch-from-freewear.html</guid>
-            <link>https://blogs.perl.org/users/tprfmarketing/2023/02/perl-and-raku-merch-from-freewear.html</link>
+            <title><![CDATA[This week in PSC (099)]]></title>
+            <description><![CDATA[Another round of update by the Perl Steering Coundil]]></description>
+            <pubDate>2023.03.03</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/03/this-week-in-psc-099.html</guid>
+            <link>https://blogs.perl.org/users/psc/2023/03/this-week-in-psc-099.html</link>
             
             
             
@@ -34,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[First release of SPVM::File::Temp and SPVM::File::Find]]></title>
-            <description><![CDATA[SPVM (Static Perl Virtual Machine) is a perl-ish static typed programing language. SPVM provides fast calculation, fast array operations, easy C/C++ binding, and creating executable files.]]></description>
-            <pubDate>2023.02</pubDate>
-            <guid isPermaLink="false">https://dev.to/yukikimoto/first-release-of-spvmfiletemp-and-spvmfilefind-ca2</guid>
-            <link>https://dev.to/yukikimoto/first-release-of-spvmfiletemp-and-spvmfilefind-ca2</link>
+            <title><![CDATA[EPO closing down]]></title>
+            <description><![CDATA[Last week it was made public that the iconic EPO is closing down. Thank you Mark and his entire team for all the hard work and support.]]></description>
+            <pubDate>2023.02.27</pubDate>
+            <guid isPermaLink="false">https://ww2.enlightenedperl.org/2023/02/27/closing-down/</guid>
+            <link>https://ww2.enlightenedperl.org/2023/02/27/closing-down/</link>
             
             
             
-            <author><![CDATA[yuki_kimoto]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Assert Your Environment]]></title>
-            <description><![CDATA[When container image gets passed around, the information about the required env settings will certainly get lost. Here is something of a solution to that: How to ensure you have the environment variables and values you need?]]></description>
-            <pubDate>2023.02.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2023/02/-assert-your-environment-in.html</guid>
-            <link>https://blogs.perl.org/users/mikko_koivunalho/2023/02/-assert-your-environment-in.html</link>
-            
-            
-            
-            <author><![CDATA[mikko_koivunalho]]></author>
+            <author><![CDATA[mark_keating]]></author>
             
                 
             
@@ -66,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Data::Resolver base class for resolver]]></title>
-            <description><![CDATA[Data::Resolver base class for resolver]]></description>
-            <pubDate>2023.02.20</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/20/data-resolver-base/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/20/data-resolver-base/</link>
+            <title><![CDATA[Improvements to Planet Perl and Perlanet]]></title>
+            <description><![CDATA[Planet Perl? Well if you don't know about it then please do checkout the latest work done by Dave to make it even better.]]></description>
+            <pubDate>2023.03.03</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2023/03/improvements-to-planet-perl-and-perlanet/</guid>
+            <link>https://perlhacks.com/2023/03/improvements-to-planet-perl-and-perlanet/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Simple avatars]]></title>
+            <description><![CDATA[Do you like Avatars? If yes then please do checkout this blog post. It has plenty to keep you busy.]]></description>
+            <pubDate>2023.02.27</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/27/simple-avatars/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/02/27/simple-avatars/</link>
             
             
             
@@ -82,11 +82,11 @@
         </item>
         
         <item>
-            <title><![CDATA[mobundle]]></title>
-            <description><![CDATA[mobundle]]></description>
-            <pubDate>2023.02.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/21/mobundle/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/21/mobundle/</link>
+            <title><![CDATA[Terminal avatars]]></title>
+            <description><![CDATA[Well, having done the image avatars before, it is time to do terminal. Go for it.]]></description>
+            <pubDate>2023.02.28</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/28/terminal-avatars/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/02/28/terminal-avatars/</link>
             
             
             
@@ -98,11 +98,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Tantalizing TTD]]></title>
-            <description><![CDATA[I see TDD as an ideal that you can rarely attain. In green-field projects I rarely know how things should work so my test-writing lags behind the code-writing. However usually after 'some' development I start to feel the lack of tests and then my focus changes.]]></description>
-            <pubDate>2023.02.22</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/22/tttd/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/22/tttd/</link>
+            <title><![CDATA[mobundle gets some love]]></title>
+            <description><![CDATA[mobundle? never heard of it before. time to checkout now.]]></description>
+            <pubDate>2023.03.01</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/03/01/mobundle-gets-some-love/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/03/01/mobundle-gets-some-love/</link>
             
             
             
@@ -114,31 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Portable(ish) Random(ish) Number Generator]]></title>
-            <description><![CDATA[Portable(ish) Random(ish) Number Generator]]></description>
-            <pubDate>2023.02.25</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/25/portable-random-ish/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/25/portable-random-ish/</link>
+            <title><![CDATA[2023.09 Docu Renewed]]></title>
+            <description><![CDATA[2023.09 Docu Renewed]]></description>
+            <pubDate>2023.02.27</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/02/27/2023-09-docu-renewed/</guid>
+            <link>https://rakudoweekly.blog/2023/02/27/2023-09-docu-renewed/</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Template fragments with Mojolicious]]></title>
-            <description><![CDATA[It is about adding template fragment functionality to Mojolicious, for use with htmx.]]></description>
-            <pubDate>2023.02.16</pubDate>
-            <guid isPermaLink="false">https://blog.htbaa.com/programming/template-fragments-with-mojolicious</guid>
-            <link>https://blog.htbaa.com/programming/template-fragments-with-mojolicious</link>
-            
-            
-            
-            <author><![CDATA[christiaan_kras]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -147,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/02/cdxxxiii-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dxlvi-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/02/dlxxiii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.02</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/03/cdxxxiv-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/03/dxlvii-metacpan-weekly-report-envassert.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/03/dlxxiv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.03.05</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
