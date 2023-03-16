@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Lego violates GPL by keep Blender-based BrickLink Studio source closed (2021)]]></title>
-            <description><![CDATA[593 points | <a href=https://news.ycombinator.com/item?id=35181954 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[594 points | <a href=https://news.ycombinator.com/item?id=35181954 target=_blank>135 comments</a>]]></description>
             <pubDate>2023-03-16T13:50:22.000Z</pubDate>
             <guid isPermaLink="false">https://devtalk.blender.org/t/on-what-version-of-cycles-is-bricklink-stud-ios-eyesight-renderer-based/17566</guid>
             <link>https://devtalk.blender.org/t/on-what-version-of-cycles-is-bricklink-stud-ios-eyesight-renderer-based/17566</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[PyTorch 2.0]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=35174612 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=35174612 target=_blank>74 comments</a>]]></description>
             <pubDate>2023-03-15T20:57:23.000Z</pubDate>
             <guid isPermaLink="false">https://pytorch.org/blog/pytorch-2.0-release/</guid>
             <link>https://pytorch.org/blog/pytorch-2.0-release/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Not by AI]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=35181139 target=_blank>383 comments</a>]]></description>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=35181139 target=_blank>385 comments</a>]]></description>
             <pubDate>2023-03-16T12:46:21.000Z</pubDate>
             <guid isPermaLink="false">https://notbyai.fyi/</guid>
             <link>https://notbyai.fyi/</link>
@@ -98,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[TypeScript 5.0]]></title>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=35185069 target=_blank>144 comments</a>]]></description>
+            <pubDate>2023-03-16T17:19:42.000Z</pubDate>
+            <guid isPermaLink="false">https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/</guid>
+            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/</link>
+            
+            
+            
+            <author><![CDATA[dimitropoulos]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Is something wrong with Amazon Photos? I lost 240k photos]]></title>
             <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=35180832 target=_blank>321 comments</a>]]></description>
             <pubDate>2023-03-16T12:02:25.000Z</pubDate>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Google discontinues Google Glass for enterprise]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=35178986 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=35178986 target=_blank>232 comments</a>]]></description>
             <pubDate>2023-03-16T06:56:40.000Z</pubDate>
             <guid isPermaLink="false">https://www.google.com/glass/start/</guid>
             <link>https://www.google.com/glass/start/</link>
@@ -123,22 +139,6 @@
             
             
             <author><![CDATA[alsodumb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[TypeScript 5.0]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=35185069 target=_blank>140 comments</a>]]></description>
-            <pubDate>2023-03-16T17:19:42.000Z</pubDate>
-            <guid isPermaLink="false">https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/</guid>
-            <link>https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/</link>
-            
-            
-            
-            <author><![CDATA[dimitropoulos]]></author>
             
                 
             
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: Alpaca.cpp – Run an Instruction-Tuned Chat-Style LLM on a MacBook]]></title>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=35184985 target=_blank>126 comments</a>]]></description>
+            <pubDate>2023-03-16T17:14:51.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/antimatter15/alpaca.cpp</guid>
+            <link>https://github.com/antimatter15/alpaca.cpp</link>
+            
+            
+            
+            <author><![CDATA[antimatter15]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Fireball Spotted over Northeastern USA]]></title>
             <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=35175805 target=_blank>148 comments</a>]]></description>
             <pubDate>2023-03-15T22:52:34.000Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[nateb2022]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: Alpaca.cpp – Run an Instruction-Tuned Chat-Style LLM on a MacBook]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=35184985 target=_blank>120 comments</a>]]></description>
-            <pubDate>2023-03-16T17:14:51.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/antimatter15/alpaca.cpp</guid>
-            <link>https://github.com/antimatter15/alpaca.cpp</link>
-            
-            
-            
-            <author><![CDATA[antimatter15]]></author>
             
                 
             
