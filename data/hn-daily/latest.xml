@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[More students are turning away from college and toward apprenticeships]]></title>
-            <description><![CDATA[646 points | <a href=https://news.ycombinator.com/item?id=35210421 target=_blank>603 comments</a>]]></description>
+            <description><![CDATA[646 points | <a href=https://news.ycombinator.com/item?id=35210421 target=_blank>604 comments</a>]]></description>
             <pubDate>2023-03-18T16:27:57.000Z</pubDate>
             <guid isPermaLink="false">https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d</guid>
             <link>https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[I’m concerned AI will make CS jobs obsolete]]></title>
-            <description><![CDATA[580 points | <a href=https://news.ycombinator.com/item?id=35216894 target=_blank>469 comments</a>]]></description>
+            <description><![CDATA[593 points | <a href=https://news.ycombinator.com/item?id=35216894 target=_blank>482 comments</a>]]></description>
             <pubDate>2023-03-19T07:42:24.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/ID_AA_Carmack/status/1637087219591659520</guid>
             <link>https://twitter.com/ID_AA_Carmack/status/1637087219591659520</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Analyzing multi-gigabyte JSON files locally]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=35209982 target=_blank>134 comments</a>]]></description>
-            <pubDate>2023-03-18T15:41:06.000Z</pubDate>
-            <guid isPermaLink="false">https://thenybble.de/posts/json-analysis/</guid>
-            <link>https://thenybble.de/posts/json-analysis/</link>
-            
-            
-            
-            <author><![CDATA[bubblehack3r]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Analyzing a failed drill bit with an electron microscope [video]]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=35215835 target=_blank>20 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=35215835 target=_blank>20 comments</a>]]></description>
             <pubDate>2023-03-19T03:46:15.000Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=887Q-LWBW48</guid>
             <link>https://www.youtube.com/watch?v=887Q-LWBW48</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[NotYourLawyer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Analyzing multi-gigabyte JSON files locally]]></title>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=35209982 target=_blank>134 comments</a>]]></description>
+            <pubDate>2023-03-18T15:41:06.000Z</pubDate>
+            <guid isPermaLink="false">https://thenybble.de/posts/json-analysis/</guid>
+            <link>https://thenybble.de/posts/json-analysis/</link>
+            
+            
+            
+            <author><![CDATA[bubblehack3r]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Laptop Brands with GNU/Linux Preinstalled]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=35209038 target=_blank>79 comments</a>]]></description>
-            <pubDate>2023-03-18T13:36:53.000Z</pubDate>
-            <guid isPermaLink="false">https://floss.social/@ademalsasa/109597861116785251</guid>
-            <link>https://floss.social/@ademalsasa/109597861116785251</link>
+            <title><![CDATA[Build Your Own Redis with C/C++]]></title>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=35212660 target=_blank>59 comments</a>]]></description>
+            <pubDate>2023-03-18T20:11:01.000Z</pubDate>
+            <guid isPermaLink="false">https://build-your-own.org/redis/</guid>
+            <link>https://build-your-own.org/redis/</link>
             
             
             
-            <author><![CDATA[doener]]></author>
+            <author><![CDATA[ibobev]]></author>
             
                 
             
