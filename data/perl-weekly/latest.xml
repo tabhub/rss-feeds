@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #606]]></title>
+        <title><![CDATA[Perl Weekly #608]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[This week in PSC (099)]]></title>
-            <description><![CDATA[Another round of update by the Perl Steering Coundil]]></description>
-            <pubDate>2023.03.03</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/03/this-week-in-psc-099.html</guid>
-            <link>https://blogs.perl.org/users/psc/2023/03/this-week-in-psc-099.html</link>
+            <title><![CDATA[Template Toolkit’s DEFAULT is not too useful]]></title>
+            <description><![CDATA[For all Template Toolkit user, do checkout the DEFAULT behaviour.]]></description>
+            <pubDate>2023.03.15</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/aristotle/2023/03/template-toolkit-default-directive.html</guid>
+            <link>https://blogs.perl.org/users/aristotle/2023/03/template-toolkit-default-directive.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[EPO closing down]]></title>
-            <description><![CDATA[Last week it was made public that the iconic EPO is closing down. Thank you Mark and his entire team for all the hard work and support.]]></description>
-            <pubDate>2023.02.27</pubDate>
-            <guid isPermaLink="false">https://ww2.enlightenedperl.org/2023/02/27/closing-down/</guid>
-            <link>https://ww2.enlightenedperl.org/2023/02/27/closing-down/</link>
-            
-            
-            
-            <author><![CDATA[mark_keating]]></author>
+            <author><![CDATA[aristotle_pagaltzis]]></author>
             
                 
             
@@ -50,27 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Improvements to Planet Perl and Perlanet]]></title>
-            <description><![CDATA[Planet Perl? Well if you don't know about it then please do checkout the latest work done by Dave to make it even better.]]></description>
-            <pubDate>2023.03.03</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2023/03/improvements-to-planet-perl-and-perlanet/</guid>
-            <link>https://perlhacks.com/2023/03/improvements-to-planet-perl-and-perlanet/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Simple avatars]]></title>
-            <description><![CDATA[Do you like Avatars? If yes then please do checkout this blog post. It has plenty to keep you busy.]]></description>
-            <pubDate>2023.02.27</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/27/simple-avatars/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/27/simple-avatars/</link>
+            <title><![CDATA[1000th consecutive posting day]]></title>
+            <description><![CDATA[What an achievements!!! Congratulation for reaching the milestone. Keep it up great work.]]></description>
+            <pubDate>2023.03.16</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/03/16/1000th-consecutive-posting-day/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/03/16/1000th-consecutive-posting-day/</link>
             
             
             
@@ -82,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Terminal avatars]]></title>
-            <description><![CDATA[Well, having done the image avatars before, it is time to do terminal. Go for it.]]></description>
-            <pubDate>2023.02.28</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/02/28/terminal-avatars/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/02/28/terminal-avatars/</link>
+            <title><![CDATA[The first line of Perl_CGI script, env perl vs perl only, how different?]]></title>
+            <description><![CDATA[Another post showing what not to do when using Perl. ]]></description>
+            <pubDate>2023.03.18</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/kido_mitsuru/2023/03/the-first-line-of-perl-cgi-script-env-perl-vs-perl-only-how-different.html</guid>
+            <link>https://blogs.perl.org/users/kido_mitsuru/2023/03/the-first-line-of-perl-cgi-script-env-perl-vs-perl-only-how-different.html</link>
+            
+            
+            
+            <author><![CDATA[kido_mitsuru]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[tempfile and mktemp]]></title>
+            <description><![CDATA[Deal with the warning tempfile is deprecated. Nice work.]]></description>
+            <pubDate>2023.03.15</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/03/15/tempfile-mktemp/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/03/15/tempfile-mktemp/</link>
             
             
             
@@ -98,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[mobundle gets some love]]></title>
-            <description><![CDATA[mobundle? never heard of it before. time to checkout now.]]></description>
-            <pubDate>2023.03.01</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/03/01/mobundle-gets-some-love/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/03/01/mobundle-gets-some-love/</link>
+            <title><![CDATA[ChatGPT for Perl Learning]]></title>
+            <description><![CDATA[Ever played with ChatGPT? This should give you fresh perspective.]]></description>
+            <pubDate>2023.03.13</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/john_napiorkowski/2023/03/chatgpt-for-perl-learning.html</guid>
+            <link>https://blogs.perl.org/users/john_napiorkowski/2023/03/chatgpt-for-perl-learning.html</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
             
                 
             
@@ -114,11 +98,11 @@
         </item>
         
         <item>
-            <title><![CDATA[2023.09 Docu Renewed]]></title>
-            <description><![CDATA[2023.09 Docu Renewed]]></description>
-            <pubDate>2023.02.27</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/02/27/2023-09-docu-renewed/</guid>
-            <link>https://rakudoweekly.blog/2023/02/27/2023-09-docu-renewed/</link>
+            <title><![CDATA[2023.11 Ainions]]></title>
+            <description><![CDATA[2023.11 Ainions]]></description>
+            <pubDate>2023.03.13</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/03/13/2023-11-ainions/</guid>
+            <link>https://rakudoweekly.blog/2023/03/13/2023-11-ainions/</link>
             
             
             
@@ -131,14 +115,62 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/03/cdxxxiv-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/03/dxlvii-metacpan-weekly-report-envassert.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/03/dlxxiv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.03.05</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/03/cdxxxvi-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/03/dxlix-metacpan-weekly-report-playwright.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/03/dlxxvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.03.19</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The problem with open source: not enough contributors]]></title>
+            <description><![CDATA[I have a feeling that there are not enough people contributing to open source, but GitHub reports to have 94M users. Am I mistaken or is that number misleading?]]></description>
+            <pubDate>2023.03.18</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/the-problem-with-open-source-not-enough-contributors-5gpm</guid>
+            <link>https://dev.to/szabgab/the-problem-with-open-source-not-enough-contributors-5gpm</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GitHub Actions and Workflows]]></title>
+            <description><![CDATA[The name 'GitHub Actions' reffers to two different things. One of them is also called 'GitHub Actions Workflows'.]]></description>
+            <pubDate>2023.03.19</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/github-actions-and-workflows-20p1</guid>
+            <link>https://dev.to/szabgab/github-actions-and-workflows-20p1</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[One-liner: Remove first two characters of every line in thousands of files]]></title>
+            <description><![CDATA[A very simple problem for someone who knows Perl. So it was posted on a forum where few people know Perl.]]></description>
+            <pubDate>2023.03.14</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/one-liner-remove-first-two-characters-of-every-line-in-thousands-of-files-2jm4</guid>
+            <link>https://dev.to/szabgab/one-liner-remove-first-two-characters-of-every-line-in-thousands-of-files-2jm4</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
