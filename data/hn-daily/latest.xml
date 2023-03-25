@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Gordon Moore has died]]></title>
-            <description><![CDATA[2376 points | <a href=https://news.ycombinator.com/item?id=35297420 target=_blank>207 comments</a>]]></description>
+            <description><![CDATA[2387 points | <a href=https://news.ycombinator.com/item?id=35297420 target=_blank>211 comments</a>]]></description>
             <pubDate>2023-03-25T00:07:49.000Z</pubDate>
             <guid isPermaLink="false">https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023</guid>
             <link>https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Judge decides against Internet Archive]]></title>
-            <description><![CDATA[974 points | <a href=https://news.ycombinator.com/item?id=35297117 target=_blank>696 comments</a>]]></description>
+            <description><![CDATA[976 points | <a href=https://news.ycombinator.com/item?id=35297117 target=_blank>699 comments</a>]]></description>
             <pubDate>2023-03-24T23:31:57.000Z</pubDate>
             <guid isPermaLink="false">https://file770.com/judge-decides-against-internet-archive/</guid>
             <link>https://file770.com/judge-decides-against-internet-archive/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenAI tech gives Microsoft's Bing a boost in search battle with Google]]></title>
-            <description><![CDATA[533 points | <a href=https://news.ycombinator.com/item?id=35293101 target=_blank>569 comments</a>]]></description>
-            <pubDate>2023-03-24T18:01:26.000Z</pubDate>
-            <guid isPermaLink="false">https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/</guid>
-            <link>https://www.reuters.com/technology/openai-tech-gives-microsofts-bing-boost-search-battle-with-google-2023-03-22/</link>
-            
-            
-            
-            <author><![CDATA[carlycue]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ask HN: How are you using GPT to be productive?]]></title>
-            <description><![CDATA[450 points | <a href=https://news.ycombinator.com/item?id=35299071 target=_blank>547 comments</a>]]></description>
+            <description><![CDATA[456 points | <a href=https://news.ycombinator.com/item?id=35299071 target=_blank>547 comments</a>]]></description>
             <pubDate>2023-03-25T03:39:38.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=35299071</guid>
             <link>https://news.ycombinator.com/item?id=35299071</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[We’re no longer sunsetting the free team plan]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=35295807 target=_blank>222 comments</a>]]></description>
+            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=35295807 target=_blank>224 comments</a>]]></description>
             <pubDate>2023-03-24T21:26:52.000Z</pubDate>
             <guid isPermaLink="false">https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/</guid>
             <link>https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[GPT-4 performs significantly worse on coding problems not in its training data]]></title>
-            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=35297067 target=_blank>262 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=35297067 target=_blank>262 comments</a>]]></description>
             <pubDate>2023-03-24T23:26:52.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/cHHillee/status/1635790330854526981</guid>
             <link>https://twitter.com/cHHillee/status/1635790330854526981</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Cloudflare disables access to ‘pirated’ content on its IPFS gateway]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=35300200 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=35300200 target=_blank>121 comments</a>]]></description>
             <pubDate>2023-03-25T06:59:28.000Z</pubDate>
             <guid isPermaLink="false">https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/</guid>
             <link>https://torrentfreak.com/cloudflare-disables-access-to-pirated-content-on-its-ipfs-gateway-230324/</link>
@@ -146,8 +130,40 @@
         </item>
         
         <item>
+            <title><![CDATA[What we know about the Apple Neural Engine]]></title>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=35301447 target=_blank>49 comments</a>]]></description>
+            <pubDate>2023-03-25T11:04:28.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/hollance/neural-engine</guid>
+            <link>https://github.com/hollance/neural-engine</link>
+            
+            
+            
+            <author><![CDATA[SerCe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[YunoHost – Operating system aiming to simplify server administration]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=35300482 target=_blank>66 comments</a>]]></description>
+            <pubDate>2023-03-25T07:58:11.000Z</pubDate>
+            <guid isPermaLink="false">https://yunohost.org</guid>
+            <link>https://yunohost.org</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NPR cancels 4 podcasts amid major layoffs]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=35294972 target=_blank>355 comments</a>]]></description>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=35294972 target=_blank>358 comments</a>]]></description>
             <pubDate>2023-03-24T20:27:44.000Z</pubDate>
             <guid isPermaLink="false">https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation</guid>
             <link>https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation</link>
@@ -178,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[YunoHost – Operating system aiming to simplify server administration]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=35300482 target=_blank>65 comments</a>]]></description>
-            <pubDate>2023-03-25T07:58:11.000Z</pubDate>
-            <guid isPermaLink="false">https://yunohost.org</guid>
-            <link>https://yunohost.org</link>
+            <title><![CDATA[We need a new economics of water as a common good]]></title>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=35296352 target=_blank>188 comments</a>]]></description>
+            <pubDate>2023-03-24T22:10:55.000Z</pubDate>
+            <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-00800-z</guid>
+            <link>https://www.nature.com/articles/d41586-023-00800-z</link>
             
             
             
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What we know about the Apple Neural Engine]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=35301447 target=_blank>49 comments</a>]]></description>
-            <pubDate>2023-03-25T11:04:28.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/hollance/neural-engine</guid>
-            <link>https://github.com/hollance/neural-engine</link>
-            
-            
-            
-            <author><![CDATA[SerCe]]></author>
+            <author><![CDATA[rntn]]></author>
             
                 
             
