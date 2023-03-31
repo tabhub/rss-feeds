@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Grand jury votes to indict Donald Trump]]></title>
-            <description><![CDATA[631 points | <a href=https://news.ycombinator.com/item?id=35379099 target=_blank>1056 comments</a>]]></description>
+            <description><![CDATA[632 points | <a href=https://news.ycombinator.com/item?id=35379099 target=_blank>1059 comments</a>]]></description>
             <pubDate>2023-03-30T21:34:39.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news</guid>
             <link>https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[AI-enhanced development makes me more ambitious with my projects]]></title>
-            <description><![CDATA[630 points | <a href=https://news.ycombinator.com/item?id=35382698 target=_blank>478 comments</a>]]></description>
+            <description><![CDATA[632 points | <a href=https://news.ycombinator.com/item?id=35382698 target=_blank>479 comments</a>]]></description>
             <pubDate>2023-03-31T04:45:55.000Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2023/Mar/27/ai-enhanced-development/</guid>
             <link>https://simonwillison.net/2023/Mar/27/ai-enhanced-development/</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Twitter open sourced the recommendation engine]]></title>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=35391433 target=_blank>161 comments</a>]]></description>
+            <pubDate>2023-03-31T18:42:16.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/twitter/the-algorithm-ml</guid>
+            <link>https://github.com/twitter/the-algorithm-ml</link>
+            
+            
+            
+            <author><![CDATA[jonknee]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[75% of the Most Played Games on Steam Are Playable on the Steam Deck]]></title>
-            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=35387191 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=35387191 target=_blank>190 comments</a>]]></description>
             <pubDate>2023-03-31T13:54:06.000Z</pubDate>
             <guid isPermaLink="false">https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/</guid>
             <link>https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/</link>
@@ -83,7 +99,7 @@
         
         <item>
             <title><![CDATA[NYPD is refusing to comply with NYC’s new surveillance tech laws]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=35387000 target=_blank>269 comments</a>]]></description>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=35387000 target=_blank>275 comments</a>]]></description>
             <pubDate>2023-03-31T13:39:46.000Z</pubDate>
             <guid isPermaLink="false">https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/</guid>
             <link>https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/</link>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Postgres as a graph database]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=35386948 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=35386948 target=_blank>78 comments</a>]]></description>
             <pubDate>2023-03-31T13:35:36.000Z</pubDate>
             <guid isPermaLink="false">https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/</guid>
             <link>https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/</link>
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Twitter open sourced the recommendation engine]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=35391433 target=_blank>130 comments</a>]]></description>
-            <pubDate>2023-03-31T18:42:16.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/twitter/the-algorithm-ml</guid>
-            <link>https://github.com/twitter/the-algorithm-ml</link>
-            
-            
-            
-            <author><![CDATA[jonknee]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Cosine Implementation in C]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=35381968 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=35381968 target=_blank>138 comments</a>]]></description>
             <pubDate>2023-03-31T03:03:03.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ifduyue/musl/blob/master/src/math/__cos.c</guid>
             <link>https://github.com/ifduyue/musl/blob/master/src/math/__cos.c</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[When SVG almost got network support for raw sockets]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=35381755 target=_blank>165 comments</a>]]></description>
-            <pubDate>2023-03-31T02:35:38.000Z</pubDate>
-            <guid isPermaLink="false">https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/</guid>
-            <link>https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/</link>
-            
-            
-            
-            <author><![CDATA[sgerenser]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Italian privacy regulator bans ChatGPT]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=35385075 target=_blank>190 comments</a>]]></description>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=35385075 target=_blank>193 comments</a>]]></description>
             <pubDate>2023-03-31T10:49:15.000Z</pubDate>
             <guid isPermaLink="false">https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/</guid>
             <link>https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/</link>
@@ -194,15 +178,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Faiss: A library for efficient similarity search]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=35378521 target=_blank>50 comments</a>]]></description>
-            <pubDate>2023-03-30T20:37:56.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/facebookresearch/faiss</guid>
-            <link>https://github.com/facebookresearch/faiss</link>
+            <title><![CDATA[When SVG almost got network support for raw sockets]]></title>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=35381755 target=_blank>166 comments</a>]]></description>
+            <pubDate>2023-03-31T02:35:38.000Z</pubDate>
+            <guid isPermaLink="false">https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/</guid>
+            <link>https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/</link>
             
             
             
-            <author><![CDATA[tosh]]></author>
+            <author><![CDATA[sgerenser]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Multi-display screen sharing with CoScreen]]></title>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=35387160 target=_blank>68 comments</a>]]></description>
+            <pubDate>2023-03-31T13:51:33.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/</guid>
+            <link>https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/</link>
+            
+            
+            
+            <author><![CDATA[coscreen]]></author>
             
                 
             
