@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Grand jury votes to indict Donald Trump]]></title>
-            <description><![CDATA[625 points | <a href=https://news.ycombinator.com/item?id=35379099 target=_blank>1037 comments</a>]]></description>
+            <description><![CDATA[627 points | <a href=https://news.ycombinator.com/item?id=35379099 target=_blank>1038 comments</a>]]></description>
             <pubDate>2023-03-30T21:34:39.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news</guid>
             <link>https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[AI-enhanced development makes me more ambitious with my projects]]></title>
-            <description><![CDATA[609 points | <a href=https://news.ycombinator.com/item?id=35382698 target=_blank>467 comments</a>]]></description>
+            <description><![CDATA[612 points | <a href=https://news.ycombinator.com/item?id=35382698 target=_blank>470 comments</a>]]></description>
             <pubDate>2023-03-31T04:45:55.000Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2023/Mar/27/ai-enhanced-development/</guid>
             <link>https://simonwillison.net/2023/Mar/27/ai-enhanced-development/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[My kids and I just played D&D with ChatGPT4 as the DM]]></title>
-            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=35379136 target=_blank>230 comments</a>]]></description>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=35379136 target=_blank>233 comments</a>]]></description>
             <pubDate>2023-03-30T21:38:08.000Z</pubDate>
             <guid isPermaLink="false">https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6</guid>
             <link>https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[75% of the Most Played Games on Steam Are Playable on the Steam Deck]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=35387191 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=35387191 target=_blank>183 comments</a>]]></description>
             <pubDate>2023-03-31T13:54:06.000Z</pubDate>
             <guid isPermaLink="false">https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/</guid>
             <link>https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/</link>
@@ -82,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[NYPD is refusing to comply with NYC’s new surveillance tech laws]]></title>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=35387000 target=_blank>258 comments</a>]]></description>
+            <pubDate>2023-03-31T13:39:46.000Z</pubDate>
+            <guid isPermaLink="false">https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/</guid>
+            <link>https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/</link>
+            
+            
+            
+            <author><![CDATA[heavyset_go]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Vicuna: An open-source chatbot impressing GPT-4 with 90% ChatGPT quality]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=35378683 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=35378683 target=_blank>156 comments</a>]]></description>
             <pubDate>2023-03-30T20:52:49.000Z</pubDate>
             <guid isPermaLink="false">https://vicuna.lmsys.org/</guid>
             <link>https://vicuna.lmsys.org/</link>
@@ -98,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[NYPD is refusing to comply with NYC’s new surveillance tech laws]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=35387000 target=_blank>251 comments</a>]]></description>
-            <pubDate>2023-03-31T13:39:46.000Z</pubDate>
-            <guid isPermaLink="false">https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/</guid>
-            <link>https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/</link>
+            <title><![CDATA[Postgres as a graph database]]></title>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=35386948 target=_blank>68 comments</a>]]></description>
+            <pubDate>2023-03-31T13:35:36.000Z</pubDate>
+            <guid isPermaLink="false">https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/</guid>
+            <link>https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/</link>
             
             
             
-            <author><![CDATA[heavyset_go]]></author>
+            <author><![CDATA[elorant]]></author>
             
                 
             
@@ -123,22 +139,6 @@
             
             
             <author><![CDATA[opisthenar84]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Postgres as a graph database]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=35386948 target=_blank>66 comments</a>]]></description>
-            <pubDate>2023-03-31T13:35:36.000Z</pubDate>
-            <guid isPermaLink="false">https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/</guid>
-            <link>https://www.dylanpaulus.com/posts/postgres-is-a-graph-database/</link>
-            
-            
-            
-            <author><![CDATA[elorant]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[BigQuery prices increasing by more than 100% for many users]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=35387822 target=_blank>122 comments</a>]]></description>
-            <pubDate>2023-03-31T14:38:27.000Z</pubDate>
-            <guid isPermaLink="false">https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions</guid>
-            <link>https://cloud.google.com/blog/products/data-analytics/introducing-new-bigquery-pricing-editions</link>
+            <title><![CDATA[Show HN: Multi-display screen sharing with CoScreen]]></title>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=35387160 target=_blank>66 comments</a>]]></description>
+            <pubDate>2023-03-31T13:51:33.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/</guid>
+            <link>https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/</link>
             
             
             
-            <author><![CDATA[kdamica]]></author>
+            <author><![CDATA[coscreen]]></author>
             
                 
             
