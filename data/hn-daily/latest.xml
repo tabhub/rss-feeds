@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Grand jury votes to indict Donald Trump]]></title>
-            <description><![CDATA[615 points | <a href=https://news.ycombinator.com/item?id=35379099 target=_blank>1014 comments</a>]]></description>
+            <description><![CDATA[617 points | <a href=https://news.ycombinator.com/item?id=35379099 target=_blank>1018 comments</a>]]></description>
             <pubDate>2023-03-30T21:34:39.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news</guid>
             <link>https://www.nytimes.com/live/2023/03/30/nyregion/trump-indictment-news</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[AI-enhanced development makes me more ambitious with my projects]]></title>
-            <description><![CDATA[568 points | <a href=https://news.ycombinator.com/item?id=35382698 target=_blank>436 comments</a>]]></description>
+            <description><![CDATA[576 points | <a href=https://news.ycombinator.com/item?id=35382698 target=_blank>443 comments</a>]]></description>
             <pubDate>2023-03-31T04:45:55.000Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2023/Mar/27/ai-enhanced-development/</guid>
             <link>https://simonwillison.net/2023/Mar/27/ai-enhanced-development/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[My kids and I just played D&D with ChatGPT4 as the DM]]></title>
-            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=35379136 target=_blank>223 comments</a>]]></description>
+            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=35379136 target=_blank>224 comments</a>]]></description>
             <pubDate>2023-03-30T21:38:08.000Z</pubDate>
             <guid isPermaLink="false">https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6</guid>
             <link>https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[San Jose police union executive director charged with smuggling fentanyl into US]]></title>
-            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=35376488 target=_blank>221 comments</a>]]></description>
+            <description><![CDATA[426 points | <a href=https://news.ycombinator.com/item?id=35376488 target=_blank>221 comments</a>]]></description>
             <pubDate>2023-03-30T17:44:36.000Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge</guid>
             <link>https://www.washingtonexaminer.com/news/crime/san-jose-police-union-director-smuggle-fentanyl-charge</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[75% of the Most Played Games on Steam Are Playable on the Steam Deck]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=35387191 target=_blank>150 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=35387191 target=_blank>159 comments</a>]]></description>
             <pubDate>2023-03-31T13:54:06.000Z</pubDate>
             <guid isPermaLink="false">https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/</guid>
             <link>https://boilingsteam.com/75-of-the-top-100-most-played-games-on-steam-are-playable-verified-on-the-steam-deck/</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cosine Implementation in C]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=35381968 target=_blank>129 comments</a>]]></description>
-            <pubDate>2023-03-31T03:03:03.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/ifduyue/musl/blob/master/src/math/__cos.c</guid>
-            <link>https://github.com/ifduyue/musl/blob/master/src/math/__cos.c</link>
-            
-            
-            
-            <author><![CDATA[opisthenar84]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NYPD is refusing to comply with NYC’s new surveillance tech laws]]></title>
-            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=35387000 target=_blank>212 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=35387000 target=_blank>219 comments</a>]]></description>
             <pubDate>2023-03-31T13:39:46.000Z</pubDate>
             <guid isPermaLink="false">https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/</guid>
             <link>https://www.dailydot.com/debug/nypd-violating-post-act-inspector-general/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Cosine Implementation in C]]></title>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=35381968 target=_blank>132 comments</a>]]></description>
+            <pubDate>2023-03-31T03:03:03.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/ifduyue/musl/blob/master/src/math/__cos.c</guid>
+            <link>https://github.com/ifduyue/musl/blob/master/src/math/__cos.c</link>
+            
+            
+            
+            <author><![CDATA[opisthenar84]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[When SVG almost got network support for raw sockets]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=35381755 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=35381755 target=_blank>158 comments</a>]]></description>
             <pubDate>2023-03-31T02:35:38.000Z</pubDate>
             <guid isPermaLink="false">https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/</guid>
             <link>https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[San Francisco schools banned kids from taking algebra in 8th grade]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=35381365 target=_blank>279 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=35381365 target=_blank>281 comments</a>]]></description>
             <pubDate>2023-03-31T01:48:45.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/Noahpinion/status/1641395730735849473</guid>
             <link>https://twitter.com/Noahpinion/status/1641395730735849473</link>
