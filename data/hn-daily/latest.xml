@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Twitter's Recommendation Algorithm]]></title>
-            <description><![CDATA[1500 points | <a href=https://news.ycombinator.com/item?id=35391433 target=_blank>576 comments</a>]]></description>
+            <description><![CDATA[1504 points | <a href=https://news.ycombinator.com/item?id=35391433 target=_blank>576 comments</a>]]></description>
             <pubDate>2023-03-31T18:42:16.000Z</pubDate>
             <guid isPermaLink="false">https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm</guid>
             <link>https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Llama.cpp 30B runs with only 6GB of RAM now]]></title>
-            <description><![CDATA[1151 points | <a href=https://news.ycombinator.com/item?id=35393284 target=_blank>344 comments</a>]]></description>
+            <description><![CDATA[1154 points | <a href=https://news.ycombinator.com/item?id=35393284 target=_blank>344 comments</a>]]></description>
             <pubDate>2023-03-31T20:37:50.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ggerganov/llama.cpp/pull/613</guid>
             <link>https://github.com/ggerganov/llama.cpp/pull/613</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Could you train a ChatGPT-beating model for $85k and run it in a browser?]]></title>
-            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=35391115 target=_blank>168 comments</a>]]></description>
+            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=35391115 target=_blank>168 comments</a>]]></description>
             <pubDate>2023-03-31T18:21:07.000Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/</guid>
             <link>https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Heat pump sales outpaced gas furnace sales in the US in 2022]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=35390853 target=_blank>221 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=35390853 target=_blank>222 comments</a>]]></description>
             <pubDate>2023-03-31T18:07:04.000Z</pubDate>
             <guid isPermaLink="false">https://electrek.co/2023/03/31/heat-pump-sales-2022/</guid>
             <link>https://electrek.co/2023/03/31/heat-pump-sales-2022/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Google Drive does a surprise rollout of file limits, locking out some users]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=35397071 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=35397071 target=_blank>253 comments</a>]]></description>
             <pubDate>2023-04-01T04:16:46.000Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/</guid>
             <link>https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[The average American has the same life expectancy as the worst part of England]]></title>
-            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=35391868 target=_blank>235 comments</a>]]></description>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=35391868 target=_blank>237 comments</a>]]></description>
             <pubDate>2023-03-31T19:08:39.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/jburnmurdoch/status/1641799698058035200</guid>
             <link>https://twitter.com/jburnmurdoch/status/1641799698058035200</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[grecy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Alexa, what is my wifi password?]]></title>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=35399590 target=_blank>111 comments</a>]]></description>
+            <pubDate>2023-04-01T12:08:35.000Z</pubDate>
+            <guid isPermaLink="false">https://dragon863.github.io/blog/alexa.html</guid>
+            <link>https://dragon863.github.io/blog/alexa.html</link>
+            
+            
+            
+            <author><![CDATA[voxadam]]></author>
             
                 
             
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[“Alexa, what is my WiFi password?”]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=35399590 target=_blank>107 comments</a>]]></description>
-            <pubDate>2023-04-01T12:08:35.000Z</pubDate>
-            <guid isPermaLink="false">https://dragon863.github.io/blog/alexa.html</guid>
-            <link>https://dragon863.github.io/blog/alexa.html</link>
-            
-            
-            
-            <author><![CDATA[voxadam]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Moving from Rust to C++]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=35400047 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=35400047 target=_blank>97 comments</a>]]></description>
             <pubDate>2023-04-01T13:12:30.000Z</pubDate>
             <guid isPermaLink="false">https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html</guid>
             <link>https://raphlinus.github.io/rust/2023/04/01/rust-to-cpp.html</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Show HN: Coursemate, connect with other self learners]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=35398480 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=35398480 target=_blank>47 comments</a>]]></description>
             <pubDate>2023-04-01T08:38:51.000Z</pubDate>
             <guid isPermaLink="false">https://www.coursem8.com/</guid>
             <link>https://www.coursem8.com/</link>
