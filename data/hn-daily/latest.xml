@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Building GitHub with Ruby on Rails]]></title>
-            <description><![CDATA[554 points | <a href=https://news.ycombinator.com/item?id=35478884 target=_blank>252 comments</a>]]></description>
+            <description><![CDATA[560 points | <a href=https://news.ycombinator.com/item?id=35478884 target=_blank>252 comments</a>]]></description>
             <pubDate>2023-04-07T06:51:55.000Z</pubDate>
             <guid isPermaLink="false">https://github.blog/2023-04-06-building-github-with-ruby-and-rails/</guid>
             <link>https://github.blog/2023-04-06-building-github-with-ruby-and-rails/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Codeberg – Fast open source alternative to GitHub]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=35480056 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[406 points | <a href=https://news.ycombinator.com/item?id=35480056 target=_blank>142 comments</a>]]></description>
             <pubDate>2023-04-07T10:18:15.000Z</pubDate>
             <guid isPermaLink="false">https://codeberg.org/</guid>
             <link>https://codeberg.org/</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How does database sharding work?]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=35476518 target=_blank>89 comments</a>]]></description>
-            <pubDate>2023-04-07T00:32:08.000Z</pubDate>
-            <guid isPermaLink="false">https://planetscale.com/blog/how-does-database-sharding-work</guid>
-            <link>https://planetscale.com/blog/how-does-database-sharding-work</link>
-            
-            
-            
-            <author><![CDATA[creativedg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Western Digital cloud services down for 4 days]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=35478007 target=_blank>177 comments</a>]]></description>
+            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=35478007 target=_blank>177 comments</a>]]></description>
             <pubDate>2023-04-07T04:21:21.000Z</pubDate>
             <guid isPermaLink="false">https://status.mycloud.com/os4</guid>
             <link>https://status.mycloud.com/os4</link>
@@ -98,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Hubble sees possible runaway black hole creating a trail of stars]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=35476359 target=_blank>170 comments</a>]]></description>
-            <pubDate>2023-04-07T00:12:28.000Z</pubDate>
-            <guid isPermaLink="false">https://hubblesite.org/contents/news-releases/2023/news-2023-010</guid>
-            <link>https://hubblesite.org/contents/news-releases/2023/news-2023-010</link>
+            <title><![CDATA[How does database sharding work?]]></title>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=35476518 target=_blank>90 comments</a>]]></description>
+            <pubDate>2023-04-07T00:32:08.000Z</pubDate>
+            <guid isPermaLink="false">https://planetscale.com/blog/how-does-database-sharding-work</guid>
+            <link>https://planetscale.com/blog/how-does-database-sharding-work</link>
             
             
             
-            <author><![CDATA[mcguire]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Twitter won’t allow retweeting tweets linking to Substack]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=35482222 target=_blank>195 comments</a>]]></description>
-            <pubDate>2023-04-07T14:58:09.000Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/</guid>
-            <link>https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/</link>
-            
-            
-            
-            <author><![CDATA[carride]]></author>
+            <author><![CDATA[creativedg]]></author>
             
                 
             
@@ -131,7 +99,7 @@
         
         <item>
             <title><![CDATA[Perennial rice: Plant once, harvest again and again]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=35481409 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=35481409 target=_blank>150 comments</a>]]></description>
             <pubDate>2023-04-07T13:34:09.000Z</pubDate>
             <guid isPermaLink="false">https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again</guid>
             <link>https://www.npr.org/2023/03/23/1165680024/perennial-rice-plant-once-harvest-again-and-again</link>
@@ -146,8 +114,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Twitter won’t allow retweeting tweets linking to Substack]]></title>
+            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=35482222 target=_blank>200 comments</a>]]></description>
+            <pubDate>2023-04-07T14:58:09.000Z</pubDate>
+            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/</guid>
+            <link>https://arstechnica.com/tech-policy/2023/04/the-dumb-reason-twitter-wont-allow-retweeting-tweets-linking-to-substack/</link>
+            
+            
+            
+            <author><![CDATA[carride]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hubble sees possible runaway black hole creating a trail of stars]]></title>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=35476359 target=_blank>171 comments</a>]]></description>
+            <pubDate>2023-04-07T00:12:28.000Z</pubDate>
+            <guid isPermaLink="false">https://hubblesite.org/contents/news-releases/2023/news-2023-010</guid>
+            <link>https://hubblesite.org/contents/news-releases/2023/news-2023-010</link>
+            
+            
+            
+            <author><![CDATA[mcguire]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NZ’s biggest data breach shows retention is the sleeping giant of data security]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=35478240 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=35478240 target=_blank>130 comments</a>]]></description>
             <pubDate>2023-04-07T05:07:16.000Z</pubDate>
             <guid isPermaLink="false">https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/</guid>
             <link>https://www.privacy.org.nz/publications/statements-media-releases/new-zealands-biggest-data-breach-shows-retention-is-the-sleeping-giant-of-data-security/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Europe drastically cut its energy consumption this winter]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=35473422 target=_blank>543 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=35473422 target=_blank>544 comments</a>]]></description>
             <pubDate>2023-04-06T19:47:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.economist.com/graphic-detail/2023/04/05/europe-drastically-cut-its-energy-consumption-this-winter</guid>
             <link>https://www.economist.com/graphic-detail/2023/04/05/europe-drastically-cut-its-energy-consumption-this-winter</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[‘Alien calculus’ could save particle physics from infinities]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=35476236 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=35476236 target=_blank>104 comments</a>]]></description>
             <pubDate>2023-04-06T23:58:57.000Z</pubDate>
             <guid isPermaLink="false">https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/</guid>
             <link>https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Is it my fault if you can't handle the truth? (2019)]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=35475482 target=_blank>255 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=35475482 target=_blank>255 comments</a>]]></description>
             <pubDate>2023-04-06T22:39:28.000Z</pubDate>
             <guid isPermaLink="false">http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html</guid>
             <link>http://agileotter.blogspot.com/2019/09/is-it-my-fault-you-cant-handle-truth.html</link>
