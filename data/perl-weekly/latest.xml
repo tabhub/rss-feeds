@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #609]]></title>
+        <title><![CDATA[Perl Weekly #611]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Now Accepting: TPRC Proposals for 2024 ]]></title>
-            <description><![CDATA[It's time to plan TPRC 2024. If you are interested in organizing the event in your city, please submit a proposal by April 28th. (Oh and I think TPRC stand for The Perl and Raku Conference.)]]></description>
-            <pubDate>2023.03.22</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprcproposals2024</guid>
-            <link>https://news.perlfoundation.org/post/tprcproposals2024</link>
+            <title><![CDATA[Weather::WeatherKit and Weather::Astro7Timer]]></title>
+            <description><![CDATA[Weather::WeatherKit and Weather::Astro7Timer]]></description>
+            <pubDate>2023.03.31</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dimitrios_kechagias/2023/03/weatherweatherkit-and-weatherastro7timer.html</guid>
+            <link>https://blogs.perl.org/users/dimitrios_kechagias/2023/03/weatherweatherkit-and-weatherastro7timer.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Community Input Requested - Future of TPRF website(s)]]></title>
-            <description><![CDATA[Where, if I am not mistaken, TPRF stands for The Perl and Raku Foundation]]></description>
-            <pubDate>2023.03.20</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/websiteproposalcall</guid>
-            <link>https://news.perlfoundation.org/post/websiteproposalcall</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[dimitrios_kechagias]]></author>
             
                 
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Introducing Exporter::Almighty]]></title>
-            <description><![CDATA[Exporter::Almighty is a module designed to reduce boilerplate in your utils-like modules, and increase their functionality.]]></description>
-            <pubDate>2023.03.25</pubDate>
-            <guid isPermaLink="false">https://dev.to/tobyink/introducing-exporteralmighty-mc5</guid>
-            <link>https://dev.to/tobyink/introducing-exporteralmighty-mc5</link>
+            <title><![CDATA[Increasing Perl’s Visibility, Redux]]></title>
+            <description><![CDATA[How to easily create a web-site for your CPAN distribution.]]></description>
+            <pubDate>2023.04.05</pubDate>
+            <guid isPermaLink="false">https://dev.to/tobyink/increasing-perls-visibility-redux-17g6</guid>
+            <link>https://dev.to/tobyink/increasing-perls-visibility-redux-17g6</link>
             
             
             
@@ -66,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Command-line editing]]></title>
-            <description><![CDATA[And what about Ctrl-X Ctrl-E ?]]></description>
-            <pubDate>2023.03.25</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/03/25/cmdline-editing/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/03/25/cmdline-editing/</link>
+            <title><![CDATA[Replacing the Dark Sky weather API: WeatherKit, 7Timer and other free APIs]]></title>
+            <description><![CDATA[A bunch of interesting Perl modules.]]></description>
+            <pubDate>2023.03.31</pubDate>
+            <guid isPermaLink="false">https://dev.to/dkechag/replacing-the-dark-sky-weather-api-weatherkit-7timer-and-more-3o</guid>
+            <link>https://dev.to/dkechag/replacing-the-dark-sky-weather-api-weatherkit-7timer-and-more-3o</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[An Interesting Perl Pattern That Doesn't Work]]></title>
-            <description><![CDATA[A pattern that is supposed to use a closure to protect a configuration hash from being mutated by its callers. Unfortunately this pattern has a terrible flaw.]]></description>
-            <pubDate>2023.03.23</pubDate>
-            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/an-interesting-perl-pattern-that-doesnt-work-41mf</guid>
-            <link>https://dev.to/nicholasbhubbard/an-interesting-perl-pattern-that-doesnt-work-41mf</link>
-            
-            
-            
-            <author><![CDATA[nicholas_hubbard]]></author>
+            <author><![CDATA[dimitrios_kechagias]]></author>
             
                 
             
@@ -98,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Text::Extract::Word, MsOffice::Word::Surgeon - Weekly Travelling in CPAN]]></title>
-            <description><![CDATA[Text::Extract::Word, MsOffice::Word::Surgeon - Weekly Travelling in CPAN]]></description>
-            <pubDate>2023.03.22</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/c_y_fung/2023/03/textextractword-msofficewordsurgeon---weekly-travelling-in-cpan.html</guid>
-            <link>https://blogs.perl.org/users/c_y_fung/2023/03/textextractword-msofficewordsurgeon---weekly-travelling-in-cpan.html</link>
+            <title><![CDATA[Reinvent the REST]]></title>
+            <description><![CDATA[What an MVP for a REST API would look like using Catalyst.]]></description>
+            <pubDate>2023.04.08</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/j1/2023/04/reinvent-the-rest.html</guid>
+            <link>https://blogs.perl.org/users/j1/2023/04/reinvent-the-rest.html</link>
             
             
             
-            <author><![CDATA[c_y_fung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Fantasy Name Generator]]></title>
-            <description><![CDATA[Fantasy Name Generator]]></description>
-            <pubDate>2023.03.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/03/21/fantasyname/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/03/21/fantasyname/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -130,11 +82,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Analyzing New York City Traffic Collisions with Perl One-Liners and Linux]]></title>
-            <description><![CDATA[Analyzing New York City Traffic Collisions with Perl One-Liners and Linux]]></description>
-            <pubDate>2023.03.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/austin_62/analyzing-new-york-city-traffic-collisions-with-perl-one-liners-and-linux-pnn</guid>
-            <link>https://dev.to/austin_62/analyzing-new-york-city-traffic-collisions-with-perl-one-liners-and-linux-pnn</link>
+            <title><![CDATA[Crash City]]></title>
+            <description><![CDATA[Analyzing NYC Traffic Collision Data on the Linux Command Line with SoQL and Curl]]></description>
+            <pubDate>2023.04.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/austin_62/crash-city-2ebd</guid>
+            <link>https://dev.to/austin_62/crash-city-2ebd</link>
             
             
             
@@ -146,41 +98,9 @@
         </item>
         
         <item>
-            <title><![CDATA[Fixing code and documentation, setting up CI - Sending Pull-Requests]]></title>
-            <description><![CDATA[You might have heard about the <a href="https://osdc.code-maven.com/">Open Source Development Course</a> I teach. During one of the most recent meetings we worked on a Perl module. You can also check the <a href="https://osdc.code-maven.com/osdc-2023-01-perl/">web site of the course</a> and the <a href="https://github.com/oSDC-Code-Maven/osdc-2023-01-perl/">GitHub repo</a> where you can find the links to the video recordings.]]></description>
-            <pubDate>2023.03.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/szabgab/fixing-code-and-documentation-setting-up-ci-a-session-in-osdc-6pk</guid>
-            <link>https://dev.to/szabgab/fixing-code-and-documentation-setting-up-ci-a-session-in-osdc-6pk</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AutoHotKey]]></title>
-            <description><![CDATA[AutoHotKey]]></description>
-            <pubDate>2023.03.22</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/03/22/autohotkey/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/03/22/autohotkey/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/03/cdxxxvii-18-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/03/dl-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/03/dlxxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.03.26</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/04/cdxxxix-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/04/dli-metacpan-weekly-report-expect.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/04/dlxxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.04.08</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
