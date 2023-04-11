@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I worked at Google for -10 days]]></title>
-            <description><![CDATA[608 points | <a href=https://news.ycombinator.com/item?id=35525294 target=_blank>380 comments</a>]]></description>
+            <description><![CDATA[610 points | <a href=https://news.ycombinator.com/item?id=35525294 target=_blank>382 comments</a>]]></description>
             <pubDate>2023-04-11T14:02:40.000Z</pubDate>
             <guid isPermaLink="false">https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/</guid>
             <link>https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[We're building a browser when it's supposed to be impossible]]></title>
-            <description><![CDATA[456 points | <a href=https://news.ycombinator.com/item?id=35521704 target=_blank>294 comments</a>]]></description>
+            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=35521704 target=_blank>295 comments</a>]]></description>
             <pubDate>2023-04-11T06:50:02.000Z</pubDate>
             <guid isPermaLink="false">https://awesomekling.substack.com/p/how-were-building-a-browser-when</guid>
             <link>https://awesomekling.substack.com/p/how-were-building-a-browser-when</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Generative Agents: Interactive Simulacra of Human Behavior]]></title>
-            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=35517649 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=35517649 target=_blank>192 comments</a>]]></description>
             <pubDate>2023-04-10T21:32:13.000Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2304.03442</guid>
             <link>https://arxiv.org/abs/2304.03442</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Anthropic’s $5B, 4-year plan to take on OpenAI]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=35523859 target=_blank>390 comments</a>]]></description>
+            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=35523859 target=_blank>390 comments</a>]]></description>
             <pubDate>2023-04-11T11:58:09.000Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/</guid>
             <link>https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[The end of a myth: Distributed transactions can scale]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=35520044 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=35520044 target=_blank>84 comments</a>]]></description>
             <pubDate>2023-04-11T02:33:03.000Z</pubDate>
             <guid isPermaLink="false">http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html</guid>
             <link>http://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=35526846 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=35526846 target=_blank>161 comments</a>]]></description>
             <pubDate>2023-04-11T15:48:40.000Z</pubDate>
             <guid isPermaLink="false">https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue</guid>
             <link>https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[People with severe mental illness have been failed by a dysfunctional system]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=35524881 target=_blank>250 comments</a>]]></description>
-            <pubDate>2023-04-11T13:30:58.000Z</pubDate>
-            <guid isPermaLink="false">https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/</guid>
-            <link>https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/</link>
-            
-            
-            
-            <author><![CDATA[fortran77]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Supabase Edge Runtime: Self-Hosted Deno Functions]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=35525222 target=_blank>58 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=35525222 target=_blank>60 comments</a>]]></description>
             <pubDate>2023-04-11T13:57:45.000Z</pubDate>
             <guid isPermaLink="false">https://supabase.com/blog/edge-runtime-self-hosted-deno-functions</guid>
             <link>https://supabase.com/blog/edge-runtime-self-hosted-deno-functions</link>
@@ -178,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[It happened to me today: $80/hr writer replaced with ChatGPT]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=35519229 target=_blank>279 comments</a>]]></description>
-            <pubDate>2023-04-11T00:41:04.000Z</pubDate>
-            <guid isPermaLink="false">https://old.reddit.com/r/freelanceWriters/comments/12ff5mw/it_happened_to_me_today/</guid>
-            <link>https://old.reddit.com/r/freelanceWriters/comments/12ff5mw/it_happened_to_me_today/</link>
+            <title><![CDATA[People with severe mental illness have been failed by a dysfunctional system]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=35524881 target=_blank>253 comments</a>]]></description>
+            <pubDate>2023-04-11T13:30:58.000Z</pubDate>
+            <guid isPermaLink="false">https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/</guid>
+            <link>https://www.theatlantic.com/magazine/archive/2023/05/american-madness-schizophrenia-mental-illness/673490/</link>
             
             
             
-            <author><![CDATA[dmm]]></author>
+            <author><![CDATA[fortran77]]></author>
             
                 
             
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Substack Notes Launched]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=35526768 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=35526768 target=_blank>99 comments</a>]]></description>
             <pubDate>2023-04-11T15:43:42.000Z</pubDate>
             <guid isPermaLink="false">https://on.substack.com/p/notes</guid>
             <link>https://on.substack.com/p/notes</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[theolivenbaum]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[It happened to me today: $80/hr writer replaced with ChatGPT]]></title>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=35519229 target=_blank>283 comments</a>]]></description>
+            <pubDate>2023-04-11T00:41:04.000Z</pubDate>
+            <guid isPermaLink="false">https://old.reddit.com/r/freelanceWriters/comments/12ff5mw/it_happened_to_me_today/</guid>
+            <link>https://old.reddit.com/r/freelanceWriters/comments/12ff5mw/it_happened_to_me_today/</link>
+            
+            
+            
+            <author><![CDATA[dmm]]></author>
             
                 
             
