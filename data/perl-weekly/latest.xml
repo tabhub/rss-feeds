@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #611]]></title>
+        <title><![CDATA[Perl Weekly #612]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Weather::WeatherKit and Weather::Astro7Timer]]></title>
-            <description><![CDATA[Weather::WeatherKit and Weather::Astro7Timer]]></description>
-            <pubDate>2023.03.31</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dimitrios_kechagias/2023/03/weatherweatherkit-and-weatherastro7timer.html</guid>
-            <link>https://blogs.perl.org/users/dimitrios_kechagias/2023/03/weatherweatherkit-and-weatherastro7timer.html</link>
+            <title><![CDATA[The CfP has just been extenden:]]></title>
+            <description><![CDATA[The Perl and Koha Conference 2023 is now accepting talks. Please do submit.]]></description>
+            <pubDate>2023.04.16</pubDate>
+            <guid isPermaLink="false">https://perlkohacon.fi/News-for-Conference-YAPC-Europe-KohaCon-Helsinki-August-2023.html</guid>
+            <link>https://perlkohacon.fi/News-for-Conference-YAPC-Europe-KohaCon-Helsinki-August-2023.html</link>
             
             
             
-            <author><![CDATA[dimitrios_kechagias]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Increasing Perl’s Visibility, Redux]]></title>
-            <description><![CDATA[How to easily create a web-site for your CPAN distribution.]]></description>
-            <pubDate>2023.04.05</pubDate>
-            <guid isPermaLink="false">https://dev.to/tobyink/increasing-perls-visibility-redux-17g6</guid>
-            <link>https://dev.to/tobyink/increasing-perls-visibility-redux-17g6</link>
-            
-            
-            
-            <author><![CDATA[toby_inkster]]></author>
+            <author><![CDATA[thomas_klausner]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Replacing the Dark Sky weather API: WeatherKit, 7Timer and other free APIs]]></title>
-            <description><![CDATA[A bunch of interesting Perl modules.]]></description>
-            <pubDate>2023.03.31</pubDate>
-            <guid isPermaLink="false">https://dev.to/dkechag/replacing-the-dark-sky-weather-api-weatherkit-7timer-and-more-3o</guid>
-            <link>https://dev.to/dkechag/replacing-the-dark-sky-weather-api-weatherkit-7timer-and-more-3o</link>
+            <title><![CDATA[Data::Table - Weekly Travelling in CPAN]]></title>
+            <description><![CDATA[CPAN travellers having fun every week, thanks to Cheok-Yin Fung.]]></description>
+            <pubDate>2023.04.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/c_y_fung/2023/04/datatable---weekly-travelling-in-cpan.html</guid>
+            <link>https://blogs.perl.org/users/c_y_fung/2023/04/datatable---weekly-travelling-in-cpan.html</link>
             
             
             
-            <author><![CDATA[dimitrios_kechagias]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Reinvent the REST]]></title>
-            <description><![CDATA[What an MVP for a REST API would look like using Catalyst.]]></description>
-            <pubDate>2023.04.08</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/j1/2023/04/reinvent-the-rest.html</guid>
-            <link>https://blogs.perl.org/users/j1/2023/04/reinvent-the-rest.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[c_y_fung]]></author>
             
                 
             
@@ -82,15 +50,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Crash City]]></title>
-            <description><![CDATA[Analyzing NYC Traffic Collision Data on the Linux Command Line with SoQL and Curl]]></description>
-            <pubDate>2023.04.07</pubDate>
-            <guid isPermaLink="false">https://dev.to/austin_62/crash-city-2ebd</guid>
-            <link>https://dev.to/austin_62/crash-city-2ebd</link>
+            <title><![CDATA[Rearviewmirror on Kasai!]]></title>
+            <description><![CDATA[Rearviewmirror on Kasai!]]></description>
+            <pubDate>2023.04.10</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/10/rearviewmirror-on-kasai/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/10/rearviewmirror-on-kasai/</link>
             
             
             
-            <author><![CDATA[austin_62]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Some hats icons]]></title>
+            <description><![CDATA[Some hats icons]]></description>
+            <pubDate>2023.04.11</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/11/some-hats-icons/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/11/some-hats-icons/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Thinking on a data collection API]]></title>
+            <description><![CDATA[Thinking on a data collection API]]></description>
+            <pubDate>2023.04.12</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/12/data-collection-api/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/12/data-collection-api/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Data collection update]]></title>
+            <description><![CDATA[Data collection update]]></description>
+            <pubDate>2023.04.15</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/15/data-collection-update/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/15/data-collection-update/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloudflare caching]]></title>
+            <description><![CDATA[Cloudflare caching]]></description>
+            <pubDate>2023.04.16</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/16/cloudflare-caching/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/16/cloudflare-caching/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.15 Testing Patterns]]></title>
+            <description><![CDATA[2023.15 Testing Patterns]]></description>
+            <pubDate>2023.04.10</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/04/10/2023-15-testing-patterns/</guid>
+            <link>https://rakudoweekly.blog/2023/04/10/2023-15-testing-patterns/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -99,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/04/cdxxxix-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/04/dli-metacpan-weekly-report-expect.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/04/dlxxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.04.08</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/04/cdxl-5-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/04/dlii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2023.04.15</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
