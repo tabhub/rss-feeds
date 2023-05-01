@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #613]]></title>
+        <title><![CDATA[Perl Weekly #614]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Perl and Raku Conference 2023]]></title>
-            <description><![CDATA[The Schedule of the conference is now available.]]></description>
-            <pubDate>2023.04.24</pubDate>
-            <guid isPermaLink="false">https://tprc2023.sched.com/</guid>
-            <link>https://tprc2023.sched.com/</link>
+            <title><![CDATA[This Week in PSC (105)]]></title>
+            <description><![CDATA[The Perl Steering Council met up in person in Lyon for the Perl Toolchain Summit 2023.]]></description>
+            <pubDate>2023.04.30</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/04/this-week-in-psc-105.html</guid>
+            <link>https://blogs.perl.org/users/psc/2023/04/this-week-in-psc-105.html</link>
             
             
             
@@ -34,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Open Source Development Course for Perl developers - 2023.01]]></title>
-            <description><![CDATA[Open Source Development Course for Perl developers - 2023.01]]></description>
-            <pubDate>2023.04.19</pubDate>
-            <guid isPermaLink="false">https://dev.to/jdanproject/open-source-development-course-for-perl-developers-202301-39i9</guid>
-            <link>https://dev.to/jdanproject/open-source-development-course-for-perl-developers-202301-39i9</link>
+            <title><![CDATA[RSRU Release 3.2]]></title>
+            <description><![CDATA[A static catalogue website and blog builder written in Perl.]]></description>
+            <pubDate>2023.04</pubDate>
+            <guid isPermaLink="false">https://github.com/lordfeck/rsru</guid>
+            <link>https://github.com/lordfeck/rsru</link>
             
             
             
-            <author><![CDATA[jaroslaw_danielski]]></author>
+            <author><![CDATA[lord_feck]]></author>
             
                 
             
@@ -50,15 +50,31 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (104)]]></title>
-            <description><![CDATA[This week in PSC (104)]]></description>
-            <pubDate>2023.04.21</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/04/this-week-in-psc-104.html</guid>
-            <link>https://blogs.perl.org/users/psc/2023/04/this-week-in-psc-104.html</link>
+            <title><![CDATA[The Perl Toolchain Summit 2023]]></title>
+            <description><![CDATA[The first event report made public by Paul Johnson.]]></description>
+            <pubDate>2023.04.30</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/paul_johnson/2023/04/the-perl-toolchain-summit-2023.html</guid>
+            <link>https://blogs.perl.org/users/paul_johnson/2023/04/the-perl-toolchain-summit-2023.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[paul_johnson]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dot Your Environment]]></title>
+            <description><![CDATA[Find out more about Env::Dot ...]]></description>
+            <pubDate>2023.04.25</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2023/04/assert-your-environment.html</guid>
+            <link>https://blogs.perl.org/users/mikko_koivunalho/2023/04/assert-your-environment.html</link>
+            
+            
+            
+            <author><![CDATA[mikko_koivunalho]]></author>
             
                 
             
@@ -67,26 +83,10 @@
         
         <item>
             <title><![CDATA[Why Perl?]]></title>
-            <description><![CDATA[This post by Chris from Stockholm, Sweden, dated more than a month into the future tries to sell you Perl. The columns in the table: Ubiquity, Scales up, Compatibility, Shell scripts, Extensible]]></description>
-            <pubDate>2023.04.22</pubDate>
-            <guid isPermaLink="false">https://two-wrongs.com/why-perl</guid>
-            <link>https://two-wrongs.com/why-perl</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Removing a session in Mojolicious]]></title>
-            <description><![CDATA[The server can ask the browser to remove the session, by getting rid of the cookie. On the other hand, if for some reason the browser is not collaborating (e.g. refusing to delete the session cookie), then the session will stick up to the expiration time.]]></description>
-            <pubDate>2023.04.22</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/22/mojolicious-removing-session/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/04/22/mojolicious-removing-session/</link>
+            <description><![CDATA[Find the answer to the most common question ....]]></description>
+            <pubDate>2023.04.29</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/29/why-perl/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/29/why-perl/</link>
             
             
             
@@ -98,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[RSRU Release 3.2 - A static catalogue website and blog builder written in Perl]]></title>
-            <description><![CDATA[RSRU Release 3.2 - A static catalogue website and blog builder written in Perl]]></description>
-            <pubDate>2023.04.22</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/12veimc/rsru_release_32_a_static_catalogue_website_and/</guid>
-            <link>https://www.reddit.com/r/perl/comments/12veimc/rsru_release_32_a_static_catalogue_website_and/</link>
+            <title><![CDATA[Tracciatore - starting point]]></title>
+            <description><![CDATA[Work in progress on data collection API.]]></description>
+            <pubDate>2023.04.24</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/24/tracciatore-starting-point/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/24/tracciatore-starting-point/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -114,15 +114,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Quick tip: run local perl code using podman to run a perl docker container]]></title>
-            <description><![CDATA[You could use it to generate a web site using GitHub Actions and host it on GitHub pages. Who will write the tutorial for that? (Side note, I don't see any tests in that repository.)]]></description>
-            <pubDate>2023.04.23</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/12vv8g4/quick_tip_run_local_perl_code_using_podman_to_run/</guid>
-            <link>https://www.reddit.com/r/perl/comments/12vv8g4/quick_tip_run_local_perl_code_using_podman_to_run/</link>
+            <title><![CDATA[I'll probably resume LaTeX]]></title>
+            <description><![CDATA[I'll probably resume LaTeX]]></description>
+            <pubDate>2023.04.25</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/25/will-probably-resume-latex/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/25/will-probably-resume-latex/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LaTeX in Alpine Linux]]></title>
+            <description><![CDATA[LaTeX in Alpine Linux]]></description>
+            <pubDate>2023.04.26</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/04/26/latex-in-alpine/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/04/26/latex-in-alpine/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.17 ReleasePeriod]]></title>
+            <description><![CDATA[2023.17 ReleasePeriod]]></description>
+            <pubDate>2023.04.24</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/04/24/2023-17-releaseperiod/</guid>
+            <link>https://rakudoweekly.blog/2023/04/24/2023-17-releaseperiod/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -131,8 +163,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/04/cdxli-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/04/dliii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/04/dlxxix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.04.22</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/04/cdxlii-21-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/04/dliv-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2023.04.29</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -151,6 +183,22 @@
             <pubDate>2023.04.24</pubDate>
             <guid isPermaLink="false">https://tprc2023.sched.com/</guid>
             <link>https://tprc2023.sched.com/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl and Koha]]></title>
+            <description><![CDATA[August 14-18, 2023, Helsinki, Finland]]></description>
+            <pubDate>2023.04.24</pubDate>
+            <guid isPermaLink="false">https://perlkohacon.fi/</guid>
+            <link>https://perlkohacon.fi/</link>
             
             
             
