@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Bank Failures Visualized]]></title>
-            <description><![CDATA[712 points | <a href=https://news.ycombinator.com/item?id=35795975 target=_blank>277 comments</a>]]></description>
+            <description><![CDATA[713 points | <a href=https://news.ycombinator.com/item?id=35795975 target=_blank>277 comments</a>]]></description>
             <pubDate>2023-05-03T00:03:26.000Z</pubDate>
             <guid isPermaLink="false">https://observablehq.com/@mbostock/bank-failures</guid>
             <link>https://observablehq.com/@mbostock/bank-failures</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry]]></title>
-            <description><![CDATA[608 points | <a href=https://news.ycombinator.com/item?id=35800158 target=_blank>453 comments</a>]]></description>
+            <description><![CDATA[614 points | <a href=https://news.ycombinator.com/item?id=35800158 target=_blank>463 comments</a>]]></description>
             <pubDate>2023-05-03T09:47:15.000Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open</guid>
             <link>https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[It's A(door)able]]></title>
-            <description><![CDATA[592 points | <a href=https://news.ycombinator.com/item?id=35800492 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[597 points | <a href=https://news.ycombinator.com/item?id=35800492 target=_blank>81 comments</a>]]></description>
             <pubDate>2023-05-03T10:32:10.000Z</pubDate>
             <guid isPermaLink="false">https://ncase.me/door/</guid>
             <link>https://ncase.me/door/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Fakespot Is Acquired by Mozilla]]></title>
-            <description><![CDATA[461 points | <a href=https://news.ycombinator.com/item?id=35789963 target=_blank>346 comments</a>]]></description>
+            <description><![CDATA[461 points | <a href=https://news.ycombinator.com/item?id=35789963 target=_blank>347 comments</a>]]></description>
             <pubDate>2023-05-02T16:21:58.000Z</pubDate>
             <guid isPermaLink="false">https://www.fakespot.com/post/fakespot-acquired-by-mozilla</guid>
             <link>https://www.fakespot.com/post/fakespot-acquired-by-mozilla</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[News Minimalist – Only significant news]]></title>
-            <description><![CDATA[420 points | <a href=https://news.ycombinator.com/item?id=35795388 target=_blank>193 comments</a>]]></description>
+            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=35795388 target=_blank>193 comments</a>]]></description>
             <pubDate>2023-05-02T23:05:10.000Z</pubDate>
             <guid isPermaLink="false">https://www.newsminimalist.com/</guid>
             <link>https://www.newsminimalist.com/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[OpenLLaMA: An Open Reproduction of LLaMA]]></title>
-            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=35798888 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=35798888 target=_blank>113 comments</a>]]></description>
             <pubDate>2023-05-03T06:43:41.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/openlm-research/open_llama</guid>
             <link>https://github.com/openlm-research/open_llama</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Jsonformer: Generate structured output from LLMs]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=35790092 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=35790092 target=_blank>78 comments</a>]]></description>
             <pubDate>2023-05-02T16:29:36.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/1rgs/jsonformer</guid>
             <link>https://github.com/1rgs/jsonformer</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[yunyu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[I want to talk about WebGPU]]></title>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=35800988 target=_blank>105 comments</a>]]></description>
+            <pubDate>2023-05-03T11:24:57.000Z</pubDate>
+            <guid isPermaLink="false">https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu</guid>
+            <link>https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu</link>
+            
+            
+            
+            <author><![CDATA[pjmlp]]></author>
             
                 
             
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[jaredwiener]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[I want to talk about WebGPU]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=35800988 target=_blank>101 comments</a>]]></description>
-            <pubDate>2023-05-03T11:24:57.000Z</pubDate>
-            <guid isPermaLink="false">https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu</guid>
-            <link>https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu</link>
-            
-            
-            
-            <author><![CDATA[pjmlp]]></author>
             
                 
             
