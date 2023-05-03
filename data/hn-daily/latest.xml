@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Bank Failures Visualized]]></title>
-            <description><![CDATA[667 points | <a href=https://news.ycombinator.com/item?id=35795975 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[676 points | <a href=https://news.ycombinator.com/item?id=35795975 target=_blank>267 comments</a>]]></description>
             <pubDate>2023-05-03T00:03:26.000Z</pubDate>
             <guid isPermaLink="false">https://observablehq.com/@mbostock/bank-failures</guid>
             <link>https://observablehq.com/@mbostock/bank-failures</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Mojo – a new programming language for AI developers]]></title>
-            <description><![CDATA[527 points | <a href=https://news.ycombinator.com/item?id=35790367 target=_blank>215 comments</a>]]></description>
+            <description><![CDATA[527 points | <a href=https://news.ycombinator.com/item?id=35790367 target=_blank>216 comments</a>]]></description>
             <pubDate>2023-05-02T16:45:40.000Z</pubDate>
             <guid isPermaLink="false">https://www.modular.com/mojo</guid>
             <link>https://www.modular.com/mojo</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[It's A(door)able]]></title>
-            <description><![CDATA[461 points | <a href=https://news.ycombinator.com/item?id=35800492 target=_blank>64 comments</a>]]></description>
+            <description><![CDATA[478 points | <a href=https://news.ycombinator.com/item?id=35800492 target=_blank>65 comments</a>]]></description>
             <pubDate>2023-05-03T10:32:10.000Z</pubDate>
             <guid isPermaLink="false">https://ncase.me/door/</guid>
             <link>https://ncase.me/door/</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[michaelbrooks]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry]]></title>
+            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=35800158 target=_blank>365 comments</a>]]></description>
+            <pubDate>2023-05-03T09:47:15.000Z</pubDate>
+            <guid isPermaLink="false">https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open</guid>
+            <link>https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open</link>
+            
+            
+            
+            <author><![CDATA[dustedcodes]]></author>
             
                 
             
@@ -91,22 +107,6 @@
             
             
             <author><![CDATA[mattweinberg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry]]></title>
-            <description><![CDATA[450 points | <a href=https://news.ycombinator.com/item?id=35800158 target=_blank>354 comments</a>]]></description>
-            <pubDate>2023-05-03T09:47:15.000Z</pubDate>
-            <guid isPermaLink="false">https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open</guid>
-            <link>https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open</link>
-            
-            
-            
-            <author><![CDATA[dustedcodes]]></author>
             
                 
             
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[News Minimalist – Only significant news]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=35795388 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=35795388 target=_blank>175 comments</a>]]></description>
             <pubDate>2023-05-02T23:05:10.000Z</pubDate>
             <guid isPermaLink="false">https://www.newsminimalist.com/</guid>
             <link>https://www.newsminimalist.com/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[An Update on the Lock Icon]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=35789730 target=_blank>157 comments</a>]]></description>
-            <pubDate>2023-05-02T16:06:16.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.chromium.org/2023/05/an-update-on-lock-icon.html</guid>
-            <link>https://blog.chromium.org/2023/05/an-update-on-lock-icon.html</link>
+            <title><![CDATA[OpenLLaMA: An Open Reproduction of LLaMA]]></title>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=35798888 target=_blank>86 comments</a>]]></description>
+            <pubDate>2023-05-03T06:43:41.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/openlm-research/open_llama</guid>
+            <link>https://github.com/openlm-research/open_llama</link>
             
             
             
-            <author><![CDATA[semenko]]></author>
+            <author><![CDATA[sadiq]]></author>
             
                 
             
