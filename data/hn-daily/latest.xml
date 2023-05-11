@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[See this page fetch itself, byte by byte, over TLS]]></title>
-            <description><![CDATA[1184 points | <a href=https://news.ycombinator.com/item?id=35884437 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[1185 points | <a href=https://news.ycombinator.com/item?id=35884437 target=_blank>139 comments</a>]]></description>
             <pubDate>2023-05-10T06:51:33.000Z</pubDate>
             <guid isPermaLink="false">https://subtls.pages.dev/</guid>
             <link>https://subtls.pages.dev/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ask HN: What is new in algorithms and data structures these days?]]></title>
-            <description><![CDATA[521 points | <a href=https://news.ycombinator.com/item?id=35886900 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[524 points | <a href=https://news.ycombinator.com/item?id=35886900 target=_blank>158 comments</a>]]></description>
             <pubDate>2023-05-10T13:16:21.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=35886900</guid>
             <link>https://news.ycombinator.com/item?id=35886900</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Tell HN: We should start to add “ai.txt” as we do for “robots.txt”]]></title>
-            <description><![CDATA[511 points | <a href=https://news.ycombinator.com/item?id=35886288 target=_blank>252 comments</a>]]></description>
+            <description><![CDATA[511 points | <a href=https://news.ycombinator.com/item?id=35886288 target=_blank>254 comments</a>]]></description>
             <pubDate>2023-05-10T12:20:05.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=35886288</guid>
             <link>https://news.ycombinator.com/item?id=35886288</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[The Leverage of LLMs for Individuals]]></title>
-            <description><![CDATA[493 points | <a href=https://news.ycombinator.com/item?id=35885797 target=_blank>285 comments</a>]]></description>
+            <description><![CDATA[493 points | <a href=https://news.ycombinator.com/item?id=35885797 target=_blank>286 comments</a>]]></description>
             <pubDate>2023-05-10T11:01:25.000Z</pubDate>
             <guid isPermaLink="false">https://mazzzystar.github.io/2023/05/10/LLM-for-individual/</guid>
             <link>https://mazzzystar.github.io/2023/05/10/LLM-for-individual/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Google I/O 2023]]></title>
-            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=35886559 target=_blank>387 comments</a>]]></description>
+            <description><![CDATA[418 points | <a href=https://news.ycombinator.com/item?id=35886559 target=_blank>388 comments</a>]]></description>
             <pubDate>2023-05-10T12:49:06.000Z</pubDate>
             <guid isPermaLink="false">https://io.google/2023/</guid>
             <link>https://io.google/2023/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Why I'm done with Mouser Electronics]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=35892246 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=35892246 target=_blank>149 comments</a>]]></description>
             <pubDate>2023-05-10T19:25:52.000Z</pubDate>
             <guid isPermaLink="false">https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics</guid>
             <link>https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[PaLM 2 Technical Report [pdf]]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=35891444 target=_blank>186 comments</a>]]></description>
-            <pubDate>2023-05-10T18:32:30.000Z</pubDate>
-            <guid isPermaLink="false">https://ai.google/static/documents/palm2techreport.pdf</guid>
-            <link>https://ai.google/static/documents/palm2techreport.pdf</link>
-            
-            
-            
-            <author><![CDATA[cubefox]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[YouTube tests blocking videos unless you disable ad blockers]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=35892512 target=_blank>686 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=35892512 target=_blank>705 comments</a>]]></description>
             <pubDate>2023-05-10T19:45:03.000Z</pubDate>
             <guid isPermaLink="false">https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/</guid>
             <link>https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[PaLM 2 Technical Report [pdf]]]></title>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=35891444 target=_blank>189 comments</a>]]></description>
+            <pubDate>2023-05-10T18:32:30.000Z</pubDate>
+            <guid isPermaLink="false">https://ai.google/static/documents/palm2techreport.pdf</guid>
+            <link>https://ai.google/static/documents/palm2techreport.pdf</link>
+            
+            
+            
+            <author><![CDATA[cubefox]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Microsoft Freezes Salaries for 2023]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=35889709 target=_blank>271 comments</a>]]></description>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=35889709 target=_blank>272 comments</a>]]></description>
             <pubDate>2023-05-10T16:31:01.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/tomwarren/status/1656331173390327811</guid>
             <link>https://twitter.com/tomwarren/status/1656331173390327811</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG]]></title>
-            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=35894326 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=35894326 target=_blank>120 comments</a>]]></description>
             <pubDate>2023-05-10T22:26:52.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/y18.svg</guid>
             <link>https://news.ycombinator.com/y18.svg</link>
