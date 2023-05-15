@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #615]]></title>
+        <title><![CDATA[Perl Weekly #616]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,43 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[SVG viewBox and px]]></title>
-            <description><![CDATA[Way more than you'd normally want to know about SVG.]]></description>
-            <pubDate>2023.05.07</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/07/svg-viewbox-px/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/05/07/svg-viewbox-px/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Font selection in PDF::Builder]]></title>
-            <description><![CDATA[Font selection in PDF::Builder]]></description>
-            <pubDate>2023.05.06</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/06/font-in-pdf-builder/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/05/06/font-in-pdf-builder/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CPAN Meta Browser]]></title>
-            <description><![CDATA[CPAN Meta Browser]]></description>
-            <pubDate>2023.05.05</pubDate>
-            <guid isPermaLink="false">https://cpanmeta.grinnz.com/packages</guid>
-            <link>https://cpanmeta.grinnz.com/packages</link>
+            <title><![CDATA[2023 Stack Overflow Developer Survey]]></title>
+            <description><![CDATA[Please take the survey and share your Perl experience.]]></description>
+            <pubDate>2023.05.11</pubDate>
+            <guid isPermaLink="false">https://stackoverflow.az1.qualtrics.com/jfe/form/SV_czLVsbnGnF4Q04e</guid>
+            <link>https://stackoverflow.az1.qualtrics.com/jfe/form/SV_czLVsbnGnF4Q04e</link>
             
             
             
@@ -66,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Early May Perl Software Releases 2023]]></title>
-            <description><![CDATA[EPrints 3.4.5-rc1; Request Tracker 5.0.4; Ravada v1.8.10; Perl5-IDEA 2023.1.1]]></description>
-            <pubDate>2023.05.06</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2023/05/early-may-perl-software-releases-2023.html</guid>
-            <link>https://blogs.perl.org/users/dean/2023/05/early-may-perl-software-releases-2023.html</link>
+            <title><![CDATA[Welcome new contributors with the first-timers-only tag]]></title>
+            <description><![CDATA[Nice attempt to encourage first-timers to contribute.]]></description>
+            <pubDate>2023.05.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2023/05/welcome-new-contributors-with-the-first-timers-only-tag.html</guid>
+            <link>https://blogs.perl.org/users/dean/2023/05/welcome-new-contributors-with-the-first-timers-only-tag.html</link>
             
             
             
@@ -82,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Posterior Predictive]]></title>
-            <description><![CDATA[Posterior Predictive]]></description>
-            <pubDate>2023.05.03</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/03/posterior-predictive/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/05/03/posterior-predictive/</link>
+            <title><![CDATA[SVG px conversion in Perl]]></title>
+            <description><![CDATA[Nice little example showing how to convert px to point in SVG.]]></description>
+            <pubDate>2023.05.08</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/08/svg-px-conversion/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/05/08/svg-px-conversion/</link>
             
             
             
@@ -98,9 +66,73 @@
         </item>
         
         <item>
+            <title><![CDATA[How to Send and Receive Email with Perl]]></title>
+            <description><![CDATA[Simplest and easiest way to deal with email. Nice attempt. ]]></description>
+            <pubDate>2023.05.09</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/den/2023/05/how-to-send-and-receive-email-with-perl.html</guid>
+            <link>https://blogs.perl.org/users/den/2023/05/how-to-send-and-receive-email-with-perl.html</link>
+            
+            
+            
+            <author><![CDATA[den]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SVG Text elements]]></title>
+            <description><![CDATA[SVG Text elements]]></description>
+            <pubDate>2023.05.09</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/09/svg-text-elements/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/05/09/svg-text-elements/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SVG to PDF::Collage]]></title>
+            <description><![CDATA[Possible way to generate a template for PDF::Collage in a graphical-ish way.]]></description>
+            <pubDate>2023.05.10</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/10/svg-to-collage/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/05/10/svg-to-collage/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.19 Pakku]]></title>
+            <description><![CDATA[2023.19 Pakku]]></description>
+            <pubDate>2023.05.08</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/05/08/2023-19-pakku/</guid>
+            <link>https://rakudoweekly.blog/2023/05/08/2023-19-pakku/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.05</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/05/cdxliii-28-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/05/dlv-metacpan-weekly-report-assign.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/05/dlxxx-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.05.13</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
