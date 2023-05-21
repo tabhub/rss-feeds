@@ -18,6 +18,22 @@
         <ttl></ttl>
         
         <item>
+            <title><![CDATA[Writing Python like it's Rust]]></title>
+            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=36018621 target=_blank>203 comments</a>]]></description>
+            <pubDate>2023-05-21T06:59:59.000Z</pubDate>
+            <guid isPermaLink="false">https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html</guid>
+            <link>https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[We will be shutting down neeva.com]]></title>
             <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=36013783 target=_blank>250 comments</a>]]></description>
             <pubDate>2023-05-20T17:25:09.000Z</pubDate>
@@ -34,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Writing Python like it's Rust]]></title>
-            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=36018621 target=_blank>192 comments</a>]]></description>
-            <pubDate>2023-05-21T06:59:59.000Z</pubDate>
-            <guid isPermaLink="false">https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html</guid>
-            <link>https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Rodney Brooks on GPT-4]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=36017309 target=_blank>343 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=36017309 target=_blank>344 comments</a>]]></description>
             <pubDate>2023-05-21T01:54:50.000Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/gpt-4-calm-down</guid>
             <link>https://spectrum.ieee.org/gpt-4-calm-down</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[GPT detectors are biased against non-native English writers]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=36019580 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=36019580 target=_blank>174 comments</a>]]></description>
             <pubDate>2023-05-21T10:36:11.000Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2304.02819</guid>
             <link>https://arxiv.org/abs/2304.02819</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Feynman Lectures on Physics (1964)]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=36017793 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=36017793 target=_blank>49 comments</a>]]></description>
             <pubDate>2023-05-21T03:34:04.000Z</pubDate>
             <guid isPermaLink="false">https://www.feynmanlectures.caltech.edu/</guid>
             <link>https://www.feynmanlectures.caltech.edu/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Suspicious iOS KeePass Client]]></title>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=36020196 target=_blank>108 comments</a>]]></description>
+            <pubDate>2023-05-21T12:27:22.000Z</pubDate>
+            <guid isPermaLink="false">https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/</guid>
+            <link>https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/</link>
+            
+            
+            
+            <author><![CDATA[natrys]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised]]></title>
             <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=36014887 target=_blank>81 comments</a>]]></description>
             <pubDate>2023-05-20T19:36:23.000Z</pubDate>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Suspicious iOS KeePass Client]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=36020196 target=_blank>108 comments</a>]]></description>
-            <pubDate>2023-05-21T12:27:22.000Z</pubDate>
-            <guid isPermaLink="false">https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/</guid>
-            <link>https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/</link>
+            <title><![CDATA[KeyDB – A Multithreaded Fork of Redis]]></title>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=36018149 target=_blank>101 comments</a>]]></description>
+            <pubDate>2023-05-21T05:00:41.000Z</pubDate>
+            <guid isPermaLink="false">https://docs.keydb.dev/</guid>
+            <link>https://docs.keydb.dev/</link>
             
             
             
-            <author><![CDATA[natrys]]></author>
+            <author><![CDATA[nilsbunger]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[edandersen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PyPI new user and new project registrations temporarily suspended]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=36015078 target=_blank>120 comments</a>]]></description>
-            <pubDate>2023-05-20T20:04:39.000Z</pubDate>
-            <guid isPermaLink="false">https://status.python.org</guid>
-            <link>https://status.python.org</link>
-            
-            
-            
-            <author><![CDATA[jonbaer]]></author>
             
                 
             
