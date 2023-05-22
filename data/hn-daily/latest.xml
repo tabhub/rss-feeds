@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Writing Python like it's Rust]]></title>
-            <description><![CDATA[475 points | <a href=https://news.ycombinator.com/item?id=36018621 target=_blank>293 comments</a>]]></description>
+            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=36018621 target=_blank>294 comments</a>]]></description>
             <pubDate>2023-05-21T06:59:59.000Z</pubDate>
             <guid isPermaLink="false">https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html</guid>
             <link>https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[GPT detectors are biased against non-native English writers]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=36019580 target=_blank>238 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=36019580 target=_blank>238 comments</a>]]></description>
             <pubDate>2023-05-21T10:36:11.000Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2304.02819</guid>
             <link>https://arxiv.org/abs/2304.02819</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Same Stop: Life after 26 years as a programmer for Apple]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=36026662 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=36026662 target=_blank>144 comments</a>]]></description>
             <pubDate>2023-05-22T02:11:45.000Z</pubDate>
             <guid isPermaLink="false">https://www.engineersneedart.com/blog/samestop/samestop.html</guid>
             <link>https://www.engineersneedart.com/blog/samestop/samestop.html</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Beej's Guide to Network Programming]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=36025611 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=36025611 target=_blank>51 comments</a>]]></description>
             <pubDate>2023-05-21T23:28:41.000Z</pubDate>
             <guid isPermaLink="false">https://beej.us/guide/bgnet/</guid>
             <link>https://beej.us/guide/bgnet/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Apple is rewriting Foundation in Swift]]></title>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=36026038 target=_blank>163 comments</a>]]></description>
+            <pubDate>2023-05-22T00:31:19.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/apple/swift-foundation</guid>
+            <link>https://github.com/apple/swift-foundation</link>
+            
+            
+            
+            <author><![CDATA[hnand]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Dolphin Emulator: Progress Report February, March, and April 2023]]></title>
             <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=36019485 target=_blank>53 comments</a>]]></description>
             <pubDate>2023-05-21T10:16:38.000Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple is rewriting Foundation in Swift]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=36026038 target=_blank>160 comments</a>]]></description>
-            <pubDate>2023-05-22T00:31:19.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/apple/swift-foundation</guid>
-            <link>https://github.com/apple/swift-foundation</link>
-            
-            
-            
-            <author><![CDATA[hnand]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The DRAKON Language]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=36021495 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=36021495 target=_blank>34 comments</a>]]></description>
             <pubDate>2023-05-21T14:49:12.000Z</pubDate>
             <guid isPermaLink="false">https://drakonhub.com/en/drakon</guid>
             <link>https://drakonhub.com/en/drakon</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The bill of materials for the Apple headset leaked]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=36020437 target=_blank>265 comments</a>]]></description>
-            <pubDate>2023-05-21T12:57:27.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/cixliv/status/1660038281034350592</guid>
-            <link>https://twitter.com/cixliv/status/1660038281034350592</link>
+            <title><![CDATA[PrivateGPT]]></title>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=36024503 target=_blank>31 comments</a>]]></description>
+            <pubDate>2023-05-21T20:40:06.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/imartinez/privateGPT</guid>
+            <link>https://github.com/imartinez/privateGPT</link>
             
             
             
-            <author><![CDATA[avian]]></author>
+            <author><![CDATA[antouank]]></author>
             
                 
             
