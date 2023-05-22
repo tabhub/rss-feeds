@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Writing Python like it's Rust]]></title>
-            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=36018621 target=_blank>280 comments</a>]]></description>
+            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=36018621 target=_blank>281 comments</a>]]></description>
             <pubDate>2023-05-21T06:59:59.000Z</pubDate>
             <guid isPermaLink="false">https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html</guid>
             <link>https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The end of the accounting search]]></title>
-            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=36021197 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=36021197 target=_blank>172 comments</a>]]></description>
             <pubDate>2023-05-21T14:26:44.000Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/Articles/925782/</guid>
             <link>https://lwn.net/Articles/925782/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: Trogon – An automatic TUI for command line apps]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=36020717 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=36020717 target=_blank>57 comments</a>]]></description>
             <pubDate>2023-05-21T13:36:44.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/Textualize/trogon</guid>
             <link>https://github.com/Textualize/trogon</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[willm]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Beej's Guide to Network Programming]]></title>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=36025611 target=_blank>33 comments</a>]]></description>
+            <pubDate>2023-05-21T23:28:41.000Z</pubDate>
+            <guid isPermaLink="false">https://beej.us/guide/bgnet/</guid>
+            <link>https://beej.us/guide/bgnet/</link>
+            
+            
+            
+            <author><![CDATA[mutant_glofish]]></author>
             
                 
             
@@ -146,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Beej's Guide to Network Programming]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=36025611 target=_blank>33 comments</a>]]></description>
-            <pubDate>2023-05-21T23:28:41.000Z</pubDate>
-            <guid isPermaLink="false">https://beej.us/guide/bgnet/</guid>
-            <link>https://beej.us/guide/bgnet/</link>
-            
-            
-            
-            <author><![CDATA[mutant_glofish]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The bill of materials for the Apple headset leaked]]></title>
             <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=36020437 target=_blank>261 comments</a>]]></description>
             <pubDate>2023-05-21T12:57:27.000Z</pubDate>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Drakon Language]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=36021495 target=_blank>31 comments</a>]]></description>
-            <pubDate>2023-05-21T14:49:12.000Z</pubDate>
-            <guid isPermaLink="false">https://drakonhub.com/en/drakon</guid>
-            <link>https://drakonhub.com/en/drakon</link>
-            
-            
-            
-            <author><![CDATA[brudgers]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Same Stop: Life after 26 years as a programmer for Apple]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=36026662 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=36026662 target=_blank>88 comments</a>]]></description>
             <pubDate>2023-05-22T02:11:45.000Z</pubDate>
             <guid isPermaLink="false">https://www.engineersneedart.com/blog/samestop/samestop.html</guid>
             <link>https://www.engineersneedart.com/blog/samestop/samestop.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[chmaynard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Drakon Language]]></title>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=36021495 target=_blank>31 comments</a>]]></description>
+            <pubDate>2023-05-21T14:49:12.000Z</pubDate>
+            <guid isPermaLink="false">https://drakonhub.com/en/drakon</guid>
+            <link>https://drakonhub.com/en/drakon</link>
+            
+            
+            
+            <author><![CDATA[brudgers]]></author>
             
                 
             
