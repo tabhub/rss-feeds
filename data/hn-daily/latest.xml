@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Apple announces multibillion deal with Broadcom to make components in the USA]]></title>
-            <description><![CDATA[540 points | <a href=https://news.ycombinator.com/item?id=36044977 target=_blank>198 comments</a>]]></description>
+            <description><![CDATA[545 points | <a href=https://news.ycombinator.com/item?id=36044977 target=_blank>200 comments</a>]]></description>
             <pubDate>2023-05-23T14:39:15.000Z</pubDate>
             <guid isPermaLink="false">https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/</guid>
             <link>https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Waymo and Uber partner to bring autonomous driving technology to Uber]]></title>
-            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=36043322 target=_blank>349 comments</a>]]></description>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=36043322 target=_blank>350 comments</a>]]></description>
             <pubDate>2023-05-23T12:28:39.000Z</pubDate>
             <guid isPermaLink="false">https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html</guid>
             <link>https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[oflordal]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Kanboard: free and open source Kanban project management software]]></title>
+            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=36047861 target=_blank>115 comments</a>]]></description>
+            <pubDate>2023-05-23T17:39:12.000Z</pubDate>
+            <guid isPermaLink="false">https://kanboard.org/</guid>
+            <link>https://kanboard.org/</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
@@ -82,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Kanboard: free and open source Kanban project management software]]></title>
-            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=36047861 target=_blank>115 comments</a>]]></description>
-            <pubDate>2023-05-23T17:39:12.000Z</pubDate>
-            <guid isPermaLink="false">https://kanboard.org/</guid>
-            <link>https://kanboard.org/</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[How to start a Go project in 2023]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=36046662 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=36046662 target=_blank>142 comments</a>]]></description>
             <pubDate>2023-05-23T16:31:08.000Z</pubDate>
             <guid isPermaLink="false">https://boyter.org/posts/how-to-start-go-project-2023/</guid>
             <link>https://boyter.org/posts/how-to-start-go-project-2023/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Ableton Push 3]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=36041432 target=_blank>266 comments</a>]]></description>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=36041432 target=_blank>267 comments</a>]]></description>
             <pubDate>2023-05-23T08:16:18.000Z</pubDate>
             <guid isPermaLink="false">https://www.ableton.com/en/push/</guid>
             <link>https://www.ableton.com/en/push/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Comprehensive Rust: course used by the Android team at Google]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=36048261 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=36048261 target=_blank>46 comments</a>]]></description>
             <pubDate>2023-05-23T18:01:46.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/google/comprehensive-rust</guid>
             <link>https://github.com/google/comprehensive-rust</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Nginx 1.25.0: experimental HTTP/3 support]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=36047524 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=36047524 target=_blank>144 comments</a>]]></description>
             <pubDate>2023-05-23T17:19:06.000Z</pubDate>
             <guid isPermaLink="false">http://nginx.org/en/CHANGES</guid>
             <link>http://nginx.org/en/CHANGES</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[I Block Ads]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=36046293 target=_blank>143 comments</a>]]></description>
-            <pubDate>2023-05-23T16:04:31.000Z</pubDate>
-            <guid isPermaLink="false">https://coryd.dev/posts/2023/i-block-ads/</guid>
-            <link>https://coryd.dev/posts/2023/i-block-ads/</link>
+            <title><![CDATA[Following UK antitrust order, Meta sells Giphy to Shutterstock for $53M]]></title>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=36043327 target=_blank>140 comments</a>]]></description>
+            <pubDate>2023-05-23T12:29:03.000Z</pubDate>
+            <guid isPermaLink="false">https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/</guid>
+            <link>https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/</link>
             
             
             
-            <author><![CDATA[cdme]]></author>
+            <author><![CDATA[mirthlessend]]></author>
             
                 
             
