@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #617]]></title>
+        <title><![CDATA[Perl Weekly #618]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,43 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Time for another TPRC 2023 update!]]></title>
-            <description><![CDATA[The conference is getting close. I wish I could go.]]></description>
-            <pubDate>2023.05.18</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/trpfupdatemay</guid>
-            <link>https://news.perlfoundation.org/post/trpfupdatemay</link>
-            
-            
-            
-            <author><![CDATA[amber_deuel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2023 TRPC Hackathon ]]></title>
-            <description><![CDATA[The Perl and Raku Conference for 2023 will again feature a Hackathon Room. On July 10th, the Marketing Committee plans to coordinate activities for projects that have a broad impact on Perl]]></description>
-            <pubDate>2023.05.16</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/2023hackathon</guid>
-            <link>https://news.perlfoundation.org/post/2023hackathon</link>
-            
-            
-            
-            <author><![CDATA[amber_deuel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[perldelta v5.38.0 (Draft)]]></title>
-            <description><![CDATA[What will change in the next version of Perl?]]></description>
-            <pubDate>2023.05.21</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/13nyyvp/perldelta_v5380_draft/</guid>
-            <link>https://www.reddit.com/r/perl/comments/13nyyvp/perldelta_v5380_draft/</link>
+            <title><![CDATA[This week in PSC (108)]]></title>
+            <description><![CDATA[Are you waiting for Perl v5.38? Good news, no blocker and ready for RC1. Hurray!!!]]></description>
+            <pubDate>2023.05.26</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/05/this-week-in-psc-108.html</guid>
+            <link>https://blogs.perl.org/users/psc/2023/05/this-week-in-psc-108.html</link>
             
             
             
@@ -66,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Friday card game - metadata]]></title>
-            <description><![CDATA[Friday is a solo board game. Sounds interesting.]]></description>
-            <pubDate>2023.05.21</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/21/friday-card-games-metadata/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/05/21/friday-card-games-metadata/</link>
+            <title><![CDATA[Relying on CPAN modules]]></title>
+            <description><![CDATA[Interesting topic to be discussed, specially if you are CPAN fan. Please do checkout.]]></description>
+            <pubDate>2023.05.23</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/23/relying-on-cpan/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/05/23/relying-on-cpan/</link>
             
             
             
@@ -82,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Data::Resolver alternatives yield... alternatives]]></title>
-            <description><![CDATA[Data::Resolver provides both a unified interface to resolve keys to data (available as file, filehandle, or in-memory), as well as a few concrete implementations to do this on the filesystem and with TAR files.]]></description>
-            <pubDate>2023.05.20</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/20/data-resolver-alternatives/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/05/20/data-resolver-alternatives/</link>
+            <title><![CDATA[Data::Resolver tricky test]]></title>
+            <description><![CDATA[If you are into testing then this is for you. Interesting use case.]]></description>
+            <pubDate>2023.05.24</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/24/data-resolver-tricky-test/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/05/24/data-resolver-tricky-test/</link>
             
             
             
@@ -98,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Top 10 Cloud Provider Comparison 2023: VM Performance / Price]]></title>
-            <description><![CDATA[I always feel overwhelmed when I need to select a VM on one of the cloud providers. What do the different CPU types mean? How will the impact the performance of my application? etc.]]></description>
-            <pubDate>2023.05.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/dkechag/cloud-vm-performance-value-comparison-2023-perl-more-1kpp</guid>
-            <link>https://dev.to/dkechag/cloud-vm-performance-value-comparison-2023-perl-more-1kpp</link>
+            <title><![CDATA[Coding discipline: resist premature generalization]]></title>
+            <description><![CDATA[factor or re-factor? Find the answer in the post.]]></description>
+            <pubDate>2023.05.28</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/28/premature-generalization/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/05/28/premature-generalization/</link>
             
             
             
-            <author><![CDATA[dimitrios_kechagias]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mission (Almost) Accomplished]]></title>
-            <description><![CDATA[Dave writes: 'This is, of course, a supremely unimportant fix in the grand scheme of things. But I think it illustrates an important issue that the Perl community should be thinking about. The community is shrinking. Or, at least, the part of the community that supports CPAN modules and runs our important infrastructure is shrinking. CPAN is full of modules that are now unsupported.' You can comment on this <a href="https://dev.to/davorg/mission-almost-accomplished-3ccg">here</a>.]]></description>
-            <pubDate>2023.05.17</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2023/05/mission-almost-accomplished/</guid>
-            <link>https://perlhacks.com/2023/05/mission-almost-accomplished/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -130,15 +82,31 @@
         </item>
         
         <item>
-            <title><![CDATA[HTTP-Tiny: verify_SSL (Draft PR)]]></title>
-            <description><![CDATA[Apparently there is a security issue with HTTP::Tiny. Here is the pull-request if you'd like to comment.]]></description>
-            <pubDate>2023.05.21</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/13o61ix/httptiny_verify_ssl_draft_pr/</guid>
-            <link>https://www.reddit.com/r/perl/comments/13o61ix/httptiny_verify_ssl_draft_pr/</link>
+            <title><![CDATA[Data::Resolver refactoring]]></title>
+            <description><![CDATA[Trying new OOP interface. Is it worth it?]]></description>
+            <pubDate>2023.05.22</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/05/22/data-resolver-refactoring/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/05/22/data-resolver-refactoring/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.21 Maxcinating]]></title>
+            <description><![CDATA[2023.21 Maxcinating]]></description>
+            <pubDate>2023.05.22</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/05/22/2023-21-maxcinating/</guid>
+            <link>https://rakudoweekly.blog/2023/05/22/2023-21-maxcinating/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -147,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/05/cdxliv-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/05/dlvi-metacpan-weekly-report-lingy.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/05/dlxxxi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.05.21</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/05/cdxlv-5-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/05/dlvii-metacpan-weekly-report-openaigpt4.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2023.05.27</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -162,11 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[The risk of Open Source vs. proprietary 3rd party libraries]]></title>
-            <description><![CDATA[Using 3rd party libraries always have risks. If you buy them from a company you might have the fuzzy feeling that you will be supported no matter what. If you use Open Source you might be exposed to risk that a purchase of propriatary package hides from you.]]></description>
-            <pubDate>2023.05.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/szabgab/the-risk-of-open-source-vs-proprietary-3rd-party-libraries-2dfb</guid>
-            <link>https://dev.to/szabgab/the-risk-of-open-source-vs-proprietary-3rd-party-libraries-2dfb</link>
+            <title><![CDATA[The risk of using Open Source libraries - do you have the source code?]]></title>
+            <description><![CDATA[This is part of a series discussing the risks and costs of using Open Source 3rd party libraries. That is, CPAN modules in Perl.]]></description>
+            <pubDate>2023.05.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/the-risk-of-using-open-source-libraries-do-you-have-the-source-code-4f6</guid>
+            <link>https://dev.to/szabgab/the-risk-of-using-open-source-libraries-do-you-have-the-source-code-4f6</link>
             
             
             
