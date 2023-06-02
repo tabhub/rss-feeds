@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Learn x86-64 assembly by writing a GUI from scratch]]></title>
-            <description><![CDATA[576 points | <a href=https://news.ycombinator.com/item?id=36153237 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[577 points | <a href=https://news.ycombinator.com/item?id=36153237 target=_blank>132 comments</a>]]></description>
             <pubDate>2023-06-01T16:11:07.000Z</pubDate>
             <guid isPermaLink="false">https://gaultier.github.io/blog/x11_x64.html</guid>
             <link>https://gaultier.github.io/blog/x11_x64.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[I went down the rabbit hole of buying GitHub Stars, so you won't have to]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=36151140 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=36151140 target=_blank>165 comments</a>]]></description>
             <pubDate>2023-06-01T14:02:31.000Z</pubDate>
             <guid isPermaLink="false">https://the-guild.dev/blog/judging-open-source-by-github-stars</guid>
             <link>https://the-guild.dev/blog/judging-open-source-by-github-stars</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Was modern art a CIA psy-op? (2020)]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=36155204 target=_blank>306 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=36155204 target=_blank>307 comments</a>]]></description>
             <pubDate>2023-06-01T18:23:33.000Z</pubDate>
             <guid isPermaLink="false">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</guid>
             <link>https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Vectorization: Introduction]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=36156444 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=36156444 target=_blank>73 comments</a>]]></description>
             <pubDate>2023-06-01T19:50:56.000Z</pubDate>
             <guid isPermaLink="false">https://cvw.cac.cornell.edu/vector/default</guid>
             <link>https://cvw.cac.cornell.edu/vector/default</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Brave Browser introduces vertical tabs]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=36154692 target=_blank>224 comments</a>]]></description>
-            <pubDate>2023-06-01T17:44:44.000Z</pubDate>
-            <guid isPermaLink="false">https://brave.com/vertical-tabs/</guid>
-            <link>https://brave.com/vertical-tabs/</link>
-            
-            
-            
-            <author><![CDATA[czottmann]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Radiation-hardened Quine: A quine that works after any one character is deleted]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=36162164 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=36162164 target=_blank>64 comments</a>]]></description>
             <pubDate>2023-06-02T07:28:49.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/mame/radiation-hardened-quine</guid>
             <link>https://github.com/mame/radiation-hardened-quine</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Brave Browser introduces vertical tabs]]></title>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=36154692 target=_blank>225 comments</a>]]></description>
+            <pubDate>2023-06-01T17:44:44.000Z</pubDate>
+            <guid isPermaLink="false">https://brave.com/vertical-tabs/</guid>
+            <link>https://brave.com/vertical-tabs/</link>
+            
+            
+            
+            <author><![CDATA[czottmann]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[SQL:2023 has been released]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=36154102 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=36154102 target=_blank>124 comments</a>]]></description>
             <pubDate>2023-06-01T17:05:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.iso.org/standard/76584.html</guid>
             <link>https://www.iso.org/standard/76584.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[How to make fancy road trip maps with R and OpenStreetMap]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=36159864 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=36159864 target=_blank>66 comments</a>]]></description>
             <pubDate>2023-06-02T01:45:57.000Z</pubDate>
             <guid isPermaLink="false">https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/</guid>
             <link>https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[OpenAI Employee: GPT-4 has been static since March]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=36155267 target=_blank>268 comments</a>]]></description>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=36155267 target=_blank>268 comments</a>]]></description>
             <pubDate>2023-06-01T18:27:44.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/OfficialLoganK/status/1663934947931897857</guid>
             <link>https://twitter.com/OfficialLoganK/status/1663934947931897857</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[It’s not wrong that "🤦🏼‍♂️".length == 7 (2019)]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=36159443 target=_blank>207 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=36159443 target=_blank>210 comments</a>]]></description>
             <pubDate>2023-06-02T00:51:09.000Z</pubDate>
             <guid isPermaLink="false">https://hsivonen.fi/string-length/</guid>
             <link>https://hsivonen.fi/string-length/</link>
