@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Learn x86-64 assembly by writing a GUI from scratch]]></title>
-            <description><![CDATA[565 points | <a href=https://news.ycombinator.com/item?id=36153237 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[571 points | <a href=https://news.ycombinator.com/item?id=36153237 target=_blank>131 comments</a>]]></description>
             <pubDate>2023-06-01T16:11:07.000Z</pubDate>
             <guid isPermaLink="false">https://gaultier.github.io/blog/x11_x64.html</guid>
             <link>https://gaultier.github.io/blog/x11_x64.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Who is hiring? (June 2023)]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=36152014 target=_blank>375 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=36152014 target=_blank>375 comments</a>]]></description>
             <pubDate>2023-06-01T15:01:48.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=36152014</guid>
             <link>https://news.ycombinator.com/item?id=36152014</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Vectorization: Introduction]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=36156444 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=36156444 target=_blank>72 comments</a>]]></description>
             <pubDate>2023-06-01T19:50:56.000Z</pubDate>
             <guid isPermaLink="false">https://cvw.cac.cornell.edu/vector/default</guid>
             <link>https://cvw.cac.cornell.edu/vector/default</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[SQL:2023 has been released]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=36154102 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=36154102 target=_blank>124 comments</a>]]></description>
             <pubDate>2023-06-01T17:05:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.iso.org/standard/76584.html</guid>
             <link>https://www.iso.org/standard/76584.html</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenAI Employee: GPT-4 has been static since March]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=36155267 target=_blank>266 comments</a>]]></description>
-            <pubDate>2023-06-01T18:27:44.000Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OfficialLoganK/status/1663934947931897857</guid>
-            <link>https://twitter.com/OfficialLoganK/status/1663934947931897857</link>
-            
-            
-            
-            <author><![CDATA[behnamoh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Radiation-hardened Quine: A quine that works after any one character is deleted]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=36162164 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=36162164 target=_blank>58 comments</a>]]></description>
             <pubDate>2023-06-02T07:28:49.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/mame/radiation-hardened-quine</guid>
             <link>https://github.com/mame/radiation-hardened-quine</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[OpenAI Employee: GPT-4 has been static since March]]></title>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=36155267 target=_blank>267 comments</a>]]></description>
+            <pubDate>2023-06-01T18:27:44.000Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OfficialLoganK/status/1663934947931897857</guid>
+            <link>https://twitter.com/OfficialLoganK/status/1663934947931897857</link>
+            
+            
+            
+            <author><![CDATA[behnamoh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[It’s not wrong that "🤦🏼‍♂️".length == 7 (2019)]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=36159443 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=36159443 target=_blank>194 comments</a>]]></description>
             <pubDate>2023-06-02T00:51:09.000Z</pubDate>
             <guid isPermaLink="false">https://hsivonen.fi/string-length/</guid>
             <link>https://hsivonen.fi/string-length/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Own-goal football (2022)]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=36153970 target=_blank>169 comments</a>]]></description>
-            <pubDate>2023-06-01T16:55:59.000Z</pubDate>
-            <guid isPermaLink="false">https://generalist.academy/2022/06/07/own-goal-football/</guid>
-            <link>https://generalist.academy/2022/06/07/own-goal-football/</link>
+            <title><![CDATA[How to make fancy road trip maps with R and OpenStreetMap]]></title>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=36159864 target=_blank>63 comments</a>]]></description>
+            <pubDate>2023-06-02T01:45:57.000Z</pubDate>
+            <guid isPermaLink="false">https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/</guid>
+            <link>https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/</link>
             
             
             
-            <author><![CDATA[colinprince]]></author>
+            <author><![CDATA[sebg]]></author>
             
                 
             
