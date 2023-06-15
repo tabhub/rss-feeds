@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Native JSON Output from GPT-4]]></title>
-            <description><![CDATA[562 points | <a href=https://news.ycombinator.com/item?id=36330972 target=_blank>235 comments</a>]]></description>
+            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=36330972 target=_blank>235 comments</a>]]></description>
             <pubDate>2023-06-14T19:07:43.000Z</pubDate>
             <guid isPermaLink="false">https://yonom.substack.com/p/native-json-output-from-gpt-4</guid>
             <link>https://yonom.substack.com/p/native-json-output-from-gpt-4</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted]]></title>
-            <description><![CDATA[515 points | <a href=https://news.ycombinator.com/item?id=36328433 target=_blank>305 comments</a>]]></description>
+            <description><![CDATA[515 points | <a href=https://news.ycombinator.com/item?id=36328433 target=_blank>306 comments</a>]]></description>
             <pubDate>2023-06-14T16:32:52.000Z</pubDate>
             <guid isPermaLink="false">https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php</guid>
             <link>https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[On the slow productivity of John Wick]]></title>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=36335104 target=_blank>162 comments</a>]]></description>
+            <pubDate>2023-06-15T01:04:46.000Z</pubDate>
+            <guid isPermaLink="false">https://calnewport.com/on-the-slow-productivity-of-john-wick/</guid>
+            <link>https://calnewport.com/on-the-slow-productivity-of-john-wick/</link>
+            
+            
+            
+            <author><![CDATA[lawgimenez]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[APIs for content sites must be free]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=36328320 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=36328320 target=_blank>285 comments</a>]]></description>
             <pubDate>2023-06-14T16:25:41.000Z</pubDate>
             <guid isPermaLink="false">https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html</guid>
             <link>https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html</link>
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[On the slow productivity of John Wick]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=36335104 target=_blank>161 comments</a>]]></description>
-            <pubDate>2023-06-15T01:04:46.000Z</pubDate>
-            <guid isPermaLink="false">https://calnewport.com/on-the-slow-productivity-of-john-wick/</guid>
-            <link>https://calnewport.com/on-the-slow-productivity-of-john-wick/</link>
-            
-            
-            
-            <author><![CDATA[lawgimenez]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Effective Rust]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=36338529 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=36338529 target=_blank>122 comments</a>]]></description>
             <pubDate>2023-06-15T10:29:16.000Z</pubDate>
             <guid isPermaLink="false">https://www.lurklurk.org/effective-rust/</guid>
             <link>https://www.lurklurk.org/effective-rust/</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[FL33TW00D]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Our Plan for Python 3.13]]></title>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=36339777 target=_blank>144 comments</a>]]></description>
+            <pubDate>2023-06-15T12:55:55.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/faster-cpython/ideas/blob/main/3.13/README.md</guid>
+            <link>https://github.com/faster-cpython/ideas/blob/main/3.13/README.md</link>
+            
+            
+            
+            <author><![CDATA[bratao]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[danso]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Twitter is being evicted from its Boulder office over unpaid rent]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=36330812 target=_blank>157 comments</a>]]></description>
-            <pubDate>2023-06-14T18:55:06.000Z</pubDate>
-            <guid isPermaLink="false">https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/</guid>
-            <link>https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
             
                 
             
