@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #620]]></title>
+        <title><![CDATA[Perl Weekly #621]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Why Perl?]]></title>
-            <description><![CDATA[An ode to Perl. And a <a href="https://www.reddit.com/r/perl/comments/144vle4/why_perl/">discussion</a> about it.]]></description>
-            <pubDate>2023.05.28</pubDate>
-            <guid isPermaLink="false">https://two-wrongs.com/why-perl.html</guid>
-            <link>https://two-wrongs.com/why-perl.html</link>
+            <title><![CDATA[Reddit debacle]]></title>
+            <description><![CDATA[I have a love-hate relationship with Reddit. It can be a source of interesting posts, but also some really disgusting comments that go unchallenged. Anyway, this post. And the embedded history lesson!]]></description>
+            <pubDate>2023.06.18</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/18/reddit-debacle/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/06/18/reddit-debacle/</link>
             
             
             
-            <author><![CDATA[chris_two_wrongs]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[On Venus, Moo(se), and Object::Pad (Corinna by proxy)]]></title>
-            <description><![CDATA[This document is a succinct brain dump and stream of consciousness of some of the reasons Al Newkirk created Venus and decided to give it its own custom object system. (What I don't understand is why is this a gist and not a blog post somewhere where people usually read stuff.)]]></description>
-            <pubDate>2023.06.08</pubDate>
-            <guid isPermaLink="false">https://gist.github.com/iamalnewkirk/e1200ea75577e7ae693d7f107ef2b6f9</guid>
-            <link>https://gist.github.com/iamalnewkirk/e1200ea75577e7ae693d7f107ef2b6f9</link>
-            
-            
-            
-            <author><![CDATA[al_newkirk]]></author>
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -50,15 +34,63 @@
         </item>
         
         <item>
-            <title><![CDATA[MooseX::Extended versus the debugger]]></title>
-            <description><![CDATA[MooseX::Extended versus the debugger]]></description>
-            <pubDate>2023.06.06</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ovid/2023/06/moosexextended-versus-the-debugger.html</guid>
-            <link>https://blogs.perl.org/users/ovid/2023/06/moosexextended-versus-the-debugger.html</link>
+            <title><![CDATA[Profiling Perl under Apache]]></title>
+            <description><![CDATA[In case you still use mod_perl and would like to know where does your code spend time.]]></description>
+            <pubDate>2023.06.16</pubDate>
+            <guid isPermaLink="false">https://dev.to/dkechag/profiling-perl-under-apache-4bde</guid>
+            <link>https://dev.to/dkechag/profiling-perl-under-apache-4bde</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
+            <author><![CDATA[dimitrios_kechagias]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What are some Mojolicious plugins/helpers you always use, and why?]]></title>
+            <description><![CDATA[What are some Mojolicious plugins/helpers you always use, and why?]]></description>
+            <pubDate>2023.06.17</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/14bj9oq/what_are_some_mojolicious_pluginshelpers_you/</guid>
+            <link>https://www.reddit.com/r/perl/comments/14bj9oq/what_are_some_mojolicious_pluginshelpers_you/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Zip bombs and quine.zip]]></title>
+            <description><![CDATA[This is the occasion when I have no clue what Flavio is talking about... OK, I clicked on the quine.zip link and then went back to his post. Now I think I understand it better. Nice and scary puzzle.]]></description>
+            <pubDate>2023.06.17</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/17/quine-zip/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/06/17/quine-zip/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Log::Any::Adapter::Log4perlTiny]]></title>
+            <description><![CDATA[Log::Any provides a standard log production API for modules. Log::Any::Adapter allows applications to choose the mechanism for log consumption, whether screen, file or another logging mechanism like Log::Dispatch or Log::Log4perl.]]></description>
+            <pubDate>2023.06.14</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/14/log-any-adapter-log4perltiny/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/06/14/log-any-adapter-log4perltiny/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
             
                 
             
@@ -67,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/06/cdxlvii-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/06/dlviii-metacpan-weekly-report-openaigpt4.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/06/dlxxxiii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.06.11</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/06/cdxlviii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/06/dlix-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;]]></description>
+            <pubDate>2023.06.17</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
