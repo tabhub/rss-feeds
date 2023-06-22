@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Making Figma better for developers with Dev Mode]]></title>
-            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=36420712 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=36420712 target=_blank>177 comments</a>]]></description>
             <pubDate>2023-06-21T16:31:42.000Z</pubDate>
             <guid isPermaLink="false">https://www.figma.com/blog/introducing-dev-mode/</guid>
             <link>https://www.figma.com/blog/introducing-dev-mode/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Maps distort how we see the world]]></title>
-            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=36421315 target=_blank>200 comments</a>]]></description>
+            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=36421315 target=_blank>201 comments</a>]]></description>
             <pubDate>2023-06-21T17:08:55.000Z</pubDate>
             <guid isPermaLink="false">https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world</guid>
             <link>https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=36418713 target=_blank>223 comments</a>]]></description>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=36418713 target=_blank>224 comments</a>]]></description>
             <pubDate>2023-06-21T14:14:11.000Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html</guid>
             <link>https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Red Hat cutting back RHEL source availability]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=36420259 target=_blank>258 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=36420259 target=_blank>258 comments</a>]]></description>
             <pubDate>2023-06-21T16:00:14.000Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/Articles/935592/</guid>
             <link>https://lwn.net/Articles/935592/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Ask HN: What is the morale like inside Reddit, as an employee?]]></title>
-            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=36421483 target=_blank>177 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=36421483 target=_blank>178 comments</a>]]></description>
             <pubDate>2023-06-21T17:20:23.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=36421483</guid>
             <link>https://news.ycombinator.com/item?id=36421483</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Linux Namespaces Are a Poor Man's Plan 9 Namespaces]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=36414493 target=_blank>265 comments</a>]]></description>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=36414493 target=_blank>265 comments</a>]]></description>
             <pubDate>2023-06-21T04:45:57.000Z</pubDate>
             <guid isPermaLink="false">https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/</guid>
             <link>https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/</link>
@@ -139,6 +139,22 @@
             
             
             <author><![CDATA[jandeboevrie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Go 1.21 Release Candidate]]></title>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=36423622 target=_blank>170 comments</a>]]></description>
+            <pubDate>2023-06-21T20:04:15.000Z</pubDate>
+            <guid isPermaLink="false">https://go.dev/blog/go1.21rc</guid>
+            <link>https://go.dev/blog/go1.21rc</link>
+            
+            
+            
+            <author><![CDATA[pk2200]]></author>
             
                 
             
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Go 1.21 Release Candidate]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=36423622 target=_blank>169 comments</a>]]></description>
-            <pubDate>2023-06-21T20:04:15.000Z</pubDate>
-            <guid isPermaLink="false">https://go.dev/blog/go1.21rc</guid>
-            <link>https://go.dev/blog/go1.21rc</link>
-            
-            
-            
-            <author><![CDATA[pk2200]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Humans aren’t mentally ready for an AI-saturated ‘post-truth world’]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=36417252 target=_blank>435 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=36417252 target=_blank>436 comments</a>]]></description>
             <pubDate>2023-06-21T11:46:10.000Z</pubDate>
             <guid isPermaLink="false">https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/</guid>
             <link>https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/</link>
