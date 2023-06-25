@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Everything that uses configuration files should report where they're located]]></title>
-            <description><![CDATA[1179 points | <a href=https://news.ycombinator.com/item?id=36465886 target=_blank>372 comments</a>]]></description>
+            <description><![CDATA[1191 points | <a href=https://news.ycombinator.com/item?id=36465886 target=_blank>372 comments</a>]]></description>
             <pubDate>2023-06-25T07:50:11.000Z</pubDate>
             <guid isPermaLink="false">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations</guid>
             <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The 'fuck you' pattern]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=36467224 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=36467224 target=_blank>252 comments</a>]]></description>
             <pubDate>2023-06-25T11:48:36.000Z</pubDate>
             <guid isPermaLink="false">https://cedwards.xyz/the-fuck-you-pattern/</guid>
             <link>https://cedwards.xyz/the-fuck-you-pattern/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Open-source resume builder and parser]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=36470297 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=36470297 target=_blank>77 comments</a>]]></description>
             <pubDate>2023-06-25T17:00:36.000Z</pubDate>
             <guid isPermaLink="false">https://www.open-resume.com/</guid>
             <link>https://www.open-resume.com/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Many in the AI field think the bigger-is-better approach is running out of road]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=36462282 target=_blank>305 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=36462282 target=_blank>305 comments</a>]]></description>
             <pubDate>2023-06-24T20:12:18.000Z</pubDate>
             <guid isPermaLink="false">https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road</guid>
             <link>https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Tintin, Hergé and Chang]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=36468028 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=36468028 target=_blank>89 comments</a>]]></description>
             <pubDate>2023-06-25T13:33:45.000Z</pubDate>
             <guid isPermaLink="false">https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world</guid>
             <link>https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Air quality reporting on iOS]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=36467043 target=_blank>74 comments</a>]]></description>
-            <pubDate>2023-06-25T11:20:07.000Z</pubDate>
-            <guid isPermaLink="false">https://intergalactic.systems/posts/post-1965946732.html</guid>
-            <link>https://intergalactic.systems/posts/post-1965946732.html</link>
-            
-            
-            
-            <author><![CDATA[owl110]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=36465572 target=_blank>20 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=36465572 target=_blank>21 comments</a>]]></description>
             <pubDate>2023-06-25T06:30:23.000Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=NX7GHqq28uU</guid>
             <link>https://www.youtube.com/watch?v=NX7GHqq28uU</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Air quality reporting on iOS]]></title>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=36467043 target=_blank>74 comments</a>]]></description>
+            <pubDate>2023-06-25T11:20:07.000Z</pubDate>
+            <guid isPermaLink="false">https://intergalactic.systems/posts/post-1965946732.html</guid>
+            <link>https://intergalactic.systems/posts/post-1965946732.html</link>
+            
+            
+            
+            <author><![CDATA[owl110]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LastPass users locked out due to MFA resets]]></title>
-            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=36467400 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=36467400 target=_blank>187 comments</a>]]></description>
             <pubDate>2023-06-25T12:15:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/</guid>
             <link>https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]]]></title>
-            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=36463810 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=36463810 target=_blank>74 comments</a>]]></description>
             <pubDate>2023-06-24T23:51:00.000Z</pubDate>
             <guid isPermaLink="false">https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf</guid>
             <link>https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf</link>
