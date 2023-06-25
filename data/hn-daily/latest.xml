@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Everything that uses configuration files should report where they're located]]></title>
-            <description><![CDATA[966 points | <a href=https://news.ycombinator.com/item?id=36465886 target=_blank>320 comments</a>]]></description>
+            <description><![CDATA[981 points | <a href=https://news.ycombinator.com/item?id=36465886 target=_blank>325 comments</a>]]></description>
             <pubDate>2023-06-25T07:50:11.000Z</pubDate>
             <guid isPermaLink="false">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations</guid>
             <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Russian paramilitary chief says his forces will turn around]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=36460937 target=_blank>469 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=36460937 target=_blank>469 comments</a>]]></description>
             <pubDate>2023-06-24T17:49:07.000Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/live/2023/06/24/world/russia-ukraine-news</guid>
             <link>https://www.nytimes.com/live/2023/06/24/world/russia-ukraine-news</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Many in the AI field think the bigger-is-better approach is running out of road]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=36462282 target=_blank>290 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=36462282 target=_blank>292 comments</a>]]></description>
             <pubDate>2023-06-24T20:12:18.000Z</pubDate>
             <guid isPermaLink="false">https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road</guid>
             <link>https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[LastPass users locked out due to MFA resets]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=36467400 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=36467400 target=_blank>173 comments</a>]]></description>
             <pubDate>2023-06-25T12:15:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/</guid>
             <link>https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[jonathanzufi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The 'fuck you' pattern]]></title>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=36467224 target=_blank>141 comments</a>]]></description>
+            <pubDate>2023-06-25T11:48:36.000Z</pubDate>
+            <guid isPermaLink="false">https://cedwards.xyz/the-fuck-you-pattern/</guid>
+            <link>https://cedwards.xyz/the-fuck-you-pattern/</link>
+            
+            
+            
+            <author><![CDATA[keepamovin]]></author>
             
                 
             
@@ -146,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Ways to say no with grace and style (2021)]]></title>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=36467826 target=_blank>91 comments</a>]]></description>
+            <pubDate>2023-06-25T13:07:10.000Z</pubDate>
+            <guid isPermaLink="false">https://fs.blog/saying-no/</guid>
+            <link>https://fs.blog/saying-no/</link>
+            
+            
+            
+            <author><![CDATA[keepamovin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]]]></title>
             <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=36463810 target=_blank>72 comments</a>]]></description>
             <pubDate>2023-06-24T23:51:00.000Z</pubDate>
@@ -162,47 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The 'fuck you' pattern]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=36467224 target=_blank>138 comments</a>]]></description>
-            <pubDate>2023-06-25T11:48:36.000Z</pubDate>
-            <guid isPermaLink="false">https://cedwards.xyz/the-fuck-you-pattern/</guid>
-            <link>https://cedwards.xyz/the-fuck-you-pattern/</link>
+            <title><![CDATA[Air quality reporting on iOS]]></title>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=36467043 target=_blank>66 comments</a>]]></description>
+            <pubDate>2023-06-25T11:20:07.000Z</pubDate>
+            <guid isPermaLink="false">https://intergalactic.systems/posts/post-1965946732.html</guid>
+            <link>https://intergalactic.systems/posts/post-1965946732.html</link>
             
             
             
-            <author><![CDATA[keepamovin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ways to say no with grace and style (2021)]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=36467826 target=_blank>90 comments</a>]]></description>
-            <pubDate>2023-06-25T13:07:10.000Z</pubDate>
-            <guid isPermaLink="false">https://fs.blog/saying-no/</guid>
-            <link>https://fs.blog/saying-no/</link>
-            
-            
-            
-            <author><![CDATA[keepamovin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NHTSA: Car crashes cost Americans $340B]]></title>
-            <description><![CDATA[130 points | <a href=https://news.ycombinator.com/item?id=36463188 target=_blank>175 comments</a>]]></description>
-            <pubDate>2023-06-24T22:25:21.000Z</pubDate>
-            <guid isPermaLink="false">https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019</guid>
-            <link>https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019</link>
-            
-            
-            
-            <author><![CDATA[doener]]></author>
+            <author><![CDATA[owl110]]></author>
             
                 
             
