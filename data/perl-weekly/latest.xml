@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #621]]></title>
+        <title><![CDATA[Perl Weekly #622]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,43 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Reddit debacle]]></title>
-            <description><![CDATA[I have a love-hate relationship with Reddit. It can be a source of interesting posts, but also some really disgusting comments that go unchallenged. Anyway, this post. And the embedded history lesson!]]></description>
-            <pubDate>2023.06.18</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/18/reddit-debacle/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/06/18/reddit-debacle/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Profiling Perl under Apache]]></title>
-            <description><![CDATA[In case you still use mod_perl and would like to know where does your code spend time.]]></description>
-            <pubDate>2023.06.16</pubDate>
-            <guid isPermaLink="false">https://dev.to/dkechag/profiling-perl-under-apache-4bde</guid>
-            <link>https://dev.to/dkechag/profiling-perl-under-apache-4bde</link>
-            
-            
-            
-            <author><![CDATA[dimitrios_kechagias]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What are some Mojolicious plugins/helpers you always use, and why?]]></title>
-            <description><![CDATA[What are some Mojolicious plugins/helpers you always use, and why?]]></description>
-            <pubDate>2023.06.17</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/14bj9oq/what_are_some_mojolicious_pluginshelpers_you/</guid>
-            <link>https://www.reddit.com/r/perl/comments/14bj9oq/what_are_some_mojolicious_pluginshelpers_you/</link>
+            <title><![CDATA[Celebrate Perl 5.38 with Limited Edition merch!]]></title>
+            <description><![CDATA[What a treat for all Perl fans. Please do get your favourite items.]]></description>
+            <pubDate>2023.06.24</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/tprfmarketing/2023/06/celebrate-perl-538-with-limited-edition-merch.html</guid>
+            <link>https://blogs.perl.org/users/tprfmarketing/2023/06/celebrate-perl-538-with-limited-edition-merch.html</link>
             
             
             
@@ -66,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Zip bombs and quine.zip]]></title>
-            <description><![CDATA[This is the occasion when I have no clue what Flavio is talking about... OK, I clicked on the quine.zip link and then went back to his post. Now I think I understand it better. Nice and scary puzzle.]]></description>
-            <pubDate>2023.06.17</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/17/quine-zip/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/06/17/quine-zip/</link>
+            <title><![CDATA[Recursive closure]]></title>
+            <description><![CDATA[Please do checkout the little refresher about closure in Perl. Incredible work.]]></description>
+            <pubDate>2023.06.19</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/19/recursive-closure/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/06/19/recursive-closure/</link>
             
             
             
@@ -82,15 +50,79 @@
         </item>
         
         <item>
-            <title><![CDATA[Log::Any::Adapter::Log4perlTiny]]></title>
-            <description><![CDATA[Log::Any provides a standard log production API for modules. Log::Any::Adapter allows applications to choose the mechanism for log consumption, whether screen, file or another logging mechanism like Log::Dispatch or Log::Log4perl.]]></description>
-            <pubDate>2023.06.14</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/14/log-any-adapter-log4perltiny/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/06/14/log-any-adapter-log4perltiny/</link>
+            <title><![CDATA[Using Docker to Fix a Perl 5.37 Test Failure]]></title>
+            <description><![CDATA[Another gem of blog showing how Docker can be used to fix an error in Perl v5.37.]]></description>
+            <pubDate>2023.06.05</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2023/06/05/docker-fix-perl-test-failure/</guid>
+            <link>https://www.olafalders.com/2023/06/05/docker-fix-perl-test-failure/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RDAP is the new WHOIS]]></title>
+            <description><![CDATA[Nice introduction to RDAP. Thanks for sharing the knowledge.]]></description>
+            <pubDate>2023.06.20</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/20/rdap-is-the-new-whois/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/06/20/rdap-is-the-new-whois/</link>
             
             
             
             <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ValiDNS is useable]]></title>
+            <description><![CDATA[A very handy tool for all system administrators. This must be bookmarked.]]></description>
+            <pubDate>2023.06.24</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/06/24/validns-is-useable/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/06/24/validns-is-useable/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloud Provider Price Performance Comparison: Spot VMs]]></title>
+            <description><![CDATA[Please checkout the update with regard to the Spot VM pricing.]]></description>
+            <pubDate>2023.06.25</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dimitrios_kechagias/2023/06/cloud-provider-price-performance-comparison-spot-vms.html</guid>
+            <link>https://blogs.perl.org/users/dimitrios_kechagias/2023/06/cloud-provider-price-performance-comparison-spot-vms.html</link>
+            
+            
+            
+            <author><![CDATA[dimitrios_kechagias]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.25 Recollections]]></title>
+            <description><![CDATA[2023.25 Recollections]]></description>
+            <pubDate>2023.06.19</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/06/19/2023-25-recollections/</guid>
+            <link>https://rakudoweekly.blog/2023/06/19/2023-25-recollections/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -99,14 +131,62 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/06/cdxlviii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/06/dlix-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;]]></description>
-            <pubDate>2023.06.17</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/06/cdxlix-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/06/dlx-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/06/dlxxxiv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.06.24</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Why contribute to Open Source?]]></title>
+            <description><![CDATA[Why contribute to Open Source?]]></description>
+            <pubDate>2023.06.26</pubDate>
+            <guid isPermaLink="false">https://osdc.code-maven.com/why-contribute-to-open-source</guid>
+            <link>https://osdc.code-maven.com/why-contribute-to-open-source</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Only internally vetted and approved Open Source libraries can be used]]></title>
+            <description><![CDATA[Part of a new series of articles on the OSDC web site. I also repost them on <a href="https://dev.to/szabgab/only-internally-vetted-and-approved-open-source-libraries-can-be-used-4m1i">dev.to</a> to make it easy to comment on then, and if you'd like to discuss the topics, I'd like to invite you to the OSDC Community. See next entry:]]></description>
+            <pubDate>2023.06.25</pubDate>
+            <guid isPermaLink="false">https://osdc.code-maven.com/articles/only-internally-vetted-and-approved-libraries-can-be-used</guid>
+            <link>https://osdc.code-maven.com/articles/only-internally-vetted-and-approved-libraries-can-be-used</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Open Source Development Community]]></title>
+            <description><![CDATA[I have started the creation of community for people who would like to contribute to open source but are unsure where to start to get help. We use a <a href="https://osdc.zulipchat.com/">Zulip instance for communication. I'd be glad to see you join and ask questions there.]]></description>
+            <pubDate>2023.06.26</pubDate>
+            <guid isPermaLink="false">https://osdc.code-maven.com/community</guid>
+            <link>https://osdc.code-maven.com/community</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
