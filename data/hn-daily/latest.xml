@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[We raised a bunch of money]]></title>
-            <description><![CDATA[612 points | <a href=https://news.ycombinator.com/item?id=36506865 target=_blank>442 comments</a>]]></description>
-            <pubDate>2023-06-28T14:18:12.000Z</pubDate>
-            <guid isPermaLink="false">https://fly.io/blog/we-raised-a-bunch-of-money/</guid>
-            <link>https://fly.io/blog/we-raised-a-bunch-of-money/</link>
-            
-            
-            
-            <author><![CDATA[charliermarsh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=36508811 target=_blank>200 comments</a>]]></description>
+            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=36508811 target=_blank>200 comments</a>]]></description>
             <pubDate>2023-06-28T16:28:25.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/jetpack-io/typeid</guid>
             <link>https://github.com/jetpack-io/typeid</link>
@@ -43,6 +27,22 @@
             
             
             <author><![CDATA[dloreto]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CLI tools hidden in the Python standard library]]></title>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=36515531 target=_blank>91 comments</a>]]></description>
+            <pubDate>2023-06-29T02:15:16.000Z</pubDate>
+            <guid isPermaLink="false">https://til.simonwillison.net/python/stdlib-cli-tools</guid>
+            <link>https://til.simonwillison.net/python/stdlib-cli-tools</link>
+            
+            
+            
+            <author><![CDATA[swyx]]></author>
             
                 
             
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[CLI tools hidden in the Python standard library]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=36515531 target=_blank>88 comments</a>]]></description>
-            <pubDate>2023-06-29T02:15:16.000Z</pubDate>
-            <guid isPermaLink="false">https://til.simonwillison.net/python/stdlib-cli-tools</guid>
-            <link>https://til.simonwillison.net/python/stdlib-cli-tools</link>
-            
-            
-            
-            <author><![CDATA[swyx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The Awk Programming Language, Second Edition]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=36517525 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=36517525 target=_blank>81 comments</a>]]></description>
             <pubDate>2023-06-29T07:34:55.000Z</pubDate>
             <guid isPermaLink="false">https://awk.dev/</guid>
             <link>https://awk.dev/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Kagi raises $670k]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=36517149 target=_blank>259 comments</a>]]></description>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=36517149 target=_blank>267 comments</a>]]></description>
             <pubDate>2023-06-29T06:38:10.000Z</pubDate>
             <guid isPermaLink="false">https://blog.kagi.com/safe-round</guid>
             <link>https://blog.kagi.com/safe-round</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Google is about to make life more difficult for custom ROM fans]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=36516315 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=36516315 target=_blank>174 comments</a>]]></description>
             <pubDate>2023-06-29T04:32:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/</guid>
             <link>https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=36514936 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=36514936 target=_blank>86 comments</a>]]></description>
             <pubDate>2023-06-29T00:52:21.000Z</pubDate>
             <guid isPermaLink="false">https://blog.salesforceairesearch.com/xgen/</guid>
             <link>https://blog.salesforceairesearch.com/xgen/</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Noticing when an app is only hosted in us-east-1]]></title>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=36511012 target=_blank>159 comments</a>]]></description>
+            <pubDate>2023-06-28T19:03:04.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.jonlu.ca/posts/us-east-1-latency</guid>
+            <link>https://blog.jonlu.ca/posts/us-east-1-latency</link>
+            
+            
+            
+            <author><![CDATA[jonluca]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Junk websites filled w AI-generated text pulling in money from programmatic ads]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=36514063 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=36514063 target=_blank>117 comments</a>]]></description>
             <pubDate>2023-06-28T23:20:19.000Z</pubDate>
             <guid isPermaLink="false">https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/</guid>
             <link>https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Noticing when an app is only hosted in us-east-1]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=36511012 target=_blank>156 comments</a>]]></description>
-            <pubDate>2023-06-28T19:03:04.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.jonlu.ca/posts/us-east-1-latency</guid>
-            <link>https://blog.jonlu.ca/posts/us-east-1-latency</link>
+            <title><![CDATA[Canada’s new tech talent strategy]]></title>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=36516237 target=_blank>272 comments</a>]]></description>
+            <pubDate>2023-06-29T04:17:31.000Z</pubDate>
+            <guid isPermaLink="false">https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html</guid>
+            <link>https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html</link>
             
             
             
-            <author><![CDATA[jonluca]]></author>
+            <author><![CDATA[faramarz]]></author>
             
                 
             
