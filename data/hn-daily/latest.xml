@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[CLI tools hidden in the Python standard library]]></title>
-            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=36515531 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[426 points | <a href=https://news.ycombinator.com/item?id=36515531 target=_blank>109 comments</a>]]></description>
             <pubDate>2023-06-29T02:15:16.000Z</pubDate>
             <guid isPermaLink="false">https://til.simonwillison.net/python/stdlib-cli-tools</guid>
             <link>https://til.simonwillison.net/python/stdlib-cli-tools</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The Awk Programming Language, Second Edition]]></title>
-            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=36517525 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=36517525 target=_blank>93 comments</a>]]></description>
             <pubDate>2023-06-29T07:34:55.000Z</pubDate>
             <guid isPermaLink="false">https://awk.dev/</guid>
             <link>https://awk.dev/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs]]></title>
-            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=36508811 target=_blank>200 comments</a>]]></description>
+            <description><![CDATA[386 points | <a href=https://news.ycombinator.com/item?id=36508811 target=_blank>204 comments</a>]]></description>
             <pubDate>2023-06-28T16:28:25.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/jetpack-io/typeid</guid>
             <link>https://github.com/jetpack-io/typeid</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[National Geographic lays off its last remaining staff writers]]></title>
-            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=36513881 target=_blank>366 comments</a>]]></description>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=36513881 target=_blank>366 comments</a>]]></description>
             <pubDate>2023-06-28T23:01:26.000Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/</guid>
             <link>https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Kagi raises $670k]]></title>
-            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=36517149 target=_blank>296 comments</a>]]></description>
-            <pubDate>2023-06-29T06:38:10.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.kagi.com/safe-round</guid>
-            <link>https://blog.kagi.com/safe-round</link>
-            
-            
-            
-            <author><![CDATA[erwinmatijsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Supreme Court strikes down affirmative action in college admissions]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=36520658 target=_blank>473 comments</a>]]></description>
+            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=36520658 target=_blank>507 comments</a>]]></description>
             <pubDate>2023-06-29T14:16:31.000Z</pubDate>
             <guid isPermaLink="false">https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions</guid>
             <link>https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Kagi raises $670k]]></title>
+            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=36517149 target=_blank>299 comments</a>]]></description>
+            <pubDate>2023-06-29T06:38:10.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.kagi.com/safe-round</guid>
+            <link>https://blog.kagi.com/safe-round</link>
+            
+            
+            
+            <author><![CDATA[erwinmatijsen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Google is about to make life more difficult for custom ROM fans]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=36516315 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=36516315 target=_blank>192 comments</a>]]></description>
             <pubDate>2023-06-29T04:32:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/</guid>
             <link>https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Noticing when an app is only hosted in us-east-1]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=36511012 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=36511012 target=_blank>166 comments</a>]]></description>
             <pubDate>2023-06-28T19:03:04.000Z</pubDate>
             <guid isPermaLink="false">https://blog.jonlu.ca/posts/us-east-1-latency</guid>
             <link>https://blog.jonlu.ca/posts/us-east-1-latency</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Canada’s new tech talent strategy]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=36516237 target=_blank>279 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=36516237 target=_blank>281 comments</a>]]></description>
             <pubDate>2023-06-29T04:17:31.000Z</pubDate>
             <guid isPermaLink="false">https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html</guid>
             <link>https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html</link>
