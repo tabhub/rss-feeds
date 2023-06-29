@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs]]></title>
-            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=36508811 target=_blank>200 comments</a>]]></description>
-            <pubDate>2023-06-28T16:28:25.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/jetpack-io/typeid</guid>
-            <link>https://github.com/jetpack-io/typeid</link>
-            
-            
-            
-            <author><![CDATA[dloreto]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[CLI tools hidden in the Python standard library]]></title>
-            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=36515531 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=36515531 target=_blank>99 comments</a>]]></description>
             <pubDate>2023-06-29T02:15:16.000Z</pubDate>
             <guid isPermaLink="false">https://til.simonwillison.net/python/stdlib-cli-tools</guid>
             <link>https://til.simonwillison.net/python/stdlib-cli-tools</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs]]></title>
+            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=36508811 target=_blank>200 comments</a>]]></description>
+            <pubDate>2023-06-28T16:28:25.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/jetpack-io/typeid</guid>
+            <link>https://github.com/jetpack-io/typeid</link>
+            
+            
+            
+            <author><![CDATA[dloreto]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The Awk Programming Language, Second Edition]]></title>
-            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=36517525 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[371 points | <a href=https://news.ycombinator.com/item?id=36517525 target=_blank>87 comments</a>]]></description>
             <pubDate>2023-06-29T07:34:55.000Z</pubDate>
             <guid isPermaLink="false">https://awk.dev/</guid>
             <link>https://awk.dev/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[National Geographic lays off its last remaining staff writers]]></title>
-            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=36513881 target=_blank>363 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=36513881 target=_blank>365 comments</a>]]></description>
             <pubDate>2023-06-28T23:01:26.000Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/</guid>
             <link>https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Kagi raises $670k]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=36517149 target=_blank>280 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=36517149 target=_blank>283 comments</a>]]></description>
             <pubDate>2023-06-29T06:38:10.000Z</pubDate>
             <guid isPermaLink="false">https://blog.kagi.com/safe-round</guid>
             <link>https://blog.kagi.com/safe-round</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Google is about to make life more difficult for custom ROM fans]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=36516315 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=36516315 target=_blank>189 comments</a>]]></description>
             <pubDate>2023-06-29T04:32:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/</guid>
             <link>https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=36514936 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=36514936 target=_blank>88 comments</a>]]></description>
             <pubDate>2023-06-29T00:52:21.000Z</pubDate>
             <guid isPermaLink="false">https://blog.salesforceairesearch.com/xgen/</guid>
             <link>https://blog.salesforceairesearch.com/xgen/</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Supreme Court strikes down affirmative action in college admissions]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=36520658 target=_blank>304 comments</a>]]></description>
+            <pubDate>2023-06-29T14:16:31.000Z</pubDate>
+            <guid isPermaLink="false">https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions</guid>
+            <link>https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions</link>
+            
+            
+            
+            <author><![CDATA[rbrown]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Noticing when an app is only hosted in us-east-1]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=36511012 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=36511012 target=_blank>162 comments</a>]]></description>
             <pubDate>2023-06-28T19:03:04.000Z</pubDate>
             <guid isPermaLink="false">https://blog.jonlu.ca/posts/us-east-1-latency</guid>
             <link>https://blog.jonlu.ca/posts/us-east-1-latency</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Canada’s new tech talent strategy]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=36516237 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=36516237 target=_blank>278 comments</a>]]></description>
             <pubDate>2023-06-29T04:17:31.000Z</pubDate>
             <guid isPermaLink="false">https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html</guid>
             <link>https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[faramarz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Visa to acquire Brazilian startup Pismo for $1B]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=36513135 target=_blank>110 comments</a>]]></description>
-            <pubDate>2023-06-28T21:51:49.000Z</pubDate>
-            <guid isPermaLink="false">https://www.pismo.io/blog/visa-to-acquire-pismo/</guid>
-            <link>https://www.pismo.io/blog/visa-to-acquire-pismo/</link>
-            
-            
-            
-            <author><![CDATA[jeanlucas]]></author>
             
                 
             
