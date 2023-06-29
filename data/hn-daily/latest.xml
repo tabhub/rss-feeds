@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: Open-source background removal in the browser]]></title>
-            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=36505859 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=36505859 target=_blank>33 comments</a>]]></description>
             <pubDate>2023-06-28T13:07:07.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/imgly/background-removal-js</guid>
             <link>https://github.com/imgly/background-removal-js</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[National Geographic lays off its last remaining staff writers]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=36513881 target=_blank>329 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=36513881 target=_blank>332 comments</a>]]></description>
             <pubDate>2023-06-28T23:01:26.000Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/</guid>
             <link>https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/</link>
@@ -130,22 +130,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Meta developer tools: Working at scale]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=36504554 target=_blank>211 comments</a>]]></description>
-            <pubDate>2023-06-28T10:24:38.000Z</pubDate>
-            <guid isPermaLink="false">https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/</guid>
-            <link>https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/</link>
-            
-            
-            
-            <author><![CDATA[ot]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[BlockSuite: An open-source Notion-like editor with multiplayer support]]></title>
             <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=36505318 target=_blank>89 comments</a>]]></description>
             <pubDate>2023-06-28T12:17:53.000Z</pubDate>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[CLI tools hidden in the Python standard library]]></title>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=36515531 target=_blank>60 comments</a>]]></description>
+            <pubDate>2023-06-29T02:15:16.000Z</pubDate>
+            <guid isPermaLink="false">https://til.simonwillison.net/python/stdlib-cli-tools</guid>
+            <link>https://til.simonwillison.net/python/stdlib-cli-tools</link>
+            
+            
+            
+            <author><![CDATA[swyx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Future CSS: State Container Queries]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=36510745 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=36510745 target=_blank>83 comments</a>]]></description>
             <pubDate>2023-06-28T18:46:14.000Z</pubDate>
             <guid isPermaLink="false">https://ishadeed.com/article/css-state-queries/</guid>
             <link>https://ishadeed.com/article/css-state-queries/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[CLI tools hidden in the Python standard library]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=36515531 target=_blank>52 comments</a>]]></description>
-            <pubDate>2023-06-29T02:15:16.000Z</pubDate>
-            <guid isPermaLink="false">https://til.simonwillison.net/python/stdlib-cli-tools</guid>
-            <link>https://til.simonwillison.net/python/stdlib-cli-tools</link>
+            <title><![CDATA[XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens]]></title>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=36514936 target=_blank>80 comments</a>]]></description>
+            <pubDate>2023-06-29T00:52:21.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.salesforceairesearch.com/xgen/</guid>
+            <link>https://blog.salesforceairesearch.com/xgen/</link>
             
             
             
-            <author><![CDATA[swyx]]></author>
+            <author><![CDATA[bratao]]></author>
             
                 
             
