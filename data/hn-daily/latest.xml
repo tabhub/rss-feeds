@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Sao Paulo: A city with no outdoor advertisements (2013)]]></title>
-            <description><![CDATA[626 points | <a href=https://news.ycombinator.com/item?id=36586632 target=_blank>355 comments</a>]]></description>
+            <description><![CDATA[629 points | <a href=https://news.ycombinator.com/item?id=36586632 target=_blank>357 comments</a>]]></description>
             <pubDate>2023-07-04T13:50:02.000Z</pubDate>
             <guid isPermaLink="false">https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html</guid>
             <link>https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[More than 75% of Steam games tested are playable or verified on the Steam Deck]]></title>
-            <description><![CDATA[603 points | <a href=https://news.ycombinator.com/item?id=36586346 target=_blank>371 comments</a>]]></description>
+            <description><![CDATA[604 points | <a href=https://news.ycombinator.com/item?id=36586346 target=_blank>371 comments</a>]]></description>
             <pubDate>2023-07-04T13:27:41.000Z</pubDate>
             <guid isPermaLink="false">https://mastodon.cloud/@boilingsteam/110655979942850128</guid>
             <link>https://mastodon.cloud/@boilingsteam/110655979942850128</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[How to build a website without frameworks and tons of libraries]]></title>
-            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=36591032 target=_blank>226 comments</a>]]></description>
+            <description><![CDATA[433 points | <a href=https://news.ycombinator.com/item?id=36591032 target=_blank>232 comments</a>]]></description>
             <pubDate>2023-07-04T18:47:55.000Z</pubDate>
             <guid isPermaLink="false">https://www.kodingkitty.com/blog/how-to-build-a-website/</guid>
             <link>https://www.kodingkitty.com/blog/how-to-build-a-website/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Tips for programmers to stay ahead of generative AI]]></title>
-            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=36586248 target=_blank>253 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=36586248 target=_blank>256 comments</a>]]></description>
             <pubDate>2023-07-04T13:17:16.000Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/ai-programming</guid>
             <link>https://spectrum.ieee.org/ai-programming</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[ZFS 2.2.0 (RC): Block Cloning merged]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=36588240 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=36588240 target=_blank>139 comments</a>]]></description>
             <pubDate>2023-07-04T15:46:56.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/openzfs/zfs/pull/13392</guid>
             <link>https://github.com/openzfs/zfs/pull/13392</link>
@@ -139,6 +139,22 @@
             
             
             <author><![CDATA[turrini]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Bottles – Easily run Windows software on Linux]]></title>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=36592930 target=_blank>145 comments</a>]]></description>
+            <pubDate>2023-07-04T21:47:58.000Z</pubDate>
+            <guid isPermaLink="false">https://usebottles.com/</guid>
+            <link>https://usebottles.com/</link>
+            
+            
+            
+            <author><![CDATA[manaskarekar]]></author>
             
                 
             
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Bottles – Easily run Windows software on Linux]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=36592930 target=_blank>145 comments</a>]]></description>
-            <pubDate>2023-07-04T21:47:58.000Z</pubDate>
-            <guid isPermaLink="false">https://usebottles.com/</guid>
-            <link>https://usebottles.com/</link>
+            <title><![CDATA[Simple Unix Chat]]></title>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=36594916 target=_blank>84 comments</a>]]></description>
+            <pubDate>2023-07-05T02:34:16.000Z</pubDate>
+            <guid isPermaLink="false">https://the-dam.org/docs/explanations/suc.html</guid>
+            <link>https://the-dam.org/docs/explanations/suc.html</link>
             
             
             
-            <author><![CDATA[manaskarekar]]></author>
+            <author><![CDATA[marban]]></author>
             
                 
             
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Makie, a modern and fast plotting library for Julia]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=36587875 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=36587875 target=_blank>67 comments</a>]]></description>
             <pubDate>2023-07-04T15:22:30.000Z</pubDate>
             <guid isPermaLink="false">https://makie.org</guid>
             <link>https://makie.org</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[simondanisch]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Simple Unix Chat]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=36594916 target=_blank>82 comments</a>]]></description>
-            <pubDate>2023-07-05T02:34:16.000Z</pubDate>
-            <guid isPermaLink="false">https://the-dam.org/docs/explanations/suc.html</guid>
-            <link>https://the-dam.org/docs/explanations/suc.html</link>
-            
-            
-            
-            <author><![CDATA[marban]]></author>
             
                 
             
