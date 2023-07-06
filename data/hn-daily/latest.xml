@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Fast]]></title>
-            <description><![CDATA[800 points | <a href=https://news.ycombinator.com/item?id=36605912 target=_blank>273 comments</a>]]></description>
+            <description><![CDATA[801 points | <a href=https://news.ycombinator.com/item?id=36605912 target=_blank>274 comments</a>]]></description>
             <pubDate>2023-07-05T19:34:55.000Z</pubDate>
             <guid isPermaLink="false">https://patrickcollison.com/fast</guid>
             <link>https://patrickcollison.com/fast</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: Hacker News user blogroll]]></title>
-            <description><![CDATA[765 points | <a href=https://news.ycombinator.com/item?id=36605493 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[767 points | <a href=https://news.ycombinator.com/item?id=36605493 target=_blank>170 comments</a>]]></description>
             <pubDate>2023-07-05T19:06:43.000Z</pubDate>
             <guid isPermaLink="false">https://dm.hn</guid>
             <link>https://dm.hn</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Tell HN: Nearly all of Evernote’s remaining staff has been laid off]]></title>
-            <description><![CDATA[595 points | <a href=https://news.ycombinator.com/item?id=36609641 target=_blank>321 comments</a>]]></description>
+            <description><![CDATA[601 points | <a href=https://news.ycombinator.com/item?id=36609641 target=_blank>326 comments</a>]]></description>
             <pubDate>2023-07-06T01:17:21.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=36609641</guid>
             <link>https://news.ycombinator.com/item?id=36609641</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Why is desalination so difficult?]]></title>
-            <description><![CDATA[541 points | <a href=https://news.ycombinator.com/item?id=36602909 target=_blank>380 comments</a>]]></description>
+            <description><![CDATA[542 points | <a href=https://news.ycombinator.com/item?id=36602909 target=_blank>382 comments</a>]]></description>
             <pubDate>2023-07-05T16:37:46.000Z</pubDate>
             <guid isPermaLink="false">https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult</guid>
             <link>https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Rejected GitHub profile achievements]]></title>
-            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=36607439 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=36607439 target=_blank>107 comments</a>]]></description>
             <pubDate>2023-07-05T21:30:09.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/Flet/rejected-github-profile-achievements</guid>
             <link>https://github.com/Flet/rejected-github-profile-achievements</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Regex engine internals as a library]]></title>
-            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=36600263 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=36600263 target=_blank>73 comments</a>]]></description>
             <pubDate>2023-07-05T13:36:01.000Z</pubDate>
             <guid isPermaLink="false">https://blog.burntsushi.net/regex-internals/</guid>
             <link>https://blog.burntsushi.net/regex-internals/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Tell HN: People forget that you can stick any data at the end of a bash script]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=36605869 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=36605869 target=_blank>120 comments</a>]]></description>
             <pubDate>2023-07-05T19:32:01.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=36605869</guid>
             <link>https://news.ycombinator.com/item?id=36605869</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[BasedAnon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloud Backed SQLite]]></title>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=36610595 target=_blank>77 comments</a>]]></description>
+            <pubDate>2023-07-06T03:09:56.000Z</pubDate>
+            <guid isPermaLink="false">https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki</guid>
+            <link>https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki</link>
+            
+            
+            
+            <author><![CDATA[nalgeon]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cloud Backed SQLite]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=36610595 target=_blank>76 comments</a>]]></description>
-            <pubDate>2023-07-06T03:09:56.000Z</pubDate>
-            <guid isPermaLink="false">https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki</guid>
-            <link>https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki</link>
-            
-            
-            
-            <author><![CDATA[nalgeon]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Astro framework lowers competitors by ~40% on performance graph to looks better]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=36599217 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=36599217 target=_blank>140 comments</a>]]></description>
             <pubDate>2023-07-05T12:07:05.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/sigma__dev/status/1676505365935005696</guid>
             <link>https://twitter.com/sigma__dev/status/1676505365935005696</link>
