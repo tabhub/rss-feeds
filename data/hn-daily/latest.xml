@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Fast]]></title>
-            <description><![CDATA[749 points | <a href=https://news.ycombinator.com/item?id=36605912 target=_blank>261 comments</a>]]></description>
+            <description><![CDATA[752 points | <a href=https://news.ycombinator.com/item?id=36605912 target=_blank>265 comments</a>]]></description>
             <pubDate>2023-07-05T19:34:55.000Z</pubDate>
             <guid isPermaLink="false">https://patrickcollison.com/fast</guid>
             <link>https://patrickcollison.com/fast</link>
@@ -43,6 +43,22 @@
             
             
             <author><![CDATA[valtism]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Hacker News user blogroll]]></title>
+            <description><![CDATA[726 points | <a href=https://news.ycombinator.com/item?id=36605493 target=_blank>162 comments</a>]]></description>
+            <pubDate>2023-07-05T19:06:43.000Z</pubDate>
+            <guid isPermaLink="false">https://dm.hn</guid>
+            <link>https://dm.hn</link>
+            
+            
+            
+            <author><![CDATA[deathbypenguin]]></author>
             
                 
             
@@ -66,40 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Hacker News user blogroll]]></title>
-            <description><![CDATA[715 points | <a href=https://news.ycombinator.com/item?id=36605493 target=_blank>161 comments</a>]]></description>
-            <pubDate>2023-07-05T19:06:43.000Z</pubDate>
-            <guid isPermaLink="false">https://dm.hn</guid>
-            <link>https://dm.hn</link>
-            
-            
-            
-            <author><![CDATA[deathbypenguin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Why is desalination so difficult?]]></title>
-            <description><![CDATA[521 points | <a href=https://news.ycombinator.com/item?id=36602909 target=_blank>373 comments</a>]]></description>
-            <pubDate>2023-07-05T16:37:46.000Z</pubDate>
-            <guid isPermaLink="false">https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult</guid>
-            <link>https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult</link>
-            
-            
-            
-            <author><![CDATA[mrzool]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Tell HN: Nearly all of Evernote’s remaining staff has been laid off]]></title>
-            <description><![CDATA[516 points | <a href=https://news.ycombinator.com/item?id=36609641 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[527 points | <a href=https://news.ycombinator.com/item?id=36609641 target=_blank>280 comments</a>]]></description>
             <pubDate>2023-07-06T01:17:21.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=36609641</guid>
             <link>https://news.ycombinator.com/item?id=36609641</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Why is desalination so difficult?]]></title>
+            <description><![CDATA[522 points | <a href=https://news.ycombinator.com/item?id=36602909 target=_blank>373 comments</a>]]></description>
+            <pubDate>2023-07-05T16:37:46.000Z</pubDate>
+            <guid isPermaLink="false">https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult</guid>
+            <link>https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult</link>
+            
+            
+            
+            <author><![CDATA[mrzool]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Rejected GitHub profile achievements]]></title>
-            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=36607439 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=36607439 target=_blank>89 comments</a>]]></description>
             <pubDate>2023-07-05T21:30:09.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/Flet/rejected-github-profile-achievements</guid>
             <link>https://github.com/Flet/rejected-github-profile-achievements</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Regex engine internals as a library]]></title>
-            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=36600263 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=36600263 target=_blank>71 comments</a>]]></description>
             <pubDate>2023-07-05T13:36:01.000Z</pubDate>
             <guid isPermaLink="false">https://blog.burntsushi.net/regex-internals/</guid>
             <link>https://blog.burntsushi.net/regex-internals/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[LLama.cpp now has a web interface]]></title>
-            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=36603816 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=36603816 target=_blank>48 comments</a>]]></description>
             <pubDate>2023-07-05T17:33:04.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ggerganov/llama.cpp/pull/1998</guid>
             <link>https://github.com/ggerganov/llama.cpp/pull/1998</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[News is bad for you – and giving up reading it will make you happier (2013)]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=36600020 target=_blank>253 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=36600020 target=_blank>253 comments</a>]]></description>
             <pubDate>2023-07-05T13:16:53.000Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli</guid>
             <link>https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli</link>
