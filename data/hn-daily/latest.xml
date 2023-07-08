@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[When an app asks for permissions, it should have a “feed fake data” option]]></title>
-            <description><![CDATA[626 points | <a href=https://news.ycombinator.com/item?id=36644895 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[638 points | <a href=https://news.ycombinator.com/item?id=36644895 target=_blank>255 comments</a>]]></description>
             <pubDate>2023-07-08T14:43:33.000Z</pubDate>
             <guid isPermaLink="false">https://mastodon.gamedev.place/@Nifflas/110668040598715116</guid>
             <link>https://mastodon.gamedev.place/@Nifflas/110668040598715116</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython]]></title>
-            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=36643670 target=_blank>324 comments</a>]]></description>
+            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=36643670 target=_blank>326 comments</a>]]></description>
             <pubDate>2023-07-08T12:18:46.000Z</pubDate>
             <guid isPermaLink="false">https://discuss.python.org/t/a-fast-free-threading-python/27903/99</guid>
             <link>https://discuss.python.org/t/a-fast-free-threading-python/27903/99</link>
@@ -82,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[TypeScript please give us reflection/runtime types]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=36637221 target=_blank>268 comments</a>]]></description>
-            <pubDate>2023-07-07T19:36:44.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/akutruff/typescript-needs-types</guid>
-            <link>https://github.com/akutruff/typescript-needs-types</link>
+            <title><![CDATA[Software engineers hate code]]></title>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=36642796 target=_blank>151 comments</a>]]></description>
+            <pubDate>2023-07-08T09:28:12.000Z</pubDate>
+            <guid isPermaLink="false">https://www.dancowell.com/software-engineers-hate-code/</guid>
+            <link>https://www.dancowell.com/software-engineers-hate-code/</link>
             
             
             
-            <author><![CDATA[decs]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How the new Threads app is made]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=36637295 target=_blank>224 comments</a>]]></description>
-            <pubDate>2023-07-07T19:41:39.000Z</pubDate>
-            <guid isPermaLink="false">https://www.emergetools.com/deep-dives/threads</guid>
-            <link>https://www.emergetools.com/deep-dives/threads</link>
-            
-            
-            
-            <author><![CDATA[maxptop]]></author>
+            <author><![CDATA[dfcowell]]></author>
             
                 
             
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Once hailed for decriminalizing drugs, Portugal is now having doubts]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=36638752 target=_blank>498 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=36638752 target=_blank>500 comments</a>]]></description>
             <pubDate>2023-07-07T21:48:48.000Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/</guid>
             <link>https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/</link>
@@ -123,22 +107,6 @@
             
             
             <author><![CDATA[hrl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Software engineers hate code]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=36642796 target=_blank>149 comments</a>]]></description>
-            <pubDate>2023-07-08T09:28:12.000Z</pubDate>
-            <guid isPermaLink="false">https://www.dancowell.com/software-engineers-hate-code/</guid>
-            <link>https://www.dancowell.com/software-engineers-hate-code/</link>
-            
-            
-            
-            <author><![CDATA[dfcowell]]></author>
             
                 
             
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[Top suspect in 2015 Ashley Madison hack committed suicide in 2014]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=36637736 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=36637736 target=_blank>132 comments</a>]]></description>
             <pubDate>2023-07-07T20:17:31.000Z</pubDate>
             <guid isPermaLink="false">https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/</guid>
             <link>https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/</link>
@@ -179,7 +147,7 @@
         
         <item>
             <title><![CDATA[Matrix multiplication using only addition]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=36640148 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=36640148 target=_blank>87 comments</a>]]></description>
             <pubDate>2023-07-08T00:44:25.000Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2307.01415</guid>
             <link>https://arxiv.org/abs/2307.01415</link>
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[Scams upon scams: The data-driven advertising grift]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=36643630 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=36643630 target=_blank>130 comments</a>]]></description>
             <pubDate>2023-07-08T12:12:31.000Z</pubDate>
             <guid isPermaLink="false">https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/</guid>
             <link>https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[headalgorithm]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[When did Alan Partridge first appear on television?]]></title>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=36641782 target=_blank>146 comments</a>]]></description>
+            <pubDate>2023-07-08T06:07:59.000Z</pubDate>
+            <guid isPermaLink="false">https://www.dirtyfeed.org/2023/07/better-on-television/</guid>
+            <link>https://www.dirtyfeed.org/2023/07/better-on-television/</link>
+            
+            
+            
+            <author><![CDATA[apophatic]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LlamaIndex: Unleash the power of LLMs over your data]]></title>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=36641393 target=_blank>51 comments</a>]]></description>
+            <pubDate>2023-07-08T04:39:39.000Z</pubDate>
+            <guid isPermaLink="false">https://www.llamaindex.ai/</guid>
+            <link>https://www.llamaindex.ai/</link>
+            
+            
+            
+            <author><![CDATA[danboarder]]></author>
             
                 
             
