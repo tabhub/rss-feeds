@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Firefox address bar]]></title>
-            <description><![CDATA[948 points | <a href=https://news.ycombinator.com/item?id=36666116 target=_blank>297 comments</a>]]></description>
+            <description><![CDATA[951 points | <a href=https://news.ycombinator.com/item?id=36666116 target=_blank>297 comments</a>]]></description>
             <pubDate>2023-07-10T13:30:05.000Z</pubDate>
             <guid isPermaLink="false">https://wiki.tilde.institute/w/firefox-address-bar-tips</guid>
             <link>https://wiki.tilde.institute/w/firefox-address-bar-tips</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Self-hosted photo and video backups directly from your mobile phone]]></title>
-            <description><![CDATA[589 points | <a href=https://news.ycombinator.com/item?id=36673224 target=_blank>277 comments</a>]]></description>
+            <description><![CDATA[594 points | <a href=https://news.ycombinator.com/item?id=36673224 target=_blank>279 comments</a>]]></description>
             <pubDate>2023-07-10T21:28:40.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/immich-app/immich</guid>
             <link>https://github.com/immich-app/immich</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[New study reveals most classic video games are unavailable]]></title>
-            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=36668472 target=_blank>453 comments</a>]]></description>
+            <description><![CDATA[477 points | <a href=https://news.ycombinator.com/item?id=36668472 target=_blank>453 comments</a>]]></description>
             <pubDate>2023-07-10T16:15:20.000Z</pubDate>
             <guid isPermaLink="false">https://gamehistory.org/87percent/</guid>
             <link>https://gamehistory.org/87percent/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Lima: A nice way to run Linux VMs on Mac]]></title>
-            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=36668964 target=_blank>137 comments</a>]]></description>
+            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=36668964 target=_blank>137 comments</a>]]></description>
             <pubDate>2023-07-10T16:44:09.000Z</pubDate>
             <guid isPermaLink="false">https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/</guid>
             <link>https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Shortening the Let's Encrypt chain of trust]]></title>
-            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=36673793 target=_blank>184 comments</a>]]></description>
+            <description><![CDATA[394 points | <a href=https://news.ycombinator.com/item?id=36673793 target=_blank>187 comments</a>]]></description>
             <pubDate>2023-07-10T22:19:22.000Z</pubDate>
             <guid isPermaLink="false">https://letsencrypt.org/2023/07/10/cross-sign-expiration.html</guid>
             <link>https://letsencrypt.org/2023/07/10/cross-sign-expiration.html</link>
@@ -162,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Linux has achieved a 3% desktop market share]]></title>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=36676103 target=_blank>333 comments</a>]]></description>
+            <pubDate>2023-07-11T03:29:39.000Z</pubDate>
+            <guid isPermaLink="false">https://linuxiac.com/linux-hits-3-percent-market-share/</guid>
+            <link>https://linuxiac.com/linux-hits-3-percent-market-share/</link>
+            
+            
+            
+            <author><![CDATA[cglong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[We replaced Firecracker with QEMU]]></title>
-            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=36666782 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=36666782 target=_blank>140 comments</a>]]></description>
             <pubDate>2023-07-10T14:15:04.000Z</pubDate>
             <guid isPermaLink="false">https://hocus.dev/blog/qemu-vs-firecracker/</guid>
             <link>https://hocus.dev/blog/qemu-vs-firecracker/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[ozten]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Linux has achieved a 3% desktop market share]]></title>
-            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=36676103 target=_blank>329 comments</a>]]></description>
-            <pubDate>2023-07-11T03:29:39.000Z</pubDate>
-            <guid isPermaLink="false">https://linuxiac.com/linux-hits-3-percent-market-share/</guid>
-            <link>https://linuxiac.com/linux-hits-3-percent-market-share/</link>
-            
-            
-            
-            <author><![CDATA[cglong]]></author>
             
                 
             
