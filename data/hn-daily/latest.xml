@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Firefox address bar]]></title>
-            <description><![CDATA[962 points | <a href=https://news.ycombinator.com/item?id=36666116 target=_blank>299 comments</a>]]></description>
+            <description><![CDATA[965 points | <a href=https://news.ycombinator.com/item?id=36666116 target=_blank>299 comments</a>]]></description>
             <pubDate>2023-07-10T13:30:05.000Z</pubDate>
             <guid isPermaLink="false">https://wiki.tilde.institute/w/firefox-address-bar-tips</guid>
             <link>https://wiki.tilde.institute/w/firefox-address-bar-tips</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Self-hosted photo and video backups directly from your mobile phone]]></title>
-            <description><![CDATA[654 points | <a href=https://news.ycombinator.com/item?id=36673224 target=_blank>305 comments</a>]]></description>
+            <description><![CDATA[661 points | <a href=https://news.ycombinator.com/item?id=36673224 target=_blank>307 comments</a>]]></description>
             <pubDate>2023-07-10T21:28:40.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/immich-app/immich</guid>
             <link>https://github.com/immich-app/immich</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Linux has achieved a 3% desktop market share]]></title>
-            <description><![CDATA[491 points | <a href=https://news.ycombinator.com/item?id=36676103 target=_blank>422 comments</a>]]></description>
+            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=36676103 target=_blank>429 comments</a>]]></description>
             <pubDate>2023-07-11T03:29:39.000Z</pubDate>
             <guid isPermaLink="false">https://linuxiac.com/linux-hits-3-percent-market-share/</guid>
             <link>https://linuxiac.com/linux-hits-3-percent-market-share/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Shortening the Let's Encrypt chain of trust]]></title>
-            <description><![CDATA[474 points | <a href=https://news.ycombinator.com/item?id=36673793 target=_blank>241 comments</a>]]></description>
+            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=36673793 target=_blank>242 comments</a>]]></description>
             <pubDate>2023-07-10T22:19:22.000Z</pubDate>
             <guid isPermaLink="false">https://letsencrypt.org/2023/07/10/cross-sign-expiration.html</guid>
             <link>https://letsencrypt.org/2023/07/10/cross-sign-expiration.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Lima: A nice way to run Linux VMs on Mac]]></title>
-            <description><![CDATA[471 points | <a href=https://news.ycombinator.com/item?id=36668964 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=36668964 target=_blank>138 comments</a>]]></description>
             <pubDate>2023-07-10T16:44:09.000Z</pubDate>
             <guid isPermaLink="false">https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/</guid>
             <link>https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[We replaced Firecracker with QEMU]]></title>
-            <description><![CDATA[394 points | <a href=https://news.ycombinator.com/item?id=36666782 target=_blank>142 comments</a>]]></description>
-            <pubDate>2023-07-10T14:15:04.000Z</pubDate>
-            <guid isPermaLink="false">https://hocus.dev/blog/qemu-vs-firecracker/</guid>
-            <link>https://hocus.dev/blog/qemu-vs-firecracker/</link>
-            
-            
-            
-            <author><![CDATA[hugodutka]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[GPT-4 details leaked?]]></title>
-            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=36675934 target=_blank>334 comments</a>]]></description>
+            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=36675934 target=_blank>337 comments</a>]]></description>
             <pubDate>2023-07-11T03:00:19.000Z</pubDate>
             <guid isPermaLink="false">https://threadreaderapp.com/thread/1678545170508267522.html</guid>
             <link>https://threadreaderapp.com/thread/1678545170508267522.html</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[We replaced Firecracker with QEMU]]></title>
+            <description><![CDATA[395 points | <a href=https://news.ycombinator.com/item?id=36666782 target=_blank>142 comments</a>]]></description>
+            <pubDate>2023-07-10T14:15:04.000Z</pubDate>
+            <guid isPermaLink="false">https://hocus.dev/blog/qemu-vs-firecracker/</guid>
+            <link>https://hocus.dev/blog/qemu-vs-firecracker/</link>
+            
+            
+            
+            <author><![CDATA[hugodutka]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Apple VisionOS Simulator streaming wirelessly to Meta Quest headset]]></title>
-            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=36668732 target=_blank>219 comments</a>]]></description>
+            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=36668732 target=_blank>220 comments</a>]]></description>
             <pubDate>2023-07-10T16:30:34.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr</guid>
             <link>https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Privatisation has been a costly failure in Britain]]></title>
-            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=36678375 target=_blank>419 comments</a>]]></description>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=36678375 target=_blank>430 comments</a>]]></description>
             <pubDate>2023-07-11T09:20:43.000Z</pubDate>
             <guid isPermaLink="false">https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain</guid>
             <link>https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain</link>
