@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #624]]></title>
+        <title><![CDATA[Perl Weekly #625]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl 5.38.0 Released - An Appeal To New Blood?]]></title>
-            <description><![CDATA[Gentle appeal to all, specially new gen, with regard to the new Perl release.]]></description>
-            <pubDate>2023.07.06</pubDate>
-            <guid isPermaLink="false">https://www.i-programmer.info/news/222-perl/16431-perl-5380-released-an-appeal-to-new-blood.html</guid>
-            <link>https://www.i-programmer.info/news/222-perl/16431-perl-5380-released-an-appeal-to-new-blood.html</link>
+            <title><![CDATA[Announcing the 2022 White Camel Award recipient]]></title>
+            <description><![CDATA[Announcing the 2022 White Camel Award recipient]]></description>
+            <pubDate>2023.07.11</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/white-camel-2022-manwar</guid>
+            <link>https://news.perlfoundation.org/post/white-camel-2022-manwar</link>
             
             
             
-            <author><![CDATA[nikos_vaggalis]]></author>
+            <author><![CDATA[makoto_nozaki]]></author>
             
                 
             
@@ -34,11 +34,123 @@
         </item>
         
         <item>
-            <title><![CDATA[Corinna in the Perl Core]]></title>
-            <description><![CDATA[The lead designer of Corinna sharing the internals with us. Highly recommended.]]></description>
-            <pubDate>2023.07.04</pubDate>
-            <guid isPermaLink="false">https://ovid.github.io/articles/corinna-in-the-perl-core.html</guid>
-            <link>https://ovid.github.io/articles/corinna-in-the-perl-core.html</link>
+            <title><![CDATA[The Perl and Raku Conference for 2024]]></title>
+            <description><![CDATA[TPRC 2024, Las Vegas, Nevada]]></description>
+            <pubDate>2023.07.15</pubDate>
+            <guid isPermaLink="false">https://tprc.us/tprc-2024-las/</guid>
+            <link>https://tprc.us/tprc-2024-las/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Advent Calendar 2023 CFP]]></title>
+            <description><![CDATA[You are cordially invited to write an article for the 2023 Perl Advent Calendar.]]></description>
+            <pubDate>2023.07.15</pubDate>
+            <guid isPermaLink="false">https://cfp.perladvent.org/</guid>
+            <link>https://cfp.perladvent.org/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Whither Perl?]]></title>
+            <description><![CDATA[40 min presentation: A language is dead is not really a good way of talking about the topic; We need some money;]]></description>
+            <pubDate>2023.07.17</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=areXIy7UKyA</guid>
+            <link>https://www.youtube.com/watch?v=areXIy7UKyA</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What's New In Perl v5.38]]></title>
+            <description><![CDATA[50 min presentation]]></description>
+            <pubDate>2023.07.17</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=nkKuA0UMdEw</guid>
+            <link>https://www.youtube.com/watch?v=nkKuA0UMdEw</link>
+            
+            
+            
+            <author><![CDATA[paul_evans]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[When Saif Met Sarah]]></title>
+            <description><![CDATA[When Saif Met Sarah]]></description>
+            <pubDate>2023.07.14</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2023/07/when-saif-met-sarah.html</guid>
+            <link>https://blogs.perl.org/users/saif/2023/07/when-saif-met-sarah.html</link>
+            
+            
+            
+            <author><![CDATA[saif_ahmed]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Using Modern Perl Features in your Projects]]></title>
+            <description><![CDATA[Using Modern Perl Features in your Projects]]></description>
+            <pubDate>2023.07.16</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/using-modern-perl-features-in-your-projects-4e7m</guid>
+            <link>https://dev.to/jjn1056/using-modern-perl-features-in-your-projects-4e7m</link>
+            
+            
+            
+            <author><![CDATA[john_napiorkowski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Building a Perl Module for Posting to Bluesky Social]]></title>
+            <description><![CDATA[Building a Perl Module for Posting to Bluesky Social]]></description>
+            <pubDate>2023.07.12</pubDate>
+            <guid isPermaLink="false">https://betterprogramming.pub/building-a-perl-module-for-posting-to-bluesky-social-92fc732fc297</guid>
+            <link>https://betterprogramming.pub/building-a-perl-module-for-posting-to-bluesky-social-92fc732fc297</link>
+            
+            
+            
+            <author><![CDATA[william_shunn]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What do we need for Perl 8?]]></title>
+            <description><![CDATA[What do we need for Perl 8?]]></description>
+            <pubDate>2023.07.16</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/</link>
             
             
             
@@ -50,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Built-in classes in Perl 5.38]]></title>
-            <description><![CDATA[Andres showing the power of new built-in class feature of <strong>Perl v5.38</strong>.]]></description>
-            <pubDate>2023.07.06</pubDate>
-            <guid isPermaLink="false">https://andrewshitov.com/2023/07/06/built-in-classes-in-perl-5-38/</guid>
-            <link>https://andrewshitov.com/2023/07/06/built-in-classes-in-perl-5-38/</link>
+            <title><![CDATA[Matching simply]]></title>
+            <description><![CDATA[Matching simply]]></description>
+            <pubDate>2023.07.14</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/toby_inkster/2023/07/matching-simply.html</guid>
+            <link>https://blogs.perl.org/users/toby_inkster/2023/07/matching-simply.html</link>
             
             
             
-            <author><![CDATA[andrew_shitov]]></author>
+            <author><![CDATA[toby_inkster]]></author>
             
                 
             
@@ -66,15 +178,31 @@
         </item>
         
         <item>
-            <title><![CDATA[2023.27 Revising RakuDoc]]></title>
-            <description><![CDATA[2023.27 Revising RakuDoc]]></description>
-            <pubDate>2023.07.03</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/07/03/2023-27-revising-rakudoc/</guid>
-            <link>https://rakudoweekly.blog/2023/07/03/2023-27-revising-rakudoc/</link>
+            <title><![CDATA["Next Action" - Improving Perl Catalyst Chained Actions]]></title>
+            <description><![CDATA["Next Action" - Improving Perl Catalyst Chained Actions]]></description>
+            <pubDate>2023.07.15</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/next-action-improving-catalyst-chained-actions-f79</guid>
+            <link>https://dev.to/jjn1056/next-action-improving-catalyst-chained-actions-f79</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl is still a great choice]]></title>
+            <description><![CDATA[Perl is still a great choice]]></description>
+            <pubDate>2023.07</pubDate>
+            <guid isPermaLink="false">https://foo.zone/gemfeed/2022-05-27-perl-is-still-a-great-choice.html</guid>
+            <link>https://foo.zone/gemfeed/2022-05-27-perl-is-still-a-great-choice.html</link>
+            
+            
+            
+            <author><![CDATA[paul_butow]]></author>
             
                 
             
@@ -83,8 +211,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/07/cdli-19-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxxxvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.07.08</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/07/cdlii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
+            <pubDate>2023.07</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -98,57 +226,9 @@
         </item>
         
         <item>
-            <title><![CDATA[Learning Rust]]></title>
-            <description><![CDATA[I have been learning Rust for a month now. It is hard. Learning any programming language is hard, but as I read elsewhere Rust has special difficulties. In any case it is interesting, well at least to me, to look back and try to understand how I learn.]]></description>
-            <pubDate>2023.07.09</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/learning-rust-after-one-month.html</guid>
-            <link>https://szabgab.com/learning-rust-after-one-month.html</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How to send your first Pull-Request (fixing content on the PerlMaven site)]]></title>
-            <description><![CDATA[Have you ever wanted to learn the process of contributing to an open source project. These days the heart of it is sending a pull-request. A few years ago I recorded <a href="https://www.youtube.com/watch?v=z4TyL0XzYb0">this video</a> explaining how to edit a page on the <a href="https://code-maven.com/">Code-Maven</a> web site. The <a href="https://perlmaven.com/">PerlMaven</a> web site uses the exact same technology so the same applies there too. This can be a good way to practice sending pull-requests before you get involved the programming part. Please also 'like' the video and follow the YouTube channel!]]></description>
-            <pubDate>2023.07.10</pubDate>
-            <guid isPermaLink="false">https://code-maven.com/send-a-pull-request-on-github</guid>
-            <link>https://code-maven.com/send-a-pull-request-on-github</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl and Raku Conference 2023]]></title>
-            <description><![CDATA[July 11-13, 2023, Toronto, Canada]]></description>
-            <pubDate>2023.04.24</pubDate>
-            <guid isPermaLink="false">https://tprc2023.sched.com/</guid>
-            <link>https://tprc2023.sched.com/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Perl and Koha]]></title>
             <description><![CDATA[August 14-18, 2023, Helsinki, Finland]]></description>
-            <pubDate>2023.04.24</pubDate>
+            
             <guid isPermaLink="false">https://perlkohacon.fi/</guid>
             <link>https://perlkohacon.fi/</link>
             
