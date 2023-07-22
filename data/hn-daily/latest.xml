@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I have written a JVM in Rust]]></title>
-            <description><![CDATA[645 points | <a href=https://news.ycombinator.com/item?id=36811554 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[648 points | <a href=https://news.ycombinator.com/item?id=36811554 target=_blank>144 comments</a>]]></description>
             <pubDate>2023-07-21T08:48:48.000Z</pubDate>
             <guid isPermaLink="false">https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/</guid>
             <link>https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[In the LLM space, "open source" is being used to mean "downloadable weights"]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=36815255 target=_blank>210 comments</a>]]></description>
-            <pubDate>2023-07-21T15:49:04.000Z</pubDate>
-            <guid isPermaLink="false">https://www.alessiofanelli.com/blog/llama2-isnt-open-source</guid>
-            <link>https://www.alessiofanelli.com/blog/llama2-isnt-open-source</link>
-            
-            
-            
-            <author><![CDATA[FanaHOVA]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Journalists should be skeptical of all sources including scientists]]></title>
-            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=36818896 target=_blank>256 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=36818896 target=_blank>257 comments</a>]]></description>
             <pubDate>2023-07-21T20:01:20.000Z</pubDate>
             <guid isPermaLink="false">https://natesilver.substack.com/p/journalists-should-be-skeptical-of</guid>
             <link>https://natesilver.substack.com/p/journalists-should-be-skeptical-of</link>
@@ -66,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[In the LLM space, "open source" is being used to mean "downloadable weights"]]></title>
+            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=36815255 target=_blank>210 comments</a>]]></description>
+            <pubDate>2023-07-21T15:49:04.000Z</pubDate>
+            <guid isPermaLink="false">https://www.alessiofanelli.com/blog/llama2-isnt-open-source</guid>
+            <link>https://www.alessiofanelli.com/blog/llama2-isnt-open-source</link>
+            
+            
+            
+            <author><![CDATA[FanaHOVA]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Web Environment Integrity API Proposal]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=36817305 target=_blank>265 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=36817305 target=_blank>268 comments</a>]]></description>
             <pubDate>2023-07-21T18:09:43.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/RupertBenWiser/Web-Environment-Integrity</guid>
             <link>https://github.com/RupertBenWiser/Web-Environment-Integrity</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[reactormonk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dementia risk linked to blood-protein imbalance in middle age]]></title>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=36813564 target=_blank>102 comments</a>]]></description>
+            <pubDate>2023-07-21T13:34:11.000Z</pubDate>
+            <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02374-2</guid>
+            <link>https://www.nature.com/articles/d41586-023-02374-2</link>
+            
+            
+            
+            <author><![CDATA[pseudolus]]></author>
             
                 
             
@@ -91,22 +107,6 @@
             
             
             <author><![CDATA[mikhael]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dementia risk linked to blood-protein imbalance in middle age]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=36813564 target=_blank>102 comments</a>]]></description>
-            <pubDate>2023-07-21T13:34:11.000Z</pubDate>
-            <guid isPermaLink="false">https://www.nature.com/articles/d41586-023-02374-2</guid>
-            <link>https://www.nature.com/articles/d41586-023-02374-2</link>
-            
-            
-            
-            <author><![CDATA[pseudolus]]></author>
             
                 
             
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Nanosecond timestamp collisions are common]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=36810818 target=_blank>245 comments</a>]]></description>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=36810818 target=_blank>246 comments</a>]]></description>
             <pubDate>2023-07-21T07:01:03.000Z</pubDate>
             <guid isPermaLink="false">https://www.evanjones.ca/nanosecond-collisions.html</guid>
             <link>https://www.evanjones.ca/nanosecond-collisions.html</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Llama: Add grammar-based sampling]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=36819906 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=36819906 target=_blank>82 comments</a>]]></description>
             <pubDate>2023-07-21T21:17:45.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/ggerganov/llama.cpp/pull/1773</guid>
             <link>https://github.com/ggerganov/llama.cpp/pull/1773</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Diablo]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=36815781 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=36815781 target=_blank>108 comments</a>]]></description>
             <pubDate>2023-07-21T16:25:03.000Z</pubDate>
             <guid isPermaLink="false">https://www.filfre.net/2023/07/diablo/</guid>
             <link>https://www.filfre.net/2023/07/diablo/</link>
