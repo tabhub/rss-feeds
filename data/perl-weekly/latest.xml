@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #625]]></title>
+        <title><![CDATA[Perl Weekly #626]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,107 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Announcing the 2022 White Camel Award recipient]]></title>
-            <description><![CDATA[Announcing the 2022 White Camel Award recipient]]></description>
-            <pubDate>2023.07.11</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/white-camel-2022-manwar</guid>
-            <link>https://news.perlfoundation.org/post/white-camel-2022-manwar</link>
-            
-            
-            
-            <author><![CDATA[makoto_nozaki]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl and Raku Conference for 2024]]></title>
-            <description><![CDATA[TPRC 2024, Las Vegas, Nevada]]></description>
-            <pubDate>2023.07.15</pubDate>
-            <guid isPermaLink="false">https://tprc.us/tprc-2024-las/</guid>
-            <link>https://tprc.us/tprc-2024-las/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Advent Calendar 2023 CFP]]></title>
-            <description><![CDATA[You are cordially invited to write an article for the 2023 Perl Advent Calendar.]]></description>
-            <pubDate>2023.07.15</pubDate>
-            <guid isPermaLink="false">https://cfp.perladvent.org/</guid>
-            <link>https://cfp.perladvent.org/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Whither Perl?]]></title>
-            <description><![CDATA[40 min presentation: A language is dead is not really a good way of talking about the topic; We need some money;]]></description>
-            <pubDate>2023.07.17</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=areXIy7UKyA</guid>
-            <link>https://www.youtube.com/watch?v=areXIy7UKyA</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What's New In Perl v5.38]]></title>
-            <description><![CDATA[50 min presentation]]></description>
-            <pubDate>2023.07.17</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=nkKuA0UMdEw</guid>
-            <link>https://www.youtube.com/watch?v=nkKuA0UMdEw</link>
-            
-            
-            
-            <author><![CDATA[paul_evans]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[When Saif Met Sarah]]></title>
-            <description><![CDATA[When Saif Met Sarah]]></description>
-            <pubDate>2023.07.14</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2023/07/when-saif-met-sarah.html</guid>
-            <link>https://blogs.perl.org/users/saif/2023/07/when-saif-met-sarah.html</link>
-            
-            
-            
-            <author><![CDATA[saif_ahmed]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Using Modern Perl Features in your Projects]]></title>
-            <description><![CDATA[Using Modern Perl Features in your Projects]]></description>
-            <pubDate>2023.07.16</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/using-modern-perl-features-in-your-projects-4e7m</guid>
-            <link>https://dev.to/jjn1056/using-modern-perl-features-in-your-projects-4e7m</link>
+            <title><![CDATA[Perl Catalyst Release 5.90131]]></title>
+            <description><![CDATA[Version 5.90131 of the Perl MVC web development framework Catalyst just hit CPAN.]]></description>
+            <pubDate>2023.07.21</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/perl-catalyst-release-590131-4pn0</guid>
+            <link>https://dev.to/jjn1056/perl-catalyst-release-590131-4pn0</link>
             
             
             
@@ -130,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Building a Perl Module for Posting to Bluesky Social]]></title>
-            <description><![CDATA[Building a Perl Module for Posting to Bluesky Social]]></description>
-            <pubDate>2023.07.12</pubDate>
-            <guid isPermaLink="false">https://betterprogramming.pub/building-a-perl-module-for-posting-to-bluesky-social-92fc732fc297</guid>
-            <link>https://betterprogramming.pub/building-a-perl-module-for-posting-to-bluesky-social-92fc732fc297</link>
+            <title><![CDATA[Why we use Perl at our company]]></title>
+            <description><![CDATA[Another success story of use of Perl in a well documented post. ]]></description>
+            <pubDate>2023.07.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/uriel/2023/07/why-we-use-perl-at-our-company.html</guid>
+            <link>https://blogs.perl.org/users/uriel/2023/07/why-we-use-perl-at-our-company.html</link>
             
             
             
-            <author><![CDATA[william_shunn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What do we need for Perl 8?]]></title>
-            <description><![CDATA[What do we need for Perl 8?]]></description>
-            <pubDate>2023.07.16</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1515tkj/what_do_we_need_for_perl_8/</link>
-            
-            
-            
-            <author><![CDATA[curtis_ovid_poe]]></author>
+            <author><![CDATA[uriel_lizama]]></author>
             
                 
             
@@ -162,15 +50,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Matching simply]]></title>
-            <description><![CDATA[Matching simply]]></description>
-            <pubDate>2023.07.14</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/toby_inkster/2023/07/matching-simply.html</guid>
-            <link>https://blogs.perl.org/users/toby_inkster/2023/07/matching-simply.html</link>
+            <title><![CDATA[Using Postgresql pg_vector for AI: Part 1, WTF is a Vector Anyway?]]></title>
+            <description><![CDATA[Talk of the town AI is being picked by John in the blog post series. If you are new to generative AI then you should check out it yourself.]]></description>
+            <pubDate>2023.07.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-1-wtf-is-a-vector-anyway-1dmf</guid>
+            <link>https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-1-wtf-is-a-vector-anyway-1dmf</link>
             
             
             
-            <author><![CDATA[toby_inkster]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Using Postgresql pg_vector for AI: Part 2, Using vectors For Natural Language Processing]]></title>
+            <description><![CDATA[In the blog post you will learn the use of OpenAI to create vector.]]></description>
+            <pubDate>2023.07.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40</guid>
+            <link>https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40</link>
+            
+            
+            
+            <author><![CDATA[john_napiorkowski]]></author>
             
                 
             
@@ -179,8 +83,8 @@
         
         <item>
             <title><![CDATA["Next Action" - Improving Perl Catalyst Chained Actions]]></title>
-            <description><![CDATA["Next Action" - Improving Perl Catalyst Chained Actions]]></description>
-            <pubDate>2023.07.15</pubDate>
+            <description><![CDATA[Perl's Catalyst MVC web framework action chaining is explained in details. Highly recommended.]]></description>
+            <pubDate>2023.07.22</pubDate>
             <guid isPermaLink="false">https://dev.to/jjn1056/next-action-improving-catalyst-chained-actions-f79</guid>
             <link>https://dev.to/jjn1056/next-action-improving-catalyst-chained-actions-f79</link>
             
@@ -194,15 +98,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl is still a great choice]]></title>
-            <description><![CDATA[Perl is still a great choice]]></description>
-            <pubDate>2023.07</pubDate>
-            <guid isPermaLink="false">https://foo.zone/gemfeed/2022-05-27-perl-is-still-a-great-choice.html</guid>
-            <link>https://foo.zone/gemfeed/2022-05-27-perl-is-still-a-great-choice.html</link>
+            <title><![CDATA[Modernize Chained Actions in Perl Catalyst MVC]]></title>
+            <description><![CDATA[Latest release of Perl Catalyst is out with enhancements to chained actions.]]></description>
+            <pubDate>2023.07.22</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/modernize-chained-actions-in-perl-catalyst-mvc-55fe</guid>
+            <link>https://dev.to/jjn1056/modernize-chained-actions-in-perl-catalyst-mvc-55fe</link>
             
             
             
-            <author><![CDATA[paul_butow]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LDAP groups expansion]]></title>
+            <description><![CDATA[Please find working code in Perl to play with LDAP directory.]]></description>
+            <pubDate>2023.07.19</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/07/19/ldap-groups-expansion/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/07/19/ldap-groups-expansion/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.29 DSLs and ASTs]]></title>
+            <description><![CDATA[2023.29 DSLs and ASTs]]></description>
+            <pubDate>2023.07.17</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/07/17/2023-29-dsls-and-asts/</guid>
+            <link>https://rakudoweekly.blog/2023/07/17/2023-29-dsls-and-asts/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -211,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/07/cdlii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
-            <pubDate>2023.07</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/07/cdliii-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxxxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.07.22</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -226,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl and Koha]]></title>
-            <description><![CDATA[August 14-18, 2023, Helsinki, Finland]]></description>
+            <title><![CDATA[First report: More than 80% of the crates link to their public VCS]]></title>
+            <description><![CDATA[I have been working on the Rust Digger for more than a month. This is the first repor I created.]]></description>
+            <pubDate>2023.07.22</pubDate>
+            <guid isPermaLink="false">https://rust-digger.code-maven.com/news/first-report</guid>
+            <link>https://rust-digger.code-maven.com/news/first-report</link>
             
-            <guid isPermaLink="false">https://perlkohacon.fi/</guid>
-            <link>https://perlkohacon.fi/</link>
             
             
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -242,11 +178,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Boston PM : Async graphics, really? peek preview]]></title>
-            <description><![CDATA[Tuesday July 11th, 2023 07:00 PM Eastern Time (US and Canada)]]></description>
+            <title><![CDATA[Perl and Koha]]></title>
+            <description><![CDATA[August 14-18, 2023, Helsinki, Finland]]></description>
             
-            <guid isPermaLink="false">https://boston-pm.github.io/#schedule</guid>
-            <link>https://boston-pm.github.io/#schedule</link>
+            <guid isPermaLink="false">https://perlkohacon.fi/</guid>
+            <link>https://perlkohacon.fi/</link>
             
             
             
