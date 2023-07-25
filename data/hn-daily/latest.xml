@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Common Pitfalls in Go Benchmarking]]></title>
-            <description><![CDATA[1205 points | <a href=https://news.ycombinator.com/item?id=36860065 target=_blank>7 comments</a>]]></description>
-            <pubDate>2023-07-25T09:51:08.000Z</pubDate>
-            <guid isPermaLink="false">https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/</guid>
-            <link>https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/</link>
-            
-            
-            
-            <author><![CDATA[ibobev]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Zenbleed]]></title>
-            <description><![CDATA[1098 points | <a href=https://news.ycombinator.com/item?id=36848680 target=_blank>303 comments</a>]]></description>
+            <description><![CDATA[1108 points | <a href=https://news.ycombinator.com/item?id=36848680 target=_blank>307 comments</a>]]></description>
             <pubDate>2023-07-24T14:34:31.000Z</pubDate>
             <guid isPermaLink="false">https://lock.cmpxchg8b.com/zenbleed.html</guid>
             <link>https://lock.cmpxchg8b.com/zenbleed.html</link>
@@ -50,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: A Python Job Board for Python Developers]]></title>
-            <description><![CDATA[945 points | <a href=https://news.ycombinator.com/item?id=36860953 target=_blank>1 comments</a>]]></description>
-            <pubDate>2023-07-25T11:53:10.000Z</pubDate>
-            <guid isPermaLink="false">https://www.pycareer.io</guid>
-            <link>https://www.pycareer.io</link>
-            
-            
-            
-            <author><![CDATA[TreeIsAlive]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google’s nightmare “Web Integrity API” wants a DRM gatekeeper for the web]]></title>
-            <description><![CDATA[900 points | <a href=https://news.ycombinator.com/item?id=36854114 target=_blank>368 comments</a>]]></description>
+            <description><![CDATA[913 points | <a href=https://news.ycombinator.com/item?id=36854114 target=_blank>378 comments</a>]]></description>
             <pubDate>2023-07-24T20:59:37.000Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/</guid>
             <link>https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/</link>
@@ -83,7 +51,7 @@
         
         <item>
             <title><![CDATA[Attention Is Off By One]]></title>
-            <description><![CDATA[895 points | <a href=https://news.ycombinator.com/item?id=36851494 target=_blank>289 comments</a>]]></description>
+            <description><![CDATA[907 points | <a href=https://news.ycombinator.com/item?id=36851494 target=_blank>291 comments</a>]]></description>
             <pubDate>2023-07-24T17:33:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.evanmiller.org/attention-is-off-by-one.html</guid>
             <link>https://www.evanmiller.org/attention-is-off-by-one.html</link>
@@ -99,7 +67,7 @@
         
         <item>
             <title><![CDATA[40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight]]></title>
-            <description><![CDATA[658 points | <a href=https://news.ycombinator.com/item?id=36850111 target=_blank>252 comments</a>]]></description>
+            <description><![CDATA[669 points | <a href=https://news.ycombinator.com/item?id=36850111 target=_blank>255 comments</a>]]></description>
             <pubDate>2023-07-24T16:03:03.000Z</pubDate>
             <guid isPermaLink="false">https://www.damninteresting.com/the-gimli-glider/</guid>
             <link>https://www.damninteresting.com/the-gimli-glider/</link>
@@ -115,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: I spent 2 years building a personal finance simulator]]></title>
-            <description><![CDATA[655 points | <a href=https://news.ycombinator.com/item?id=36849502 target=_blank>227 comments</a>]]></description>
+            <description><![CDATA[668 points | <a href=https://news.ycombinator.com/item?id=36849502 target=_blank>229 comments</a>]]></description>
             <pubDate>2023-07-24T15:25:06.000Z</pubDate>
             <guid isPermaLink="false">https://projectionlab.com/</guid>
             <link>https://projectionlab.com/</link>
@@ -130,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Have attention spans been declining?]]></title>
-            <description><![CDATA[566 points | <a href=https://news.ycombinator.com/item?id=36851644 target=_blank>408 comments</a>]]></description>
-            <pubDate>2023-07-24T17:43:37.000Z</pubDate>
-            <guid isPermaLink="false">https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/</guid>
-            <link>https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/</link>
-            
-            
-            
-            <author><![CDATA[janandonly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Mozilla Standards Positions Opposes Web Integrity API]]></title>
-            <description><![CDATA[552 points | <a href=https://news.ycombinator.com/item?id=36857032 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[593 points | <a href=https://news.ycombinator.com/item?id=36857032 target=_blank>149 comments</a>]]></description>
             <pubDate>2023-07-25T02:14:27.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/mozilla/standards-positions/issues/852</guid>
             <link>https://github.com/mozilla/standards-positions/issues/852</link>
@@ -162,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Have attention spans been declining?]]></title>
+            <description><![CDATA[575 points | <a href=https://news.ycombinator.com/item?id=36851644 target=_blank>410 comments</a>]]></description>
+            <pubDate>2023-07-24T17:43:37.000Z</pubDate>
+            <guid isPermaLink="false">https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/</guid>
+            <link>https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/</link>
+            
+            
+            
+            <author><![CDATA[janandonly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Got called to a professor’s office after a complaint his SPARC4 was running slow]]></title>
-            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=36857314 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[508 points | <a href=https://news.ycombinator.com/item?id=36857314 target=_blank>103 comments</a>]]></description>
             <pubDate>2023-07-25T03:00:26.000Z</pubDate>
             <guid isPermaLink="false">https://infosec.exchange/@paco/110772422266480371</guid>
             <link>https://infosec.exchange/@paco/110772422266480371</link>
@@ -179,7 +147,7 @@
         
         <item>
             <title><![CDATA[The Fall of Stack Overflow]]></title>
-            <description><![CDATA[434 points | <a href=https://news.ycombinator.com/item?id=36855516 target=_blank>549 comments</a>]]></description>
+            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=36855516 target=_blank>568 comments</a>]]></description>
             <pubDate>2023-07-24T23:11:56.000Z</pubDate>
             <guid isPermaLink="false">https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow</guid>
             <link>https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow</link>
@@ -194,15 +162,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Unicode Character “𝕏” (U+1D54F)]]></title>
-            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=36846076 target=_blank>282 comments</a>]]></description>
-            <pubDate>2023-07-24T11:22:13.000Z</pubDate>
-            <guid isPermaLink="false">https://www.compart.com/en/unicode/U+1D54F</guid>
-            <link>https://www.compart.com/en/unicode/U+1D54F</link>
+            <title><![CDATA[Driver.js: Product tours, highlights, contextual help and more]]></title>
+            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=36846520 target=_blank>107 comments</a>]]></description>
+            <pubDate>2023-07-24T12:02:50.000Z</pubDate>
+            <guid isPermaLink="false">https://driverjs.com/</guid>
+            <link>https://driverjs.com/</link>
             
             
             
-            <author><![CDATA[t0m44c]]></author>
+            <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ask HN: Which recent research paper blew your mind?]]></title>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=36846965 target=_blank>154 comments</a>]]></description>
+            <pubDate>2023-07-24T12:34:25.000Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=36846965</guid>
+            <link>https://news.ycombinator.com/item?id=36846965</link>
+            
+            
+            
+            <author><![CDATA[froster]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[People in 1920s Berlin nightclubs flirted via pneumatic tubes]]></title>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=36854061 target=_blank>103 comments</a>]]></description>
+            <pubDate>2023-07-24T20:54:23.000Z</pubDate>
+            <guid isPermaLink="false">https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin</guid>
+            <link>https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin</link>
+            
+            
+            
+            <author><![CDATA[jakobdabo]]></author>
             
                 
             
