@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Common Pitfalls in Go Benchmarking]]></title>
-            <description><![CDATA[1202 points | <a href=https://news.ycombinator.com/item?id=36860065 target=_blank>3 comments</a>]]></description>
+            <description><![CDATA[1202 points | <a href=https://news.ycombinator.com/item?id=36860065 target=_blank>4 comments</a>]]></description>
             <pubDate>2023-07-25T09:51:08.000Z</pubDate>
             <guid isPermaLink="false">https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/</guid>
             <link>https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Zenbleed]]></title>
-            <description><![CDATA[1057 points | <a href=https://news.ycombinator.com/item?id=36848680 target=_blank>298 comments</a>]]></description>
+            <description><![CDATA[1058 points | <a href=https://news.ycombinator.com/item?id=36848680 target=_blank>298 comments</a>]]></description>
             <pubDate>2023-07-24T14:34:31.000Z</pubDate>
             <guid isPermaLink="false">https://lock.cmpxchg8b.com/zenbleed.html</guid>
             <link>https://lock.cmpxchg8b.com/zenbleed.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Attention Is Off By One]]></title>
-            <description><![CDATA[868 points | <a href=https://news.ycombinator.com/item?id=36851494 target=_blank>283 comments</a>]]></description>
+            <description><![CDATA[870 points | <a href=https://news.ycombinator.com/item?id=36851494 target=_blank>283 comments</a>]]></description>
             <pubDate>2023-07-24T17:33:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.evanmiller.org/attention-is-off-by-one.html</guid>
             <link>https://www.evanmiller.org/attention-is-off-by-one.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Google’s nightmare “Web Integrity API” wants a DRM gatekeeper for the web]]></title>
-            <description><![CDATA[811 points | <a href=https://news.ycombinator.com/item?id=36854114 target=_blank>337 comments</a>]]></description>
+            <description><![CDATA[827 points | <a href=https://news.ycombinator.com/item?id=36854114 target=_blank>342 comments</a>]]></description>
             <pubDate>2023-07-24T20:59:37.000Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/</guid>
             <link>https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Twitter has officially changed its logo to ‘X’]]></title>
-            <description><![CDATA[706 points | <a href=https://news.ycombinator.com/item?id=36845111 target=_blank>1721 comments</a>]]></description>
-            <pubDate>2023-07-24T09:34:23.000Z</pubDate>
-            <guid isPermaLink="false">https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/</guid>
-            <link>https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/</link>
-            
-            
-            
-            <author><![CDATA[pallas_athena]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight]]></title>
-            <description><![CDATA[636 points | <a href=https://news.ycombinator.com/item?id=36850111 target=_blank>245 comments</a>]]></description>
+            <description><![CDATA[640 points | <a href=https://news.ycombinator.com/item?id=36850111 target=_blank>245 comments</a>]]></description>
             <pubDate>2023-07-24T16:03:03.000Z</pubDate>
             <guid isPermaLink="false">https://www.damninteresting.com/the-gimli-glider/</guid>
             <link>https://www.damninteresting.com/the-gimli-glider/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: I spent 2 years building a personal finance simulator]]></title>
-            <description><![CDATA[636 points | <a href=https://news.ycombinator.com/item?id=36849502 target=_blank>225 comments</a>]]></description>
+            <description><![CDATA[637 points | <a href=https://news.ycombinator.com/item?id=36849502 target=_blank>226 comments</a>]]></description>
             <pubDate>2023-07-24T15:25:06.000Z</pubDate>
             <guid isPermaLink="false">https://projectionlab.com/</guid>
             <link>https://projectionlab.com/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Have attention spans been declining?]]></title>
-            <description><![CDATA[556 points | <a href=https://news.ycombinator.com/item?id=36851644 target=_blank>395 comments</a>]]></description>
+            <description><![CDATA[557 points | <a href=https://news.ycombinator.com/item?id=36851644 target=_blank>396 comments</a>]]></description>
             <pubDate>2023-07-24T17:43:37.000Z</pubDate>
             <guid isPermaLink="false">https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/</guid>
             <link>https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Mozilla Standards Positions Opposes Web Integrity API]]></title>
-            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=36857032 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=36857032 target=_blank>116 comments</a>]]></description>
             <pubDate>2023-07-25T02:14:27.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/mozilla/standards-positions/issues/852</guid>
             <link>https://github.com/mozilla/standards-positions/issues/852</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Got called to a professor’s office after a complaint his SPARC4 was running slow]]></title>
-            <description><![CDATA[426 points | <a href=https://news.ycombinator.com/item?id=36857314 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[434 points | <a href=https://news.ycombinator.com/item?id=36857314 target=_blank>82 comments</a>]]></description>
             <pubDate>2023-07-25T03:00:26.000Z</pubDate>
             <guid isPermaLink="false">https://infosec.exchange/@paco/110772422266480371</guid>
             <link>https://infosec.exchange/@paco/110772422266480371</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[The Fall of Stack Overflow]]></title>
-            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=36855516 target=_blank>468 comments</a>]]></description>
+            <description><![CDATA[371 points | <a href=https://news.ycombinator.com/item?id=36855516 target=_blank>478 comments</a>]]></description>
             <pubDate>2023-07-24T23:11:56.000Z</pubDate>
             <guid isPermaLink="false">https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow</guid>
             <link>https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[ayhanfuat]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Driver.js: Product tours, highlights, contextual help and more]]></title>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=36846520 target=_blank>106 comments</a>]]></description>
+            <pubDate>2023-07-24T12:02:50.000Z</pubDate>
+            <guid isPermaLink="false">https://driverjs.com/</guid>
+            <link>https://driverjs.com/</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
