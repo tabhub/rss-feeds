@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The first room-temperature ambient-pressure superconductor?]]></title>
-            <description><![CDATA[1084 points | <a href=https://news.ycombinator.com/item?id=36864624 target=_blank>658 comments</a>]]></description>
+            <description><![CDATA[1092 points | <a href=https://news.ycombinator.com/item?id=36864624 target=_blank>659 comments</a>]]></description>
             <pubDate>2023-07-25T16:14:32.000Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2307.12008</guid>
             <link>https://arxiv.org/abs/2307.12008</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[At this company, we are family]]></title>
-            <description><![CDATA[501 points | <a href=https://news.ycombinator.com/item?id=36864476 target=_blank>301 comments</a>]]></description>
+            <description><![CDATA[502 points | <a href=https://news.ycombinator.com/item?id=36864476 target=_blank>302 comments</a>]]></description>
             <pubDate>2023-07-25T16:07:33.000Z</pubDate>
             <guid isPermaLink="false">https://pboyd.io/posts/at-company-we-are-family/</guid>
             <link>https://pboyd.io/posts/at-company-we-are-family/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple already shipped attestation on the web, and we barely noticed]]></title>
-            <description><![CDATA[498 points | <a href=https://news.ycombinator.com/item?id=36862494 target=_blank>374 comments</a>]]></description>
+            <description><![CDATA[499 points | <a href=https://news.ycombinator.com/item?id=36862494 target=_blank>374 comments</a>]]></description>
             <pubDate>2023-07-25T14:10:12.000Z</pubDate>
             <guid isPermaLink="false">https://httptoolkit.com/blog/apple-private-access-tokens-attestation/</guid>
             <link>https://httptoolkit.com/blog/apple-private-access-tokens-attestation/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Invoice Dragon – An open source app to create PDF invoices]]></title>
-            <description><![CDATA[478 points | <a href=https://news.ycombinator.com/item?id=36860898 target=_blank>150 comments</a>]]></description>
+            <description><![CDATA[480 points | <a href=https://news.ycombinator.com/item?id=36860898 target=_blank>150 comments</a>]]></description>
             <pubDate>2023-07-25T11:45:06.000Z</pubDate>
             <guid isPermaLink="false">https://invoicedragon.com/</guid>
             <link>https://invoicedragon.com/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[OpenAI shuts down its AI Classifier due to poor accuracy]]></title>
-            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=36862850 target=_blank>235 comments</a>]]></description>
+            <description><![CDATA[421 points | <a href=https://news.ycombinator.com/item?id=36862850 target=_blank>236 comments</a>]]></description>
             <pubDate>2023-07-25T14:34:17.000Z</pubDate>
             <guid isPermaLink="false">https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool</guid>
             <link>https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool</link>
@@ -91,6 +91,38 @@
             
             
             <author><![CDATA[cbowal]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Guide to running Llama 2 locally]]></title>
+            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=36865495 target=_blank>109 comments</a>]]></description>
+            <pubDate>2023-07-25T16:58:42.000Z</pubDate>
+            <guid isPermaLink="false">https://replicate.com/blog/run-llama-locally</guid>
+            <link>https://replicate.com/blog/run-llama-locally</link>
+            
+            
+            
+            <author><![CDATA[bfirsh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PRQL: Pipelined Relational Query Language]]></title>
+            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=36866861 target=_blank>162 comments</a>]]></description>
+            <pubDate>2023-07-25T18:13:51.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/PRQL/prql</guid>
+            <link>https://github.com/PRQL/prql</link>
+            
+            
+            
+            <author><![CDATA[animal_spirits]]></author>
             
                 
             
@@ -114,40 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Guide to running Llama 2 locally]]></title>
-            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=36865495 target=_blank>108 comments</a>]]></description>
-            <pubDate>2023-07-25T16:58:42.000Z</pubDate>
-            <guid isPermaLink="false">https://replicate.com/blog/run-llama-locally</guid>
-            <link>https://replicate.com/blog/run-llama-locally</link>
-            
-            
-            
-            <author><![CDATA[bfirsh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PRQL: Pipelined Relational Query Language]]></title>
-            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=36866861 target=_blank>162 comments</a>]]></description>
-            <pubDate>2023-07-25T18:13:51.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/PRQL/prql</guid>
-            <link>https://github.com/PRQL/prql</link>
-            
-            
-            
-            <author><![CDATA[animal_spirits]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[A forthcoming collapse of the Atlantic meridional overturning circulation]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=36864319 target=_blank>288 comments</a>]]></description>
+            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=36864319 target=_blank>288 comments</a>]]></description>
             <pubDate>2023-07-25T15:59:54.000Z</pubDate>
             <guid isPermaLink="false">https://www.nature.com/articles/s41467-023-39810-w</guid>
             <link>https://www.nature.com/articles/s41467-023-39810-w</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Is technical analysis just stock market astrology?]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=36864115 target=_blank>376 comments</a>]]></description>
+            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=36864115 target=_blank>377 comments</a>]]></description>
             <pubDate>2023-07-25T15:49:39.000Z</pubDate>
             <guid isPermaLink="false">https://alicegg.tech//2023/07/25/technical-analysis.html</guid>
             <link>https://alicegg.tech//2023/07/25/technical-analysis.html</link>
