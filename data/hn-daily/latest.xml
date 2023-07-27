@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Superconductor news: What’s claimed, and how strong the evidence seems to be]]></title>
-            <description><![CDATA[1003 points | <a href=https://news.ycombinator.com/item?id=36881808 target=_blank>370 comments</a>]]></description>
+            <description><![CDATA[1008 points | <a href=https://news.ycombinator.com/item?id=36881808 target=_blank>371 comments</a>]]></description>
             <pubDate>2023-07-26T17:46:30.000Z</pubDate>
             <guid isPermaLink="false">https://www.science.org/content/blog-post/breaking-superconductor-news</guid>
             <link>https://www.science.org/content/blog-post/breaking-superconductor-news</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Super sorry to the guy with the username reset on GitHub]]></title>
-            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=36888444 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=36888444 target=_blank>158 comments</a>]]></description>
             <pubDate>2023-07-27T03:11:11.000Z</pubDate>
             <guid isPermaLink="false">https://discuss.systems/@adrian/110783401400871208</guid>
             <link>https://discuss.systems/@adrian/110783401400871208</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Tarsnap outage postmortem]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=36888954 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=36888954 target=_blank>112 comments</a>]]></description>
             <pubDate>2023-07-27T04:33:56.000Z</pubDate>
             <guid isPermaLink="false">https://mail.tarsnap.com/tarsnap-announce/msg00050.html</guid>
             <link>https://mail.tarsnap.com/tarsnap-announce/msg00050.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Kids Online Safety Act is still a danger to our rights online]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=36885040 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=36885040 target=_blank>106 comments</a>]]></description>
             <pubDate>2023-07-26T21:07:07.000Z</pubDate>
             <guid isPermaLink="false">https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online</guid>
             <link>https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[It's 2023, so of course I'm learning Common Lisp]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=36887091 target=_blank>226 comments</a>]]></description>
-            <pubDate>2023-07-27T00:21:46.000Z</pubDate>
-            <guid isPermaLink="false">https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html</guid>
-            <link>https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html</link>
-            
-            
-            
-            <author><![CDATA[behnamoh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google Web Environment Integrity Is the New Microsoft Trusted Computing]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=36888156 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=36888156 target=_blank>112 comments</a>]]></description>
             <pubDate>2023-07-27T02:28:37.000Z</pubDate>
             <guid isPermaLink="false">https://www.neelc.org/posts/google-webauth-palladium/</guid>
             <link>https://www.neelc.org/posts/google-webauth-palladium/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[neelc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[It's 2023, so of course I'm learning Common Lisp]]></title>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=36887091 target=_blank>227 comments</a>]]></description>
+            <pubDate>2023-07-27T00:21:46.000Z</pubDate>
+            <guid isPermaLink="false">https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html</guid>
+            <link>https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html</link>
+            
+            
+            
+            <author><![CDATA[behnamoh]]></author>
             
                 
             
