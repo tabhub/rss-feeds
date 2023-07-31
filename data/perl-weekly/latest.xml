@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #626]]></title>
+        <title><![CDATA[Perl Weekly #627]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl Catalyst Release 5.90131]]></title>
-            <description><![CDATA[Version 5.90131 of the Perl MVC web development framework Catalyst just hit CPAN.]]></description>
-            <pubDate>2023.07.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/perl-catalyst-release-590131-4pn0</guid>
-            <link>https://dev.to/jjn1056/perl-catalyst-release-590131-4pn0</link>
+            <title><![CDATA[No One Is Immune to Abuse]]></title>
+            <description><![CDATA[I watched the presentation of Sawyer, and then the QA. One thing I can tell, that when I received abuse in public, what really hurt was that I did not see (enough) people publicly standing up for me. Not even with a down-vote of the abusing post (e.g. Reddit). Besides hurting me, I think this also hurts the community a lot. People watching these forums seeing the abuse that goes unchallenged will much less likely to get involved in the community.]]></description>
+            <pubDate>2023.07.30</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oldtechaa/2023/07/no-one-is-immune-to-abuse.html</guid>
+            <link>https://blogs.perl.org/users/oldtechaa/2023/07/no-one-is-immune-to-abuse.html</link>
             
             
             
-            <author><![CDATA[john_napiorkowski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Why we use Perl at our company]]></title>
-            <description><![CDATA[Another success story of use of Perl in a well documented post. ]]></description>
-            <pubDate>2023.07.19</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/uriel/2023/07/why-we-use-perl-at-our-company.html</guid>
-            <link>https://blogs.perl.org/users/uriel/2023/07/why-we-use-perl-at-our-company.html</link>
-            
-            
-            
-            <author><![CDATA[uriel_lizama]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -50,75 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Using Postgresql pg_vector for AI: Part 1, WTF is a Vector Anyway?]]></title>
-            <description><![CDATA[Talk of the town AI is being picked by John in the blog post series. If you are new to generative AI then you should check out it yourself.]]></description>
-            <pubDate>2023.07.23</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-1-wtf-is-a-vector-anyway-1dmf</guid>
-            <link>https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-1-wtf-is-a-vector-anyway-1dmf</link>
-            
-            
-            
-            <author><![CDATA[john_napiorkowski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Using Postgresql pg_vector for AI: Part 2, Using vectors For Natural Language Processing]]></title>
-            <description><![CDATA[In the blog post you will learn the use of OpenAI to create vector.]]></description>
-            <pubDate>2023.07.23</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40</guid>
-            <link>https://dev.to/jjn1056/using-postgresql-pgvector-for-ai-part-2-using-vectors-for-natural-language-processing-b40</link>
-            
-            
-            
-            <author><![CDATA[john_napiorkowski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA["Next Action" - Improving Perl Catalyst Chained Actions]]></title>
-            <description><![CDATA[Perl's Catalyst MVC web framework action chaining is explained in details. Highly recommended.]]></description>
-            <pubDate>2023.07.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/next-action-improving-catalyst-chained-actions-f79</guid>
-            <link>https://dev.to/jjn1056/next-action-improving-catalyst-chained-actions-f79</link>
-            
-            
-            
-            <author><![CDATA[john_napiorkowski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Modernize Chained Actions in Perl Catalyst MVC]]></title>
-            <description><![CDATA[Latest release of Perl Catalyst is out with enhancements to chained actions.]]></description>
-            <pubDate>2023.07.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/modernize-chained-actions-in-perl-catalyst-mvc-55fe</guid>
-            <link>https://dev.to/jjn1056/modernize-chained-actions-in-perl-catalyst-mvc-55fe</link>
-            
-            
-            
-            <author><![CDATA[john_napiorkowski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LDAP groups expansion]]></title>
-            <description><![CDATA[Please find working code in Perl to play with LDAP directory.]]></description>
-            <pubDate>2023.07.19</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/07/19/ldap-groups-expansion/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/07/19/ldap-groups-expansion/</link>
+            <title><![CDATA[Romeo teepee gets looping option]]></title>
+            <description><![CDATA[Romeo is a hydra-like Perl program. But what is Hydra? Here is what Flavio says about Romeo: Terminal utilities, mainly for fun and celebrating a great cat.]]></description>
+            <pubDate>2023.07.30</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/07/30/romeo-teepee-gets-looping-option/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/07/30/romeo-teepee-gets-looping-option/</link>
             
             
             
@@ -130,15 +50,63 @@
         </item>
         
         <item>
-            <title><![CDATA[2023.29 DSLs and ASTs]]></title>
-            <description><![CDATA[2023.29 DSLs and ASTs]]></description>
-            <pubDate>2023.07.17</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/07/17/2023-29-dsls-and-asts/</guid>
-            <link>https://rakudoweekly.blog/2023/07/17/2023-29-dsls-and-asts/</link>
+            <title><![CDATA[Will the reference books be updated?]]></title>
+            <description><![CDATA[That is, someone wanted to know if the book <b>Programming Perl</b> will be updated.]]></description>
+            <pubDate>2023.07.30</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/15dbkjn/will_the_reference_books_be_updated/</guid>
+            <link>https://www.reddit.com/r/perl/comments/15dbkjn/will_the_reference_books_be_updated/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Building a Perl Module for Posting to Bluesky Social]]></title>
+            <description><![CDATA[The new social media network is growing by leaps and bounds. Learning to post to it with Perl offers lessons useful to coders of all languages.]]></description>
+            <pubDate>2023.07.11</pubDate>
+            <guid isPermaLink="false">https://betterprogramming.pub/building-a-perl-module-for-posting-to-bluesky-social-92fc732fc297</guid>
+            <link>https://betterprogramming.pub/building-a-perl-module-for-posting-to-bluesky-social-92fc732fc297</link>
+            
+            
+            
+            <author><![CDATA[william_shunn]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Three days of pause]]></title>
+            <description><![CDATA[After 3 years of blogging every day, Flavio took a 3-day break. Just to have fresh start.]]></description>
+            <pubDate>2023.07.25</pubDate>
+            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/07/25/three-days-of-pause/</guid>
+            <link>https://github.polettix.it/ETOOBUSY/2023/07/25/three-days-of-pause/</link>
+            
+            
+            
+            <author><![CDATA[flavio_poletti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[More prototype play: Dispatch::Fu]]></title>
+            <description><![CDATA[More prototype play: Dispatch::Fu]]></description>
+            <pubDate>2023.07.26</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2023/07/more-prototype-play-dispatchfu.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2023/07/more-prototype-play-dispatchfu.html</link>
+            
+            
+            
+            <author><![CDATA[oodler]]></author>
             
                 
             
@@ -147,30 +115,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/07/cdliii-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxxxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.07.22</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/07/cdliv-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxiii-metacpan-weekly-report-lingy.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxxxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.07</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[First report: More than 80% of the crates link to their public VCS]]></title>
-            <description><![CDATA[I have been working on the Rust Digger for more than a month. This is the first repor I created.]]></description>
-            <pubDate>2023.07.22</pubDate>
-            <guid isPermaLink="false">https://rust-digger.code-maven.com/news/first-report</guid>
-            <link>https://rust-digger.code-maven.com/news/first-report</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
