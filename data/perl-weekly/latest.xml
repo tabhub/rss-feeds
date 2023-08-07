@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #627]]></title>
+        <title><![CDATA[Perl Weekly #628]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,31 @@
         <ttl></ttl>
         
         <item>
+            <title><![CDATA[2023 Perl Advent Calendar]]></title>
+            <description><![CDATA[It's time to start thinking about how you are going to contribute to the 2023 Perl Advent Calendar.]]></description>
+            <pubDate>2023.08.03</pubDate>
+            <guid isPermaLink="false">https://github.com/perladvent/Perl-Advent/issues/new/choose</guid>
+            <link>https://github.com/perladvent/Perl-Advent/issues/new/choose</link>
+            
+            
+            
+            <author><![CDATA[brian_d_foy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[No One Is Immune to Abuse]]></title>
-            <description><![CDATA[I watched the presentation of Sawyer, and then the QA. One thing I can tell, that when I received abuse in public, what really hurt was that I did not see (enough) people publicly standing up for me. Not even with a down-vote of the abusing post (e.g. Reddit). Besides hurting me, I think this also hurts the community a lot. People watching these forums seeing the abuse that goes unchallenged will much less likely to get involved in the community.]]></description>
+            <description><![CDATA[Avery felt it is important to share his view with the community about the recent video by Sawyer. Sensitive discussion, thanks for sharing.]]></description>
             <pubDate>2023.07.30</pubDate>
             <guid isPermaLink="false">https://blogs.perl.org/users/oldtechaa/2023/07/no-one-is-immune-to-abuse.html</guid>
             <link>https://blogs.perl.org/users/oldtechaa/2023/07/no-one-is-immune-to-abuse.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[avery_adams]]></author>
             
                 
             
@@ -34,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Romeo teepee gets looping option]]></title>
-            <description><![CDATA[Romeo is a hydra-like Perl program. But what is Hydra? Here is what Flavio says about Romeo: Terminal utilities, mainly for fun and celebrating a great cat.]]></description>
-            <pubDate>2023.07.30</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/07/30/romeo-teepee-gets-looping-option/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/07/30/romeo-teepee-gets-looping-option/</link>
+            <title><![CDATA[Modern Perl Catalyst: Docker Setup]]></title>
+            <description><![CDATA[John started blog series about Modern Perl Catalyst. If you are new to Catalyst like me then this is the good start.]]></description>
+            <pubDate>2023.08.02</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/modern-perl-catalyst-docker-setup-2246</guid>
+            <link>https://dev.to/jjn1056/modern-perl-catalyst-docker-setup-2246</link>
             
             
             
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Will the reference books be updated?]]></title>
-            <description><![CDATA[That is, someone wanted to know if the book <b>Programming Perl</b> will be updated.]]></description>
-            <pubDate>2023.07.30</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/15dbkjn/will_the_reference_books_be_updated/</guid>
-            <link>https://www.reddit.com/r/perl/comments/15dbkjn/will_the_reference_books_be_updated/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
             
                 
             
@@ -66,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Building a Perl Module for Posting to Bluesky Social]]></title>
-            <description><![CDATA[The new social media network is growing by leaps and bounds. Learning to post to it with Perl offers lessons useful to coders of all languages.]]></description>
-            <pubDate>2023.07.11</pubDate>
-            <guid isPermaLink="false">https://betterprogramming.pub/building-a-perl-module-for-posting-to-bluesky-social-92fc732fc297</guid>
-            <link>https://betterprogramming.pub/building-a-perl-module-for-posting-to-bluesky-social-92fc732fc297</link>
+            <title><![CDATA[Modern Perl Catalyst: Docker Setup - Update]]></title>
+            <description><![CDATA[Further update on docket setup. Find out more how Perl v5.38 would behave.]]></description>
+            <pubDate>2023.08.03</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/modern-perl-catalyst-docker-setup-update-150m</guid>
+            <link>https://dev.to/jjn1056/modern-perl-catalyst-docker-setup-update-150m</link>
             
             
             
-            <author><![CDATA[william_shunn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Three days of pause]]></title>
-            <description><![CDATA[After 3 years of blogging every day, Flavio took a 3-day break. Just to have fresh start.]]></description>
-            <pubDate>2023.07.25</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/07/25/three-days-of-pause/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/07/25/three-days-of-pause/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
             
                 
             
@@ -98,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[More prototype play: Dispatch::Fu]]></title>
-            <description><![CDATA[More prototype play: Dispatch::Fu]]></description>
-            <pubDate>2023.07.26</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2023/07/more-prototype-play-dispatchfu.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2023/07/more-prototype-play-dispatchfu.html</link>
+            <title><![CDATA[2023.31 Unicode Explained]]></title>
+            <description><![CDATA[2023.31 Unicode Explained]]></description>
+            <pubDate>2023.07.31</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/07/31/2023-31-unicode-explained/</guid>
+            <link>https://rakudoweekly.blog/2023/07/31/2023-31-unicode-explained/</link>
             
             
             
-            <author><![CDATA[oodler]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/07/cdliv-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxiii-metacpan-weekly-report-lingy.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/07/dlxxxviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.07</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/08/cdlv-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/08/dlxxxix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.08.05</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
