@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Vim Boss]]></title>
-            <description><![CDATA[1156 points | <a href=https://news.ycombinator.com/item?id=37078719 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[1159 points | <a href=https://news.ycombinator.com/item?id=37078719 target=_blank>106 comments</a>]]></description>
             <pubDate>2023-08-10T17:02:14.000Z</pubDate>
             <guid isPermaLink="false">https://neovim.io/news/2023/08</guid>
             <link>https://neovim.io/news/2023/08</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Firefox desktop extensions coming soon for the upcoming Android release]]></title>
-            <description><![CDATA[626 points | <a href=https://news.ycombinator.com/item?id=37084677 target=_blank>262 comments</a>]]></description>
+            <description><![CDATA[629 points | <a href=https://news.ycombinator.com/item?id=37084677 target=_blank>270 comments</a>]]></description>
             <pubDate>2023-08-11T03:09:30.000Z</pubDate>
             <guid isPermaLink="false">https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/</guid>
             <link>https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[HashiCorp adopts Business Source License]]></title>
-            <description><![CDATA[536 points | <a href=https://news.ycombinator.com/item?id=37081306 target=_blank>490 comments</a>]]></description>
+            <description><![CDATA[536 points | <a href=https://news.ycombinator.com/item?id=37081306 target=_blank>492 comments</a>]]></description>
             <pubDate>2023-08-10T20:26:37.000Z</pubDate>
             <guid isPermaLink="false">https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license</guid>
             <link>https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Source code for Quake 2 rerelease]]></title>
-            <description><![CDATA[522 points | <a href=https://news.ycombinator.com/item?id=37082771 target=_blank>204 comments</a>]]></description>
+            <description><![CDATA[522 points | <a href=https://news.ycombinator.com/item?id=37082771 target=_blank>205 comments</a>]]></description>
             <pubDate>2023-08-10T22:57:10.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/id-Software/quake2-rerelease-dll</guid>
             <link>https://github.com/id-Software/quake2-rerelease-dll</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[My Overkill Home Network]]></title>
-            <description><![CDATA[486 points | <a href=https://news.ycombinator.com/item?id=37081789 target=_blank>374 comments</a>]]></description>
+            <description><![CDATA[489 points | <a href=https://news.ycombinator.com/item?id=37081789 target=_blank>375 comments</a>]]></description>
             <pubDate>2023-08-10T21:05:20.000Z</pubDate>
             <guid isPermaLink="false">https://blog.networkprofile.org/my-home-network-complete-details-2023/</guid>
             <link>https://blog.networkprofile.org/my-home-network-complete-details-2023/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: Tetris, but the blocks are ARM instructions that execute in the browser]]></title>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=37083309 target=_blank>36 comments</a>]]></description>
+            <pubDate>2023-08-10T23:56:03.000Z</pubDate>
+            <guid isPermaLink="false">https://ofrak.com/tetris/</guid>
+            <link>https://ofrak.com/tetris/</link>
+            
+            
+            
+            <author><![CDATA[jstrieb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Students’ insight proves that the local-global conjecture doesn’t hold]]></title>
             <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=37076933 target=_blank>81 comments</a>]]></description>
             <pubDate>2023-08-10T14:54:44.000Z</pubDate>
@@ -155,22 +171,6 @@
             
             
             <author><![CDATA[Tomte]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: Tetris, but the blocks are ARM instructions that execute in the browser]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=37083309 target=_blank>36 comments</a>]]></description>
-            <pubDate>2023-08-10T23:56:03.000Z</pubDate>
-            <guid isPermaLink="false">https://ofrak.com/tetris/</guid>
-            <link>https://ofrak.com/tetris/</link>
-            
-            
-            
-            <author><![CDATA[jstrieb]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[A Modern C Development Environment]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=37081833 target=_blank>219 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=37081833 target=_blank>219 comments</a>]]></description>
             <pubDate>2023-08-10T21:08:40.000Z</pubDate>
             <guid isPermaLink="false">https://interrupt.memfault.com/blog/a-modern-c-dev-env</guid>
             <link>https://interrupt.memfault.com/blog/a-modern-c-dev-env</link>
