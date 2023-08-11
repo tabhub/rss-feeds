@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Vim Boss]]></title>
-            <description><![CDATA[1054 points | <a href=https://news.ycombinator.com/item?id=37078719 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[1063 points | <a href=https://news.ycombinator.com/item?id=37078719 target=_blank>90 comments</a>]]></description>
             <pubDate>2023-08-10T17:02:14.000Z</pubDate>
             <guid isPermaLink="false">https://neovim.io/news/2023/08</guid>
             <link>https://neovim.io/news/2023/08</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The Future of the Vim Project]]></title>
-            <description><![CDATA[652 points | <a href=https://news.ycombinator.com/item?id=37074452 target=_blank>361 comments</a>]]></description>
+            <description><![CDATA[652 points | <a href=https://news.ycombinator.com/item?id=37074452 target=_blank>362 comments</a>]]></description>
             <pubDate>2023-08-10T10:57:30.000Z</pubDate>
             <guid isPermaLink="false">https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw</guid>
             <link>https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[HashiCorp adopts Business Source License]]></title>
-            <description><![CDATA[443 points | <a href=https://news.ycombinator.com/item?id=37081306 target=_blank>396 comments</a>]]></description>
+            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=37081306 target=_blank>404 comments</a>]]></description>
             <pubDate>2023-08-10T20:26:37.000Z</pubDate>
             <guid isPermaLink="false">https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license</guid>
             <link>https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[MS Teams channels cannot contain MS-DOS device names]]></title>
-            <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=37076523 target=_blank>311 comments</a>]]></description>
-            <pubDate>2023-08-10T14:21:46.000Z</pubDate>
-            <guid isPermaLink="false">https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams</guid>
-            <link>https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams</link>
-            
-            
-            
-            <author><![CDATA[tapoxi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Source code for Quake 2 rerelease]]></title>
-            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=37082771 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=37082771 target=_blank>169 comments</a>]]></description>
             <pubDate>2023-08-10T22:57:10.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/id-Software/quake2-rerelease-dll</guid>
             <link>https://github.com/id-Software/quake2-rerelease-dll</link>
@@ -107,6 +91,22 @@
             
             
             <author><![CDATA[steveklabnik]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MS Teams channels cannot contain MS-DOS device names]]></title>
+            <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=37076523 target=_blank>312 comments</a>]]></description>
+            <pubDate>2023-08-10T14:21:46.000Z</pubDate>
+            <guid isPermaLink="false">https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams</guid>
+            <link>https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams</link>
+            
+            
+            
+            <author><![CDATA[tapoxi]]></author>
             
                 
             
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[eSignature Beta for Google Docs and Google Drive]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=37079534 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=37079534 target=_blank>156 comments</a>]]></description>
             <pubDate>2023-08-10T17:59:07.000Z</pubDate>
             <guid isPermaLink="false">https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html</guid>
             <link>https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[My Overkill Home Network]]></title>
-            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=37081789 target=_blank>256 comments</a>]]></description>
-            <pubDate>2023-08-10T21:05:20.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.networkprofile.org/my-home-network-complete-details-2023/</guid>
-            <link>https://blog.networkprofile.org/my-home-network-complete-details-2023/</link>
-            
-            
-            
-            <author><![CDATA[monstermunch]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Firefox desktop extensions coming soon for the upcoming Android release]]></title>
-            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=37084677 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=37084677 target=_blank>123 comments</a>]]></description>
             <pubDate>2023-08-11T03:09:30.000Z</pubDate>
             <guid isPermaLink="false">https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/</guid>
             <link>https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/</link>
@@ -171,6 +155,22 @@
             
             
             <author><![CDATA[rc00]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My Overkill Home Network]]></title>
+            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=37081789 target=_blank>265 comments</a>]]></description>
+            <pubDate>2023-08-10T21:05:20.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.networkprofile.org/my-home-network-complete-details-2023/</guid>
+            <link>https://blog.networkprofile.org/my-home-network-complete-details-2023/</link>
+            
+            
+            
+            <author><![CDATA[monstermunch]]></author>
             
                 
             
