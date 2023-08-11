@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Vim Boss]]></title>
-            <description><![CDATA[827 points | <a href=https://news.ycombinator.com/item?id=37078719 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[832 points | <a href=https://news.ycombinator.com/item?id=37078719 target=_blank>78 comments</a>]]></description>
             <pubDate>2023-08-10T17:02:14.000Z</pubDate>
             <guid isPermaLink="false">https://neovim.io/news/2023/08</guid>
             <link>https://neovim.io/news/2023/08</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The Future of the Vim Project]]></title>
-            <description><![CDATA[637 points | <a href=https://news.ycombinator.com/item?id=37074452 target=_blank>357 comments</a>]]></description>
+            <description><![CDATA[639 points | <a href=https://news.ycombinator.com/item?id=37074452 target=_blank>357 comments</a>]]></description>
             <pubDate>2023-08-10T10:57:30.000Z</pubDate>
             <guid isPermaLink="false">https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw</guid>
             <link>https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Do Machine Learning Models Memorize or Generalize?]]></title>
-            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=37076210 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=37076210 target=_blank>167 comments</a>]]></description>
             <pubDate>2023-08-10T13:56:24.000Z</pubDate>
             <guid isPermaLink="false">https://pair.withgoogle.com/explorables/grokking/</guid>
             <link>https://pair.withgoogle.com/explorables/grokking/</link>
@@ -91,6 +91,22 @@
             
             
             <author><![CDATA[1wheel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[HashiCorp Adopts Business Source License]]></title>
+            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=37081306 target=_blank>313 comments</a>]]></description>
+            <pubDate>2023-08-10T20:26:37.000Z</pubDate>
+            <guid isPermaLink="false">https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license</guid>
+            <link>https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license</link>
+            
+            
+            
+            <author><![CDATA[rpadovani]]></author>
             
                 
             
@@ -114,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[HashiCorp Adopts Business Source License]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=37081306 target=_blank>308 comments</a>]]></description>
-            <pubDate>2023-08-10T20:26:37.000Z</pubDate>
-            <guid isPermaLink="false">https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license</guid>
-            <link>https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license</link>
+            <title><![CDATA[Source code for Quake 2 rerelease]]></title>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=37082771 target=_blank>137 comments</a>]]></description>
+            <pubDate>2023-08-10T22:57:10.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/id-Software/quake2-rerelease-dll</guid>
+            <link>https://github.com/id-Software/quake2-rerelease-dll</link>
             
             
             
-            <author><![CDATA[rpadovani]]></author>
+            <author><![CDATA[steveklabnik]]></author>
             
                 
             
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[eSignature for Google Docs and Google Drive (Beta)]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=37079534 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=37079534 target=_blank>138 comments</a>]]></description>
             <pubDate>2023-08-10T17:59:07.000Z</pubDate>
             <guid isPermaLink="false">https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html</guid>
             <link>https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html</link>
@@ -139,22 +155,6 @@
             
             
             <author><![CDATA[rc00]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Source code for Quake 2 rerelease]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=37082771 target=_blank>132 comments</a>]]></description>
-            <pubDate>2023-08-10T22:57:10.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/id-Software/quake2-rerelease-dll</guid>
-            <link>https://github.com/id-Software/quake2-rerelease-dll</link>
-            
-            
-            
-            <author><![CDATA[steveklabnik]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Show HN: Applite – Clean Homebrew front end app for macOS built with SwiftUI]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=37075730 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=37075730 target=_blank>65 comments</a>]]></description>
             <pubDate>2023-08-10T13:13:57.000Z</pubDate>
             <guid isPermaLink="false">https://aerolite.dev/applite/index.html</guid>
             <link>https://aerolite.dev/applite/index.html</link>
