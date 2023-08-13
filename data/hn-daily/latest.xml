@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Carrot Problem]]></title>
-            <description><![CDATA[480 points | <a href=https://news.ycombinator.com/item?id=37100226 target=_blank>255 comments</a>]]></description>
-            <pubDate>2023-08-12T13:57:18.000Z</pubDate>
-            <guid isPermaLink="false">https://www.atvbt.com/the-carrot-problem/</guid>
-            <link>https://www.atvbt.com/the-carrot-problem/</link>
-            
-            
-            
-            <author><![CDATA[deadcoder0904]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Exploring the Internals of Linux v0.01]]></title>
-            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=37101588 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[454 points | <a href=https://news.ycombinator.com/item?id=37101588 target=_blank>112 comments</a>]]></description>
             <pubDate>2023-08-12T16:06:00.000Z</pubDate>
             <guid isPermaLink="false">https://seiya.me/blog/reading-linux-v0.01</guid>
             <link>https://seiya.me/blog/reading-linux-v0.01</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[A conversation with a newspaper owner raided by cops]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=37102271 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=37102271 target=_blank>110 comments</a>]]></description>
             <pubDate>2023-08-12T17:17:22.000Z</pubDate>
             <guid isPermaLink="false">https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper</guid>
             <link>https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[A Blog Post with Every HTML Element]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=37104742 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=37104742 target=_blank>69 comments</a>]]></description>
             <pubDate>2023-08-12T22:19:37.000Z</pubDate>
             <guid isPermaLink="false">https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/</guid>
             <link>https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Auditory illusions with examples from Daft Punk]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=37103802 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=37103802 target=_blank>93 comments</a>]]></description>
             <pubDate>2023-08-12T20:10:51.000Z</pubDate>
             <guid isPermaLink="false">https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/</guid>
             <link>https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=37105524 target=_blank>125 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=37105524 target=_blank>125 comments</a>]]></description>
             <pubDate>2023-08-13T00:44:44.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/NixOS/rfcs/pull/136</guid>
             <link>https://github.com/NixOS/rfcs/pull/136</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Ode to the M1]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=37105610 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=37105610 target=_blank>219 comments</a>]]></description>
             <pubDate>2023-08-13T00:59:24.000Z</pubDate>
             <guid isPermaLink="false">https://fabiensanglard.net/m1/index.html</guid>
             <link>https://fabiensanglard.net/m1/index.html</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Render nuked my entire account with no notice]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=37107298 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=37107298 target=_blank>93 comments</a>]]></description>
             <pubDate>2023-08-13T06:50:14.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=37107298</guid>
             <link>https://news.ycombinator.com/item?id=37107298</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[anigbrowl]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Thermodynamic Linear Algebra]]></title>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=37106789 target=_blank>48 comments</a>]]></description>
+            <pubDate>2023-08-13T04:48:20.000Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2308.05660</guid>
+            <link>https://arxiv.org/abs/2308.05660</link>
+            
+            
+            
+            <author><![CDATA[aifer4]]></author>
             
                 
             
