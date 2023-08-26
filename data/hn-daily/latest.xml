@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Factorio: Space Age]]></title>
-            <description><![CDATA[1311 points | <a href=https://news.ycombinator.com/item?id=37260637 target=_blank>319 comments</a>]]></description>
+            <description><![CDATA[1312 points | <a href=https://news.ycombinator.com/item?id=37260637 target=_blank>319 comments</a>]]></description>
             <pubDate>2023-08-25T11:50:20.000Z</pubDate>
             <guid isPermaLink="false">https://factorio.com/blog/post/fff-373</guid>
             <link>https://factorio.com/blog/post/fff-373</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[OpenTF announces fork of Terraform]]></title>
-            <description><![CDATA[1178 points | <a href=https://news.ycombinator.com/item?id=37262440 target=_blank>372 comments</a>]]></description>
+            <description><![CDATA[1184 points | <a href=https://news.ycombinator.com/item?id=37262440 target=_blank>373 comments</a>]]></description>
             <pubDate>2023-08-25T14:56:48.000Z</pubDate>
             <guid isPermaLink="false">https://opentf.org/announcement</guid>
             <link>https://opentf.org/announcement</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Web scraping for me, but not for thee]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=37264676 target=_blank>95 comments</a>]]></description>
+            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=37264676 target=_blank>99 comments</a>]]></description>
             <pubDate>2023-08-25T17:42:23.000Z</pubDate>
             <guid isPermaLink="false">https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm</guid>
             <link>https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm</link>
@@ -98,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Understanding Automatic Differentiation in 30 lines of Python]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=37256903 target=_blank>42 comments</a>]]></description>
-            <pubDate>2023-08-25T01:47:59.000Z</pubDate>
-            <guid isPermaLink="false">https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html</guid>
-            <link>https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html</link>
+            <title><![CDATA[Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B]]></title>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=37267597 target=_blank>96 comments</a>]]></description>
+            <pubDate>2023-08-25T22:08:23.000Z</pubDate>
+            <guid isPermaLink="false">https://www.phind.com/blog/code-llama-beats-gpt4</guid>
+            <link>https://www.phind.com/blog/code-llama-beats-gpt4</link>
             
             
             
-            <author><![CDATA[sebg]]></author>
+            <author><![CDATA[rushingcreek]]></author>
             
                 
             
@@ -123,22 +123,6 @@
             
             
             <author><![CDATA[auraham]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=37267597 target=_blank>94 comments</a>]]></description>
-            <pubDate>2023-08-25T22:08:23.000Z</pubDate>
-            <guid isPermaLink="false">https://www.phind.com/blog/code-llama-beats-gpt4</guid>
-            <link>https://www.phind.com/blog/code-llama-beats-gpt4</link>
-            
-            
-            
-            <author><![CDATA[rushingcreek]]></author>
             
                 
             
@@ -178,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How to speed up the Rust compiler]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=37256889 target=_blank>67 comments</a>]]></description>
-            <pubDate>2023-08-25T01:45:59.000Z</pubDate>
-            <guid isPermaLink="false">https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html</guid>
-            <link>https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html</link>
-            
-            
-            
-            <author><![CDATA[mfrw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[HelloSystem: A graphical OS built on FreeBSD]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=37262857 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=37262857 target=_blank>102 comments</a>]]></description>
             <pubDate>2023-08-25T15:32:31.000Z</pubDate>
             <guid isPermaLink="false">https://hellosystem.github.io/docs/</guid>
             <link>https://hellosystem.github.io/docs/</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[gautamcgoel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The EU's war on behavioral advertising]]></title>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=37263322 target=_blank>218 comments</a>]]></description>
+            <pubDate>2023-08-25T16:07:36.000Z</pubDate>
+            <guid isPermaLink="false">https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising</guid>
+            <link>https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising</link>
+            
+            
+            
+            <author><![CDATA[curiousbird]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The College Board website shares GPAs, SAT scores with TikTok and Facebook]]></title>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=37260553 target=_blank>95 comments</a>]]></description>
+            <pubDate>2023-08-25T11:38:06.000Z</pubDate>
+            <guid isPermaLink="false">https://gizmodo.com/sat-college-board-tells-facebook-tiktok-your-scores-gpa-1850768077</guid>
+            <link>https://gizmodo.com/sat-college-board-tells-facebook-tiktok-your-scores-gpa-1850768077</link>
+            
+            
+            
+            <author><![CDATA[mikece]]></author>
             
                 
             
