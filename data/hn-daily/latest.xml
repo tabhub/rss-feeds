@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[ISPs should not police online speech no matter how awful it is]]></title>
-            <description><![CDATA[1203 points | <a href=https://news.ycombinator.com/item?id=37313349 target=_blank>842 comments</a>]]></description>
+            <description><![CDATA[1214 points | <a href=https://news.ycombinator.com/item?id=37313349 target=_blank>844 comments</a>]]></description>
             <pubDate>2023-08-29T20:17:54.000Z</pubDate>
             <guid isPermaLink="false">https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it</guid>
             <link>https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Keystroke timing obfuscation added to ssh(1)]]></title>
-            <description><![CDATA[560 points | <a href=https://news.ycombinator.com/item?id=37307708 target=_blank>245 comments</a>]]></description>
-            <pubDate>2023-08-29T13:36:05.000Z</pubDate>
-            <guid isPermaLink="false">https://undeadly.org/cgi?action=article;sid=20230829051257</guid>
-            <link>https://undeadly.org/cgi?action=article;sid=20230829051257</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ask HN: Why did Python win?]]></title>
-            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=37308747 target=_blank>755 comments</a>]]></description>
+            <description><![CDATA[480 points | <a href=https://news.ycombinator.com/item?id=37308747 target=_blank>757 comments</a>]]></description>
             <pubDate>2023-08-29T14:48:20.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=37308747</guid>
             <link>https://news.ycombinator.com/item?id=37308747</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Intel shows 8 core 528 thread processor with silicon photonics]]></title>
-            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=37315802 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=37315802 target=_blank>160 comments</a>]]></description>
             <pubDate>2023-08-29T23:56:05.000Z</pubDate>
             <guid isPermaLink="false">https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/</guid>
             <link>https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Fomos: Experimental OS, built with Rust]]></title>
-            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=37316309 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=37316309 target=_blank>104 comments</a>]]></description>
             <pubDate>2023-08-30T01:00:52.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/Ruddle/Fomos</guid>
             <link>https://github.com/Ruddle/Fomos</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Meta AI releases CoTracker, a model for tracking any points (pixels) on a video]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=37314073 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=37314073 target=_blank>75 comments</a>]]></description>
             <pubDate>2023-08-29T21:04:14.000Z</pubDate>
             <guid isPermaLink="false">https://co-tracker.github.io/</guid>
             <link>https://co-tracker.github.io/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Windows 11 system components use the default browser to open links in Europe]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=37320786 target=_blank>242 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=37320786 target=_blank>251 comments</a>]]></description>
             <pubDate>2023-08-30T12:07:39.000Z</pubDate>
             <guid isPermaLink="false">https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/</guid>
             <link>https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[pjerem]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Microsoft is using malware-like pop-ups in Win11 to get people to ditch Chrome]]></title>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=37321002 target=_blank>144 comments</a>]]></description>
+            <pubDate>2023-08-30T12:29:09.000Z</pubDate>
+            <guid isPermaLink="false">https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware</guid>
+            <link>https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware</link>
+            
+            
+            
+            <author><![CDATA[pjmlp]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[MagicEdit: High-fidelity temporally coherent video editing]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=37309818 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=37309818 target=_blank>83 comments</a>]]></description>
             <pubDate>2023-08-29T15:57:58.000Z</pubDate>
             <guid isPermaLink="false">https://magic-edit.github.io/</guid>
             <link>https://magic-edit.github.io/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Microsoft is using malware-like pop-ups in Win11 to get people to ditch Chrome]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=37321002 target=_blank>132 comments</a>]]></description>
-            <pubDate>2023-08-30T12:29:09.000Z</pubDate>
-            <guid isPermaLink="false">https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware</guid>
-            <link>https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware</link>
+            <title><![CDATA[DOS/4GW made Windows 95 game compatibility easier, but with higher stakes]]></title>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=37311508 target=_blank>88 comments</a>]]></description>
+            <pubDate>2023-08-29T17:57:50.000Z</pubDate>
+            <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661</guid>
+            <link>https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661</link>
             
             
             
-            <author><![CDATA[pjmlp]]></author>
+            <author><![CDATA[zdw]]></author>
             
                 
             
