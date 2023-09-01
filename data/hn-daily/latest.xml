@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Organic Maps]]></title>
-            <description><![CDATA[984 points | <a href=https://news.ycombinator.com/item?id=37347447 target=_blank>392 comments</a>]]></description>
+            <description><![CDATA[993 points | <a href=https://news.ycombinator.com/item?id=37347447 target=_blank>393 comments</a>]]></description>
             <pubDate>2023-09-01T06:16:55.000Z</pubDate>
             <guid isPermaLink="false">https://organicmaps.app/</guid>
             <link>https://organicmaps.app/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Ask Microsoft: Are you using our personal data to train AI?]]></title>
-            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=37347528 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=37347528 target=_blank>141 comments</a>]]></description>
             <pubDate>2023-09-01T06:31:39.000Z</pubDate>
             <guid isPermaLink="false">https://foundation.mozilla.org/en/campaigns/microsoft-ai/</guid>
             <link>https://foundation.mozilla.org/en/campaigns/microsoft-ai/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[X/Twitter has updated its terms of service to let it use posts for AI training]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=37352356 target=_blank>253 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=37352356 target=_blank>254 comments</a>]]></description>
             <pubDate>2023-09-01T15:51:20.000Z</pubDate>
             <guid isPermaLink="false">https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/</guid>
             <link>https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Things I wish I knew before moving 50K lines of code to React Server Components]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=37345727 target=_blank>395 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=37345727 target=_blank>397 comments</a>]]></description>
             <pubDate>2023-09-01T01:29:15.000Z</pubDate>
             <guid isPermaLink="false">https://www.mux.com/blog/what-are-react-server-components</guid>
             <link>https://www.mux.com/blog/what-are-react-server-components</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Farewell EC2-Classic, it’s been swell]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=37349633 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=37349633 target=_blank>158 comments</a>]]></description>
             <pubDate>2023-09-01T11:57:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html</guid>
             <link>https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[alexbilbie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Doug Lenat has died]]></title>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=37354000 target=_blank>61 comments</a>]]></description>
+            <pubDate>2023-09-01T17:44:36.000Z</pubDate>
+            <guid isPermaLink="false">https://garymarcus.substack.com/p/doug-lenat-1950-2023</guid>
+            <link>https://garymarcus.substack.com/p/doug-lenat-1950-2023</link>
+            
+            
+            
+            <author><![CDATA[snewman]]></author>
             
                 
             
@@ -146,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[ChangeDetection, monitor any website change]]></title>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=37348162 target=_blank>45 comments</a>]]></description>
+            <pubDate>2023-09-01T08:27:21.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/dgtlmoon/changedetection.io</guid>
+            <link>https://github.com/dgtlmoon/changedetection.io</link>
+            
+            
+            
+            <author><![CDATA[serhack_]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Wii Architecture – A Practical Analysis]]></title>
             <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=37344096 target=_blank>24 comments</a>]]></description>
             <pubDate>2023-08-31T21:47:53.000Z</pubDate>
@@ -162,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[ChangeDetection, monitor any website change]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=37348162 target=_blank>45 comments</a>]]></description>
-            <pubDate>2023-09-01T08:27:21.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/dgtlmoon/changedetection.io</guid>
-            <link>https://github.com/dgtlmoon/changedetection.io</link>
-            
-            
-            
-            <author><![CDATA[serhack_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Lidl Product Recall [pdf]]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=37348808 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=37348808 target=_blank>90 comments</a>]]></description>
             <pubDate>2023-09-01T10:07:42.000Z</pubDate>
             <guid isPermaLink="false">https://www.lidl.co.uk/static/assets/Paw_Patrol_Public_Recall_poster-500790.pdf</guid>
             <link>https://www.lidl.co.uk/static/assets/Paw_Patrol_Public_Recall_poster-500790.pdf</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[Tomte]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Doug Lenat has died]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=37354000 target=_blank>59 comments</a>]]></description>
-            <pubDate>2023-09-01T17:44:36.000Z</pubDate>
-            <guid isPermaLink="false">https://garymarcus.substack.com/p/doug-lenat-1950-2023</guid>
-            <link>https://garymarcus.substack.com/p/doug-lenat-1950-2023</link>
-            
-            
-            
-            <author><![CDATA[snewman]]></author>
             
                 
             
