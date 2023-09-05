@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates]]></title>
-            <description><![CDATA[1665 points | <a href=https://news.ycombinator.com/item?id=37392676 target=_blank>530 comments</a>]]></description>
+            <description><![CDATA[1704 points | <a href=https://news.ycombinator.com/item?id=37392676 target=_blank>539 comments</a>]]></description>
             <pubDate>2023-09-05T15:07:21.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=37392676</guid>
             <link>https://news.ycombinator.com/item?id=37392676</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Get a cable modem, go to jail (1999)]]></title>
-            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=37386397 target=_blank>421 comments</a>]]></description>
+            <description><![CDATA[488 points | <a href=https://news.ycombinator.com/item?id=37386397 target=_blank>421 comments</a>]]></description>
             <pubDate>2023-09-05T00:02:51.000Z</pubDate>
             <guid isPermaLink="false">http://telecom.csail.mit.edu/judy-sammel.html</guid>
             <link>http://telecom.csail.mit.edu/judy-sammel.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[ZFS for Dummies]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=37387392 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=37387392 target=_blank>136 comments</a>]]></description>
             <pubDate>2023-09-05T03:07:17.000Z</pubDate>
             <guid isPermaLink="false">https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/</guid>
             <link>https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[OpenTF repository is now public]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=37392581 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=37392581 target=_blank>122 comments</a>]]></description>
             <pubDate>2023-09-05T15:00:30.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/opentffoundation/opentf</guid>
             <link>https://github.com/opentffoundation/opentf</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Android 14 blocks all modification of system certificates, even as root?]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=37391521 target=_blank>197 comments</a>]]></description>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=37391521 target=_blank>198 comments</a>]]></description>
             <pubDate>2023-09-05T13:42:57.000Z</pubDate>
             <guid isPermaLink="false">https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/</guid>
             <link>https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: Puck – Open-source visual editor for React]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=37391848 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=37391848 target=_blank>75 comments</a>]]></description>
             <pubDate>2023-09-05T14:08:34.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/measuredco/puck</guid>
             <link>https://github.com/measuredco/puck</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A currently maintained fork of SSHFS]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=37390184 target=_blank>108 comments</a>]]></description>
-            <pubDate>2023-09-05T11:04:51.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/deadbeefsociety/sshfs</guid>
-            <link>https://github.com/deadbeefsociety/sshfs</link>
-            
-            
-            
-            <author><![CDATA[feldrim]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Rockstar is selling cracked game copies on Steam]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=37394665 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=37394665 target=_blank>132 comments</a>]]></description>
             <pubDate>2023-09-05T17:01:23.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/__silent_/status/1698345924840296801</guid>
             <link>https://twitter.com/__silent_/status/1698345924840296801</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[robbiet480]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A currently maintained fork of SSHFS]]></title>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=37390184 target=_blank>109 comments</a>]]></description>
+            <pubDate>2023-09-05T11:04:51.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/deadbeefsociety/sshfs</guid>
+            <link>https://github.com/deadbeefsociety/sshfs</link>
+            
+            
+            
+            <author><![CDATA[feldrim]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[When tech says ‘no’]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=37384517 target=_blank>301 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=37384517 target=_blank>302 comments</a>]]></description>
             <pubDate>2023-09-04T20:14:08.000Z</pubDate>
             <guid isPermaLink="false">https://www.ben-evans.com/benedictevans/2023/8/24/when-tech-says-no</guid>
             <link>https://www.ben-evans.com/benedictevans/2023/8/24/when-tech-says-no</link>
