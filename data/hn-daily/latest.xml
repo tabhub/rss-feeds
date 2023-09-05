@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates]]></title>
-            <description><![CDATA[1880 points | <a href=https://news.ycombinator.com/item?id=37392676 target=_blank>578 comments</a>]]></description>
+            <description><![CDATA[1927 points | <a href=https://news.ycombinator.com/item?id=37392676 target=_blank>591 comments</a>]]></description>
             <pubDate>2023-09-05T15:07:21.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=37392676</guid>
             <link>https://news.ycombinator.com/item?id=37392676</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Get a cable modem, go to jail (1999)]]></title>
-            <description><![CDATA[490 points | <a href=https://news.ycombinator.com/item?id=37386397 target=_blank>422 comments</a>]]></description>
+            <description><![CDATA[490 points | <a href=https://news.ycombinator.com/item?id=37386397 target=_blank>424 comments</a>]]></description>
             <pubDate>2023-09-05T00:02:51.000Z</pubDate>
             <guid isPermaLink="false">http://telecom.csail.mit.edu/judy-sammel.html</guid>
             <link>http://telecom.csail.mit.edu/judy-sammel.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[ZFS for Dummies]]></title>
-            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=37387392 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=37387392 target=_blank>140 comments</a>]]></description>
             <pubDate>2023-09-05T03:07:17.000Z</pubDate>
             <guid isPermaLink="false">https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/</guid>
             <link>https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[OpenTF repository is now public]]></title>
-            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=37392581 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=37392581 target=_blank>133 comments</a>]]></description>
             <pubDate>2023-09-05T15:00:30.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/opentffoundation/opentf</guid>
             <link>https://github.com/opentffoundation/opentf</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: Puck – Open-source visual editor for React]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=37391848 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=37391848 target=_blank>81 comments</a>]]></description>
             <pubDate>2023-09-05T14:08:34.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/measuredco/puck</guid>
             <link>https://github.com/measuredco/puck</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Android 14 blocks all modification of system certificates, even as root?]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=37391521 target=_blank>203 comments</a>]]></description>
-            <pubDate>2023-09-05T13:42:57.000Z</pubDate>
-            <guid isPermaLink="false">https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/</guid>
-            <link>https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/</link>
-            
-            
-            
-            <author><![CDATA[pimterry]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Rockstar is selling cracked game copies on Steam]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=37394665 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=37394665 target=_blank>158 comments</a>]]></description>
             <pubDate>2023-09-05T17:01:23.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/__silent_/status/1698345924840296801</guid>
             <link>https://twitter.com/__silent_/status/1698345924840296801</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Android 14 blocks all modification of system certificates, even as root?]]></title>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=37391521 target=_blank>203 comments</a>]]></description>
+            <pubDate>2023-09-05T13:42:57.000Z</pubDate>
+            <guid isPermaLink="false">https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/</guid>
+            <link>https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/</link>
+            
+            
+            
+            <author><![CDATA[pimterry]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[A currently maintained fork of SSHFS]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=37390184 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=37390184 target=_blank>111 comments</a>]]></description>
             <pubDate>2023-09-05T11:04:51.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/deadbeefsociety/sshfs</guid>
             <link>https://github.com/deadbeefsociety/sshfs</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Emacs Bedrock: A minimal Emacs starter kit]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=37385716 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=37385716 target=_blank>106 comments</a>]]></description>
             <pubDate>2023-09-04T22:26:38.000Z</pubDate>
             <guid isPermaLink="false">https://sr.ht/~ashton314/emacs-bedrock/</guid>
             <link>https://sr.ht/~ashton314/emacs-bedrock/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Learn WebAssembly by writing small programs]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=37393820 target=_blank>37 comments</a>]]></description>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=37393820 target=_blank>38 comments</a>]]></description>
             <pubDate>2023-09-05T16:13:09.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/EmNudge/watlings</guid>
             <link>https://github.com/EmNudge/watlings</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[The Federal Helium reserve is for sale]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=37391584 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=37391584 target=_blank>177 comments</a>]]></description>
             <pubDate>2023-09-05T13:47:57.000Z</pubDate>
             <guid isPermaLink="false">https://www.gsa.gov/about-us/regions/region-7-greater-southwest/region-7-newsroom/greater-southwest-feature-stories-and-news-releases/gsa-announces-sale-of-federal-helium-system-assets-06222023</guid>
             <link>https://www.gsa.gov/about-us/regions/region-7-greater-southwest/region-7-newsroom/greater-southwest-feature-stories-and-news-releases/gsa-announces-sale-of-federal-helium-system-assets-06222023</link>
