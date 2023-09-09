@@ -34,22 +34,6 @@
         </item>
         
         <item>
-            <title><![CDATA[FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=37437311 target=_blank>97 comments</a>]]></description>
-            <pubDate>2023-09-08T18:19:19.000Z</pubDate>
-            <guid isPermaLink="false">https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing</guid>
-            <link>https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing</link>
-            
-            
-            
-            <author><![CDATA[mfiguiere]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”]]></title>
             <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=37441982 target=_blank>83 comments</a>]]></description>
             <pubDate>2023-09-09T03:26:37.000Z</pubDate>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Asking 60 LLMs a set of 20 questions]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=37445401 target=_blank>173 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=37445401 target=_blank>184 comments</a>]]></description>
             <pubDate>2023-09-09T13:51:33.000Z</pubDate>
             <guid isPermaLink="false">https://benchmarks.llmonitor.com</guid>
             <link>https://benchmarks.llmonitor.com</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Decoded: GNU Coreutils (2018)]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=37439535 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=37439535 target=_blank>107 comments</a>]]></description>
             <pubDate>2023-09-08T21:15:52.000Z</pubDate>
             <guid isPermaLink="false">https://maizure.org/projects/decoded-gnu-coreutils/</guid>
             <link>https://maizure.org/projects/decoded-gnu-coreutils/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Every type of plastic used by LEGO (2022)]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=37444268 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=37444268 target=_blank>74 comments</a>]]></description>
             <pubDate>2023-09-09T11:43:59.000Z</pubDate>
             <guid isPermaLink="false">https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22</guid>
             <link>https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Google, Meta, Amazon hiring low-paid H1B workers after US layoffs]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=37444386 target=_blank>407 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=37444386 target=_blank>409 comments</a>]]></description>
             <pubDate>2023-09-09T12:06:48.000Z</pubDate>
             <guid isPermaLink="false">https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html</guid>
             <link>https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Julia and Mojo Mandelbrot Benchmark]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=37442064 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=37442064 target=_blank>127 comments</a>]]></description>
             <pubDate>2023-09-09T03:42:53.000Z</pubDate>
             <guid isPermaLink="false">https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</guid>
             <link>https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[npalli]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Using LD_PRELOAD to cheat, inject features and investigate programs]]></title>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=37439125 target=_blank>99 comments</a>]]></description>
+            <pubDate>2023-09-08T20:41:20.000Z</pubDate>
+            <guid isPermaLink="false">https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</guid>
+            <link>https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/</link>
+            
+            
+            
+            <author><![CDATA[icyfox]]></author>
             
                 
             
