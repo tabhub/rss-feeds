@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Nginx Unit – Universal web app server]]></title>
-            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=37453854 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[471 points | <a href=https://news.ycombinator.com/item?id=37453854 target=_blank>145 comments</a>]]></description>
             <pubDate>2023-09-10T08:10:06.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/nginx/unit</guid>
             <link>https://github.com/nginx/unit</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Memories from old LAN parties]]></title>
-            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=37451518 target=_blank>219 comments</a>]]></description>
+            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=37451518 target=_blank>218 comments</a>]]></description>
             <pubDate>2023-09-09T23:54:29.000Z</pubDate>
             <guid isPermaLink="false">https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html</guid>
             <link>https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Earth had hottest 3-months on record; unprecedented sea temps & extreme weather]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=37455534 target=_blank>412 comments</a>]]></description>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=37455534 target=_blank>412 comments</a>]]></description>
             <pubDate>2023-09-10T13:14:45.000Z</pubDate>
             <guid isPermaLink="false">https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface</guid>
             <link>https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[I wired up my bike's GPS to order me pizza during a gravel race]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=37454766 target=_blank>64 comments</a>]]></description>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=37454766 target=_blank>65 comments</a>]]></description>
             <pubDate>2023-09-10T11:12:13.000Z</pubDate>
             <guid isPermaLink="false">https://steele.blue/geofence-pizza-ordering/</guid>
             <link>https://steele.blue/geofence-pizza-ordering/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Peredvizhnikov Engine is a fully lock-free game engine written in C++20]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=37456471 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=37456471 target=_blank>94 comments</a>]]></description>
             <pubDate>2023-09-10T15:03:53.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/eduard-permyakov/peredvizhnikov-engine</guid>
             <link>https://github.com/eduard-permyakov/peredvizhnikov-engine</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[The Decline of Usability (2020)]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=37453616 target=_blank>161 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=37453616 target=_blank>162 comments</a>]]></description>
             <pubDate>2023-09-10T07:22:18.000Z</pubDate>
             <guid isPermaLink="false">https://datagubbe.se/decusab/</guid>
             <link>https://datagubbe.se/decusab/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[“Make” as a Static Site Generator (2022)]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=37454853 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=37454853 target=_blank>117 comments</a>]]></description>
             <pubDate>2023-09-10T11:30:29.000Z</pubDate>
             <guid isPermaLink="false">https://www.karl.berlin/static-site.html</guid>
             <link>https://www.karl.berlin/static-site.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[ZF makes magnet-free electric motor uniquely compact and competitive]]></title>
-            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=37453465 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=37453465 target=_blank>95 comments</a>]]></description>
             <pubDate>2023-09-10T06:41:20.000Z</pubDate>
             <guid isPermaLink="false">https://press.zf.com/press/en/releases/release_60480.html</guid>
             <link>https://press.zf.com/press/en/releases/release_60480.html</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[taubek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How does Linux NAT a ping?]]></title>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=37455621 target=_blank>51 comments</a>]]></description>
+            <pubDate>2023-09-10T13:28:25.000Z</pubDate>
+            <guid isPermaLink="false">https://devnonsense.com/posts/how-does-linux-nat-a-ping/</guid>
+            <link>https://devnonsense.com/posts/how-does-linux-nat-a-ping/</link>
+            
+            
+            
+            <author><![CDATA[willdaly]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How does Linux NAT a ping?]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=37455621 target=_blank>51 comments</a>]]></description>
-            <pubDate>2023-09-10T13:28:25.000Z</pubDate>
-            <guid isPermaLink="false">https://devnonsense.com/posts/how-does-linux-nat-a-ping/</guid>
-            <link>https://devnonsense.com/posts/how-does-linux-nat-a-ping/</link>
-            
-            
-            
-            <author><![CDATA[willdaly]]></author>
             
                 
             
