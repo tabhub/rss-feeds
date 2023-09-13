@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Fine-tune your own Llama 2 to replace GPT-3.5/4]]></title>
-            <description><![CDATA[830 points | <a href=https://news.ycombinator.com/item?id=37484135 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[834 points | <a href=https://news.ycombinator.com/item?id=37484135 target=_blank>158 comments</a>]]></description>
             <pubDate>2023-09-12T16:53:51.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=37484135</guid>
             <link>https://news.ycombinator.com/item?id=37484135</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[iPhone 15 and iPhone 15 Plus]]></title>
-            <description><![CDATA[721 points | <a href=https://news.ycombinator.com/item?id=37485290 target=_blank>1817 comments</a>]]></description>
+            <description><![CDATA[722 points | <a href=https://news.ycombinator.com/item?id=37485290 target=_blank>1815 comments</a>]]></description>
             <pubDate>2023-09-12T18:23:09.000Z</pubDate>
             <guid isPermaLink="false">https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/</guid>
             <link>https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Credit card debt collection]]></title>
-            <description><![CDATA[611 points | <a href=https://news.ycombinator.com/item?id=37490241 target=_blank>323 comments</a>]]></description>
+            <description><![CDATA[617 points | <a href=https://news.ycombinator.com/item?id=37490241 target=_blank>333 comments</a>]]></description>
             <pubDate>2023-09-12T23:45:06.000Z</pubDate>
             <guid isPermaLink="false">https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/</guid>
             <link>https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Any sufficiently advanced uninstaller is indistinguishable from malware]]></title>
-            <description><![CDATA[557 points | <a href=https://news.ycombinator.com/item?id=37491862 target=_blank>398 comments</a>]]></description>
+            <description><![CDATA[569 points | <a href=https://news.ycombinator.com/item?id=37491862 target=_blank>401 comments</a>]]></description>
             <pubDate>2023-09-13T03:31:07.000Z</pubDate>
             <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749</guid>
             <link>https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749</link>
@@ -75,22 +75,6 @@
             
             
             <author><![CDATA[mycall]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Unity plan pricing and packaging updates]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=37481344 target=_blank>480 comments</a>]]></description>
-            <pubDate>2023-09-12T13:55:54.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.unity.com/news/plan-pricing-and-packaging-updates</guid>
-            <link>https://blog.unity.com/news/plan-pricing-and-packaging-updates</link>
-            
-            
-            
-            <author><![CDATA[aschearer]]></author>
             
                 
             
@@ -114,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[LÖVE: a framework to make 2D games in Lua]]></title>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=37494275 target=_blank>103 comments</a>]]></description>
+            <pubDate>2023-09-13T09:21:16.000Z</pubDate>
+            <guid isPermaLink="false">https://love2d.org/</guid>
+            <link>https://love2d.org/</link>
+            
+            
+            
+            <author><![CDATA[rapnie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[New world record with an electric racing car: From 0 to 100 in 0.956 seconds]]></title>
             <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=37482517 target=_blank>272 comments</a>]]></description>
             <pubDate>2023-09-12T15:14:05.000Z</pubDate>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[LÖVE: a framework to make 2D games in Lua]]></title>
-            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=37494275 target=_blank>99 comments</a>]]></description>
-            <pubDate>2023-09-13T09:21:16.000Z</pubDate>
-            <guid isPermaLink="false">https://love2d.org/</guid>
-            <link>https://love2d.org/</link>
-            
-            
-            
-            <author><![CDATA[rapnie]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Interactive Map of Linux Kernel]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=37490623 target=_blank>23 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=37490623 target=_blank>24 comments</a>]]></description>
             <pubDate>2023-09-13T00:31:56.000Z</pubDate>
             <guid isPermaLink="false">https://makelinux.github.io/kernel/map/</guid>
             <link>https://makelinux.github.io/kernel/map/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Apple iPhone 15 Pro and iPhone 15 Pro Max]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=37485271 target=_blank>460 comments</a>]]></description>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=37485271 target=_blank>462 comments</a>]]></description>
             <pubDate>2023-09-12T18:21:42.000Z</pubDate>
             <guid isPermaLink="false">https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/</guid>
             <link>https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[The Death of Unity]]></title>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=37486431 target=_blank>161 comments</a>]]></description>
+            <pubDate>2023-09-12T19:18:34.000Z</pubDate>
+            <guid isPermaLink="false">https://www.gamedeveloper.com/business/the-death-of-unity</guid>
+            <link>https://www.gamedeveloper.com/business/the-death-of-unity</link>
+            
+            
+            
+            <author><![CDATA[sp332]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How long it took different companies to find product-market fit]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=37490300 target=_blank>63 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=37490300 target=_blank>63 comments</a>]]></description>
             <pubDate>2023-09-12T23:51:05.000Z</pubDate>
             <guid isPermaLink="false">https://www.lennysnewsletter.com/p/finding-product-market-fit</guid>
             <link>https://www.lennysnewsletter.com/p/finding-product-market-fit</link>
