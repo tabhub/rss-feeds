@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Any sufficiently advanced uninstaller is indistinguishable from malware]]></title>
-            <description><![CDATA[782 points | <a href=https://news.ycombinator.com/item?id=37491862 target=_blank>479 comments</a>]]></description>
-            <pubDate>2023-09-13T03:31:07.000Z</pubDate>
-            <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749</guid>
-            <link>https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749</link>
-            
-            
-            
-            <author><![CDATA[mycall]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Bug in macOS 14 Sonoma prevents our app from working]]></title>
-            <description><![CDATA[729 points | <a href=https://news.ycombinator.com/item?id=37498979 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[733 points | <a href=https://news.ycombinator.com/item?id=37498979 target=_blank>174 comments</a>]]></description>
             <pubDate>2023-09-13T17:05:44.000Z</pubDate>
             <guid isPermaLink="false">https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/</guid>
             <link>https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[When MFA isn't MFA, or how we got phished]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=37500895 target=_blank>206 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=37500895 target=_blank>207 comments</a>]]></description>
             <pubDate>2023-09-13T19:48:32.000Z</pubDate>
             <guid isPermaLink="false">https://retool.com/blog/mfa-isnt-mfa/</guid>
             <link>https://retool.com/blog/mfa-isnt-mfa/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Don’t mess with a genius (2010)]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=37501231 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=37501231 target=_blank>55 comments</a>]]></description>
             <pubDate>2023-09-13T20:21:30.000Z</pubDate>
             <guid isPermaLink="false">https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/</guid>
             <link>https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[wglb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Why Fennel?]]></title>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=37497131 target=_blank>84 comments</a>]]></description>
+            <pubDate>2023-09-13T14:21:45.000Z</pubDate>
+            <guid isPermaLink="false">https://fennel-lang.org/rationale</guid>
+            <link>https://fennel-lang.org/rationale</link>
+            
+            
+            
+            <author><![CDATA[hk__2]]></author>
             
                 
             
