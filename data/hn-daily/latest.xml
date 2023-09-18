@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Data accidentally exposed by Microsoft AI researchers]]></title>
-            <description><![CDATA[594 points | <a href=https://news.ycombinator.com/item?id=37556605 target=_blank>202 comments</a>]]></description>
+            <description><![CDATA[595 points | <a href=https://news.ycombinator.com/item?id=37556605 target=_blank>203 comments</a>]]></description>
             <pubDate>2023-09-18T14:30:09.000Z</pubDate>
             <guid isPermaLink="false">https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers</guid>
             <link>https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[OpenRA – Classic strategy games rebuilt for the modern era]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=37553193 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=37553193 target=_blank>100 comments</a>]]></description>
             <pubDate>2023-09-18T07:07:47.000Z</pubDate>
             <guid isPermaLink="false">https://www.openra.net/</guid>
             <link>https://www.openra.net/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Memory-efficient enum arrays in Zig]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=37555028 target=_blank>200 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=37555028 target=_blank>202 comments</a>]]></description>
             <pubDate>2023-09-18T12:00:31.000Z</pubDate>
             <guid isPermaLink="false">https://alic.dev/blog/dense-enums</guid>
             <link>https://alic.dev/blog/dense-enums</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: HyperDX – open-source dev-friendly Datadog alternative]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=37558357 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=37558357 target=_blank>79 comments</a>]]></description>
             <pubDate>2023-09-18T16:25:10.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/hyperdxio/hyperdx</guid>
             <link>https://github.com/hyperdxio/hyperdx</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[NSA Backdoor Key from Lotus-Notes (2002)]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=37554504 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=37554504 target=_blank>104 comments</a>]]></description>
             <pubDate>2023-09-18T10:47:17.000Z</pubDate>
             <guid isPermaLink="false">http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html</guid>
             <link>http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Apple TV, now with more Tailscale]]></title>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=37560787 target=_blank>64 comments</a>]]></description>
+            <pubDate>2023-09-18T19:24:32.000Z</pubDate>
+            <guid isPermaLink="false">https://tailscale.com/blog/apple-tv/</guid>
+            <link>https://tailscale.com/blog/apple-tv/</link>
+            
+            
+            
+            <author><![CDATA[mfiguiere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Japan's Hometown Tax (2018)]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=37555004 target=_blank>278 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=37555004 target=_blank>279 comments</a>]]></description>
             <pubDate>2023-09-18T11:57:07.000Z</pubDate>
             <guid isPermaLink="false">https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</guid>
             <link>https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[AWS IPv4 Estate Now Worth $4.5B]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=37549745 target=_blank>411 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=37549745 target=_blank>412 comments</a>]]></description>
             <pubDate>2023-09-17T22:00:59.000Z</pubDate>
             <guid isPermaLink="false">https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html</guid>
             <link>https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html</link>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple TV, now with more Tailscale]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=37560787 target=_blank>63 comments</a>]]></description>
-            <pubDate>2023-09-18T19:24:32.000Z</pubDate>
-            <guid isPermaLink="false">https://tailscale.com/blog/apple-tv/</guid>
-            <link>https://tailscale.com/blog/apple-tv/</link>
+            <title><![CDATA[US Military asks for help locating missing F-35]]></title>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=37555172 target=_blank>419 comments</a>]]></description>
+            <pubDate>2023-09-18T12:20:40.000Z</pubDate>
+            <guid isPermaLink="false">https://time.com/6315261/missing-military-f35-jet/</guid>
+            <link>https://time.com/6315261/missing-military-f35-jet/</link>
             
             
             
-            <author><![CDATA[mfiguiere]]></author>
+            <author><![CDATA[fortran77]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[7moritz7]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[US Military asks for help locating missing F-35]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=37555172 target=_blank>419 comments</a>]]></description>
-            <pubDate>2023-09-18T12:20:40.000Z</pubDate>
-            <guid isPermaLink="false">https://time.com/6315261/missing-military-f35-jet/</guid>
-            <link>https://time.com/6315261/missing-military-f35-jet/</link>
-            
-            
-            
-            <author><![CDATA[fortran77]]></author>
             
                 
             
