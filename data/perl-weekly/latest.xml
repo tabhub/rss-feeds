@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #633]]></title>
+        <title><![CDATA[Perl Weekly #634]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Announcing Dancer Core Team Changes]]></title>
-            <description><![CDATA[We’re excited to announce that Ruth Holloway (GeekRuthie) has joined the Dancer Core Team.]]></description>
-            <pubDate>2023.09.10</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2023/09/announcing-dancer-core-team-changes.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2023/09/announcing-dancer-core-team-changes.html</link>
+            <title><![CDATA[Of Go, C, Perl and fastq file conversion Vol III : pledging allegiance to the flag]]></title>
+            <description><![CDATA[Continue with the multipart blogs, here the discussion is about regex engine maps to a finite state automaton, we should be able to rewrite the parser without regular expressions, using flags to keep track of the part of the record we are at.]]></description>
+            <pubDate>2023.09.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/chrisarg/2023/09/of-go-c-perl-and-fastq-file-conversion-vol-iii-pledging-allegiance-to-the-flag.html</guid>
+            <link>https://blogs.perl.org/users/chrisarg/2023/09/of-go-c-perl-and-fastq-file-conversion-vol-iii-pledging-allegiance-to-the-flag.html</link>
             
             
             
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Help in Perl available]]></title>
-            <description><![CDATA[Olaf is offering help with multi-domain field. Enjoy.]]></description>
-            <pubDate>2023.09.08</pubDate>
-            <guid isPermaLink="false">https://www.linkedin.com/posts/olafalders_im-looking-to-pick-up-some-extra-weekend-activity-7105556888615858176-1BAB</guid>
-            <link>https://www.linkedin.com/posts/olafalders_im-looking-to-pick-up-some-extra-weekend-activity-7105556888615858176-1BAB</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
+            <author><![CDATA[chrisarg]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A bit of history about The Gecko Book]]></title>
-            <description><![CDATA[Interesting facts by the creator himself.]]></description>
-            <pubDate>2023.09.08</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/randal_l_schwartz/2023/09/a-bit-of-history-about-the-gecko-book-aka-learning-perl-on-win32-systems-from-my-half-my-life-with-p.html</guid>
-            <link>https://blogs.perl.org/users/randal_l_schwartz/2023/09/a-bit-of-history-about-the-gecko-book-aka-learning-perl-on-win32-systems-from-my-half-my-life-with-p.html</link>
+            <title><![CDATA[Of Go, C, Perl and fastq file conversion Vol IV : gone in 60 seconds (or less)]]></title>
+            <description><![CDATA[In the final part of this series, we will test the performance of the four parsers, in a scenario emulating the batch analysis of sequencing data.]]></description>
+            <pubDate>2023.09.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/chrisarg/2023/09/of-go-c-perl-and-fastq-file-conversion-vol-iv-gone-in-60-seconds-or-less.html</guid>
+            <link>https://blogs.perl.org/users/chrisarg/2023/09/of-go-c-perl-and-fastq-file-conversion-vol-iv-gone-in-60-seconds-or-less.html</link>
             
             
             
-            <author><![CDATA[randal_schwartz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This AI Paper Explains How Programming Languages Can Enhance Each Other Through Instruction Tuning]]></title>
-            <description><![CDATA[AI the hot topic is once again being used in a very innovative way.]]></description>
-            <pubDate>2023.09.05</pubDate>
-            <guid isPermaLink="false">https://www.marktechpost.com/2023/09/05/this-ai-paper-explains-how-programming-languages-can-enhance-each-other-through-instruction-tuning/</guid>
-            <link>https://www.marktechpost.com/2023/09/05/this-ai-paper-explains-how-programming-languages-can-enhance-each-other-through-instruction-tuning/</link>
-            
-            
-            
-            <author><![CDATA[tanya_malhotra]]></author>
+            <author><![CDATA[chrisarg]]></author>
             
                 
             
@@ -82,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[It's Slimline September!]]></title>
-            <description><![CDATA[Please checkout how Perl is discussed on Exercism.]]></description>
-            <pubDate>2023.09.01</pubDate>
-            <guid isPermaLink="false">https://exercism.org/blog/slimline-september</guid>
-            <link>https://exercism.org/blog/slimline-september</link>
+            <title><![CDATA[Get more from you constants with constant::more]]></title>
+            <description><![CDATA[Do you play with constants in Perl often then do check this post, you would love it.]]></description>
+            <pubDate>2023.09.13</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/drclaw/2023/09/get-more-from-you-constants-with-constantmore.html</guid>
+            <link>https://blogs.perl.org/users/drclaw/2023/09/get-more-from-you-constants-with-constantmore.html</link>
             
             
             
-            <author><![CDATA[erik_schierboom]]></author>
+            <author><![CDATA[drclaw]]></author>
             
                 
             
@@ -98,11 +66,11 @@
         </item>
         
         <item>
-            <title><![CDATA[2023.36 Slimline September]]></title>
-            <description><![CDATA[2023.36 Slimline September]]></description>
-            <pubDate>2023.09.04</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/09/04/2023-36-slimline-september/</guid>
-            <link>https://rakudoweekly.blog/2023/09/04/2023-36-slimline-september/</link>
+            <title><![CDATA[2023.37 Issuing]]></title>
+            <description><![CDATA[2023.37 Issuing]]></description>
+            <pubDate>2023.09.11</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/09/11/2023-37-issuing/</guid>
+            <link>https://rakudoweekly.blog/2023/09/11/2023-37-issuing/</link>
             
             
             
@@ -115,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/09/cdlx-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/09/dlxvi-metacpan-weekly-report-mojolicious.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/09/dxcii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.09.09</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/09/cdlxi-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/09/dxciv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.09.17</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
