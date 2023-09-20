@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Can’t send email more than 500 miles (2002)]]></title>
-            <description><![CDATA[1044 points | <a href=https://news.ycombinator.com/item?id=37576633 target=_blank>178 comments</a>]]></description>
+            <description><![CDATA[1046 points | <a href=https://news.ycombinator.com/item?id=37576633 target=_blank>178 comments</a>]]></description>
             <pubDate>2023-09-19T21:05:20.000Z</pubDate>
             <guid isPermaLink="false">https://web.mit.edu/jemorris/humor/500-miles</guid>
             <link>https://web.mit.edu/jemorris/humor/500-miles</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Car allergic to vanilla ice cream (2000)]]></title>
-            <description><![CDATA[618 points | <a href=https://news.ycombinator.com/item?id=37584399 target=_blank>224 comments</a>]]></description>
+            <description><![CDATA[634 points | <a href=https://news.ycombinator.com/item?id=37584399 target=_blank>234 comments</a>]]></description>
             <pubDate>2023-09-20T14:14:12.000Z</pubDate>
             <guid isPermaLink="false">http://www.cs.cmu.edu/~wkw/humour/carproblems.txt</guid>
             <link>http://www.cs.cmu.edu/~wkw/humour/carproblems.txt</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Fixing for loops in Go 1.22]]></title>
-            <description><![CDATA[554 points | <a href=https://news.ycombinator.com/item?id=37575204 target=_blank>405 comments</a>]]></description>
+            <description><![CDATA[555 points | <a href=https://news.ycombinator.com/item?id=37575204 target=_blank>406 comments</a>]]></description>
             <pubDate>2023-09-19T19:34:09.000Z</pubDate>
             <guid isPermaLink="false">https://go.dev/blog/loopvar-preview</guid>
             <link>https://go.dev/blog/loopvar-preview</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[FAA authorizes Zipline to deliver commercial packages using drones]]></title>
-            <description><![CDATA[481 points | <a href=https://news.ycombinator.com/item?id=37580141 target=_blank>404 comments</a>]]></description>
+            <description><![CDATA[481 points | <a href=https://news.ycombinator.com/item?id=37580141 target=_blank>406 comments</a>]]></description>
             <pubDate>2023-09-20T03:42:23.000Z</pubDate>
             <guid isPermaLink="false">https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight</guid>
             <link>https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[DALL·E 3]]></title>
-            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=37586900 target=_blank>316 comments</a>]]></description>
+            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=37586900 target=_blank>350 comments</a>]]></description>
             <pubDate>2023-09-20T17:18:13.000Z</pubDate>
             <guid isPermaLink="false">https://openai.com/dall-e-3</guid>
             <link>https://openai.com/dall-e-3</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Svelte 5: Runes]]></title>
-            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=37584224 target=_blank>243 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=37584224 target=_blank>248 comments</a>]]></description>
             <pubDate>2023-09-20T13:59:32.000Z</pubDate>
             <guid isPermaLink="false">https://svelte.dev/blog/runes</guid>
             <link>https://svelte.dev/blog/runes</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[benmccann]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps]]></title>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=37584049 target=_blank>85 comments</a>]]></description>
+            <pubDate>2023-09-20T13:46:55.000Z</pubDate>
+            <guid isPermaLink="false">https://electric-sql.com/</guid>
+            <link>https://electric-sql.com/</link>
+            
+            
+            
+            <author><![CDATA[samwillis]]></author>
             
                 
             
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=37584049 target=_blank>82 comments</a>]]></description>
-            <pubDate>2023-09-20T13:46:55.000Z</pubDate>
-            <guid isPermaLink="false">https://electric-sql.com/</guid>
-            <link>https://electric-sql.com/</link>
-            
-            
-            
-            <author><![CDATA[samwillis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[My uBlock Origin filters to remove distractions]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=37584134 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=37584134 target=_blank>94 comments</a>]]></description>
             <pubDate>2023-09-20T13:53:31.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/mig4ng/ublock-origin-filters</guid>
             <link>https://github.com/mig4ng/ublock-origin-filters</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Circles do not exist]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=37575377 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=37575377 target=_blank>196 comments</a>]]></description>
             <pubDate>2023-09-19T19:44:52.000Z</pubDate>
             <guid isPermaLink="false">https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html</guid>
             <link>https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html</link>
