@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[0-days exploited by commercial surveillance vendor in Egypt]]></title>
-            <description><![CDATA[503 points | <a href=https://news.ycombinator.com/item?id=37614816 target=_blank>230 comments</a>]]></description>
+            <description><![CDATA[507 points | <a href=https://news.ycombinator.com/item?id=37614816 target=_blank>230 comments</a>]]></description>
             <pubDate>2023-09-22T17:21:22.000Z</pubDate>
             <guid isPermaLink="false">https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/</guid>
             <link>https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[My solopreneur story: zero to $45K/mo in 2 years]]></title>
-            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=37622702 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[406 points | <a href=https://news.ycombinator.com/item?id=37622702 target=_blank>269 comments</a>]]></description>
             <pubDate>2023-09-23T12:32:36.000Z</pubDate>
             <guid isPermaLink="false">https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo</guid>
             <link>https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Croc: Easily and securely send things from one computer to another]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=37619151 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=37619151 target=_blank>106 comments</a>]]></description>
             <pubDate>2023-09-22T23:35:01.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/schollz/croc</guid>
             <link>https://github.com/schollz/croc</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I'm all-in on server-side SQLite (2022)]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=37613747 target=_blank>156 comments</a>]]></description>
-            <pubDate>2023-09-22T16:02:41.000Z</pubDate>
-            <guid isPermaLink="false">https://fly.io/blog/all-in-on-sqlite-litestream/</guid>
-            <link>https://fly.io/blog/all-in-on-sqlite-litestream/</link>
-            
-            
-            
-            <author><![CDATA[rrampage]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[TinyML and Efficient Deep Learning Computing]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=37620507 target=_blank>30 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=37620507 target=_blank>31 comments</a>]]></description>
             <pubDate>2023-09-23T04:06:23.000Z</pubDate>
             <guid isPermaLink="false">https://efficientml.ai/</guid>
             <link>https://efficientml.ai/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[JPL Open Source Rover Project]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=37616513 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=37616513 target=_blank>31 comments</a>]]></description>
             <pubDate>2023-09-22T19:23:59.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/nasa-jpl/open-source-rover</guid>
             <link>https://github.com/nasa-jpl/open-source-rover</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Show HN: TG – Fast geometry library for C]]></title>
-            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=37619100 target=_blank>26 comments</a>]]></description>
+            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=37619100 target=_blank>27 comments</a>]]></description>
             <pubDate>2023-09-22T23:27:48.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/tidwall/tg</guid>
             <link>https://github.com/tidwall/tg</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[jrepinc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CloudNativePG – Postgres Operator for Kubernetes]]></title>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=37616033 target=_blank>107 comments</a>]]></description>
+            <pubDate>2023-09-22T18:47:37.000Z</pubDate>
+            <guid isPermaLink="false">https://cloudnative-pg.io/</guid>
+            <link>https://cloudnative-pg.io/</link>
+            
+            
+            
+            <author><![CDATA[mooreds]]></author>
             
                 
             
