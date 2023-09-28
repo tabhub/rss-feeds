@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Mistral 7B]]></title>
-            <description><![CDATA[830 points | <a href=https://news.ycombinator.com/item?id=37675496 target=_blank>563 comments</a>]]></description>
-            <pubDate>2023-09-27T14:52:46.000Z</pubDate>
-            <guid isPermaLink="false">https://mistral.ai/news/announcing-mistral-7b/</guid>
-            <link>https://mistral.ai/news/announcing-mistral-7b/</link>
-            
-            
-            
-            <author><![CDATA[jasondavies]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Raspberry Pi 5]]></title>
-            <description><![CDATA[822 points | <a href=https://news.ycombinator.com/item?id=37685580 target=_blank>514 comments</a>]]></description>
+            <description><![CDATA[840 points | <a href=https://news.ycombinator.com/item?id=37685580 target=_blank>518 comments</a>]]></description>
             <pubDate>2023-09-28T05:29:21.000Z</pubDate>
             <guid isPermaLink="false">https://www.raspberrypi.com/products/raspberry-pi-5/</guid>
             <link>https://www.raspberrypi.com/products/raspberry-pi-5/</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Mistral 7B]]></title>
+            <description><![CDATA[830 points | <a href=https://news.ycombinator.com/item?id=37675496 target=_blank>564 comments</a>]]></description>
+            <pubDate>2023-09-27T14:52:46.000Z</pubDate>
+            <guid isPermaLink="false">https://mistral.ai/news/announcing-mistral-7b/</guid>
+            <link>https://mistral.ai/news/announcing-mistral-7b/</link>
+            
+            
+            
+            <author><![CDATA[jasondavies]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ray-Ban Meta Smart Glasses]]></title>
-            <description><![CDATA[516 points | <a href=https://news.ycombinator.com/item?id=37678860 target=_blank>758 comments</a>]]></description>
+            <description><![CDATA[520 points | <a href=https://news.ycombinator.com/item?id=37678860 target=_blank>759 comments</a>]]></description>
             <pubDate>2023-09-27T18:18:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.meta.com/smart-glasses/</guid>
             <link>https://www.meta.com/smart-glasses/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Open Source does not win by being cheaper]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=37682684 target=_blank>205 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=37682684 target=_blank>211 comments</a>]]></description>
             <pubDate>2023-09-27T23:04:00.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper</guid>
             <link>https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Deno Queues]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=37674752 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=37674752 target=_blank>154 comments</a>]]></description>
             <pubDate>2023-09-27T13:58:58.000Z</pubDate>
             <guid isPermaLink="false">https://deno.com/blog/queues</guid>
             <link>https://deno.com/blog/queues</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=37684986 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=37684986 target=_blank>63 comments</a>]]></description>
             <pubDate>2023-09-28T03:45:14.000Z</pubDate>
             <guid isPermaLink="false">https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine</guid>
             <link>https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Desalination system could produce freshwater that is cheaper than tap water]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=37681004 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=37681004 target=_blank>162 comments</a>]]></description>
             <pubDate>2023-09-27T20:41:43.000Z</pubDate>
             <guid isPermaLink="false">https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927</guid>
             <link>https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Tell HN: Please don't print –-help to stderr in your CLI tools]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=37682859 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=37682859 target=_blank>115 comments</a>]]></description>
             <pubDate>2023-09-27T23:22:53.000Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=37682859</guid>
             <link>https://news.ycombinator.com/item?id=37682859</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[That's a Lot of YAML]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=37687060 target=_blank>202 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=37687060 target=_blank>216 comments</a>]]></description>
             <pubDate>2023-09-28T08:57:52.000Z</pubDate>
             <guid isPermaLink="false">https://noyaml.com/</guid>
             <link>https://noyaml.com/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Lisp Badge LE]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=37682273 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=37682273 target=_blank>33 comments</a>]]></description>
             <pubDate>2023-09-27T22:27:11.000Z</pubDate>
             <guid isPermaLink="false">http://www.technoblogy.com/show?3Z2Y</guid>
             <link>http://www.technoblogy.com/show?3Z2Y</link>
