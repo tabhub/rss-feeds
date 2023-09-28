@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Mistral 7B]]></title>
-            <description><![CDATA[748 points | <a href=https://news.ycombinator.com/item?id=37675496 target=_blank>492 comments</a>]]></description>
+            <description><![CDATA[753 points | <a href=https://news.ycombinator.com/item?id=37675496 target=_blank>496 comments</a>]]></description>
             <pubDate>2023-09-27T14:52:46.000Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/news/announcing-mistral-7b/</guid>
             <link>https://mistral.ai/news/announcing-mistral-7b/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[I got robbed of my first kernel contribution]]></title>
-            <description><![CDATA[666 points | <a href=https://news.ycombinator.com/item?id=37671991 target=_blank>636 comments</a>]]></description>
+            <description><![CDATA[666 points | <a href=https://news.ycombinator.com/item?id=37671991 target=_blank>637 comments</a>]]></description>
             <pubDate>2023-09-27T08:58:04.000Z</pubDate>
             <guid isPermaLink="false">https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/</guid>
             <link>https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Essence: A desktop OS built from scratch, for control and simplicity]]></title>
-            <description><![CDATA[445 points | <a href=https://news.ycombinator.com/item?id=37671419 target=_blank>163 comments</a>]]></description>
+            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=37671419 target=_blank>163 comments</a>]]></description>
             <pubDate>2023-09-27T07:44:37.000Z</pubDate>
             <guid isPermaLink="false">https://nakst.gitlab.io/essence</guid>
             <link>https://nakst.gitlab.io/essence</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Judge rules Google trial documents can be posted by U.S. online]]></title>
-            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=37673413 target=_blank>226 comments</a>]]></description>
+            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=37673413 target=_blank>231 comments</a>]]></description>
             <pubDate>2023-09-27T12:01:43.000Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online</guid>
             <link>https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Live near your friends]]></title>
-            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=37676393 target=_blank>322 comments</a>]]></description>
+            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=37676393 target=_blank>323 comments</a>]]></description>
             <pubDate>2023-09-27T15:45:58.000Z</pubDate>
             <guid isPermaLink="false">https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends</guid>
             <link>https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[First Impressions with GPT-4V(ision)]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=37673409 target=_blank>282 comments</a>]]></description>
-            <pubDate>2023-09-27T12:01:18.000Z</pubDate>
-            <guid isPermaLink="false">https://blog.roboflow.com/gpt-4-vision/</guid>
-            <link>https://blog.roboflow.com/gpt-4-vision/</link>
-            
-            
-            
-            <author><![CDATA[zerojames]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ray-Ban Meta Smart Glasses]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=37678860 target=_blank>497 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=37678860 target=_blank>499 comments</a>]]></description>
             <pubDate>2023-09-27T18:18:33.000Z</pubDate>
             <guid isPermaLink="false">https://www.meta.com/smart-glasses/</guid>
             <link>https://www.meta.com/smart-glasses/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[First Impressions with GPT-4V(ision)]]></title>
+            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=37673409 target=_blank>283 comments</a>]]></description>
+            <pubDate>2023-09-27T12:01:18.000Z</pubDate>
+            <guid isPermaLink="false">https://blog.roboflow.com/gpt-4-vision/</guid>
+            <link>https://blog.roboflow.com/gpt-4-vision/</link>
+            
+            
+            
+            <author><![CDATA[zerojames]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Deno Queues]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=37674752 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=37674752 target=_blank>135 comments</a>]]></description>
             <pubDate>2023-09-27T13:58:58.000Z</pubDate>
             <guid isPermaLink="false">https://deno.com/blog/queues</guid>
             <link>https://deno.com/blog/queues</link>
