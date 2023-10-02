@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #635]]></title>
+        <title><![CDATA[Perl Weekly #636]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,91 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[UTC/Local Date Conversion in Perl With Time::Piece]]></title>
-            <description><![CDATA[I personally use the DateTime module, but it is always nice to see alternatives!]]></description>
-            <pubDate>2023.09.22</pubDate>
-            <guid isPermaLink="false">https://www.kcaran.com/posts/utc-local-date-conversion-in-perl-with-time-piece.html</guid>
-            <link>https://www.kcaran.com/posts/utc-local-date-conversion-in-perl-with-time-piece.html</link>
-            
-            
-            
-            <author><![CDATA[keith_carangelo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Single Color Methods of GTC]]></title>
-            <description><![CDATA[Single Color Methods of GTC]]></description>
-            <pubDate>2023.09.21</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2023/09/single-color-methods-of-gtc.html</guid>
-            <link>https://blogs.perl.org/users/lichtkind/2023/09/single-color-methods-of-gtc.html</link>
-            
-            
-            
-            <author><![CDATA[herbert_breunung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Why I Created Venus]]></title>
-            <description><![CDATA[Venus is an OO library for Perl]]></description>
-            <pubDate>2023.09.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/iamalnewkirk/why-i-created-venus-4049</guid>
-            <link>https://dev.to/iamalnewkirk/why-i-created-venus-4049</link>
-            
-            
-            
-            <author><![CDATA[al_newkirk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SQLite import with AutoCommit turned off]]></title>
-            <description><![CDATA[Importing CSV files into SQLite using perl (or I guess any other programming language) is slow. One can use the native .import command or one can turn of AutoCommit and commit all the inserts only at the end of the run.]]></description>
-            <pubDate>2023.09.20</pubDate>
-            <guid isPermaLink="false">https://github.polettix.it/ETOOBUSY/2023/09/20/sqlite-autocommit/</guid>
-            <link>https://github.polettix.it/ETOOBUSY/2023/09/20/sqlite-autocommit/</link>
-            
-            
-            
-            <author><![CDATA[flavio_poletti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[5 years on, we're still benefiting from Perl::Critic — but we've changed approach]]></title>
-            <description><![CDATA[5 years on, we're still benefiting from Perl::Critic — but we've changed approach]]></description>
-            <pubDate>2023.09.19</pubDate>
-            <guid isPermaLink="false">https://medium.com/adzuna-engineering/5-years-on-were-still-benefiting-from-perl-critic-but-we-ve-changed-approach-3c0e2f662733</guid>
-            <link>https://medium.com/adzuna-engineering/5-years-on-were-still-benefiting-from-perl-critic-but-we-ve-changed-approach-3c0e2f662733</link>
-            
-            
-            
-            <author><![CDATA[johnathan_swan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl CGI vs. Plack: The Evolution of Web Application Development]]></title>
-            <description><![CDATA[I wonder if this and the following article were written by ChatGTP ]]></description>
-            <pubDate>2023.09.17</pubDate>
-            <guid isPermaLink="false">https://medium.com/@alexandragrosu03/perl-cgi-vs-plack-the-evolution-of-web-application-development-f6a47ee423f4</guid>
-            <link>https://medium.com/@alexandragrosu03/perl-cgi-vs-plack-the-evolution-of-web-application-development-f6a47ee423f4</link>
+            <title><![CDATA[This Week in PSC (118)]]></title>
+            <description><![CDATA[Another update by PSC team.]]></description>
+            <pubDate>2023.09.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/09/this-week-in-psc-118.html</guid>
+            <link>https://blogs.perl.org/users/psc/2023/09/this-week-in-psc-118.html</link>
             
             
             
@@ -114,15 +34,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Web Applications: Catalyst vs. Dancer2 — A Comparative Analysis]]></title>
-            <description><![CDATA[Perl Web Applications: Catalyst vs. Dancer2 — A Comparative Analysis]]></description>
-            <pubDate>2023.09</pubDate>
-            <guid isPermaLink="false">https://medium.com/@alexandragrosu03/perl-web-applications-catalyst-vs-dancer2-a-comparative-analysis-2b130022767e</guid>
-            <link>https://medium.com/@alexandragrosu03/perl-web-applications-catalyst-vs-dancer2-a-comparative-analysis-2b130022767e</link>
+            <title><![CDATA[MetaCPAN Core Contributors]]></title>
+            <description><![CDATA[Please do come forward and support MetaCPAN Core. As of now, we have 19 contributors. It would be nice to see this grow with your support.]]></description>
+            <pubDate>2023.10.01</pubDate>
+            <guid isPermaLink="false">https://opencollective.com/metacpan-core</guid>
+            <link>https://opencollective.com/metacpan-core</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hacktoberfest 2023]]></title>
+            <description><![CDATA[The annual festival is live and kicking. Please do join and contribute to open source projects on GitHub.]]></description>
+            <pubDate>2023.10.01</pubDate>
+            <guid isPermaLink="false">https://hacktoberfest.com/</guid>
+            <link>https://hacktoberfest.com/</link>
             
             
             
             <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[plenv-libdirs]]></title>
+            <description><![CDATA[If you are fan of plenv the this plugin would be very handy. How? You need to checkout the post for more details.]]></description>
+            <pubDate>2023.09.27</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2023/09/plenv-libdirs.html</guid>
+            <link>https://blogs.perl.org/users/mikko_koivunalho/2023/09/plenv-libdirs.html</link>
+            
+            
+            
+            <author><![CDATA[mikko_koivunalho]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hash of Arrays Deathmatch : Native Perl vs. DBM::Deep vs. Redis]]></title>
+            <description><![CDATA[A detailed comparison to help you understand the pros/cons. Please keep us busy with more such posts.]]></description>
+            <pubDate>2023.09.27</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/chrisarg/2023/09/hash-of-arrays-deathmatch-native-perl-vs-dbmdeep-vs-redis.html</guid>
+            <link>https://blogs.perl.org/users/chrisarg/2023/09/hash-of-arrays-deathmatch-native-perl-vs-dbmdeep-vs-redis.html</link>
+            
+            
+            
+            <author><![CDATA[chrisarg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Writing Perl with Emacs: Are there perl-mode users around?]]></title>
+            <description><![CDATA[For all emacs users, please checkout the latest update to cperl-mode to edit Perl code.]]></description>
+            <pubDate>2023.09.25</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/haj/2023/09/writing-perl-with-emacs-are-there-perl-mode-users-around.html</guid>
+            <link>https://blogs.perl.org/users/haj/2023/09/writing-perl-with-emacs-are-there-perl-mode-users-around.html</link>
+            
+            
+            
+            <author><![CDATA[haj]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.39 Releaseses]]></title>
+            <description><![CDATA[2023.39 Releaseses]]></description>
+            <pubDate>2023.09.25</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/09/25/2023-39-releaseses/</guid>
+            <link>https://rakudoweekly.blog/2023/09/25/2023-39-releaseses/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -131,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/09/cdlxii-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/09/dlxvii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/09/dxcv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.09.23</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/09/cdlxiii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2023.09.30</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
