@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Organization probably doesn't want to improve things]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=37806870 target=_blank>295 comments</a>]]></description>
+            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=37806870 target=_blank>303 comments</a>]]></description>
             <pubDate>2023-10-08T00:48:03.000Z</pubDate>
             <guid isPermaLink="false">https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/</guid>
             <link>https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Decomposing language models into understandable components]]></title>
-            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=37806861 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=37806861 target=_blank>51 comments</a>]]></description>
             <pubDate>2023-10-08T00:46:45.000Z</pubDate>
             <guid isPermaLink="false">https://www.anthropic.com/index/decomposing-language-models-into-understandable-components</guid>
             <link>https://www.anthropic.com/index/decomposing-language-models-into-understandable-components</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[ChatGPT – Dalle3 System Prompt]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=37804288 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=37804288 target=_blank>110 comments</a>]]></description>
             <pubDate>2023-10-07T18:33:00.000Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/Suhail/status/1710653717081653712</guid>
             <link>https://twitter.com/Suhail/status/1710653717081653712</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[How to Compete with Patreon]]></title>
-            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=37808115 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=37808115 target=_blank>129 comments</a>]]></description>
             <pubDate>2023-10-08T05:34:13.000Z</pubDate>
             <guid isPermaLink="false">https://siderea.dreamwidth.org/1824441.html</guid>
             <link>https://siderea.dreamwidth.org/1824441.html</link>
@@ -146,15 +146,31 @@
         </item>
         
         <item>
-            <title><![CDATA[1400 year old gold foil figures found in Norwegian pagan temple]]></title>
-            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=37805035 target=_blank>61 comments</a>]]></description>
-            <pubDate>2023-10-07T19:59:43.000Z</pubDate>
-            <guid isPermaLink="false">https://sciencenorway.no/archaeology-iron-age/another-gold-treasure-in-norway-1400-year-old-gold-foil-figures-found-in-pagan-temple/2253447</guid>
-            <link>https://sciencenorway.no/archaeology-iron-age/another-gold-treasure-in-norway-1400-year-old-gold-foil-figures-found-in-pagan-temple/2253447</link>
+            <title><![CDATA[Homebrew to deprecate and add caveat for HashiCorp]]></title>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=37809721 target=_blank>33 comments</a>]]></description>
+            <pubDate>2023-10-08T12:00:08.000Z</pubDate>
+            <guid isPermaLink="false">https://github.com/Homebrew/homebrew-core/pull/139538</guid>
+            <link>https://github.com/Homebrew/homebrew-core/pull/139538</link>
             
             
             
-            <author><![CDATA[n1c]]></author>
+            <author><![CDATA[mooreds]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Before Skynet and The Matrix, there was Colossus: The Forbin Project]]></title>
+            <description><![CDATA[129 points | <a href=https://news.ycombinator.com/item?id=37807281 target=_blank>66 comments</a>]]></description>
+            <pubDate>2023-10-08T02:13:40.000Z</pubDate>
+            <guid isPermaLink="false">https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie</guid>
+            <link>https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie</link>
+            
+            
+            
+            <author><![CDATA[cglong]]></author>
             
                 
             
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[Twenty: A Modern open-source CRM]]></title>
-            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=37805520 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=37805520 target=_blank>53 comments</a>]]></description>
             <pubDate>2023-10-07T21:01:24.000Z</pubDate>
             <guid isPermaLink="false">https://github.com/twentyhq/twenty</guid>
             <link>https://github.com/twentyhq/twenty</link>
@@ -178,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Dockerized local and offline backing up of PostgreSQL with rotation, compression]]></title>
-            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=37805337 target=_blank>24 comments</a>]]></description>
-            <pubDate>2023-10-07T20:39:42.000Z</pubDate>
-            <guid isPermaLink="false">https://github.com/efrecon/pgbackup</guid>
-            <link>https://github.com/efrecon/pgbackup</link>
+            <title><![CDATA[An implantable device could enable injection-free control of diabetes]]></title>
+            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=37807248 target=_blank>24 comments</a>]]></description>
+            <pubDate>2023-10-08T02:09:14.000Z</pubDate>
+            <guid isPermaLink="false">https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918</guid>
+            <link>https://news.mit.edu/2023/implantable-device-enable-injection-free-control-diabetes-0918</link>
             
             
             
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Before Skynet and The Matrix, there was Colossus: The Forbin Project]]></title>
-            <description><![CDATA[125 points | <a href=https://news.ycombinator.com/item?id=37807281 target=_blank>65 comments</a>]]></description>
-            <pubDate>2023-10-08T02:13:40.000Z</pubDate>
-            <guid isPermaLink="false">https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie</guid>
-            <link>https://www.ign.com/articles/colossus-the-forbin-project-ai-sci-fi-movie</link>
-            
-            
-            
-            <author><![CDATA[cglong]]></author>
+            <author><![CDATA[thebigspacefuck]]></author>
             
                 
             
