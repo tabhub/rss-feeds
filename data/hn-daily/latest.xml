@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Organization probably doesn't want to improve things]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=37806870 target=_blank>236 comments</a>]]></description>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=37806870 target=_blank>244 comments</a>]]></description>
             <pubDate>2023-10-08T00:48:03.000Z</pubDate>
             <guid isPermaLink="false">https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/</guid>
             <link>https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Decomposing language models into understandable components]]></title>
-            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=37806861 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=37806861 target=_blank>47 comments</a>]]></description>
             <pubDate>2023-10-08T00:46:45.000Z</pubDate>
             <guid isPermaLink="false">https://www.anthropic.com/index/decomposing-language-models-into-understandable-components</guid>
             <link>https://www.anthropic.com/index/decomposing-language-models-into-understandable-components</link>
@@ -59,38 +59,6 @@
             
             
             <author><![CDATA[tompark]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Berry is a ultra-lightweight dynamically typed embedded scripting language]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=37801140 target=_blank>84 comments</a>]]></description>
-            <pubDate>2023-10-07T12:26:57.000Z</pubDate>
-            <guid isPermaLink="false">https://berry-lang.github.io/</guid>
-            <link>https://berry-lang.github.io/</link>
-            
-            
-            
-            <author><![CDATA[dannyobrien]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Meta in Myanmar, Part III. The Inside View]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=37801150 target=_blank>100 comments</a>]]></description>
-            <pubDate>2023-10-07T12:28:10.000Z</pubDate>
-            <guid isPermaLink="false">https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view</guid>
-            <link>https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view</link>
-            
-            
-            
-            <author><![CDATA[joeyh]]></author>
             
                 
             
@@ -115,7 +83,7 @@
         
         <item>
             <title><![CDATA[Sonoma's log gets briefer and more secretive]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=37801354 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=37801354 target=_blank>86 comments</a>]]></description>
             <pubDate>2023-10-07T12:59:12.000Z</pubDate>
             <guid isPermaLink="false">https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/</guid>
             <link>https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/</link>
@@ -131,7 +99,7 @@
         
         <item>
             <title><![CDATA[Permission Slip: Consumer Reports app to take back control of your data]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=37805969 target=_blank>59 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=37805969 target=_blank>59 comments</a>]]></description>
             <pubDate>2023-10-07T22:11:03.000Z</pubDate>
             <guid isPermaLink="false">https://permissionslipcr.com/</guid>
             <link>https://permissionslipcr.com/</link>
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[Quake related work logs (1996)]]></title>
-            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=37804301 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[137 points | <a href=https://news.ycombinator.com/item?id=37804301 target=_blank>89 comments</a>]]></description>
             <pubDate>2023-10-07T18:34:37.000Z</pubDate>
             <guid isPermaLink="false">https://www.gamers.org/dEngine/quake/info/worklogs.html</guid>
             <link>https://www.gamers.org/dEngine/quake/info/worklogs.html</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[n1c]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA["Attention is all you need" paper digested (2018)]]></title>
+            <description><![CDATA[119 points | <a href=https://news.ycombinator.com/item?id=37803638 target=_blank>28 comments</a>]]></description>
+            <pubDate>2023-10-07T17:27:21.000Z</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=iDulhoQ2pro</guid>
+            <link>https://www.youtube.com/watch?v=iDulhoQ2pro</link>
+            
+            
+            
+            <author><![CDATA[binidxaba]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Testing if a port can be reached, using built-in tools other than ol' telnet]]></title>
+            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=37804763 target=_blank>70 comments</a>]]></description>
+            <pubDate>2023-10-07T19:29:51.000Z</pubDate>
+            <guid isPermaLink="false">https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet</guid>
+            <link>https://www.carehart.org/blog/2023/10/1/testing_port_reachability_with_other_than_telnet</link>
+            
+            
+            
+            <author><![CDATA[rmason]]></author>
             
                 
             
