@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Firefox tooltip bug fixed after 22 years]]></title>
-            <description><![CDATA[888 points | <a href=https://news.ycombinator.com/item?id=37827995 target=_blank>316 comments</a>]]></description>
+            <description><![CDATA[892 points | <a href=https://news.ycombinator.com/item?id=37827995 target=_blank>316 comments</a>]]></description>
             <pubDate>2023-10-10T02:43:27.000Z</pubDate>
             <guid isPermaLink="false">https://bugzilla.mozilla.org/show_bug.cgi?id=148624</guid>
             <link>https://bugzilla.mozilla.org/show_bug.cgi?id=148624</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The largest DDoS attack to date, peaking above 398M rps]]></title>
-            <description><![CDATA[655 points | <a href=https://news.ycombinator.com/item?id=37831062 target=_blank>400 comments</a>]]></description>
+            <description><![CDATA[656 points | <a href=https://news.ycombinator.com/item?id=37831062 target=_blank>402 comments</a>]]></description>
             <pubDate>2023-10-10T12:10:44.000Z</pubDate>
             <guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/</guid>
             <link>https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Oil sector is lobbying for inefficient hydrogen cars to delay electrification]]></title>
-            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=37836237 target=_blank>268 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=37836237 target=_blank>269 comments</a>]]></description>
             <pubDate>2023-10-10T19:17:17.000Z</pubDate>
             <guid isPermaLink="false">https://www.rechargenews.com/energy-transition/liebreich-oil-sector-is-lobbying-for-inefficient-hydrogen-cars-because-it-wants-to-delay-electrification-/2-1-1033226?zephr_sso_ott=XwKh7x</guid>
             <link>https://www.rechargenews.com/energy-transition/liebreich-oil-sector-is-lobbying-for-inefficient-hydrogen-cars-because-it-wants-to-delay-electrification-/2-1-1033226?zephr_sso_ott=XwKh7x</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[The novel HTTP/2 'Rapid Reset' DDoS attack]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=37830987 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=37830987 target=_blank>82 comments</a>]]></description>
             <pubDate>2023-10-10T12:00:49.000Z</pubDate>
             <guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack</guid>
             <link>https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[jsnell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Valve says Counter-Strike 2 for macOS not happening, there aren't enough players]]></title>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=37831263 target=_blank>487 comments</a>]]></description>
+            <pubDate>2023-10-10T12:37:17.000Z</pubDate>
+            <guid isPermaLink="false">https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/</guid>
+            <link>https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/</link>
+            
+            
+            
+            <author><![CDATA[tosh]]></author>
             
                 
             
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Valve says Counter-Strike 2 for macOS not happening, there aren't enough players]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=37831263 target=_blank>479 comments</a>]]></description>
-            <pubDate>2023-10-10T12:37:17.000Z</pubDate>
-            <guid isPermaLink="false">https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/</guid>
-            <link>https://www.macrumors.com/2023/10/10/valve-confirms-counter-strike-2-no-macos/</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Simulation Islands]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=37829551 target=_blank>12 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=37829551 target=_blank>13 comments</a>]]></description>
             <pubDate>2023-10-10T07:55:58.000Z</pubDate>
             <guid isPermaLink="false">https://box2d.org/posts/2023/10/simulation-islands/</guid>
             <link>https://box2d.org/posts/2023/10/simulation-islands/</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Postgres: The next generation]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=37832319 target=_blank>57 comments</a>]]></description>
-            <pubDate>2023-10-10T14:08:48.000Z</pubDate>
-            <guid isPermaLink="false">https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/</guid>
-            <link>https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/</link>
-            
-            
-            
-            <author><![CDATA[mooreds]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Building a 42-inch E-Ink frame for generative art]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=37835995 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=37835995 target=_blank>99 comments</a>]]></description>
             <pubDate>2023-10-10T18:56:58.000Z</pubDate>
             <guid isPermaLink="false">https://eliot.blog/e-ink-frame</guid>
             <link>https://eliot.blog/e-ink-frame</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[ea016]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Postgres: The next generation]]></title>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=37832319 target=_blank>57 comments</a>]]></description>
+            <pubDate>2023-10-10T14:08:48.000Z</pubDate>
+            <guid isPermaLink="false">https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/</guid>
+            <link>https://redmonk.com/jgovernor/2023/10/10/postgres-the-next-generation-investing-in-the-next-generation-of-committers/</link>
+            
+            
+            
+            <author><![CDATA[mooreds]]></author>
             
                 
             
