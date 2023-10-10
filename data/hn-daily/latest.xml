@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[John Riccitiello steps down as CEO of Unity]]></title>
-            <description><![CDATA[792 points | <a href=https://news.ycombinator.com/item?id=37825292 target=_blank>331 comments</a>]]></description>
+            <description><![CDATA[795 points | <a href=https://news.ycombinator.com/item?id=37825292 target=_blank>330 comments</a>]]></description>
             <pubDate>2023-10-09T20:46:49.000Z</pubDate>
             <guid isPermaLink="false">https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/</guid>
             <link>https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Firefox tooltip bug fixed after 22 years]]></title>
-            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=37827995 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=37827995 target=_blank>151 comments</a>]]></description>
             <pubDate>2023-10-10T02:43:27.000Z</pubDate>
             <guid isPermaLink="false">https://bugzilla.mozilla.org/show_bug.cgi?id=148624</guid>
             <link>https://bugzilla.mozilla.org/show_bug.cgi?id=148624</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The pivot table, the spreadsheet's most powerful tool (2020)]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=37820877 target=_blank>168 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=37820877 target=_blank>168 comments</a>]]></description>
             <pubDate>2023-10-09T14:36:23.000Z</pubDate>
             <guid isPermaLink="false">https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool</guid>
             <link>https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[ECC RAM on AMD Ryzen 7000 Desktop CPUs]]></title>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=37826842 target=_blank>109 comments</a>]]></description>
+            <pubDate>2023-10-09T23:39:30.000Z</pubDate>
+            <guid isPermaLink="false">https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/</guid>
+            <link>https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/</link>
+            
+            
+            
+            <author><![CDATA[mmastrac]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Bare-metal Rust in Android]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=37823377 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=37823377 target=_blank>103 comments</a>]]></description>
             <pubDate>2023-10-09T18:13:20.000Z</pubDate>
             <guid isPermaLink="false">https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html</guid>
             <link>https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html</link>
@@ -178,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[ECC RAM on AMD Ryzen 7000 Desktop CPUs]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=37826842 target=_blank>108 comments</a>]]></description>
-            <pubDate>2023-10-09T23:39:30.000Z</pubDate>
-            <guid isPermaLink="false">https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/</guid>
-            <link>https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/</link>
+            <title><![CDATA[Video streaming at scale with Kubernetes and RabbitMQ]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=37823160 target=_blank>81 comments</a>]]></description>
+            <pubDate>2023-10-09T17:51:32.000Z</pubDate>
+            <guid isPermaLink="false">https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb</guid>
+            <link>https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb</link>
             
             
             
-            <author><![CDATA[mmastrac]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Text showdown: Gap Buffers vs. Ropes]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=37820532 target=_blank>79 comments</a>]]></description>
-            <pubDate>2023-10-09T14:00:40.000Z</pubDate>
-            <guid isPermaLink="false">https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/</guid>
-            <link>https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/</link>
-            
-            
-            
-            <author><![CDATA[celeritascelery]]></author>
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
