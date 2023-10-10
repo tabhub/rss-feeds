@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[John Riccitiello steps down as CEO of Unity]]></title>
-            <description><![CDATA[858 points | <a href=https://news.ycombinator.com/item?id=37825292 target=_blank>376 comments</a>]]></description>
+            <description><![CDATA[860 points | <a href=https://news.ycombinator.com/item?id=37825292 target=_blank>377 comments</a>]]></description>
             <pubDate>2023-10-09T20:46:49.000Z</pubDate>
             <guid isPermaLink="false">https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/</guid>
             <link>https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Firefox tooltip bug fixed after 22 years]]></title>
-            <description><![CDATA[687 points | <a href=https://news.ycombinator.com/item?id=37827995 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[695 points | <a href=https://news.ycombinator.com/item?id=37827995 target=_blank>248 comments</a>]]></description>
             <pubDate>2023-10-10T02:43:27.000Z</pubDate>
             <guid isPermaLink="false">https://bugzilla.mozilla.org/show_bug.cgi?id=148624</guid>
             <link>https://bugzilla.mozilla.org/show_bug.cgi?id=148624</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[ECC RAM on AMD Ryzen 7000 Desktop CPUs]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=37826842 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=37826842 target=_blank>161 comments</a>]]></description>
             <pubDate>2023-10-09T23:39:30.000Z</pubDate>
             <guid isPermaLink="false">https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/</guid>
             <link>https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[DSLinux – Linux for the Nintendo DS]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=37826357 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=37826357 target=_blank>65 comments</a>]]></description>
             <pubDate>2023-10-09T22:41:34.000Z</pubDate>
             <guid isPermaLink="false">https://www.dslinux.org/</guid>
             <link>https://www.dslinux.org/</link>
@@ -130,6 +130,38 @@
         </item>
         
         <item>
+            <title><![CDATA[Text showdown: Gap Buffers vs. Ropes]]></title>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=37820532 target=_blank>90 comments</a>]]></description>
+            <pubDate>2023-10-09T14:00:40.000Z</pubDate>
+            <guid isPermaLink="false">https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/</guid>
+            <link>https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/</link>
+            
+            
+            
+            <author><![CDATA[celeritascelery]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Fair coins tend to land on the same side they started]]></title>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=37829926 target=_blank>159 comments</a>]]></description>
+            <pubDate>2023-10-10T09:06:45.000Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2310.04153</guid>
+            <link>https://arxiv.org/abs/2310.04153</link>
+            
+            
+            
+            <author><![CDATA[fbartos]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Tell HN: DNS record "hn.algolia.com" was gone]]></title>
             <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=37821821 target=_blank>97 comments</a>]]></description>
             <pubDate>2023-10-09T16:05:51.000Z</pubDate>
@@ -139,22 +171,6 @@
             
             
             <author><![CDATA[gslin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Text showdown: Gap Buffers vs. Ropes]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=37820532 target=_blank>89 comments</a>]]></description>
-            <pubDate>2023-10-09T14:00:40.000Z</pubDate>
-            <guid isPermaLink="false">https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/</guid>
-            <link>https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/</link>
-            
-            
-            
-            <author><![CDATA[celeritascelery]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Fair coins tend to land on the same side they started]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=37829926 target=_blank>158 comments</a>]]></description>
-            <pubDate>2023-10-10T09:06:45.000Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2310.04153</guid>
-            <link>https://arxiv.org/abs/2310.04153</link>
-            
-            
-            
-            <author><![CDATA[fbartos]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google mitigated the largest DDoS attack to date, peaking above 398M rps]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=37831062 target=_blank>209 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=37831062 target=_blank>220 comments</a>]]></description>
             <pubDate>2023-10-10T12:10:44.000Z</pubDate>
             <guid isPermaLink="false">https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/</guid>
             <link>https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/</link>
