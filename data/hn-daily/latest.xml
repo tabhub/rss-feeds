@@ -35,26 +35,10 @@
         
         <item>
             <title><![CDATA[Cockpit: Web-based graphical interface for servers]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=37895446 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=37895446 target=_blank>167 comments</a>]]></description>
             <pubDate>2023-10-16T02:48:21Z</pubDate>
             <guid isPermaLink="false">https://cockpit-project.org/</guid>
             <link>https://cockpit-project.org/</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SSH-audit: SSH server and client security auditing]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=37892028 target=_blank>46 comments</a>]]></description>
-            <pubDate>2023-10-15T18:18:44Z</pubDate>
-            <guid isPermaLink="false">https://github.com/jtesta/ssh-audit</guid>
-            <link>https://github.com/jtesta/ssh-audit</link>
             
             
             
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[C Is Not a Low-level Language (2018)]]></title>
-            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=37897946 target=_blank>343 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=37897946 target=_blank>348 comments</a>]]></description>
             <pubDate>2023-10-16T10:46:10Z</pubDate>
             <guid isPermaLink="false">https://queue.acm.org/detail.cfm?id=3212479</guid>
             <link>https://queue.acm.org/detail.cfm?id=3212479</link>
@@ -98,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Windows 10 warns me to use a "Microsoft-verified" app]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=37897432 target=_blank>172 comments</a>]]></description>
-            <pubDate>2023-10-16T09:23:43Z</pubDate>
-            <guid isPermaLink="false">https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app</guid>
-            <link>https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app</link>
-            
-            
-            
-            <author><![CDATA[mrich]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Better HTTP server routing in Go 1.22]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=37898999 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=37898999 target=_blank>168 comments</a>]]></description>
             <pubDate>2023-10-16T12:38:14Z</pubDate>
             <guid isPermaLink="false">https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/</guid>
             <link>https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/</link>
@@ -130,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Windows 10 warns me to use a "Microsoft-verified" app]]></title>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=37897432 target=_blank>173 comments</a>]]></description>
+            <pubDate>2023-10-16T09:23:43Z</pubDate>
+            <guid isPermaLink="false">https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app</guid>
+            <link>https://support.mozilla.org/en-US/kb/windows-10-warns-me-use-microsoft-verified-app</link>
+            
+            
+            
+            <author><![CDATA[mrich]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How to build a universe that doesn’t fall apart two days later (1978)]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=37896157 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=37896157 target=_blank>114 comments</a>]]></description>
             <pubDate>2023-10-16T05:17:49Z</pubDate>
             <guid isPermaLink="false">https://urbigenous.net/library/how_to_build.html</guid>
             <link>https://urbigenous.net/library/how_to_build.html</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA["About half of Bandcamp was laid off today"]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=37903172 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=37903172 target=_blank>138 comments</a>]]></description>
             <pubDate>2023-10-16T17:25:33Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/modernistwitch/status/1713962311579234428</guid>
             <link>https://twitter.com/modernistwitch/status/1713962311579234428</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[sjackso]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tech giants are hijacking the internet]]></title>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=37895552 target=_blank>108 comments</a>]]></description>
+            <pubDate>2023-10-16T03:11:16Z</pubDate>
+            <guid isPermaLink="false">https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639</guid>
+            <link>https://www.dw.com/en/how-tech-giants-are-hijacking-the-internet/a-67037639</link>
+            
+            
+            
+            <author><![CDATA[jruohonen]]></author>
             
                 
             
