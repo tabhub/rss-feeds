@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Cockpit: Web-based graphical interface for servers]]></title>
-            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=37895446 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=37895446 target=_blank>163 comments</a>]]></description>
             <pubDate>2023-10-16T02:48:21Z</pubDate>
             <guid isPermaLink="false">https://cockpit-project.org/</guid>
             <link>https://cockpit-project.org/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[SSH-audit: SSH server and client security auditing]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=37892028 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=37892028 target=_blank>46 comments</a>]]></description>
             <pubDate>2023-10-15T18:18:44Z</pubDate>
             <guid isPermaLink="false">https://github.com/jtesta/ssh-audit</guid>
             <link>https://github.com/jtesta/ssh-audit</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[FreeTube – The Private YouTube Client]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=37897916 target=_blank>358 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=37897916 target=_blank>360 comments</a>]]></description>
             <pubDate>2023-10-16T10:40:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/FreeTubeApp/FreeTube</guid>
             <link>https://github.com/FreeTubeApp/FreeTube</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[C Is Not a Low-level Language (2018)]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=37897946 target=_blank>331 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=37897946 target=_blank>334 comments</a>]]></description>
             <pubDate>2023-10-16T10:46:10Z</pubDate>
             <guid isPermaLink="false">https://queue.acm.org/detail.cfm?id=3212479</guid>
             <link>https://queue.acm.org/detail.cfm?id=3212479</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Better HTTP server routing in Go 1.22]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=37898999 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=37898999 target=_blank>155 comments</a>]]></description>
             <pubDate>2023-10-16T12:38:14Z</pubDate>
             <guid isPermaLink="false">https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/</guid>
             <link>https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[MemGPT: Towards LLMs as Operating Systems]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=37894403 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=37894403 target=_blank>121 comments</a>]]></description>
             <pubDate>2023-10-15T23:33:15Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2310.08560</guid>
             <link>https://arxiv.org/abs/2310.08560</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[How to build a universe that doesn’t fall apart two days later (1978)]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=37896157 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=37896157 target=_blank>109 comments</a>]]></description>
             <pubDate>2023-10-16T05:17:49Z</pubDate>
             <guid isPermaLink="false">https://urbigenous.net/library/how_to_build.html</guid>
             <link>https://urbigenous.net/library/how_to_build.html</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Microsoft consumes Activision; and a plea]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=37893794 target=_blank>138 comments</a>]]></description>
-            <pubDate>2023-10-15T21:59:28Z</pubDate>
-            <guid isPermaLink="false">https://blog.zarfhome.com/2023/10/microsoft-consumes-activision</guid>
-            <link>https://blog.zarfhome.com/2023/10/microsoft-consumes-activision</link>
-            
-            
-            
-            <author><![CDATA[sjackso]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Omnigres: Postgres as a Platform]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=37893080 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=37893080 target=_blank>71 comments</a>]]></description>
             <pubDate>2023-10-15T20:23:55Z</pubDate>
             <guid isPermaLink="false">https://github.com/omnigres/omnigres</guid>
             <link>https://github.com/omnigres/omnigres</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[bdcravens]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Microsoft consumes Activision; and a plea]]></title>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=37893794 target=_blank>140 comments</a>]]></description>
+            <pubDate>2023-10-15T21:59:28Z</pubDate>
+            <guid isPermaLink="false">https://blog.zarfhome.com/2023/10/microsoft-consumes-activision</guid>
+            <link>https://blog.zarfhome.com/2023/10/microsoft-consumes-activision</link>
+            
+            
+            
+            <author><![CDATA[sjackso]]></author>
             
                 
             
