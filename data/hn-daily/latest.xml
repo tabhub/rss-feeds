@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Mastercard Should Stop Selling Our Data]]></title>
-            <description><![CDATA[573 points | <a href=https://news.ycombinator.com/item?id=37892684 target=_blank>226 comments</a>]]></description>
+            <description><![CDATA[573 points | <a href=https://news.ycombinator.com/item?id=37892684 target=_blank>228 comments</a>]]></description>
             <pubDate>2023-10-15T19:33:35Z</pubDate>
             <guid isPermaLink="false">https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data</guid>
             <link>https://www.eff.org/deeplinks/2023/10/mastercard-should-stop-selling-our-data</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Finland to vote against the EU mass surveillance and encryption ban directive]]></title>
-            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=37891886 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[415 points | <a href=https://news.ycombinator.com/item?id=37891886 target=_blank>109 comments</a>]]></description>
             <pubDate>2023-10-15T18:01:30Z</pubDate>
             <guid isPermaLink="false">https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta</guid>
             <link>https://dawn.fi/uutiset/2023/10/14/eu-csam-suomi-eduskunta-kanta</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Cockpit: Web-based graphical interface for servers]]></title>
-            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=37895446 target=_blank>151 comments</a>]]></description>
+            <description><![CDATA[376 points | <a href=https://news.ycombinator.com/item?id=37895446 target=_blank>155 comments</a>]]></description>
             <pubDate>2023-10-16T02:48:21Z</pubDate>
             <guid isPermaLink="false">https://cockpit-project.org/</guid>
             <link>https://cockpit-project.org/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[C Is Not a Low-level Language (2018)]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=37897946 target=_blank>312 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=37897946 target=_blank>317 comments</a>]]></description>
             <pubDate>2023-10-16T10:46:10Z</pubDate>
             <guid isPermaLink="false">https://queue.acm.org/detail.cfm?id=3212479</guid>
             <link>https://queue.acm.org/detail.cfm?id=3212479</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[FreeTube – The Private YouTube Client]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=37897916 target=_blank>342 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=37897916 target=_blank>350 comments</a>]]></description>
             <pubDate>2023-10-16T10:40:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/FreeTubeApp/FreeTube</guid>
             <link>https://github.com/FreeTubeApp/FreeTube</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[MemGPT: Towards LLMs as Operating Systems]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=37894403 target=_blank>117 comments</a>]]></description>
-            <pubDate>2023-10-15T23:33:15Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2310.08560</guid>
-            <link>https://arxiv.org/abs/2310.08560</link>
-            
-            
-            
-            <author><![CDATA[belter]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Better HTTP server routing in Go 1.22]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=37898999 target=_blank>125 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=37898999 target=_blank>130 comments</a>]]></description>
             <pubDate>2023-10-16T12:38:14Z</pubDate>
             <guid isPermaLink="false">https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/</guid>
             <link>https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/</link>
@@ -162,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Why Async Rust?]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=37891020 target=_blank>115 comments</a>]]></description>
-            <pubDate>2023-10-15T16:18:29Z</pubDate>
-            <guid isPermaLink="false">https://without.boats/blog/why-async-rust/</guid>
-            <link>https://without.boats/blog/why-async-rust/</link>
+            <title><![CDATA[MemGPT: Towards LLMs as Operating Systems]]></title>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=37894403 target=_blank>118 comments</a>]]></description>
+            <pubDate>2023-10-15T23:33:15Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2310.08560</guid>
+            <link>https://arxiv.org/abs/2310.08560</link>
             
             
             
-            <author><![CDATA[withoutboats3]]></author>
+            <author><![CDATA[belter]]></author>
             
                 
             
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[How to build a universe that doesn’t fall apart two days later (1978)]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=37896157 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=37896157 target=_blank>106 comments</a>]]></description>
             <pubDate>2023-10-16T05:17:49Z</pubDate>
             <guid isPermaLink="false">https://urbigenous.net/library/how_to_build.html</guid>
             <link>https://urbigenous.net/library/how_to_build.html</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Microsoft consumes Activision; and a plea]]></title>
-            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=37893794 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=37893794 target=_blank>136 comments</a>]]></description>
             <pubDate>2023-10-15T21:59:28Z</pubDate>
             <guid isPermaLink="false">https://blog.zarfhome.com/2023/10/microsoft-consumes-activision</guid>
             <link>https://blog.zarfhome.com/2023/10/microsoft-consumes-activision</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[sjackso]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Omnigres: Postgres as a Platform]]></title>
+            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=37893080 target=_blank>71 comments</a>]]></description>
+            <pubDate>2023-10-15T20:23:55Z</pubDate>
+            <guid isPermaLink="false">https://github.com/omnigres/omnigres</guid>
+            <link>https://github.com/omnigres/omnigres</link>
+            
+            
+            
+            <author><![CDATA[bdcravens]]></author>
             
                 
             
