@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #636]]></title>
+        <title><![CDATA[Perl Weekly #638]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,27 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[This Week in PSC (118)]]></title>
-            <description><![CDATA[Another update by PSC team.]]></description>
-            <pubDate>2023.09.28</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/09/this-week-in-psc-118.html</guid>
-            <link>https://blogs.perl.org/users/psc/2023/09/this-week-in-psc-118.html</link>
+            <title><![CDATA[Announcing Dancer2 1.0.0]]></title>
+            <description><![CDATA[Latest release of Dancer2 now following semantic versioning. Jason shared the details of latest release.]]></description>
+            <pubDate>2023.10.09</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/</link>
+            
+            
+            
+            <author><![CDATA[jason_crome]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (120)]]></title>
+            <description><![CDATA[PSC shared the topics last discussed. Thank you PSC.]]></description>
+            <pubDate>2023.10.13</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/10/this-week-in-psc-120.html</guid>
+            <link>https://blogs.perl.org/users/psc/2023/10/this-week-in-psc-120.html</link>
             
             
             
@@ -34,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[MetaCPAN Core Contributors]]></title>
-            <description><![CDATA[Please do come forward and support MetaCPAN Core. As of now, we have 19 contributors. It would be nice to see this grow with your support.]]></description>
-            <pubDate>2023.10.01</pubDate>
-            <guid isPermaLink="false">https://opencollective.com/metacpan-core</guid>
-            <link>https://opencollective.com/metacpan-core</link>
+            <title><![CDATA[Bitcoin::Crypto version 2.000 released!]]></title>
+            <description><![CDATA[Are you Bitcoin fan? Then this is for you, do checkout.]]></description>
+            <pubDate>2023.10.15</pubDate>
+            <guid isPermaLink="false">https://bbrtj.eu/blog/article/bitcoin-crypto-2-released</guid>
+            <link>https://bbrtj.eu/blog/article/bitcoin-crypto-2-released</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Hacktoberfest 2023]]></title>
-            <description><![CDATA[The annual festival is live and kicking. Please do join and contribute to open source projects on GitHub.]]></description>
-            <pubDate>2023.10.01</pubDate>
-            <guid isPermaLink="false">https://hacktoberfest.com/</guid>
-            <link>https://hacktoberfest.com/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[bartosz_jarzyna]]></author>
             
                 
             
@@ -66,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[plenv-libdirs]]></title>
-            <description><![CDATA[If you are fan of plenv the this plugin would be very handy. How? You need to checkout the post for more details.]]></description>
-            <pubDate>2023.09.27</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2023/09/plenv-libdirs.html</guid>
-            <link>https://blogs.perl.org/users/mikko_koivunalho/2023/09/plenv-libdirs.html</link>
+            <title><![CDATA[pushover.net]]></title>
+            <description><![CDATA[A simple command-line Pushover.net notifier script, written in Perl]]></description>
+            <pubDate>2023.10.12</pubDate>
+            <guid isPermaLink="false">https://github.com/hightowe/pushover-notify</guid>
+            <link>https://github.com/hightowe/pushover-notify</link>
             
             
             
-            <author><![CDATA[mikko_koivunalho]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Hash of Arrays Deathmatch : Native Perl vs. DBM::Deep vs. Redis]]></title>
-            <description><![CDATA[A detailed comparison to help you understand the pros/cons. Please keep us busy with more such posts.]]></description>
-            <pubDate>2023.09.27</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/chrisarg/2023/09/hash-of-arrays-deathmatch-native-perl-vs-dbmdeep-vs-redis.html</guid>
-            <link>https://blogs.perl.org/users/chrisarg/2023/09/hash-of-arrays-deathmatch-native-perl-vs-dbmdeep-vs-redis.html</link>
-            
-            
-            
-            <author><![CDATA[chrisarg]]></author>
+            <author><![CDATA[lester_hightower]]></author>
             
                 
             
@@ -98,27 +82,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Writing Perl with Emacs: Are there perl-mode users around?]]></title>
-            <description><![CDATA[For all emacs users, please checkout the latest update to cperl-mode to edit Perl code.]]></description>
-            <pubDate>2023.09.25</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/haj/2023/09/writing-perl-with-emacs-are-there-perl-mode-users-around.html</guid>
-            <link>https://blogs.perl.org/users/haj/2023/09/writing-perl-with-emacs-are-there-perl-mode-users-around.html</link>
-            
-            
-            
-            <author><![CDATA[haj]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2023.39 Releaseses]]></title>
-            <description><![CDATA[2023.39 Releaseses]]></description>
-            <pubDate>2023.09.25</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/09/25/2023-39-releaseses/</guid>
-            <link>https://rakudoweekly.blog/2023/09/25/2023-39-releaseses/</link>
+            <title><![CDATA[2023.41 Free In Three]]></title>
+            <description><![CDATA[2023.41 Free In Three]]></description>
+            <pubDate>2023.10.09</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/10/09/2023-41-free-in-three/</guid>
+            <link>https://rakudoweekly.blog/2023/10/09/2023-41-free-in-three/</link>
             
             
             
@@ -131,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/09/cdlxiii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2023.09.30</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/10/cdlxv-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2023.10.15</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
