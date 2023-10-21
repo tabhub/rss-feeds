@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[We have used too many levels of abstractions and now the future looks bleak]]></title>
-            <description><![CDATA[525 points | <a href=https://news.ycombinator.com/item?id=37965142 target=_blank>305 comments</a>]]></description>
+            <description><![CDATA[543 points | <a href=https://news.ycombinator.com/item?id=37965142 target=_blank>315 comments</a>]]></description>
             <pubDate>2023-10-21T08:42:52Z</pubDate>
             <guid isPermaLink="false">https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html</guid>
             <link>https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The ten year anniversary of the Healthcare.gov rescue]]></title>
-            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=37957152 target=_blank>308 comments</a>]]></description>
+            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=37957152 target=_blank>308 comments</a>]]></description>
             <pubDate>2023-10-20T15:06:21Z</pubDate>
             <guid isPermaLink="false">https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html</guid>
             <link>https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[EU Commissioner as double agent of foreign interference]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=37958473 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=37958473 target=_blank>177 comments</a>]]></description>
             <pubDate>2023-10-20T16:46:47Z</pubDate>
             <guid isPermaLink="false">https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/</guid>
             <link>https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Progress on No-GIL CPython]]></title>
-            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=37960941 target=_blank>190 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=37960941 target=_blank>191 comments</a>]]></description>
             <pubDate>2023-10-20T20:10:52Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/Articles/947138/</guid>
             <link>https://lwn.net/Articles/947138/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[They can and will ruin everything you love]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=37959540 target=_blank>246 comments</a>]]></description>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=37959540 target=_blank>247 comments</a>]]></description>
             <pubDate>2023-10-20T18:10:50Z</pubDate>
             <guid isPermaLink="false">https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/</guid>
             <link>https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Mitigating the Hetzner/Linode XMPP.ru MitM interception incident]]></title>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=37961166 target=_blank>105 comments</a>]]></description>
+            <pubDate>2023-10-20T20:31:29Z</pubDate>
+            <guid isPermaLink="false">https://www.devever.net/~hl/xmpp-incident</guid>
+            <link>https://www.devever.net/~hl/xmpp-incident</link>
+            
+            
+            
+            <author><![CDATA[hlandau]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Hackers stole access tokens from Okta's support unit]]></title>
-            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=37959904 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=37959904 target=_blank>145 comments</a>]]></description>
             <pubDate>2023-10-20T18:46:28Z</pubDate>
             <guid isPermaLink="false">https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</guid>
             <link>https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</link>
@@ -130,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Mitigating the Hetzner/Linode XMPP.ru MitM interception incident]]></title>
-            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=37961166 target=_blank>105 comments</a>]]></description>
-            <pubDate>2023-10-20T20:31:29Z</pubDate>
-            <guid isPermaLink="false">https://www.devever.net/~hl/xmpp-incident</guid>
-            <link>https://www.devever.net/~hl/xmpp-incident</link>
+            <title><![CDATA[Pushing devs for lower estimates is like asking a meteorologist for sunshine]]></title>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=37964153 target=_blank>197 comments</a>]]></description>
+            <pubDate>2023-10-21T04:43:25Z</pubDate>
+            <guid isPermaLink="false">https://smartguess.is/blog/your-estimate-is-less-than-that/</guid>
+            <link>https://smartguess.is/blog/your-estimate-is-less-than-that/</link>
             
             
             
-            <author><![CDATA[hlandau]]></author>
+            <author><![CDATA[replyifuagree]]></author>
             
                 
             
@@ -178,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Pushing devs for lower estimates is like asking a meteorologist for sunshine]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=37964153 target=_blank>188 comments</a>]]></description>
-            <pubDate>2023-10-21T04:43:25Z</pubDate>
-            <guid isPermaLink="false">https://smartguess.is/blog/your-estimate-is-less-than-that/</guid>
-            <link>https://smartguess.is/blog/your-estimate-is-less-than-that/</link>
+            <title><![CDATA[Flappy Bird implemented in TypeScript types]]></title>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=37956856 target=_blank>49 comments</a>]]></description>
+            <pubDate>2023-10-20T14:47:52Z</pubDate>
+            <guid isPermaLink="false">https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/</guid>
+            <link>https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/</link>
             
             
             
-            <author><![CDATA[replyifuagree]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Nonprofit hospitals skimp on charity while CEOs reap millions, report finds]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=37955952 target=_blank>137 comments</a>]]></description>
-            <pubDate>2023-10-20T13:49:09Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/</guid>
-            <link>https://arstechnica.com/health/2023/10/nonprofit-hospitals-skimp-on-charity-while-ceos-reap-millions-report-finds/</link>
-            
-            
-            
-            <author><![CDATA[rntn]]></author>
+            <author><![CDATA[joshmanders]]></author>
             
                 
             
