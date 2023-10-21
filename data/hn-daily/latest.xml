@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Encrypted traffic interception on Hetzner and Linode targeting Jabber service]]></title>
-            <description><![CDATA[546 points | <a href=https://news.ycombinator.com/item?id=37955264 target=_blank>223 comments</a>]]></description>
+            <description><![CDATA[549 points | <a href=https://news.ycombinator.com/item?id=37955264 target=_blank>224 comments</a>]]></description>
             <pubDate>2023-10-20T12:40:53Z</pubDate>
             <guid isPermaLink="false">https://notes.valdikss.org.ru/jabber.ru-mitm/</guid>
             <link>https://notes.valdikss.org.ru/jabber.ru-mitm/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Cops Are Suing a Teen for Invasion of Privacy After False Arrest Vid Goes Viral]]></title>
-            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=37956714 target=_blank>241 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=37956714 target=_blank>242 comments</a>]]></description>
             <pubDate>2023-10-20T14:37:25Z</pubDate>
             <guid isPermaLink="false">https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest</guid>
             <link>https://www.vice.com/en/article/jg5a88/cops-sue-teen-invasion-of-privacy-false-arrest</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[The ten year anniversary of the Healthcare.gov rescue]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=37957152 target=_blank>283 comments</a>]]></description>
+            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=37957152 target=_blank>284 comments</a>]]></description>
             <pubDate>2023-10-20T15:06:21Z</pubDate>
             <guid isPermaLink="false">https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html</guid>
             <link>https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[They can and will ruin everything you love]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=37959540 target=_blank>243 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=37959540 target=_blank>244 comments</a>]]></description>
             <pubDate>2023-10-20T18:10:50Z</pubDate>
             <guid isPermaLink="false">https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/</guid>
             <link>https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[EU Commissioner as double agent of foreign interference]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=37958473 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=37958473 target=_blank>127 comments</a>]]></description>
             <pubDate>2023-10-20T16:46:47Z</pubDate>
             <guid isPermaLink="false">https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/</guid>
             <link>https://www.patrick-breyer.de/en/breyer-on-chat-control-investigative-research-eu-commissioner-as-double-agent-of-foreign-interference/</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Progress on No-GIL CPython]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=37960941 target=_blank>134 comments</a>]]></description>
-            <pubDate>2023-10-20T20:10:52Z</pubDate>
-            <guid isPermaLink="false">https://lwn.net/Articles/947138/</guid>
-            <link>https://lwn.net/Articles/947138/</link>
-            
-            
-            
-            <author><![CDATA[belter]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Hackers stole access tokens from Okta's support unit]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=37959904 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=37959904 target=_blank>115 comments</a>]]></description>
             <pubDate>2023-10-20T18:46:28Z</pubDate>
             <guid isPermaLink="false">https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</guid>
             <link>https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</link>
@@ -171,6 +155,22 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Progress on No-GIL CPython]]></title>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=37960941 target=_blank>136 comments</a>]]></description>
+            <pubDate>2023-10-20T20:10:52Z</pubDate>
+            <guid isPermaLink="false">https://lwn.net/Articles/947138/</guid>
+            <link>https://lwn.net/Articles/947138/</link>
+            
+            
+            
+            <author><![CDATA[belter]]></author>
             
                 
             
