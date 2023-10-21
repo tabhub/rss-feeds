@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[In search of the least viewed article on Wikipedia (2022)]]></title>
-            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=37955600 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=37955600 target=_blank>196 comments</a>]]></description>
             <pubDate>2023-10-20T13:20:35Z</pubDate>
             <guid isPermaLink="false">http://colinmorris.github.io/blog/unpopular-wiki-articles</guid>
             <link>http://colinmorris.github.io/blog/unpopular-wiki-articles</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Nakatomi Space]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=37955402 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=37955402 target=_blank>113 comments</a>]]></description>
             <pubDate>2023-10-20T12:56:48Z</pubDate>
             <guid isPermaLink="false">https://www.bldgblog.com/2010/01/nakatomi-space/</guid>
             <link>https://www.bldgblog.com/2010/01/nakatomi-space/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Progress on No-GIL CPython]]></title>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=37960941 target=_blank>128 comments</a>]]></description>
+            <pubDate>2023-10-20T20:10:52Z</pubDate>
+            <guid isPermaLink="false">https://lwn.net/Articles/947138/</guid>
+            <link>https://lwn.net/Articles/947138/</link>
+            
+            
+            
+            <author><![CDATA[belter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA["<ESC>[31M"? ANSI Terminal security in 2023 and finding 10 CVEs]]></title>
             <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=37957397 target=_blank>117 comments</a>]]></description>
             <pubDate>2023-10-20T15:22:52Z</pubDate>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Progress on No-GIL CPython]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=37960941 target=_blank>126 comments</a>]]></description>
-            <pubDate>2023-10-20T20:10:52Z</pubDate>
-            <guid isPermaLink="false">https://lwn.net/Articles/947138/</guid>
-            <link>https://lwn.net/Articles/947138/</link>
+            <title><![CDATA[Hackers stole access tokens from Okta's support unit]]></title>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=37959904 target=_blank>112 comments</a>]]></description>
+            <pubDate>2023-10-20T18:46:28Z</pubDate>
+            <guid isPermaLink="false">https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</guid>
+            <link>https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</link>
             
             
             
-            <author><![CDATA[belter]]></author>
+            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[rntn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Hackers stole access tokens from Okta's support unit]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=37959904 target=_blank>112 comments</a>]]></description>
-            <pubDate>2023-10-20T18:46:28Z</pubDate>
-            <guid isPermaLink="false">https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</guid>
-            <link>https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
