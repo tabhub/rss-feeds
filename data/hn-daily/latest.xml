@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Protomaps – A free and open source map of the world]]></title>
-            <description><![CDATA[798 points | <a href=https://news.ycombinator.com/item?id=37982621 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[801 points | <a href=https://news.ycombinator.com/item?id=37982621 target=_blank>122 comments</a>]]></description>
             <pubDate>2023-10-23T07:44:44Z</pubDate>
             <guid isPermaLink="false">https://protomaps.com/</guid>
             <link>https://protomaps.com/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Building a unikernel that runs WebAssembly – part 1]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=37982137 target=_blank>125 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=37982137 target=_blank>125 comments</a>]]></description>
             <pubDate>2023-10-23T06:08:43Z</pubDate>
             <guid isPermaLink="false">https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/</guid>
             <link>https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[EU Chat Control Bill Postponed]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=37982655 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=37982655 target=_blank>181 comments</a>]]></description>
             <pubDate>2023-10-23T07:48:21Z</pubDate>
             <guid isPermaLink="false">https://tutanota.com/blog/chat-control-criticism</guid>
             <link>https://tutanota.com/blog/chat-control-criticism</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Java implementation of a quantum computing resistant cryptographic algorithm]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=37984404 target=_blank>46 comments</a>]]></description>
-            <pubDate>2023-10-23T11:54:12Z</pubDate>
-            <guid isPermaLink="false">https://github.com/mthiim/dilithium-java</guid>
-            <link>https://github.com/mthiim/dilithium-java</link>
-            
-            
-            
-            <author><![CDATA[mooreds]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[SumatraPDF Reader]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=37993575 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=37993575 target=_blank>87 comments</a>]]></description>
             <pubDate>2023-10-24T00:38:15Z</pubDate>
             <guid isPermaLink="false">https://github.com/sumatrapdfreader/sumatrapdf</guid>
             <link>https://github.com/sumatrapdfreader/sumatrapdf</link>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[quyleanh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Java implementation of a quantum computing resistant cryptographic algorithm]]></title>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=37984404 target=_blank>47 comments</a>]]></description>
+            <pubDate>2023-10-23T11:54:12Z</pubDate>
+            <guid isPermaLink="false">https://github.com/mthiim/dilithium-java</guid>
+            <link>https://github.com/mthiim/dilithium-java</link>
+            
+            
+            
+            <author><![CDATA[mooreds]]></author>
             
                 
             
