@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Interactive intro to shaders]]></title>
-            <description><![CDATA[450 points | <a href=https://news.ycombinator.com/item?id=38032288 target=_blank>64 comments</a>]]></description>
+            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=38032288 target=_blank>64 comments</a>]]></description>
             <pubDate>2023-10-26T22:03:07Z</pubDate>
             <guid isPermaLink="false">https://www.mayerowitz.io/blog/a-journey-into-shaders</guid>
             <link>https://www.mayerowitz.io/blog/a-journey-into-shaders</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The slow death of authenticity in an attention economy]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=38037851 target=_blank>258 comments</a>]]></description>
+            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=38037851 target=_blank>268 comments</a>]]></description>
             <pubDate>2023-10-27T13:00:54Z</pubDate>
             <guid isPermaLink="false">https://www.coryzue.com/writing/authenticity-and-engagement/</guid>
             <link>https://www.coryzue.com/writing/authenticity-and-engagement/</link>
@@ -50,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[EPA moves towards banning leaded aviation gas]]></title>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=38039133 target=_blank>173 comments</a>]]></description>
+            <pubDate>2023-10-27T14:44:57Z</pubDate>
+            <guid isPermaLink="false">https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to</guid>
+            <link>https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to</link>
+            
+            
+            
+            <author><![CDATA[Metacelsus]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Lean4 helped Terence Tao discover a small bug in his recent paper]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=38035672 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=38035672 target=_blank>151 comments</a>]]></description>
             <pubDate>2023-10-27T07:25:32Z</pubDate>
             <guid isPermaLink="false">https://mathstodon.xyz/@tao/111287749336059662</guid>
             <link>https://mathstodon.xyz/@tao/111287749336059662</link>
@@ -82,22 +98,6 @@
         </item>
         
         <item>
-            <title><![CDATA[EPA moves towards banning leaded aviation gas]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=38039133 target=_blank>158 comments</a>]]></description>
-            <pubDate>2023-10-27T14:44:57Z</pubDate>
-            <guid isPermaLink="false">https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to</guid>
-            <link>https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to</link>
-            
-            
-            
-            <author><![CDATA[Metacelsus]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Now add a walrus: Prompt engineering in DALL-E 3]]></title>
             <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=38031839 target=_blank>69 comments</a>]]></description>
             <pubDate>2023-10-26T21:19:22Z</pubDate>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Why you should probably be using SQLite]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=38036921 target=_blank>225 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=38036921 target=_blank>239 comments</a>]]></description>
             <pubDate>2023-10-27T10:51:52Z</pubDate>
             <guid isPermaLink="false">https://www.epicweb.dev/why-you-should-probably-be-using-sqlite</guid>
             <link>https://www.epicweb.dev/why-you-should-probably-be-using-sqlite</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Cities Skylines 2 runs with 20fps on an Nvidia RTX4090]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=38029479 target=_blank>385 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=38029479 target=_blank>386 comments</a>]]></description>
             <pubDate>2023-10-26T18:08:45Z</pubDate>
             <guid isPermaLink="false">https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/</guid>
             <link>https://www.dsogaming.com/pc-performance-analyses/cities-skylines-2-runs-with-20fps-on-an-nvidia-rtx4090-at-4k-high-even-on-an-empty-map/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[How to draw beautiful software architecture diagrams (2022)]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=38035505 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=38035505 target=_blank>105 comments</a>]]></description>
             <pubDate>2023-10-27T06:57:37Z</pubDate>
             <guid isPermaLink="false">https://terrastruct.com/blog/post/draw-software-architecture-diagrams/</guid>
             <link>https://terrastruct.com/blog/post/draw-software-architecture-diagrams/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Bird with GPS flies into typhoon]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=38030705 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=38030705 target=_blank>102 comments</a>]]></description>
             <pubDate>2023-10-26T19:37:07Z</pubDate>
             <guid isPermaLink="false">https://newatlas.com/biology/bird-typhoon-ride/</guid>
             <link>https://newatlas.com/biology/bird-typhoon-ride/</link>
