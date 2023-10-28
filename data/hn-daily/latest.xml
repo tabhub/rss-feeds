@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Lessons Learned from Twenty Years of Site Reliability Engineering]]></title>
-            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=38037141 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[433 points | <a href=https://news.ycombinator.com/item?id=38037141 target=_blank>102 comments</a>]]></description>
             <pubDate>2023-10-27T11:25:28Z</pubDate>
             <guid isPermaLink="false">https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/</guid>
             <link>https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Shadow: New browser engine made almost entirely in JavaScript]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=38043033 target=_blank>230 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=38043033 target=_blank>230 comments</a>]]></description>
             <pubDate>2023-10-27T19:46:23Z</pubDate>
             <guid isPermaLink="false">https://goose.icu/introducing-shadow/</guid>
             <link>https://goose.icu/introducing-shadow/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Tell HN: Automatic fraud detection is making my life hell]]></title>
-            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=38038713 target=_blank>330 comments</a>]]></description>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=38038713 target=_blank>331 comments</a>]]></description>
             <pubDate>2023-10-27T14:15:09Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=38038713</guid>
             <link>https://news.ycombinator.com/item?id=38038713</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Show HN: ScratchDB – Open-Source Snowflake on ClickHouse]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=38038239 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=38038239 target=_blank>53 comments</a>]]></description>
             <pubDate>2023-10-27T13:34:06Z</pubDate>
             <guid isPermaLink="false">https://github.com/scratchdata/ScratchDB</guid>
             <link>https://github.com/scratchdata/ScratchDB</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Microsoft is failing to deliver emails that mention newclimate.org]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=38042114 target=_blank>72 comments</a>]]></description>
-            <pubDate>2023-10-27T18:30:20Z</pubDate>
-            <guid isPermaLink="false">https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the</guid>
-            <link>https://newclimate.org/news/microsoft-error-or-external-attack-causing-disruption-to-email-communication-across-the</link>
+            <title><![CDATA[Google paid $26.3B in 2021 to be the default search engine]]></title>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=38041335 target=_blank>169 comments</a>]]></description>
+            <pubDate>2023-10-27T17:26:54Z</pubDate>
+            <guid isPermaLink="false">https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion</guid>
+            <link>https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion</link>
             
             
             
-            <author><![CDATA[mritzmann]]></author>
+            <author><![CDATA[gorbachev]]></author>
             
                 
             
