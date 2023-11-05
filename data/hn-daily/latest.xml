@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[NewPipe – Lightweight YouTube experience for Android]]></title>
-            <description><![CDATA[639 points | <a href=https://news.ycombinator.com/item?id=38144400 target=_blank>313 comments</a>]]></description>
+            <description><![CDATA[639 points | <a href=https://news.ycombinator.com/item?id=38144400 target=_blank>315 comments</a>]]></description>
             <pubDate>2023-11-04T19:38:51Z</pubDate>
             <guid isPermaLink="false">https://newpipe.net/</guid>
             <link>https://newpipe.net/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Bevy 0.12]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=38144417 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=38144417 target=_blank>78 comments</a>]]></description>
             <pubDate>2023-11-04T19:39:45Z</pubDate>
             <guid isPermaLink="false">https://bevyengine.org/news/bevy-0-12/</guid>
             <link>https://bevyengine.org/news/bevy-0-12/</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Building a high performance JSON parser]]></title>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=38150833 target=_blank>58 comments</a>]]></description>
+            <pubDate>2023-11-05T13:10:43Z</pubDate>
+            <guid isPermaLink="false">https://dave.cheney.net/paste/gophercon-sg-2023.html</guid>
+            <link>https://dave.cheney.net/paste/gophercon-sg-2023.html</link>
+            
+            
+            
+            <author><![CDATA[davecheney]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Exclusive access for LLM companies to largest Chinese nonfiction book collection]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=38149093 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=38149093 target=_blank>117 comments</a>]]></description>
             <pubDate>2023-11-05T07:30:00Z</pubDate>
             <guid isPermaLink="false">https://annas-blog.org/duxiu-exclusive.html</guid>
             <link>https://annas-blog.org/duxiu-exclusive.html</link>
@@ -99,7 +115,7 @@
         
         <item>
             <title><![CDATA[Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=38148396 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=38148396 target=_blank>162 comments</a>]]></description>
             <pubDate>2023-11-05T05:02:33Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/xai/status/1721027348970238035</guid>
             <link>https://twitter.com/xai/status/1721027348970238035</link>
@@ -107,22 +123,6 @@
             
             
             <author><![CDATA[zone411]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Building a high performance JSON parser]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=38150833 target=_blank>52 comments</a>]]></description>
-            <pubDate>2023-11-05T13:10:43Z</pubDate>
-            <guid isPermaLink="false">https://dave.cheney.net/paste/gophercon-sg-2023.html</guid>
-            <link>https://dave.cheney.net/paste/gophercon-sg-2023.html</link>
-            
-            
-            
-            <author><![CDATA[davecheney]]></author>
             
                 
             
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Email obfuscation rendered almost ineffective against ChatGPT]]></title>
+            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=38150096 target=_blank>122 comments</a>]]></description>
+            <pubDate>2023-11-05T11:12:12Z</pubDate>
+            <guid isPermaLink="false">https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4</guid>
+            <link>https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4</link>
+            
+            
+            
+            <author><![CDATA[skeetmtp]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[My experience taking Tesla to court about FSD]]></title>
             <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=38146676 target=_blank>77 comments</a>]]></description>
             <pubDate>2023-11-05T00:23:40Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[nixass]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Email obfuscation rendered almost ineffective against ChatGPT]]></title>
-            <description><![CDATA[128 points | <a href=https://news.ycombinator.com/item?id=38150096 target=_blank>116 comments</a>]]></description>
-            <pubDate>2023-11-05T11:12:12Z</pubDate>
-            <guid isPermaLink="false">https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4</guid>
-            <link>https://bulkninja.notion.site/Email-Obfuscation-Rendered-almost-Ineffective-Against-ChatGPT-728fba1b948d42c6b8dfa73cb64984e4</link>
-            
-            
-            
-            <author><![CDATA[skeetmtp]]></author>
             
                 
             
