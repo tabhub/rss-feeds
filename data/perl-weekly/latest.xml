@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #639]]></title>
+        <title><![CDATA[Perl Weekly #641]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[How To Use Perl Code Profiling Tools Effectively]]></title>
-            <description><![CDATA[How do you ensure your Perl scripts run efficiently? ]]></description>
-            <pubDate>2023.09.29</pubDate>
-            <guid isPermaLink="false">https://marketsplash.com/tutorials/perl/perl-code-profiling-tools/</guid>
-            <link>https://marketsplash.com/tutorials/perl/perl-code-profiling-tools/</link>
+            <title><![CDATA[Understanding the Basics of Perl for Text Processing with AI Features]]></title>
+            <description><![CDATA[Understanding the Basics of Perl for Text Processing with AI Features]]></description>
+            <pubDate>2023.11.06</pubDate>
+            <guid isPermaLink="false">https://medium.com/@staneyjoseph.in/understanding-the-basics-of-perl-for-text-processing-with-ai-features-673e55728db9</guid>
+            <link>https://medium.com/@staneyjoseph.in/understanding-the-basics-of-perl-for-text-processing-with-ai-features-673e55728db9</link>
             
             
             
@@ -34,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Installing cpan module on macOS: ERROR: Can't create '/usr/share/man/man3']]></title>
-            <description><![CDATA[Installing cpan module on macOS: ERROR: Can't create '/usr/share/man/man3']]></description>
-            <pubDate>2023.10.18</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/17ah72y/installing_cpan_module_on_macos_error_cant_create/</guid>
-            <link>https://www.reddit.com/r/perl/comments/17ah72y/installing_cpan_module_on_macos_error_cant_create/</link>
+            <title><![CDATA[The different between comma and period in "print" function in Perl?]]></title>
+            <description><![CDATA[The different between comma and period in "print" function in Perl?]]></description>
+            <pubDate>2023.11.03</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/17mkv4x/the_different_between_comma_and_period_in_print/</guid>
+            <link>https://www.reddit.com/r/perl/comments/17mkv4x/the_different_between_comma_and_period_in_print/</link>
             
             
             
@@ -50,11 +50,43 @@
         </item>
         
         <item>
-            <title><![CDATA[How can I support core classes and Corinna?]]></title>
-            <description><![CDATA[How can I support core classes and Corinna?]]></description>
-            <pubDate>2023.10.18</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/17a4jsd/how_can_i_support_core_classes_and_corinna/</guid>
-            <link>https://www.reddit.com/r/perl/comments/17a4jsd/how_can_i_support_core_classes_and_corinna/</link>
+            <title><![CDATA[Dodging the Go loop trap]]></title>
+            <description><![CDATA[Dodging the Go loop trap]]></description>
+            <pubDate>2023.11.03</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/aristotle/2023/11/dodging-the-go-loop-trap.html</guid>
+            <link>https://blogs.perl.org/users/aristotle/2023/11/dodging-the-go-loop-trap.html</link>
+            
+            
+            
+            <author><![CDATA[aristotle_pagaltzis]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Running mod_perl with Mojolicious in Docker]]></title>
+            <description><![CDATA[Running mod_perl with Mojolicious in Docker]]></description>
+            <pubDate>2023.11.01</pubDate>
+            <guid isPermaLink="false">https://rawley.xyz/docker-mod-perl.html</guid>
+            <link>https://rawley.xyz/docker-mod-perl.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Science Track Interest Survey]]></title>
+            <description><![CDATA[There is a strong official consideration by The Perl and Raku Foundation of including a new kind of track to the 2024 Perl and Raku Conference in Las Vegas.]]></description>
+            <pubDate>2023.11.01</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/sciencetrack</guid>
+            <link>https://news.perlfoundation.org/post/sciencetrack</link>
             
             
             
@@ -67,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/10/cdlxvi-5-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/10/dlxix-metacpan-weekly-report-mojolicious.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/10/dxcvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.10.21</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/11/cdlxviii-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/11/dlxxi-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/11/dxcviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.11.05</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
