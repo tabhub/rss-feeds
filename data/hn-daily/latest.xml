@@ -146,22 +146,6 @@
         </item>
         
         <item>
-            <title><![CDATA[milliForth]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=38158309 target=_blank>54 comments</a>]]></description>
-            <pubDate>2023-11-06T03:03:23Z</pubDate>
-            <guid isPermaLink="false">https://github.com/fuzzballcat/milliForth</guid>
-            <link>https://github.com/fuzzballcat/milliForth</link>
-            
-            
-            
-            <author><![CDATA[binarycrusader]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Firefox Development Is Moving from Mercurial to Git]]></title>
             <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=38160161 target=_blank>185 comments</a>]]></description>
             <pubDate>2023-11-06T08:50:04Z</pubDate>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[kens]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DuckDB performance improvements with the latest release]]></title>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=38164189 target=_blank>72 comments</a>]]></description>
+            <pubDate>2023-11-06T15:51:59Z</pubDate>
+            <guid isPermaLink="false">https://duckdb.org/2023/11/03/db-benchmark-update.html</guid>
+            <link>https://duckdb.org/2023/11/03/db-benchmark-update.html</link>
+            
+            
+            
+            <author><![CDATA[vgt]]></author>
             
                 
             
