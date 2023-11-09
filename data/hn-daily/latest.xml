@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Omegle founder shuts down site forever?]]></title>
-            <description><![CDATA[905 points | <a href=https://news.ycombinator.com/item?id=38199355 target=_blank>400 comments</a>]]></description>
+            <description><![CDATA[932 points | <a href=https://news.ycombinator.com/item?id=38199355 target=_blank>417 comments</a>]]></description>
             <pubDate>2023-11-09T00:40:25Z</pubDate>
             <guid isPermaLink="false">https://www.omegle.com/</guid>
             <link>https://www.omegle.com/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Hard-to-swallow truths they won't tell you about software engineer job]]></title>
-            <description><![CDATA[719 points | <a href=https://news.ycombinator.com/item?id=38188689 target=_blank>722 comments</a>]]></description>
+            <description><![CDATA[722 points | <a href=https://news.ycombinator.com/item?id=38188689 target=_blank>722 comments</a>]]></description>
             <pubDate>2023-11-08T10:41:35Z</pubDate>
             <guid isPermaLink="false">https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/</guid>
             <link>https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How Wikipedia became the last good place on the internet]]></title>
-            <description><![CDATA[482 points | <a href=https://news.ycombinator.com/item?id=38189878 target=_blank>578 comments</a>]]></description>
+            <description><![CDATA[482 points | <a href=https://news.ycombinator.com/item?id=38189878 target=_blank>579 comments</a>]]></description>
             <pubDate>2023-11-08T13:13:41Z</pubDate>
             <guid isPermaLink="false">https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE</guid>
             <link>https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Major outages across ChatGPT and API]]></title>
-            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=38190401 target=_blank>490 comments</a>]]></description>
+            <description><![CDATA[471 points | <a href=https://news.ycombinator.com/item?id=38190401 target=_blank>490 comments</a>]]></description>
             <pubDate>2023-11-08T14:02:39Z</pubDate>
             <guid isPermaLink="false">https://status.openai.com/incidents/00fpy0yxrx1q</guid>
             <link>https://status.openai.com/incidents/00fpy0yxrx1q</link>
@@ -162,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[SciPy builds for Python 3.12 on Windows are a minor miracle]]></title>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=38196412 target=_blank>126 comments</a>]]></description>
+            <pubDate>2023-11-08T20:24:16Z</pubDate>
+            <guid isPermaLink="false">https://labs.quansight.org/blog/building-scipy-with-flang</guid>
+            <link>https://labs.quansight.org/blog/building-scipy-with-flang</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Quake Brutalist Jam II]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=38191319 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=38191319 target=_blank>90 comments</a>]]></description>
             <pubDate>2023-11-08T15:02:29Z</pubDate>
             <guid isPermaLink="false">https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/</guid>
             <link>https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Officially Qualified – Ferrocene]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=38188734 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=38188734 target=_blank>98 comments</a>]]></description>
             <pubDate>2023-11-08T10:49:08Z</pubDate>
             <guid isPermaLink="false">https://ferrous-systems.com/blog/officially-qualified-ferrocene/</guid>
             <link>https://ferrous-systems.com/blog/officially-qualified-ferrocene/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[jamincan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SciPy builds for Python 3.12 on Windows are a minor miracle]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=38196412 target=_blank>125 comments</a>]]></description>
-            <pubDate>2023-11-08T20:24:16Z</pubDate>
-            <guid isPermaLink="false">https://labs.quansight.org/blog/building-scipy-with-flang</guid>
-            <link>https://labs.quansight.org/blog/building-scipy-with-flang</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
