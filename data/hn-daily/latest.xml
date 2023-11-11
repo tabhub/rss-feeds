@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Don't build AI products the way everyone else is doing it]]></title>
-            <description><![CDATA[418 points | <a href=https://news.ycombinator.com/item?id=38221552 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=38221552 target=_blank>192 comments</a>]]></description>
             <pubDate>2023-11-10T17:20:08Z</pubDate>
             <guid isPermaLink="false">https://www.builder.io/blog/build-ai</guid>
             <link>https://www.builder.io/blog/build-ai</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Moving our Encrypted DNS servers to run in RAM]]></title>
-            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=38217355 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=38217355 target=_blank>126 comments</a>]]></description>
             <pubDate>2023-11-10T10:51:48Z</pubDate>
             <guid isPermaLink="false">https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram</guid>
             <link>https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple discriminated against US citizens in hiring, DOJ says]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=38224950 target=_blank>199 comments</a>]]></description>
+            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=38224950 target=_blank>199 comments</a>]]></description>
             <pubDate>2023-11-10T21:45:38Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/</guid>
             <link>https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says/</link>
@@ -98,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Debugging tricks in the browser]]></title>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=38226743 target=_blank>38 comments</a>]]></description>
+            <pubDate>2023-11-11T01:35:17Z</pubDate>
+            <guid isPermaLink="false">https://alan.norbauer.com/articles/browser-debugging-tricks</guid>
+            <link>https://alan.norbauer.com/articles/browser-debugging-tricks</link>
+            
+            
+            
+            <author><![CDATA[bkudria]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[We're sorry we created the Torment Nexus]]></title>
             <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=38218580 target=_blank>352 comments</a>]]></description>
             <pubDate>2023-11-10T13:34:15Z</pubDate>
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Debugging tricks in the browser]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=38226743 target=_blank>38 comments</a>]]></description>
-            <pubDate>2023-11-11T01:35:17Z</pubDate>
-            <guid isPermaLink="false">https://alan.norbauer.com/articles/browser-debugging-tricks</guid>
-            <link>https://alan.norbauer.com/articles/browser-debugging-tricks</link>
-            
-            
-            
-            <author><![CDATA[bkudria]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Albert Einstein in 1939 composed a message for the people of AD 6939]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=38216353 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=38216353 target=_blank>275 comments</a>]]></description>
             <pubDate>2023-11-10T08:08:16Z</pubDate>
             <guid isPermaLink="false">https://www.futilitycloset.com/2023/11/10/comment-8/</guid>
             <link>https://www.futilitycloset.com/2023/11/10/comment-8/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[The Unix timestamp will begin with 17 this Tuesday]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=38222909 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=38222909 target=_blank>66 comments</a>]]></description>
             <pubDate>2023-11-10T18:54:54Z</pubDate>
             <guid isPermaLink="false">https://www.unixtimestamp.com/</guid>
             <link>https://www.unixtimestamp.com/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Texture Healing for Monospace Fonts]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=38221379 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=38221379 target=_blank>80 comments</a>]]></description>
             <pubDate>2023-11-10T17:07:31Z</pubDate>
             <guid isPermaLink="false">https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md</guid>
             <link>https://github.com/githubnext/monaspace/blob/main/docs/Texture%20Healing.md</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Dungeon KeeperFX 1.0]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=38220982 target=_blank>92 comments</a>]]></description>
-            <pubDate>2023-11-10T16:39:22Z</pubDate>
-            <guid isPermaLink="false">https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released</guid>
-            <link>https://keeperfx.net/news/11/2023-11-10/keeperfx-100-has-been-released</link>
+            <title><![CDATA[How to boss without being bossy]]></title>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=38224245 target=_blank>80 comments</a>]]></description>
+            <pubDate>2023-11-10T20:42:09Z</pubDate>
+            <guid isPermaLink="false">https://www.jeffwofford.com/?p=2089</guid>
+            <link>https://www.jeffwofford.com/?p=2089</link>
             
             
             
-            <author><![CDATA[MrJagil]]></author>
+            <author><![CDATA[putzdown]]></author>
             
                 
             
