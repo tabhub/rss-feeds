@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #641]]></title>
+        <title><![CDATA[Perl Weekly #642]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,79 +18,31 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Understanding the Basics of Perl for Text Processing with AI Features]]></title>
-            <description><![CDATA[Understanding the Basics of Perl for Text Processing with AI Features]]></description>
+            <title><![CDATA[Meet The Champion - Packy Anderson]]></title>
+            <description><![CDATA[Please checkout the interview with the latest champion of The Weekly Challenge.]]></description>
+            <pubDate>2023.11.12</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/meet-the-champion-2023-10/</guid>
+            <link>https://theweeklychallenge.org/blog/meet-the-champion-2023-10/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.45 ConfVids]]></title>
+            <description><![CDATA[2023.45 ConfVids]]></description>
             <pubDate>2023.11.06</pubDate>
-            <guid isPermaLink="false">https://medium.com/@staneyjoseph.in/understanding-the-basics-of-perl-for-text-processing-with-ai-features-673e55728db9</guid>
-            <link>https://medium.com/@staneyjoseph.in/understanding-the-basics-of-perl-for-text-processing-with-ai-features-673e55728db9</link>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/11/06/2023-45-confvids/</guid>
+            <link>https://rakudoweekly.blog/2023/11/06/2023-45-confvids/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The different between comma and period in "print" function in Perl?]]></title>
-            <description><![CDATA[The different between comma and period in "print" function in Perl?]]></description>
-            <pubDate>2023.11.03</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/17mkv4x/the_different_between_comma_and_period_in_print/</guid>
-            <link>https://www.reddit.com/r/perl/comments/17mkv4x/the_different_between_comma_and_period_in_print/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dodging the Go loop trap]]></title>
-            <description><![CDATA[Dodging the Go loop trap]]></description>
-            <pubDate>2023.11.03</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/aristotle/2023/11/dodging-the-go-loop-trap.html</guid>
-            <link>https://blogs.perl.org/users/aristotle/2023/11/dodging-the-go-loop-trap.html</link>
-            
-            
-            
-            <author><![CDATA[aristotle_pagaltzis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Running mod_perl with Mojolicious in Docker]]></title>
-            <description><![CDATA[Running mod_perl with Mojolicious in Docker]]></description>
-            <pubDate>2023.11.01</pubDate>
-            <guid isPermaLink="false">https://rawley.xyz/docker-mod-perl.html</guid>
-            <link>https://rawley.xyz/docker-mod-perl.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Science Track Interest Survey]]></title>
-            <description><![CDATA[There is a strong official consideration by The Perl and Raku Foundation of including a new kind of track to the 2024 Perl and Raku Conference in Las Vegas.]]></description>
-            <pubDate>2023.11.01</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/sciencetrack</guid>
-            <link>https://news.perlfoundation.org/post/sciencetrack</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -99,8 +51,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/11/cdlxviii-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/11/dlxxi-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/11/dxcviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.11.05</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/11/cdlxix-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2023.11.11</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
