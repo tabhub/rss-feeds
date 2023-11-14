@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Building an occupancy sensor with a $5 ESP32 and a serverless DB]]></title>
-            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=38252566 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[444 points | <a href=https://news.ycombinator.com/item?id=38252566 target=_blank>145 comments</a>]]></description>
             <pubDate>2023-11-13T17:17:14Z</pubDate>
             <guid isPermaLink="false">https://matthew.science/posts/occupancy/</guid>
             <link>https://matthew.science/posts/occupancy/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ruby on Rails: The Documentary [video]]]></title>
-            <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=38248421 target=_blank>199 comments</a>]]></description>
+            <description><![CDATA[425 points | <a href=https://news.ycombinator.com/item?id=38248421 target=_blank>199 comments</a>]]></description>
             <pubDate>2023-11-13T09:18:21Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=HDKUEXBF3B4</guid>
             <link>https://www.youtube.com/watch?v=HDKUEXBF3B4</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[HTML Web Components]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=38251330 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=38251330 target=_blank>189 comments</a>]]></description>
             <pubDate>2023-11-13T15:31:43Z</pubDate>
             <guid isPermaLink="false">https://blog.jim-nielsen.com/2023/html-web-components/</guid>
             <link>https://blog.jim-nielsen.com/2023/html-web-components/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Lessons I wish I had learned before teaching differential equations [pdf] (1997)]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=38248532 target=_blank>229 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=38248532 target=_blank>230 comments</a>]]></description>
             <pubDate>2023-11-13T09:36:16Z</pubDate>
             <guid isPermaLink="false">https://web.williams.edu/Mathematics/lg5/Rota.pdf</guid>
             <link>https://web.williams.edu/Mathematics/lg5/Rota.pdf</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Hacking Google Bard – From Prompt Injection to Data Exfiltration]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=38251957 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=38251957 target=_blank>111 comments</a>]]></description>
             <pubDate>2023-11-13T16:22:06Z</pubDate>
             <guid isPermaLink="false">https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/</guid>
             <link>https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Black goo is the new oscilloscope: Love Hultén's ferrofluid synths]]></title>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=38250913 target=_blank>51 comments</a>]]></description>
+            <pubDate>2023-11-13T15:01:11Z</pubDate>
+            <guid isPermaLink="false">https://cdm.link/2023/11/black-goo-ferrofluid-synths/</guid>
+            <link>https://cdm.link/2023/11/black-goo-ferrofluid-synths/</link>
+            
+            
+            
+            <author><![CDATA[glitcher]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Diamonds Suck]]></title>
             <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=38247300 target=_blank>157 comments</a>]]></description>
             <pubDate>2023-11-13T05:32:47Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Black goo is the new oscilloscope: Love Hultén's ferrofluid synths]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=38250913 target=_blank>51 comments</a>]]></description>
-            <pubDate>2023-11-13T15:01:11Z</pubDate>
-            <guid isPermaLink="false">https://cdm.link/2023/11/black-goo-ferrofluid-synths/</guid>
-            <link>https://cdm.link/2023/11/black-goo-ferrofluid-synths/</link>
-            
-            
-            
-            <author><![CDATA[glitcher]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Loro: Reimagine state management with CRDTs]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=38248900 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=38248900 target=_blank>34 comments</a>]]></description>
             <pubDate>2023-11-13T10:51:20Z</pubDate>
             <guid isPermaLink="false">https://www.loro.dev/blog/loro-now-open-source</guid>
             <link>https://www.loro.dev/blog/loro-now-open-source</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Reauthorizing mass surveillance shouldn't be tied to funding the government]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=38254656 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=38254656 target=_blank>45 comments</a>]]></description>
             <pubDate>2023-11-13T20:04:56Z</pubDate>
             <guid isPermaLink="false">https://www.eff.org/deeplinks/2023/11/reauthorizing-mass-surveillance-shouldnt-be-tied-funding-government</guid>
             <link>https://www.eff.org/deeplinks/2023/11/reauthorizing-mass-surveillance-shouldnt-be-tied-funding-government</link>
