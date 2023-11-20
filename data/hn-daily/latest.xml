@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Show HN: YouTube banned adblockers so I built an extension to skip their ads]]></title>
-            <description><![CDATA[617 points | <a href=https://news.ycombinator.com/item?id=38327017 target=_blank>662 comments</a>]]></description>
-            <pubDate>2023-11-19T00:54:46Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=38327017</guid>
-            <link>https://news.ycombinator.com/item?id=38327017</link>
-            
-            
-            
-            <author><![CDATA[rKarpinski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[StyleTTS2 – open-source Eleven-Labs-quality Text To Speech]]></title>
-            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=38335255 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=38335255 target=_blank>155 comments</a>]]></description>
             <pubDate>2023-11-19T17:40:33Z</pubDate>
             <guid isPermaLink="false">https://github.com/yl4579/StyleTTS2</guid>
             <link>https://github.com/yl4579/StyleTTS2</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Deep Learning Course]]></title>
-            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=38331200 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=38331200 target=_blank>48 comments</a>]]></description>
             <pubDate>2023-11-19T10:19:21Z</pubDate>
             <guid isPermaLink="false">https://fleuret.org/dlc/</guid>
             <link>https://fleuret.org/dlc/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Meta disbanded its Responsible AI team]]></title>
-            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=38328355 target=_blank>361 comments</a>]]></description>
+            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=38328355 target=_blank>361 comments</a>]]></description>
             <pubDate>2023-11-19T03:18:17Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence</guid>
             <link>https://www.theverge.com/2023/11/18/23966980/meta-disbanded-responsible-ai-team-artificial-intelligence</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Altman sought billions for AI chip venture before OpenAI ouster]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=38335525 target=_blank>326 comments</a>]]></description>
+            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=38335525 target=_blank>328 comments</a>]]></description>
             <pubDate>2023-11-19T17:59:09Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster</guid>
             <link>https://www.bloomberg.com/news/articles/2023-11-19/altman-sought-billions-for-ai-chip-venture-before-openai-ouster</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Zero-k: A libre sci-fi RTS game, with an economy based on metal and energy]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=38331349 target=_blank>123 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=38331349 target=_blank>124 comments</a>]]></description>
             <pubDate>2023-11-19T10:43:09Z</pubDate>
             <guid isPermaLink="false">https://zero-k.info/</guid>
             <link>https://zero-k.info/</link>
@@ -123,6 +107,22 @@
             
             
             <author><![CDATA[azalemeth]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[datetime.utcnow() is now deprecated]]></title>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=38333116 target=_blank>323 comments</a>]]></description>
+            <pubDate>2023-11-19T14:49:32Z</pubDate>
+            <guid isPermaLink="false">https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated</guid>
+            <link>https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated</link>
+            
+            
+            
+            <author><![CDATA[Brajeshwar]]></author>
             
                 
             
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[datetime.utcnow() is now deprecated]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=38333116 target=_blank>320 comments</a>]]></description>
-            <pubDate>2023-11-19T14:49:32Z</pubDate>
-            <guid isPermaLink="false">https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated</guid>
-            <link>https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated</link>
-            
-            
-            
-            <author><![CDATA[Brajeshwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I will always prefer to work from home]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=38334084 target=_blank>248 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=38334084 target=_blank>249 comments</a>]]></description>
             <pubDate>2023-11-19T16:21:48Z</pubDate>
             <guid isPermaLink="false">https://shavingtheyak.com/2023/10/25/wfh-part1/</guid>
             <link>https://shavingtheyak.com/2023/10/25/wfh-part1/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Any comprehensive courses on Auth?]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=38331501 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=38331501 target=_blank>78 comments</a>]]></description>
             <pubDate>2023-11-19T11:06:21Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=38331501</guid>
             <link>https://news.ycombinator.com/item?id=38331501</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[bojangleslover]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Comparing humans, GPT-4, and GPT-4V on abstraction and reasoning tasks]]></title>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=38331669 target=_blank>168 comments</a>]]></description>
+            <pubDate>2023-11-19T11:36:34Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2311.09247</guid>
+            <link>https://arxiv.org/abs/2311.09247</link>
+            
+            
+            
+            <author><![CDATA[mpweiher]]></author>
             
                 
             
