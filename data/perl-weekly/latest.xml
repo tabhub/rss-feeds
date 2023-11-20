@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #642]]></title>
+        <title><![CDATA[Perl Weekly #643]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Meet The Champion - Packy Anderson]]></title>
-            <description><![CDATA[Please checkout the interview with the latest champion of The Weekly Challenge.]]></description>
-            <pubDate>2023.11.12</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/meet-the-champion-2023-10/</guid>
-            <link>https://theweeklychallenge.org/blog/meet-the-champion-2023-10/</link>
+            <title><![CDATA[A Perl-Based Static Site and Gemini Capsule Generator: The Story of tuxmachines.org and techrights.org]]></title>
+            <description><![CDATA[I have no idea what is a Gemini capsule, but Roy the author contacted me and then wrote a blog post I can link to. So here it is.]]></description>
+            <pubDate>2023.11.11</pubDate>
+            <guid isPermaLink="false">http://news.tuxmachines.org/n/2023/11/11/A_Perl_Based_Static_Site_and_Gemini_Capsule_Generator_The_Story.shtml</guid>
+            <link>http://news.tuxmachines.org/n/2023/11/11/A_Perl_Based_Static_Site_and_Gemini_Capsule_Generator_The_Story.shtml</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -34,15 +34,95 @@
         </item>
         
         <item>
-            <title><![CDATA[2023.45 ConfVids]]></title>
-            <description><![CDATA[2023.45 ConfVids]]></description>
-            <pubDate>2023.11.06</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/11/06/2023-45-confvids/</guid>
-            <link>https://rakudoweekly.blog/2023/11/06/2023-45-confvids/</link>
+            <title><![CDATA[Horror Movie Month 2023]]></title>
+            <description><![CDATA[I guess there is nothing to do with Perl in this, and I personally don't like horror movies, but I love to see the passion of Ricardo and that he makes all this public.]]></description>
+            <pubDate>2023.11.19</pubDate>
+            <guid isPermaLink="false">https://rjbs.cloud/blog/2023/11/horror-movie-month-2023/</guid>
+            <link>https://rjbs.cloud/blog/2023/11/horror-movie-month-2023/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[ricardo_signes]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hai Julia !]]></title>
+            <description><![CDATA[First I thought he is writing about the programming languages, but apparently not. He just released an application called Juliagraph for drawing Mandelbrot and Julia fractals.]]></description>
+            <pubDate>2023.11.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2023/11/hai-julia.html</guid>
+            <link>https://blogs.perl.org/users/lichtkind/2023/11/hai-julia.html</link>
+            
+            
+            
+            <author><![CDATA[herbert_breunung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Which language should I use?]]></title>
+            <description><![CDATA[Is Perl still relevant? ask the author, tags the question with <a href="https://dev.to/t/perl">perl</a>. Is there anyone in the Perl community who would want to comment on this?]]></description>
+            <pubDate>2023.11.18</pubDate>
+            <guid isPermaLink="false">https://dev.to/nd01/which-language-should-i-use-44ed</guid>
+            <link>https://dev.to/nd01/which-language-should-i-use-44ed</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Completely meaningful binary encoding]]></title>
+            <description><![CDATA[Completely meaningful binary encoding]]></description>
+            <pubDate>2023.11.16</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/17wgi0p/completely_meaningful_binary_encoding/</guid>
+            <link>https://www.reddit.com/r/perl/comments/17wgi0p/completely_meaningful_binary_encoding/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Final Call - 2024 TPRC Science Track Survey]]></title>
+            <description><![CDATA[Survey officially closes on Thursday, November 23, 2023.]]></description>
+            <pubDate>2023.11.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2023/11/closing-on-112323-thursday---2024-tprc-science-track-survey.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2023/11/closing-on-112323-thursday---2024-tprc-science-track-survey.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Ultimate HTML::Parser Perl Cheat Sheet]]></title>
+            <description><![CDATA[The Ultimate HTML::Parser Perl Cheat Sheet]]></description>
+            <pubDate>2023.10.31</pubDate>
+            <guid isPermaLink="false">https://proxiesapi.com/articles/the-ultimate-html-parser-perl-cheat-sheet</guid>
+            <link>https://proxiesapi.com/articles/the-ultimate-html-parser-perl-cheat-sheet</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -51,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/11/cdlxix-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2023.11.11</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/11/cdlxx-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/11/dlxxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;]]></description>
+            <pubDate>2023.11</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
