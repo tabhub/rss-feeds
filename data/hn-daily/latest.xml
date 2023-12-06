@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: Beeper Mini – iMessage client for Android]]></title>
-            <description><![CDATA[1333 points | <a href=https://news.ycombinator.com/item?id=38531759 target=_blank>792 comments</a>]]></description>
+            <description><![CDATA[1335 points | <a href=https://news.ycombinator.com/item?id=38531759 target=_blank>792 comments</a>]]></description>
             <pubDate>2023-12-05T15:06:21Z</pubDate>
             <guid isPermaLink="false">https://www.beeper.com/</guid>
             <link>https://www.beeper.com/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Polish trains lock up when serviced in third-party workshops]]></title>
-            <description><![CDATA[949 points | <a href=https://news.ycombinator.com/item?id=38530885 target=_blank>304 comments</a>]]></description>
+            <description><![CDATA[949 points | <a href=https://news.ycombinator.com/item?id=38530885 target=_blank>307 comments</a>]]></description>
             <pubDate>2023-12-05T14:10:12Z</pubDate>
             <guid isPermaLink="false">https://social.hackerspace.pl/@q3k/111528162462505087</guid>
             <link>https://social.hackerspace.pl/@q3k/111528162462505087</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Firefox on the brink?]]></title>
-            <description><![CDATA[619 points | <a href=https://news.ycombinator.com/item?id=38531104 target=_blank>734 comments</a>]]></description>
+            <description><![CDATA[620 points | <a href=https://news.ycombinator.com/item?id=38531104 target=_blank>734 comments</a>]]></description>
             <pubDate>2023-12-05T14:24:52Z</pubDate>
             <guid isPermaLink="false">https://www.brycewray.com/posts/2023/11/firefox-brink/</guid>
             <link>https://www.brycewray.com/posts/2023/11/firefox-brink/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: How did your computer reach my server?]]></title>
-            <description><![CDATA[587 points | <a href=https://news.ycombinator.com/item?id=38531604 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[588 points | <a href=https://news.ycombinator.com/item?id=38531604 target=_blank>129 comments</a>]]></description>
             <pubDate>2023-12-05T14:56:25Z</pubDate>
             <guid isPermaLink="false">https://how-did-i-get-here.net/</guid>
             <link>https://how-did-i-get-here.net/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[iMessage, explained]]></title>
-            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=38532167 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=38532167 target=_blank>132 comments</a>]]></description>
             <pubDate>2023-12-05T15:33:23Z</pubDate>
             <guid isPermaLink="false">https://jjtech.dev/reverse-engineering/imessage-explained/</guid>
             <link>https://jjtech.dev/reverse-engineering/imessage-explained/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[How does Shazam work? (2022)]]></title>
-            <description><![CDATA[477 points | <a href=https://news.ycombinator.com/item?id=38531428 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[478 points | <a href=https://news.ycombinator.com/item?id=38531428 target=_blank>134 comments</a>]]></description>
             <pubDate>2023-12-05T14:44:39Z</pubDate>
             <guid isPermaLink="false">https://www.cameronmacleod.com/blog/how-does-shazam-work</guid>
             <link>https://www.cameronmacleod.com/blog/how-does-shazam-work</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[JSONB has landed]]></title>
-            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=38540421 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[427 points | <a href=https://news.ycombinator.com/item?id=38540421 target=_blank>114 comments</a>]]></description>
             <pubDate>2023-12-06T04:16:37Z</pubDate>
             <guid isPermaLink="false">https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97</guid>
             <link>https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97</link>
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Why is Jepsen written in Clojure?]]></title>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=38540761 target=_blank>121 comments</a>]]></description>
+            <pubDate>2023-12-06T05:32:43Z</pubDate>
+            <guid isPermaLink="false">https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure</guid>
+            <link>https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure</link>
+            
+            
+            
+            <author><![CDATA[manicennui]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Common Voice]]></title>
             <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=38532761 target=_blank>74 comments</a>]]></description>
             <pubDate>2023-12-05T16:13:10Z</pubDate>
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[oblib]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Why is Jepsen written in Clojure?]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=38540761 target=_blank>121 comments</a>]]></description>
-            <pubDate>2023-12-06T05:32:43Z</pubDate>
-            <guid isPermaLink="false">https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure</guid>
-            <link>https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure</link>
-            
-            
-            
-            <author><![CDATA[manicennui]]></author>
             
                 
             
