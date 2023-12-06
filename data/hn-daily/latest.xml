@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[JSONB has landed]]></title>
-            <description><![CDATA[522 points | <a href=https://news.ycombinator.com/item?id=38540421 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[528 points | <a href=https://news.ycombinator.com/item?id=38540421 target=_blank>139 comments</a>]]></description>
             <pubDate>2023-12-06T04:16:37Z</pubDate>
             <guid isPermaLink="false">https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97</guid>
             <link>https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Gemini: Google's most capable AI model yet]]></title>
-            <description><![CDATA[485 points | <a href=https://news.ycombinator.com/item?id=38544746 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[524 points | <a href=https://news.ycombinator.com/item?id=38544746 target=_blank>279 comments</a>]]></description>
             <pubDate>2023-12-06T15:05:18Z</pubDate>
             <guid isPermaLink="false">https://blog.google/technology/ai/google-gemini-ai/</guid>
             <link>https://blog.google/technology/ai/google-gemini-ai/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple Confirms Governments Using Push Notifications to Surveil Users]]></title>
-            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=38543587 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=38543587 target=_blank>155 comments</a>]]></description>
             <pubDate>2023-12-06T13:29:33Z</pubDate>
             <guid isPermaLink="false">https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/</guid>
             <link>https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Why is Jepsen written in Clojure?]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=38540761 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=38540761 target=_blank>173 comments</a>]]></description>
             <pubDate>2023-12-06T05:32:43Z</pubDate>
             <guid isPermaLink="false">https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure</guid>
             <link>https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Governments spying on Apple, Google users through push notifications -US senator]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=38543155 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=38543155 target=_blank>165 comments</a>]]></description>
             <pubDate>2023-12-06T12:49:52Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/</guid>
             <link>https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[An Open Letter to the Python Software Foundation]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=38542330 target=_blank>292 comments</a>]]></description>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=38542330 target=_blank>296 comments</a>]]></description>
             <pubDate>2023-12-06T10:45:55Z</pubDate>
             <guid isPermaLink="false">https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html</guid>
             <link>https://pythonafrica.blogspot.com/2023/12/an-open-letter-to-python-software_5.html</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[All my favorite tracing tools]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=38538111 target=_blank>23 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=38538111 target=_blank>23 comments</a>]]></description>
             <pubDate>2023-12-05T22:56:29Z</pubDate>
             <guid isPermaLink="false">https://thume.ca/2023/12/02/tracing-methods/</guid>
             <link>https://thume.ca/2023/12/02/tracing-methods/</link>
@@ -162,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Gemini – Google DeepMind]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=38544729 target=_blank>76 comments</a>]]></description>
+            <pubDate>2023-12-06T15:03:47Z</pubDate>
+            <guid isPermaLink="false">https://deepmind.google/technologies/gemini/</guid>
+            <link>https://deepmind.google/technologies/gemini/</link>
+            
+            
+            
+            <author><![CDATA[dmotz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Does uBlock Origin bypass the latest YouTube anti-adblock script?]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=38538236 target=_blank>379 comments</a>]]></description>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=38538236 target=_blank>381 comments</a>]]></description>
             <pubDate>2023-12-05T23:11:04Z</pubDate>
             <guid isPermaLink="false">https://drhyperion451.github.io/does-uBO-bypass-yt/</guid>
             <link>https://drhyperion451.github.io/does-uBO-bypass-yt/</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Virtual Machine as a core Android Primitive]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=38538100 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=38538100 target=_blank>136 comments</a>]]></description>
             <pubDate>2023-12-05T22:55:51Z</pubDate>
             <guid isPermaLink="false">https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html</guid>
             <link>https://android-developers.googleblog.com/2023/12/virtual-machines-as-core-android-primitive.html</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[r00tbeer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Gemini – Google DeepMind]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=38544729 target=_blank>69 comments</a>]]></description>
-            <pubDate>2023-12-06T15:03:47Z</pubDate>
-            <guid isPermaLink="false">https://deepmind.google/technologies/gemini/</guid>
-            <link>https://deepmind.google/technologies/gemini/</link>
-            
-            
-            
-            <author><![CDATA[dmotz]]></author>
             
                 
             
