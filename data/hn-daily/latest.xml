@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Gooey: Turn almost any Python command line program into a full GUI application]]></title>
-            <description><![CDATA[679 points | <a href=https://news.ycombinator.com/item?id=38586767 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[681 points | <a href=https://news.ycombinator.com/item?id=38586767 target=_blank>105 comments</a>]]></description>
             <pubDate>2023-12-09T22:30:02Z</pubDate>
             <guid isPermaLink="false">https://github.com/chriskiehl/Gooey</guid>
             <link>https://github.com/chriskiehl/Gooey</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[A Matter of Millimeters: The story of Qantas flight 32]]></title>
-            <description><![CDATA[565 points | <a href=https://news.ycombinator.com/item?id=38586773 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[566 points | <a href=https://news.ycombinator.com/item?id=38586773 target=_blank>248 comments</a>]]></description>
             <pubDate>2023-12-09T22:30:35Z</pubDate>
             <guid isPermaLink="false">https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7</guid>
             <link>https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Bad NEWS, Emacs]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=38591584 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=38591584 target=_blank>172 comments</a>]]></description>
             <pubDate>2023-12-10T14:07:13Z</pubDate>
             <guid isPermaLink="false">https://eshelyaron.com/posts/2023-12-10-bad-news.html</guid>
             <link>https://eshelyaron.com/posts/2023-12-10-bad-news.html</link>
@@ -98,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Mistral AI Valued at $2B]]></title>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=38593616 target=_blank>147 comments</a>]]></description>
+            <pubDate>2023-12-10T18:25:56Z</pubDate>
+            <guid isPermaLink="false">https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/</guid>
+            <link>https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/</link>
+            
+            
+            
+            <author><![CDATA[marban]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Air Traffic Controllers Pushed to the Brink]]></title>
             <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=38587340 target=_blank>293 comments</a>]]></description>
             <pubDate>2023-12-09T23:35:13Z</pubDate>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Show HN: Open source alternative to ChatGPT and ChatPDF-like AI tools]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=38587052 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=38587052 target=_blank>56 comments</a>]]></description>
             <pubDate>2023-12-09T23:02:07Z</pubDate>
             <guid isPermaLink="false">https://github.com/SecureAI-Tools/SecureAI-Tools</guid>
             <link>https://github.com/SecureAI-Tools/SecureAI-Tools</link>
@@ -123,22 +139,6 @@
             
             
             <author><![CDATA[d7y]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mistral AI Valued at $2B]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=38593616 target=_blank>141 comments</a>]]></description>
-            <pubDate>2023-12-10T18:25:56Z</pubDate>
-            <guid isPermaLink="false">https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/</guid>
-            <link>https://www.unite.ai/paris-based-startup-and-openai-competitor-mistral-ai-valued-at-2-billion/</link>
-            
-            
-            
-            <author><![CDATA[marban]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=38590984 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=38590984 target=_blank>52 comments</a>]]></description>
             <pubDate>2023-12-10T12:03:18Z</pubDate>
             <guid isPermaLink="false">https://github.com/ast-grep/ast-grep</guid>
             <link>https://github.com/ast-grep/ast-grep</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Stealthy Linux rootkit found in the wild after going undetected for 2 years]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=38590827 target=_blank>57 comments</a>]]></description>
-            <pubDate>2023-12-10T11:26:44Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/</guid>
-            <link>https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/</link>
-            
-            
-            
-            <author><![CDATA[webmaven]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ask HN: Best UI design courses for hackers?]]></title>
-            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=38591437 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=38591437 target=_blank>63 comments</a>]]></description>
             <pubDate>2023-12-10T13:37:43Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=38591437</guid>
             <link>https://news.ycombinator.com/item?id=38591437</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[atomicnature]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Stealthy Linux rootkit found in the wild after going undetected for 2 years]]></title>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=38590827 target=_blank>57 comments</a>]]></description>
+            <pubDate>2023-12-10T11:26:44Z</pubDate>
+            <guid isPermaLink="false">https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/</guid>
+            <link>https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/</link>
+            
+            
+            
+            <author><![CDATA[webmaven]]></author>
             
                 
             
