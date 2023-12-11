@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #644]]></title>
+        <title><![CDATA[Perl Weekly #646]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[This Week in PSC (124)]]></title>
-            <description><![CDATA[Please checkout the weekly update by Perl Steering Council.]]></description>
-            <pubDate>2023.11.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/11/this-week-in-psc-124.html</guid>
-            <link>https://blogs.perl.org/users/psc/2023/11/this-week-in-psc-124.html</link>
+            <title><![CDATA[This week in PSC (126) | 2023-11-30]]></title>
+            <description><![CDATA[Three Perl releases have been published this past week, containing patches for security issues CVE-2023-47038 and CVE-2023-47039.]]></description>
+            <pubDate>2023.12.04</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-126-2023-11-30.html</guid>
+            <link>https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-126-2023-11-30.html</link>
             
             
             
@@ -34,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (125)]]></title>
-            <description><![CDATA[Bonus updates, two in a week, thank you Perl Steering Council.]]></description>
-            <pubDate>2023.11.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/11/this-week-in-psc-125-2023-11-23.html</guid>
-            <link>https://blogs.perl.org/users/psc/2023/11/this-week-in-psc-125-2023-11-23.html</link>
+            <title><![CDATA[Bruce Gray Candidacy for Board Membership]]></title>
+            <description><![CDATA[Presenting Bruce Gray as a candidate to join the Board with voting on 15th Dec 2023.]]></description>
+            <pubDate>2023.12.05</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/bruceboardapp</guid>
+            <link>https://news.perlfoundation.org/post/bruceboardapp</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[German Perl/Raku Workshop 2024]]></title>
-            <description><![CDATA[Official announcement to submit papers for GPRW 2024.]]></description>
-            <pubDate>2023.11.22</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2023/11/german-perlraku-workshop-2024.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2023/11/german-perlraku-workshop-2024.html</link>
-            
-            
-            
-            <author><![CDATA[max_maischein]]></author>
+            <author><![CDATA[amber_krawczyk]]></author>
             
                 
             
@@ -66,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Turn off tainting in brewed Perl]]></title>
-            <description><![CDATA[Have you played with tainting on/off? Nice discussion how Perl behaves in each scenario.]]></description>
-            <pubDate>2023.11.21</pubDate>
-            <guid isPermaLink="false">https://www.hodgkinson.org/2023/11/21/turn-of-tainting-in-brewed-perl/</guid>
-            <link>https://www.hodgkinson.org/2023/11/21/turn-of-tainting-in-brewed-perl/</link>
+            <title><![CDATA[Ruth Holloway Candidacy for Board Membership]]></title>
+            <description><![CDATA[Presenting Ruth Holloway as a candidate to join the Board with voting on 15th Dec 2023.]]></description>
+            <pubDate>2023.12.05</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/ruthboardqapp</guid>
+            <link>https://news.perlfoundation.org/post/ruthboardqapp</link>
             
             
             
-            <author><![CDATA[david_hodgkinson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[An Option for Syntax Highlighting on blogs.perl.org]]></title>
-            <description><![CDATA[Fun work if you are frequent blogger on bpo.]]></description>
-            <pubDate>2023.11.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2023/11/an-option-for-syntax-highlighting-on-blogsperlorg.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2023/11/an-option-for-syntax-highlighting-on-blogsperlorg.html</link>
-            
-            
-            
-            <author><![CDATA[oodler]]></author>
+            <author><![CDATA[amber_krawczyk]]></author>
             
                 
             
@@ -98,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Curated list of Perl modules]]></title>
-            <description><![CDATA[One of the many great CPAN Testers, Ron, shared the curated list of Perl modules.]]></description>
-            <pubDate>2023.11.27</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2023/11/curated-list-of-perl-modules.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2023/11/curated-list-of-perl-modules.html</link>
+            <title><![CDATA[Building a Micro-SaaS in 30 Days]]></title>
+            <description><![CDATA[Real life example of building Micro-SaaS project. Highly recommended.]]></description>
+            <pubDate>2023.12.05</pubDate>
+            <guid isPermaLink="false">https://lesterhightower.com/blog/posts/microsaas-in-30-days/</guid>
+            <link>https://lesterhightower.com/blog/posts/microsaas-in-30-days/</link>
             
             
             
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[lester_hightower]]></author>
             
                 
             
@@ -114,11 +82,43 @@
         </item>
         
         <item>
-            <title><![CDATA[2023.47 FOSDEM devving]]></title>
-            <description><![CDATA[2023.47 FOSDEM devving]]></description>
-            <pubDate>2023.11.21</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/11/21/2023-47-fosdem-devving/</guid>
-            <link>https://rakudoweekly.blog/2023/11/21/2023-47-fosdem-devving/</link>
+            <title><![CDATA[Is Perl a write only language?]]></title>
+            <description><![CDATA[Use of Perl in the field of Bio-Informatics. Encouraging story to share.]]></description>
+            <pubDate>2023.12.06</pubDate>
+            <guid isPermaLink="false">https://chrisarg.github.io/Killing-It-with-PERL/2023/12/06/Is-Perl-a-write-only-language.html</guid>
+            <link>https://chrisarg.github.io/Killing-It-with-PERL/2023/12/06/Is-Perl-a-write-only-language.html</link>
+            
+            
+            
+            <author><![CDATA[chrisarg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[System Thinking]]></title>
+            <description><![CDATA[Although not Perl sepcific but the topic is worth sharing. Please do checkout.]]></description>
+            <pubDate>2023.12.08</pubDate>
+            <guid isPermaLink="false">https://dev.to/lichtkind/system-thinking-2fmp</guid>
+            <link>https://dev.to/lichtkind/system-thinking-2fmp</link>
+            
+            
+            
+            <author><![CDATA[herbert_breunung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.49 Venting This AD]]></title>
+            <description><![CDATA[2023.49 Venting This AD]]></description>
+            <pubDate>2023.12.04</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/12/04/2023-49-venting-this-ad/</guid>
+            <link>https://rakudoweekly.blog/2023/12/04/2023-49-venting-this-ad/</link>
             
             
             
@@ -131,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/11/cdlxxi-17-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/11/dxcix-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.11.25</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/12/cdlxxiii-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/12/dlxxiv-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2023.12.09</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -146,43 +146,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Starting the Site Checker project]]></title>
-            <description><![CDATA[The <a href="https://site-checker.code-maven.com/">site checker</a> is a new project of mine. If you have a web site, let me know what would you need to make this useful for you!]]></description>
-            <pubDate>2023.11.27</pubDate>
-            <guid isPermaLink="false">https://site-checker.code-maven.com/starting-the-project</guid>
-            <link>https://site-checker.code-maven.com/starting-the-project</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[First version of the Code Maven Static Site Generator]]></title>
-            <description><![CDATA[I've started to rewrite the code behind the Perl Maven and Code Maven sites to be a static site generator.]]></description>
-            <pubDate>2023.11.20</pubDate>
-            <guid isPermaLink="false">https://ssg.code-maven.com/first-version</guid>
-            <link>https://ssg.code-maven.com/first-version</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Rust Maven]]></title>
-            <description><![CDATA[The Rust Maven web site contains all the new Rust-related articles and Rust-related slides. If you are interested in Rust sign up to my <a href="https://rust.code-maven.com/subscribe">newsletter</a>!]]></description>
-            <pubDate>2023.11.26</pubDate>
-            <guid isPermaLink="false">https://rust.code-maven.com/</guid>
-            <link>https://rust.code-maven.com/</link>
+            <title><![CDATA[Programming language popularity on Reddit]]></title>
+            <description><![CDATA[I was interested how different programming languages are doing on social networks and social platforms. This time I looked at the popularity of the Subreddits.]]></description>
+            <pubDate>2023.12.08</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/reddit-programming-language-popularity</guid>
+            <link>https://szabgab.com/reddit-programming-language-popularity</link>
             
             
             
