@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Database Fundamentals]]></title>
-            <description><![CDATA[529 points | <a href=https://news.ycombinator.com/item?id=38655066 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[531 points | <a href=https://news.ycombinator.com/item?id=38655066 target=_blank>105 comments</a>]]></description>
             <pubDate>2023-12-15T15:28:30Z</pubDate>
             <guid isPermaLink="false">https://tontinton.com/posts/database-fundementals/</guid>
             <link>https://tontinton.com/posts/database-fundementals/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[How Lego builds a new Lego set]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=38653456 target=_blank>199 comments</a>]]></description>
+            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=38653456 target=_blank>203 comments</a>]]></description>
             <pubDate>2023-12-15T12:25:26Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price</guid>
             <link>https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Oxlint – Faster than ESLint]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=38652887 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=38652887 target=_blank>186 comments</a>]]></description>
             <pubDate>2023-12-15T10:48:24Z</pubDate>
             <guid isPermaLink="false">https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html</guid>
             <link>https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[WebP is so great except it's not (2021)]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=38653110 target=_blank>345 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=38653110 target=_blank>346 comments</a>]]></description>
             <pubDate>2023-12-15T11:32:44Z</pubDate>
             <guid isPermaLink="false">https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/</guid>
             <link>https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[enz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Suspects can refuse to provide phone passcodes to police, court rules]]></title>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=38657577 target=_blank>172 comments</a>]]></description>
+            <pubDate>2023-12-15T19:16:23Z</pubDate>
+            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/</guid>
+            <link>https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Delta Dental says data breach exposed info of 7M people]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=38654805 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=38654805 target=_blank>141 comments</a>]]></description>
             <pubDate>2023-12-15T14:59:37Z</pubDate>
             <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/</guid>
             <link>https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/</link>
@@ -146,40 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Suspects can refuse to provide phone passcodes to police, court rules]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=38657577 target=_blank>167 comments</a>]]></description>
-            <pubDate>2023-12-15T19:16:23Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/</guid>
-            <link>https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=38650570 target=_blank>53 comments</a>]]></description>
-            <pubDate>2023-12-15T02:44:23Z</pubDate>
-            <guid isPermaLink="false">https://github.com/ncruces/go-sqlite-bench</guid>
-            <link>https://github.com/ncruces/go-sqlite-bench</link>
-            
-            
-            
-            <author><![CDATA[ncruces]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I bricked my Christmas lights]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=38657126 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=38657126 target=_blank>33 comments</a>]]></description>
             <pubDate>2023-12-15T18:41:10Z</pubDate>
             <guid isPermaLink="false">https://www.whizzy.org/2023-12-14-bricked-xmas/</guid>
             <link>https://www.whizzy.org/2023-12-14-bricked-xmas/</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it]]></title>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=38650570 target=_blank>54 comments</a>]]></description>
+            <pubDate>2023-12-15T02:44:23Z</pubDate>
+            <guid isPermaLink="false">https://github.com/ncruces/go-sqlite-bench</guid>
+            <link>https://github.com/ncruces/go-sqlite-bench</link>
+            
+            
+            
+            <author><![CDATA[ncruces]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Fastmail Employees Form a Union]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=38656727 target=_blank>227 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=38656727 target=_blank>229 comments</a>]]></description>
             <pubDate>2023-12-15T18:01:05Z</pubDate>
             <guid isPermaLink="false">https://union.place/@fastmailunited/111563614375789166</guid>
             <link>https://union.place/@fastmailunited/111563614375789166</link>
