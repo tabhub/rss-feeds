@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #646]]></title>
+        <title><![CDATA[Perl Weekly #647]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,111 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[This week in PSC (126) | 2023-11-30]]></title>
-            <description><![CDATA[Three Perl releases have been published this past week, containing patches for security issues CVE-2023-47038 and CVE-2023-47039.]]></description>
-            <pubDate>2023.12.04</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-126-2023-11-30.html</guid>
-            <link>https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-126-2023-11-30.html</link>
+            <title><![CDATA[Dancer2 1.1.0 Released]]></title>
+            <description><![CDATA[Dancer2 1.1.0 Released]]></description>
+            <pubDate>2023.12.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2023/12/dancer2-110-released.html</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/2023/12/dancer2-110-released.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Bruce Gray Candidacy for Board Membership]]></title>
-            <description><![CDATA[Presenting Bruce Gray as a candidate to join the Board with voting on 15th Dec 2023.]]></description>
-            <pubDate>2023.12.05</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/bruceboardapp</guid>
-            <link>https://news.perlfoundation.org/post/bruceboardapp</link>
-            
-            
-            
-            <author><![CDATA[amber_krawczyk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ruth Holloway Candidacy for Board Membership]]></title>
-            <description><![CDATA[Presenting Ruth Holloway as a candidate to join the Board with voting on 15th Dec 2023.]]></description>
-            <pubDate>2023.12.05</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/ruthboardqapp</guid>
-            <link>https://news.perlfoundation.org/post/ruthboardqapp</link>
-            
-            
-            
-            <author><![CDATA[amber_krawczyk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Building a Micro-SaaS in 30 Days]]></title>
-            <description><![CDATA[Real life example of building Micro-SaaS project. Highly recommended.]]></description>
-            <pubDate>2023.12.05</pubDate>
-            <guid isPermaLink="false">https://lesterhightower.com/blog/posts/microsaas-in-30-days/</guid>
-            <link>https://lesterhightower.com/blog/posts/microsaas-in-30-days/</link>
-            
-            
-            
-            <author><![CDATA[lester_hightower]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Is Perl a write only language?]]></title>
-            <description><![CDATA[Use of Perl in the field of Bio-Informatics. Encouraging story to share.]]></description>
-            <pubDate>2023.12.06</pubDate>
-            <guid isPermaLink="false">https://chrisarg.github.io/Killing-It-with-PERL/2023/12/06/Is-Perl-a-write-only-language.html</guid>
-            <link>https://chrisarg.github.io/Killing-It-with-PERL/2023/12/06/Is-Perl-a-write-only-language.html</link>
-            
-            
-            
-            <author><![CDATA[chrisarg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[System Thinking]]></title>
-            <description><![CDATA[Although not Perl sepcific but the topic is worth sharing. Please do checkout.]]></description>
-            <pubDate>2023.12.08</pubDate>
-            <guid isPermaLink="false">https://dev.to/lichtkind/system-thinking-2fmp</guid>
-            <link>https://dev.to/lichtkind/system-thinking-2fmp</link>
-            
-            
-            
-            <author><![CDATA[herbert_breunung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2023.49 Venting This AD]]></title>
-            <description><![CDATA[2023.49 Venting This AD]]></description>
-            <pubDate>2023.12.04</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2023/12/04/2023-49-venting-this-ad/</guid>
-            <link>https://rakudoweekly.blog/2023/12/04/2023-49-venting-this-ad/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[jason_crome]]></author>
             
                 
             
@@ -131,8 +35,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/12/cdlxxiii-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/12/dlxxiv-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2023.12.09</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/12/cdlxxiv-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/12/dlxxv-metacpan-weekly-report-imager.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/12/dci-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2023.12.17</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -146,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Programming language popularity on Reddit]]></title>
-            <description><![CDATA[I was interested how different programming languages are doing on social networks and social platforms. This time I looked at the popularity of the Subreddits.]]></description>
-            <pubDate>2023.12.08</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/reddit-programming-language-popularity</guid>
-            <link>https://szabgab.com/reddit-programming-language-popularity</link>
+            <title><![CDATA[The Turbofish ::<> in Rust]]></title>
+            <description><![CDATA[Rust has an interesting feature of context sensitivity and it has an 'operator' called Trubofish. Don't forget to subscribe to the <a href="https://rust.code-maven.com/subscribe">Rust Maven newsletter</a>!]]></description>
+            <pubDate>2023.12.13</pubDate>
+            <guid isPermaLink="false">https://rust.code-maven.com/turbofish</guid>
+            <link>https://rust.code-maven.com/turbofish</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Diverging Functions - functions that never return in Rust]]></title>
+            <description><![CDATA[Diverging Functions - functions that never return in Rust]]></description>
+            <pubDate>2023.12.06</pubDate>
+            <guid isPermaLink="false">https://rust.code-maven.com/diverging-functions</guid>
+            <link>https://rust.code-maven.com/diverging-functions</link>
             
             
             
