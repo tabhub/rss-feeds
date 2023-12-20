@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Tell HN: Microsoft.com added 192.168.1.1 to their DNS record]]></title>
-            <description><![CDATA[456 points | <a href=https://news.ycombinator.com/item?id=38702783 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[456 points | <a href=https://news.ycombinator.com/item?id=38702783 target=_blank>126 comments</a>]]></description>
             <pubDate>2023-12-19T22:30:52Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=38702783</guid>
             <link>https://news.ycombinator.com/item?id=38702783</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Advice for new software devs who've read all those other advice essays]]></title>
-            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=38706697 target=_blank>240 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=38706697 target=_blank>243 comments</a>]]></description>
             <pubDate>2023-12-20T09:01:29Z</pubDate>
             <guid isPermaLink="false">https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/</guid>
             <link>https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=38708730 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=38708730 target=_blank>57 comments</a>]]></description>
             <pubDate>2023-12-20T13:58:51Z</pubDate>
             <guid isPermaLink="false">https://github.com/johnma2006/mamba-minimal</guid>
             <link>https://github.com/johnma2006/mamba-minimal</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Tesla blamed drivers for failures of parts it long knew were defective]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=38707589 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=38707589 target=_blank>196 comments</a>]]></description>
             <pubDate>2023-12-20T11:46:33Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/</guid>
             <link>https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=38708585 target=_blank>31 comments</a>]]></description>
-            <pubDate>2023-12-20T13:46:08Z</pubDate>
-            <guid isPermaLink="false">https://github.com/SJTU-IPADS/PowerInfer</guid>
-            <link>https://github.com/SJTU-IPADS/PowerInfer</link>
-            
-            
-            
-            <author><![CDATA[dataminer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Volkswagen, Porsche, and Audi say they will use Tesla's EV charging plug]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=38709319 target=_blank>244 comments</a>]]></description>
+            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=38709319 target=_blank>262 comments</a>]]></description>
             <pubDate>2023-12-20T14:56:26Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug</guid>
             <link>https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs]]></title>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=38708585 target=_blank>31 comments</a>]]></description>
+            <pubDate>2023-12-20T13:46:08Z</pubDate>
+            <guid isPermaLink="false">https://github.com/SJTU-IPADS/PowerInfer</guid>
+            <link>https://github.com/SJTU-IPADS/PowerInfer</link>
+            
+            
+            
+            <author><![CDATA[dataminer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[CUDA vs. ROCm: A case study]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=38700060 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=38700060 target=_blank>70 comments</a>]]></description>
             <pubDate>2023-12-19T19:09:23Z</pubDate>
             <guid isPermaLink="false">https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/</guid>
             <link>https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/</link>
