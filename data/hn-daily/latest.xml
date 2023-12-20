@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[James Webb Space Telescope captures high-resolution image of Uranus]]></title>
-            <description><![CDATA[584 points | <a href=https://news.ycombinator.com/item?id=38695337 target=_blank>257 comments</a>]]></description>
+            <description><![CDATA[588 points | <a href=https://news.ycombinator.com/item?id=38695337 target=_blank>261 comments</a>]]></description>
             <pubDate>2023-12-19T13:37:28Z</pubDate>
             <guid isPermaLink="false">https://webbtelescope.org/contents/news-releases/2023/news-2023-150</guid>
             <link>https://webbtelescope.org/contents/news-releases/2023/news-2023-150</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Unbricking my MacBook took an email to Tim Cook]]></title>
-            <description><![CDATA[466 points | <a href=https://news.ycombinator.com/item?id=38691025 target=_blank>363 comments</a>]]></description>
+            <description><![CDATA[466 points | <a href=https://news.ycombinator.com/item?id=38691025 target=_blank>364 comments</a>]]></description>
             <pubDate>2023-12-19T02:19:21Z</pubDate>
             <guid isPermaLink="false">https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook</guid>
             <link>https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook</link>
@@ -43,6 +43,22 @@
             
             
             <author><![CDATA[pwim]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Simulating fluids, fire, and smoke in real-time]]></title>
+            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=38698907 target=_blank>83 comments</a>]]></description>
+            <pubDate>2023-12-19T17:51:38Z</pubDate>
+            <guid isPermaLink="false">https://andrewkchan.dev/posts/fire.html</guid>
+            <link>https://andrewkchan.dev/posts/fire.html</link>
+            
+            
+            
+            <author><![CDATA[ibobev]]></author>
             
                 
             
@@ -66,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Simulating fluids, fire, and smoke in real-time]]></title>
-            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=38698907 target=_blank>81 comments</a>]]></description>
-            <pubDate>2023-12-19T17:51:38Z</pubDate>
-            <guid isPermaLink="false">https://andrewkchan.dev/posts/fire.html</guid>
-            <link>https://andrewkchan.dev/posts/fire.html</link>
-            
-            
-            
-            <author><![CDATA[ibobev]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[My cat water fountain comes with a spicy USB power adapter]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=38694549 target=_blank>271 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=38694549 target=_blank>273 comments</a>]]></description>
             <pubDate>2023-12-19T12:03:36Z</pubDate>
             <guid isPermaLink="false">https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/</guid>
             <link>https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Why do programmers need private offices with doors?]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=38691468 target=_blank>534 comments</a>]]></description>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=38691468 target=_blank>537 comments</a>]]></description>
             <pubDate>2023-12-19T03:30:02Z</pubDate>
             <guid isPermaLink="false">https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/</guid>
             <link>https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Gokrazy – Go Appliances]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=38692167 target=_blank>95 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=38692167 target=_blank>97 comments</a>]]></description>
             <pubDate>2023-12-19T05:23:20Z</pubDate>
             <guid isPermaLink="false">https://gokrazy.org/</guid>
             <link>https://gokrazy.org/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Jepsen: MySQL 8.0.34]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=38695750 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=38695750 target=_blank>90 comments</a>]]></description>
             <pubDate>2023-12-19T14:17:25Z</pubDate>
             <guid isPermaLink="false">https://jepsen.io/analyses/mysql-8.0.34</guid>
             <link>https://jepsen.io/analyses/mysql-8.0.34</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Tell HN: Microsoft.com added 192.168.1.1 to their DNS record]]></title>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=38702783 target=_blank>81 comments</a>]]></description>
+            <pubDate>2023-12-19T22:30:52Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=38702783</guid>
+            <link>https://news.ycombinator.com/item?id=38702783</link>
+            
+            
+            
+            <author><![CDATA[indosauros]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The Illustrated GPT-2: Visualizing Transformer Language Models (2019)]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=38691583 target=_blank>5 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=38691583 target=_blank>5 comments</a>]]></description>
             <pubDate>2023-12-19T03:48:23Z</pubDate>
             <guid isPermaLink="false">https://jalammar.github.io/illustrated-gpt2/</guid>
             <link>https://jalammar.github.io/illustrated-gpt2/</link>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Firefox 121 defaults to Wayland on Linux]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=38695533 target=_blank>232 comments</a>]]></description>
-            <pubDate>2023-12-19T13:56:19Z</pubDate>
-            <guid isPermaLink="false">https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux</guid>
-            <link>https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux</link>
-            
-            
-            
-            <author><![CDATA[politelemon]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Comcast says hackers stole data of close to 36M Xfinity customers]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=38698343 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=38698343 target=_blank>116 comments</a>]]></description>
             <pubDate>2023-12-19T17:14:37Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/</guid>
             <link>https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Fedora Asahi Remix]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=38696612 target=_blank>39 comments</a>]]></description>
-            <pubDate>2023-12-19T15:17:40Z</pubDate>
-            <guid isPermaLink="false">https://asahilinux.org/fedora/</guid>
-            <link>https://asahilinux.org/fedora/</link>
+            <title><![CDATA[Firefox 121 defaults to Wayland on Linux]]></title>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=38695533 target=_blank>232 comments</a>]]></description>
+            <pubDate>2023-12-19T13:56:19Z</pubDate>
+            <guid isPermaLink="false">https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux</guid>
+            <link>https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux</link>
             
             
             
-            <author><![CDATA[Vinnl]]></author>
+            <author><![CDATA[politelemon]]></author>
             
                 
             
