@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Advice for new software devs who've read all those other advice essays]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=38706697 target=_blank>234 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=38706697 target=_blank>238 comments</a>]]></description>
             <pubDate>2023-12-20T09:01:29Z</pubDate>
             <guid isPermaLink="false">https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/</guid>
             <link>https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The Linux graphics stack in a nutshell]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=38702271 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=38702271 target=_blank>80 comments</a>]]></description>
             <pubDate>2023-12-19T21:59:18Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/</guid>
             <link>https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/</link>
@@ -82,6 +82,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch]]></title>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=38708730 target=_blank>49 comments</a>]]></description>
+            <pubDate>2023-12-20T13:58:51Z</pubDate>
+            <guid isPermaLink="false">https://github.com/johnma2006/mamba-minimal</guid>
+            <link>https://github.com/johnma2006/mamba-minimal</link>
+            
+            
+            
+            <author><![CDATA[johnma2006]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LLM in a Flash: Efficient LLM Inference with Limited Memory]]></title>
             <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=38704982 target=_blank>45 comments</a>]]></description>
             <pubDate>2023-12-20T03:02:43Z</pubDate>
@@ -99,7 +115,7 @@
         
         <item>
             <title><![CDATA[Vulkan video extensions for accelerated H.264 and H.265 encode]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=38701780 target=_blank>95 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=38701780 target=_blank>96 comments</a>]]></description>
             <pubDate>2023-12-19T21:21:36Z</pubDate>
             <guid isPermaLink="false">https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode</guid>
             <link>https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode</link>
@@ -130,22 +146,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=38708730 target=_blank>48 comments</a>]]></description>
-            <pubDate>2023-12-20T13:58:51Z</pubDate>
-            <guid isPermaLink="false">https://github.com/johnma2006/mamba-minimal</guid>
-            <link>https://github.com/johnma2006/mamba-minimal</link>
-            
-            
-            
-            <author><![CDATA[johnma2006]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Tesla blamed drivers for failures of parts it long knew were defective]]></title>
             <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=38707589 target=_blank>196 comments</a>]]></description>
             <pubDate>2023-12-20T11:46:33Z</pubDate>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Bit banging a 3.5" floppy drive]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=38699201 target=_blank>82 comments</a>]]></description>
-            <pubDate>2023-12-19T18:09:27Z</pubDate>
-            <guid isPermaLink="false">https://floppy.cafe/</guid>
-            <link>https://floppy.cafe/</link>
-            
-            
-            
-            <author><![CDATA[brk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Build a search engine, not a vector DB]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=38703943 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=38703943 target=_blank>70 comments</a>]]></description>
             <pubDate>2023-12-20T00:27:10Z</pubDate>
             <guid isPermaLink="false">https://blog.elicit.com/search-vs-vector-db/</guid>
             <link>https://blog.elicit.com/search-vs-vector-db/</link>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[stuhlmueller]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs]]></title>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=38708585 target=_blank>31 comments</a>]]></description>
+            <pubDate>2023-12-20T13:46:08Z</pubDate>
+            <guid isPermaLink="false">https://github.com/SJTU-IPADS/PowerInfer</guid>
+            <link>https://github.com/SJTU-IPADS/PowerInfer</link>
+            
+            
+            
+            <author><![CDATA[dataminer]]></author>
             
                 
             
