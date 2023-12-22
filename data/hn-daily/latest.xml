@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[ArXiv now offers papers in HTML format]]></title>
-            <description><![CDATA[1012 points | <a href=https://news.ycombinator.com/item?id=38724665 target=_blank>271 comments</a>]]></description>
+            <description><![CDATA[1015 points | <a href=https://news.ycombinator.com/item?id=38724665 target=_blank>272 comments</a>]]></description>
             <pubDate>2023-12-21T18:34:53Z</pubDate>
             <guid isPermaLink="false">https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/</guid>
             <link>https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Beeper – Moving Forward]]></title>
-            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=38722246 target=_blank>736 comments</a>]]></description>
+            <description><![CDATA[463 points | <a href=https://news.ycombinator.com/item?id=38722246 target=_blank>736 comments</a>]]></description>
             <pubDate>2023-12-21T16:05:18Z</pubDate>
             <guid isPermaLink="false">https://blog.beeper.com/p/beeper-moving-forward</guid>
             <link>https://blog.beeper.com/p/beeper-moving-forward</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[The right to use adblockers]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=38726389 target=_blank>258 comments</a>]]></description>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=38726389 target=_blank>259 comments</a>]]></description>
             <pubDate>2023-12-21T20:26:39Z</pubDate>
             <guid isPermaLink="false">https://fsfe.org/news/2023/news-20231220-01.sl.html</guid>
             <link>https://fsfe.org/news/2023/news-20231220-01.sl.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Mindustry: Open-source automation tower defense game]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=38732542 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=38732542 target=_blank>52 comments</a>]]></description>
             <pubDate>2023-12-22T09:32:07Z</pubDate>
             <guid isPermaLink="false">https://mindustrygame.github.io/</guid>
             <link>https://mindustrygame.github.io/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Find out who owns a nursing home with our Nursing Home Inspect tool]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=38725264 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=38725264 target=_blank>68 comments</a>]]></description>
             <pubDate>2023-12-21T19:13:36Z</pubDate>
             <guid isPermaLink="false">https://www.propublica.org/article/find-nursing-home-ownership-information</guid>
             <link>https://www.propublica.org/article/find-nursing-home-ownership-information</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[A clickjacking vulnerability in WhatsApp that enables phishing attacks]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=38732770 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=38732770 target=_blank>49 comments</a>]]></description>
             <pubDate>2023-12-22T10:12:08Z</pubDate>
             <guid isPermaLink="false">https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/</guid>
             <link>https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[How to turn off Google's "privacy sandbox" ad tracking, and why you should]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=38728278 target=_blank>183 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=38728278 target=_blank>183 comments</a>]]></description>
             <pubDate>2023-12-21T22:57:15Z</pubDate>
             <guid isPermaLink="false">https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should</guid>
             <link>https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Rust to stabilize `async fn` and return-position `impl Trait` in traits]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=38721039 target=_blank>38 comments</a>]]></description>
-            <pubDate>2023-12-21T14:47:34Z</pubDate>
-            <guid isPermaLink="false">https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html</guid>
-            <link>https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html</link>
-            
-            
-            
-            <author><![CDATA[saghm]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Apple wants AI to run directly on its hardware instead of in the cloud]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=38725167 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=38725167 target=_blank>192 comments</a>]]></description>
             <pubDate>2023-12-21T19:06:38Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/</guid>
             <link>https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[rntn]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Polish DRMed trains stop as predicted due to date-based logic-bomb]]></title>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=38729035 target=_blank>87 comments</a>]]></description>
+            <pubDate>2023-12-22T00:10:59Z</pubDate>
+            <guid isPermaLink="false">https://social.hackerspace.pl/@q3k/111618420373868285</guid>
+            <link>https://social.hackerspace.pl/@q3k/111618420373868285</link>
+            
+            
+            
+            <author><![CDATA[p_l]]></author>
             
                 
             
