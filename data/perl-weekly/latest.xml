@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #647]]></title>
+        <title><![CDATA[Perl Weekly #648]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,143 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Dancer2 1.1.0 Released]]></title>
-            <description><![CDATA[Dancer2 1.1.0 Released]]></description>
-            <pubDate>2023.12.12</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2023/12/dancer2-110-released.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2023/12/dancer2-110-released.html</link>
+            <title><![CDATA[Geizhals Preisvergleich unterstützt den Deutschen Perl/Raku-Workshop]]></title>
+            <description><![CDATA[We are happy to announce that Geizhals Preisvergleich supports the German Perl Workshop in 2024!]]></description>
+            <pubDate>2023.12.22</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2023/12/geizhals-preisvergleich-unterstutzt-den-deutschen-perlraku-workshop.html</guid>
+            <link>https://blogs.perl.org/users/max_maischein/2023/12/geizhals-preisvergleich-unterstutzt-den-deutschen-perlraku-workshop.html</link>
             
             
             
-            <author><![CDATA[jason_crome]]></author>
+            <author><![CDATA[max_maischein]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Migrating from DBD::mysql to DBD::MariaDB]]></title>
+            <description><![CDATA[Nice to see the use of CPAN modules, specially the DBD::* family. Please do checkout if you want to try something new.]]></description>
+            <pubDate>2023.12.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/grinnz/2023/12/migrating-from-dbdmysql-to-dbdmariadb.html</guid>
+            <link>https://blogs.perl.org/users/grinnz/2023/12/migrating-from-dbdmysql-to-dbdmariadb.html</link>
+            
+            
+            
+            <author><![CDATA[dan_book]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This Week in PSC (129)]]></title>
+            <description><![CDATA[Another weekly update by Perl Steering Council. Thank you PSC for the time and effort.]]></description>
+            <pubDate>2023.12.21</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-129.html</guid>
+            <link>https://blogs.perl.org/users/psc/2023/12/this-week-in-psc-129.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Step Counter (Advent of Code 2023/21)]]></title>
+            <description><![CDATA[Pleasure to see E. Choroba back to blogging, thanks to Advent of Code. I hope to see more from him.]]></description>
+            <pubDate>2023.12.22</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/e_choroba/2023/12/step-counter-advent-of-code-202321.html</guid>
+            <link>https://blogs.perl.org/users/e_choroba/2023/12/step-counter-advent-of-code-202321.html</link>
+            
+            
+            
+            <author><![CDATA[e_choroba]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Never matching: everybody is doing it wrong]]></title>
+            <description><![CDATA[Benchmark Perl regex performance? A very well presented proof, you really don't want to skip.]]></description>
+            <pubDate>2023.12.23</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/aristotle/2023/12/rxfailfast.html</guid>
+            <link>https://blogs.perl.org/users/aristotle/2023/12/rxfailfast.html</link>
+            
+            
+            
+            <author><![CDATA[aristotle_pagaltzis]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[YAMLScript: Perl to Rust]]></title>
+            <description><![CDATA[Are you new to YAMLScript? Well in this post, you get the quick introduction to Perl, Raku and Rust bindings.]]></description>
+            <pubDate>2023.12.23</pubDate>
+            <guid isPermaLink="false">https://yamlscript.org/posts/advent-2023/dec-23/</guid>
+            <link>https://yamlscript.org/posts/advent-2023/dec-23/</link>
+            
+            
+            
+            <author><![CDATA[ingy_dot_net]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Microservices Pros and Cons]]></title>
+            <description><![CDATA[Microservies used to be hot potatoes little while ago. Nice to see pros/cons from the master himself. Thanks for sharing.]]></description>
+            <pubDate>2023.12.20</pubDate>
+            <guid isPermaLink="false">https://ovid.github.io/articles/microservices-pros-and-cons.html</guid>
+            <link>https://ovid.github.io/articles/microservices-pros-and-cons.html</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Elves Versus Typos]]></title>
+            <description><![CDATA[Quick introduction to fun utility typos, written in Rust but can be handy for Perl. You should checkout for more informations.]]></description>
+            <pubDate>2023.12.21</pubDate>
+            <guid isPermaLink="false">https://perladvent.org/2023/2023-12-21.html</guid>
+            <link>https://perladvent.org/2023/2023-12-21.html</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2023.51 Still More Magic]]></title>
+            <description><![CDATA[2023.51 Still More Magic]]></description>
+            <pubDate>2023.12.18</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2023/12/18/2023-51-still-more-magic/</guid>
+            <link>https://rakudoweekly.blog/2023/12/18/2023-51-still-more-magic/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -35,8 +163,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/12/cdlxxiv-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/12/dlxxv-metacpan-weekly-report-imager.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2023/12/dci-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2023.12.17</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/12/cdlxxv-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/12/dlxxvi-metacpan-weekly-report-envutil.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2023.12.24</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -50,27 +178,11 @@
         </item>
         
         <item>
-            <title><![CDATA[The Turbofish ::<> in Rust]]></title>
-            <description><![CDATA[Rust has an interesting feature of context sensitivity and it has an 'operator' called Trubofish. Don't forget to subscribe to the <a href="https://rust.code-maven.com/subscribe">Rust Maven newsletter</a>!]]></description>
-            <pubDate>2023.12.13</pubDate>
-            <guid isPermaLink="false">https://rust.code-maven.com/turbofish</guid>
-            <link>https://rust.code-maven.com/turbofish</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Diverging Functions - functions that never return in Rust]]></title>
-            <description><![CDATA[Diverging Functions - functions that never return in Rust]]></description>
-            <pubDate>2023.12.06</pubDate>
-            <guid isPermaLink="false">https://rust.code-maven.com/diverging-functions</guid>
-            <link>https://rust.code-maven.com/diverging-functions</link>
+            <title><![CDATA[Web development with Rust Rocket]]></title>
+            <description><![CDATA[This is the beginning of a series of articles about the Rocket Web development framework of Rust. It looks a bit like Perl Dancer.]]></description>
+            <pubDate>2023.12.25</pubDate>
+            <guid isPermaLink="false">https://rust.code-maven.com/rocket</guid>
+            <link>https://rust.code-maven.com/rocket</link>
             
             
             
