@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Ruby 3.3]]></title>
-            <description><![CDATA[568 points | <a href=https://news.ycombinator.com/item?id=38760477 target=_blank>206 comments</a>]]></description>
-            <pubDate>2023-12-25T07:01:17Z</pubDate>
-            <guid isPermaLink="false">https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/</guid>
-            <link>https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/</link>
-            
-            
-            
-            <author><![CDATA[dduugg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom]]></title>
             <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=38760933 target=_blank>549 comments</a>]]></description>
             <pubDate>2023-12-25T08:51:11Z</pubDate>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Stirling-PDF: local web application to perform various operations on PDFs]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=38765627 target=_blank>137 comments</a>]]></description>
+            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=38765627 target=_blank>139 comments</a>]]></description>
             <pubDate>2023-12-25T20:02:08Z</pubDate>
             <guid isPermaLink="false">https://github.com/Frooodle/Stirling-PDF</guid>
             <link>https://github.com/Frooodle/Stirling-PDF</link>
@@ -59,6 +43,22 @@
             
             
             <author><![CDATA[alexzeitler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Challenging projects every programmer should try (2019)]]></title>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=38768678 target=_blank>124 comments</a>]]></description>
+            <pubDate>2023-12-26T03:25:24Z</pubDate>
+            <guid isPermaLink="false">https://austinhenley.com/blog/challengingprojects.html</guid>
+            <link>https://austinhenley.com/blog/challengingprojects.html</link>
+            
+            
+            
+            <author><![CDATA[azhenley]]></author>
             
                 
             
@@ -75,22 +75,6 @@
             
             
             <author><![CDATA[pivic]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Challenging projects every programmer should try (2019)]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=38768678 target=_blank>118 comments</a>]]></description>
-            <pubDate>2023-12-26T03:25:24Z</pubDate>
-            <guid isPermaLink="false">https://austinhenley.com/blog/challengingprojects.html</guid>
-            <link>https://austinhenley.com/blog/challengingprojects.html</link>
-            
-            
-            
-            <author><![CDATA[azhenley]]></author>
             
                 
             
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Non-interactive SSH password authentication]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=38762214 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=38762214 target=_blank>95 comments</a>]]></description>
             <pubDate>2023-12-25T12:55:23Z</pubDate>
             <guid isPermaLink="false">https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass</guid>
             <link>https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass</link>
@@ -130,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A recent software update was not successful. Your vehicle cannot be driven]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=38766178 target=_blank>147 comments</a>]]></description>
-            <pubDate>2023-12-25T21:13:56Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/danluu/status/1739387245034139692</guid>
-            <link>https://twitter.com/danluu/status/1739387245034139692</link>
-            
-            
-            
-            <author><![CDATA[lopkeny12ko]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ask HN: Share your favorite software blog posts of 2023]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=38765176 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=38765176 target=_blank>53 comments</a>]]></description>
             <pubDate>2023-12-25T19:09:29Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=38765176</guid>
             <link>https://news.ycombinator.com/item?id=38765176</link>
@@ -162,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[A recent software update was not successful. Your vehicle cannot be driven]]></title>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=38766178 target=_blank>147 comments</a>]]></description>
+            <pubDate>2023-12-25T21:13:56Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/danluu/status/1739387245034139692</guid>
+            <link>https://twitter.com/danluu/status/1739387245034139692</link>
+            
+            
+            
+            <author><![CDATA[lopkeny12ko]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I told the flight attendant "the WiFi isn't working"]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=38762065 target=_blank>153 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=38762065 target=_blank>153 comments</a>]]></description>
             <pubDate>2023-12-25T12:27:50Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/erratarob/status/1739132876732674539?s=46&#38;t=FFxXRm_qmWG4nJwsccRUbA</guid>
             <link>https://twitter.com/erratarob/status/1739132876732674539?s=46&#38;t=FFxXRm_qmWG4nJwsccRUbA</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Nintendo Network shutdown – The beginning of the end]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=38766570 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=38766570 target=_blank>118 comments</a>]]></description>
             <pubDate>2023-12-25T22:04:19Z</pubDate>
             <guid isPermaLink="false">https://pretendo.network/blog/12-23-23</guid>
             <link>https://pretendo.network/blog/12-23-23</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[How many legs do ten elephants have, if two of them are legless?]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=38766512 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=38766512 target=_blank>118 comments</a>]]></description>
             <pubDate>2023-12-25T21:56:56Z</pubDate>
             <guid isPermaLink="false">https://bard.google.com/share/038d1dc14e78?hl=en</guid>
             <link>https://bard.google.com/share/038d1dc14e78?hl=en</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[tedsanders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Stupid Patent of the Month: Selfie Contests]]></title>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=38763566 target=_blank>43 comments</a>]]></description>
+            <pubDate>2023-12-25T15:51:53Z</pubDate>
+            <guid isPermaLink="false">https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests</guid>
+            <link>https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests</link>
+            
+            
+            
+            <author><![CDATA[glitcher]]></author>
             
                 
             
