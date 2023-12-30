@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[In 2024, please switch to Firefox]]></title>
-            <description><![CDATA[1598 points | <a href=https://news.ycombinator.com/item?id=38806270 target=_blank>775 comments</a>]]></description>
-            <pubDate>2023-12-29T15:57:18Z</pubDate>
-            <guid isPermaLink="false">https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/</guid>
-            <link>https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/</link>
-            
-            
-            
-            <author><![CDATA[Vinnl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Blot turns a folder into a website]]></title>
-            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=38809145 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[461 points | <a href=https://news.ycombinator.com/item?id=38809145 target=_blank>118 comments</a>]]></description>
             <pubDate>2023-12-29T19:26:42Z</pubDate>
             <guid isPermaLink="false">https://blot.im/how</guid>
             <link>https://blot.im/how</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Things are about to get a lot worse for Generative AI]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=38814093 target=_blank>450 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=38814093 target=_blank>458 comments</a>]]></description>
             <pubDate>2023-12-30T10:17:10Z</pubDate>
             <guid isPermaLink="false">https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse</guid>
             <link>https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Understanding Parquet, Iceberg and Data Lakehouses]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=38811576 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=38811576 target=_blank>69 comments</a>]]></description>
             <pubDate>2023-12-29T23:51:28Z</pubDate>
             <guid isPermaLink="false">https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/</guid>
             <link>https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Wikipedia daily most viewed pages]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=38813395 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=38813395 target=_blank>119 comments</a>]]></description>
             <pubDate>2023-12-30T07:22:35Z</pubDate>
             <guid isPermaLink="false">https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&#38;platform=all-access&#38;date=2023-12-29&#38;excludes=</guid>
             <link>https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&#38;platform=all-access&#38;date=2023-12-29&#38;excludes=</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Koka: Strongly typed functional-style language with effect types and handlers]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=38810073 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=38810073 target=_blank>64 comments</a>]]></description>
             <pubDate>2023-12-29T20:53:16Z</pubDate>
             <guid isPermaLink="false">https://koka-lang.github.io/koka/doc/index.html</guid>
             <link>https://koka-lang.github.io/koka/doc/index.html</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[The art of high performance computing]]></title>
-            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=38815334 target=_blank>19 comments</a>]]></description>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=38815334 target=_blank>22 comments</a>]]></description>
             <pubDate>2023-12-30T14:01:52Z</pubDate>
             <guid isPermaLink="false">https://theartofhpc.com/</guid>
             <link>https://theartofhpc.com/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Show HN: Inbox Zero – open-source email assistant]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=38809770 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=38809770 target=_blank>96 comments</a>]]></description>
             <pubDate>2023-12-29T20:22:26Z</pubDate>
             <guid isPermaLink="false">https://www.getinboxzero.com</guid>
             <link>https://www.getinboxzero.com</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[tmalsburg2]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Parsing an Undocumented File Format]]></title>
+            <description><![CDATA[130 points | <a href=https://news.ycombinator.com/item?id=38808889 target=_blank>43 comments</a>]]></description>
+            <pubDate>2023-12-29T19:02:27Z</pubDate>
+            <guid isPermaLink="false">https://blog.vivekpanyam.com/parsing-an-undocumented-file-format</guid>
+            <link>https://blog.vivekpanyam.com/parsing-an-undocumented-file-format</link>
+            
+            
+            
+            <author><![CDATA[vpanyam]]></author>
             
                 
             
