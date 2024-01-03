@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[1D Pac-Man]]></title>
-            <description><![CDATA[1648 points | <a href=https://news.ycombinator.com/item?id=38845510 target=_blank>207 comments</a>]]></description>
+            <description><![CDATA[1654 points | <a href=https://news.ycombinator.com/item?id=38845510 target=_blank>207 comments</a>]]></description>
             <pubDate>2024-01-02T19:00:06Z</pubDate>
             <guid isPermaLink="false">https://abagames.github.io/crisp-game-lib-11-games/?pakupaku</guid>
             <link>https://abagames.github.io/crisp-game-lib-11-games/?pakupaku</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Do It Yourself Blind Repair]]></title>
-            <description><![CDATA[572 points | <a href=https://news.ycombinator.com/item?id=38844274 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[574 points | <a href=https://news.ycombinator.com/item?id=38844274 target=_blank>133 comments</a>]]></description>
             <pubDate>2024-01-02T17:31:45Z</pubDate>
             <guid isPermaLink="false">https://fixmyblinds.com/</guid>
             <link>https://fixmyblinds.com/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: Resurrecting the Dillo browser]]></title>
-            <description><![CDATA[548 points | <a href=https://news.ycombinator.com/item?id=38847613 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[552 points | <a href=https://news.ycombinator.com/item?id=38847613 target=_blank>162 comments</a>]]></description>
             <pubDate>2024-01-02T21:55:08Z</pubDate>
             <guid isPermaLink="false">https://dillo-browser.github.io/</guid>
             <link>https://dillo-browser.github.io/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Maestro: A Linux-compatible kernel in Rust]]></title>
-            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=38852360 target=_blank>223 comments</a>]]></description>
+            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=38852360 target=_blank>227 comments</a>]]></description>
             <pubDate>2024-01-03T09:59:33Z</pubDate>
             <guid isPermaLink="false">https://blog.lenot.re/a/introduction</guid>
             <link>https://blog.lenot.re/a/introduction</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[AI generated security reports about curl]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=38845878 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=38845878 target=_blank>111 comments</a>]]></description>
             <pubDate>2024-01-02T19:28:46Z</pubDate>
             <guid isPermaLink="false">https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/</guid>
             <link>https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Browsers are the most likely disruptor of the mobile duopoly]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=38847719 target=_blank>324 comments</a>]]></description>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=38847719 target=_blank>327 comments</a>]]></description>
             <pubDate>2024-01-02T22:05:06Z</pubDate>
             <guid isPermaLink="false">https://infrequently.org/2024/01/the-web-is-the-app-store/</guid>
             <link>https://infrequently.org/2024/01/the-web-is-the-app-store/</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cross-platform Rust rewrite of the GNU coreutils]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=38851740 target=_blank>249 comments</a>]]></description>
-            <pubDate>2024-01-03T07:56:18Z</pubDate>
-            <guid isPermaLink="false">https://github.com/uutils/coreutils</guid>
-            <link>https://github.com/uutils/coreutils</link>
-            
-            
-            
-            <author><![CDATA[jcbhmr]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Possible Meissner effect near room temperature: copper-substituted lead apatite]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=38853706 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=38853706 target=_blank>123 comments</a>]]></description>
             <pubDate>2024-01-03T13:19:36Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2401.00999</guid>
             <link>https://arxiv.org/abs/2401.00999</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Cross-platform Rust rewrite of the GNU coreutils]]></title>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=38851740 target=_blank>258 comments</a>]]></description>
+            <pubDate>2024-01-03T07:56:18Z</pubDate>
+            <guid isPermaLink="false">https://github.com/uutils/coreutils</guid>
+            <link>https://github.com/uutils/coreutils</link>
+            
+            
+            
+            <author><![CDATA[jcbhmr]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Sieve is simpler than LRU]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=38850202 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=38850202 target=_blank>91 comments</a>]]></description>
             <pubDate>2024-01-03T03:07:07Z</pubDate>
             <guid isPermaLink="false">https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/</guid>
             <link>https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Linux hits nearly 4% desktop user share on Statcounter]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=38853877 target=_blank>271 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=38853877 target=_blank>275 comments</a>]]></description>
             <pubDate>2024-01-03T13:37:11Z</pubDate>
             <guid isPermaLink="false">https://www.gamingonlinux.com/2024/01/linux-hits-nearly-4-desktop-user-share-on-statcounter/</guid>
             <link>https://www.gamingonlinux.com/2024/01/linux-hits-nearly-4-desktop-user-share-on-statcounter/</link>
