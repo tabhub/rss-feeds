@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Understand how transformers work by demystifying the math behind them]]></title>
-            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=38859976 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=38859976 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-01-03T21:10:35Z</pubDate>
             <guid isPermaLink="false">https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/</guid>
             <link>https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Power over fiber]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=38865518 target=_blank>217 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=38865518 target=_blank>217 comments</a>]]></description>
             <pubDate>2024-01-04T10:51:14Z</pubDate>
             <guid isPermaLink="false">https://chaos.social/@f4grx/111697027153656114</guid>
             <link>https://chaos.social/@f4grx/111697027153656114</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=38862106 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=38862106 target=_blank>278 comments</a>]]></description>
             <pubDate>2024-01-04T01:42:17Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html</guid>
             <link>https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html</link>
@@ -98,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[AI and satellite imagery reveals expanding footprint of human activity at sea]]></title>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=38866256 target=_blank>147 comments</a>]]></description>
+            <pubDate>2024-01-04T12:39:33Z</pubDate>
+            <guid isPermaLink="false">https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/</guid>
+            <link>https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/</link>
+            
+            
+            
+            <author><![CDATA[geox]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The Curious Case of MD5]]></title>
             <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=38861034 target=_blank>143 comments</a>]]></description>
             <pubDate>2024-01-03T23:05:30Z</pubDate>
@@ -114,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AI and satellite imagery reveals expanding footprint of human activity at sea]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=38866256 target=_blank>145 comments</a>]]></description>
-            <pubDate>2024-01-04T12:39:33Z</pubDate>
-            <guid isPermaLink="false">https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/</guid>
-            <link>https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/</link>
+            <title><![CDATA[Iggy.rs – building message streaming in Rust]]></title>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=38868115 target=_blank>45 comments</a>]]></description>
+            <pubDate>2024-01-04T15:29:34Z</pubDate>
+            <guid isPermaLink="false">https://blog.iggy.rs/posts/building-message-streaming-in-rust/</guid>
+            <link>https://blog.iggy.rs/posts/building-message-streaming-in-rust/</link>
             
             
             
-            <author><![CDATA[geox]]></author>
+            <author><![CDATA[lukastyrychtr]]></author>
             
                 
             
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=38862848 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=38862848 target=_blank>104 comments</a>]]></description>
             <pubDate>2024-01-04T04:02:31Z</pubDate>
             <guid isPermaLink="false">https://www.lilygo.cc/products/t-deck</guid>
             <link>https://www.lilygo.cc/products/t-deck</link>
@@ -146,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Iggy.rs – building message streaming in Rust]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=38868115 target=_blank>43 comments</a>]]></description>
-            <pubDate>2024-01-04T15:29:34Z</pubDate>
-            <guid isPermaLink="false">https://blog.iggy.rs/posts/building-message-streaming-in-rust/</guid>
-            <link>https://blog.iggy.rs/posts/building-message-streaming-in-rust/</link>
+            <title><![CDATA[AMD's 22 year old GPUs are still getting updates]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=38868265 target=_blank>68 comments</a>]]></description>
+            <pubDate>2024-01-04T15:39:42Z</pubDate>
+            <guid isPermaLink="false">https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816</guid>
+            <link>https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816</link>
             
             
             
-            <author><![CDATA[lukastyrychtr]]></author>
+            <author><![CDATA[titaniumtown]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[AMD's 22 year old GPUs are still getting updates]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=38868265 target=_blank>64 comments</a>]]></description>
-            <pubDate>2024-01-04T15:39:42Z</pubDate>
-            <guid isPermaLink="false">https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816</guid>
-            <link>https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816</link>
-            
-            
-            
-            <author><![CDATA[titaniumtown]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Cold showers on overhyped topics (2017)]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=38870727 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=38870727 target=_blank>127 comments</a>]]></description>
             <pubDate>2024-01-04T18:49:10Z</pubDate>
             <guid isPermaLink="false">https://github.com/hwayne/awesome-cold-showers</guid>
             <link>https://github.com/hwayne/awesome-cold-showers</link>
