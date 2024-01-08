@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)]]></title>
-            <description><![CDATA[718 points | <a href=https://news.ycombinator.com/item?id=38901504 target=_blank>235 comments</a>]]></description>
+            <description><![CDATA[721 points | <a href=https://news.ycombinator.com/item?id=38901504 target=_blank>238 comments</a>]]></description>
             <pubDate>2024-01-07T14:34:46Z</pubDate>
             <guid isPermaLink="false">https://nino.app</guid>
             <link>https://nino.app</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail]]></title>
-            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=38907620 target=_blank>287 comments</a>]]></description>
+            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=38907620 target=_blank>293 comments</a>]]></description>
             <pubDate>2024-01-08T02:34:21Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/SeanSafyre/status/1744138937239822685</guid>
             <link>https://twitter.com/SeanSafyre/status/1744138937239822685</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[GitUI]]></title>
-            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=38905019 target=_blank>96 comments</a>]]></description>
-            <pubDate>2024-01-07T20:53:16Z</pubDate>
-            <guid isPermaLink="false">https://github.com/extrawurst/gitui</guid>
-            <link>https://github.com/extrawurst/gitui</link>
-            
-            
-            
-            <author><![CDATA[jethronethro]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA["LibreOffice is better at reading old Word files than Word"]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=38906331 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=38906331 target=_blank>148 comments</a>]]></description>
             <pubDate>2024-01-07T23:28:38Z</pubDate>
             <guid isPermaLink="false">https://eldritch.cafe/@sfwrtr/111716610017454919</guid>
             <link>https://eldritch.cafe/@sfwrtr/111716610017454919</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[GitUI]]></title>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=38905019 target=_blank>100 comments</a>]]></description>
+            <pubDate>2024-01-07T20:53:16Z</pubDate>
+            <guid isPermaLink="false">https://github.com/extrawurst/gitui</guid>
+            <link>https://github.com/extrawurst/gitui</link>
+            
+            
+            
+            <author><![CDATA[jethronethro]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Show HN: I made a HTMX Playground 100% in the browser]]></title>
-            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=38906989 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=38906989 target=_blank>55 comments</a>]]></description>
             <pubDate>2024-01-08T01:03:09Z</pubDate>
             <guid isPermaLink="false">https://lassebomh.github.io/htmx-playground/</guid>
             <link>https://lassebomh.github.io/htmx-playground/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[What does the cerebellum do?]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=38905898 target=_blank>123 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=38905898 target=_blank>123 comments</a>]]></description>
             <pubDate>2024-01-07T22:34:31Z</pubDate>
             <guid isPermaLink="false">https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway</guid>
             <link>https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[MotorOS: a Rust-first operating system for x64 VMs]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=38907568 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=38907568 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-01-08T02:24:54Z</pubDate>
             <guid isPermaLink="false">https://github.com/moturus/motor-os</guid>
             <link>https://github.com/moturus/motor-os</link>
@@ -139,6 +139,38 @@
             
             
             <author><![CDATA[rokkitmensch]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Visualizing Ext4]]></title>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=38907821 target=_blank>14 comments</a>]]></description>
+            <pubDate>2024-01-08T03:13:53Z</pubDate>
+            <guid isPermaLink="false">https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html</guid>
+            <link>https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html</link>
+            
+            
+            
+            <author><![CDATA[giis]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros]]></title>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=38906966 target=_blank>123 comments</a>]]></description>
+            <pubDate>2024-01-08T01:00:47Z</pubDate>
+            <guid isPermaLink="false">https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941</guid>
+            <link>https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941</link>
+            
+            
+            
+            <author><![CDATA[winstonschen]]></author>
             
                 
             
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[dcminter]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Visualizing Ext4]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=38907821 target=_blank>14 comments</a>]]></description>
-            <pubDate>2024-01-08T03:13:53Z</pubDate>
-            <guid isPermaLink="false">https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html</guid>
-            <link>https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html</link>
-            
-            
-            
-            <author><![CDATA[giis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=38906966 target=_blank>121 comments</a>]]></description>
-            <pubDate>2024-01-08T01:00:47Z</pubDate>
-            <guid isPermaLink="false">https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941</guid>
-            <link>https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941</link>
-            
-            
-            
-            <author><![CDATA[winstonschen]]></author>
             
                 
             
