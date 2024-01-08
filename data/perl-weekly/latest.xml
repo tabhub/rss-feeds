@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #649]]></title>
+        <title><![CDATA[Perl Weekly #650]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[24 Years of the Perl Advent Calendar]]></title>
-            <description><![CDATA[24 Years of the Perl Advent Calendar]]></description>
-            <pubDate>2023.12.25</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2023/2023-12-25.html</guid>
-            <link>https://perladvent.org/2023/2023-12-25.html</link>
+            <title><![CDATA[Cosmoshop unterstützt den Deutschen Perl/Raku-Workshop]]></title>
+            <description><![CDATA[We are happy to announce that CosmoShop supports the German Perl/Raku-Workshop.]]></description>
+            <pubDate>2024.01.06</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2024/01/cosmoshop-unterstutzt-den-deutschen-perlraku-workshop.html</guid>
+            <link>https://blogs.perl.org/users/max_maischein/2024/01/cosmoshop-unterstutzt-den-deutschen-perlraku-workshop.html</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CSS in Perl]]></title>
-            <description><![CDATA[CSS in Perl]]></description>
-            <pubDate>2023.12.28</pubDate>
-            <guid isPermaLink="false">https://dev.to/smonff/css-in-perl-1pl8</guid>
-            <link>https://dev.to/smonff/css-in-perl-1pl8</link>
-            
-            
-            
-            <author><![CDATA[sebastien_feugere]]></author>
+            <author><![CDATA[max_maischein]]></author>
             
                 
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancer2: How to write packages (warning: stupid question)?]]></title>
-            <description><![CDATA[Dancer2: How to write packages (warning: stupid question)?]]></description>
-            <pubDate>2023.12.27</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/18sqx4v/dancer2_how_to_write_packages_warning_stupid/</guid>
-            <link>https://www.reddit.com/r/perl/comments/18sqx4v/dancer2_how_to_write_packages_warning_stupid/</link>
+            <title><![CDATA[This Week in PSC (130) | 2024-01-04]]></title>
+            <description><![CDATA[Happy New Year and weekly update from Perl Steering Council.]]></description>
+            <pubDate>2024.01.04</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/01/this-week-in-psc-130.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/01/this-week-in-psc-130.html</link>
             
             
             
@@ -66,15 +50,63 @@
         </item>
         
         <item>
+            <title><![CDATA[Let's keep in touch]]></title>
+            <description><![CDATA[Invitation from Olaf to join the newsletter for interesting and fun post.]]></description>
+            <pubDate>2024.01.07</pubDate>
+            <guid isPermaLink="false">https://wundersolutions-com.eo.page/k22w4</guid>
+            <link>https://wundersolutions-com.eo.page/k22w4</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2024.01 Happy (2..9).map(*³).sum]]></title>
+            <description><![CDATA[2024.01 Happy (2..9).map(*³).sum]]></description>
+            <pubDate>2024.01.02</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/01/02/2024-01-happy-2-9-map%c2%b3-sum/</guid>
+            <link>https://rakudoweekly.blog/2024/01/02/2024-01-happy-2-9-map%c2%b3-sum/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2023/12/cdlxxvi-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2023/12/dlxxvii-metacpan-weekly-report-meta.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2024.01.01</pubDate>
+            <description><![CDATA[<a href="">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/01/cdlxxvii-10-great-cpan-modules-released.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/01/dlxxviii-metacpan-weekly-report-meta.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.01.06</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How to handle number overflow or underflow?]]></title>
+            <description><![CDATA[As a Perl prorgammer I never thought what happens if my posts get too many likes. Will the counter overflow? Now, as I write Rust it makes me think about all kinds of, sometimes rather unrealistic, edge-cases.]]></description>
+            <pubDate>2024.01.07</pubDate>
+            <guid isPermaLink="false">https://rust.code-maven.com/how-to-handle-overflow</guid>
+            <link>https://rust.code-maven.com/how-to-handle-overflow</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
