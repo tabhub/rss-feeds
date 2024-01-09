@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Dive: A tool for exploring a Docker image, layer contents and more]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=38913425 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=38913425 target=_blank>44 comments</a>]]></description>
             <pubDate>2024-01-08T15:35:38Z</pubDate>
             <guid isPermaLink="false">https://github.com/wagoodman/dive</guid>
             <link>https://github.com/wagoodman/dive</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[What PWA Can Do Today]]></title>
-            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=38911791 target=_blank>240 comments</a>]]></description>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=38911791 target=_blank>242 comments</a>]]></description>
             <pubDate>2024-01-08T13:44:18Z</pubDate>
             <guid isPermaLink="false">https://whatpwacando.today</guid>
             <link>https://whatpwacando.today</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Visualizing Ext4]]></title>
+            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=38907821 target=_blank>27 comments</a>]]></description>
+            <pubDate>2024-01-08T03:13:53Z</pubDate>
+            <guid isPermaLink="false">https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html</guid>
+            <link>https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html</link>
+            
+            
+            
+            <author><![CDATA[giis]]></author>
             
                 
             
@@ -98,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Visualizing Ext4]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=38907821 target=_blank>27 comments</a>]]></description>
-            <pubDate>2024-01-08T03:13:53Z</pubDate>
-            <guid isPermaLink="false">https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html</guid>
-            <link>https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html</link>
+            <title><![CDATA[Polars]]></title>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=38920043 target=_blank>109 comments</a>]]></description>
+            <pubDate>2024-01-08T23:32:54Z</pubDate>
+            <guid isPermaLink="false">https://pola.rs/</guid>
+            <link>https://pola.rs/</link>
             
             
             
-            <author><![CDATA[giis]]></author>
+            <author><![CDATA[tosh]]></author>
             
                 
             
@@ -130,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Polars]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=38920043 target=_blank>100 comments</a>]]></description>
-            <pubDate>2024-01-08T23:32:54Z</pubDate>
-            <guid isPermaLink="false">https://pola.rs/</guid>
-            <link>https://pola.rs/</link>
+            <title><![CDATA[United finds loose bolts on plug doors during 737 Max 9 inspections]]></title>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=38917820 target=_blank>463 comments</a>]]></description>
+            <pubDate>2024-01-08T20:43:37Z</pubDate>
+            <guid isPermaLink="false">https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/</guid>
+            <link>https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/</link>
             
             
             
-            <author><![CDATA[tosh]]></author>
+            <author><![CDATA[etimberg]]></author>
             
                 
             
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Apple Vision Pro available in the U.S. on February 2]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=38912032 target=_blank>383 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=38912032 target=_blank>384 comments</a>]]></description>
             <pubDate>2024-01-08T14:03:51Z</pubDate>
             <guid isPermaLink="false">https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/</guid>
             <link>https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/</link>
@@ -155,22 +171,6 @@
             
             
             <author><![CDATA[hnuser0000]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[United finds loose bolts on plug doors during 737 Max 9 inspections]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=38917820 target=_blank>461 comments</a>]]></description>
-            <pubDate>2024-01-08T20:43:37Z</pubDate>
-            <guid isPermaLink="false">https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/</guid>
-            <link>https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/</link>
-            
-            
-            
-            <author><![CDATA[etimberg]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[The phrase "no evidence" is a red flag for bad science communication (2021)]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=38909735 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=38909735 target=_blank>250 comments</a>]]></description>
             <pubDate>2024-01-08T09:14:25Z</pubDate>
             <guid isPermaLink="false">https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag</guid>
             <link>https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag</link>
