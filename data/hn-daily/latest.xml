@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Teach Yourself Programming in Ten Years (1998)]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=39001755 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=39001755 target=_blank>152 comments</a>]]></description>
             <pubDate>2024-01-15T15:06:07Z</pubDate>
             <guid isPermaLink="false">https://norvig.com/21-days.html</guid>
             <link>https://norvig.com/21-days.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[A periodic table of visualization methods (2007)]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=38998257 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=38998257 target=_blank>44 comments</a>]]></description>
             <pubDate>2024-01-15T07:26:35Z</pubDate>
             <guid isPermaLink="false">https://www.visual-literacy.org/periodic_table/periodic_table.html</guid>
             <link>https://www.visual-literacy.org/periodic_table/periodic_table.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Scrum Sucks]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39002740 target=_blank>244 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=39002740 target=_blank>244 comments</a>]]></description>
             <pubDate>2024-01-15T16:38:18Z</pubDate>
             <guid isPermaLink="false">https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf</guid>
             <link>https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[FSRS: A modern, efficient spaced repetition algorithm]]></title>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=39002138 target=_blank>40 comments</a>]]></description>
+            <pubDate>2024-01-15T15:40:03Z</pubDate>
+            <guid isPermaLink="false">https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS</guid>
+            <link>https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS</link>
+            
+            
+            
+            <author><![CDATA[rickcarlino]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[ChatGPT does Advent of Code 2023]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=38998423 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=38998423 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-01-15T08:00:36Z</pubDate>
             <guid isPermaLink="false">https://www.themotte.org/post/797/chatgpt-vs-advent-of-code</guid>
             <link>https://www.themotte.org/post/797/chatgpt-vs-advent-of-code</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Htmx changes license to Zero-Clause BSD]]></title>
-            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=39003292 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=39003292 target=_blank>93 comments</a>]]></description>
             <pubDate>2024-01-15T17:14:27Z</pubDate>
             <guid isPermaLink="false">https://github.com/bigskysoftware/htmx/commit/e16f1865a494b6281f8a44ed0db5338e718b3f07</guid>
             <link>https://github.com/bigskysoftware/htmx/commit/e16f1865a494b6281f8a44ed0db5338e718b3f07</link>
@@ -155,22 +171,6 @@
             
             
             <author><![CDATA[jicea]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FSRS: A modern, efficient spaced repetition algorithm]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=39002138 target=_blank>38 comments</a>]]></description>
-            <pubDate>2024-01-15T15:40:03Z</pubDate>
-            <guid isPermaLink="false">https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS</guid>
-            <link>https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS</link>
-            
-            
-            
-            <author><![CDATA[rickcarlino]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[The M2 is more advanced than it seemed]]></title>
-            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=38998313 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=38998313 target=_blank>168 comments</a>]]></description>
             <pubDate>2024-01-15T07:37:50Z</pubDate>
             <guid isPermaLink="false">https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/</guid>
             <link>https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/</link>
