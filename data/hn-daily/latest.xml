@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[SQLite 3.45 released with JSONB support]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=39004963 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=39004963 target=_blank>52 comments</a>]]></description>
             <pubDate>2024-01-15T19:24:44Z</pubDate>
             <guid isPermaLink="false">https://www.sqlite.org/changes.html#version_3_45_0</guid>
             <link>https://www.sqlite.org/changes.html#version_3_45_0</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Bluesky has launched RSS feeds]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=39007756 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=39007756 target=_blank>142 comments</a>]]></description>
             <pubDate>2024-01-16T00:05:40Z</pubDate>
             <guid isPermaLink="false">https://openrss.org/blog/bluesky-has-launched-rss-feeds</guid>
             <link>https://openrss.org/blog/bluesky-has-launched-rss-feeds</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Many AI safety orgs have tried to criminalize currently-existing open-source AI]]></title>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=39009779 target=_blank>146 comments</a>]]></description>
+            <pubDate>2024-01-16T05:17:38Z</pubDate>
+            <guid isPermaLink="false">https://1a3orn.com/sub/machine-learning-bans.html</guid>
+            <link>https://1a3orn.com/sub/machine-learning-bans.html</link>
+            
+            
+            
+            <author><![CDATA[sroussey]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Modeless Vim]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=39008533 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=39008533 target=_blank>187 comments</a>]]></description>
             <pubDate>2024-01-16T02:05:32Z</pubDate>
             <guid isPermaLink="false">https://github.com/SebastianMuskalla/ModelessVim</guid>
             <link>https://github.com/SebastianMuskalla/ModelessVim</link>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Many AI safety orgs have tried to criminalize currently-existing open-source AI]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39009779 target=_blank>145 comments</a>]]></description>
-            <pubDate>2024-01-16T05:17:38Z</pubDate>
-            <guid isPermaLink="false">https://1a3orn.com/sub/machine-learning-bans.html</guid>
-            <link>https://1a3orn.com/sub/machine-learning-bans.html</link>
+            <title><![CDATA[Prison. Bankruptcy. Suicide. How a software glitch ruined lives]]></title>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=39010070 target=_blank>172 comments</a>]]></description>
+            <pubDate>2024-01-16T06:22:35Z</pubDate>
+            <guid isPermaLink="false">https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html</guid>
+            <link>https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html</link>
             
             
             
-            <author><![CDATA[sroussey]]></author>
+            <author><![CDATA[IronWolve]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[jicea]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Prison. Bankruptcy. Suicide. How a software glitch ruined lives]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=39010070 target=_blank>168 comments</a>]]></description>
-            <pubDate>2024-01-16T06:22:35Z</pubDate>
-            <guid isPermaLink="false">https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html</guid>
-            <link>https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html</link>
-            
-            
-            
-            <author><![CDATA[IronWolve]]></author>
             
                 
             
