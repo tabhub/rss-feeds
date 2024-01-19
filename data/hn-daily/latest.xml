@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Losing my son]]></title>
-            <description><![CDATA[2207 points | <a href=https://news.ycombinator.com/item?id=39036842 target=_blank>335 comments</a>]]></description>
+            <description><![CDATA[2209 points | <a href=https://news.ycombinator.com/item?id=39036842 target=_blank>335 comments</a>]]></description>
             <pubDate>2024-01-18T02:34:24Z</pubDate>
             <guid isPermaLink="false">https://www.fortressofdoors.com/i-lost-my-son/</guid>
             <link>https://www.fortressofdoors.com/i-lost-my-son/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Remote work doesn't seem to affect productivity, Fed study finds]]></title>
-            <description><![CDATA[768 points | <a href=https://news.ycombinator.com/item?id=39037589 target=_blank>506 comments</a>]]></description>
+            <description><![CDATA[770 points | <a href=https://news.ycombinator.com/item?id=39037589 target=_blank>506 comments</a>]]></description>
             <pubDate>2024-01-18T03:55:56Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds</guid>
             <link>https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds</link>
@@ -43,22 +43,6 @@
             
             
             <author><![CDATA[simula67]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[WhisperSpeech – An open source text-to-speech system built by inverting Whisper]]></title>
-            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=39036796 target=_blank>108 comments</a>]]></description>
-            <pubDate>2024-01-18T02:29:58Z</pubDate>
-            <guid isPermaLink="false">https://github.com/collabora/WhisperSpeech</guid>
-            <link>https://github.com/collabora/WhisperSpeech</link>
-            
-            
-            
-            <author><![CDATA[nickmcc]]></author>
             
                 
             
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[The quiet death of Ello's big dreams]]></title>
-            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=39043871 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=39043871 target=_blank>166 comments</a>]]></description>
             <pubDate>2024-01-18T16:35:59Z</pubDate>
             <guid isPermaLink="false">https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/</guid>
             <link>https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[German developer guilty of 'hacking' for exposing hardcoded credentials in app]]></title>
-            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=39046838 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=39046838 target=_blank>195 comments</a>]]></description>
             <pubDate>2024-01-18T20:01:48Z</pubDate>
             <guid isPermaLink="false">https://infosec.exchange/@WPalant/111776937550399546</guid>
             <link>https://infosec.exchange/@WPalant/111776937550399546</link>
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Escaping surveillance capitalism, at scale]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=39043547 target=_blank>193 comments</a>]]></description>
-            <pubDate>2024-01-18T16:14:28Z</pubDate>
-            <guid isPermaLink="false">https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/</guid>
-            <link>https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/</link>
-            
-            
-            
-            <author><![CDATA[thibaultamartin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[We migrated our PostgreSQL database with 11 seconds downtime]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=39048317 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=39048317 target=_blank>95 comments</a>]]></description>
             <pubDate>2024-01-18T21:51:05Z</pubDate>
             <guid isPermaLink="false">https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/</guid>
             <link>https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/</link>
@@ -146,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Escaping surveillance capitalism, at scale]]></title>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=39043547 target=_blank>193 comments</a>]]></description>
+            <pubDate>2024-01-18T16:14:28Z</pubDate>
+            <guid isPermaLink="false">https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/</guid>
+            <link>https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/</link>
+            
+            
+            
+            <author><![CDATA[thibaultamartin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The case for single-stair multifamily]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=39043956 target=_blank>370 comments</a>]]></description>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=39043956 target=_blank>375 comments</a>]]></description>
             <pubDate>2024-01-18T16:41:17Z</pubDate>
             <guid isPermaLink="false">https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily</guid>
             <link>https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=39048948 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=39048948 target=_blank>97 comments</a>]]></description>
             <pubDate>2024-01-18T22:43:50Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/wenquai/status/1748016021808595242</guid>
             <link>https://twitter.com/wenquai/status/1748016021808595242</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[WebGPU is now available on Android]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39045598 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=39045598 target=_blank>43 comments</a>]]></description>
             <pubDate>2024-01-18T18:29:57Z</pubDate>
             <guid isPermaLink="false">https://developer.chrome.com/blog/new-in-webgpu-121</guid>
             <link>https://developer.chrome.com/blog/new-in-webgpu-121</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[astlouis44]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Flattr is closing down]]></title>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=39040023 target=_blank>207 comments</a>]]></description>
+            <pubDate>2024-01-18T10:12:26Z</pubDate>
+            <guid isPermaLink="false">https://flattr.com/</guid>
+            <link>https://flattr.com/</link>
+            
+            
+            
+            <author><![CDATA[pabs3]]></author>
             
                 
             
