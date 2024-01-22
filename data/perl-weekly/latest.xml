@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #651]]></title>
+        <title><![CDATA[Perl Weekly #652]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,63 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Missing at point blank range]]></title>
-            <description><![CDATA[Exploring the range operator in Perl]]></description>
-            <pubDate>2024.01.14</pubDate>
-            <guid isPermaLink="false">https://dev.to/boblied/missing-at-point-blank-range-1di</guid>
-            <link>https://dev.to/boblied/missing-at-point-blank-range-1di</link>
+            <title><![CDATA[2024 Letter from the President]]></title>
+            <description><![CDATA[Hear from the President directly about the plans for 2024.]]></description>
+            <pubDate>2024.01.19</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/presidentslettert2024</guid>
+            <link>https://news.perlfoundation.org/post/presidentslettert2024</link>
             
             
             
-            <author><![CDATA[bob_lied]]></author>
+            <author><![CDATA[amber_krawczyk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (132)]]></title>
+            <description><![CDATA[Another weekly update by Perl Steering Council. <a href="https://lwn.net">LWN.net</a> writes a lot about <strong>Python</strong>. We should definitely let them know what we do in <strong>Perl</strong> on a regular basis.]]></description>
+            <pubDate>2024.01.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/01/this-week-in-psc-132.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/01/this-week-in-psc-132.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GitHub Actions for Perl Development]]></title>
+            <description><![CDATA[Big help to all who has got Perl code base in GitHub repository. You should give it a try as it is so easy to implement as shown by Dave.]]></description>
+            <pubDate>2024.01.20</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2024/01/github-actions-for-perl-development/</guid>
+            <link>https://perlhacks.com/2024/01/github-actions-for-perl-development/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2024.03 Draig]]></title>
+            <description><![CDATA[2024.03 Draig]]></description>
+            <pubDate>2024.01.15</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/01/15/2024-03-draig/</guid>
+            <link>https://rakudoweekly.blog/2024/01/15/2024-03-draig/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -35,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/01/cdlxxviii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/01/dlxxix-metacpan-weekly-report-meta.html">MetaCPAN weekly report</a>]]></description>
-            <pubDate>2024.01</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/01/cdlxxix-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/01/dcii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.01.20</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
