@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[My favourite Git commit (2019)]]></title>
-            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=39217149 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=39217149 target=_blank>204 comments</a>]]></description>
             <pubDate>2024-02-01T15:46:15Z</pubDate>
             <guid isPermaLink="false">https://dhwthompson.com/2019/my-favourite-git-commit</guid>
             <link>https://dhwthompson.com/2019/my-favourite-git-commit</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[I moved my blog from IPFS to a server]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=39208673 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=39208673 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-01-31T20:07:02Z</pubDate>
             <guid isPermaLink="false">https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html</guid>
             <link>https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Damn Small Linux 2024]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=39215846 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=39215846 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-02-01T13:47:48Z</pubDate>
             <guid isPermaLink="false">https://www.damnsmalllinux.org/</guid>
             <link>https://www.damnsmalllinux.org/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=39214743 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=39214743 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-02-01T11:10:58Z</pubDate>
             <guid isPermaLink="false">https://words.filippo.io/dispatches/mlkem768/</guid>
             <link>https://words.filippo.io/dispatches/mlkem768/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[MobileDiffusion: Rapid text-to-image generation on-device]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=39210458 target=_blank>58 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=39210458 target=_blank>58 comments</a>]]></description>
             <pubDate>2024-01-31T22:42:49Z</pubDate>
             <guid isPermaLink="false">https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html</guid>
             <link>https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[The VAE Used for Stable Diffusion Is Flawed]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=39215242 target=_blank>59 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=39215242 target=_blank>59 comments</a>]]></description>
             <pubDate>2024-02-01T12:25:48Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/</guid>
             <link>https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[I don't want anything your AI generates]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=39210126 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=39210126 target=_blank>282 comments</a>]]></description>
             <pubDate>2024-01-31T22:11:08Z</pubDate>
             <guid isPermaLink="false">https://coryd.dev/posts/2024/i-dont-want-anything-your-ai-generates/</guid>
             <link>https://coryd.dev/posts/2024/i-dont-want-anything-your-ai-generates/</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[cdme]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Visual Analysis of Binary Files]]></title>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=39210436 target=_blank>45 comments</a>]]></description>
+            <pubDate>2024-01-31T22:39:35Z</pubDate>
+            <guid isPermaLink="false">http://binvis.io/#/</guid>
+            <link>http://binvis.io/#/</link>
+            
+            
+            
+            <author><![CDATA[h4x0rr]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Visual Analysis of Binary Files]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=39210436 target=_blank>45 comments</a>]]></description>
-            <pubDate>2024-01-31T22:39:35Z</pubDate>
-            <guid isPermaLink="false">http://binvis.io/#/</guid>
-            <link>http://binvis.io/#/</link>
-            
-            
-            
-            <author><![CDATA[h4x0rr]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[DeepSeek Coder: Let the Code Write Itself]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=39209814 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=39209814 target=_blank>55 comments</a>]]></description>
             <pubDate>2024-01-31T21:43:40Z</pubDate>
             <guid isPermaLink="false">https://deepseekcoder.github.io/</guid>
             <link>https://deepseekcoder.github.io/</link>
