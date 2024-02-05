@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #653]]></title>
+        <title><![CDATA[Perl Weekly #654]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl & Raku Conference 2024 to Host a Science Track!]]></title>
-            <description><![CDATA[Perl & Raku Conference 2024 to Host a Science Track!]]></description>
-            <pubDate>2024.01.25</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/01/perl-raku-conference-2024-to-host-a-science-track.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2024/01/perl-raku-conference-2024-to-host-a-science-track.html</link>
+            <title><![CDATA[February 08, 2024 @ 6pm CT ~ Houston Perl Mongers Zoom Meeting]]></title>
+            <description><![CDATA[Let us all meet virtual and celebrate Perl with fellow hackers.]]></description>
+            <pubDate>2024.01.30</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/01/february-08-2024-6pm-ct-houston-perl-mongers-zoom-meeting.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2024/01/february-08-2024-6pm-ct-houston-perl-mongers-zoom-meeting.html</link>
             
             
             
-            <author><![CDATA[oodler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[#12in24: Learning Perl in 4h.]]></title>
-            <description><![CDATA[Yes, you can learn a new language in just 4 hours. - So what do you think about Alex explaining Perl? Comment on his post on DEV!]]></description>
-            <pubDate>2024.01.24</pubDate>
-            <guid isPermaLink="false">https://dev.to/amtzespinosa/12in24-learning-perl-in-4h-2d7g</guid>
-            <link>https://dev.to/amtzespinosa/12in24-learning-perl-in-4h-2d7g</link>
-            
-            
-            
-            <author><![CDATA[alex_martinez]]></author>
+            <author><![CDATA[brett_estrade]]></author>
             
                 
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[getfh in Mail::IMAPClient]]></title>
-            <description><![CDATA[getfh in Mail::IMAPClient]]></description>
-            <pubDate>2024.01.26</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/19fi2ue/getfh_in_mailimapclient/</guid>
-            <link>https://www.reddit.com/r/perl/comments/19fi2ue/getfh_in_mailimapclient/</link>
+            <title><![CDATA[This Week in PSC (134)]]></title>
+            <description><![CDATA[Another weekly update from the Perl Steering Council. Thank you PSC for all the hard work.]]></description>
+            <pubDate>2024.02.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/02/this-week-in-psc-134.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/02/this-week-in-psc-134.html</link>
             
             
             
@@ -66,47 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Are there any modules for GitHub flavored markdown?]]></title>
-            <description><![CDATA[Are there any modules for GitHub flavored markdown?]]></description>
-            <pubDate>2024.01.26</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1abl4j9/are_there_any_modules_for_github_flavored_markdown/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1abl4j9/are_there_any_modules_for_github_flavored_markdown/</link>
+            <title><![CDATA[2024.05 Brain NRG]]></title>
+            <description><![CDATA[2024.05 Brain NRG]]></description>
+            <pubDate>2024.01.29</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/01/29/2024-05-brain-nrg/</guid>
+            <link>https://rakudoweekly.blog/2024/01/29/2024-05-brain-nrg/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Trying to understand Arrays in Perl]]></title>
-            <description><![CDATA[Trying to understand Arrays in Perl]]></description>
-            <pubDate>2024.01.28</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1ad2l0w/trying_to_understand_arrays_in_perl/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1ad2l0w/trying_to_understand_arrays_in_perl/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[My 2023 in Perl]]></title>
-            <description><![CDATA[2023 was a rather productive year for Leon on CPAN. Aided by taking some time off he managed to release a whopping 18 new modules.]]></description>
-            <pubDate>2024.01.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/leon_timmermans/2024/01/my-2023-in-perl.html</guid>
-            <link>https://blogs.perl.org/users/leon_timmermans/2024/01/my-2023-in-perl.html</link>
-            
-            
-            
-            <author><![CDATA[leon_timmermans]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,8 +67,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/01/cdlxxx-22-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2024.01.27</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/02/cdlxxxi-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/02/dlxxx-metacpan-weekly-report-cpanaudit.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2024.02.04</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
