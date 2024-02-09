@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[OpenAI compatibility]]></title>
-            <description><![CDATA[614 points | <a href=https://news.ycombinator.com/item?id=39307330 target=_blank>181 comments</a>]]></description>
-            <pubDate>2024-02-08T20:36:08Z</pubDate>
-            <guid isPermaLink="false">https://ollama.ai/blog/openai-compatibility</guid>
-            <link>https://ollama.ai/blog/openai-compatibility</link>
-            
-            
-            
-            <author><![CDATA[Casteil]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Figure out who's leaving the company: dump, diff, repeat]]></title>
-            <description><![CDATA[576 points | <a href=https://news.ycombinator.com/item?id=39311507 target=_blank>358 comments</a>]]></description>
+            <description><![CDATA[577 points | <a href=https://news.ycombinator.com/item?id=39311507 target=_blank>359 comments</a>]]></description>
             <pubDate>2024-02-09T04:46:02Z</pubDate>
             <guid isPermaLink="false">https://rachelbythebay.com/w/2024/02/08/ldap/</guid>
             <link>https://rachelbythebay.com/w/2024/02/08/ldap/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Sony is erasing digital libraries that were supposed to be accessible "forever"]]></title>
-            <description><![CDATA[522 points | <a href=https://news.ycombinator.com/item?id=39308679 target=_blank>277 comments</a>]]></description>
+            <description><![CDATA[523 points | <a href=https://news.ycombinator.com/item?id=39308679 target=_blank>277 comments</a>]]></description>
             <pubDate>2024-02-08T22:30:02Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/</guid>
             <link>https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Add coffee stains to LaTeX documents (2021)]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=39316193 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=39316193 target=_blank>107 comments</a>]]></description>
             <pubDate>2024-02-09T16:05:00Z</pubDate>
             <guid isPermaLink="false">https://ctan.org/pkg/coffeestains</guid>
             <link>https://ctan.org/pkg/coffeestains</link>
@@ -82,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Permutation City (1994)]]></title>
-            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=39313696 target=_blank>160 comments</a>]]></description>
-            <pubDate>2024-02-09T11:18:07Z</pubDate>
-            <guid isPermaLink="false">https://www.gregegan.net/PERMUTATION/Permutation.html</guid>
-            <link>https://www.gregegan.net/PERMUTATION/Permutation.html</link>
-            
-            
-            
-            <author><![CDATA[RafelMri]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Gemini can't show me the fastest way to copy memory in C# because it's unethical]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=39312896 target=_blank>226 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=39312896 target=_blank>231 comments</a>]]></description>
             <pubDate>2024-02-09T09:00:23Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/garrynewman/status/1755851884047303012</guid>
             <link>https://twitter.com/garrynewman/status/1755851884047303012</link>
@@ -107,6 +75,22 @@
             
             
             <author><![CDATA[jsheard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Permutation City (1994)]]></title>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=39313696 target=_blank>161 comments</a>]]></description>
+            <pubDate>2024-02-09T11:18:07Z</pubDate>
+            <guid isPermaLink="false">https://www.gregegan.net/PERMUTATION/Permutation.html</guid>
+            <link>https://www.gregegan.net/PERMUTATION/Permutation.html</link>
+            
+            
+            
+            <author><![CDATA[RafelMri]]></author>
             
                 
             
@@ -146,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Goody-2, the world's most responsible AI model]]></title>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=39315986 target=_blank>112 comments</a>]]></description>
+            <pubDate>2024-02-09T15:48:29Z</pubDate>
+            <guid isPermaLink="false">https://www.goody2.ai/chat</guid>
+            <link>https://www.goody2.ai/chat</link>
+            
+            
+            
+            <author><![CDATA[belladoreai]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[What's new in the Postgres 16 query planner]]></title>
             <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=39310837 target=_blank>127 comments</a>]]></description>
             <pubDate>2024-02-09T02:52:10Z</pubDate>
@@ -162,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Goody-2, the world's most responsible AI model]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=39315986 target=_blank>110 comments</a>]]></description>
-            <pubDate>2024-02-09T15:48:29Z</pubDate>
-            <guid isPermaLink="false">https://www.goody2.ai/chat</guid>
-            <link>https://www.goody2.ai/chat</link>
-            
-            
-            
-            <author><![CDATA[belladoreai]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Russian troops use Starlink licensed and imported from Dubai]]></title>
             <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=39313074 target=_blank>225 comments</a>]]></description>
             <pubDate>2024-02-09T09:27:39Z</pubDate>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[belter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[It was almost impossible to make the blue LED [video]]]></title>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=39313339 target=_blank>126 comments</a>]]></description>
+            <pubDate>2024-02-09T10:14:54Z</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=AF8d72mA41M</guid>
+            <link>https://www.youtube.com/watch?v=AF8d72mA41M</link>
+            
+            
+            
+            <author><![CDATA[keepamovin]]></author>
             
                 
             
