@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How I write HTTP services in Go after 13 years]]></title>
-            <description><![CDATA[539 points | <a href=https://news.ycombinator.com/item?id=39318867 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[547 points | <a href=https://news.ycombinator.com/item?id=39318867 target=_blank>147 comments</a>]]></description>
             <pubDate>2024-02-09T19:00:59Z</pubDate>
             <guid isPermaLink="false">https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/</guid>
             <link>https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Almost every infrastructure decision I endorse or regret]]></title>
-            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=39313623 target=_blank>221 comments</a>]]></description>
+            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=39313623 target=_blank>225 comments</a>]]></description>
             <pubDate>2024-02-09T11:05:39Z</pubDate>
             <guid isPermaLink="false">https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</guid>
             <link>https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Add coffee stains to LaTeX documents (2021)]]></title>
-            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=39316193 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=39316193 target=_blank>133 comments</a>]]></description>
             <pubDate>2024-02-09T16:05:00Z</pubDate>
             <guid isPermaLink="false">https://ctan.org/pkg/coffeestains</guid>
             <link>https://ctan.org/pkg/coffeestains</link>
@@ -98,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Data Structures for Data-Intensive Applications [pdf]]]></title>
+            <description><![CDATA[378 points | <a href=https://news.ycombinator.com/item?id=39318774 target=_blank>13 comments</a>]]></description>
+            <pubDate>2024-02-09T18:53:56Z</pubDate>
+            <guid isPermaLink="false">https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</guid>
+            <link>https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</link>
+            
+            
+            
+            <author><![CDATA[mfiguiere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Permutation City (1994)]]></title>
             <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=39313696 target=_blank>185 comments</a>]]></description>
             <pubDate>2024-02-09T11:18:07Z</pubDate>
@@ -107,22 +123,6 @@
             
             
             <author><![CDATA[RafelMri]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Data Structures for Data-Intensive Applications [pdf]]]></title>
-            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=39318774 target=_blank>12 comments</a>]]></description>
-            <pubDate>2024-02-09T18:53:56Z</pubDate>
-            <guid isPermaLink="false">https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</guid>
-            <link>https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</link>
-            
-            
-            
-            <author><![CDATA[mfiguiere]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[A 2024 plea for lean software]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=39315585 target=_blank>150 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=39315585 target=_blank>151 comments</a>]]></description>
             <pubDate>2024-02-09T15:15:24Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/lean-software-development</guid>
             <link>https://spectrum.ieee.org/lean-software-development</link>
