@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How I write HTTP services in Go after 13 years]]></title>
-            <description><![CDATA[658 points | <a href=https://news.ycombinator.com/item?id=39318867 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[660 points | <a href=https://news.ycombinator.com/item?id=39318867 target=_blank>185 comments</a>]]></description>
             <pubDate>2024-02-09T19:00:59Z</pubDate>
             <guid isPermaLink="false">https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/</guid>
             <link>https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Data Structures for Data-Intensive Applications [pdf] (2023)]]></title>
-            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=39318774 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=39318774 target=_blank>24 comments</a>]]></description>
             <pubDate>2024-02-09T18:53:56Z</pubDate>
             <guid isPermaLink="false">https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</guid>
             <link>https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Nine US states are teaming up to accelerate the adoption of heat pumps]]></title>
-            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=39315545 target=_blank>660 comments</a>]]></description>
+            <description><![CDATA[441 points | <a href=https://news.ycombinator.com/item?id=39315545 target=_blank>664 comments</a>]]></description>
             <pubDate>2024-02-09T15:11:21Z</pubDate>
             <guid isPermaLink="false">https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/</guid>
             <link>https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[A 2024 plea for lean software]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=39315585 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=39315585 target=_blank>188 comments</a>]]></description>
             <pubDate>2024-02-09T15:15:24Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/lean-software-development</guid>
             <link>https://spectrum.ieee.org/lean-software-development</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Postgres as queue]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=39315833 target=_blank>89 comments</a>]]></description>
-            <pubDate>2024-02-09T15:37:33Z</pubDate>
-            <guid isPermaLink="false">https://leontrolski.github.io/postgres-as-queue.html</guid>
-            <link>https://leontrolski.github.io/postgres-as-queue.html</link>
-            
-            
-            
-            <author><![CDATA[leontrolski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Building the DirectX shader compiler better than Microsoft?]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=39324800 target=_blank>37 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=39324800 target=_blank>38 comments</a>]]></description>
             <pubDate>2024-02-10T09:22:33Z</pubDate>
             <guid isPermaLink="false">https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/</guid>
             <link>https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Postgres as queue]]></title>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=39315833 target=_blank>90 comments</a>]]></description>
+            <pubDate>2024-02-09T15:37:33Z</pubDate>
+            <guid isPermaLink="false">https://leontrolski.github.io/postgres-as-queue.html</guid>
+            <link>https://leontrolski.github.io/postgres-as-queue.html</link>
+            
+            
+            
+            <author><![CDATA[leontrolski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Scientists find optimal space-time balance for hash tables]]></title>
-            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=39315448 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=39315448 target=_blank>50 comments</a>]]></description>
             <pubDate>2024-02-09T15:01:38Z</pubDate>
             <guid isPermaLink="false">https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/</guid>
             <link>https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/</link>
