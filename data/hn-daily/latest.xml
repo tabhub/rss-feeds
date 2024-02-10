@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How I write HTTP services in Go after 13 years]]></title>
-            <description><![CDATA[646 points | <a href=https://news.ycombinator.com/item?id=39318867 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[646 points | <a href=https://news.ycombinator.com/item?id=39318867 target=_blank>173 comments</a>]]></description>
             <pubDate>2024-02-09T19:00:59Z</pubDate>
             <guid isPermaLink="false">https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/</guid>
             <link>https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Data Structures for Data-Intensive Applications [pdf]]]></title>
-            <description><![CDATA[450 points | <a href=https://news.ycombinator.com/item?id=39318774 target=_blank>23 comments</a>]]></description>
+            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=39318774 target=_blank>23 comments</a>]]></description>
             <pubDate>2024-02-09T18:53:56Z</pubDate>
             <guid isPermaLink="false">https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</guid>
             <link>https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Goody-2, the world's most responsible AI model]]></title>
-            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=39315986 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=39315986 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-02-09T15:48:29Z</pubDate>
             <guid isPermaLink="false">https://www.goody2.ai/chat</guid>
             <link>https://www.goody2.ai/chat</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[A 2024 plea for lean software]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=39315585 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=39315585 target=_blank>181 comments</a>]]></description>
             <pubDate>2024-02-09T15:15:24Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/lean-software-development</guid>
             <link>https://spectrum.ieee.org/lean-software-development</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Postgres as queue]]></title>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=39315833 target=_blank>83 comments</a>]]></description>
+            <pubDate>2024-02-09T15:37:33Z</pubDate>
+            <guid isPermaLink="false">https://leontrolski.github.io/postgres-as-queue.html</guid>
+            <link>https://leontrolski.github.io/postgres-as-queue.html</link>
+            
+            
+            
+            <author><![CDATA[leontrolski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[American VC Firms Investing Billions into PRC Companies Fueling the CCP Military]]></title>
             <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=39317372 target=_blank>140 comments</a>]]></description>
             <pubDate>2024-02-09T17:16:28Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[consumer451]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Tiny quadrotor learns to fly in 18 seconds]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=39315440 target=_blank>107 comments</a>]]></description>
-            <pubDate>2024-02-09T15:01:14Z</pubDate>
-            <guid isPermaLink="false">https://spectrum.ieee.org/drone-quadrotor</guid>
-            <link>https://spectrum.ieee.org/drone-quadrotor</link>
-            
-            
-            
-            <author><![CDATA[Brajeshwar]]></author>
             
                 
             
