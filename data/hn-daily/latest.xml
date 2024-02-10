@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Figure out who's leaving the company: dump, diff, repeat]]></title>
-            <description><![CDATA[604 points | <a href=https://news.ycombinator.com/item?id=39311507 target=_blank>367 comments</a>]]></description>
-            <pubDate>2024-02-09T04:46:02Z</pubDate>
-            <guid isPermaLink="false">https://rachelbythebay.com/w/2024/02/08/ldap/</guid>
-            <link>https://rachelbythebay.com/w/2024/02/08/ldap/</link>
-            
-            
-            
-            <author><![CDATA[l0b0]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[How I write HTTP services in Go after 13 years]]></title>
-            <description><![CDATA[516 points | <a href=https://news.ycombinator.com/item?id=39318867 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[521 points | <a href=https://news.ycombinator.com/item?id=39318867 target=_blank>140 comments</a>]]></description>
             <pubDate>2024-02-09T19:00:59Z</pubDate>
             <guid isPermaLink="false">https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/</guid>
             <link>https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Nine US states are teaming up to accelerate the adoption of heat pumps]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=39315545 target=_blank>592 comments</a>]]></description>
+            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=39315545 target=_blank>595 comments</a>]]></description>
             <pubDate>2024-02-09T15:11:21Z</pubDate>
             <guid isPermaLink="false">https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/</guid>
             <link>https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/</link>
@@ -91,6 +75,22 @@
             
             
             <author><![CDATA[LinuxBender]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Almost every infrastructure decision I endorse or regret]]></title>
+            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=39313623 target=_blank>186 comments</a>]]></description>
+            <pubDate>2024-02-09T11:05:39Z</pubDate>
+            <guid isPermaLink="false">https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</guid>
+            <link>https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</link>
+            
+            
+            
+            <author><![CDATA[slyall]]></author>
             
                 
             
@@ -107,22 +107,6 @@
             
             
             <author><![CDATA[RafelMri]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Almost every infrastructure decision I endorse or regret]]></title>
-            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=39313623 target=_blank>178 comments</a>]]></description>
-            <pubDate>2024-02-09T11:05:39Z</pubDate>
-            <guid isPermaLink="false">https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</guid>
-            <link>https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</link>
-            
-            
-            
-            <author><![CDATA[slyall]]></author>
             
                 
             
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Data Structures for Data-Intensive Applications [pdf]]]></title>
-            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=39318774 target=_blank>8 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=39318774 target=_blank>10 comments</a>]]></description>
             <pubDate>2024-02-09T18:53:56Z</pubDate>
             <guid isPermaLink="false">https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</guid>
             <link>https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[It was almost impossible to make the blue LED [video]]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=39313339 target=_blank>168 comments</a>]]></description>
+            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=39313339 target=_blank>168 comments</a>]]></description>
             <pubDate>2024-02-09T10:14:54Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=AF8d72mA41M</guid>
             <link>https://www.youtube.com/watch?v=AF8d72mA41M</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Russian troops use Starlink licensed and imported from Dubai]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=39313074 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=39313074 target=_blank>232 comments</a>]]></description>
             <pubDate>2024-02-09T09:27:39Z</pubDate>
             <guid isPermaLink="false">https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/</guid>
             <link>https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[belter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Just 137 crypto miners use 2.3% of total U.S. power]]></title>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=39316234 target=_blank>432 comments</a>]]></description>
+            <pubDate>2024-02-09T16:08:21Z</pubDate>
+            <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/cryptomining/just-137-crypto-miners-use-23-of-total-us-power-government-now-requiring-commercial-miners-to-report-energy-consumption</guid>
+            <link>https://www.tomshardware.com/tech-industry/cryptomining/just-137-crypto-miners-use-23-of-total-us-power-government-now-requiring-commercial-miners-to-report-energy-consumption</link>
+            
+            
+            
+            <author><![CDATA[CharlesW]]></author>
             
                 
             
