@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I designed a cube that balances itself on a corner]]></title>
-            <description><![CDATA[1332 points | <a href=https://news.ycombinator.com/item?id=39336139 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[1347 points | <a href=https://news.ycombinator.com/item?id=39336139 target=_blank>252 comments</a>]]></description>
             <pubDate>2024-02-11T16:36:58Z</pubDate>
             <guid isPermaLink="false">https://willempennings.nl/balancing-cube/</guid>
             <link>https://willempennings.nl/balancing-cube/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[What it was like working for Gitlab]]></title>
-            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=39333220 target=_blank>488 comments</a>]]></description>
+            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=39333220 target=_blank>491 comments</a>]]></description>
             <pubDate>2024-02-11T07:29:04Z</pubDate>
             <guid isPermaLink="false">https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/</guid>
             <link>https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: Multi-monitor KVM using just a USB switch]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=39333309 target=_blank>148 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=39333309 target=_blank>149 comments</a>]]></description>
             <pubDate>2024-02-11T07:56:46Z</pubDate>
             <guid isPermaLink="false">https://github.com/fiddyschmitt/SimpleKVM</guid>
             <link>https://github.com/fiddyschmitt/SimpleKVM</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Finding a new software developer job]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=39337696 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=39337696 target=_blank>186 comments</a>]]></description>
             <pubDate>2024-02-11T19:18:46Z</pubDate>
             <guid isPermaLink="false">https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/</guid>
             <link>https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Ask HN: What are the best articles on managing people?]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=39336840 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=39336840 target=_blank>127 comments</a>]]></description>
             <pubDate>2024-02-11T17:53:47Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=39336840</guid>
             <link>https://news.ycombinator.com/item?id=39336840</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Keycloak SSO with Docker Compose and Nginx]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=39333360 target=_blank>83 comments</a>]]></description>
-            <pubDate>2024-02-11T08:11:18Z</pubDate>
-            <guid isPermaLink="false">https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/</guid>
-            <link>https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/</link>
-            
-            
-            
-            <author><![CDATA[Helmut10001]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ｂｉｔｗｉｓｅ Ｌｉｍｉｎａｌ – A Short Film in 256 Bytes of Code]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=39339249 target=_blank>24 comments</a>]]></description>
+            <title><![CDATA[Show HN: Bitwise Liminal – A Short Film in 256 Bytes of Code]]></title>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=39339249 target=_blank>29 comments</a>]]></description>
             <pubDate>2024-02-11T22:09:48Z</pubDate>
             <guid isPermaLink="false">https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/</guid>
             <link>https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/</link>
@@ -123,6 +107,22 @@
             
             
             <author><![CDATA[KilledByAPixel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Keycloak SSO with Docker Compose and Nginx]]></title>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=39333360 target=_blank>86 comments</a>]]></description>
+            <pubDate>2024-02-11T08:11:18Z</pubDate>
+            <guid isPermaLink="false">https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/</guid>
+            <link>https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/</link>
+            
+            
+            
+            <author><![CDATA[Helmut10001]]></author>
             
                 
             
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[RLHF a LLM in <50 lines of Python]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=39335509 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=39335509 target=_blank>59 comments</a>]]></description>
             <pubDate>2024-02-11T15:12:37Z</pubDate>
             <guid isPermaLink="false">https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html</guid>
             <link>https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Popcorn Time 0.5.0]]></title>
-            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=39336239 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=39336239 target=_blank>109 comments</a>]]></description>
             <pubDate>2024-02-11T16:49:44Z</pubDate>
             <guid isPermaLink="false">https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.5.0</guid>
             <link>https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.5.0</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Javalin – a simple web framework for Java and Kotlin]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=39334672 target=_blank>72 comments</a>]]></description>
-            <pubDate>2024-02-11T12:55:39Z</pubDate>
-            <guid isPermaLink="false">https://javalin.io/</guid>
-            <link>https://javalin.io/</link>
-            
-            
-            
-            <author><![CDATA[saikatsg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[100% User-Supported]]></title>
-            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=39336308 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=39336308 target=_blank>48 comments</a>]]></description>
             <pubDate>2024-02-11T16:56:18Z</pubDate>
             <guid isPermaLink="false">https://stephango.com/vcware</guid>
             <link>https://stephango.com/vcware</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[surprisetalk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Javalin – a simple web framework for Java and Kotlin]]></title>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=39334672 target=_blank>72 comments</a>]]></description>
+            <pubDate>2024-02-11T12:55:39Z</pubDate>
+            <guid isPermaLink="false">https://javalin.io/</guid>
+            <link>https://javalin.io/</link>
+            
+            
+            
+            <author><![CDATA[saikatsg]]></author>
             
                 
             
