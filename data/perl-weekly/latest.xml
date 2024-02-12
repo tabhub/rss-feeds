@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #654]]></title>
+        <title><![CDATA[Perl Weekly #655]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[February 08, 2024 @ 6pm CT ~ Houston Perl Mongers Zoom Meeting]]></title>
-            <description><![CDATA[Let us all meet virtual and celebrate Perl with fellow hackers.]]></description>
-            <pubDate>2024.01.30</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/01/february-08-2024-6pm-ct-houston-perl-mongers-zoom-meeting.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2024/01/february-08-2024-6pm-ct-houston-perl-mongers-zoom-meeting.html</link>
+            <title><![CDATA[Vulnerable Perl Spreadsheet Parsing modules]]></title>
+            <description><![CDATA[Between Dec 2023 and Jan 2024, vulnerabilities in Spreadsheet::ParseExcel and Spreadsheet::ParseXLSX were reported to the CPAN Security Group (CPANSec).  This document describes the timeline and analysis of events.]]></description>
+            <pubDate>2024.02.10</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/timothy_legge/2024/02/vulnerable-perl-spreadsheet-parsing-modules.html</guid>
+            <link>https://blogs.perl.org/users/timothy_legge/2024/02/vulnerable-perl-spreadsheet-parsing-modules.html</link>
             
             
             
-            <author><![CDATA[brett_estrade]]></author>
+            <author><![CDATA[timothy_legge]]></author>
             
                 
             
@@ -34,11 +34,59 @@
         </item>
         
         <item>
-            <title><![CDATA[This Week in PSC (134)]]></title>
-            <description><![CDATA[Another weekly update from the Perl Steering Council. Thank you PSC for all the hard work.]]></description>
-            <pubDate>2024.02.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/02/this-week-in-psc-134.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/02/this-week-in-psc-134.html</link>
+            <title><![CDATA[Preload Data::Printer and avoid polluting your code with debug symbols ]]></title>
+            <description><![CDATA[How to avoid 'use Data::Printer' and still use Data::Printer?]]></description>
+            <pubDate>2024.02.08</pubDate>
+            <guid isPermaLink="false">https://dev.to/smonff/preload-dataprinter-and-avoid-polluting-your-code-with-debug-symbols-4h5a</guid>
+            <link>https://dev.to/smonff/preload-dataprinter-and-avoid-polluting-your-code-with-debug-symbols-4h5a</link>
+            
+            
+            
+            <author><![CDATA[sebastien_feugere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What's new on CPAN - November 2023]]></title>
+            <description><![CDATA[What's new on CPAN - November 2023]]></description>
+            <pubDate>2023.12.20</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/what-s-new-on-cpan-november-2023/</guid>
+            <link>https://www.perl.com/article/what-s-new-on-cpan-november-2023/</link>
+            
+            
+            
+            <author><![CDATA[mathew_korica]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What's new on CPAN - December 2023]]></title>
+            <description><![CDATA[What's new on CPAN - December 2023]]></description>
+            <pubDate>2024.01.09</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/what-s-new-on-cpan-december-2023/</guid>
+            <link>https://www.perl.com/article/what-s-new-on-cpan-december-2023/</link>
+            
+            
+            
+            <author><![CDATA[mathew_korica]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Module that returns the magic of the file]]></title>
+            <description><![CDATA[Module that returns the magic of the file]]></description>
+            <pubDate>2024.02.06</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1ak7etg/module_that_returns_the_magic_of_the_file/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1ak7etg/module_that_returns_the_magic_of_the_file/</link>
             
             
             
@@ -50,15 +98,47 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.05 Brain NRG]]></title>
-            <description><![CDATA[2024.05 Brain NRG]]></description>
-            <pubDate>2024.01.29</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/01/29/2024-05-brain-nrg/</guid>
-            <link>https://rakudoweekly.blog/2024/01/29/2024-05-brain-nrg/</link>
+            <title><![CDATA[Demand Data::Printer to dump politely if it doesn't want to]]></title>
+            <description><![CDATA[Demand Data::Printer to dump politely if it doesn't want to]]></description>
+            <pubDate>2024.02.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/smonff/demand-dataprinter-to-dump-politely-if-it-doesnt-want-to-5hdh</guid>
+            <link>https://dev.to/smonff/demand-dataprinter-to-dump-politely-if-it-doesnt-want-to-5hdh</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[sebastien_feugere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Using peppers with Crypt::Passphrase]]></title>
+            <description><![CDATA[Crypt::Passphrase is a module for managing passwords. It allows you to separate policy and mechanism, meaning that the code that polices authorization doesn’t have to know anything about what algorithms are used behind the screen, and vice-versa; thus making for a cryptographically agile system.]]></description>
+            <pubDate>2024.02.11</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/leon_timmermans/2024/02/using-peppers-with-cryptpassphrase.html</guid>
+            <link>https://blogs.perl.org/users/leon_timmermans/2024/02/using-peppers-with-cryptpassphrase.html</link>
+            
+            
+            
+            <author><![CDATA[leon_timmermans]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Feature release 1.36 of the Date::Holidays Perl distribution]]></title>
+            <description><![CDATA[Triggered by yet another contribution from Wesley Schwengle (waterkip) Jonas announces the release 1.36 of the Date::Holidays Perl distribution.]]></description>
+            <pubDate>2024.02.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/feature-release-136-of-the-dateholidays-perl-distribution-79a</guid>
+            <link>https://dev.to/jonasbn/feature-release-136-of-the-dateholidays-perl-distribution-79a</link>
+            
+            
+            
+            <author><![CDATA[jonas_nielsen]]></author>
             
                 
             
@@ -67,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/02/cdlxxxi-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/02/dlxxx-metacpan-weekly-report-cpanaudit.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2024.02.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/02/cdlxxxii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.02.10</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
