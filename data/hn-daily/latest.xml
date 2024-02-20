@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Big media publishers are inundating the web with subpar product recommendations]]></title>
-            <description><![CDATA[646 points | <a href=https://news.ycombinator.com/item?id=39433451 target=_blank>325 comments</a>]]></description>
+            <description><![CDATA[647 points | <a href=https://news.ycombinator.com/item?id=39433451 target=_blank>326 comments</a>]]></description>
             <pubDate>2024-02-19T19:09:19Z</pubDate>
             <guid isPermaLink="false">https://housefresh.com/david-vs-digital-goliaths/</guid>
             <link>https://housefresh.com/david-vs-digital-goliaths/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[In Defense of Simple Architectures (2022)]]></title>
-            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=39440179 target=_blank>318 comments</a>]]></description>
+            <description><![CDATA[434 points | <a href=https://news.ycombinator.com/item?id=39440179 target=_blank>321 comments</a>]]></description>
             <pubDate>2024-02-20T11:50:34Z</pubDate>
             <guid isPermaLink="false">https://danluu.com/simple-architectures/</guid>
             <link>https://danluu.com/simple-architectures/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[I broke IKEA (2023)]]></title>
-            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=39436358 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=39436358 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-02-19T23:59:42Z</pubDate>
             <guid isPermaLink="false">https://cohost.org/sirocyl/post/2891449-i-broke-ikea</guid>
             <link>https://cohost.org/sirocyl/post/2891449-i-broke-ikea</link>
@@ -82,40 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[WebKit switching to Skia for 2d graphics rendering]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=39438908 target=_blank>138 comments</a>]]></description>
-            <pubDate>2024-02-20T07:46:45Z</pubDate>
-            <guid isPermaLink="false">https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/</guid>
-            <link>https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/</link>
-            
-            
-            
-            <author><![CDATA[jessevdk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Microsoft Is Spying on Users of Its AI Tools]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=39442429 target=_blank>109 comments</a>]]></description>
-            <pubDate>2024-02-20T15:28:22Z</pubDate>
-            <guid isPermaLink="false">https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html</guid>
-            <link>https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html</link>
-            
-            
-            
-            <author><![CDATA[mikece]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Signal: Keep your phone number private with Signal usernames]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=39444500 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=39444500 target=_blank>171 comments</a>]]></description>
             <pubDate>2024-02-20T18:01:05Z</pubDate>
             <guid isPermaLink="false">https://signal.org/blog/phone-number-privacy-usernames/</guid>
             <link>https://signal.org/blog/phone-number-privacy-usernames/</link>
@@ -130,8 +98,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Microsoft Is Spying on Users of Its AI Tools]]></title>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=39442429 target=_blank>113 comments</a>]]></description>
+            <pubDate>2024-02-20T15:28:22Z</pubDate>
+            <guid isPermaLink="false">https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html</guid>
+            <link>https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html</link>
+            
+            
+            
+            <author><![CDATA[mikece]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WebKit switching to Skia for 2d graphics rendering]]></title>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=39438908 target=_blank>140 comments</a>]]></description>
+            <pubDate>2024-02-20T07:46:45Z</pubDate>
+            <guid isPermaLink="false">https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/</guid>
+            <link>https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/</link>
+            
+            
+            
+            <author><![CDATA[jessevdk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Web Scraping in Python – The Complete Guide]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=39442273 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=39442273 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-02-20T15:16:47Z</pubDate>
             <guid isPermaLink="false">https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide</guid>
             <link>https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=39439655 target=_blank>27 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=39439655 target=_blank>28 comments</a>]]></description>
             <pubDate>2024-02-20T10:28:01Z</pubDate>
             <guid isPermaLink="false">https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/</guid>
             <link>https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Hetzner GPU Server]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=39440503 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=39440503 target=_blank>116 comments</a>]]></description>
             <pubDate>2024-02-20T12:39:16Z</pubDate>
             <guid isPermaLink="false">https://robot.hetzner.com/order/index/culture/en_GB</guid>
             <link>https://robot.hetzner.com/order/index/culture/en_GB</link>
