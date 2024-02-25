@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: Reverse-Engineering a Switch Lite with 1,917 wires]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=39501073 target=_blank>64 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=39501073 target=_blank>66 comments</a>]]></description>
             <pubDate>2024-02-25T14:27:54Z</pubDate>
             <guid isPermaLink="false">https://usoldering.com/switch-lite/</guid>
             <link>https://usoldering.com/switch-lite/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Hallucination is inevitable: An innate limitation of large language models]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=39499207 target=_blank>371 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=39499207 target=_blank>373 comments</a>]]></description>
             <pubDate>2024-02-25T09:28:39Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2401.11817</guid>
             <link>https://arxiv.org/abs/2401.11817</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Earth just experienced its hottest 12 months in recorded history]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=39498345 target=_blank>349 comments</a>]]></description>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=39498345 target=_blank>350 comments</a>]]></description>
             <pubDate>2024-02-25T07:01:38Z</pubDate>
             <guid isPermaLink="false">https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history</guid>
             <link>https://www.theweathernetwork.com/en/news/climate/impacts/january-2024-hottest-on-record-tops-warmest-12-month-period-in-history</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Marginalia: 3 Years]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=39501061 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=39501061 target=_blank>39 comments</a>]]></description>
             <pubDate>2024-02-25T14:25:34Z</pubDate>
             <guid isPermaLink="false">https://www.marginalia.nu/log/a_101_marginalia-3-years/</guid>
             <link>https://www.marginalia.nu/log/a_101_marginalia-3-years/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Selfish reasons to want more humans]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=39497686 target=_blank>400 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=39497686 target=_blank>401 comments</a>]]></description>
             <pubDate>2024-02-25T04:34:37Z</pubDate>
             <guid isPermaLink="false">https://rootsofprogress.org/why-a-larger-population</guid>
             <link>https://rootsofprogress.org/why-a-larger-population</link>
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Osquery: An sqlite3 virtual table exposing operating system data to SQL]]></title>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=39501281 target=_blank>49 comments</a>]]></description>
+            <pubDate>2024-02-25T14:58:51Z</pubDate>
+            <guid isPermaLink="false">https://osquery.io/</guid>
+            <link>https://osquery.io/</link>
+            
+            
+            
+            <author><![CDATA[signa11]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Bought a Prison Laptop on eBay]]></title>
             <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=39498047 target=_blank>39 comments</a>]]></description>
             <pubDate>2024-02-25T05:50:57Z</pubDate>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Coroutines in C (2000)]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=39502276 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=39502276 target=_blank>56 comments</a>]]></description>
             <pubDate>2024-02-25T16:45:03Z</pubDate>
             <guid isPermaLink="false">https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html</guid>
             <link>https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[ColinWright]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Osquery: An sqlite3 virtual table exposing operating system data to SQL]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=39501281 target=_blank>47 comments</a>]]></description>
-            <pubDate>2024-02-25T14:58:51Z</pubDate>
-            <guid isPermaLink="false">https://osquery.io/</guid>
-            <link>https://osquery.io/</link>
-            
-            
-            
-            <author><![CDATA[signa11]]></author>
             
                 
             
