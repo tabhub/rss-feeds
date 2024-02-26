@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #656]]></title>
+        <title><![CDATA[Perl Weekly #657]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,59 +18,75 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[TPRC 2024 Call For Papers is now open!]]></title>
-            <description><![CDATA[Time to make first move and submit your ideas for talk. First timers are also welcome.]]></description>
-            <pubDate>2024.02.16</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/02/repost-tprc-2024-call-for-papers-is-now-open.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2024/02/repost-tprc-2024-call-for-papers-is-now-open.html</link>
-            
-            
-            
-            <author><![CDATA[oodler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CPAN Security Group]]></title>
-            <description><![CDATA[Welcome to the CPAN Security Group. This is a community effort for supporting and responding to security incidents on CPAN.]]></description>
-            <pubDate>2024.02.16</pubDate>
-            <guid isPermaLink="false">https://security.metacpan.org/</guid>
-            <link>https://security.metacpan.org/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PSC #136 2024-02-15]]></title>
-            <description><![CDATA[Another weekly update from the Perl Steering Council. Thank you PSC for all the hard work.]]></description>
-            <pubDate>2024.02.17</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/02/psc-136-2024-02-15.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/02/psc-136-2024-02-15.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Steering Council Meetings]]></title>
-            <description><![CDATA[As you get weekly PSC updates here but what if you want historical updates. This website presents this in user friendly layout.]]></description>
+            <title><![CDATA[Announcing the Perl Toolchain Summit in 2024!]]></title>
+            <description><![CDATA[Announcing the Perl Toolchain Summit in 2024!]]></description>
             <pubDate>2024.02.10</pubDate>
-            <guid isPermaLink="false">https://psc.perlhacks.com/</guid>
-            <link>https://psc.perlhacks.com/</link>
+            <guid isPermaLink="false">https://blogs.perl.org/users/book/2024/02/announcing-the-perl-toolchain-summit-in-2024.html</guid>
+            <link>https://blogs.perl.org/users/book/2024/02/announcing-the-perl-toolchain-summit-in-2024.html</link>
+            
+            
+            
+            <author><![CDATA[philippe_bruhat]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[perl 5.39.8 released]]></title>
+            <description><![CDATA[perl 5.39.8 released]]></description>
+            <pubDate>2024.02.24</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/release/RENEEB/perl-5.39.8/view/pod/perldelta.pod</guid>
+            <link>https://metacpan.org/release/RENEEB/perl-5.39.8/view/pod/perldelta.pod</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Nominate heroes for the 2024 White Camel Awards ]]></title>
+            <description><![CDATA[Nominate heroes for the 2024 White Camel Awards ]]></description>
+            <pubDate>2024.02.21</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/white-camel-2024-nominations</guid>
+            <link>https://news.perlfoundation.org/post/white-camel-2024-nominations</link>
+            
+            
+            
+            <author><![CDATA[makoto_nozaki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Convert Markdown to HTML]]></title>
+            <description><![CDATA[A small example by yours truly.]]></description>
+            <pubDate>2024.02</pubDate>
+            <guid isPermaLink="false">https://perlmaven.com/convert-markdown-to-html</guid>
+            <link>https://perlmaven.com/convert-markdown-to-html</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The present isn't evenly distributed either]]></title>
+            <description><![CDATA[Personally I think that removing CGI.pm from the standard Perl wasn't a good idea. IT went against the philosophy of backward compability without providing an alternative in the core. On the other hand having (yet another) place that tries to promote newer web-technologies is a good idea.]]></description>
+            <pubDate>2024.02.24</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2024/02/the-present-isnt-evenly-distributed-either/</guid>
+            <link>https://perlhacks.com/2024/02/the-present-isnt-evenly-distributed-either/</link>
             
             
             
@@ -82,31 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Will You Lose Your Job to AI?]]></title>
-            <description><![CDATA[Not specific to Perl but worth every second of yours. The topic is something you do not want to miss.]]></description>
-            <pubDate>2024.02.18</pubDate>
-            <guid isPermaLink="false">https://ovid.github.io/articles/will-you-lose-your-job-to-ai.html</guid>
-            <link>https://ovid.github.io/articles/will-you-lose-your-job-to-ai.html</link>
+            <title><![CDATA[What makes YAPC::Japan unique]]></title>
+            <description><![CDATA[Worth a read for anyone who wants to organize Perl-related events.]]></description>
+            <pubDate>2024.02.21</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/makoto_nozaki/2024/02/what-makes-yapcjapan-unique.html</guid>
+            <link>https://blogs.perl.org/users/makoto_nozaki/2024/02/what-makes-yapcjapan-unique.html</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Codeforces Command Lines]]></title>
-            <description><![CDATA[For all Perl fans, if you are into competitive programming then you should give this a try.]]></description>
-            <pubDate>2024.02.18</pubDate>
-            <guid isPermaLink="false">https://codeforces.com/blog/entry/121114</guid>
-            <link>https://codeforces.com/blog/entry/121114</link>
-            
-            
-            
-            <author><![CDATA[vladosiya]]></author>
+            <author><![CDATA[makoto_nozaki]]></author>
             
                 
             
@@ -114,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.07 Dr Raku]]></title>
-            <description><![CDATA[2024.07 Dr Raku]]></description>
-            <pubDate>2024.02.12</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/02/12/2024-07-dr-raku/</guid>
-            <link>https://rakudoweekly.blog/2024/02/12/2024-07-dr-raku/</link>
+            <title><![CDATA[How to use zlib (a C library) from Perl with SPVM]]></title>
+            <description><![CDATA[How to use zlib (a C library) from Perl with SPVM]]></description>
+            <pubDate>2024.02.22</pubDate>
+            <guid isPermaLink="false">https://dev.to/yukikimoto/how-to-use-zlib-a-c-library-from-perl-with-spvm-4dko</guid>
+            <link>https://dev.to/yukikimoto/how-to-use-zlib-a-c-library-from-perl-with-spvm-4dko</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[yuki_kimoto]]></author>
             
                 
             
@@ -131,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/02/cdlxxxiii-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/02/dlxxxi-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/02/dciv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.02.18</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/02/cdlxxxiv-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
+            <pubDate>2024.02.25</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
