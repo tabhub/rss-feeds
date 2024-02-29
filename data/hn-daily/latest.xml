@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Pql, a pipelined query language that compiles to SQL]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=39539252 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=39539252 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-02-28T15:33:56Z</pubDate>
             <guid isPermaLink="false">https://pql.dev/</guid>
             <link>https://pql.dev/</link>
@@ -139,22 +139,6 @@
             
             
             <author><![CDATA[ejcx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Pingora: build fast, reliable and programmable networked systems]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=39535969 target=_blank>39 comments</a>]]></description>
-            <pubDate>2024-02-28T09:56:16Z</pubDate>
-            <guid isPermaLink="false">https://github.com/cloudflare/pingora</guid>
-            <link>https://github.com/cloudflare/pingora</link>
-            
-            
-            
-            <author><![CDATA[KajMagnus]]></author>
             
                 
             
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Intel puts 1nm process (10A) on the roadmap for 2027]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=39538526 target=_blank>223 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=39538526 target=_blank>224 comments</a>]]></description>
             <pubDate>2024-02-28T14:40:23Z</pubDate>
             <guid isPermaLink="false">https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots</guid>
             <link>https://www.tomshardware.com/pc-components/cpus/intel-puts-1nm-process-10a-on-the-roadmap-for-2027-aiming-for-fully-ai-automated-factories-with-cobots</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Man in remission from blood cancer and HIV after remarkable treatment]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39539865 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=39539865 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-02-28T16:12:01Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment</guid>
             <link>https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[Teever]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rewrite the VP9 codec library in Rust]]></title>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=39537735 target=_blank>82 comments</a>]]></description>
+            <pubDate>2024-02-28T13:39:37Z</pubDate>
+            <guid isPermaLink="false">https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/</guid>
+            <link>https://lore.kernel.org/lkml/20240227215146.46487-1-daniel.almeida@collabora.com/</link>
+            
+            
+            
+            <author><![CDATA[marcodiego]]></author>
             
                 
             
