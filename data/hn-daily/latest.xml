@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[ShotSpotter: listening in on the neighborhood]]></title>
-            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=39576974 target=_blank>385 comments</a>]]></description>
+            <description><![CDATA[480 points | <a href=https://news.ycombinator.com/item?id=39576974 target=_blank>385 comments</a>]]></description>
             <pubDate>2024-03-02T23:56:02Z</pubDate>
             <guid isPermaLink="false">https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html</guid>
             <link>https://computer.rip/2024-03-01-listening-in-on-the-neighborhood.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions]]></title>
-            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=39578501 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=39578501 target=_blank>175 comments</a>]]></description>
             <pubDate>2024-03-03T04:52:24Z</pubDate>
             <guid isPermaLink="false">https://benhoyt.com/writings/go-1brc/</guid>
             <link>https://benhoyt.com/writings/go-1brc/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[I'll refrain from providing code that involve concepts as you're under 18]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=39583473 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=39583473 target=_blank>119 comments</a>]]></description>
             <pubDate>2024-03-03T19:15:51Z</pubDate>
             <guid isPermaLink="false">https://gemini.google.com/share/238032386438?hl=en</guid>
             <link>https://gemini.google.com/share/238032386438?hl=en</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The hater's guide to Kubernetes]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=39581976 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=39581976 target=_blank>231 comments</a>]]></description>
             <pubDate>2024-03-03T16:44:05Z</pubDate>
             <guid isPermaLink="false">https://paulbutler.org/2024/the-haters-guide-to-kubernetes/</guid>
             <link>https://paulbutler.org/2024/the-haters-guide-to-kubernetes/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Bug in reader/writer locks in Windows API]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=39581664 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=39581664 target=_blank>83 comments</a>]]></description>
             <pubDate>2024-03-03T15:59:43Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/</guid>
             <link>https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Supermium – Chromium fork for Win 2003/XP and newer]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39580439 target=_blank>163 comments</a>]]></description>
-            <pubDate>2024-03-03T12:34:31Z</pubDate>
-            <guid isPermaLink="false">https://win32subsystem.live/supermium/</guid>
-            <link>https://win32subsystem.live/supermium/</link>
-            
-            
-            
-            <author><![CDATA[Tiberium]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[An Unbelievable Demo (2021)]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=39579833 target=_blank>15 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=39579833 target=_blank>16 comments</a>]]></description>
             <pubDate>2024-03-03T10:07:47Z</pubDate>
             <guid isPermaLink="false">https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html</guid>
             <link>https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Supermium – Chromium fork for Win 2003/XP and newer]]></title>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39580439 target=_blank>164 comments</a>]]></description>
+            <pubDate>2024-03-03T12:34:31Z</pubDate>
+            <guid isPermaLink="false">https://win32subsystem.live/supermium/</guid>
+            <link>https://win32subsystem.live/supermium/</link>
+            
+            
+            
+            <author><![CDATA[Tiberium]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[US prescription market hamstrung for 9 days (so far) by ransomware attack]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=39578248 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=39578248 target=_blank>172 comments</a>]]></description>
             <pubDate>2024-03-03T03:44:40Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/</guid>
             <link>https://arstechnica.com/security/2024/03/us-prescription-market-hamstrung-for-9-days-so-far-by-ransomware-attack/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=39578416 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=39578416 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-03-03T04:27:01Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/elonmusk/status/1764032892663906313</guid>
             <link>https://twitter.com/elonmusk/status/1764032892663906313</link>
