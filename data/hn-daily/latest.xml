@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ente: Open-Source, E2E Encrypted, Google Photos Alternative]]></title>
-            <description><![CDATA[683 points | <a href=https://news.ycombinator.com/item?id=39570692 target=_blank>238 comments</a>]]></description>
+            <description><![CDATA[694 points | <a href=https://news.ycombinator.com/item?id=39570692 target=_blank>239 comments</a>]]></description>
             <pubDate>2024-03-02T07:31:09Z</pubDate>
             <guid isPermaLink="false">https://ente.io/</guid>
             <link>https://ente.io/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Bash Debugging]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=39568728 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=39568728 target=_blank>72 comments</a>]]></description>
             <pubDate>2024-03-02T00:48:51Z</pubDate>
             <guid isPermaLink="false">https://wizardzines.com/comics/bash-debugging/</guid>
             <link>https://wizardzines.com/comics/bash-debugging/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Weather.gov 2.0]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=39571308 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=39571308 target=_blank>91 comments</a>]]></description>
             <pubDate>2024-03-02T09:30:29Z</pubDate>
             <guid isPermaLink="false">https://github.com/weather-gov/weather.gov</guid>
             <link>https://github.com/weather-gov/weather.gov</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Price fixing by algorithm is still price fixing]]></title>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=39575803 target=_blank>166 comments</a>]]></description>
+            <pubDate>2024-03-02T21:10:35Z</pubDate>
+            <guid isPermaLink="false">https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing</guid>
+            <link>https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing</link>
+            
+            
+            
+            <author><![CDATA[nabla9]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Wintergatan Marble Machine (2016)]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=39573093 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=39573093 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-03-02T15:20:27Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=IvUU8joBb1Q</guid>
             <link>https://www.youtube.com/watch?v=IvUU8joBb1Q</link>
@@ -83,7 +99,7 @@
         
         <item>
             <title><![CDATA[Don't Use Discord for FOSS (2021)]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=39569843 target=_blank>198 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=39569843 target=_blank>199 comments</a>]]></description>
             <pubDate>2024-03-02T04:36:37Z</pubDate>
             <guid isPermaLink="false">https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html</guid>
             <link>https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html</link>
@@ -98,40 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[K8s Service Meshes: The Bill Comes Due]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=39569671 target=_blank>216 comments</a>]]></description>
-            <pubDate>2024-03-02T03:57:54Z</pubDate>
-            <guid isPermaLink="false">https://matduggan.com/k8s-service-meshes/</guid>
-            <link>https://matduggan.com/k8s-service-meshes/</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Price fixing by algorithm is still price fixing]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=39575803 target=_blank>117 comments</a>]]></description>
-            <pubDate>2024-03-02T21:10:35Z</pubDate>
-            <guid isPermaLink="false">https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing</guid>
-            <link>https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing</link>
-            
-            
-            
-            <author><![CDATA[nabla9]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Writing a Minecraft server from scratch in Bash (2022)]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=39572858 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=39572858 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-03-02T14:42:43Z</pubDate>
             <guid isPermaLink="false">https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/</guid>
             <link>https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[K8s Service Meshes: The Bill Comes Due]]></title>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=39569671 target=_blank>221 comments</a>]]></description>
+            <pubDate>2024-03-02T03:57:54Z</pubDate>
+            <guid isPermaLink="false">https://matduggan.com/k8s-service-meshes/</guid>
+            <link>https://matduggan.com/k8s-service-meshes/</link>
+            
+            
+            
+            <author><![CDATA[zdw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Mathematicians prove Pólya's conjecture for the eigenvalues of a disk]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=39572106 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=39572106 target=_blank>43 comments</a>]]></description>
             <pubDate>2024-03-02T12:27:22Z</pubDate>
             <guid isPermaLink="false">https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html</guid>
             <link>https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[R: Introduction to Data Science (2019)]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=39571439 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=39571439 target=_blank>112 comments</a>]]></description>
             <pubDate>2024-03-02T10:03:01Z</pubDate>
             <guid isPermaLink="false">http://rafalab.dfci.harvard.edu/dsbook-part-1/</guid>
             <link>http://rafalab.dfci.harvard.edu/dsbook-part-1/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Google lays off entire team while they are testifying to the city council]]></title>
-            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=39570657 target=_blank>58 comments</a>]]></description>
-            <pubDate>2024-03-02T07:25:29Z</pubDate>
-            <guid isPermaLink="false">https://mas.to/@yogthos/112020432735682211</guid>
-            <link>https://mas.to/@yogthos/112020432735682211</link>
+            <title><![CDATA[Konilo: A personal computing system in Forth]]></title>
+            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=39570343 target=_blank>29 comments</a>]]></description>
+            <pubDate>2024-03-02T06:25:29Z</pubDate>
+            <guid isPermaLink="false">http://konilo.org/</guid>
+            <link>http://konilo.org/</link>
             
             
             
-            <author><![CDATA[krig]]></author>
+            <author><![CDATA[marttt]]></author>
             
                 
             
