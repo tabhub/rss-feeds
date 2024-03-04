@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=39578501 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=39578501 target=_blank>180 comments</a>]]></description>
             <pubDate>2024-03-03T04:52:24Z</pubDate>
             <guid isPermaLink="false">https://benhoyt.com/writings/go-1brc/</guid>
             <link>https://benhoyt.com/writings/go-1brc/</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[CS 6120: Advanced Compilers: The Self-Guided Online Course]]></title>
-            <description><![CDATA[416 points | <a href=https://news.ycombinator.com/item?id=39577878 target=_blank>85 comments</a>]]></description>
-            <pubDate>2024-03-03T02:25:28Z</pubDate>
-            <guid isPermaLink="false">https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/</guid>
-            <link>https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/</link>
-            
-            
-            
-            <author><![CDATA[swatson741]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Bug in reader/writer locks in Windows API]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=39581664 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=39581664 target=_blank>111 comments</a>]]></description>
             <pubDate>2024-03-03T15:59:43Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/</guid>
             <link>https://old.reddit.com/r/cpp/comments/1b55686/maybe_possible_bug_in_stdshared_mutex_on_windows/</link>
@@ -66,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I'll refrain from providing code that involve concepts as you're under 18]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=39583473 target=_blank>128 comments</a>]]></description>
-            <pubDate>2024-03-03T19:15:51Z</pubDate>
-            <guid isPermaLink="false">https://gemini.google.com/share/238032386438?hl=en</guid>
-            <link>https://gemini.google.com/share/238032386438?hl=en</link>
-            
-            
-            
-            <author><![CDATA[wut42]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The hater's guide to Kubernetes]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=39581976 target=_blank>241 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=39581976 target=_blank>241 comments</a>]]></description>
             <pubDate>2024-03-03T16:44:05Z</pubDate>
             <guid isPermaLink="false">https://paulbutler.org/2024/the-haters-guide-to-kubernetes/</guid>
             <link>https://paulbutler.org/2024/the-haters-guide-to-kubernetes/</link>
@@ -91,6 +59,22 @@
             
             
             <author><![CDATA[paulgb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[I'll refrain from providing code that involve concepts as you're under 18]]></title>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=39583473 target=_blank>130 comments</a>]]></description>
+            <pubDate>2024-03-03T19:15:51Z</pubDate>
+            <guid isPermaLink="false">https://gemini.google.com/share/238032386438?hl=en</guid>
+            <link>https://gemini.google.com/share/238032386438?hl=en</link>
+            
+            
+            
+            <author><![CDATA[wut42]]></author>
             
                 
             
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Enough with the dead butterflies (2017)]]></title>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=39585207 target=_blank>60 comments</a>]]></description>
+            <pubDate>2024-03-03T22:40:13Z</pubDate>
+            <guid isPermaLink="false">https://www.emilydamstra.com/please-enough-dead-butterflies/</guid>
+            <link>https://www.emilydamstra.com/please-enough-dead-butterflies/</link>
+            
+            
+            
+            <author><![CDATA[punnerud]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Supermium – Chromium fork for Win 2003/XP and newer]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=39580439 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=39580439 target=_blank>166 comments</a>]]></description>
             <pubDate>2024-03-03T12:34:31Z</pubDate>
             <guid isPermaLink="false">https://win32subsystem.live/supermium/</guid>
             <link>https://win32subsystem.live/supermium/</link>
@@ -130,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Enough with the dead butterflies (2017)]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39585207 target=_blank>57 comments</a>]]></description>
-            <pubDate>2024-03-03T22:40:13Z</pubDate>
-            <guid isPermaLink="false">https://www.emilydamstra.com/please-enough-dead-butterflies/</guid>
-            <link>https://www.emilydamstra.com/please-enough-dead-butterflies/</link>
+            <title><![CDATA[CSS for printing to paper]]></title>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=39584654 target=_blank>57 comments</a>]]></description>
+            <pubDate>2024-03-03T21:22:23Z</pubDate>
+            <guid isPermaLink="false">https://voussoir.net/writing/css_for_printing</guid>
+            <link>https://voussoir.net/writing/css_for_printing</link>
             
             
             
-            <author><![CDATA[punnerud]]></author>
+            <author><![CDATA[Tomte]]></author>
             
                 
             
@@ -162,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[CSS for printing to paper]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=39584654 target=_blank>54 comments</a>]]></description>
-            <pubDate>2024-03-03T21:22:23Z</pubDate>
-            <guid isPermaLink="false">https://voussoir.net/writing/css_for_printing</guid>
-            <link>https://voussoir.net/writing/css_for_printing</link>
-            
-            
-            
-            <author><![CDATA[Tomte]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[SpaceX just achieved speed of 17Mb/s from satellite to stock Android phone]]></title>
             <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=39578416 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-03-03T04:27:01Z</pubDate>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Interesting ideas in Observable Framework]]></title>
+            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=39582745 target=_blank>31 comments</a>]]></description>
+            <pubDate>2024-03-03T18:01:13Z</pubDate>
+            <guid isPermaLink="false">https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/</guid>
+            <link>https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/</link>
+            
+            
+            
+            <author><![CDATA[simonw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Joplin is an open source note-taking app]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=39581855 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=39581855 target=_blank>87 comments</a>]]></description>
             <pubDate>2024-03-03T16:23:34Z</pubDate>
             <guid isPermaLink="false">https://joplinapp.org/</guid>
             <link>https://joplinapp.org/</link>
