@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[OpenAI and Elon Musk]]></title>
-            <description><![CDATA[957 points | <a href=https://news.ycombinator.com/item?id=39611484 target=_blank>811 comments</a>]]></description>
+            <description><![CDATA[957 points | <a href=https://news.ycombinator.com/item?id=39611484 target=_blank>814 comments</a>]]></description>
             <pubDate>2024-03-06T02:19:01Z</pubDate>
             <guid isPermaLink="false">https://openai.com/blog/openai-elon-musk</guid>
             <link>https://openai.com/blog/openai-elon-musk</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Leaving LinkedIn]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=39612443 target=_blank>261 comments</a>]]></description>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=39612443 target=_blank>265 comments</a>]]></description>
             <pubDate>2024-03-06T04:49:38Z</pubDate>
             <guid isPermaLink="false">https://corecursive.com/leaving-linkedin-with-chris-krycho/</guid>
             <link>https://corecursive.com/leaving-linkedin-with-chris-krycho/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Dada, an experimental new programming language]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=39614433 target=_blank>318 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=39614433 target=_blank>321 comments</a>]]></description>
             <pubDate>2024-03-06T10:31:02Z</pubDate>
             <guid isPermaLink="false">https://dada-lang.org/</guid>
             <link>https://dada-lang.org/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=39607747 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=39607747 target=_blank>249 comments</a>]]></description>
             <pubDate>2024-03-05T18:57:03Z</pubDate>
             <guid isPermaLink="false">https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll</guid>
             <link>https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Pg_vectorize: Vector search and RAG on Postgres]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=39613669 target=_blank>95 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=39613669 target=_blank>98 comments</a>]]></description>
             <pubDate>2024-03-06T08:34:16Z</pubDate>
             <guid isPermaLink="false">https://github.com/tembo-io/pg_vectorize</guid>
             <link>https://github.com/tembo-io/pg_vectorize</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Apple terminates Epic Games developer account, calling it a 'threat' to iOS]]></title>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=39618673 target=_blank>250 comments</a>]]></description>
+            <pubDate>2024-03-06T17:53:35Z</pubDate>
+            <guid isPermaLink="false">https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/</guid>
+            <link>https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/</link>
+            
+            
+            
+            <author><![CDATA[madtrax]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[YaCy, a distributed Web Search Engine, based on a peer-to-peer network]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=39612950 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=39612950 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-03-06T06:33:04Z</pubDate>
             <guid isPermaLink="false">https://yacy.net/</guid>
             <link>https://yacy.net/</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[Free data transfer out to internet when moving out of AWS]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=39612607 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=39612607 target=_blank>102 comments</a>]]></description>
             <pubDate>2024-03-06T05:22:35Z</pubDate>
             <guid isPermaLink="false">https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/</guid>
             <link>https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[jbegley]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ace of Aces: Why you should do maths as a game designer]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39609528 target=_blank>41 comments</a>]]></description>
-            <pubDate>2024-03-05T21:45:53Z</pubDate>
-            <guid isPermaLink="false">https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/</guid>
-            <link>https://paxsims.wordpress.com/2024/03/02/ace-of-aces-or-why-you-should-do-maths-as-a-game-designer/</link>
-            
-            
-            
-            <author><![CDATA[homarp]]></author>
             
                 
             
