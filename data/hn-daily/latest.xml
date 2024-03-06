@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[OpenAI and Elon Musk]]></title>
-            <description><![CDATA[958 points | <a href=https://news.ycombinator.com/item?id=39611484 target=_blank>815 comments</a>]]></description>
+            <description><![CDATA[961 points | <a href=https://news.ycombinator.com/item?id=39611484 target=_blank>817 comments</a>]]></description>
             <pubDate>2024-03-06T02:19:01Z</pubDate>
             <guid isPermaLink="false">https://openai.com/blog/openai-elon-musk</guid>
             <link>https://openai.com/blog/openai-elon-musk</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Cracking Meta's Messenger Certificate Pinning on macOS]]></title>
-            <description><![CDATA[450 points | <a href=https://news.ycombinator.com/item?id=39609336 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=39609336 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-03-05T21:25:24Z</pubDate>
             <guid isPermaLink="false">https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/</guid>
             <link>https://texts.blog/2024/02/20/cracking-metas-messenger-certificate-pinning-on-macos/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Leaving LinkedIn]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=39612443 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=39612443 target=_blank>269 comments</a>]]></description>
             <pubDate>2024-03-06T04:49:38Z</pubDate>
             <guid isPermaLink="false">https://corecursive.com/leaving-linkedin-with-chris-krycho/</guid>
             <link>https://corecursive.com/leaving-linkedin-with-chris-krycho/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Dada, an experimental new programming language]]></title>
-            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=39614433 target=_blank>323 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=39614433 target=_blank>325 comments</a>]]></description>
             <pubDate>2024-03-06T10:31:02Z</pubDate>
             <guid isPermaLink="false">https://dada-lang.org/</guid>
             <link>https://dada-lang.org/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Embedded Swift on the Raspberry Pi Pico]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=39611111 target=_blank>129 comments</a>]]></description>
-            <pubDate>2024-03-06T01:10:49Z</pubDate>
-            <guid isPermaLink="false">https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338</guid>
-            <link>https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338</link>
-            
-            
-            
-            <author><![CDATA[goranmoomin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Apple terminates Epic Games developer account, calling it a 'threat' to iOS]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=39618673 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=39618673 target=_blank>318 comments</a>]]></description>
             <pubDate>2024-03-06T17:53:35Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/</guid>
             <link>https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/</link>
@@ -114,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=39607747 target=_blank>252 comments</a>]]></description>
-            <pubDate>2024-03-05T18:57:03Z</pubDate>
-            <guid isPermaLink="false">https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll</guid>
-            <link>https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll</link>
+            <title><![CDATA[Embedded Swift on the Raspberry Pi Pico]]></title>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=39611111 target=_blank>130 comments</a>]]></description>
+            <pubDate>2024-03-06T01:10:49Z</pubDate>
+            <guid isPermaLink="false">https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338</guid>
+            <link>https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338</link>
             
             
             
-            <author><![CDATA[wbharding]]></author>
+            <author><![CDATA[goranmoomin]]></author>
             
                 
             
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Pg_vectorize: Vector search and RAG on Postgres]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=39613669 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=39613669 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-03-06T08:34:16Z</pubDate>
             <guid isPermaLink="false">https://github.com/tembo-io/pg_vectorize</guid>
             <link>https://github.com/tembo-io/pg_vectorize</link>
@@ -139,6 +123,22 @@
             
             
             <author><![CDATA[samaysharma]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Linux Touchpad Like MacBook Update: 2023 Progress on Smooth Scrolling]]></title>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=39607747 target=_blank>253 comments</a>]]></description>
+            <pubDate>2024-03-05T18:57:03Z</pubDate>
+            <guid isPermaLink="false">https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll</guid>
+            <link>https://www.gitclear.com/blog/linux_touchpad_like_macbook_2023_update_smooth_scroll</link>
+            
+            
+            
+            <author><![CDATA[wbharding]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[YaCy, a distributed Web Search Engine, based on a peer-to-peer network]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=39612950 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=39612950 target=_blank>82 comments</a>]]></description>
             <pubDate>2024-03-06T06:33:04Z</pubDate>
             <guid isPermaLink="false">https://yacy.net/</guid>
             <link>https://yacy.net/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Free data transfer out to internet when moving out of AWS]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=39612607 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=39612607 target=_blank>103 comments</a>]]></description>
             <pubDate>2024-03-06T05:22:35Z</pubDate>
             <guid isPermaLink="false">https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/</guid>
             <link>https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[New Federal Rule Caps Credit Card Late Fees at $8]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=39608641 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=39608641 target=_blank>248 comments</a>]]></description>
             <pubDate>2024-03-05T20:13:47Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/03/05/business/credit-card-late-fees.html</guid>
             <link>https://www.nytimes.com/2024/03/05/business/credit-card-late-fees.html</link>
