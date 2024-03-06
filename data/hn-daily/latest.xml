@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[OpenAI and Elon Musk]]></title>
-            <description><![CDATA[953 points | <a href=https://news.ycombinator.com/item?id=39611484 target=_blank>804 comments</a>]]></description>
+            <description><![CDATA[953 points | <a href=https://news.ycombinator.com/item?id=39611484 target=_blank>808 comments</a>]]></description>
             <pubDate>2024-03-06T02:19:01Z</pubDate>
             <guid isPermaLink="false">https://openai.com/blog/openai-elon-musk</guid>
             <link>https://openai.com/blog/openai-elon-musk</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Leaving LinkedIn]]></title>
-            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=39612443 target=_blank>257 comments</a>]]></description>
+            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=39612443 target=_blank>260 comments</a>]]></description>
             <pubDate>2024-03-06T04:49:38Z</pubDate>
             <guid isPermaLink="false">https://corecursive.com/leaving-linkedin-with-chris-krycho/</guid>
             <link>https://corecursive.com/leaving-linkedin-with-chris-krycho/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Dada, an experimental new programming language]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=39614433 target=_blank>308 comments</a>]]></description>
+            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=39614433 target=_blank>310 comments</a>]]></description>
             <pubDate>2024-03-06T10:31:02Z</pubDate>
             <guid isPermaLink="false">https://dada-lang.org/</guid>
             <link>https://dada-lang.org/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The "missing" graph datatype already exists. It was invented in the '70s]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=39606885 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=39606885 target=_blank>83 comments</a>]]></description>
             <pubDate>2024-03-05T17:53:22Z</pubDate>
             <guid isPermaLink="false">https://tylerhou.com/posts/datalog-go-brrr/</guid>
             <link>https://tylerhou.com/posts/datalog-go-brrr/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Pg_vectorize: Vector search and RAG on Postgres]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=39613669 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=39613669 target=_blank>94 comments</a>]]></description>
             <pubDate>2024-03-06T08:34:16Z</pubDate>
             <guid isPermaLink="false">https://github.com/tembo-io/pg_vectorize</guid>
             <link>https://github.com/tembo-io/pg_vectorize</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Free data transfer out to internet when moving out of AWS]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=39612607 target=_blank>100 comments</a>]]></description>
-            <pubDate>2024-03-06T05:22:35Z</pubDate>
-            <guid isPermaLink="false">https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/</guid>
-            <link>https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/</link>
-            
-            
-            
-            <author><![CDATA[cryptoxchange]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[YaCy, a distributed Web Search Engine, based on a peer-to-peer network]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=39612950 target=_blank>76 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=39612950 target=_blank>76 comments</a>]]></description>
             <pubDate>2024-03-06T06:33:04Z</pubDate>
             <guid isPermaLink="false">https://yacy.net/</guid>
             <link>https://yacy.net/</link>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[Timothee]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Free data transfer out to internet when moving out of AWS]]></title>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=39612607 target=_blank>100 comments</a>]]></description>
+            <pubDate>2024-03-06T05:22:35Z</pubDate>
+            <guid isPermaLink="false">https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/</guid>
+            <link>https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/</link>
+            
+            
+            
+            <author><![CDATA[cryptoxchange]]></author>
             
                 
             
