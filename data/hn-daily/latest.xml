@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Apple terminates Epic Games developer account, calling it a 'threat' to iOS]]></title>
-            <description><![CDATA[885 points | <a href=https://news.ycombinator.com/item?id=39618673 target=_blank>841 comments</a>]]></description>
+            <description><![CDATA[886 points | <a href=https://news.ycombinator.com/item?id=39618673 target=_blank>841 comments</a>]]></description>
             <pubDate>2024-03-06T17:53:35Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/</guid>
             <link>https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[FDA clears first over-the-counter continuous glucose monitor]]></title>
-            <description><![CDATA[658 points | <a href=https://news.ycombinator.com/item?id=39618822 target=_blank>340 comments</a>]]></description>
+            <description><![CDATA[664 points | <a href=https://news.ycombinator.com/item?id=39618822 target=_blank>341 comments</a>]]></description>
             <pubDate>2024-03-06T18:03:43Z</pubDate>
             <guid isPermaLink="false">https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor</guid>
             <link>https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Detect when your installed Chrome extensions have changed owners]]></title>
-            <description><![CDATA[547 points | <a href=https://news.ycombinator.com/item?id=39620060 target=_blank>216 comments</a>]]></description>
+            <description><![CDATA[560 points | <a href=https://news.ycombinator.com/item?id=39620060 target=_blank>217 comments</a>]]></description>
             <pubDate>2024-03-06T19:21:31Z</pubDate>
             <guid isPermaLink="false">https://github.com/classvsoftware/under-new-management</guid>
             <link>https://github.com/classvsoftware/under-new-management</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[The end of Airplane.dev]]></title>
-            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=39619041 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=39619041 target=_blank>132 comments</a>]]></description>
             <pubDate>2024-03-06T18:16:58Z</pubDate>
             <guid isPermaLink="false">https://yolken.net/blog/end-of-airplanedev</guid>
             <link>https://yolken.net/blog/end-of-airplanedev</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[bhyolken]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9]]></title>
+            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=39622787 target=_blank>207 comments</a>]]></description>
+            <pubDate>2024-03-06T22:50:34Z</pubDate>
+            <guid isPermaLink="false">https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz</guid>
+            <link>https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz</link>
+            
+            
+            
+            <author><![CDATA[everybodyknows]]></author>
             
                 
             
@@ -98,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[NTSB says Boeing is withholding key details about door plug on Alaska 737 MAX 9]]></title>
-            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=39622787 target=_blank>205 comments</a>]]></description>
-            <pubDate>2024-03-06T22:50:34Z</pubDate>
-            <guid isPermaLink="false">https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz</guid>
-            <link>https://www.npr.org/2024/03/06/1236277058/boeing-737-max-9-alaska-airlines-door-plug-removed-ntsb-commerce-cantwell-cruz</link>
+            <title><![CDATA[Show HN: dockerc – Docker image to static executable "compiler"]]></title>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=39620540 target=_blank>84 comments</a>]]></description>
+            <pubDate>2024-03-06T19:55:22Z</pubDate>
+            <guid isPermaLink="false">https://github.com/NilsIrl/dockerc</guid>
+            <link>https://github.com/NilsIrl/dockerc</link>
             
             
             
-            <author><![CDATA[everybodyknows]]></author>
+            <author><![CDATA[NilsIRL]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: dockerc – Docker image to static executable "compiler"]]></title>
-            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=39620540 target=_blank>82 comments</a>]]></description>
-            <pubDate>2024-03-06T19:55:22Z</pubDate>
-            <guid isPermaLink="false">https://github.com/NilsIrl/dockerc</guid>
-            <link>https://github.com/NilsIrl/dockerc</link>
-            
-            
-            
-            <author><![CDATA[NilsIRL]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[We hacked Google A.I.]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=39620608 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=39620608 target=_blank>40 comments</a>]]></description>
             <pubDate>2024-03-06T20:00:11Z</pubDate>
             <guid isPermaLink="false">https://www.landh.tech/blog/20240304-google-hack-50000/</guid>
             <link>https://www.landh.tech/blog/20240304-google-hack-50000/</link>
