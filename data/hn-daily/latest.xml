@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[JSON Canvas – An open file format for infinite canvas data]]></title>
-            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=39670922 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[453 points | <a href=https://news.ycombinator.com/item?id=39670922 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-03-11T17:22:22Z</pubDate>
             <guid isPermaLink="false">https://jsoncanvas.org/</guid>
             <link>https://jsoncanvas.org/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[gh-116167: Allow disabling the GIL]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=39670102 target=_blank>163 comments</a>]]></description>
+            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=39670102 target=_blank>165 comments</a>]]></description>
             <pubDate>2024-03-11T16:21:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/python/cpython/pull/116338</guid>
             <link>https://github.com/python/cpython/pull/116338</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Flowers for Algernon (1965) [pdf]]]></title>
-            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=39666956 target=_blank>235 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=39666956 target=_blank>237 comments</a>]]></description>
             <pubDate>2024-03-11T11:53:03Z</pubDate>
             <guid isPermaLink="false">https://www.sdfo.org/gj/stories/flowersforalgernon.pdf</guid>
             <link>https://www.sdfo.org/gj/stories/flowersforalgernon.pdf</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[GrapheneOS finds Bluetooth memory corruption via ARM MTE]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=39668053 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=39668053 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-03-11T13:36:11Z</pubDate>
             <guid isPermaLink="false">https://grapheneos.social/@GrapheneOS/112066872276203917</guid>
             <link>https://grapheneos.social/@GrapheneOS/112066872276203917</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Airbnb is banning indoor security cameras]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=39669167 target=_blank>364 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=39669167 target=_blank>365 comments</a>]]></description>
             <pubDate>2024-03-11T15:08:25Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban</guid>
             <link>https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Building an Open Source Decentralized E-Book Search Engine]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=39666993 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=39666993 target=_blank>29 comments</a>]]></description>
             <pubDate>2024-03-11T11:56:45Z</pubDate>
             <guid isPermaLink="false">https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md</guid>
             <link>https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[j2qk3b]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Webb and Hubble confirm Universe's expansion rate]]></title>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=39673087 target=_blank>71 comments</a>]]></description>
+            <pubDate>2024-03-11T20:49:35Z</pubDate>
+            <guid isPermaLink="false">https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate</guid>
+            <link>https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Webb and Hubble confirm Universe's expansion rate]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=39673087 target=_blank>67 comments</a>]]></description>
-            <pubDate>2024-03-11T20:49:35Z</pubDate>
-            <guid isPermaLink="false">https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate</guid>
-            <link>https://www.esa.int/ESA_Multimedia/Images/2024/03/Webb_Hubble_confirm_Universe_s_expansion_rate</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Teable – Open-Source No-Code Database Fusion of Postgres and Airtable]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=39666865 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=39666865 target=_blank>70 comments</a>]]></description>
             <pubDate>2024-03-11T11:42:03Z</pubDate>
             <guid isPermaLink="false">https://github.com/teableio/teable</guid>
             <link>https://github.com/teableio/teable</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[bieberChen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Kdenlive 24.02 open source video editor released]]></title>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=39671218 target=_blank>32 comments</a>]]></description>
+            <pubDate>2024-03-11T17:46:55Z</pubDate>
+            <guid isPermaLink="false">https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/</guid>
+            <link>https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/</link>
+            
+            
+            
+            <author><![CDATA[jrepinc]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Kdenlive 24.02 open source video editor released]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39671218 target=_blank>29 comments</a>]]></description>
-            <pubDate>2024-03-11T17:46:55Z</pubDate>
-            <guid isPermaLink="false">https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/</guid>
-            <link>https://kdenlive.org/en/2024/03/kdenlive-24-02-0-released/</link>
-            
-            
-            
-            <author><![CDATA[jrepinc]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Launch HN: Onedoc (YC W24) – A better way to create PDFs]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=39668962 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=39668962 target=_blank>132 comments</a>]]></description>
             <pubDate>2024-03-11T14:52:56Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=39668962</guid>
             <link>https://news.ycombinator.com/item?id=39668962</link>
