@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[U.S. is said to open criminal inquiry into Boeing]]></title>
-            <description><![CDATA[498 points | <a href=https://news.ycombinator.com/item?id=39656455 target=_blank>452 comments</a>]]></description>
-            <pubDate>2024-03-10T03:15:47Z</pubDate>
-            <guid isPermaLink="false">https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html</guid>
-            <link>https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html</link>
-            
-            
-            
-            <author><![CDATA[carabiner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[S3 is files, but not a filesystem]]></title>
-            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=39656657 target=_blank>356 comments</a>]]></description>
+            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=39656657 target=_blank>356 comments</a>]]></description>
             <pubDate>2024-03-10T04:11:26Z</pubDate>
             <guid isPermaLink="false">https://calpaterson.com/s3.html</guid>
             <link>https://calpaterson.com/s3.html</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[DBeaver – open-source database client]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=39660592 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=39660592 target=_blank>87 comments</a>]]></description>
             <pubDate>2024-03-10T16:52:21Z</pubDate>
             <guid isPermaLink="false">https://github.com/dbeaver/dbeaver</guid>
             <link>https://github.com/dbeaver/dbeaver</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Tenstorrent unveils Grayskull, its RISC-V answer to GPUs]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=39658787 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=39658787 target=_blank>113 comments</a>]]></description>
             <pubDate>2024-03-10T13:15:03Z</pubDate>
             <guid isPermaLink="false">https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus</guid>
             <link>https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus</link>
@@ -82,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[My Clients, the Liars]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=39656475 target=_blank>95 comments</a>]]></description>
-            <pubDate>2024-03-10T03:21:26Z</pubDate>
-            <guid isPermaLink="false">https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars</guid>
-            <link>https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars</link>
-            
-            
-            
-            <author><![CDATA[paulpauper]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Numbers every programmer should know]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=39657675 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=39657675 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-03-10T08:48:45Z</pubDate>
             <guid isPermaLink="false">https://samwho.dev/numbers/?fo</guid>
             <link>https://samwho.dev/numbers/?fo</link>
@@ -130,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=39658610 target=_blank>18 comments</a>]]></description>
-            <pubDate>2024-03-10T12:40:43Z</pubDate>
-            <guid isPermaLink="false">https://github.com/KhoomeiK/LlamaGym</guid>
-            <link>https://github.com/KhoomeiK/LlamaGym</link>
-            
-            
-            
-            <author><![CDATA[KhoomeiK]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Monte-Carlo graph search from first principles]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=39662698 target=_blank>7 comments</a>]]></description>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=39662698 target=_blank>8 comments</a>]]></description>
             <pubDate>2024-03-10T21:33:46Z</pubDate>
             <guid isPermaLink="false">https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md</guid>
             <link>https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md</link>
@@ -155,6 +107,22 @@
             
             
             <author><![CDATA[bumbledraven]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning]]></title>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39658610 target=_blank>18 comments</a>]]></description>
+            <pubDate>2024-03-10T12:40:43Z</pubDate>
+            <guid isPermaLink="false">https://github.com/KhoomeiK/LlamaGym</guid>
+            <link>https://github.com/KhoomeiK/LlamaGym</link>
+            
+            
+            
+            <author><![CDATA[KhoomeiK]]></author>
             
                 
             
@@ -179,7 +147,7 @@
         
         <item>
             <title><![CDATA[The Best Essay]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=39662615 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=39662615 target=_blank>108 comments</a>]]></description>
             <pubDate>2024-03-10T21:20:21Z</pubDate>
             <guid isPermaLink="false">https://paulgraham.com/best.html</guid>
             <link>https://paulgraham.com/best.html</link>
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[Show HN: Timelock.dev – Send a secret into the future using timelock encryption]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=39661482 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=39661482 target=_blank>97 comments</a>]]></description>
             <pubDate>2024-03-10T18:46:19Z</pubDate>
             <guid isPermaLink="false">https://timelock.dev/</guid>
             <link>https://timelock.dev/</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[aarreedd]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LocalSend: Open-source, cross-platform file sharing to nearby devices]]></title>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=39662721 target=_blank>54 comments</a>]]></description>
+            <pubDate>2024-03-10T21:38:06Z</pubDate>
+            <guid isPermaLink="false">https://localsend.org</guid>
+            <link>https://localsend.org</link>
+            
+            
+            
+            <author><![CDATA[alexzeitler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Lead in gasoline blunted IQ of half the U.S. population, study says]]></title>
+            <description><![CDATA[130 points | <a href=https://news.ycombinator.com/item?id=39662988 target=_blank>103 comments</a>]]></description>
+            <pubDate>2024-03-10T22:21:45Z</pubDate>
+            <guid isPermaLink="false">https://www.nbcnews.com/health/health-news/lead-gasoline-blunted-iq-half-us-population-study-rcna19028</guid>
+            <link>https://www.nbcnews.com/health/health-news/lead-gasoline-blunted-iq-half-us-population-study-rcna19028</link>
+            
+            
+            
+            <author><![CDATA[jnord]]></author>
             
                 
             
