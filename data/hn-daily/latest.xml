@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[U.S. is said to open criminal inquiry into Boeing]]></title>
-            <description><![CDATA[483 points | <a href=https://news.ycombinator.com/item?id=39656455 target=_blank>441 comments</a>]]></description>
+            <description><![CDATA[485 points | <a href=https://news.ycombinator.com/item?id=39656455 target=_blank>443 comments</a>]]></description>
             <pubDate>2024-03-10T03:15:47Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html</guid>
             <link>https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[S3 is files, but not a filesystem]]></title>
-            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=39656657 target=_blank>350 comments</a>]]></description>
+            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=39656657 target=_blank>353 comments</a>]]></description>
             <pubDate>2024-03-10T04:11:26Z</pubDate>
             <guid isPermaLink="false">https://calpaterson.com/s3.html</guid>
             <link>https://calpaterson.com/s3.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[DBeaver – open-source database client]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=39660592 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=39660592 target=_blank>77 comments</a>]]></description>
             <pubDate>2024-03-10T16:52:21Z</pubDate>
             <guid isPermaLink="false">https://github.com/dbeaver/dbeaver</guid>
             <link>https://github.com/dbeaver/dbeaver</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Tenstorrent unveils Grayskull, its RISC-V answer to GPUs]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=39658787 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=39658787 target=_blank>108 comments</a>]]></description>
             <pubDate>2024-03-10T13:15:03Z</pubDate>
             <guid isPermaLink="false">https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus</guid>
             <link>https://www.techradar.com/pro/firm-headed-by-legendary-chip-architect-behind-amd-zen-finally-releases-first-hardware-days-after-being-selected-to-build-the-future-of-ai-in-japan-tenstorrent-unveils-grayskull-its-risc-v-answer-to-gpus</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[My Clients, the Liars]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=39656475 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=39656475 target=_blank>95 comments</a>]]></description>
             <pubDate>2024-03-10T03:21:26Z</pubDate>
             <guid isPermaLink="false">https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars</guid>
             <link>https://www.lesswrong.com/posts/h99tRkpQGxwtb9Dpv/my-clients-the-liars</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Numbers every programmer should know]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=39657675 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39657675 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-03-10T08:48:45Z</pubDate>
             <guid isPermaLink="false">https://samwho.dev/numbers/?fo</guid>
             <link>https://samwho.dev/numbers/?fo</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Yi: Open Foundation Models by 01.AI]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=39659781 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39659781 target=_blank>71 comments</a>]]></description>
             <pubDate>2024-03-10T15:12:30Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2403.04652</guid>
             <link>https://arxiv.org/abs/2403.04652</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[pama]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning]]></title>
+            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=39658610 target=_blank>16 comments</a>]]></description>
+            <pubDate>2024-03-10T12:40:43Z</pubDate>
+            <guid isPermaLink="false">https://github.com/KhoomeiK/LlamaGym</guid>
+            <link>https://github.com/KhoomeiK/LlamaGym</link>
+            
+            
+            
+            <author><![CDATA[KhoomeiK]]></author>
             
                 
             
@@ -146,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=39658610 target=_blank>16 comments</a>]]></description>
-            <pubDate>2024-03-10T12:40:43Z</pubDate>
-            <guid isPermaLink="false">https://github.com/KhoomeiK/LlamaGym</guid>
-            <link>https://github.com/KhoomeiK/LlamaGym</link>
+            <title><![CDATA[Monte-Carlo graph search from first principles]]></title>
+            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=39662698 target=_blank>6 comments</a>]]></description>
+            <pubDate>2024-03-10T21:33:46Z</pubDate>
+            <guid isPermaLink="false">https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md</guid>
+            <link>https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md</link>
             
             
             
-            <author><![CDATA[KhoomeiK]]></author>
+            <author><![CDATA[bumbledraven]]></author>
             
                 
             
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[Show HN: Timelock.dev – Send a secret into the future using timelock encryption]]></title>
-            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=39661482 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=39661482 target=_blank>88 comments</a>]]></description>
             <pubDate>2024-03-10T18:46:19Z</pubDate>
             <guid isPermaLink="false">https://timelock.dev/</guid>
             <link>https://timelock.dev/</link>
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[aarreedd]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Monte-Carlo graph search from first principles]]></title>
-            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=39662698 target=_blank>6 comments</a>]]></description>
-            <pubDate>2024-03-10T21:33:46Z</pubDate>
-            <guid isPermaLink="false">https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md</guid>
-            <link>https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md</link>
-            
-            
-            
-            <author><![CDATA[bumbledraven]]></author>
             
                 
             
