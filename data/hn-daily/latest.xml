@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[LocalSend: Open-source, cross-platform file sharing to nearby devices]]></title>
-            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=39662721 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=39662721 target=_blank>140 comments</a>]]></description>
             <pubDate>2024-03-10T21:38:06Z</pubDate>
             <guid isPermaLink="false">https://localsend.org</guid>
             <link>https://localsend.org</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Monte-Carlo graph search from first principles]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=39662698 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=39662698 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-03-10T21:33:46Z</pubDate>
             <guid isPermaLink="false">https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md</guid>
             <link>https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The Best Essay]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=39662615 target=_blank>206 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=39662615 target=_blank>206 comments</a>]]></description>
             <pubDate>2024-03-10T21:20:21Z</pubDate>
             <guid isPermaLink="false">https://paulgraham.com/best.html</guid>
             <link>https://paulgraham.com/best.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Flowers for Algernon (1965) [pdf]]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=39666956 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=39666956 target=_blank>178 comments</a>]]></description>
             <pubDate>2024-03-11T11:53:03Z</pubDate>
             <guid isPermaLink="false">https://www.sdfo.org/gj/stories/flowersforalgernon.pdf</guid>
             <link>https://www.sdfo.org/gj/stories/flowersforalgernon.pdf</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Perf Is Not Enough]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=39662234 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=39662234 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-03-10T20:17:50Z</pubDate>
             <guid isPermaLink="false">https://motherduck.com/blog/perf-is-not-enough/</guid>
             <link>https://motherduck.com/blog/perf-is-not-enough/</link>
@@ -91,6 +91,22 @@
             
             
             <author><![CDATA[shubhamjain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[gh-116167: Allow disabling the GIL]]></title>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=39670102 target=_blank>94 comments</a>]]></description>
+            <pubDate>2024-03-11T16:21:17Z</pubDate>
+            <guid isPermaLink="false">https://github.com/python/cpython/pull/116338</guid>
+            <link>https://github.com/python/cpython/pull/116338</link>
+            
+            
+            
+            <author><![CDATA[freediver]]></author>
             
                 
             
@@ -107,22 +123,6 @@
             
             
             <author><![CDATA[aarreedd]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[gh-116167: Allow disabling the GIL]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=39670102 target=_blank>81 comments</a>]]></description>
-            <pubDate>2024-03-11T16:21:17Z</pubDate>
-            <guid isPermaLink="false">https://github.com/python/cpython/pull/116338</guid>
-            <link>https://github.com/python/cpython/pull/116338</link>
-            
-            
-            
-            <author><![CDATA[freediver]]></author>
             
                 
             
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Airbnb is banning indoor security cameras]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=39669167 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39669167 target=_blank>259 comments</a>]]></description>
             <pubDate>2024-03-11T15:08:25Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban</guid>
             <link>https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Building an Open Source Decentralized E-Book Search Engine]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=39666993 target=_blank>20 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=39666993 target=_blank>21 comments</a>]]></description>
             <pubDate>2024-03-11T11:56:45Z</pubDate>
             <guid isPermaLink="false">https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md</guid>
             <link>https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md</link>
