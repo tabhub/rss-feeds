@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The Best Essay]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=39662615 target=_blank>206 comments</a>]]></description>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=39662615 target=_blank>206 comments</a>]]></description>
             <pubDate>2024-03-10T21:20:21Z</pubDate>
             <guid isPermaLink="false">https://paulgraham.com/best.html</guid>
             <link>https://paulgraham.com/best.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Flowers for Algernon (1965) [pdf]]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=39666956 target=_blank>178 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=39666956 target=_blank>184 comments</a>]]></description>
             <pubDate>2024-03-11T11:53:03Z</pubDate>
             <guid isPermaLink="false">https://www.sdfo.org/gj/stories/flowersforalgernon.pdf</guid>
             <link>https://www.sdfo.org/gj/stories/flowersforalgernon.pdf</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[gh-116167: Allow disabling the GIL]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=39670102 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=39670102 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-03-11T16:21:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/python/cpython/pull/116338</guid>
             <link>https://github.com/python/cpython/pull/116338</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: Timelock.dev – Send a secret into the future using timelock encryption]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=39661482 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=39661482 target=_blank>129 comments</a>]]></description>
             <pubDate>2024-03-10T18:46:19Z</pubDate>
             <guid isPermaLink="false">https://timelock.dev/</guid>
             <link>https://timelock.dev/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Airbnb is banning indoor security cameras]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39669167 target=_blank>259 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39669167 target=_blank>267 comments</a>]]></description>
             <pubDate>2024-03-11T15:08:25Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban</guid>
             <link>https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[GrapheneOS finds Bluetooth memory corruption via ARM MTE]]></title>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39668053 target=_blank>94 comments</a>]]></description>
+            <pubDate>2024-03-11T13:36:11Z</pubDate>
+            <guid isPermaLink="false">https://grapheneos.social/@GrapheneOS/112066872276203917</guid>
+            <link>https://grapheneos.social/@GrapheneOS/112066872276203917</link>
+            
+            
+            
+            <author><![CDATA[gaul]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Rebuilding memchess.com from its archive]]></title>
             <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=39661497 target=_blank>39 comments</a>]]></description>
             <pubDate>2024-03-10T18:48:34Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[grondilu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Building an Open Source Decentralized E-Book Search Engine]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=39666993 target=_blank>21 comments</a>]]></description>
-            <pubDate>2024-03-11T11:56:45Z</pubDate>
-            <guid isPermaLink="false">https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md</guid>
-            <link>https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md</link>
-            
-            
-            
-            <author><![CDATA[j2qk3b]]></author>
             
                 
             
