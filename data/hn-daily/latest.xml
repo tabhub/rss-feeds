@@ -18,6 +18,22 @@
         <ttl></ttl>
         
         <item>
+            <title><![CDATA[JIT WireGuard]]></title>
+            <description><![CDATA[426 points | <a href=https://news.ycombinator.com/item?id=39688545 target=_blank>126 comments</a>]]></description>
+            <pubDate>2024-03-13T06:13:09Z</pubDate>
+            <guid isPermaLink="false">https://fly.io/blog/jit-wireguard-peers/</guid>
+            <link>https://fly.io/blog/jit-wireguard-peers/</link>
+            
+            
+            
+            <author><![CDATA[Lwrless]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs]]></title>
             <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=39687132 target=_blank>79 comments</a>]]></description>
             <pubDate>2024-03-13T01:36:14Z</pubDate>
@@ -34,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[JIT WireGuard]]></title>
-            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=39688545 target=_blank>126 comments</a>]]></description>
-            <pubDate>2024-03-13T06:13:09Z</pubDate>
-            <guid isPermaLink="false">https://fly.io/blog/jit-wireguard-peers/</guid>
-            <link>https://fly.io/blog/jit-wireguard-peers/</link>
-            
-            
-            
-            <author><![CDATA[Lwrless]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[House passes bill to force TikTok sale from Chinese owner or ban the app]]></title>
-            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=39691808 target=_blank>914 comments</a>]]></description>
+            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=39691808 target=_blank>921 comments</a>]]></description>
             <pubDate>2024-03-13T14:43:33Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html</guid>
             <link>https://www.nytimes.com/2024/03/13/technology/tiktok-ban-house-vote.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[A generalist AI agent for 3D virtual environments]]></title>
-            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=39692387 target=_blank>237 comments</a>]]></description>
+            <description><![CDATA[388 points | <a href=https://news.ycombinator.com/item?id=39692387 target=_blank>238 comments</a>]]></description>
             <pubDate>2024-03-13T15:22:56Z</pubDate>
             <guid isPermaLink="false">https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/</guid>
             <link>https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: Flox 1.0 – Open-source dev env as code with Nix]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=39692801 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=39692801 target=_blank>148 comments</a>]]></description>
             <pubDate>2024-03-13T15:44:29Z</pubDate>
             <guid isPermaLink="false">https://github.com/flox/flox</guid>
             <link>https://github.com/flox/flox</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[How photos were transmitted by wire in the 1930s]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=39690363 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=39690363 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-03-13T11:53:09Z</pubDate>
             <guid isPermaLink="false">https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s</guid>
             <link>https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Paul Alexander, ‘the man in the iron lung’, has died]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=39691735 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=39691735 target=_blank>175 comments</a>]]></description>
             <pubDate>2024-03-13T14:38:11Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/world-us-canada-68555051</guid>
             <link>https://www.bbc.com/news/world-us-canada-68555051</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Insult Passphrase Generator]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=39688443 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=39688443 target=_blank>135 comments</a>]]></description>
             <pubDate>2024-03-13T05:47:36Z</pubDate>
             <guid isPermaLink="false">https://cheswick.com/insults</guid>
             <link>https://cheswick.com/insults</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[A world from a sheet of paper (2023) [video]]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=39696139 target=_blank>6 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=39696139 target=_blank>6 comments</a>]]></description>
             <pubDate>2024-03-13T19:21:10Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=8p02DtmyQhU</guid>
             <link>https://www.youtube.com/watch?v=8p02DtmyQhU</link>
