@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Nix is a better Docker image builder than Docker's image builder]]></title>
-            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=39720007 target=_blank>259 comments</a>]]></description>
-            <pubDate>2024-03-15T19:56:47Z</pubDate>
-            <guid isPermaLink="false">https://xeiaso.net/talks/2024/nix-docker-build/</guid>
-            <link>https://xeiaso.net/talks/2024/nix-docker-build/</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Brain waves appear to wash out waste during sleep in mice]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=39723704 target=_blank>204 comments</a>]]></description>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=39723704 target=_blank>205 comments</a>]]></description>
             <pubDate>2024-03-16T06:01:07Z</pubDate>
             <guid isPermaLink="false">https://jamanetwork.com/journals/jama/fullarticle/2816616</guid>
             <link>https://jamanetwork.com/journals/jama/fullarticle/2816616</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Fuzzing Ladybird with tools from Google Project Zero]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>33 comments</a>]]></description>
             <pubDate>2024-03-16T11:49:57Z</pubDate>
             <guid isPermaLink="false">https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</guid>
             <link>https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Cloudflare loses 22% of its domains in Freenom .tk shutdown]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=39725303 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=39725303 target=_blank>153 comments</a>]]></description>
             <pubDate>2024-03-16T12:24:54Z</pubDate>
             <guid isPermaLink="false">https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/</guid>
             <link>https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Hackintosh Is Almost Dead]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>238 comments</a>]]></description>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>248 comments</a>]]></description>
             <pubDate>2024-03-16T18:16:17Z</pubDate>
             <guid isPermaLink="false">https://aplus.rs/2024/hackintosh-almost-dead/</guid>
             <link>https://aplus.rs/2024/hackintosh-almost-dead/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Libraries struggle to afford e-books, seek new laws in fight with publishers]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=39724045 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=39724045 target=_blank>114 comments</a>]]></description>
             <pubDate>2024-03-16T07:47:11Z</pubDate>
             <guid isPermaLink="false">https://abcnews.go.com/US/wireStory/libraries-struggle-afford-demand-books-seek-new-state-108035200</guid>
             <link>https://abcnews.go.com/US/wireStory/libraries-struggle-afford-demand-books-seek-new-state-108035200</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[AutoDev: Automated AI-driven development by Microsoft]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=39724356 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=39724356 target=_blank>168 comments</a>]]></description>
             <pubDate>2024-03-16T09:03:06Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2403.08299</guid>
             <link>https://arxiv.org/abs/2403.08299</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[tim_sw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Flash Attention in ~100 lines of CUDA]]></title>
+            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=39726781 target=_blank>20 comments</a>]]></description>
+            <pubDate>2024-03-16T15:31:59Z</pubDate>
+            <guid isPermaLink="false">https://github.com/tspeterkim/flash-attention-minimal</guid>
+            <link>https://github.com/tspeterkim/flash-attention-minimal</link>
+            
+            
+            
+            <author><![CDATA[tspeterkim]]></author>
             
                 
             
