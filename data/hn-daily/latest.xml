@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ollama now supports AMD graphics cards]]></title>
-            <description><![CDATA[519 points | <a href=https://news.ycombinator.com/item?id=39718558 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[523 points | <a href=https://news.ycombinator.com/item?id=39718558 target=_blank>180 comments</a>]]></description>
             <pubDate>2024-03-15T17:47:20Z</pubDate>
             <guid isPermaLink="false">https://ollama.com/blog/amd-preview</guid>
             <link>https://ollama.com/blog/amd-preview</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[FTC and DOJ want to free McDonald's ice cream machines from DMCA repair rules]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=39717558 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=39717558 target=_blank>169 comments</a>]]></description>
             <pubDate>2024-03-15T16:30:07Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/tech-policy/2024/03/ftc-and-doj-want-to-free-mcdonalds-ice-cream-machines-from-dmca-repair-rules/</guid>
             <link>https://arstechnica.com/tech-policy/2024/03/ftc-and-doj-want-to-free-mcdonalds-ice-cream-machines-from-dmca-repair-rules/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: Matrix Multiplication with Half the Multiplications]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=39714053 target=_blank>63 comments</a>]]></description>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=39714053 target=_blank>63 comments</a>]]></description>
             <pubDate>2024-03-15T10:36:37Z</pubDate>
             <guid isPermaLink="false">https://github.com/trevorpogue/algebraic-nnhw</guid>
             <link>https://github.com/trevorpogue/algebraic-nnhw</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Nix is a better Docker image builder than Docker's image builder]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=39720007 target=_blank>85 comments</a>]]></description>
+            <pubDate>2024-03-15T19:56:47Z</pubDate>
+            <guid isPermaLink="false">https://xeiaso.net/talks/2024/nix-docker-build/</guid>
+            <link>https://xeiaso.net/talks/2024/nix-docker-build/</link>
+            
+            
+            
+            <author><![CDATA[tosh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Boeing whistleblower before death: "If anything happens, it's not suicide"]]></title>
             <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=39718672 target=_blank>30 comments</a>]]></description>
             <pubDate>2024-03-15T17:55:59Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Nix is a better Docker image builder than Docker's image builder]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=39720007 target=_blank>81 comments</a>]]></description>
-            <pubDate>2024-03-15T19:56:47Z</pubDate>
-            <guid isPermaLink="false">https://xeiaso.net/talks/2024/nix-docker-build/</guid>
-            <link>https://xeiaso.net/talks/2024/nix-docker-build/</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Great ideas in theoretical computer science]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39720388 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=39720388 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-03-15T20:30:45Z</pubDate>
             <guid isPermaLink="false">https://www.cs251.com</guid>
             <link>https://www.cs251.com</link>
