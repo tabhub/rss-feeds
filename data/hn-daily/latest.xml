@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How web bloat impacts users with slow devices]]></title>
-            <description><![CDATA[614 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>360 comments</a>]]></description>
+            <description><![CDATA[622 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>363 comments</a>]]></description>
             <pubDate>2024-03-16T20:08:30Z</pubDate>
             <guid isPermaLink="false">https://danluu.com/slow-device/</guid>
             <link>https://danluu.com/slow-device/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Fuzzing Ladybird with tools from Google Project Zero]]></title>
-            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-03-16T11:49:57Z</pubDate>
             <guid isPermaLink="false">https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</guid>
             <link>https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Hackintosh Is Almost Dead]]></title>
-            <description><![CDATA[426 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>429 comments</a>]]></description>
+            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>429 comments</a>]]></description>
             <pubDate>2024-03-16T18:16:17Z</pubDate>
             <guid isPermaLink="false">https://aplus.rs/2024/hackintosh-almost-dead/</guid>
             <link>https://aplus.rs/2024/hackintosh-almost-dead/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Cloudflare loses 22% of its domains in Freenom .tk shutdown]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=39725303 target=_blank>203 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=39725303 target=_blank>204 comments</a>]]></description>
             <pubDate>2024-03-16T12:24:54Z</pubDate>
             <guid isPermaLink="false">https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/</guid>
             <link>https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Flash Attention in ~100 lines of CUDA]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=39726781 target=_blank>34 comments</a>]]></description>
-            <pubDate>2024-03-16T15:31:59Z</pubDate>
-            <guid isPermaLink="false">https://github.com/tspeterkim/flash-attention-minimal</guid>
-            <link>https://github.com/tspeterkim/flash-attention-minimal</link>
-            
-            
-            
-            <author><![CDATA[tspeterkim]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The return of the frame pointers]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>46 comments</a>]]></description>
             <pubDate>2024-03-17T03:59:07Z</pubDate>
             <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</guid>
             <link>https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: Flash Attention in ~100 lines of CUDA]]></title>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=39726781 target=_blank>35 comments</a>]]></description>
+            <pubDate>2024-03-16T15:31:59Z</pubDate>
+            <guid isPermaLink="false">https://github.com/tspeterkim/flash-attention-minimal</guid>
+            <link>https://github.com/tspeterkim/flash-attention-minimal</link>
+            
+            
+            
+            <author><![CDATA[tspeterkim]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Mozilla will be retiring the Mozilla Location Service]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=39724505 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=39724505 target=_blank>111 comments</a>]]></description>
             <pubDate>2024-03-16T09:41:24Z</pubDate>
             <guid isPermaLink="false">https://github.com/mozilla/ichnaea/issues/2065</guid>
             <link>https://github.com/mozilla/ichnaea/issues/2065</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[20 Years in the Making, GnuCOBOL Is Ready for Industry]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=39728519 target=_blank>76 comments</a>]]></description>
+            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=39728519 target=_blank>76 comments</a>]]></description>
             <pubDate>2024-03-16T19:02:08Z</pubDate>
             <guid isPermaLink="false">https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</guid>
             <link>https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Telefunken Datenspeicher]]></title>
-            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=39724161 target=_blank>67 comments</a>]]></description>
-            <pubDate>2024-03-16T08:11:18Z</pubDate>
-            <guid isPermaLink="false">https://retrocomputing.stackexchange.com/questions/29676/what-is-this-large-device-labelled-telefunken-datenspeicher-and-how-does-it-wo</guid>
-            <link>https://retrocomputing.stackexchange.com/questions/29676/what-is-this-large-device-labelled-telefunken-datenspeicher-and-how-does-it-wo</link>
+            <title><![CDATA[IBM 360 in UK need a home]]></title>
+            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=39728994 target=_blank>14 comments</a>]]></description>
+            <pubDate>2024-03-16T20:00:13Z</pubDate>
+            <guid isPermaLink="false">https://www.ibm360.co.uk/</guid>
+            <link>https://www.ibm360.co.uk/</link>
             
             
             
-            <author><![CDATA[cl3misch]]></author>
+            <author><![CDATA[ngcc_hk]]></author>
             
                 
             
