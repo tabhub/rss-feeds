@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How web bloat impacts users with slow devices]]></title>
-            <description><![CDATA[729 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>443 comments</a>]]></description>
+            <description><![CDATA[734 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>446 comments</a>]]></description>
             <pubDate>2024-03-16T20:08:30Z</pubDate>
             <guid isPermaLink="false">https://danluu.com/slow-device/</guid>
             <link>https://danluu.com/slow-device/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Hackintosh Is Almost Dead]]></title>
-            <description><![CDATA[467 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>467 comments</a>]]></description>
+            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>467 comments</a>]]></description>
             <pubDate>2024-03-16T18:16:17Z</pubDate>
             <guid isPermaLink="false">https://aplus.rs/2024/hackintosh-almost-dead/</guid>
             <link>https://aplus.rs/2024/hackintosh-almost-dead/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The return of the frame pointers]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>111 comments</a>]]></description>
             <pubDate>2024-03-17T03:59:07Z</pubDate>
             <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</guid>
             <link>https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Debloat non-rooted Android devices]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39730962 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=39730962 target=_blank>126 comments</a>]]></description>
             <pubDate>2024-03-17T01:09:05Z</pubDate>
             <guid isPermaLink="false">https://github.com/0x192/universal-android-debloater</guid>
             <link>https://github.com/0x192/universal-android-debloater</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Losing Faith on Testing]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=39731195 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=39731195 target=_blank>115 comments</a>]]></description>
             <pubDate>2024-03-17T01:48:16Z</pubDate>
             <guid isPermaLink="false">https://registerspill.thorstenball.com/p/a-few-words-on-testing</guid>
             <link>https://registerspill.thorstenball.com/p/a-few-words-on-testing</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[20 Years in the Making, GnuCOBOL Is Ready for Industry]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=39728519 target=_blank>89 comments</a>]]></description>
-            <pubDate>2024-03-16T19:02:08Z</pubDate>
-            <guid isPermaLink="false">https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</guid>
-            <link>https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</link>
-            
-            
-            
-            <author><![CDATA[cglong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[IBM 360 in UK need a home]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=39728994 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=39728994 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-03-16T20:00:13Z</pubDate>
             <guid isPermaLink="false">https://www.ibm360.co.uk/</guid>
             <link>https://www.ibm360.co.uk/</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[20 Years in the Making, GnuCOBOL Is Ready for Industry]]></title>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=39728519 target=_blank>90 comments</a>]]></description>
+            <pubDate>2024-03-16T19:02:08Z</pubDate>
+            <guid isPermaLink="false">https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</guid>
+            <link>https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</link>
+            
+            
+            
+            <author><![CDATA[cglong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Parsing URLs in Python]]></title>
-            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=39727458 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=39727458 target=_blank>75 comments</a>]]></description>
             <pubDate>2024-03-16T16:53:34Z</pubDate>
             <guid isPermaLink="false">https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html</guid>
             <link>https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Research shows that people who BS are more likely to fall for BS (2021)]]></title>
-            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=39727529 target=_blank>80 comments</a>]]></description>
-            <pubDate>2024-03-16T17:01:34Z</pubDate>
-            <guid isPermaLink="false">https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs</guid>
-            <link>https://uwaterloo.ca/news/media/research-shows-people-who-bs-are-more-likely-fall-bs</link>
+            <title><![CDATA[Low-tech Magazine underscores the potential of past technologies]]></title>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=39730883 target=_blank>30 comments</a>]]></description>
+            <pubDate>2024-03-17T00:56:32Z</pubDate>
+            <guid isPermaLink="false">https://solar.lowtechmagazine.com/</guid>
+            <link>https://solar.lowtechmagazine.com/</link>
             
             
             
-            <author><![CDATA[mgh2]]></author>
+            <author><![CDATA[logtempo]]></author>
             
                 
             
