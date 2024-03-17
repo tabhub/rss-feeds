@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How web bloat impacts users with slow devices]]></title>
-            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>262 comments</a>]]></description>
+            <description><![CDATA[456 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>268 comments</a>]]></description>
             <pubDate>2024-03-16T20:08:30Z</pubDate>
             <guid isPermaLink="false">https://danluu.com/slow-device/</guid>
             <link>https://danluu.com/slow-device/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Fuzzing Ladybird with tools from Google Project Zero]]></title>
-            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>46 comments</a>]]></description>
             <pubDate>2024-03-16T11:49:57Z</pubDate>
             <guid isPermaLink="false">https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</guid>
             <link>https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</link>
@@ -43,6 +43,22 @@
             
             
             <author><![CDATA[awesomekling]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hackintosh Is Almost Dead]]></title>
+            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>381 comments</a>]]></description>
+            <pubDate>2024-03-16T18:16:17Z</pubDate>
+            <guid isPermaLink="false">https://aplus.rs/2024/hackintosh-almost-dead/</guid>
+            <link>https://aplus.rs/2024/hackintosh-almost-dead/</link>
+            
+            
+            
+            <author><![CDATA[ingve]]></author>
             
                 
             
@@ -66,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Hackintosh Is Almost Dead]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>379 comments</a>]]></description>
-            <pubDate>2024-03-16T18:16:17Z</pubDate>
-            <guid isPermaLink="false">https://aplus.rs/2024/hackintosh-almost-dead/</guid>
-            <link>https://aplus.rs/2024/hackintosh-almost-dead/</link>
-            
-            
-            
-            <author><![CDATA[ingve]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Cloudflare loses 22% of its domains in Freenom .tk shutdown]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=39725303 target=_blank>194 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=39725303 target=_blank>195 comments</a>]]></description>
             <pubDate>2024-03-16T12:24:54Z</pubDate>
             <guid isPermaLink="false">https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/</guid>
             <link>https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Show HN: Flash Attention in ~100 lines of CUDA]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=39726781 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=39726781 target=_blank>32 comments</a>]]></description>
             <pubDate>2024-03-16T15:31:59Z</pubDate>
             <guid isPermaLink="false">https://github.com/tspeterkim/flash-attention-minimal</guid>
             <link>https://github.com/tspeterkim/flash-attention-minimal</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[macOS 14.4 causes JVM crashes]]></title>
-            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=39726292 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=39726292 target=_blank>88 comments</a>]]></description>
             <pubDate>2024-03-16T14:32:51Z</pubDate>
             <guid isPermaLink="false">https://blogs.oracle.com/java/post/java-on-macos-14-4</guid>
             <link>https://blogs.oracle.com/java/post/java-on-macos-14-4</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[AutoDev: Automated AI-driven development by Microsoft]]></title>
-            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=39724356 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=39724356 target=_blank>188 comments</a>]]></description>
             <pubDate>2024-03-16T09:03:06Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2403.08299</guid>
             <link>https://arxiv.org/abs/2403.08299</link>
