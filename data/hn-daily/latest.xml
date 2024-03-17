@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How web bloat impacts users with slow devices]]></title>
-            <description><![CDATA[684 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>412 comments</a>]]></description>
+            <description><![CDATA[690 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>415 comments</a>]]></description>
             <pubDate>2024-03-16T20:08:30Z</pubDate>
             <guid isPermaLink="false">https://danluu.com/slow-device/</guid>
             <link>https://danluu.com/slow-device/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Hackintosh Is Almost Dead]]></title>
-            <description><![CDATA[445 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>452 comments</a>]]></description>
+            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>454 comments</a>]]></description>
             <pubDate>2024-03-16T18:16:17Z</pubDate>
             <guid isPermaLink="false">https://aplus.rs/2024/hackintosh-almost-dead/</guid>
             <link>https://aplus.rs/2024/hackintosh-almost-dead/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Fuzzing Ladybird with tools from Google Project Zero]]></title>
-            <description><![CDATA[436 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-03-16T11:49:57Z</pubDate>
             <guid isPermaLink="false">https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</guid>
             <link>https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[awesomekling]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The return of the frame pointers]]></title>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>79 comments</a>]]></description>
+            <pubDate>2024-03-17T03:59:07Z</pubDate>
+            <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</guid>
+            <link>https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</link>
+            
+            
+            
+            <author><![CDATA[mfiguiere]]></author>
             
                 
             
@@ -75,22 +91,6 @@
             
             
             <author><![CDATA[speckx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The return of the frame pointers]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>78 comments</a>]]></description>
-            <pubDate>2024-03-17T03:59:07Z</pubDate>
-            <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</guid>
-            <link>https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</link>
-            
-            
-            
-            <author><![CDATA[mfiguiere]]></author>
             
                 
             
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[macOS 14.4 causes JVM crashes]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39726292 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=39726292 target=_blank>100 comments</a>]]></description>
             <pubDate>2024-03-16T14:32:51Z</pubDate>
             <guid isPermaLink="false">https://blogs.oracle.com/java/post/java-on-macos-14-4</guid>
             <link>https://blogs.oracle.com/java/post/java-on-macos-14-4</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Debloat non-rooted Android devices]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=39730962 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=39730962 target=_blank>95 comments</a>]]></description>
             <pubDate>2024-03-17T01:09:05Z</pubDate>
             <guid isPermaLink="false">https://github.com/0x192/universal-android-debloater</guid>
             <link>https://github.com/0x192/universal-android-debloater</link>
@@ -139,6 +139,22 @@
             
             
             <author><![CDATA[zikohh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[IBM 360 in UK need a home]]></title>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=39728994 target=_blank>17 comments</a>]]></description>
+            <pubDate>2024-03-16T20:00:13Z</pubDate>
+            <guid isPermaLink="false">https://www.ibm360.co.uk/</guid>
+            <link>https://www.ibm360.co.uk/</link>
+            
+            
+            
+            <author><![CDATA[ngcc_hk]]></author>
             
                 
             
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[IBM 360 in UK need a home]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=39728994 target=_blank>17 comments</a>]]></description>
-            <pubDate>2024-03-16T20:00:13Z</pubDate>
-            <guid isPermaLink="false">https://www.ibm360.co.uk/</guid>
-            <link>https://www.ibm360.co.uk/</link>
-            
-            
-            
-            <author><![CDATA[ngcc_hk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Losing Faith on Testing]]></title>
-            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=39731195 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=39731195 target=_blank>92 comments</a>]]></description>
             <pubDate>2024-03-17T01:48:16Z</pubDate>
             <guid isPermaLink="false">https://registerspill.thorstenball.com/p/a-few-words-on-testing</guid>
             <link>https://registerspill.thorstenball.com/p/a-few-words-on-testing</link>
