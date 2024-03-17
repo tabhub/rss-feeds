@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How web bloat impacts users with slow devices]]></title>
-            <description><![CDATA[647 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>373 comments</a>]]></description>
+            <description><![CDATA[655 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>386 comments</a>]]></description>
             <pubDate>2024-03-16T20:08:30Z</pubDate>
             <guid isPermaLink="false">https://danluu.com/slow-device/</guid>
             <link>https://danluu.com/slow-device/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Hackintosh Is Almost Dead]]></title>
-            <description><![CDATA[433 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>442 comments</a>]]></description>
+            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>447 comments</a>]]></description>
             <pubDate>2024-03-16T18:16:17Z</pubDate>
             <guid isPermaLink="false">https://aplus.rs/2024/hackintosh-almost-dead/</guid>
             <link>https://aplus.rs/2024/hackintosh-almost-dead/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Fuzzing Ladybird with tools from Google Project Zero]]></title>
-            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[433 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-03-16T11:49:57Z</pubDate>
             <guid isPermaLink="false">https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</guid>
             <link>https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The return of the frame pointers]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-03-17T03:59:07Z</pubDate>
             <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</guid>
             <link>https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[macOS 14.4 causes JVM crashes]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=39726292 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=39726292 target=_blank>96 comments</a>]]></description>
             <pubDate>2024-03-16T14:32:51Z</pubDate>
             <guid isPermaLink="false">https://blogs.oracle.com/java/post/java-on-macos-14-4</guid>
             <link>https://blogs.oracle.com/java/post/java-on-macos-14-4</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[20 Years in the Making, GnuCOBOL Is Ready for Industry]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=39728519 target=_blank>80 comments</a>]]></description>
-            <pubDate>2024-03-16T19:02:08Z</pubDate>
-            <guid isPermaLink="false">https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</guid>
-            <link>https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</link>
-            
-            
-            
-            <author><![CDATA[cglong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Debloat non-rooted Android devices]]></title>
-            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=39730962 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=39730962 target=_blank>75 comments</a>]]></description>
             <pubDate>2024-03-17T01:09:05Z</pubDate>
             <guid isPermaLink="false">https://github.com/0x192/universal-android-debloater</guid>
             <link>https://github.com/0x192/universal-android-debloater</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[20 Years in the Making, GnuCOBOL Is Ready for Industry]]></title>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=39728519 target=_blank>80 comments</a>]]></description>
+            <pubDate>2024-03-16T19:02:08Z</pubDate>
+            <guid isPermaLink="false">https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</guid>
+            <link>https://thenewstack.io/20-years-in-the-making-gnucobol-is-ready-for-industry/</link>
+            
+            
+            
+            <author><![CDATA[cglong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Losing Faith on Testing]]></title>
-            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=39731195 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=39731195 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-03-17T01:48:16Z</pubDate>
             <guid isPermaLink="false">https://registerspill.thorstenball.com/p/a-few-words-on-testing</guid>
             <link>https://registerspill.thorstenball.com/p/a-few-words-on-testing</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[IBM 360 in UK need a home]]></title>
-            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=39728994 target=_blank>15 comments</a>]]></description>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=39728994 target=_blank>16 comments</a>]]></description>
             <pubDate>2024-03-16T20:00:13Z</pubDate>
             <guid isPermaLink="false">https://www.ibm360.co.uk/</guid>
             <link>https://www.ibm360.co.uk/</link>
