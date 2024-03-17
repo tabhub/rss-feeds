@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How web bloat impacts users with slow devices]]></title>
-            <description><![CDATA[778 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>489 comments</a>]]></description>
+            <description><![CDATA[782 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>490 comments</a>]]></description>
             <pubDate>2024-03-16T20:08:30Z</pubDate>
             <guid isPermaLink="false">https://danluu.com/slow-device/</guid>
             <link>https://danluu.com/slow-device/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The return of the frame pointers]]></title>
-            <description><![CDATA[421 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>148 comments</a>]]></description>
             <pubDate>2024-03-17T03:59:07Z</pubDate>
             <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</guid>
             <link>https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Debloat non-rooted Android devices]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=39730962 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=39730962 target=_blank>171 comments</a>]]></description>
             <pubDate>2024-03-17T01:09:05Z</pubDate>
             <guid isPermaLink="false">https://github.com/0x192/universal-android-debloater</guid>
             <link>https://github.com/0x192/universal-android-debloater</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Flash Attention in ~100 lines of CUDA]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=39726781 target=_blank>40 comments</a>]]></description>
-            <pubDate>2024-03-16T15:31:59Z</pubDate>
-            <guid isPermaLink="false">https://github.com/tspeterkim/flash-attention-minimal</guid>
-            <link>https://github.com/tspeterkim/flash-attention-minimal</link>
-            
-            
-            
-            <author><![CDATA[tspeterkim]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[LLM4Decompile: Decompiling Binary Code with LLM]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=39733275 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=39733275 target=_blank>45 comments</a>]]></description>
             <pubDate>2024-03-17T10:15:23Z</pubDate>
             <guid isPermaLink="false">https://github.com/albertan017/LLM4Decompile</guid>
             <link>https://github.com/albertan017/LLM4Decompile</link>
@@ -130,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Losing Faith on Testing]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39731195 target=_blank>128 comments</a>]]></description>
-            <pubDate>2024-03-17T01:48:16Z</pubDate>
-            <guid isPermaLink="false">https://registerspill.thorstenball.com/p/a-few-words-on-testing</guid>
-            <link>https://registerspill.thorstenball.com/p/a-few-words-on-testing</link>
+            <title><![CDATA[Fifty Things you can do with a Software Defined Radio]]></title>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=39728153 target=_blank>11 comments</a>]]></description>
+            <pubDate>2024-03-16T18:17:09Z</pubDate>
+            <guid isPermaLink="false">https://blinry.org/50-things-with-sdr/</guid>
+            <link>https://blinry.org/50-things-with-sdr/</link>
             
             
             
-            <author><![CDATA[ben_s]]></author>
+            <author><![CDATA[Timothee]]></author>
             
                 
             
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Low-tech Magazine underscores the potential of past technologies]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39730883 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=39730883 target=_blank>51 comments</a>]]></description>
             <pubDate>2024-03-17T00:56:32Z</pubDate>
             <guid isPermaLink="false">https://solar.lowtechmagazine.com/</guid>
             <link>https://solar.lowtechmagazine.com/</link>
@@ -162,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How Microchips Work]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=39732116 target=_blank>21 comments</a>]]></description>
-            <pubDate>2024-03-17T05:17:22Z</pubDate>
-            <guid isPermaLink="false">https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html</guid>
-            <link>https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html</link>
+            <title><![CDATA[Losing Faith on Testing]]></title>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=39731195 target=_blank>128 comments</a>]]></description>
+            <pubDate>2024-03-17T01:48:16Z</pubDate>
+            <guid isPermaLink="false">https://registerspill.thorstenball.com/p/a-few-words-on-testing</guid>
+            <link>https://registerspill.thorstenball.com/p/a-few-words-on-testing</link>
             
             
             
-            <author><![CDATA[pbamotra]]></author>
+            <author><![CDATA[ben_s]]></author>
             
                 
             
@@ -178,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Fifty Things you can do with a Software Defined Radio]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=39728153 target=_blank>10 comments</a>]]></description>
-            <pubDate>2024-03-16T18:17:09Z</pubDate>
-            <guid isPermaLink="false">https://blinry.org/50-things-with-sdr/</guid>
-            <link>https://blinry.org/50-things-with-sdr/</link>
+            <title><![CDATA[How Microchips Work]]></title>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=39732116 target=_blank>21 comments</a>]]></description>
+            <pubDate>2024-03-17T05:17:22Z</pubDate>
+            <guid isPermaLink="false">https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html</guid>
+            <link>https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html</link>
             
             
             
-            <author><![CDATA[Timothee]]></author>
+            <author><![CDATA[pbamotra]]></author>
             
                 
             
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[cglong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Google Scholar search: "certainly, here is" -chatgpt -llm]]></title>
+            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=39733605 target=_blank>77 comments</a>]]></description>
+            <pubDate>2024-03-17T11:14:56Z</pubDate>
+            <guid isPermaLink="false">https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/</guid>
+            <link>https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/</link>
+            
+            
+            
+            <author><![CDATA[wanderingmind]]></author>
             
                 
             
