@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How web bloat impacts users with slow devices]]></title>
-            <description><![CDATA[561 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>324 comments</a>]]></description>
+            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=39729057 target=_blank>325 comments</a>]]></description>
             <pubDate>2024-03-16T20:08:30Z</pubDate>
             <guid isPermaLink="false">https://danluu.com/slow-device/</guid>
             <link>https://danluu.com/slow-device/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Fuzzing Ladybird with tools from Google Project Zero]]></title>
-            <description><![CDATA[421 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=39725057 target=_blank>48 comments</a>]]></description>
             <pubDate>2024-03-16T11:49:57Z</pubDate>
             <guid isPermaLink="false">https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</guid>
             <link>https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Hackintosh Is Almost Dead]]></title>
-            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>410 comments</a>]]></description>
+            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=39728146 target=_blank>410 comments</a>]]></description>
             <pubDate>2024-03-16T18:16:17Z</pubDate>
             <guid isPermaLink="false">https://aplus.rs/2024/hackintosh-almost-dead/</guid>
             <link>https://aplus.rs/2024/hackintosh-almost-dead/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Cloudflare loses 22% of its domains in Freenom .tk shutdown]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=39725303 target=_blank>200 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=39725303 target=_blank>200 comments</a>]]></description>
             <pubDate>2024-03-16T12:24:54Z</pubDate>
             <guid isPermaLink="false">https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/</guid>
             <link>https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Libraries struggle to afford e-books, seek new laws in fight with publishers]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=39724045 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=39724045 target=_blank>162 comments</a>]]></description>
             <pubDate>2024-03-16T07:47:11Z</pubDate>
             <guid isPermaLink="false">https://abcnews.go.com/US/wireStory/libraries-struggle-afford-demand-books-seek-new-state-108035200</guid>
             <link>https://abcnews.go.com/US/wireStory/libraries-struggle-afford-demand-books-seek-new-state-108035200</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Affordable Wheel Based Refreshable Braille Display]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=39724312 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=39724312 target=_blank>66 comments</a>]]></description>
             <pubDate>2024-03-16T08:52:48Z</pubDate>
             <guid isPermaLink="false">https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html</guid>
             <link>https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: Flash Attention in ~100 lines of CUDA]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=39726781 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=39726781 target=_blank>32 comments</a>]]></description>
             <pubDate>2024-03-16T15:31:59Z</pubDate>
             <guid isPermaLink="false">https://github.com/tspeterkim/flash-attention-minimal</guid>
             <link>https://github.com/tspeterkim/flash-attention-minimal</link>
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[The return of the frame pointers]]></title>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>34 comments</a>]]></description>
+            <pubDate>2024-03-17T03:59:07Z</pubDate>
+            <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</guid>
+            <link>https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</link>
+            
+            
+            
+            <author><![CDATA[mfiguiere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[AutoDev: Automated AI-driven development by Microsoft]]></title>
             <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=39724356 target=_blank>191 comments</a>]]></description>
             <pubDate>2024-03-16T09:03:06Z</pubDate>
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[saran945]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The return of the frame pointers]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=39731824 target=_blank>33 comments</a>]]></description>
-            <pubDate>2024-03-17T03:59:07Z</pubDate>
-            <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</guid>
-            <link>https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html</link>
-            
-            
-            
-            <author><![CDATA[mfiguiere]]></author>
             
                 
             
