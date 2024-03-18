@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #659]]></title>
+        <title><![CDATA[Perl Weekly #660]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Reading sequences from FASTA format alignment by Bio::Perl]]></title>
-            <description><![CDATA[Reading sequences from FASTA format alignment by Bio::Perl]]></description>
-            <pubDate>2024.03</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/glycine/2024/03/reading-sequences-from-fasta-foramt-alignment-by-bioperl.html</guid>
-            <link>https://blogs.perl.org/users/glycine/2024/03/reading-sequences-from-fasta-foramt-alignment-by-bioperl.html</link>
+            <title><![CDATA[Registration for The Perl and Raku Conference 2024 is open!]]></title>
+            <description><![CDATA[Time has come to start preparing for the next big event. Please reserve your place as soon as you can.]]></description>
+            <pubDate>2024.03.15</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/registration_perl_and_raku_conference_2024</guid>
+            <link>https://news.perlfoundation.org/post/registration_perl_and_raku_conference_2024</link>
             
             
             
-            <author><![CDATA[glycine]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Pointless personal side projects]]></title>
-            <description><![CDATA[I think only a very little subset of programmers have such side projects and an even smaller subset write articles about these projects. For most people programming is a 9-5 job. It is not that others aren't as good or don't enjoy programming. It is just that they might have different hobbies, or no time for hobbies at all. Comment on <a href="https://www.reddit.com/r/perl/comments/1balao3/pointless_personal_side_projects_perl_hacks/">Reddit</a> or on <a href="https://dev.to/davorg/pointless-personal-side-projects-1jlk">DEV.to</a>.]]></description>
-            <pubDate>2024.03.09</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2024/03/pointless-personal-side-projects/</guid>
-            <link>https://perlhacks.com/2024/03/pointless-personal-side-projects/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[todd_rinaldo]]></author>
             
                 
             
@@ -50,11 +34,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Some guidance how to set this up]]></title>
-            <description><![CDATA[A very non-descriptive title for some logging/debugging advice.]]></description>
-            <pubDate>2024.03.10</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1bayass/some_guidance_how_to_set_this_up/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1bayass/some_guidance_how_to_set_this_up/</link>
+            <title><![CDATA[What's new on CPAN - February 2024]]></title>
+            <description><![CDATA[It is so pleasing to see my favourite series is back. Thank you the entire team behind this, you guys are doing a great service to keep this alive.]]></description>
+            <pubDate>2024.03.14</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/what-s-new-on-cpan-february-2024/</guid>
+            <link>https://www.perl.com/article/what-s-new-on-cpan-february-2024/</link>
+            
+            
+            
+            <author><![CDATA[mathew_korica]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PSC #140 2024-03-14]]></title>
+            <description><![CDATA[Another week another update by the super charged <strong>Perl Steering Council</strong>.]]></description>
+            <pubDate>2024.03.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/03/psc-140-2024-03-14.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/03/psc-140-2024-03-14.html</link>
             
             
             
@@ -66,9 +66,25 @@
         </item>
         
         <item>
+            <title><![CDATA[2024.11 Membering]]></title>
+            <description><![CDATA[2024.11 Membering]]></description>
+            <pubDate>2024.03.11</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/03/11/2024-11-membering/</guid>
+            <link>https://rakudoweekly.blog/2024/03/11/2024-11-membering/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/03/cdlxxxvi-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
-            <pubDate>2024.03.09</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/03/cdlxxxvii-12-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/03/dlxxxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/03/dcvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.03.17</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
