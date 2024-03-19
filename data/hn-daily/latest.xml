@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[YouTube now requires to label their realistic-looking videos made using AI]]></title>
-            <description><![CDATA[715 points | <a href=https://news.ycombinator.com/item?id=39746468 target=_blank>415 comments</a>]]></description>
+            <description><![CDATA[715 points | <a href=https://news.ycombinator.com/item?id=39746468 target=_blank>416 comments</a>]]></description>
             <pubDate>2024-03-18T16:19:58Z</pubDate>
             <guid isPermaLink="false">https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/</guid>
             <link>https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Stability.ai – Introducing Stable Video 3D]]></title>
-            <description><![CDATA[610 points | <a href=https://news.ycombinator.com/item?id=39749312 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[612 points | <a href=https://news.ycombinator.com/item?id=39749312 target=_blank>109 comments</a>]]></description>
             <pubDate>2024-03-18T20:06:17Z</pubDate>
             <guid isPermaLink="false">https://stability.ai/news/introducing-stable-video-3d</guid>
             <link>https://stability.ai/news/introducing-stable-video-3d</link>
@@ -43,6 +43,22 @@
             
             
             <author><![CDATA[ed]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport]]></title>
+            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=39745993 target=_blank>168 comments</a>]]></description>
+            <pubDate>2024-03-18T15:36:57Z</pubDate>
+            <guid isPermaLink="false">https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html</guid>
+            <link>https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html</link>
+            
+            
+            
+            <author><![CDATA[bubblehack3r]]></author>
             
                 
             
@@ -66,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[WebSockets vs. Server-Sent-Events vs. Long-Polling vs. WebRTC vs. WebTransport]]></title>
-            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=39745993 target=_blank>166 comments</a>]]></description>
-            <pubDate>2024-03-18T15:36:57Z</pubDate>
-            <guid isPermaLink="false">https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html</guid>
-            <link>https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html</link>
-            
-            
-            
-            <author><![CDATA[bubblehack3r]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Nvidia CEO Jensen Huang announces new AI chips: ‘We need bigger GPUs’]]></title>
-            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=39749646 target=_blank>281 comments</a>]]></description>
+            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=39749646 target=_blank>282 comments</a>]]></description>
             <pubDate>2024-03-18T20:32:46Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html</guid>
             <link>https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Gaining kernel code execution on an MTE-enabled Pixel 8]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=39752051 target=_blank>30 comments</a>]]></description>
-            <pubDate>2024-03-19T01:20:45Z</pubDate>
-            <guid isPermaLink="false">https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/</guid>
-            <link>https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/</link>
-            
-            
-            
-            <author><![CDATA[gulced]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Garnet – A new remote cache-store from Microsoft Research]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=39752504 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=39752504 target=_blank>63 comments</a>]]></description>
             <pubDate>2024-03-19T02:56:33Z</pubDate>
             <guid isPermaLink="false">https://github.com/microsoft/garnet</guid>
             <link>https://github.com/microsoft/garnet</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Gaining kernel code execution on an MTE-enabled Pixel 8]]></title>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=39752051 target=_blank>30 comments</a>]]></description>
+            <pubDate>2024-03-19T01:20:45Z</pubDate>
+            <guid isPermaLink="false">https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/</guid>
+            <link>https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/</link>
+            
+            
+            
+            <author><![CDATA[gulced]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How I replaced deadly garage door torsion springs (2002)]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=39744989 target=_blank>292 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=39744989 target=_blank>293 comments</a>]]></description>
             <pubDate>2024-03-18T14:24:32Z</pubDate>
             <guid isPermaLink="false">https://www.truetex.com/garage.htm</guid>
             <link>https://www.truetex.com/garage.htm</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[RP2040 Boot Sequence]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=39746625 target=_blank>45 comments</a>]]></description>
-            <pubDate>2024-03-18T16:31:55Z</pubDate>
-            <guid isPermaLink="false">https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html</guid>
-            <link>https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html</link>
+            <title><![CDATA[20 Years of "Not Even Wrong"]]></title>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39753115 target=_blank>69 comments</a>]]></description>
+            <pubDate>2024-03-19T05:08:21Z</pubDate>
+            <guid isPermaLink="false">https://www.math.columbia.edu/~woit/wordpress/?p=13864</guid>
+            <link>https://www.math.columbia.edu/~woit/wordpress/?p=13864</link>
             
             
             
-            <author><![CDATA[vmoore]]></author>
+            <author><![CDATA[chmaynard]]></author>
             
                 
             
