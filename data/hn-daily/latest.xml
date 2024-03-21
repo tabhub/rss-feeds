@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[U.S. sues Apple, accusing it of maintaining an iPhone monopoly]]></title>
-            <description><![CDATA[1223 points | <a href=https://news.ycombinator.com/item?id=39778999 target=_blank>1209 comments</a>]]></description>
+            <description><![CDATA[1264 points | <a href=https://news.ycombinator.com/item?id=39778999 target=_blank>1251 comments</a>]]></description>
             <pubDate>2024-03-21T14:37:43Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html</guid>
             <link>https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Vernor Vinge has died]]></title>
-            <description><![CDATA[765 points | <a href=https://news.ycombinator.com/item?id=39775304 target=_blank>206 comments</a>]]></description>
+            <description><![CDATA[776 points | <a href=https://news.ycombinator.com/item?id=39775304 target=_blank>208 comments</a>]]></description>
             <pubDate>2024-03-21T06:08:40Z</pubDate>
             <guid isPermaLink="false">https://file770.com/vernor-vinge-1944-2024/</guid>
             <link>https://file770.com/vernor-vinge-1944-2024/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Difftastic, a structural diff tool that understands syntax]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=39778412 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=39778412 target=_blank>78 comments</a>]]></description>
             <pubDate>2024-03-21T13:42:46Z</pubDate>
             <guid isPermaLink="false">https://difftastic.wilfred.me.uk/</guid>
             <link>https://difftastic.wilfred.me.uk/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The baffling intelligence of a single cell: The story of E. coli chemotaxis]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=39777229 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=39777229 target=_blank>129 comments</a>]]></description>
             <pubDate>2024-03-21T11:29:37Z</pubDate>
             <guid isPermaLink="false">https://jsomers.net/e-coli-chemotaxis/</guid>
             <link>https://jsomers.net/e-coli-chemotaxis/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: GritQL, a Rust CLI for rewriting source code]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=39770908 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=39770908 target=_blank>51 comments</a>]]></description>
             <pubDate>2024-03-20T19:23:11Z</pubDate>
             <guid isPermaLink="false">https://github.com/getgrit/gritql</guid>
             <link>https://github.com/getgrit/gritql</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Redis adopts dual source-available licensing]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=39772562 target=_blank>452 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=39772562 target=_blank>453 comments</a>]]></description>
             <pubDate>2024-03-20T22:06:01Z</pubDate>
             <guid isPermaLink="false">https://redis.com/blog/redis-adopts-dual-source-available-licensing/</guid>
             <link>https://redis.com/blog/redis-adopts-dual-source-available-licensing/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[The Reddits]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=39778590 target=_blank>404 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=39778590 target=_blank>410 comments</a>]]></description>
             <pubDate>2024-03-21T14:00:04Z</pubDate>
             <guid isPermaLink="false">https://www.ycombinator.com/blog/the-reddits</guid>
             <link>https://www.ycombinator.com/blog/the-reddits</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Red Hat to author new Linux driver for Nvidia GPUs in Rust]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=39772409 target=_blank>114 comments</a>]]></description>
-            <pubDate>2024-03-20T21:49:54Z</pubDate>
-            <guid isPermaLink="false">https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions</guid>
-            <link>https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions</link>
-            
-            
-            
-            <author><![CDATA[dralley]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Dropflow, a CSS layout engine for node or <canvas>]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=39778570 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=39778570 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-03-21T13:58:31Z</pubDate>
             <guid isPermaLink="false">https://github.com/chearon/dropflow</guid>
             <link>https://github.com/chearon/dropflow</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Red Hat to author new Linux driver for Nvidia GPUs in Rust]]></title>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=39772409 target=_blank>114 comments</a>]]></description>
+            <pubDate>2024-03-20T21:49:54Z</pubDate>
+            <guid isPermaLink="false">https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions</guid>
+            <link>https://www.phoronix.com/news/Red-Hat-Nova-Rust-Abstractions</link>
+            
+            
+            
+            <author><![CDATA[dralley]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Why did we wait so long for the bicycle? (2019)]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=39774253 target=_blank>208 comments</a>]]></description>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=39774253 target=_blank>209 comments</a>]]></description>
             <pubDate>2024-03-21T02:10:23Z</pubDate>
             <guid isPermaLink="false">https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</guid>
             <link>https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</link>
