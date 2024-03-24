@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Linux Crisis Tools]]></title>
-            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=39804214 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=39804214 target=_blank>106 comments</a>]]></description>
             <pubDate>2024-03-24T00:51:44Z</pubDate>
             <guid isPermaLink="false">https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html</guid>
             <link>https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[New Aztec Codices Discovered: The Codices of San Andrés Tetepilco]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=39803508 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=39803508 target=_blank>87 comments</a>]]></description>
             <pubDate>2024-03-23T22:34:27Z</pubDate>
             <guid isPermaLink="false">https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/</guid>
             <link>https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[TinySSH is a small SSH server using NaCl, TweetNaCl]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=39806139 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=39806139 target=_blank>89 comments</a>]]></description>
             <pubDate>2024-03-24T10:04:55Z</pubDate>
             <guid isPermaLink="false">https://github.com/janmojzis/tinyssh</guid>
             <link>https://github.com/janmojzis/tinyssh</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[What happens to Google Maps when tectonic plates move? (2020)]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=39802934 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=39802934 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-03-23T20:36:20Z</pubDate>
             <guid isPermaLink="false">https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/</guid>
             <link>https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/</link>
@@ -107,38 +107,6 @@
             
             
             <author><![CDATA[dmitrysergeyev]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: Rotary Phone Project]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=39801991 target=_blank>42 comments</a>]]></description>
-            <pubDate>2024-03-23T18:21:21Z</pubDate>
-            <guid isPermaLink="false">https://github.com/mnutt/rotary</guid>
-            <link>https://github.com/mnutt/rotary</link>
-            
-            
-            
-            <author><![CDATA[mnutt]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Intel 8088 processor's instruction prefetch circuitry: a look inside]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=39801963 target=_blank>43 comments</a>]]></description>
-            <pubDate>2024-03-23T18:17:52Z</pubDate>
-            <guid isPermaLink="false">https://www.righto.com/2024/03/8088-prefetch-circuitry.html</guid>
-            <link>https://www.righto.com/2024/03/8088-prefetch-circuitry.html</link>
-            
-            
-            
-            <author><![CDATA[matt_d]]></author>
             
                 
             
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[After 41 years, my first assembly program on my first computer, the Tomy Tutor]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=39804204 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=39804204 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-03-24T00:50:43Z</pubDate>
             <guid isPermaLink="false">http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html</guid>
             <link>http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html</link>
@@ -194,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[PSChess – A chess engine in PostScript]]></title>
+            <description><![CDATA[117 points | <a href=https://news.ycombinator.com/item?id=39803606 target=_blank>15 comments</a>]]></description>
+            <pubDate>2024-03-23T22:54:48Z</pubDate>
+            <guid isPermaLink="false">https://seriot.ch/projects/pschess.html</guid>
+            <link>https://seriot.ch/projects/pschess.html</link>
+            
+            
+            
+            <author><![CDATA[beefburger]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Creating an autopilot in X-Plane using Python]]></title>
             <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=39805269 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-03-24T05:07:49Z</pubDate>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[signa11]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Speaking without vocal cords, thanks to a new AI-assisted wearable device]]></title>
+            <description><![CDATA[114 points | <a href=https://news.ycombinator.com/item?id=39804138 target=_blank>28 comments</a>]]></description>
+            <pubDate>2024-03-24T00:39:38Z</pubDate>
+            <guid isPermaLink="false">https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech</guid>
+            <link>https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech</link>
+            
+            
+            
+            <author><![CDATA[geox]]></author>
             
                 
             
