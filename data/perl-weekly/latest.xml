@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #660]]></title>
+        <title><![CDATA[Perl Weekly #661]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,43 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Registration for The Perl and Raku Conference 2024 is open!]]></title>
-            <description><![CDATA[Time has come to start preparing for the next big event. Please reserve your place as soon as you can.]]></description>
-            <pubDate>2024.03.15</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/registration_perl_and_raku_conference_2024</guid>
-            <link>https://news.perlfoundation.org/post/registration_perl_and_raku_conference_2024</link>
-            
-            
-            
-            <author><![CDATA[todd_rinaldo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What's new on CPAN - February 2024]]></title>
-            <description><![CDATA[It is so pleasing to see my favourite series is back. Thank you the entire team behind this, you guys are doing a great service to keep this alive.]]></description>
-            <pubDate>2024.03.14</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/what-s-new-on-cpan-february-2024/</guid>
-            <link>https://www.perl.com/article/what-s-new-on-cpan-february-2024/</link>
-            
-            
-            
-            <author><![CDATA[mathew_korica]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PSC #140 2024-03-14]]></title>
-            <description><![CDATA[Another week another update by the super charged <strong>Perl Steering Council</strong>.]]></description>
-            <pubDate>2024.03.16</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/03/psc-140-2024-03-14.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/03/psc-140-2024-03-14.html</link>
+            <title><![CDATA[perl 5.39.9 released]]></title>
+            <description><![CDATA[With the new ^^ logical xor operator. And a reminder: it is a development release.]]></description>
+            <pubDate>2024.03.21</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/release/PEVANS/perl-5.39.9/view/pod/perldelta.pod</guid>
+            <link>https://metacpan.org/release/PEVANS/perl-5.39.9/view/pod/perldelta.pod</link>
             
             
             
@@ -66,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.11 Membering]]></title>
-            <description><![CDATA[2024.11 Membering]]></description>
-            <pubDate>2024.03.11</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/03/11/2024-11-membering/</guid>
-            <link>https://rakudoweekly.blog/2024/03/11/2024-11-membering/</link>
+            <title><![CDATA[Changes in MooX::Role::Parameterized]]></title>
+            <description><![CDATA[Roles are used when you need to share behaviour among several classes that don’t have to be related by inheritance. Normally, a role just adds a bunch of methods to the class that consumes it (there’s more, you can for example specify which other methods the role expects to already exist). A parameterized role makes it possible to provide parameters for the consumed role. This way, you can adjust the behaviour for each consuming class.]]></description>
+            <pubDate>2024.03.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/e_choroba/2024/03/changes-in-mooxroleparameterized.html</guid>
+            <link>https://blogs.perl.org/users/e_choroba/2024/03/changes-in-mooxroleparameterized.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -83,8 +51,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/03/cdlxxxvii-12-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/03/dlxxxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/03/dcvi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.03.17</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/03/cdlxxxviii-12-great-cpan-modules.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2024.03.24</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
