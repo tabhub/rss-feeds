@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Commission opens non-compliance investigations against Alphabet, Apple and Meta]]></title>
-            <description><![CDATA[539 points | <a href=https://news.ycombinator.com/item?id=39814558 target=_blank>551 comments</a>]]></description>
+            <description><![CDATA[540 points | <a href=https://news.ycombinator.com/item?id=39814558 target=_blank>552 comments</a>]]></description>
             <pubDate>2024-03-25T10:38:17Z</pubDate>
             <guid isPermaLink="false">https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1689</guid>
             <link>https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1689</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[ZenHammer: Rowhammer attacks on AMD Zen-based platforms]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=39819599 target=_blank>115 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=39819599 target=_blank>115 comments</a>]]></description>
             <pubDate>2024-03-25T18:20:05Z</pubDate>
             <guid isPermaLink="false">https://comsec.ethz.ch/research/dram/zenhammer/</guid>
             <link>https://comsec.ethz.ch/research/dram/zenhammer/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Two open source projects with great architecture documentation]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=39819409 target=_blank>21 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=39819409 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-03-25T17:58:56Z</pubDate>
             <guid isPermaLink="false">https://johnjago.com/great-docs/</guid>
             <link>https://johnjago.com/great-docs/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Pyenv – lets you easily switch between multiple versions of Python]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=39813883 target=_blank>292 comments</a>]]></description>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=39813883 target=_blank>293 comments</a>]]></description>
             <pubDate>2024-03-25T08:34:01Z</pubDate>
             <guid isPermaLink="false">https://github.com/pyenv/pyenv</guid>
             <link>https://github.com/pyenv/pyenv</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Google's First Tensor Processing Unit: Architecture]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=39822184 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=39822184 target=_blank>113 comments</a>]]></description>
             <pubDate>2024-03-25T22:56:37Z</pubDate>
             <guid isPermaLink="false">https://thechipletter.substack.com/p/googles-first-tpu-architecture</guid>
             <link>https://thechipletter.substack.com/p/googles-first-tpu-architecture</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Martin Scorsese's secret life as an obsessive VHS archivist]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=39815936 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=39815936 target=_blank>76 comments</a>]]></description>
             <pubDate>2024-03-25T13:20:20Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive</guid>
             <link>https://www.theguardian.com/film/2024/mar/25/martin-scorsese-vhs-video-collection-archive</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Show HN: Tracecat – Open-source security alert automation / SOAR alternative]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=39819458 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39819458 target=_blank>45 comments</a>]]></description>
             <pubDate>2024-03-25T18:05:07Z</pubDate>
             <guid isPermaLink="false">https://github.com/TracecatHQ/tracecat</guid>
             <link>https://github.com/TracecatHQ/tracecat</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[neochris]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Radios, how do they work?]]></title>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=39813679 target=_blank>16 comments</a>]]></description>
+            <pubDate>2024-03-25T07:56:09Z</pubDate>
+            <guid isPermaLink="false">https://lcamtuf.substack.com/p/radios-how-do-they-work</guid>
+            <link>https://lcamtuf.substack.com/p/radios-how-do-they-work</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[anarbadalov]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SPQR 1.3.0: a production-ready system for horizontal scaling of PostgreSQL]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39814877 target=_blank>67 comments</a>]]></description>
-            <pubDate>2024-03-25T11:24:39Z</pubDate>
-            <guid isPermaLink="false">https://github.com/pg-sharding/spqr/discussions/569</guid>
-            <link>https://github.com/pg-sharding/spqr/discussions/569</link>
-            
-            
-            
-            <author><![CDATA[denchick]]></author>
             
                 
             
