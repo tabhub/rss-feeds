@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Backdoor in upstream xz/liblzma leading to SSH server compromise]]></title>
-            <description><![CDATA[2269 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>800 comments</a>]]></description>
+            <description><![CDATA[2294 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>808 comments</a>]]></description>
             <pubDate>2024-03-29T16:16:50Z</pubDate>
             <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2024/03/29/4</guid>
             <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[OpenVoice: Versatile instant voice cloning]]></title>
-            <description><![CDATA[394 points | <a href=https://news.ycombinator.com/item?id=39861578 target=_blank>223 comments</a>]]></description>
+            <description><![CDATA[395 points | <a href=https://news.ycombinator.com/item?id=39861578 target=_blank>224 comments</a>]]></description>
             <pubDate>2024-03-29T07:50:29Z</pubDate>
             <guid isPermaLink="false">https://research.myshell.ai/open-voice</guid>
             <link>https://research.myshell.ai/open-voice</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[The Great Migration from MongoDB to PostgreSQL]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=39860769 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=39860769 target=_blank>276 comments</a>]]></description>
             <pubDate>2024-03-29T04:38:00Z</pubDate>
             <guid isPermaLink="false">https://infisical.com/blog/postgresql-migration-technical</guid>
             <link>https://infisical.com/blog/postgresql-migration-technical</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[The rev.ng decompiler goes open source]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=39859000 target=_blank>58 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=39859000 target=_blank>59 comments</a>]]></description>
             <pubDate>2024-03-29T00:01:03Z</pubDate>
             <guid isPermaLink="false">https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta</guid>
             <link>https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Group buys up large tracts of land in Romania to create 'European Yellowstone']]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=39864412 target=_blank>197 comments</a>]]></description>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=39864412 target=_blank>199 comments</a>]]></description>
             <pubDate>2024-03-29T14:18:56Z</pubDate>
             <guid isPermaLink="false">https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html</guid>
             <link>https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[When new hires get paid more, top performers resign first]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=39867160 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=39867160 target=_blank>180 comments</a>]]></description>
             <pubDate>2024-03-29T18:07:54Z</pubDate>
             <guid isPermaLink="false">https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first</guid>
             <link>https://hbr.org/2024/03/when-new-hires-get-paid-more-top-performers-resign-first</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Ross Anderson has died]]></title>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=39864210 target=_blank>15 comments</a>]]></description>
+            <pubDate>2024-03-29T14:01:13Z</pubDate>
+            <guid isPermaLink="false">https://alecmuffett.com/article/109513</guid>
+            <link>https://alecmuffett.com/article/109513</link>
+            
+            
+            
+            <author><![CDATA[mstef]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Vultr Just Betrayed Us]]></title>
             <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=39860498 target=_blank>1 comments</a>]]></description>
             <pubDate>2024-03-29T03:49:12Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Arraymancer – Deep learning Nim library]]></title>
-            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=39860365 target=_blank>27 comments</a>]]></description>
-            <pubDate>2024-03-29T03:26:07Z</pubDate>
-            <guid isPermaLink="false">https://github.com/mratsim/Arraymancer</guid>
-            <link>https://github.com/mratsim/Arraymancer</link>
-            
-            
-            
-            <author><![CDATA[archargelod]]></author>
             
                 
             
