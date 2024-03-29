@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[What Boeing did to all the guys who remember how to build a plane]]></title>
-            <description><![CDATA[786 points | <a href=https://news.ycombinator.com/item?id=39856413 target=_blank>481 comments</a>]]></description>
+            <description><![CDATA[786 points | <a href=https://news.ycombinator.com/item?id=39856413 target=_blank>484 comments</a>]]></description>
             <pubDate>2024-03-28T19:42:21Z</pubDate>
             <guid isPermaLink="false">https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/</guid>
             <link>https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Simon Riggs has died]]></title>
-            <description><![CDATA[757 points | <a href=https://news.ycombinator.com/item?id=39861680 target=_blank>199 comments</a>]]></description>
+            <description><![CDATA[760 points | <a href=https://news.ycombinator.com/item?id=39861680 target=_blank>202 comments</a>]]></description>
             <pubDate>2024-03-29T08:08:54Z</pubDate>
             <guid isPermaLink="false">https://m6n.io/@fuzzychef/112172393647826741</guid>
             <link>https://m6n.io/@fuzzychef/112172393647826741</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The race to replace Redis]]></title>
-            <description><![CDATA[657 points | <a href=https://news.ycombinator.com/item?id=39858144 target=_blank>444 comments</a>]]></description>
+            <description><![CDATA[661 points | <a href=https://news.ycombinator.com/item?id=39858144 target=_blank>445 comments</a>]]></description>
             <pubDate>2024-03-28T22:27:29Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/</guid>
             <link>https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[NotepadNext – a cross-platform reimplementation of Notepad++]]></title>
-            <description><![CDATA[450 points | <a href=https://news.ycombinator.com/item?id=39854182 target=_blank>286 comments</a>]]></description>
+            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=39854182 target=_blank>286 comments</a>]]></description>
             <pubDate>2024-03-28T16:50:59Z</pubDate>
             <guid isPermaLink="false">https://github.com/dail8859/NotepadNext</guid>
             <link>https://github.com/dail8859/NotepadNext</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[You can't leak users' data if you don't hold it]]></title>
-            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=39857433 target=_blank>151 comments</a>]]></description>
+            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=39857433 target=_blank>152 comments</a>]]></description>
             <pubDate>2024-03-28T21:19:10Z</pubDate>
             <guid isPermaLink="false">https://seancoates.com/blogs/matter-and-privacy</guid>
             <link>https://seancoates.com/blogs/matter-and-privacy</link>
@@ -130,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Backdoor in upstream xz/liblzma leading to SSH server compromise]]></title>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>109 comments</a>]]></description>
+            <pubDate>2024-03-29T16:16:50Z</pubDate>
+            <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2024/03/29/4</guid>
+            <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
+            
+            
+            
+            <author><![CDATA[rkta]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Jamba: Production-grade Mamba-based AI model]]></title>
             <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=39853958 target=_blank>78 comments</a>]]></description>
             <pubDate>2024-03-28T16:36:56Z</pubDate>
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Backdoor in upstream xz/liblzma leading to SSH server compromise]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>76 comments</a>]]></description>
-            <pubDate>2024-03-29T16:16:50Z</pubDate>
-            <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2024/03/29/4</guid>
-            <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
-            
-            
-            
-            <author><![CDATA[rkta]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[OpenVoice: Versatile instant voice cloning]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=39861578 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=39861578 target=_blank>184 comments</a>]]></description>
             <pubDate>2024-03-29T07:50:29Z</pubDate>
             <guid isPermaLink="false">https://research.myshell.ai/open-voice</guid>
             <link>https://research.myshell.ai/open-voice</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[The Great Migration from MongoDB to PostgreSQL]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=39860769 target=_blank>220 comments</a>]]></description>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=39860769 target=_blank>226 comments</a>]]></description>
             <pubDate>2024-03-29T04:38:00Z</pubDate>
             <guid isPermaLink="false">https://infisical.com/blog/postgresql-migration-technical</guid>
             <link>https://infisical.com/blog/postgresql-migration-technical</link>
