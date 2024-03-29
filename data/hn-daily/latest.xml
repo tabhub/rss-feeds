@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Backdoor in upstream xz/liblzma leading to SSH server compromise]]></title>
-            <description><![CDATA[1449 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>483 comments</a>]]></description>
+            <description><![CDATA[1502 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>504 comments</a>]]></description>
             <pubDate>2024-03-29T16:16:50Z</pubDate>
             <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2024/03/29/4</guid>
             <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
@@ -27,22 +27,6 @@
             
             
             <author><![CDATA[rkta]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What Boeing did to all the guys who remember how to build a plane]]></title>
-            <description><![CDATA[795 points | <a href=https://news.ycombinator.com/item?id=39856413 target=_blank>493 comments</a>]]></description>
-            <pubDate>2024-03-28T19:42:21Z</pubDate>
-            <guid isPermaLink="false">https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/</guid>
-            <link>https://prospect.org/infrastructure/transportation/2024-03-28-suicide-mission-boeing/</link>
-            
-            
-            
-            <author><![CDATA[doom2]]></author>
             
                 
             
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[You can't leak users' data if you don't hold it]]></title>
-            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=39857433 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=39857433 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-03-28T21:19:10Z</pubDate>
             <guid isPermaLink="false">https://seancoates.com/blogs/matter-and-privacy</guid>
             <link>https://seancoates.com/blogs/matter-and-privacy</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[OpenVoice: Versatile instant voice cloning]]></title>
-            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=39861578 target=_blank>215 comments</a>]]></description>
+            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=39861578 target=_blank>216 comments</a>]]></description>
             <pubDate>2024-03-29T07:50:29Z</pubDate>
             <guid isPermaLink="false">https://research.myshell.ai/open-voice</guid>
             <link>https://research.myshell.ai/open-voice</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[The Great Migration from MongoDB to PostgreSQL]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=39860769 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=39860769 target=_blank>268 comments</a>]]></description>
             <pubDate>2024-03-29T04:38:00Z</pubDate>
             <guid isPermaLink="false">https://infisical.com/blog/postgresql-migration-technical</guid>
             <link>https://infisical.com/blog/postgresql-migration-technical</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The rev.ng decompiler goes open source]]></title>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=39859000 target=_blank>56 comments</a>]]></description>
+            <pubDate>2024-03-29T00:01:03Z</pubDate>
+            <guid isPermaLink="false">https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta</guid>
+            <link>https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta</link>
+            
+            
+            
+            <author><![CDATA[quic_bcain]]></author>
             
                 
             
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The rev.ng decompiler goes open source]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=39859000 target=_blank>56 comments</a>]]></description>
-            <pubDate>2024-03-29T00:01:03Z</pubDate>
-            <guid isPermaLink="false">https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta</guid>
-            <link>https://rev.ng/blog/open-sourcing-renvg-decompiler-ui-closed-beta</link>
-            
-            
-            
-            <author><![CDATA[quic_bcain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Group buys up large tracts of land in Romania to create 'European Yellowstone']]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=39864412 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=39864412 target=_blank>174 comments</a>]]></description>
             <pubDate>2024-03-29T14:18:56Z</pubDate>
             <guid isPermaLink="false">https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html</guid>
             <link>https://english.elpais.com/international/2024-03-29/philanthropist-group-buys-up-large-tracts-of-land-in-romania-to-create-european-yellowstone.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[geox]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Math writing is dull when it neglects the human dimension]]></title>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=39859801 target=_blank>159 comments</a>]]></description>
+            <pubDate>2024-03-29T02:03:13Z</pubDate>
+            <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html</guid>
+            <link>https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html</link>
+            
+            
+            
+            <author><![CDATA[mathgenius]]></author>
             
                 
             
