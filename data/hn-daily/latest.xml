@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Backdoor in upstream xz/liblzma leading to SSH server compromise]]></title>
-            <description><![CDATA[2705 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>958 comments</a>]]></description>
+            <description><![CDATA[2722 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>967 comments</a>]]></description>
             <pubDate>2024-03-29T16:16:50Z</pubDate>
             <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2024/03/29/4</guid>
             <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[OpenVoice: Versatile instant voice cloning]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=39861578 target=_blank>225 comments</a>]]></description>
+            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=39861578 target=_blank>225 comments</a>]]></description>
             <pubDate>2024-03-29T07:50:29Z</pubDate>
             <guid isPermaLink="false">https://research.myshell.ai/open-voice</guid>
             <link>https://research.myshell.ai/open-voice</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Ross Anderson has died]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=39864210 target=_blank>20 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=39864210 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-03-29T14:01:13Z</pubDate>
             <guid isPermaLink="false">https://alecmuffett.com/article/109513</guid>
             <link>https://alecmuffett.com/article/109513</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Math writing is dull when it neglects the human dimension]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=39859801 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=39859801 target=_blank>165 comments</a>]]></description>
             <pubDate>2024-03-29T02:03:13Z</pubDate>
             <guid isPermaLink="false">https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html</guid>
             <link>https://golem.ph.utexas.edu/category/2024/03/why_mathematics_is_boring_1.html</link>
@@ -178,22 +178,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Monogon: A Linux userland in pure Go]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=39859710 target=_blank>50 comments</a>]]></description>
-            <pubDate>2024-03-29T01:48:44Z</pubDate>
-            <guid isPermaLink="false">https://github.com/monogon-dev/monogon</guid>
-            <link>https://github.com/monogon-dev/monogon</link>
-            
-            
-            
-            <author><![CDATA[caust1c]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Iowa fertilizer spill kills nearly all fish across 60-mile stretch of rivers]]></title>
             <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=39870402 target=_blank>16 comments</a>]]></description>
             <pubDate>2024-03-30T00:04:43Z</pubDate>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[campuscodi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Apache Guacamole: a clientless remote desktop gateway]]></title>
+            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=39867702 target=_blank>29 comments</a>]]></description>
+            <pubDate>2024-03-29T18:59:50Z</pubDate>
+            <guid isPermaLink="false">https://guacamole.apache.org/</guid>
+            <link>https://guacamole.apache.org/</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
