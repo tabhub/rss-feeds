@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Backdoor in upstream xz/liblzma leading to SSH server compromise]]></title>
-            <description><![CDATA[3969 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>1461 comments</a>]]></description>
+            <description><![CDATA[3992 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>1470 comments</a>]]></description>
             <pubDate>2024-03-29T16:16:50Z</pubDate>
             <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2024/03/29/4</guid>
             <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Someone has been attempting to DDoS us for weeks and we do nothing]]></title>
-            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=39872686 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=39872686 target=_blank>176 comments</a>]]></description>
             <pubDate>2024-03-30T07:35:30Z</pubDate>
             <guid isPermaLink="false">https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html</guid>
             <link>https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Apache Guacamole: a clientless remote desktop gateway]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=39867702 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=39867702 target=_blank>41 comments</a>]]></description>
             <pubDate>2024-03-29T18:59:50Z</pubDate>
             <guid isPermaLink="false">https://guacamole.apache.org/</guid>
             <link>https://guacamole.apache.org/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Paint.net]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=39871186 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=39871186 target=_blank>83 comments</a>]]></description>
             <pubDate>2024-03-30T02:07:48Z</pubDate>
             <guid isPermaLink="false">https://www.getpaint.net/</guid>
             <link>https://www.getpaint.net/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Running a Raspberry Pi with a read-only root filesystem]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=39869614 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=39869614 target=_blank>61 comments</a>]]></description>
             <pubDate>2024-03-29T22:19:42Z</pubDate>
             <guid isPermaLink="false">https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html</guid>
             <link>https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Overlay networks based on WebRTC]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=39866325 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=39866325 target=_blank>39 comments</a>]]></description>
             <pubDate>2024-03-29T17:00:07Z</pubDate>
             <guid isPermaLink="false">https://github.com/pojntfx/weron</guid>
             <link>https://github.com/pojntfx/weron</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[keepamovin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Debian on xz-utils: revert to version that does not contain changes by bad actor]]></title>
+            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=39873011 target=_blank>133 comments</a>]]></description>
+            <pubDate>2024-03-30T08:48:34Z</pubDate>
+            <guid isPermaLink="false">https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024</guid>
+            <link>https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024</link>
+            
+            
+            
+            <author><![CDATA[Timshel]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Debian on xz-utils: revert to version that does not contain changes by bad actor]]></title>
-            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=39873011 target=_blank>133 comments</a>]]></description>
-            <pubDate>2024-03-30T08:48:34Z</pubDate>
-            <guid isPermaLink="false">https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024</guid>
-            <link>https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068024</link>
-            
-            
-            
-            <author><![CDATA[Timshel]]></author>
             
                 
             
