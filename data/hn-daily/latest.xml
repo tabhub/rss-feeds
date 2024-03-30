@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Backdoor in upstream xz/liblzma leading to SSH server compromise]]></title>
-            <description><![CDATA[3641 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>1299 comments</a>]]></description>
+            <description><![CDATA[3656 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>1314 comments</a>]]></description>
             <pubDate>2024-03-29T16:16:50Z</pubDate>
             <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2024/03/29/4</guid>
             <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
@@ -66,8 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[We are under DDoS attack and we do nothing]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=39872686 target=_blank>137 comments</a>]]></description>
+            <title><![CDATA[Someone has been attempting to DDoS us for weeks and we do nothing]]></title>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=39872686 target=_blank>145 comments</a>]]></description>
             <pubDate>2024-03-30T07:35:30Z</pubDate>
             <guid isPermaLink="false">https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html</guid>
             <link>https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Santa Barbara's collective memory, sold for kindling]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=39868630 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=39868630 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-03-29T20:25:55Z</pubDate>
             <guid isPermaLink="false">https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/</guid>
             <link>https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Apache Guacamole: a clientless remote desktop gateway]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=39867702 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=39867702 target=_blank>40 comments</a>]]></description>
             <pubDate>2024-03-29T18:59:50Z</pubDate>
             <guid isPermaLink="false">https://guacamole.apache.org/</guid>
             <link>https://guacamole.apache.org/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Running a Raspberry Pi with a read-only root filesystem]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=39869614 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=39869614 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-03-29T22:19:42Z</pubDate>
             <guid isPermaLink="false">https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html</guid>
             <link>https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html</link>
