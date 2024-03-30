@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Backdoor in upstream xz/liblzma leading to SSH server compromise]]></title>
-            <description><![CDATA[3897 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>1424 comments</a>]]></description>
+            <description><![CDATA[3914 points | <a href=https://news.ycombinator.com/item?id=39865810 target=_blank>1431 comments</a>]]></description>
             <pubDate>2024-03-29T16:16:50Z</pubDate>
             <guid isPermaLink="false">https://www.openwall.com/lists/oss-security/2024/03/29/4</guid>
             <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Santa Barbara's collective memory, sold for kindling]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=39868630 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=39868630 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-03-29T20:25:55Z</pubDate>
             <guid isPermaLink="false">https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/</guid>
             <link>https://www.independent.com/2024/03/29/santa-barbaras-collective-memory-sold-for-kindling/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Running a Raspberry Pi with a read-only root filesystem]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=39869614 target=_blank>59 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=39869614 target=_blank>59 comments</a>]]></description>
             <pubDate>2024-03-29T22:19:42Z</pubDate>
             <guid isPermaLink="false">https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html</guid>
             <link>https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html</link>
@@ -139,6 +139,22 @@
             
             
             <author><![CDATA[ingve]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paint.net]]></title>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=39871186 target=_blank>73 comments</a>]]></description>
+            <pubDate>2024-03-30T02:07:48Z</pubDate>
+            <guid isPermaLink="false">https://www.getpaint.net/</guid>
+            <link>https://www.getpaint.net/</link>
+            
+            
+            
+            <author><![CDATA[lazyjeff]]></author>
             
                 
             
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Paint.net]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=39871186 target=_blank>72 comments</a>]]></description>
-            <pubDate>2024-03-30T02:07:48Z</pubDate>
-            <guid isPermaLink="false">https://www.getpaint.net/</guid>
-            <link>https://www.getpaint.net/</link>
-            
-            
-            
-            <author><![CDATA[lazyjeff]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Everything I Know About the XZ Backdoor]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=39868673 target=_blank>26 comments</a>]]></description>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=39868673 target=_blank>26 comments</a>]]></description>
             <pubDate>2024-03-29T20:30:37Z</pubDate>
             <guid isPermaLink="false">https://boehs.org/node/everything-i-know-about-the-xz-backdoor</guid>
             <link>https://boehs.org/node/everything-i-know-about-the-xz-backdoor</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Overlay networks based on WebRTC]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=39866325 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=39866325 target=_blank>39 comments</a>]]></description>
             <pubDate>2024-03-29T17:00:07Z</pubDate>
             <guid isPermaLink="false">https://github.com/pojntfx/weron</guid>
             <link>https://github.com/pojntfx/weron</link>
