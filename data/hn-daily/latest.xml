@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[XZ backdoor: "It's RCE, not auth bypass, and gated/unreplayable."]]></title>
-            <description><![CDATA[441 points | <a href=https://news.ycombinator.com/item?id=39877267 target=_blank>254 comments</a>]]></description>
+            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=39877267 target=_blank>262 comments</a>]]></description>
             <pubDate>2024-03-30T18:19:18Z</pubDate>
             <guid isPermaLink="false">https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b</guid>
             <link>https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[IrfanView]]></title>
-            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=39874931 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=39874931 target=_blank>176 comments</a>]]></description>
             <pubDate>2024-03-30T13:56:45Z</pubDate>
             <guid isPermaLink="false">https://www.irfanview.com/</guid>
             <link>https://www.irfanview.com/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Garbage collection for systems programmers (2023)]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=39873692 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=39873692 target=_blank>137 comments</a>]]></description>
             <pubDate>2024-03-30T11:03:54Z</pubDate>
             <guid isPermaLink="false">https://bitbashing.io/gc-for-systems-programmers.html</guid>
             <link>https://bitbashing.io/gc-for-systems-programmers.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Roll-Invert-Unroll: An easier way to replace a duvet cover]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=39877730 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=39877730 target=_blank>137 comments</a>]]></description>
             <pubDate>2024-03-30T19:16:53Z</pubDate>
             <guid isPermaLink="false">https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover</guid>
             <link>https://danverbraganza.com/writings/an-easier-way-to-replace-a-duvet-cover</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[About the Tailscale.com outage on March 7, 2024]]></title>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=39875822 target=_blank>75 comments</a>]]></description>
+            <pubDate>2024-03-30T15:34:58Z</pubDate>
+            <guid isPermaLink="false">https://tailscale.com/blog/tls-outage-20240307</guid>
+            <link>https://tailscale.com/blog/tls-outage-20240307</link>
+            
+            
+            
+            <author><![CDATA[tatersolid]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Why Has Figma Reinvented the Wheel with PostgreSQL?]]></title>
             <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=39871215 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-03-30T02:13:53Z</pubDate>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[About the Tailscale.com outage on March 7, 2024]]></title>
-            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=39875822 target=_blank>75 comments</a>]]></description>
-            <pubDate>2024-03-30T15:34:58Z</pubDate>
-            <guid isPermaLink="false">https://tailscale.com/blog/tls-outage-20240307</guid>
-            <link>https://tailscale.com/blog/tls-outage-20240307</link>
+            <title><![CDATA[Running OCR against PDFs and images directly in the browser]]></title>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=39877391 target=_blank>23 comments</a>]]></description>
+            <pubDate>2024-03-30T18:33:11Z</pubDate>
+            <guid isPermaLink="false">https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/</guid>
+            <link>https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/</link>
             
             
             
-            <author><![CDATA[tatersolid]]></author>
+            <author><![CDATA[simonw]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[fosterfriends]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Running OCR against PDFs and images directly in the browser]]></title>
-            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=39877391 target=_blank>23 comments</a>]]></description>
-            <pubDate>2024-03-30T18:33:11Z</pubDate>
-            <guid isPermaLink="false">https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/</guid>
-            <link>https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/</link>
-            
-            
-            
-            <author><![CDATA[simonw]]></author>
             
                 
             
