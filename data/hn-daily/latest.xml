@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Timeline of the xz open source attack]]></title>
-            <description><![CDATA[725 points | <a href=https://news.ycombinator.com/item?id=39902241 target=_blank>381 comments</a>]]></description>
+            <description><![CDATA[729 points | <a href=https://news.ycombinator.com/item?id=39902241 target=_blank>382 comments</a>]]></description>
             <pubDate>2024-04-02T03:58:00Z</pubDate>
             <guid isPermaLink="false">https://research.swtch.com/xz-timeline</guid>
             <link>https://research.swtch.com/xz-timeline</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Low Cost Robot Arm]]></title>
-            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=39902205 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=39902205 target=_blank>219 comments</a>]]></description>
             <pubDate>2024-04-02T03:50:18Z</pubDate>
             <guid isPermaLink="false">https://github.com/AlexanderKoch-Koch/low_cost_robot</guid>
             <link>https://github.com/AlexanderKoch-Koch/low_cost_robot</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[You won't find a technical co-founder]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=39902372 target=_blank>291 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=39902372 target=_blank>293 comments</a>]]></description>
             <pubDate>2024-04-02T04:24:18Z</pubDate>
             <guid isPermaLink="false">https://www.breakneck.dev/blog/no-tech-cofounder</guid>
             <link>https://www.breakneck.dev/blog/no-tech-cofounder</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=39900329 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=39900329 target=_blank>56 comments</a>]]></description>
             <pubDate>2024-04-01T22:51:29Z</pubDate>
             <guid isPermaLink="false">https://github.com/pufferffish/wireproxy</guid>
             <link>https://github.com/pufferffish/wireproxy</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Python Cloudflare Workers]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=39905441 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=39905441 target=_blank>81 comments</a>]]></description>
             <pubDate>2024-04-02T13:20:21Z</pubDate>
             <guid isPermaLink="false">https://blog.cloudflare.com/python-workers</guid>
             <link>https://blog.cloudflare.com/python-workers</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Canoo spent double its annual revenue on the CEO's private jet]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=39906924 target=_blank>220 comments</a>]]></description>
-            <pubDate>2024-04-02T15:33:38Z</pubDate>
-            <guid isPermaLink="false">https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/</guid>
-            <link>https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/</link>
-            
-            
-            
-            <author><![CDATA[hampelm]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=39907876 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=39907876 target=_blank>81 comments</a>]]></description>
             <pubDate>2024-04-02T16:46:32Z</pubDate>
             <guid isPermaLink="false">https://dekuliutesla.github.io/citygs/</guid>
             <link>https://dekuliutesla.github.io/citygs/</link>
@@ -123,6 +107,22 @@
             
             
             <author><![CDATA[smusamashah]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Canoo spent double its annual revenue on the CEO's private jet]]></title>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=39906924 target=_blank>221 comments</a>]]></description>
+            <pubDate>2024-04-02T15:33:38Z</pubDate>
+            <guid isPermaLink="false">https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/</guid>
+            <link>https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/</link>
+            
+            
+            
+            <author><![CDATA[hampelm]]></author>
             
                 
             
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[The xz attack shell script]]></title>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=39903685 target=_blank>75 comments</a>]]></description>
+            <pubDate>2024-04-02T09:05:04Z</pubDate>
+            <guid isPermaLink="false">https://research.swtch.com/xz-script</guid>
+            <link>https://research.swtch.com/xz-script</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Banning open weight models would be a disaster]]></title>
             <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=39901978 target=_blank>162 comments</a>]]></description>
             <pubDate>2024-04-02T03:04:21Z</pubDate>
@@ -155,22 +171,6 @@
             
             
             <author><![CDATA[rbren]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The xz attack shell script]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=39903685 target=_blank>71 comments</a>]]></description>
-            <pubDate>2024-04-02T09:05:04Z</pubDate>
-            <guid isPermaLink="false">https://research.swtch.com/xz-script</guid>
-            <link>https://research.swtch.com/xz-script</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Amazon ditches 'just walk out' checkouts at its grocery stores]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=39908579 target=_blank>274 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=39908579 target=_blank>299 comments</a>]]></description>
             <pubDate>2024-04-02T17:39:36Z</pubDate>
             <guid isPermaLink="false">https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116</guid>
             <link>https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116</link>
