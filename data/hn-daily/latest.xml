@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Timeline of the xz open source attack]]></title>
-            <description><![CDATA[724 points | <a href=https://news.ycombinator.com/item?id=39902241 target=_blank>381 comments</a>]]></description>
+            <description><![CDATA[725 points | <a href=https://news.ycombinator.com/item?id=39902241 target=_blank>381 comments</a>]]></description>
             <pubDate>2024-04-02T03:58:00Z</pubDate>
             <guid isPermaLink="false">https://research.swtch.com/xz-timeline</guid>
             <link>https://research.swtch.com/xz-timeline</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[You won't find a technical co-founder]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=39902372 target=_blank>291 comments</a>]]></description>
+            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=39902372 target=_blank>291 comments</a>]]></description>
             <pubDate>2024-04-02T04:24:18Z</pubDate>
             <guid isPermaLink="false">https://www.breakneck.dev/blog/no-tech-cofounder</guid>
             <link>https://www.breakneck.dev/blog/no-tech-cofounder</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Python Cloudflare Workers]]></title>
-            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=39905441 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=39905441 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-04-02T13:20:21Z</pubDate>
             <guid isPermaLink="false">https://blog.cloudflare.com/python-workers</guid>
             <link>https://blog.cloudflare.com/python-workers</link>
@@ -114,6 +114,22 @@
         </item>
         
         <item>
+            <title><![CDATA[CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians]]></title>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=39907876 target=_blank>75 comments</a>]]></description>
+            <pubDate>2024-04-02T16:46:32Z</pubDate>
+            <guid isPermaLink="false">https://dekuliutesla.github.io/citygs/</guid>
+            <link>https://dekuliutesla.github.io/citygs/</link>
+            
+            
+            
+            <author><![CDATA[smusamashah]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[A16Z blogs are just glorified marketing]]></title>
             <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=39901289 target=_blank>128 comments</a>]]></description>
             <pubDate>2024-04-02T01:08:54Z</pubDate>
@@ -123,22 +139,6 @@
             
             
             <author><![CDATA[herecomethefuzz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CityGaussian: Real-time high-quality large-scale scene rendering with Gaussians]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=39907876 target=_blank>75 comments</a>]]></description>
-            <pubDate>2024-04-02T16:46:32Z</pubDate>
-            <guid isPermaLink="false">https://dekuliutesla.github.io/citygs/</guid>
-            <link>https://dekuliutesla.github.io/citygs/</link>
-            
-            
-            
-            <author><![CDATA[smusamashah]]></author>
             
                 
             
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[The xz attack shell script]]></title>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=39903685 target=_blank>61 comments</a>]]></description>
+            <pubDate>2024-04-02T09:05:04Z</pubDate>
+            <guid isPermaLink="false">https://research.swtch.com/xz-script</guid>
+            <link>https://research.swtch.com/xz-script</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Debian Git Monorepo]]></title>
             <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=39903742 target=_blank>142 comments</a>]]></description>
             <pubDate>2024-04-02T09:16:24Z</pubDate>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The xz attack shell script]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=39903685 target=_blank>60 comments</a>]]></description>
-            <pubDate>2024-04-02T09:05:04Z</pubDate>
-            <guid isPermaLink="false">https://research.swtch.com/xz-script</guid>
-            <link>https://research.swtch.com/xz-script</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[3D + 2D: Testing out my cross-platform WASM graphics engine]]></title>
-            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=39907845 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=39907845 target=_blank>62 comments</a>]]></description>
             <pubDate>2024-04-02T16:44:32Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=39907845</guid>
             <link>https://news.ycombinator.com/item?id=39907845</link>
