@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The xz sshd backdoor rabbithole goes quite a bit deeper]]></title>
-            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=39956455 target=_blank>238 comments</a>]]></description>
+            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=39956455 target=_blank>239 comments</a>]]></description>
             <pubDate>2024-04-06T22:59:25Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/bl4sty/status/1776691497506623562</guid>
             <link>https://twitter.com/bl4sty/status/1776691497506623562</link>
@@ -27,22 +27,6 @@
             
             
             <author><![CDATA[nathell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Faces.js, a JavaScript library for generating vector-based cartoon faces]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=39954422 target=_blank>73 comments</a>]]></description>
-            <pubDate>2024-04-06T18:37:36Z</pubDate>
-            <guid isPermaLink="false">https://zengm.com/facesjs/</guid>
-            <link>https://zengm.com/facesjs/</link>
-            
-            
-            
-            <author><![CDATA[starkparker]]></author>
             
                 
             
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[More Agents Is All You Need: LLMs performance scales with the number of agents]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=39955725 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=39955725 target=_blank>180 comments</a>]]></description>
             <pubDate>2024-04-06T21:25:50Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2402.05120</guid>
             <link>https://arxiv.org/abs/2402.05120</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Glory is only 11MB/sec away (2023)]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=39957902 target=_blank>148 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=39957902 target=_blank>148 comments</a>]]></description>
             <pubDate>2024-04-07T03:20:08Z</pubDate>
             <guid isPermaLink="false">https://thmsmlr.com/cheap-infra</guid>
             <link>https://thmsmlr.com/cheap-infra</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Lago, Open-Source Stripe Alternative, banks $22M in funding]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=39957607 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=39957607 target=_blank>108 comments</a>]]></description>
             <pubDate>2024-04-07T02:19:36Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/</guid>
             <link>https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Is the frequency domain a real place?]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=39958260 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=39958260 target=_blank>125 comments</a>]]></description>
             <pubDate>2024-04-07T04:52:39Z</pubDate>
             <guid isPermaLink="false">https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place</guid>
             <link>https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Command injection and backdoor account in D-Link NAS devices]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=39960107 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=39960107 target=_blank>90 comments</a>]]></description>
             <pubDate>2024-04-07T11:39:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/netsecfish/dlink</guid>
             <link>https://github.com/netsecfish/dlink</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Court approves 3M multi-billion dollar settlement over PFAS in drinking water]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=39960069 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=39960069 target=_blank>170 comments</a>]]></description>
             <pubDate>2024-04-07T11:26:52Z</pubDate>
             <guid isPermaLink="false">https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/</guid>
             <link>https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[adityamaru]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Did any processor implement an integer square root instruction?]]></title>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=39959946 target=_blank>50 comments</a>]]></description>
+            <pubDate>2024-04-07T10:55:10Z</pubDate>
+            <guid isPermaLink="false">https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction</guid>
+            <link>https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction</link>
+            
+            
+            
+            <author><![CDATA[rwallace]]></author>
             
                 
             
