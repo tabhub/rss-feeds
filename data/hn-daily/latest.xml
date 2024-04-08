@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The xz sshd backdoor rabbithole goes quite a bit deeper]]></title>
-            <description><![CDATA[415 points | <a href=https://news.ycombinator.com/item?id=39956455 target=_blank>251 comments</a>]]></description>
-            <pubDate>2024-04-06T22:59:25Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/bl4sty/status/1776691497506623562</guid>
-            <link>https://twitter.com/bl4sty/status/1776691497506623562</link>
-            
-            
-            
-            <author><![CDATA[nathell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Glory is only 11MB/sec away (2023)]]></title>
             <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=39957902 target=_blank>152 comments</a>]]></description>
             <pubDate>2024-04-07T03:20:08Z</pubDate>
@@ -66,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Is the frequency domain a real place?]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=39958260 target=_blank>130 comments</a>]]></description>
-            <pubDate>2024-04-07T04:52:39Z</pubDate>
-            <guid isPermaLink="false">https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place</guid>
-            <link>https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[How to found a company in Germany: 14 "easy" steps and lots of pain]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=39959368 target=_blank>292 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=39959368 target=_blank>305 comments</a>]]></description>
             <pubDate>2024-04-07T08:51:20Z</pubDate>
             <guid isPermaLink="false">https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/</guid>
             <link>https://eidel.io/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain/</link>
@@ -98,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Command injection and backdoor account in D-Link NAS devices]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39960107 target=_blank>99 comments</a>]]></description>
-            <pubDate>2024-04-07T11:39:17Z</pubDate>
-            <guid isPermaLink="false">https://github.com/netsecfish/dlink</guid>
-            <link>https://github.com/netsecfish/dlink</link>
+            <title><![CDATA[Is the frequency domain a real place?]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=39958260 target=_blank>132 comments</a>]]></description>
+            <pubDate>2024-04-07T04:52:39Z</pubDate>
+            <guid isPermaLink="false">https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place</guid>
+            <link>https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place</link>
             
             
             
-            <author><![CDATA[campuscodi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Did any processor implement an integer square root instruction?]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39959946 target=_blank>56 comments</a>]]></description>
-            <pubDate>2024-04-07T10:55:10Z</pubDate>
-            <guid isPermaLink="false">https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction</guid>
-            <link>https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction</link>
-            
-            
-            
-            <author><![CDATA[rwallace]]></author>
+            <author><![CDATA[zdw]]></author>
             
                 
             
@@ -131,7 +83,7 @@
         
         <item>
             <title><![CDATA[Mixture-of-Depths: Dynamically allocating compute in transformers]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=39960717 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=39960717 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-04-07T13:42:05Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2404.02258</guid>
             <link>https://arxiv.org/abs/2404.02258</link>
@@ -146,8 +98,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Did any processor implement an integer square root instruction?]]></title>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=39959946 target=_blank>56 comments</a>]]></description>
+            <pubDate>2024-04-07T10:55:10Z</pubDate>
+            <guid isPermaLink="false">https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction</guid>
+            <link>https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction</link>
+            
+            
+            
+            <author><![CDATA[rwallace]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Command injection and backdoor account in D-Link NAS devices]]></title>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=39960107 target=_blank>99 comments</a>]]></description>
+            <pubDate>2024-04-07T11:39:17Z</pubDate>
+            <guid isPermaLink="false">https://github.com/netsecfish/dlink</guid>
+            <link>https://github.com/netsecfish/dlink</link>
+            
+            
+            
+            <author><![CDATA[campuscodi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Court approves 3M multi-billion dollar settlement over PFAS in drinking water]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=39960069 target=_blank>193 comments</a>]]></description>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=39960069 target=_blank>194 comments</a>]]></description>
             <pubDate>2024-04-07T11:26:52Z</pubDate>
             <guid isPermaLink="false">https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/</guid>
             <link>https://www.cbsnews.com/minnesota/news/3m-pfas-drinking-water-settlement/</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: I open-sourced the in-memory PostgreSQL I built at work for E2E tests]]></title>
+            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=39960537 target=_blank>32 comments</a>]]></description>
+            <pubDate>2024-04-07T13:13:43Z</pubDate>
+            <guid isPermaLink="false">https://github.com/stackframe-projects/pgmock</guid>
+            <link>https://github.com/stackframe-projects/pgmock</link>
+            
+            
+            
+            <author><![CDATA[n2d4]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[SentenceTransformers: Python framework for sentence, text and image embeddings]]></title>
-            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=39959790 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=39959790 target=_blank>48 comments</a>]]></description>
             <pubDate>2024-04-07T10:23:51Z</pubDate>
             <guid isPermaLink="false">https://www.sbert.net/index.html</guid>
             <link>https://www.sbert.net/index.html</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A canonical Hamiltonian formulation of the Navier–Stokes problem]]></title>
-            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=39957107 target=_blank>46 comments</a>]]></description>
-            <pubDate>2024-04-07T00:46:28Z</pubDate>
-            <guid isPermaLink="false">https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6</guid>
-            <link>https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6</link>
+            <title><![CDATA[It's not what the world needs right now]]></title>
+            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=39959069 target=_blank>115 comments</a>]]></description>
+            <pubDate>2024-04-07T07:56:40Z</pubDate>
+            <guid isPermaLink="false">https://thebaffler.com/odds-and-ends/its-not-what-the-world-needs-right-now-norman-wilson</guid>
+            <link>https://thebaffler.com/odds-and-ends/its-not-what-the-world-needs-right-now-norman-wilson</link>
             
             
             
-            <author><![CDATA[Anon84]]></author>
+            <author><![CDATA[cribbles]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Dot – A standalone open source app meant for easy use of local LLMs and RAG]]></title>
-            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=39957081 target=_blank>32 comments</a>]]></description>
-            <pubDate>2024-04-07T00:41:13Z</pubDate>
-            <guid isPermaLink="false">https://github.com/alexpinel/Dot</guid>
-            <link>https://github.com/alexpinel/Dot</link>
+            <title><![CDATA[A canonical Hamiltonian formulation of the Navier–Stokes problem]]></title>
+            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=39957107 target=_blank>46 comments</a>]]></description>
+            <pubDate>2024-04-07T00:46:28Z</pubDate>
+            <guid isPermaLink="false">https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6</guid>
+            <link>https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/canonical-hamiltonian-formulation-of-the-navierstokes-problem/B3EB9389AE700867A6A3EA63A45E69C6</link>
             
             
             
-            <author><![CDATA[irsagent]]></author>
+            <author><![CDATA[Anon84]]></author>
             
                 
             
