@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #662]]></title>
+        <title><![CDATA[Perl Weekly #663]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[TPRC/Science Track Submission Dates and Deadlines Coming Fast!]]></title>
-            <description><![CDATA[Talk submissions are still open, and we are seeking proposals on a wide variety of subjects. This includes language features, personal projects, applications like Koha, and anything that may be of general interest to Perl and Raku programmers.]]></description>
-            <pubDate>2024.03.28</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/03/tprcscience-track-submission-dates-and-deadlines-coming-fast.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2024/03/tprcscience-track-submission-dates-and-deadlines-coming-fast.html</link>
+            <title><![CDATA[A FOSS Ecosystem Checklist for the Benefit of Maintainer Sustainability]]></title>
+            <description><![CDATA[A FOSS Ecosystem Checklist for the Benefit of Maintainer Sustainability]]></description>
+            <pubDate>2024.04.02</pubDate>
+            <guid isPermaLink="false">https://code.foo.no/2024/04/02/a-foss-ecosystem-checklist-for-the-benefit-of-maintainer-sustainability/</guid>
+            <link>https://code.foo.no/2024/04/02/a-foss-ecosystem-checklist-for-the-benefit-of-maintainer-sustainability/</link>
             
             
             
-            <author><![CDATA[oodler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This Week in PSC (142)]]></title>
-            <description><![CDATA[Thanks to the weekly update, we get regular news what is happening behind the closed door.]]></description>
-            <pubDate>2024.03.28</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/03/this-week-in-psc-142.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/03/this-week-in-psc-142.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[salve_nilsen]]></author>
             
                 
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Amazon Links and Buttons]]></title>
-            <description><![CDATA[Do you want to know the story behind the CPAN module Amazon::Sites? This is inspirational, you don't want to skip it.]]></description>
-            <pubDate>2024.03.30</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2024/03/amazon-links-and-buttons/</guid>
-            <link>https://perlhacks.com/2024/03/amazon-links-and-buttons/</link>
+            <title><![CDATA[Collecting talks]]></title>
+            <description><![CDATA[Have you ever enjoyed a presentation or a course given by Dave Cross? Well, his beginnings were humble, to say the least, but luckily he did not have time to give up. Anyway, here is an opportunity for Internet archeologists to help Dave.]]></description>
+            <pubDate>2024.04.07</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2024/04/collecting-talks/</guid>
+            <link>https://perlhacks.com/2024/04/collecting-talks/</link>
             
             
             
@@ -66,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[5 Reasons to Sponsor the Perl Toolchain Summit]]></title>
-            <description><![CDATA[It’s that time of year again. In a few weeks, dozens of Perl hackers will be meeting in Lisbon, Portugal to hack furiously on the Perl Toolchain. Here are 5 reasons why you should sponsor the Perl Toolchain Summit.]]></description>
-            <pubDate>2024.03.25</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/5-reasons-to-sponsor-the-perl-toolchain-summit/</guid>
-            <link>https://www.perl.com/article/5-reasons-to-sponsor-the-perl-toolchain-summit/</link>
+            <title><![CDATA[Perl programming using KDE's Kate editor in Linux tutorial]]></title>
+            <description><![CDATA[A video]]></description>
+            <pubDate>2024.04.07</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1by6fid/perl_programming_using_kdes_kate_editor_in_linux/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1by6fid/perl_programming_using_kdes_kate_editor_in_linux/</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Hotel hotspot hijinks]]></title>
-            <description><![CDATA[Ever been staying at a hotel and gotten annoyed that you always have to open a browser to log in for wireless access? Find the solution in this post.]]></description>
-            <pubDate>2024.03.26</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/hotel-hotspot-hijinks/</guid>
-            <link>https://www.perl.com/article/hotel-hotspot-hijinks/</link>
-            
-            
-            
-            <author><![CDATA[paul_cochrane]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -98,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.13 Veyoring Again]]></title>
-            <description><![CDATA[2024.13 Veyoring Again]]></description>
-            <pubDate>2024.03.25</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/03/25/2024-13-veyoring-again/</guid>
-            <link>https://rakudoweekly.blog/2024/03/25/2024-13-veyoring-again/</link>
+            <title><![CDATA[PDL 2.087 released and a summary of a ~year of PDL]]></title>
+            <description><![CDATA[PDL 2.087 released and a summary of a ~year of PDL]]></description>
+            <pubDate>2024.04.07</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1by46uj/pdl_2087_released_and_a_summary_of_a_year_of_pdl/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1by46uj/pdl_2087_released_and_a_summary_of_a_year_of_pdl/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -115,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/03/cdlxxxix-4-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/03/dlxxxiv-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/03/dcvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.03.30</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/04/cdxc-7-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/04/dlxxxv-metacpan-weekly-report.html">MetaCPAN weekly report</a>;]]></description>
+            <pubDate>2024.04</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
