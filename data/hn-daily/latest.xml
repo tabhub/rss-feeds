@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: Sonauto – A more controllable AI music creator]]></title>
-            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=39992817 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=39992817 target=_blank>196 comments</a>]]></description>
             <pubDate>2024-04-10T16:48:01Z</pubDate>
             <guid isPermaLink="false">https://sonauto.ai/</guid>
             <link>https://sonauto.ai/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Twitter's pivot to x.com is a gift to phishers]]></title>
-            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=39991173 target=_blank>365 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=39991173 target=_blank>366 comments</a>]]></description>
             <pubDate>2024-04-10T14:35:37Z</pubDate>
             <guid isPermaLink="false">https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/</guid>
             <link>https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Aider: AI pair programming in your terminal]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=39995725 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=39995725 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-04-10T21:06:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/paul-gauthier/aider</guid>
             <link>https://github.com/paul-gauthier/aider</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: ADS-B visualizer]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=39990346 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=39990346 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-04-10T13:15:02Z</pubDate>
             <guid isPermaLink="false">https://adsb.exposed/</guid>
             <link>https://adsb.exposed/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Code search is hard]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=39993976 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=39993976 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-04-10T18:15:08Z</pubDate>
             <guid isPermaLink="false">https://blog.val.town/blog/search-notes/</guid>
             <link>https://blog.val.town/blog/search-notes/</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[AI-generated sad girl with piano performs the text of the MIT License]]></title>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=39998849 target=_blank>76 comments</a>]]></description>
+            <pubDate>2024-04-11T06:01:32Z</pubDate>
+            <guid isPermaLink="false">https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/</guid>
+            <link>https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/</link>
+            
+            
+            
+            <author><![CDATA[hongsy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[EPA Says 'Forever Chemicals' Must Be Removed from Tap Water]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=39996433 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=39996433 target=_blank>157 comments</a>]]></description>
             <pubDate>2024-04-10T22:37:52Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html</guid>
             <link>https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html</link>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[AI-generated sad girl with piano performs the text of the MIT License]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=39998849 target=_blank>62 comments</a>]]></description>
-            <pubDate>2024-04-11T06:01:32Z</pubDate>
-            <guid isPermaLink="false">https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/</guid>
-            <link>https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/</link>
-            
-            
-            
-            <author><![CDATA[hongsy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Implementation of Google's Griffin Architecture – RNN LLM]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=39993626 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=39993626 target=_blank>32 comments</a>]]></description>
             <pubDate>2024-04-10T17:47:11Z</pubDate>
             <guid isPermaLink="false">https://github.com/google-deepmind/recurrentgemma</guid>
             <link>https://github.com/google-deepmind/recurrentgemma</link>
