@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[An open source initiative to share and compare heat pump performance data]]></title>
-            <description><![CDATA[512 points | <a href=https://news.ycombinator.com/item?id=40010615 target=_blank>237 comments</a>]]></description>
+            <description><![CDATA[520 points | <a href=https://news.ycombinator.com/item?id=40010615 target=_blank>244 comments</a>]]></description>
             <pubDate>2024-04-12T08:53:16Z</pubDate>
             <guid isPermaLink="false">https://heatpumpmonitor.org/</guid>
             <link>https://heatpumpmonitor.org/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Tinygrad: Hacked 4090 driver to enable P2P]]></title>
-            <description><![CDATA[371 points | <a href=https://news.ycombinator.com/item?id=40010819 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=40010819 target=_blank>181 comments</a>]]></description>
             <pubDate>2024-04-12T09:27:58Z</pubDate>
             <guid isPermaLink="false">https://github.com/tinygrad/open-gpu-kernel-modules</guid>
             <link>https://github.com/tinygrad/open-gpu-kernel-modules</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[I Lost Faith in Kagi]]></title>
-            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=40011314 target=_blank>305 comments</a>]]></description>
+            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=40011314 target=_blank>320 comments</a>]]></description>
             <pubDate>2024-04-12T11:17:43Z</pubDate>
             <guid isPermaLink="false">https://d-shoot.net/kagi.html</guid>
             <link>https://d-shoot.net/kagi.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[There’s a 30-year old dead Rabbit in Seven Sisters tube station]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=40009856 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=40009856 target=_blank>147 comments</a>]]></description>
             <pubDate>2024-04-12T06:14:55Z</pubDate>
             <guid isPermaLink="false">https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/</guid>
             <link>https://www.ianvisits.co.uk/articles/theres-a-dead-rabbit-in-seven-sisters-tube-station-71502/</link>
@@ -98,7 +98,7 @@
         </item>
         
         <item>
-            <title><![CDATA[Webb – Space Telescope Live. What Is Webb Observing Now?]]></title>
+            <title><![CDATA[What is Webb observing now?]]></title>
             <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=40010221 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-04-12T07:29:17Z</pubDate>
             <guid isPermaLink="false">https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1</guid>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Man creatively sneaks onto Delta flight, but gets caught]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40004889 target=_blank>366 comments</a>]]></description>
-            <pubDate>2024-04-11T17:53:47Z</pubDate>
-            <guid isPermaLink="false">https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/</guid>
-            <link>https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/</link>
-            
-            
-            
-            <author><![CDATA[jerlam]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Building a Linux Container Using Namespaces: Part – 1 (2020)]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40008841 target=_blank>16 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=40008841 target=_blank>17 comments</a>]]></description>
             <pubDate>2024-04-12T02:22:25Z</pubDate>
             <guid isPermaLink="false">https://www.polarsparc.com/xhtml/Containers-1.html</guid>
             <link>https://www.polarsparc.com/xhtml/Containers-1.html</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[Arteiii]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Man creatively sneaks onto Delta flight, but gets caught]]></title>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=40004889 target=_blank>366 comments</a>]]></description>
+            <pubDate>2024-04-11T17:53:47Z</pubDate>
+            <guid isPermaLink="false">https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/</guid>
+            <link>https://onemileatatime.com/news/man-creatively-sneaks-onto-delta-flight/</link>
+            
+            
+            
+            <author><![CDATA[jerlam]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[DwarFS – Deduplicating Warp-Speed Advanced Read-Only File System]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=40008755 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=40008755 target=_blank>56 comments</a>]]></description>
             <pubDate>2024-04-12T02:04:54Z</pubDate>
             <guid isPermaLink="false">https://github.com/mhx/dwarfs</guid>
             <link>https://github.com/mhx/dwarfs</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[H-1B visa fraud alive and well amid anti-abuse efforts]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=40010579 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=40010579 target=_blank>177 comments</a>]]></description>
             <pubDate>2024-04-12T08:47:48Z</pubDate>
             <guid isPermaLink="false">https://www.theregister.com/2024/04/09/h1b_visa_fraud/</guid>
             <link>https://www.theregister.com/2024/04/09/h1b_visa_fraud/</link>
