@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Visualizing Attention, a Transformer's Heart [video]]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=40035514 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=40035514 target=_blank>42 comments</a>]]></description>
             <pubDate>2024-04-14T23:38:01Z</pubDate>
             <guid isPermaLink="false">https://www.3blue1brown.com/lessons/attention</guid>
             <link>https://www.3blue1brown.com/lessons/attention</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Redis re-implemented with SQLite]]></title>
-            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=40030746 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=40030746 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-04-14T12:51:51Z</pubDate>
             <guid isPermaLink="false">https://github.com/nalgeon/redka</guid>
             <link>https://github.com/nalgeon/redka</link>
@@ -66,6 +66,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Kate editor on all platforms]]></title>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=40032869 target=_blank>96 comments</a>]]></description>
+            <pubDate>2024-04-14T17:47:00Z</pubDate>
+            <guid isPermaLink="false">https://cullmann.io/posts/kate-on-all-platforms-2024/</guid>
+            <link>https://cullmann.io/posts/kate-on-all-platforms-2024/</link>
+            
+            
+            
+            <author><![CDATA[cullmann]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Hospitals that make profits should pay taxes]]></title>
             <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=40032233 target=_blank>180 comments</a>]]></description>
             <pubDate>2024-04-14T16:23:30Z</pubDate>
@@ -82,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Kate editor on all platforms]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=40032869 target=_blank>95 comments</a>]]></description>
-            <pubDate>2024-04-14T17:47:00Z</pubDate>
-            <guid isPermaLink="false">https://cullmann.io/posts/kate-on-all-platforms-2024/</guid>
-            <link>https://cullmann.io/posts/kate-on-all-platforms-2024/</link>
-            
-            
-            
-            <author><![CDATA[cullmann]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[My cat alerted me to a DDoS attack]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=40034045 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=40034045 target=_blank>91 comments</a>]]></description>
             <pubDate>2024-04-14T20:12:27Z</pubDate>
             <guid isPermaLink="false">https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack</guid>
             <link>https://www.dannyguo.com/blog/my-cat-alerted-me-to-a-ddos-attack</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Discovering my roommate's death on Facebook]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=40033033 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=40033033 target=_blank>92 comments</a>]]></description>
             <pubDate>2024-04-14T18:06:26Z</pubDate>
             <guid isPermaLink="false">https://medium.com/the-wind-phone/discovering-my-roommates-death-on-facebook-3a060fc477ec</guid>
             <link>https://medium.com/the-wind-phone/discovering-my-roommates-death-on-facebook-3a060fc477ec</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[The Guide to Stock Options Conversations]]></title>
-            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=40030721 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=40030721 target=_blank>87 comments</a>]]></description>
             <pubDate>2024-04-14T12:45:18Z</pubDate>
             <guid isPermaLink="false">https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations</guid>
             <link>https://zaidesanton.substack.com/p/the-guide-to-stock-options-conversations</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Sandboxing all the things with Flatpak and BubbleBox]]></title>
+            <description><![CDATA[128 points | <a href=https://news.ycombinator.com/item?id=40033497 target=_blank>57 comments</a>]]></description>
+            <pubDate>2024-04-14T19:04:19Z</pubDate>
+            <guid isPermaLink="false">https://www.ralfj.de/blog/2024/04/14/bubblebox.html</guid>
+            <link>https://www.ralfj.de/blog/2024/04/14/bubblebox.html</link>
+            
+            
+            
+            <author><![CDATA[fanf2]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Personal VPN services are snake oil]]></title>
             <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=40033522 target=_blank>180 comments</a>]]></description>
             <pubDate>2024-04-14T19:08:10Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[ementally]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Sandboxing all the things with Flatpak and BubbleBox]]></title>
-            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=40033497 target=_blank>56 comments</a>]]></description>
-            <pubDate>2024-04-14T19:04:19Z</pubDate>
-            <guid isPermaLink="false">https://www.ralfj.de/blog/2024/04/14/bubblebox.html</guid>
-            <link>https://www.ralfj.de/blog/2024/04/14/bubblebox.html</link>
-            
-            
-            
-            <author><![CDATA[fanf2]]></author>
             
                 
             
