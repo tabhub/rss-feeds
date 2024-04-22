@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #664]]></title>
+        <title><![CDATA[Perl Weekly #665]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,27 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[2024 TPRC Submission Date Extended thru April 20th]]></title>
-            <description><![CDATA[The deadline for talk and paper submissions to the 2024 TPRC has been officially extended through April 20th for both the regular Perl and Raku tracks; and also the Science Track.]]></description>
-            <pubDate>2024.04.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/04/2024-tprc-submission-date-extended-thru-april-20th.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2024/04/2024-tprc-submission-date-extended-thru-april-20th.html</link>
-            
-            
-            
-            <author><![CDATA[oodler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (144) | 2024-04-11]]></title>
-            <description><![CDATA[Perl Steering Council shared the details of last meetup. Good to see, we are making good progress.]]></description>
-            <pubDate>2024.04.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/04/this-week-in-psc-144-2024-04-11.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/04/this-week-in-psc-144-2024-04-11.html</link>
+            <title><![CDATA[The Perl and Raku Conference: Call for Speakers Renewed]]></title>
+            <description><![CDATA[Including this despite the fact that the new dead-line had already passed. Unfortunately the extension was published after the previous edition of the Perl Weekly was published, but maybe they will extend it a few more days. So check it!]]></description>
+            <pubDate>2024.04.16</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc2024-call-for-speakers-renewed</guid>
+            <link>https://news.perlfoundation.org/post/tprc2024-call-for-speakers-renewed</link>
             
             
             
@@ -50,15 +34,127 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.14/15 1K+ / 75%+]]></title>
-            <description><![CDATA[2024.14/15 1K+ / 75%+]]></description>
-            <pubDate>2024.04.08</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/04/08/2024-14-15-1k-75/</guid>
-            <link>https://rakudoweekly.blog/2024/04/08/2024-14-15-1k-75/</link>
+            <title><![CDATA[Phishing Attempt on PAUSE Users]]></title>
+            <description><![CDATA[Phishing Attempt on PAUSE Users]]></description>
+            <pubDate>2024.04.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mark_lawrence/2024/04/phishing-attempt-on-pause-users.html</guid>
+            <link>https://blogs.perl.org/users/mark_lawrence/2024/04/phishing-attempt-on-pause-users.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Orion SSG v5.0.0 released to GitHub]]></title>
+            <description><![CDATA[Fast Perl SSG: now with automatic Language Translation via OCI and translate.pl. <a href="https://github.com/SunStarSys/orion">On GitHub</a>]]></description>
+            <pubDate>2024.04</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1c9lr5u/orion_ssg_v500_released_to_github/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1c9lr5u/orion_ssg_v500_released_to_github/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Things I learned at the Koha Hackfest in Marseille]]></title>
+            <description><![CDATA[It is always fun to read the event reports by Thomas Klausner (aka domm).]]></description>
+            <pubDate>2024.04.19</pubDate>
+            <guid isPermaLink="false">https://domm.plix.at/perl/2024_04_things_i_learned_at_kohahackfest.html</guid>
+            <link>https://domm.plix.at/perl/2024_04_things_i_learned_at_kohahackfest.html</link>
+            
+            
+            
+            <author><![CDATA[thomas_klausner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[I can still count browser tabs]]></title>
+            <description><![CDATA[Ricardo switched from Chrome to Firefox and thus had to write some Perl code to count his tabs.]]></description>
+            <pubDate>2024.04.15</pubDate>
+            <guid isPermaLink="false">https://rjbs.cloud/blog/2024/04/i-can-still-count-browser-tabs/</guid>
+            <link>https://rjbs.cloud/blog/2024/04/i-can-still-count-browser-tabs/</link>
+            
+            
+            
+            <author><![CDATA[ricardo_signes]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Getting Started with perlimports]]></title>
+            <description><![CDATA[perlimports is linter that helps you tidy up your code and Olaf explains in the blog why tidying imports is important.]]></description>
+            <pubDate>2024.04.15</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2024/04/15/getting-started-with-perlimports/</guid>
+            <link>https://www.olafalders.com/2024/04/15/getting-started-with-perlimports/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How to manipulate files on different servers]]></title>
+            <description><![CDATA[I am rather surprised by the patience of the people who responded.]]></description>
+            <pubDate>2024.04</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1c5px6o/how_to_manipulate_files_on_different_servers/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1c5px6o/how_to_manipulate_files_on_different_servers/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Net::SSH::Expect - jump server then to remote device?]]></title>
+            <description><![CDATA[Net::SSH::Expect - jump server then to remote device?]]></description>
+            <pubDate>2024.04.18</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1c6fen7/netsshexpect_jump_server_then_to_remote_device/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1c6fen7/netsshexpect_jump_server_then_to_remote_device/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Why I Like Perl's OO]]></title>
+            <description><![CDATA[Recommended reading along with some of the comments on the <a href="https://www.reddit.com/r/perl/comments/1c6zq24/why_i_like_perls_oo/">Reddit thread</a>. Especially the one by brian d foy talking about the organization and modelling vs. features and syntax.]]></description>
+            <pubDate>2024.04</pubDate>
+            <guid isPermaLink="false">https://davidraab.github.io/posts/why-i-like-perls-oo/</guid>
+            <link>https://davidraab.github.io/posts/why-i-like-perls-oo/</link>
+            
+            
+            
+            <author><![CDATA[david_raab]]></author>
             
                 
             
@@ -67,14 +163,30 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/04/cdxci-4-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/04/dcviii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.04.14</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/04/cdxcii-5-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
+            <pubDate>2024.04.22</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GitHub Sponsors - A series on giving an receiving 💰]]></title>
+            <description><![CDATA[Recently I decided to renew my efforts to get more sponsors via GitHub Sponsors. In order to understand how to do it better I am going to write a series of articles. This is the first one. At one point I'd also like to feature the Perl-developers who could be supported this way. So far I encountered two people: <a href="https://github.com/sponsors/trapd00r">magnus woldrich</a> and <a href="https://github.com/sponsors/davorg">Dave Cross</a> and <a href="https://github.com/sponsors/szabgab/">myself</a>. I'd like to ask you to 1) Add some sponsorship to these two people so when I write about them there will be a few sponsors already. 2) Let me know if you know about any other Perl-developer who is accepting sponsorships via GitHub Sponsors.]]></description>
+            <pubDate>2024.04.20</pubDate>
+            <guid isPermaLink="false">https://dev.to/szabgab/github-sponsors-a-series-on-giving-an-receiving-4fmb</guid>
+            <link>https://dev.to/szabgab/github-sponsors-a-series-on-giving-an-receiving-4fmb</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
