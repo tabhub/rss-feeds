@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Tiny World Map]]></title>
-            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=40104774 target=_blank>84 comments</a>]]></description>
-            <pubDate>2024-04-21T11:21:13Z</pubDate>
-            <guid isPermaLink="false">https://github.com/tinyworldmap/tiny-world-map</guid>
-            <link>https://github.com/tinyworldmap/tiny-world-map</link>
-            
-            
-            
-            <author><![CDATA[bopjesvla]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I made an open source Windows app to rewind and search everything on screen]]></title>
-            <description><![CDATA[420 points | <a href=https://news.ycombinator.com/item?id=40105371 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[425 points | <a href=https://news.ycombinator.com/item?id=40105371 target=_blank>133 comments</a>]]></description>
             <pubDate>2024-04-21T12:53:25Z</pubDate>
             <guid isPermaLink="false">https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c</guid>
             <link>https://tonoko.notion.site/I-made-an-open-source-app-to-rewind-search-everything-happened-on-your-screen-on-Windows-184d1a9d5edb494dba0c2f46d311ec5c</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[From a lorry driver to Ruby on rails developer at 38]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=40105773 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=40105773 target=_blank>187 comments</a>]]></description>
             <pubDate>2024-04-21T13:48:19Z</pubDate>
             <guid isPermaLink="false">https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/</guid>
             <link>https://www.writesoftwarewell.com/lorry-driver-to-rails-developer-at-38/</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Inside the Super Nintendo cartridges]]></title>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=40111274 target=_blank>57 comments</a>]]></description>
+            <pubDate>2024-04-22T03:51:48Z</pubDate>
+            <guid isPermaLink="false">https://fabiensanglard.net/snes_carts/index.html</guid>
+            <link>https://fabiensanglard.net/snes_carts/index.html</link>
+            
+            
+            
+            <author><![CDATA[zdw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Some Fritz!Box modems might have been hijacked]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=40106336 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=40106336 target=_blank>125 comments</a>]]></description>
             <pubDate>2024-04-21T15:08:45Z</pubDate>
             <guid isPermaLink="false">https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/</guid>
             <link>https://crapts.org/2024/04/21/all-fritz-box-modems-have-been-hijacked/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Penzai: JAX research toolkit for building, editing, and visualizing neural nets]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=40107007 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=40107007 target=_blank>44 comments</a>]]></description>
             <pubDate>2024-04-21T16:28:49Z</pubDate>
             <guid isPermaLink="false">https://github.com/google-deepmind/penzai</guid>
             <link>https://github.com/google-deepmind/penzai</link>
@@ -107,22 +107,6 @@
             
             
             <author><![CDATA[mccoyb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Inside the Super Nintendo cartridges]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=40111274 target=_blank>53 comments</a>]]></description>
-            <pubDate>2024-04-22T03:51:48Z</pubDate>
-            <guid isPermaLink="false">https://fabiensanglard.net/snes_carts/index.html</guid>
-            <link>https://fabiensanglard.net/snes_carts/index.html</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
             
                 
             
@@ -146,22 +130,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Ask HN: Which books/resources to understand modern Assembler?]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=40104823 target=_blank>64 comments</a>]]></description>
-            <pubDate>2024-04-21T11:30:20Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=40104823</guid>
-            <link>https://news.ycombinator.com/item?id=40104823</link>
-            
-            
-            
-            <author><![CDATA[throwaway63467]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I can't stand using VSCode so I wrote my own]]></title>
             <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=40106157 target=_blank>165 comments</a>]]></description>
             <pubDate>2024-04-21T14:47:48Z</pubDate>
@@ -178,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Infinitown]]></title>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=40110638 target=_blank>38 comments</a>]]></description>
+            <pubDate>2024-04-22T01:03:26Z</pubDate>
+            <guid isPermaLink="false">https://demos.littleworkshop.fr/infinitown</guid>
+            <link>https://demos.littleworkshop.fr/infinitown</link>
+            
+            
+            
+            <author><![CDATA[memalign]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Simon Tatham's Portable Puzzle Collection]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=40107456 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=40107456 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-04-21T17:25:32Z</pubDate>
             <guid isPermaLink="false">https://www.chiark.greenend.org.uk/~sgtatham/puzzles/</guid>
             <link>https://www.chiark.greenend.org.uk/~sgtatham/puzzles/</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Pico.sh – Hacker Labs]]></title>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=40111022 target=_blank>30 comments</a>]]></description>
+            <pubDate>2024-04-22T02:39:02Z</pubDate>
+            <guid isPermaLink="false">https://github.com/picosh/pico</guid>
+            <link>https://github.com/picosh/pico</link>
+            
+            
+            
+            <author><![CDATA[modinfo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Anti-municipal broadband budget amendment gets nixed in New York]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=40107201 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=40107201 target=_blank>123 comments</a>]]></description>
             <pubDate>2024-04-21T16:48:51Z</pubDate>
             <guid isPermaLink="false">https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york</guid>
             <link>https://communitynets.org/content/anti-muni-broadband-budget-amendment-gets-nixed-new-york</link>
