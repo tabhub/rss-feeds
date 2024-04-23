@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Equinox.space]]></title>
-            <description><![CDATA[1401 points | <a href=https://news.ycombinator.com/item?id=40113013 target=_blank>296 comments</a>]]></description>
-            <pubDate>2024-04-22T10:37:59Z</pubDate>
-            <guid isPermaLink="false">https://equinox.space/</guid>
-            <link>https://equinox.space/</link>
-            
-            
-            
-            <author><![CDATA[fragmede]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Meta Horizon OS]]></title>
-            <description><![CDATA[699 points | <a href=https://news.ycombinator.com/item?id=40115554 target=_blank>571 comments</a>]]></description>
+            <description><![CDATA[700 points | <a href=https://news.ycombinator.com/item?id=40115554 target=_blank>573 comments</a>]]></description>
             <pubDate>2024-04-22T15:54:30Z</pubDate>
             <guid isPermaLink="false">https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/</guid>
             <link>https://www.meta.com/blog/quest/meta-horizon-os-open-hardware-ecosystem-asus-republic-gamers-lenovo-xbox/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[NASA's Voyager 1 Resumes Sending Engineering Updates to Earth]]></title>
-            <description><![CDATA[636 points | <a href=https://news.ycombinator.com/item?id=40117599 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[638 points | <a href=https://news.ycombinator.com/item?id=40117599 target=_blank>159 comments</a>]]></description>
             <pubDate>2024-04-22T18:59:50Z</pubDate>
             <guid isPermaLink="false">https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/</guid>
             <link>https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Krazam OS]]></title>
-            <description><![CDATA[606 points | <a href=https://news.ycombinator.com/item?id=40126751 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[612 points | <a href=https://news.ycombinator.com/item?id=40126751 target=_blank>128 comments</a>]]></description>
             <pubDate>2024-04-22T23:38:43Z</pubDate>
             <guid isPermaLink="false">https://www.krazam.tv/</guid>
             <link>https://www.krazam.tv/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[No one buys books]]></title>
-            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=40119958 target=_blank>424 comments</a>]]></description>
+            <description><![CDATA[456 points | <a href=https://news.ycombinator.com/item?id=40119958 target=_blank>430 comments</a>]]></description>
             <pubDate>2024-04-22T20:36:41Z</pubDate>
             <guid isPermaLink="false">https://www.elysian.press/p/no-one-buys-books</guid>
             <link>https://www.elysian.press/p/no-one-buys-books</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Phi-3 Technical Report]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=40127806 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=40127806 target=_blank>89 comments</a>]]></description>
             <pubDate>2024-04-23T02:21:52Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2404.14219</guid>
             <link>https://arxiv.org/abs/2404.14219</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[North Korean animation outsourcing for Amazon, HBO Max series]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=40117510 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=40117510 target=_blank>154 comments</a>]]></description>
             <pubDate>2024-04-22T18:51:00Z</pubDate>
             <guid isPermaLink="false">https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/</guid>
             <link>https://www.38north.org/2024/04/what-we-learned-inside-a-north-korean-internet-server-how-well-do-you-know-your-partners/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[sveltecult]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Parquet-WASM: Rust-based WebAssembly bindings to read and write Parquet data]]></title>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=40115155 target=_blank>14 comments</a>]]></description>
+            <pubDate>2024-04-22T15:10:00Z</pubDate>
+            <guid isPermaLink="false">https://github.com/kylebarron/parquet-wasm</guid>
+            <link>https://github.com/kylebarron/parquet-wasm</link>
+            
+            
+            
+            <author><![CDATA[kylebarron]]></author>
             
                 
             
