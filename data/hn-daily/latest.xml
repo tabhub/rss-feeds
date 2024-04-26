@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[FCC votes to restore net neutrality rules]]></title>
-            <description><![CDATA[748 points | <a href=https://news.ycombinator.com/item?id=40160429 target=_blank>447 comments</a>]]></description>
+            <description><![CDATA[763 points | <a href=https://news.ycombinator.com/item?id=40160429 target=_blank>452 comments</a>]]></description>
             <pubDate>2024-04-25T17:23:00Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html</guid>
             <link>https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[We have 4 days to contest KYC being required by internet services]]></title>
-            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=40158752 target=_blank>355 comments</a>]]></description>
+            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=40158752 target=_blank>356 comments</a>]]></description>
             <pubDate>2024-04-25T15:31:16Z</pubDate>
             <guid isPermaLink="false">https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious</guid>
             <link>https://www.federalregister.gov/documents/2024/01/29/2024-01580/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious</link>
@@ -43,6 +43,22 @@
             
             
             <author><![CDATA[chadsix]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Open Sourcing DOS 4]]></title>
+            <description><![CDATA[441 points | <a href=https://news.ycombinator.com/item?id=40163405 target=_blank>167 comments</a>]]></description>
+            <pubDate>2024-04-25T21:42:06Z</pubDate>
+            <guid isPermaLink="false">https://www.hanselman.com/blog/open-sourcing-dos-4</guid>
+            <link>https://www.hanselman.com/blog/open-sourcing-dos-4</link>
+            
+            
+            
+            <author><![CDATA[ndiddy]]></author>
             
                 
             
@@ -59,22 +75,6 @@
             
             
             <author><![CDATA[blini2077]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Open Sourcing DOS 4]]></title>
-            <description><![CDATA[427 points | <a href=https://news.ycombinator.com/item?id=40163405 target=_blank>161 comments</a>]]></description>
-            <pubDate>2024-04-25T21:42:06Z</pubDate>
-            <guid isPermaLink="false">https://www.hanselman.com/blog/open-sourcing-dos-4</guid>
-            <link>https://www.hanselman.com/blog/open-sourcing-dos-4</link>
-            
-            
-            
-            <author><![CDATA[ndiddy]]></author>
             
                 
             
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: I made a programmable computer from NAND gates]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=40159278 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=40159278 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-04-25T16:08:05Z</pubDate>
             <guid isPermaLink="false">https://github.com/ArhanChaudhary/NAND</guid>
             <link>https://github.com/ArhanChaudhary/NAND</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Start Your Own ISP]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=40161697 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=40161697 target=_blank>82 comments</a>]]></description>
             <pubDate>2024-04-25T19:06:58Z</pubDate>
             <guid isPermaLink="false">https://startyourownisp.com/</guid>
             <link>https://startyourownisp.com/</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Tiny GPU: A minimal GPU implementation in Verilog]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=40153815 target=_blank>64 comments</a>]]></description>
-            <pubDate>2024-04-25T05:36:05Z</pubDate>
-            <guid isPermaLink="false">https://github.com/adam-maj/tiny-gpu</guid>
-            <link>https://github.com/adam-maj/tiny-gpu</link>
-            
-            
-            
-            <author><![CDATA[fgblanch]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Tribler: An attack-resilient micro-economy for media]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=40156534 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=40156534 target=_blank>102 comments</a>]]></description>
             <pubDate>2024-04-25T12:13:51Z</pubDate>
             <guid isPermaLink="false">https://github.com/Tribler/tribler/wiki</guid>
             <link>https://github.com/Tribler/tribler/wiki</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[No Abstractions: our API design principle]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=40161794 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=40161794 target=_blank>84 comments</a>]]></description>
             <pubDate>2024-04-25T19:15:11Z</pubDate>
             <guid isPermaLink="false">https://increase.com/articles/no-abstractions</guid>
             <link>https://increase.com/articles/no-abstractions</link>
@@ -178,8 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Jeff Lawson Buys The Onion]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=40164199 target=_blank>158 comments</a>]]></description>
+            <title><![CDATA[Jeff Lawson buys The Onion]]></title>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=40164199 target=_blank>181 comments</a>]]></description>
             <pubDate>2024-04-25T23:11:14Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html</guid>
             <link>https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[ngetchell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rust Stream API visualized and exposed]]></title>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=40156890 target=_blank>9 comments</a>]]></description>
+            <pubDate>2024-04-25T12:51:44Z</pubDate>
+            <guid isPermaLink="false">https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md</guid>
+            <link>https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md</link>
+            
+            
+            
+            <author><![CDATA[PaulHoule]]></author>
             
                 
             
