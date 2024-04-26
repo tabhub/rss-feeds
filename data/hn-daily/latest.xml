@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[FCC votes to restore net neutrality rules]]></title>
-            <description><![CDATA[853 points | <a href=https://news.ycombinator.com/item?id=40160429 target=_blank>475 comments</a>]]></description>
+            <description><![CDATA[863 points | <a href=https://news.ycombinator.com/item?id=40160429 target=_blank>481 comments</a>]]></description>
             <pubDate>2024-04-25T17:23:00Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html</guid>
             <link>https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Open Sourcing DOS 4]]></title>
-            <description><![CDATA[599 points | <a href=https://news.ycombinator.com/item?id=40163405 target=_blank>234 comments</a>]]></description>
+            <description><![CDATA[617 points | <a href=https://news.ycombinator.com/item?id=40163405 target=_blank>251 comments</a>]]></description>
             <pubDate>2024-04-25T21:42:06Z</pubDate>
             <guid isPermaLink="false">https://www.hanselman.com/blog/open-sourcing-dos-4</guid>
             <link>https://www.hanselman.com/blog/open-sourcing-dos-4</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: I made a programmable computer from NAND gates]]></title>
-            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=40159278 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=40159278 target=_blank>57 comments</a>]]></description>
             <pubDate>2024-04-25T16:08:05Z</pubDate>
             <guid isPermaLink="false">https://github.com/ArhanChaudhary/NAND</guid>
             <link>https://github.com/ArhanChaudhary/NAND</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Start Your Own ISP]]></title>
-            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=40161697 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=40161697 target=_blank>88 comments</a>]]></description>
             <pubDate>2024-04-25T19:06:58Z</pubDate>
             <guid isPermaLink="false">https://startyourownisp.com/</guid>
             <link>https://startyourownisp.com/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Jeff Lawson buys The Onion]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=40164199 target=_blank>221 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=40164199 target=_blank>231 comments</a>]]></description>
             <pubDate>2024-04-25T23:11:14Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html</guid>
             <link>https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html</link>
@@ -114,40 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[No Abstractions: our API design principle]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=40161794 target=_blank>102 comments</a>]]></description>
-            <pubDate>2024-04-25T19:15:11Z</pubDate>
-            <guid isPermaLink="false">https://increase.com/articles/no-abstractions</guid>
-            <link>https://increase.com/articles/no-abstractions</link>
-            
-            
-            
-            <author><![CDATA[jackflintermann]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Tribler: An attack-resilient micro-economy for media]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=40156534 target=_blank>108 comments</a>]]></description>
-            <pubDate>2024-04-25T12:13:51Z</pubDate>
-            <guid isPermaLink="false">https://github.com/Tribler/tribler/wiki</guid>
-            <link>https://github.com/Tribler/tribler/wiki</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Passkeys: A Shattered Dream]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=40165998 target=_blank>222 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=40165998 target=_blank>259 comments</a>]]></description>
             <pubDate>2024-04-26T04:36:39Z</pubDate>
             <guid isPermaLink="false">https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/</guid>
             <link>https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/</link>
@@ -155,6 +123,22 @@
             
             
             <author><![CDATA[nmjenkins]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[No Abstractions: our API design principle]]></title>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=40161794 target=_blank>103 comments</a>]]></description>
+            <pubDate>2024-04-25T19:15:11Z</pubDate>
+            <guid isPermaLink="false">https://increase.com/articles/no-abstractions</guid>
+            <link>https://increase.com/articles/no-abstractions</link>
+            
+            
+            
+            <author><![CDATA[jackflintermann]]></author>
             
                 
             
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Rust Stream API visualized and exposed]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=40156890 target=_blank>11 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=40156890 target=_blank>13 comments</a>]]></description>
             <pubDate>2024-04-25T12:51:44Z</pubDate>
             <guid isPermaLink="false">https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md</guid>
             <link>https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Judge acquits Backpage co-founder Michael Lacey on most counts]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=40162433 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=40162433 target=_blank>169 comments</a>]]></description>
             <pubDate>2024-04-25T20:14:10Z</pubDate>
             <guid isPermaLink="false">https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/</guid>
             <link>https://reason.com/2024/04/25/judge-acquits-backpage-co-founder-michael-lacey-on-most-counts/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[perihelions]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DDC OLED (2022)]]></title>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=40159766 target=_blank>21 comments</a>]]></description>
+            <pubDate>2024-04-25T16:42:05Z</pubDate>
+            <guid isPermaLink="false">https://mitxela.com/projects/ddc-oled</guid>
+            <link>https://mitxela.com/projects/ddc-oled</link>
+            
+            
+            
+            <author><![CDATA[fanf2]]></author>
             
                 
             
