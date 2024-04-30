@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Why SQLite Uses Bytecode]]></title>
-            <description><![CDATA[662 points | <a href=https://news.ycombinator.com/item?id=40206752 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[668 points | <a href=https://news.ycombinator.com/item?id=40206752 target=_blank>169 comments</a>]]></description>
             <pubDate>2024-04-30T02:48:43Z</pubDate>
             <guid isPermaLink="false">https://sqlite.org/draft/whybytecode.html</guid>
             <link>https://sqlite.org/draft/whybytecode.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[3D framework for the web, built on Svelte and Three.js]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=40205509 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=40205509 target=_blank>57 comments</a>]]></description>
             <pubDate>2024-04-29T23:38:02Z</pubDate>
             <guid isPermaLink="false">https://threlte.xyz/</guid>
             <link>https://threlte.xyz/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple must open iPadOS to sideloading within 6 months, EU says]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=40207322 target=_blank>321 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=40207322 target=_blank>323 comments</a>]]></description>
             <pubDate>2024-04-30T04:44:51Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/</guid>
             <link>https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Reddit is full of bots: thread reposted comment by comment, 10 months later]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=40211010 target=_blank>234 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=40211010 target=_blank>236 comments</a>]]></description>
             <pubDate>2024-04-30T13:57:53Z</pubDate>
             <guid isPermaLink="false">https://lemmy.blahaj.zone/post/11615413</guid>
             <link>https://lemmy.blahaj.zone/post/11615413</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[TypeSpec: A new language for API-centric development]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=40206124 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=40206124 target=_blank>107 comments</a>]]></description>
             <pubDate>2024-04-30T00:54:47Z</pubDate>
             <guid isPermaLink="false">https://typespec.io/blog/2024-04-25-introducing</guid>
             <link>https://typespec.io/blog/2024-04-25-introducing</link>
@@ -130,40 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How an empty S3 bucket can make your AWS bill explode]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=40203126 target=_blank>86 comments</a>]]></description>
-            <pubDate>2024-04-29T19:42:23Z</pubDate>
-            <guid isPermaLink="false">https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1</guid>
-            <link>https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1</link>
-            
-            
-            
-            <author><![CDATA[macok]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Pyinfra: Automate Infrastructure Using Python]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=40211655 target=_blank>87 comments</a>]]></description>
-            <pubDate>2024-04-30T14:54:45Z</pubDate>
-            <guid isPermaLink="false">https://pyinfra.com/</guid>
-            <link>https://pyinfra.com/</link>
-            
-            
-            
-            <author><![CDATA[InitEnabler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[US drug control agency will move to reclassify marijuana]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=40213591 target=_blank>161 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=40213591 target=_blank>212 comments</a>]]></description>
             <pubDate>2024-04-30T17:32:00Z</pubDate>
             <guid isPermaLink="false">https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8</guid>
             <link>https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8</link>
@@ -178,8 +146,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Pyinfra: Automate Infrastructure Using Python]]></title>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=40211655 target=_blank>95 comments</a>]]></description>
+            <pubDate>2024-04-30T14:54:45Z</pubDate>
+            <guid isPermaLink="false">https://pyinfra.com/</guid>
+            <link>https://pyinfra.com/</link>
+            
+            
+            
+            <author><![CDATA[InitEnabler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How an empty S3 bucket can make your AWS bill explode]]></title>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=40203126 target=_blank>86 comments</a>]]></description>
+            <pubDate>2024-04-29T19:42:23Z</pubDate>
+            <guid isPermaLink="false">https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1</guid>
+            <link>https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1</link>
+            
+            
+            
+            <author><![CDATA[macok]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Deep Dive into XZ Utils Backdoor [video]]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40207261 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=40207261 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-04-30T04:31:11Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=Q6ovtLdSbEA</guid>
             <link>https://www.youtube.com/watch?v=Q6ovtLdSbEA</link>
