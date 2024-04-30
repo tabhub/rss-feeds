@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Why SQLite Uses Bytecode]]></title>
-            <description><![CDATA[630 points | <a href=https://news.ycombinator.com/item?id=40206752 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[637 points | <a href=https://news.ycombinator.com/item?id=40206752 target=_blank>160 comments</a>]]></description>
             <pubDate>2024-04-30T02:48:43Z</pubDate>
             <guid isPermaLink="false">https://sqlite.org/draft/whybytecode.html</guid>
             <link>https://sqlite.org/draft/whybytecode.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple must open iPadOS to sideloading within 6 months, EU says]]></title>
-            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=40207322 target=_blank>307 comments</a>]]></description>
+            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=40207322 target=_blank>310 comments</a>]]></description>
             <pubDate>2024-04-30T04:44:51Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/</guid>
             <link>https://arstechnica.com/apple/2024/04/apple-must-open-ipados-to-sideloading-within-6-months-eu-says/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: 3D framework for the web, built on Svelte and Three.js]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=40205509 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=40205509 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-04-29T23:38:02Z</pubDate>
             <guid isPermaLink="false">https://threlte.xyz/</guid>
             <link>https://threlte.xyz/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[GitHub Copilot Workspace: Technical Preview]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=40200081 target=_blank>303 comments</a>]]></description>
-            <pubDate>2024-04-29T16:03:03Z</pubDate>
-            <guid isPermaLink="false">https://github.blog/2024-04-29-github-copilot-workspace/</guid>
-            <link>https://github.blog/2024-04-29-github-copilot-workspace/</link>
-            
-            
-            
-            <author><![CDATA[davidbarker]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Reddit is full of bots: thread reposted comment by comment, 10 months later]]></title>
-            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=40211010 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=40211010 target=_blank>221 comments</a>]]></description>
             <pubDate>2024-04-30T13:57:53Z</pubDate>
             <guid isPermaLink="false">https://lemmy.blahaj.zone/post/11615413</guid>
             <link>https://lemmy.blahaj.zone/post/11615413</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[FireChat was a tool for revolution, then disappeared]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=40204516 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=40204516 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-04-29T21:47:46Z</pubDate>
             <guid isPermaLink="false">https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/</guid>
             <link>https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[TypeSpec: A new language for API-centric development]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=40206124 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=40206124 target=_blank>104 comments</a>]]></description>
             <pubDate>2024-04-30T00:54:47Z</pubDate>
             <guid isPermaLink="false">https://typespec.io/blog/2024-04-25-introducing</guid>
             <link>https://typespec.io/blog/2024-04-25-introducing</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[How an empty S3 bucket can make your AWS bill explode]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=40203126 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=40203126 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-04-29T19:42:23Z</pubDate>
             <guid isPermaLink="false">https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1</guid>
             <link>https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Deep Dive into XZ Utils Backdoor [video]]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=40207261 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=40207261 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-04-30T04:31:11Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=Q6ovtLdSbEA</guid>
             <link>https://www.youtube.com/watch?v=Q6ovtLdSbEA</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[spenvo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hitting every branch on the way down]]></title>
+            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=40207147 target=_blank>129 comments</a>]]></description>
+            <pubDate>2024-04-30T04:06:49Z</pubDate>
+            <guid isPermaLink="false">http://rachelbythebay.com/w/2024/04/29/pb/</guid>
+            <link>http://rachelbythebay.com/w/2024/04/29/pb/</link>
+            
+            
+            
+            <author><![CDATA[zdw]]></author>
             
                 
             
