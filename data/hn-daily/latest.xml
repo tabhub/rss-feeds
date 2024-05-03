@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Making a 3D modeler in C in a week]]></title>
-            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=40239164 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[567 points | <a href=https://news.ycombinator.com/item?id=40239164 target=_blank>150 comments</a>]]></description>
             <pubDate>2024-05-02T17:48:14Z</pubDate>
             <guid isPermaLink="false">https://danielchasehooper.com/posts/shapeup/</guid>
             <link>https://danielchasehooper.com/posts/shapeup/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Woodworking as an escape from the absurdity of software]]></title>
-            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=40245601 target=_blank>383 comments</a>]]></description>
+            <description><![CDATA[436 points | <a href=https://news.ycombinator.com/item?id=40245601 target=_blank>389 comments</a>]]></description>
             <pubDate>2024-05-03T09:00:51Z</pubDate>
             <guid isPermaLink="false">https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/</guid>
             <link>https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cardio fitness is a strong, consistent predictor of morbidity and mortality]]></title>
-            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=40243238 target=_blank>467 comments</a>]]></description>
-            <pubDate>2024-05-03T01:58:21Z</pubDate>
-            <guid isPermaLink="false">https://bjsm.bmj.com/content/58/10/556</guid>
-            <link>https://bjsm.bmj.com/content/58/10/556</link>
-            
-            
-            
-            <author><![CDATA[wjb3]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[DNS traffic can leak outside the VPN tunnel on Android]]></title>
-            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=40247604 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=40247604 target=_blank>187 comments</a>]]></description>
             <pubDate>2024-05-03T13:46:41Z</pubDate>
             <guid isPermaLink="false">https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android</guid>
             <link>https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Cardio fitness is a strong, consistent predictor of morbidity and mortality]]></title>
+            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=40243238 target=_blank>467 comments</a>]]></description>
+            <pubDate>2024-05-03T01:58:21Z</pubDate>
+            <guid isPermaLink="false">https://bjsm.bmj.com/content/58/10/556</guid>
+            <link>https://bjsm.bmj.com/content/58/10/556</link>
+            
+            
+            
+            <author><![CDATA[wjb3]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I’m writing a new vector search SQLite Extension]]></title>
-            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=40243168 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[376 points | <a href=https://news.ycombinator.com/item?id=40243168 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-05-03T01:44:30Z</pubDate>
             <guid isPermaLink="false">https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html</guid>
             <link>https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[A Single Div]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=40242410 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=40242410 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-05-02T23:17:40Z</pubDate>
             <guid isPermaLink="false">https://a.singlediv.com/</guid>
             <link>https://a.singlediv.com/</link>
@@ -162,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Piccolo – A Stackless Lua Interpreter]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=40239029 target=_blank>23 comments</a>]]></description>
-            <pubDate>2024-05-02T17:38:01Z</pubDate>
-            <guid isPermaLink="false">https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/</guid>
-            <link>https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/</link>
-            
-            
-            
-            <author><![CDATA[vvoruganti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Got an old Raspberry Pi spare? Try RISC OS. It is, something else]]></title>
             <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=40240737 target=_blank>168 comments</a>]]></description>
             <pubDate>2024-05-02T19:55:59Z</pubDate>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[e2e4]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Second Boeing Whistleblower Dies in Less Than Two Months]]></title>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=40241734 target=_blank>72 comments</a>]]></description>
+            <pubDate>2024-05-02T21:47:25Z</pubDate>
+            <guid isPermaLink="false">https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html</guid>
+            <link>https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html</link>
+            
+            
+            
+            <author><![CDATA[sarimkx]]></author>
             
                 
             
