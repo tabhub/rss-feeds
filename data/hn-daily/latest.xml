@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Making a 3D modeler in C in a week]]></title>
-            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=40239164 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=40239164 target=_blank>149 comments</a>]]></description>
             <pubDate>2024-05-02T17:48:14Z</pubDate>
             <guid isPermaLink="false">https://danielchasehooper.com/posts/shapeup/</guid>
             <link>https://danielchasehooper.com/posts/shapeup/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Woodworking as an escape from the absurdity of software]]></title>
-            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=40245601 target=_blank>372 comments</a>]]></description>
+            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=40245601 target=_blank>383 comments</a>]]></description>
             <pubDate>2024-05-03T09:00:51Z</pubDate>
             <guid isPermaLink="false">https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/</guid>
             <link>https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Cardio fitness is a strong, consistent predictor of morbidity and mortality]]></title>
-            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=40243238 target=_blank>465 comments</a>]]></description>
+            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=40243238 target=_blank>467 comments</a>]]></description>
             <pubDate>2024-05-03T01:58:21Z</pubDate>
             <guid isPermaLink="false">https://bjsm.bmj.com/content/58/10/556</guid>
             <link>https://bjsm.bmj.com/content/58/10/556</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[DNS traffic can leak outside the VPN tunnel on Android]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=40247604 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=40247604 target=_blank>180 comments</a>]]></description>
             <pubDate>2024-05-03T13:46:41Z</pubDate>
             <guid isPermaLink="false">https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android</guid>
             <link>https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[I’m writing a new vector search SQLite Extension]]></title>
-            <description><![CDATA[371 points | <a href=https://news.ycombinator.com/item?id=40243168 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=40243168 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-05-03T01:44:30Z</pubDate>
             <guid isPermaLink="false">https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html</guid>
             <link>https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[A Single Div]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=40242410 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=40242410 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-05-02T23:17:40Z</pubDate>
             <guid isPermaLink="false">https://a.singlediv.com/</guid>
             <link>https://a.singlediv.com/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Building a rocket engine from scratch]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=40240724 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=40240724 target=_blank>71 comments</a>]]></description>
             <pubDate>2024-05-02T19:54:48Z</pubDate>
             <guid isPermaLink="false">https://blog.ablspacesystems.com/p/building-e2</guid>
             <link>https://blog.ablspacesystems.com/p/building-e2</link>
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Piccolo – A Stackless Lua Interpreter]]></title>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=40239029 target=_blank>23 comments</a>]]></description>
+            <pubDate>2024-05-02T17:38:01Z</pubDate>
+            <guid isPermaLink="false">https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/</guid>
+            <link>https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/</link>
+            
+            
+            
+            <author><![CDATA[vvoruganti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Got an old Raspberry Pi spare? Try RISC OS. It is, something else]]></title>
             <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=40240737 target=_blank>168 comments</a>]]></description>
             <pubDate>2024-05-02T19:55:59Z</pubDate>
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[m_c]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Piccolo – A Stackless Lua Interpreter]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=40239029 target=_blank>23 comments</a>]]></description>
-            <pubDate>2024-05-02T17:38:01Z</pubDate>
-            <guid isPermaLink="false">https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/</guid>
-            <link>https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/</link>
-            
-            
-            
-            <author><![CDATA[vvoruganti]]></author>
             
                 
             
