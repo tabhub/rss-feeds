@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[A forged Apple employee badge]]></title>
-            <description><![CDATA[876 points | <a href=https://news.ycombinator.com/item?id=40384013 target=_blank>320 comments</a>]]></description>
+            <description><![CDATA[879 points | <a href=https://news.ycombinator.com/item?id=40384013 target=_blank>320 comments</a>]]></description>
             <pubDate>2024-05-16T22:19:06Z</pubDate>
             <guid isPermaLink="false">https://cabel.com/2024/05/16/the-forged-apple-employee-badge/</guid>
             <link>https://cabel.com/2024/05/16/the-forged-apple-employee-badge/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Slack AI Training with Customer Data]]></title>
-            <description><![CDATA[669 points | <a href=https://news.ycombinator.com/item?id=40383978 target=_blank>337 comments</a>]]></description>
+            <description><![CDATA[673 points | <a href=https://news.ycombinator.com/item?id=40383978 target=_blank>337 comments</a>]]></description>
             <pubDate>2024-05-16T22:16:01Z</pubDate>
             <guid isPermaLink="false">https://slack.com/trust/data-management/privacy-principles?nojsmode=1</guid>
             <link>https://slack.com/trust/data-management/privacy-principles?nojsmode=1</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Exercises to Learn Rust]]></title>
-            <description><![CDATA[631 points | <a href=https://news.ycombinator.com/item?id=40385536 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[632 points | <a href=https://news.ycombinator.com/item?id=40385536 target=_blank>117 comments</a>]]></description>
             <pubDate>2024-05-17T01:53:13Z</pubDate>
             <guid isPermaLink="false">https://rust-exercises.com/</guid>
             <link>https://rust-exercises.com/</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[sebg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Visualizing algorithms for rate limiting]]></title>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=40384421 target=_blank>40 comments</a>]]></description>
+            <pubDate>2024-05-16T23:07:20Z</pubDate>
+            <guid isPermaLink="false">https://smudge.ai/blog/ratelimit-algorithms</guid>
+            <link>https://smudge.ai/blog/ratelimit-algorithms</link>
+            
+            
+            
+            <author><![CDATA[seabass]]></author>
             
                 
             
@@ -82,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Visualizing algorithms for rate limiting]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=40384421 target=_blank>40 comments</a>]]></description>
-            <pubDate>2024-05-16T23:07:20Z</pubDate>
-            <guid isPermaLink="false">https://smudge.ai/blog/ratelimit-algorithms</guid>
-            <link>https://smudge.ai/blog/ratelimit-algorithms</link>
-            
-            
-            
-            <author><![CDATA[seabass]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Deutsche Bahn introduces "MetaWindow"]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=40383263 target=_blank>407 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=40383263 target=_blank>408 comments</a>]]></description>
             <pubDate>2024-05-16T21:14:47Z</pubDate>
             <guid isPermaLink="false">https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html</guid>
             <link>https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Downfall of DeviantArt]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=40380744 target=_blank>149 comments</a>]]></description>
-            <pubDate>2024-05-16T17:12:22Z</pubDate>
-            <guid isPermaLink="false">https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html</guid>
-            <link>https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html</link>
-            
-            
-            
-            <author><![CDATA[jfryusef]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Toon3D: Seeing Cartoons from a New Perspective]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=40389445 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=40389445 target=_blank>72 comments</a>]]></description>
             <pubDate>2024-05-17T13:04:06Z</pubDate>
             <guid isPermaLink="false">https://toon3d.studio/</guid>
             <link>https://toon3d.studio/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[The Downfall of DeviantArt]]></title>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=40380744 target=_blank>151 comments</a>]]></description>
+            <pubDate>2024-05-16T17:12:22Z</pubDate>
+            <guid isPermaLink="false">https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html</guid>
+            <link>https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html</link>
+            
+            
+            
+            <author><![CDATA[jfryusef]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I don't want to spend my one precious life dealing with Google's AI search]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=40380639 target=_blank>205 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=40380639 target=_blank>205 comments</a>]]></description>
             <pubDate>2024-05-16T17:02:40Z</pubDate>
             <guid isPermaLink="false">https://aftermath.site/google-ai-search-god-no-why</guid>
             <link>https://aftermath.site/google-ai-search-god-no-why</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Improvements to data analysis in ChatGPT]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=40383886 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=40383886 target=_blank>124 comments</a>]]></description>
             <pubDate>2024-05-16T22:06:28Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/improvements-to-data-analysis-in-chatgpt/</guid>
             <link>https://openai.com/index/improvements-to-data-analysis-in-chatgpt/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=40389267 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=40389267 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-05-17T12:43:14Z</pubDate>
             <guid isPermaLink="false">https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-</guid>
             <link>https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-</link>
