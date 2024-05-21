@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Statement from Scarlett Johansson on the OpenAI "Sky" voice]]></title>
-            <description><![CDATA[830 points | <a href=https://news.ycombinator.com/item?id=40421225 target=_blank>579 comments</a>]]></description>
+            <description><![CDATA[849 points | <a href=https://news.ycombinator.com/item?id=40421225 target=_blank>587 comments</a>]]></description>
             <pubDate>2024-05-20T22:28:27Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/BobbyAllyn/status/1792679435701014908</guid>
             <link>https://twitter.com/BobbyAllyn/status/1792679435701014908</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[ICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes]]></title>
-            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=40414329 target=_blank>726 comments</a>]]></description>
+            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=40414329 target=_blank>730 comments</a>]]></description>
             <pubDate>2024-05-20T11:27:34Z</pubDate>
             <guid isPermaLink="false">https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html</guid>
             <link>https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Introducing Copilot+ PCs]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=40417828 target=_blank>472 comments</a>]]></description>
+            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=40417828 target=_blank>474 comments</a>]]></description>
             <pubDate>2024-05-20T17:27:03Z</pubDate>
             <guid isPermaLink="false">https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/</guid>
             <link>https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Migrating Uber's ledger data from DynamoDB to LedgerStore]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=40413891 target=_blank>298 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=40413891 target=_blank>299 comments</a>]]></description>
             <pubDate>2024-05-20T10:01:36Z</pubDate>
             <guid isPermaLink="false">https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/</guid>
             <link>https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Enlightenmentware]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=40419856 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=40419856 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-05-20T20:23:02Z</pubDate>
             <guid isPermaLink="false">https://mmapped.blog/posts/28-enlightenmentware.html</guid>
             <link>https://mmapped.blog/posts/28-enlightenmentware.html</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[pg_timeseries: Open-source time-series extension for PostgreSQL]]></title>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=40417347 target=_blank>32 comments</a>]]></description>
+            <pubDate>2024-05-20T16:44:13Z</pubDate>
+            <guid isPermaLink="false">https://tembo.io/blog/pg-timeseries</guid>
+            <link>https://tembo.io/blog/pg-timeseries</link>
+            
+            
+            
+            <author><![CDATA[samaysharma]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js]]></title>
             <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40414718 target=_blank>100 comments</a>]]></description>
             <pubDate>2024-05-20T12:27:11Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[pg_timeseries: Open-source time-series extension for PostgreSQL]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=40417347 target=_blank>32 comments</a>]]></description>
-            <pubDate>2024-05-20T16:44:13Z</pubDate>
-            <guid isPermaLink="false">https://tembo.io/blog/pg-timeseries</guid>
-            <link>https://tembo.io/blog/pg-timeseries</link>
-            
-            
-            
-            <author><![CDATA[samaysharma]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Rethinking Text Resizing on Web]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=40418591 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=40418591 target=_blank>112 comments</a>]]></description>
             <pubDate>2024-05-20T18:36:53Z</pubDate>
             <guid isPermaLink="false">https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</guid>
             <link>https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881</link>
