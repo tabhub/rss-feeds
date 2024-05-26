@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Cloudflare took down our site after trying to force us to pay $120k within 24h]]></title>
-            <description><![CDATA[547 points | <a href=https://news.ycombinator.com/item?id=40481808 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[567 points | <a href=https://news.ycombinator.com/item?id=40481808 target=_blank>279 comments</a>]]></description>
             <pubDate>2024-05-26T12:57:10Z</pubDate>
             <guid isPermaLink="false">https://robindev.substack.com/p/cloudflare-took-down-our-website</guid>
             <link>https://robindev.substack.com/p/cloudflare-took-down-our-website</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[How Home Assistant is being used to protect from missile and drone attacks]]></title>
-            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=40479729 target=_blank>133 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=40479729 target=_blank>132 comments</a>]]></description>
             <pubDate>2024-05-26T04:10:01Z</pubDate>
             <guid isPermaLink="false">https://denysdovhan.com/home-assistant-config/config/war/</guid>
             <link>https://denysdovhan.com/home-assistant-config/config/war/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Hurl, the Exceptional Language]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=40480056 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=40480056 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-05-26T05:57:52Z</pubDate>
             <guid isPermaLink="false">https://hurl.wtf/</guid>
             <link>https://hurl.wtf/</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Tmux is worse-is-better]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=40476410 target=_blank>249 comments</a>]]></description>
-            <pubDate>2024-05-25T17:20:30Z</pubDate>
-            <guid isPermaLink="false">https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/</guid>
-            <link>https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/</link>
-            
-            
-            
-            <author><![CDATA[hiAndrewQuinn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Turn Your iPhone into a Dumb Phone]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=40480323 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=40480323 target=_blank>137 comments</a>]]></description>
             <pubDate>2024-05-26T07:30:44Z</pubDate>
             <guid isPermaLink="false">https://dumbph.com/turn-iphone-into-dumb-phone</guid>
             <link>https://dumbph.com/turn-iphone-into-dumb-phone</link>
@@ -114,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Braid: Synchronization for HTTP]]></title>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=40480016 target=_blank>68 comments</a>]]></description>
+            <pubDate>2024-05-26T05:44:47Z</pubDate>
+            <guid isPermaLink="false">https://braid.org/</guid>
+            <link>https://braid.org/</link>
+            
+            
+            
+            <author><![CDATA[walterbell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA['I was misidentified as shoplifter by facial recognition tech']]></title>
             <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=40480258 target=_blank>114 comments</a>]]></description>
             <pubDate>2024-05-26T07:08:26Z</pubDate>
@@ -130,40 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Braid: Synchronization for HTTP]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=40480016 target=_blank>67 comments</a>]]></description>
-            <pubDate>2024-05-26T05:44:47Z</pubDate>
-            <guid isPermaLink="false">https://braid.org/</guid>
-            <link>https://braid.org/</link>
-            
-            
-            
-            <author><![CDATA[walterbell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Simplicity – Google SRE Handbook (2017)]]></title>
-            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=40478470 target=_blank>65 comments</a>]]></description>
-            <pubDate>2024-05-25T23:01:29Z</pubDate>
-            <guid isPermaLink="false">https://sre.google/sre-book/simplicity/</guid>
-            <link>https://sre.google/sre-book/simplicity/</link>
-            
-            
-            
-            <author><![CDATA[nateb2022]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google Meet rolls out multi-device adaptive audio merging]]></title>
-            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=40482833 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=40482833 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-05-26T15:22:02Z</pubDate>
             <guid isPermaLink="false">https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html</guid>
             <link>https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html</link>
@@ -178,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Simplicity – Google SRE Handbook (2017)]]></title>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=40478470 target=_blank>69 comments</a>]]></description>
+            <pubDate>2024-05-25T23:01:29Z</pubDate>
+            <guid isPermaLink="false">https://sre.google/sre-book/simplicity/</guid>
+            <link>https://sre.google/sre-book/simplicity/</link>
+            
+            
+            
+            <author><![CDATA[nateb2022]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA['I was misidentified as shoplifter by facial recognition tech']]></title>
-            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=40478923 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=40478923 target=_blank>104 comments</a>]]></description>
             <pubDate>2024-05-26T00:45:04Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/technology-69055945</guid>
             <link>https://www.bbc.com/news/technology-69055945</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[GRC SpinRite]]></title>
-            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=40478976 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=40478976 target=_blank>92 comments</a>]]></description>
             <pubDate>2024-05-26T00:54:23Z</pubDate>
             <guid isPermaLink="false">https://computer.rip/2024-05-25-grc-spinrite.html</guid>
             <link>https://computer.rip/2024-05-25-grc-spinrite.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Majorana, the search for the most elusive neutrino of all (2012)]]></title>
+            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=40477653 target=_blank>16 comments</a>]]></description>
+            <pubDate>2024-05-25T20:35:59Z</pubDate>
+            <guid isPermaLink="false">https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/</guid>
+            <link>https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/</link>
+            
+            
+            
+            <author><![CDATA[bilsbie]]></author>
             
                 
             
