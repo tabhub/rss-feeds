@@ -18,40 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Ask HN: What is your ChatGPT customization prompt?]]></title>
-            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=40474716 target=_blank>199 comments</a>]]></description>
-            <pubDate>2024-05-25T12:50:49Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=40474716</guid>
-            <link>https://news.ycombinator.com/item?id=40474716</link>
-            
-            
-            
-            <author><![CDATA[dinkleberg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Abusing Go's Infrastructure]]></title>
-            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=40474712 target=_blank>71 comments</a>]]></description>
-            <pubDate>2024-05-25T12:50:00Z</pubDate>
-            <guid isPermaLink="false">https://reverse.put.as/2024/05/24/abusing-go-infrastructure/</guid>
-            <link>https://reverse.put.as/2024/05/24/abusing-go-infrastructure/</link>
-            
-            
-            
-            <author><![CDATA[efge]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[How Home Assistant is being used to protect from missile and drone attacks]]></title>
-            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=40479729 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=40479729 target=_blank>110 comments</a>]]></description>
             <pubDate>2024-05-26T04:10:01Z</pubDate>
             <guid isPermaLink="false">https://denysdovhan.com/home-assistant-config/config/war/</guid>
             <link>https://denysdovhan.com/home-assistant-config/config/war/</link>
@@ -75,6 +43,22 @@
             
             
             <author><![CDATA[rntn]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloudflare took down our site after trying to force us to pay $120k within 24h]]></title>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=40481808 target=_blank>113 comments</a>]]></description>
+            <pubDate>2024-05-26T12:57:10Z</pubDate>
+            <guid isPermaLink="false">https://robindev.substack.com/p/cloudflare-took-down-our-website</guid>
+            <link>https://robindev.substack.com/p/cloudflare-took-down-our-website</link>
+            
+            
+            
+            <author><![CDATA[nolverostae]]></author>
             
                 
             
@@ -114,22 +98,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Cloudflare took down our site after trying to force us to pay $120k within 24h]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=40481808 target=_blank>90 comments</a>]]></description>
-            <pubDate>2024-05-26T12:57:10Z</pubDate>
-            <guid isPermaLink="false">https://robindev.substack.com/p/cloudflare-took-down-our-website</guid>
-            <link>https://robindev.substack.com/p/cloudflare-took-down-our-website</link>
-            
-            
-            
-            <author><![CDATA[nolverostae]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The Cognitive Design of Tools of Thought (2014) [pdf]]]></title>
             <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=40474759 target=_blank>18 comments</a>]]></description>
             <pubDate>2024-05-25T12:58:20Z</pubDate>
@@ -147,7 +115,7 @@
         
         <item>
             <title><![CDATA[Hurl, the Exceptional Language]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=40480056 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=40480056 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-05-26T05:57:52Z</pubDate>
             <guid isPermaLink="false">https://hurl.wtf/</guid>
             <link>https://hurl.wtf/</link>
@@ -179,7 +147,7 @@
         
         <item>
             <title><![CDATA['I was misidentified as shoplifter by facial recognition tech']]></title>
-            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=40480258 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=40480258 target=_blank>100 comments</a>]]></description>
             <pubDate>2024-05-26T07:08:26Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-69055945</guid>
             <link>https://www.bbc.co.uk/news/technology-69055945</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[Luc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA['I was misidentified as shoplifter by facial recognition tech']]></title>
+            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=40478923 target=_blank>94 comments</a>]]></description>
+            <pubDate>2024-05-26T00:45:04Z</pubDate>
+            <guid isPermaLink="false">https://www.bbc.com/news/technology-69055945</guid>
+            <link>https://www.bbc.com/news/technology-69055945</link>
+            
+            
+            
+            <author><![CDATA[gnabgib]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Turn Your iPhone into a Dumb Phone]]></title>
+            <description><![CDATA[109 points | <a href=https://news.ycombinator.com/item?id=40480323 target=_blank>85 comments</a>]]></description>
+            <pubDate>2024-05-26T07:30:44Z</pubDate>
+            <guid isPermaLink="false">https://dumbph.com/turn-iphone-into-dumb-phone</guid>
+            <link>https://dumbph.com/turn-iphone-into-dumb-phone</link>
+            
+            
+            
+            <author><![CDATA[hbroadbent]]></author>
             
                 
             
