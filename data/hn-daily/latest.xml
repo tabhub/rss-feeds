@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[TTE: Terminal Text Effects]]></title>
-            <description><![CDATA[968 points | <a href=https://news.ycombinator.com/item?id=40503202 target=_blank>163 comments</a>]]></description>
+            <description><![CDATA[987 points | <a href=https://news.ycombinator.com/item?id=40503202 target=_blank>163 comments</a>]]></description>
             <pubDate>2024-05-28T17:31:48Z</pubDate>
             <guid isPermaLink="false">https://chrisbuilds.github.io/terminaltexteffects/showroom/</guid>
             <link>https://chrisbuilds.github.io/terminaltexteffects/showroom/</link>
@@ -34,40 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[WP21]]></title>
-            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=40496858 target=_blank>166 comments</a>]]></description>
-            <pubDate>2024-05-28T02:40:29Z</pubDate>
-            <guid isPermaLink="false">https://ma.tt/2024/05/wp21/</guid>
-            <link>https://ma.tt/2024/05/wp21/</link>
-            
-            
-            
-            <author><![CDATA[joshbetz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Reproducing GPT-2 in llm.c]]></title>
-            <description><![CDATA[388 points | <a href=https://news.ycombinator.com/item?id=40502090 target=_blank>72 comments</a>]]></description>
-            <pubDate>2024-05-28T15:58:46Z</pubDate>
-            <guid isPermaLink="false">https://github.com/karpathy/llm.c/discussions/481</guid>
-            <link>https://github.com/karpathy/llm.c/discussions/481</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ex-OpenAI board member reveals what led to Sam Altman's brief ousting]]></title>
-            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=40506582 target=_blank>241 comments</a>]]></description>
+            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=40506582 target=_blank>263 comments</a>]]></description>
             <pubDate>2024-05-28T23:13:33Z</pubDate>
             <guid isPermaLink="false">https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5</guid>
             <link>https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5</link>
@@ -82,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Reproducing GPT-2 in llm.c]]></title>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=40502090 target=_blank>72 comments</a>]]></description>
+            <pubDate>2024-05-28T15:58:46Z</pubDate>
+            <guid isPermaLink="false">https://github.com/karpathy/llm.c/discussions/481</guid>
+            <link>https://github.com/karpathy/llm.c/discussions/481</link>
+            
+            
+            
+            <author><![CDATA[tosh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[API Shouldn't Redirect HTTP to HTTPS]]></title>
-            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=40504756 target=_blank>159 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=40504756 target=_blank>161 comments</a>]]></description>
             <pubDate>2024-05-28T19:42:34Z</pubDate>
             <guid isPermaLink="false">https://jviide.iki.fi/http-redirects</guid>
             <link>https://jviide.iki.fi/http-redirects</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: I made a free app to calibrate your turntable by simply playing a song]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=40501021 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=40501021 target=_blank>177 comments</a>]]></description>
             <pubDate>2024-05-28T14:23:28Z</pubDate>
             <guid isPermaLink="false">https://grooved.okat.best/</guid>
             <link>https://grooved.okat.best/</link>
@@ -107,6 +91,22 @@
             
             
             <author><![CDATA[okatbest]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars]]></title>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=40505099 target=_blank>42 comments</a>]]></description>
+            <pubDate>2024-05-28T20:16:19Z</pubDate>
+            <guid isPermaLink="false">https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee</guid>
+            <link>https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee</link>
+            
+            
+            
+            <author><![CDATA[minimaxir]]></author>
             
                 
             
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=40505099 target=_blank>41 comments</a>]]></description>
-            <pubDate>2024-05-28T20:16:19Z</pubDate>
-            <guid isPermaLink="false">https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee</guid>
-            <link>https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee</link>
-            
-            
-            
-            <author><![CDATA[minimaxir]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Doing is normally distributed, learning is log-normal]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=40497623 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=40497623 target=_blank>70 comments</a>]]></description>
             <pubDate>2024-05-28T05:32:29Z</pubDate>
             <guid isPermaLink="false">https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/</guid>
             <link>https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Anonymous Source Shared Leaked Google Search API Documents]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=40496967 target=_blank>91 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=40496967 target=_blank>92 comments</a>]]></description>
             <pubDate>2024-05-28T03:07:31Z</pubDate>
             <guid isPermaLink="false">https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/</guid>
             <link>https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[andrewfong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Transformers Can Do Arithmetic with the Right Embeddings]]></title>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=40497379 target=_blank>191 comments</a>]]></description>
+            <pubDate>2024-05-28T04:39:39Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2405.17399</guid>
+            <link>https://arxiv.org/abs/2405.17399</link>
+            
+            
+            
+            <author><![CDATA[byt3h3ad]]></author>
             
                 
             
