@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Don't DRY Your Code Prematurely]]></title>
-            <description><![CDATA[664 points | <a href=https://news.ycombinator.com/item?id=40525064 target=_blank>354 comments</a>]]></description>
+            <description><![CDATA[670 points | <a href=https://news.ycombinator.com/item?id=40525064 target=_blank>354 comments</a>]]></description>
             <pubDate>2024-05-30T15:45:54Z</pubDate>
             <guid isPermaLink="false">https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html</guid>
             <link>https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Engineering for Slow Internet]]></title>
-            <description><![CDATA[517 points | <a href=https://news.ycombinator.com/item?id=40531100 target=_blank>208 comments</a>]]></description>
+            <description><![CDATA[530 points | <a href=https://news.ycombinator.com/item?id=40531100 target=_blank>215 comments</a>]]></description>
             <pubDate>2024-05-31T03:06:05Z</pubDate>
             <guid isPermaLink="false">https://brr.fyi/posts/engineering-for-slow-internet</guid>
             <link>https://brr.fyi/posts/engineering-for-slow-internet</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Japan's push to make all research open access]]></title>
-            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=40530670 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=40530670 target=_blank>78 comments</a>]]></description>
             <pubDate>2024-05-31T01:46:00Z</pubDate>
             <guid isPermaLink="false">https://www.nature.com/articles/d41586-024-01493-8</guid>
             <link>https://www.nature.com/articles/d41586-024-01493-8</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[A man ordered to hide his boat painted the boat on his fence]]></title>
-            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=40531984 target=_blank>287 comments</a>]]></description>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=40531984 target=_blank>297 comments</a>]]></description>
             <pubDate>2024-05-31T06:08:26Z</pubDate>
             <guid isPermaLink="false">https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875</guid>
             <link>https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The Pumpkin Eclipse]]></title>
-            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=40525130 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=40525130 target=_blank>144 comments</a>]]></description>
             <pubDate>2024-05-30T15:52:29Z</pubDate>
             <guid isPermaLink="false">https://blog.lumen.com/the-pumpkin-eclipse/</guid>
             <link>https://blog.lumen.com/the-pumpkin-eclipse/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Unexpected anti-patterns for engineering leaders]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=40525802 target=_blank>125 comments</a>]]></description>
+            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=40525802 target=_blank>127 comments</a>]]></description>
             <pubDate>2024-05-30T16:46:17Z</pubDate>
             <guid isPermaLink="false">https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/</guid>
             <link>https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Every mountain, building and tree shadow in the world simulated for any time]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=40531699 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=40531699 target=_blank>75 comments</a>]]></description>
             <pubDate>2024-05-31T05:09:24Z</pubDate>
             <guid isPermaLink="false">https://shademap.app</guid>
             <link>https://shademap.app</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Things you wish you didn't need to know about S3]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=40531301 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=40531301 target=_blank>125 comments</a>]]></description>
             <pubDate>2024-05-31T03:51:31Z</pubDate>
             <guid isPermaLink="false">https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/</guid>
             <link>https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/</link>
@@ -139,6 +139,22 @@
             
             
             <author><![CDATA[miles]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Better RAG Results with Reciprocal Rank Fusion and Hybrid Search]]></title>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=40524759 target=_blank>44 comments</a>]]></description>
+            <pubDate>2024-05-30T15:17:39Z</pubDate>
+            <guid isPermaLink="false">https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</guid>
+            <link>https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</link>
+            
+            
+            
+            <author><![CDATA[johnjwang]]></author>
             
                 
             
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Better RAG Results with Reciprocal Rank Fusion and Hybrid Search]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=40524759 target=_blank>44 comments</a>]]></description>
-            <pubDate>2024-05-30T15:17:39Z</pubDate>
-            <guid isPermaLink="false">https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</guid>
-            <link>https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search</link>
-            
-            
-            
-            <author><![CDATA[johnjwang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[“Imprecise” language models are smaller, speedier, and nearly as accurate]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=40529355 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=40529355 target=_blank>102 comments</a>]]></description>
             <pubDate>2024-05-30T22:18:02Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/1-bit-llm</guid>
             <link>https://spectrum.ieee.org/1-bit-llm</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Ask HN: I have many PDFs – what is the best local way to leverage AI for search?]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=40528192 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=40528192 target=_blank>73 comments</a>]]></description>
             <pubDate>2024-05-30T20:24:05Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=40528192</guid>
             <link>https://news.ycombinator.com/item?id=40528192</link>
