@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[UI elements with a hand-drawn, sketchy look]]></title>
-            <description><![CDATA[648 points | <a href=https://news.ycombinator.com/item?id=40540952 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[652 points | <a href=https://news.ycombinator.com/item?id=40540952 target=_blank>104 comments</a>]]></description>
             <pubDate>2024-05-31T22:23:08Z</pubDate>
             <guid isPermaLink="false">https://wiredjs.com/</guid>
             <link>https://wiredjs.com/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Recall: Stealing everything you've ever typed or viewed on your own Windows PC]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=40540703 target=_blank>293 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=40540703 target=_blank>295 comments</a>]]></description>
             <pubDate>2024-05-31T21:52:49Z</pubDate>
             <guid isPermaLink="false">https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e</guid>
             <link>https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[ROOT: analyzing petabytes of data scientifically]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=40543651 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=40543651 target=_blank>75 comments</a>]]></description>
             <pubDate>2024-06-01T07:25:48Z</pubDate>
             <guid isPermaLink="false">https://root.cern/</guid>
             <link>https://root.cern/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Arthur Whitney releases an open-source subset of K with MIT license]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=40544283 target=_blank>183 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=40544283 target=_blank>183 comments</a>]]></description>
             <pubDate>2024-06-01T09:47:53Z</pubDate>
             <guid isPermaLink="false">https://shakti.com/k</guid>
             <link>https://shakti.com/k</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Napster sparked a file-sharing revolution 25 years ago]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=40545436 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=40545436 target=_blank>202 comments</a>]]></description>
             <pubDate>2024-06-01T13:08:47Z</pubDate>
             <guid isPermaLink="false">https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/</guid>
             <link>https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[60 kHz (2022)]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=40541559 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=40541559 target=_blank>143 comments</a>]]></description>
             <pubDate>2024-06-01T00:05:36Z</pubDate>
             <guid isPermaLink="false">https://ben.page/wwvb</guid>
             <link>https://ben.page/wwvb</link>
@@ -130,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Heroku Postgres is now based on AWS Aurora]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=40539172 target=_blank>126 comments</a>]]></description>
-            <pubDate>2024-05-31T19:17:20Z</pubDate>
-            <guid isPermaLink="false">https://blog.heroku.com/heroku-postgres-essential-launch</guid>
-            <link>https://blog.heroku.com/heroku-postgres-essential-launch</link>
+            <title><![CDATA[Space secrets leak disclosure]]></title>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=40544875 target=_blank>63 comments</a>]]></description>
+            <pubDate>2024-06-01T11:38:43Z</pubDate>
+            <guid isPermaLink="false">https://huggingface.co/blog/space-secrets-disclosure</guid>
+            <link>https://huggingface.co/blog/space-secrets-disclosure</link>
             
             
             
-            <author><![CDATA[mebcitto]]></author>
+            <author><![CDATA[markyg]]></author>
             
                 
             
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Go: Sentinel errors and errors.Is() slow your code down by 3000%]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=40539700 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=40539700 target=_blank>128 comments</a>]]></description>
             <pubDate>2024-05-31T20:12:25Z</pubDate>
             <guid isPermaLink="false">https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/</guid>
             <link>https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/</link>
@@ -155,22 +155,6 @@
             
             
             <author><![CDATA[ingve]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Space secrets leak disclosure]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=40544875 target=_blank>63 comments</a>]]></description>
-            <pubDate>2024-06-01T11:38:43Z</pubDate>
-            <guid isPermaLink="false">https://huggingface.co/blog/space-secrets-disclosure</guid>
-            <link>https://huggingface.co/blog/space-secrets-disclosure</link>
-            
-            
-            
-            <author><![CDATA[markyg]]></author>
             
                 
             
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Nginx Unit: open-source, lightweight and versatile application runtime]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=40543330 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=40543330 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-06-01T06:18:01Z</pubDate>
             <guid isPermaLink="false">https://unit.nginx.org/</guid>
             <link>https://unit.nginx.org/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ticketmaster confirms data hack which could affect 560M globally]]></title>
+            <description><![CDATA[128 points | <a href=https://news.ycombinator.com/item?id=40544219 target=_blank>5 comments</a>]]></description>
+            <pubDate>2024-06-01T09:33:39Z</pubDate>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw99ql0239wo</guid>
+            <link>https://www.bbc.co.uk/news/articles/cw99ql0239wo</link>
+            
+            
+            
+            <author><![CDATA[simonjgreen]]></author>
             
                 
             
