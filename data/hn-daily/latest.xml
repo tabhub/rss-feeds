@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Parable of the Sofa]]></title>
-            <description><![CDATA[481 points | <a href=https://news.ycombinator.com/item?id=40551725 target=_blank>313 comments</a>]]></description>
+            <description><![CDATA[482 points | <a href=https://news.ycombinator.com/item?id=40551725 target=_blank>314 comments</a>]]></description>
             <pubDate>2024-06-02T05:57:48Z</pubDate>
             <guid isPermaLink="false">https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa</guid>
             <link>https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Lisp: Icing or Cake?]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=40549250 target=_blank>45 comments</a>]]></description>
-            <pubDate>2024-06-01T21:32:12Z</pubDate>
-            <guid isPermaLink="false">https://dthompson.us/posts/lisp-icing-or-cake.html</guid>
-            <link>https://dthompson.us/posts/lisp-icing-or-cake.html</link>
-            
-            
-            
-            <author><![CDATA[psj]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Python notebooks for fundamentals of music processing]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=40550830 target=_blank>11 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=40550830 target=_blank>11 comments</a>]]></description>
             <pubDate>2024-06-02T02:20:09Z</pubDate>
             <guid isPermaLink="false">https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html</guid>
             <link>https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[PyCon US 2024 Recap]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=40552621 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=40552621 target=_blank>88 comments</a>]]></description>
             <pubDate>2024-06-02T09:03:54Z</pubDate>
             <guid isPermaLink="false">https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html</guid>
             <link>https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[SPI Flash]]></title>
-            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=40554396 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=40554396 target=_blank>41 comments</a>]]></description>
             <pubDate>2024-06-02T14:21:21Z</pubDate>
             <guid isPermaLink="false">https://trmm.net/SPI_flash/</guid>
             <link>https://trmm.net/SPI_flash/</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Hotwire: HTML Over The Wire]]></title>
+            <description><![CDATA[129 points | <a href=https://news.ycombinator.com/item?id=40555116 target=_blank>107 comments</a>]]></description>
+            <pubDate>2024-06-02T15:55:56Z</pubDate>
+            <guid isPermaLink="false">https://hotwired.dev/</guid>
+            <link>https://hotwired.dev/</link>
+            
+            
+            
+            <author><![CDATA[bpierre]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)]]></title>
-            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=40553448 target=_blank>23 comments</a>]]></description>
+            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=40553448 target=_blank>23 comments</a>]]></description>
             <pubDate>2024-06-02T12:07:07Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2011.13127</guid>
             <link>https://arxiv.org/abs/2011.13127</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Hotwire: HTML Over The Wire]]></title>
-            <description><![CDATA[124 points | <a href=https://news.ycombinator.com/item?id=40555116 target=_blank>106 comments</a>]]></description>
-            <pubDate>2024-06-02T15:55:56Z</pubDate>
-            <guid isPermaLink="false">https://hotwired.dev/</guid>
-            <link>https://hotwired.dev/</link>
+            <title><![CDATA[Unlocking the Duron and Athlon using the pencil (2007)]]></title>
+            <description><![CDATA[116 points | <a href=https://news.ycombinator.com/item?id=40551112 target=_blank>67 comments</a>]]></description>
+            <pubDate>2024-06-02T03:29:55Z</pubDate>
+            <guid isPermaLink="false">http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html</guid>
+            <link>http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html</link>
             
             
             
-            <author><![CDATA[bpierre]]></author>
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
