@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #670]]></title>
+        <title><![CDATA[Perl Weekly #671]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Being a Keynote Speaker]]></title>
-            <description><![CDATA[TPRC 2024 keynote speaker is announced. I am jealous of those able to attend the event.]]></description>
-            <pubDate>2024.05.26</pubDate>
-            <guid isPermaLink="false">https://ovid.github.io/blog/being-a-keynote-speaker.html</guid>
-            <link>https://ovid.github.io/blog/being-a-keynote-speaker.html</link>
+            <title><![CDATA[De-accentifying characters?]]></title>
+            <description><![CDATA[Is there a way to replace accented characters by their plain version, something like <b>tr/ûšḥ/ush/</b>?]]></description>
+            <pubDate>2024.06.01</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1d5k4cm/deaccentifying_characters/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1d5k4cm/deaccentifying_characters/</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Pull Request Club 2021-2023 Report]]></title>
-            <description><![CDATA[Finally we have the long awaited annual report of Pull Request Club. Happy to see it is growing so fast. Congratulation to all contributors.]]></description>
-            <pubDate>2024.05.24</pubDate>
-            <guid isPermaLink="false">https://kyzn.org/pull-request-club-2021-2023-report/</guid>
-            <link>https://kyzn.org/pull-request-club-2021-2023-report/</link>
-            
-            
-            
-            <author><![CDATA[kivanc_yazan]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Deploying Dancer Apps]]></title>
-            <description><![CDATA[Being a fan of Dancer2 framework, I found this blog post very informative with plenty of handy tricks.]]></description>
-            <pubDate>2024.05.24</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/deploying-dancer-apps/</guid>
-            <link>https://www.perl.com/article/deploying-dancer-apps/</link>
+            <title><![CDATA[Time is dwindling to book your trip to TPRC!]]></title>
+            <description><![CDATA[amber_krawczyk]]></description>
+            <pubDate>2024.06.01</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/trpc2024lv</guid>
+            <link>https://news.perlfoundation.org/post/trpc2024lv</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Toolchain Summit 2024 in Lisbon]]></title>
-            <description><![CDATA[It is always pleasure to read about the success story of PTS 2024. Here we have another such from <strong>Kenichi</strong>. Thanks for sharing the report with us. It proves a point that Perl is in safe hand.]]></description>
-            <pubDate>2024.05.27</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/kenichi_ishigaki/2024/05/perl-toolchain-summit-2024-in-lisbon.html</guid>
-            <link>https://blogs.perl.org/users/kenichi_ishigaki/2024/05/perl-toolchain-summit-2024-in-lisbon.html</link>
-            
-            
-            
-            <author><![CDATA[kenichi_ishigaki]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -82,15 +50,47 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.21 Curry Primed]]></title>
-            <description><![CDATA[2024.21 Curry Primed]]></description>
-            <pubDate>2024.05.20</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/05/20/2024-21-curry-primed/</guid>
-            <link>https://rakudoweekly.blog/2024/05/20/2024-21-curry-primed/</link>
+            <title><![CDATA[Get CPU usage of PID]]></title>
+            <description><![CDATA['I am making a script with multiple threads...' isn't that in itself a problem in Perl?]]></description>
+            <pubDate>2024.05.31</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1d4m5cy/get_cpu_usage_of_pid/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1d4m5cy/get_cpu_usage_of_pid/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paella. An interactive calendar application for the terminal]]></title>
+            <description><![CDATA[Paella. An interactive calendar application for the terminal]]></description>
+            <pubDate>2024.05.31</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1d552hj/paella_an_interactive_calendar_application_for/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1d552hj/paella_an_interactive_calendar_application_for/</link>
+            
+            
+            
+            <author><![CDATA[saif_ahmed]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MariaDB 10 and SQL::Translator::Producer]]></title>
+            <description><![CDATA[MariaDB 10 and SQL::Translator::Producer]]></description>
+            <pubDate>2024.05.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/usna78/2024/05/mariadb-10-and-sqltranslatorproducer.html</guid>
+            <link>https://blogs.perl.org/users/usna78/2024/05/mariadb-10-and-sqltranslatorproducer.html</link>
+            
+            
+            
+            <author><![CDATA[russbrewer]]></author>
             
                 
             
@@ -99,14 +99,78 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/05/cdxcvii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/05/dcxi-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.05.25</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/06/cdxcviii-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>]]></description>
+            <pubDate>2024.06.03</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Getting sarted with Docker for Perl developers]]></title>
+            <description><![CDATA[June 13, 2024, in Zoom]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/301268306/</guid>
+            <link>https://www.meetup.com/code-mavens/events/301268306/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Perl and Raku conference]]></title>
+            <description><![CDATA[June 24-28, 2024, in Las Vegas, NV, USA]]></description>
+            
+            <guid isPermaLink="false">https://tprc.us/tprc-2024-las/</guid>
+            <link>https://tprc.us/tprc-2024-las/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Continuous Integration (CI): GitHub Actions for Perl Projects]]></title>
+            <description><![CDATA[July 14, 2024, in Zoom]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/301413566/</guid>
+            <link>https://www.meetup.com/code-mavens/events/301413566/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[London Perl and Raku Workshop]]></title>
+            <description><![CDATA[October 26, 2024, in London, UK]]></description>
+            
+            <guid isPermaLink="false">http://act.yapc.eu/lpw2024/</guid>
+            <link>http://act.yapc.eu/lpw2024/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
