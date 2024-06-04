@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Hacking millions of modems and investigating who hacked my modem]]></title>
-            <description><![CDATA[825 points | <a href=https://news.ycombinator.com/item?id=40570781 target=_blank>3 comments</a>]]></description>
+            <description><![CDATA[826 points | <a href=https://news.ycombinator.com/item?id=40570781 target=_blank>3 comments</a>]]></description>
             <pubDate>2024-06-04T04:46:58Z</pubDate>
             <guid isPermaLink="false">https://samcurry.net/hacking-millions-of-modems</guid>
             <link>https://samcurry.net/hacking-millions-of-modems</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[I am sick of LeetCode-style interviews]]></title>
-            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=40571395 target=_blank>508 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=40571395 target=_blank>510 comments</a>]]></description>
             <pubDate>2024-06-04T06:47:51Z</pubDate>
             <guid isPermaLink="false">https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/</guid>
             <link>https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Diffusion on syntax trees for program synthesis]]></title>
-            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=40569531 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=40569531 target=_blank>84 comments</a>]]></description>
             <pubDate>2024-06-04T00:52:27Z</pubDate>
             <guid isPermaLink="false">https://tree-diffusion.github.io/</guid>
             <link>https://tree-diffusion.github.io/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[A breakthrough towards the Riemann hypothesis]]></title>
-            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=40571995 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=40571995 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-06-04T08:25:19Z</pubDate>
             <guid isPermaLink="false">https://mathstodon.xyz/@tao/112557248794707738</guid>
             <link>https://mathstodon.xyz/@tao/112557248794707738</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Koheesio: Nike's Python-based framework to build advanced data-pipelines]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=40570892 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=40570892 target=_blank>56 comments</a>]]></description>
             <pubDate>2024-06-04T05:07:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/Nike-Inc/koheesio</guid>
             <link>https://github.com/Nike-Inc/koheesio</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Encryption at Rest: Whose Threat Model Is It Anyway?]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=40573211 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=40573211 target=_blank>143 comments</a>]]></description>
             <pubDate>2024-06-04T11:25:18Z</pubDate>
             <guid isPermaLink="false">https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/</guid>
             <link>https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/</link>
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Why do electronic components have such odd values? (2021)]]></title>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=40576132 target=_blank>70 comments</a>]]></description>
+            <pubDate>2024-06-04T16:20:49Z</pubDate>
+            <guid isPermaLink="false">https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</guid>
+            <link>https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</link>
+            
+            
+            
+            <author><![CDATA[mtm]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Sam Altman, Lately]]></title>
             <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=40566605 target=_blank>109 comments</a>]]></description>
             <pubDate>2024-06-03T19:33:16Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Why do electronic components have such odd values? (2021)]]></title>
-            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=40576132 target=_blank>65 comments</a>]]></description>
-            <pubDate>2024-06-04T16:20:49Z</pubDate>
-            <guid isPermaLink="false">https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</guid>
-            <link>https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</link>
-            
-            
-            
-            <author><![CDATA[mtm]]></author>
             
                 
             
