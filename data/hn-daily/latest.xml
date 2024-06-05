@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[You'll regret using natural keys]]></title>
-            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=40580549 target=_blank>404 comments</a>]]></description>
+            <description><![CDATA[574 points | <a href=https://news.ycombinator.com/item?id=40580549 target=_blank>413 comments</a>]]></description>
             <pubDate>2024-06-05T01:25:09Z</pubDate>
             <guid isPermaLink="false">https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</guid>
             <link>https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[An animated introduction to Fourier series]]></title>
-            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=40578705 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[497 points | <a href=https://news.ycombinator.com/item?id=40578705 target=_blank>71 comments</a>]]></description>
             <pubDate>2024-06-04T20:39:52Z</pubDate>
             <guid isPermaLink="false">https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles</guid>
             <link>https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Things the guys who stole my phone have texted me to try to get me to unlock it]]></title>
-            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=40578460 target=_blank>257 comments</a>]]></description>
+            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=40578460 target=_blank>258 comments</a>]]></description>
             <pubDate>2024-06-04T20:10:23Z</pubDate>
             <guid isPermaLink="false">https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it</guid>
             <link>https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Why do electronic components have such odd values? (2021)]]></title>
-            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=40576132 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[415 points | <a href=https://news.ycombinator.com/item?id=40576132 target=_blank>138 comments</a>]]></description>
             <pubDate>2024-06-04T16:20:49Z</pubDate>
             <guid isPermaLink="false">https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</guid>
             <link>https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Some notes on influenceering]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=40578668 target=_blank>85 comments</a>]]></description>
-            <pubDate>2024-06-04T20:34:30Z</pubDate>
-            <guid isPermaLink="false">https://lcamtuf.substack.com/p/some-notes-on-influenceering</guid>
-            <link>https://lcamtuf.substack.com/p/some-notes-on-influenceering</link>
-            
-            
-            
-            <author><![CDATA[tptacek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Is Microsoft trying to commit suicide?]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=40585212 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=40585212 target=_blank>210 comments</a>]]></description>
             <pubDate>2024-06-05T14:28:46Z</pubDate>
             <guid isPermaLink="false">https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html</guid>
             <link>https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Some notes on influenceering]]></title>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=40578668 target=_blank>88 comments</a>]]></description>
+            <pubDate>2024-06-04T20:34:30Z</pubDate>
+            <guid isPermaLink="false">https://lcamtuf.substack.com/p/some-notes-on-influenceering</guid>
+            <link>https://lcamtuf.substack.com/p/some-notes-on-influenceering</link>
+            
+            
+            
+            <author><![CDATA[tptacek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Entropy, a CLI that scans files to find high entropy lines (might be secrets)]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=40578060 target=_blank>115 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=40578060 target=_blank>117 comments</a>]]></description>
             <pubDate>2024-06-04T19:25:47Z</pubDate>
             <guid isPermaLink="false">https://github.com/EwenQuim/entropy</guid>
             <link>https://github.com/EwenQuim/entropy</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[lanfeust]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Popular Mac app 'Bartender' acquired by new unknown developer]]></title>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=40584606 target=_blank>107 comments</a>]]></description>
+            <pubDate>2024-06-05T13:38:05Z</pubDate>
+            <guid isPermaLink="false">https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/</guid>
+            <link>https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/</link>
+            
+            
+            
+            <author><![CDATA[coloneltcb]]></author>
             
                 
             
@@ -139,22 +155,6 @@
             
             
             <author><![CDATA[bmulholland]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Popular Mac app 'Bartender' acquired by new unknown developer]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=40584606 target=_blank>102 comments</a>]]></description>
-            <pubDate>2024-06-05T13:38:05Z</pubDate>
-            <guid isPermaLink="false">https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/</guid>
-            <link>https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/</link>
-            
-            
-            
-            <author><![CDATA[coloneltcb]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Influencer cartels manipulate social media]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=40577726 target=_blank>63 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=40577726 target=_blank>63 comments</a>]]></description>
             <pubDate>2024-06-04T18:51:34Z</pubDate>
             <guid isPermaLink="false">https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain</guid>
             <link>https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Google Maps is killing Timeline for Web]]></title>
-            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=40583946 target=_blank>113 comments</a>]]></description>
-            <pubDate>2024-06-05T12:15:37Z</pubDate>
-            <guid isPermaLink="false">https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/</guid>
-            <link>https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/</link>
+            <title><![CDATA[Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs]]></title>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=40585039 target=_blank>136 comments</a>]]></description>
+            <pubDate>2024-06-05T14:13:39Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2406.02061</guid>
+            <link>https://arxiv.org/abs/2406.02061</link>
             
             
             
-            <author><![CDATA[donatj]]></author>
+            <author><![CDATA[tosh]]></author>
             
                 
             
