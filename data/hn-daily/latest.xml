@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[You'll regret using natural keys]]></title>
-            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=40580549 target=_blank>272 comments</a>]]></description>
+            <description><![CDATA[444 points | <a href=https://news.ycombinator.com/item?id=40580549 target=_blank>296 comments</a>]]></description>
             <pubDate>2024-06-05T01:25:09Z</pubDate>
             <guid isPermaLink="false">https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</guid>
             <link>https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Things the guys who stole my phone have texted me to try to get me to unlock it]]></title>
-            <description><![CDATA[416 points | <a href=https://news.ycombinator.com/item?id=40578460 target=_blank>241 comments</a>]]></description>
+            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=40578460 target=_blank>245 comments</a>]]></description>
             <pubDate>2024-06-04T20:10:23Z</pubDate>
             <guid isPermaLink="false">https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it</guid>
             <link>https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[An animated introduction to Fourier series]]></title>
-            <description><![CDATA[394 points | <a href=https://news.ycombinator.com/item?id=40578705 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=40578705 target=_blank>60 comments</a>]]></description>
             <pubDate>2024-06-04T20:39:52Z</pubDate>
             <guid isPermaLink="false">https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles</guid>
             <link>https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Why do electronic components have such odd values? (2021)]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=40576132 target=_blank>123 comments</a>]]></description>
+            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=40576132 target=_blank>124 comments</a>]]></description>
             <pubDate>2024-06-04T16:20:49Z</pubDate>
             <guid isPermaLink="false">https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</guid>
             <link>https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Some notes on influenceering]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=40578668 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=40578668 target=_blank>73 comments</a>]]></description>
             <pubDate>2024-06-04T20:34:30Z</pubDate>
             <guid isPermaLink="false">https://lcamtuf.substack.com/p/some-notes-on-influenceering</guid>
             <link>https://lcamtuf.substack.com/p/some-notes-on-influenceering</link>
@@ -114,6 +114,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Entropy, a CLI that scans files to find high entropy lines (might be secrets)]]></title>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=40578060 target=_blank>92 comments</a>]]></description>
+            <pubDate>2024-06-04T19:25:47Z</pubDate>
+            <guid isPermaLink="false">https://github.com/EwenQuim/entropy</guid>
+            <link>https://github.com/EwenQuim/entropy</link>
+            
+            
+            
+            <author><![CDATA[lanfeust]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[macOS Bartender Auto-Update Signed by Unknown New Owner]]></title>
             <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=40579660 target=_blank>75 comments</a>]]></description>
             <pubDate>2024-06-04T22:34:56Z</pubDate>
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Entropy, a CLI that scans files to find high entropy lines (might be secrets)]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=40578060 target=_blank>89 comments</a>]]></description>
-            <pubDate>2024-06-04T19:25:47Z</pubDate>
-            <guid isPermaLink="false">https://github.com/EwenQuim/entropy</guid>
-            <link>https://github.com/EwenQuim/entropy</link>
-            
-            
-            
-            <author><![CDATA[lanfeust]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Debian's /tmpest in a teapot]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=40578414 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=40578414 target=_blank>203 comments</a>]]></description>
             <pubDate>2024-06-04T20:05:24Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/</guid>
             <link>https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Influencer cartels manipulate social media]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=40577726 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=40577726 target=_blank>57 comments</a>]]></description>
             <pubDate>2024-06-04T18:51:34Z</pubDate>
             <guid isPermaLink="false">https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain</guid>
             <link>https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[CO2 helps viruses stay alive longer in the air]]></title>
-            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=40575081 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=40575081 target=_blank>96 comments</a>]]></description>
             <pubDate>2024-06-04T14:36:49Z</pubDate>
             <guid isPermaLink="false">https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/</guid>
             <link>https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/</link>
