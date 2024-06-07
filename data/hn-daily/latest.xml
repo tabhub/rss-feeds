@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ice - open source bar manager for macOS]]></title>
-            <description><![CDATA[509 points | <a href=https://news.ycombinator.com/item?id=40605532 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[515 points | <a href=https://news.ycombinator.com/item?id=40605532 target=_blank>146 comments</a>]]></description>
             <pubDate>2024-06-07T05:11:58Z</pubDate>
             <guid isPermaLink="false">https://github.com/jordanbaird/Ice</guid>
             <link>https://github.com/jordanbaird/Ice</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[AI in software engineering at Google: Progress and the path ahead]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=40601116 target=_blank>190 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=40601116 target=_blank>191 comments</a>]]></description>
             <pubDate>2024-06-06T18:59:34Z</pubDate>
             <guid isPermaLink="false">https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/</guid>
             <link>https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How Does GPT-4o Encode Images?]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=40608269 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=40608269 target=_blank>77 comments</a>]]></description>
             <pubDate>2024-06-07T12:54:27Z</pubDate>
             <guid isPermaLink="false">https://www.oranlooney.com/post/gpt-cnn/</guid>
             <link>https://www.oranlooney.com/post/gpt-cnn/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Microsoft Will Switch Off Recall by Default After Security Backlash]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=40610435 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=40610435 target=_blank>183 comments</a>]]></description>
             <pubDate>2024-06-07T16:47:28Z</pubDate>
             <guid isPermaLink="false">https://www.wired.com/story/microsoft-recall-off-default-security-concerns/</guid>
             <link>https://www.wired.com/story/microsoft-recall-off-default-security-concerns/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Σ-GPTs: A New Approach to Autoregressive Models]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=40608413 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=40608413 target=_blank>35 comments</a>]]></description>
             <pubDate>2024-06-07T13:12:31Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2404.09562</guid>
             <link>https://arxiv.org/abs/2404.09562</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=40604596 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=40604596 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-06-07T01:59:21Z</pubDate>
             <guid isPermaLink="false">https://github.com/sosy-lab/cpu-energy-meter</guid>
             <link>https://github.com/sosy-lab/cpu-energy-meter</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[atlasunshrugged]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenSSH introduces options to penalize undesirable behavior]]></title>
+            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=40610621 target=_blank>63 comments</a>]]></description>
+            <pubDate>2024-06-07T17:08:23Z</pubDate>
+            <guid isPermaLink="false">https://undeadly.org/cgi?action=article;sid=20240607042157</guid>
+            <link>https://undeadly.org/cgi?action=article;sid=20240607042157</link>
+            
+            
+            
+            <author><![CDATA[zdw]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[jasondavies]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Let rand = main as usize (2022)]]></title>
-            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=40600384 target=_blank>45 comments</a>]]></description>
-            <pubDate>2024-06-06T17:55:28Z</pubDate>
-            <guid isPermaLink="false">https://codeandbitters.com/main-as-usize/</guid>
-            <link>https://codeandbitters.com/main-as-usize/</link>
-            
-            
-            
-            <author><![CDATA[wonger_]]></author>
             
                 
             
