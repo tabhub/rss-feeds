@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #671]]></title>
+        <title><![CDATA[Perl Weekly #672]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[De-accentifying characters?]]></title>
-            <description><![CDATA[Is there a way to replace accented characters by their plain version, something like <b>tr/ûšḥ/ush/</b>?]]></description>
-            <pubDate>2024.06.01</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1d5k4cm/deaccentifying_characters/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1d5k4cm/deaccentifying_characters/</link>
+            <title><![CDATA[Perl v5.40]]></title>
+            <description><![CDATA[The latest Perl v5.40 is released and ready to try. Please do share your experience with the team.]]></description>
+            <pubDate>2024.06.09</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/release/HAARG/perl-5.40.0</guid>
+            <link>https://metacpan.org/release/HAARG/perl-5.40.0</link>
             
             
             
@@ -34,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Time is dwindling to book your trip to TPRC!]]></title>
-            <description><![CDATA[amber_krawczyk]]></description>
-            <pubDate>2024.06.01</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/trpc2024lv</guid>
-            <link>https://news.perlfoundation.org/post/trpc2024lv</link>
+            <title><![CDATA[This week in PSC (150) | 2024-06-06]]></title>
+            <description><![CDATA[PSC sharing updates about state of Perl v5.40 release along with couple of other news.]]></description>
+            <pubDate>2024.06.06</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/06/this-week-in-psc-150-2024-06-06.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/06/this-week-in-psc-150-2024-06-06.html</link>
             
             
             
@@ -50,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Get CPU usage of PID]]></title>
-            <description><![CDATA['I am making a script with multiple threads...' isn't that in itself a problem in Perl?]]></description>
-            <pubDate>2024.05.31</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1d4m5cy/get_cpu_usage_of_pid/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1d4m5cy/get_cpu_usage_of_pid/</link>
+            <title><![CDATA[The Perl Conference through Lens]]></title>
+            <description><![CDATA[900+ photos of YAPC shared with us. Please do check out and see if you can find yourself in one of them.]]></description>
+            <pubDate>2024.06.08</pubDate>
+            <guid isPermaLink="false">https://www.flickr.com/groups/yapc/pool/</guid>
+            <link>https://www.flickr.com/groups/yapc/pool/</link>
             
             
             
@@ -66,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Paella. An interactive calendar application for the terminal]]></title>
-            <description><![CDATA[Paella. An interactive calendar application for the terminal]]></description>
-            <pubDate>2024.05.31</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1d552hj/paella_an_interactive_calendar_application_for/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1d552hj/paella_an_interactive_calendar_application_for/</link>
+            <title><![CDATA[2024.23 Sparkling]]></title>
+            <description><![CDATA[2024.23 Sparkling]]></description>
+            <pubDate>2024.06.03</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/06/03/2024-23-sparkling/</guid>
+            <link>https://rakudoweekly.blog/2024/06/03/2024-23-sparkling/</link>
             
             
             
-            <author><![CDATA[saif_ahmed]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[MariaDB 10 and SQL::Translator::Producer]]></title>
-            <description><![CDATA[MariaDB 10 and SQL::Translator::Producer]]></description>
-            <pubDate>2024.05.17</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/usna78/2024/05/mariadb-10-and-sqltranslatorproducer.html</guid>
-            <link>https://blogs.perl.org/users/usna78/2024/05/mariadb-10-and-sqltranslatorproducer.html</link>
-            
-            
-            
-            <author><![CDATA[russbrewer]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -99,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/06/cdxcviii-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>]]></description>
-            <pubDate>2024.06.03</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/06/cdxcix-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/06/dcxii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.06.09</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
