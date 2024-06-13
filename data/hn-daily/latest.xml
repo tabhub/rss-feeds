@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The GJK Algorithm: A weird and beautiful way to do a simple thing]]></title>
-            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=40660761 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[471 points | <a href=https://news.ycombinator.com/item?id=40660761 target=_blank>48 comments</a>]]></description>
             <pubDate>2024-06-12T17:35:09Z</pubDate>
             <guid isPermaLink="false">https://computerwebsite.net/writing/gjk</guid>
             <link>https://computerwebsite.net/writing/gjk</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27]]></title>
-            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=40656747 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=40656747 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-06-12T11:13:52Z</pubDate>
             <guid isPermaLink="false">https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/</guid>
             <link>https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Japan enacts law to promote competition in smartphone app stores]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=40662176 target=_blank>249 comments</a>]]></description>
+            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=40662176 target=_blank>249 comments</a>]]></description>
             <pubDate>2024-06-12T19:43:50Z</pubDate>
             <guid isPermaLink="false">https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette</guid>
             <link>https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How Meta trains large language models at scale]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=40664339 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=40664339 target=_blank>153 comments</a>]]></description>
             <pubDate>2024-06-12T23:35:08Z</pubDate>
             <guid isPermaLink="false">https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/</guid>
             <link>https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Serious Sam handled massive amounts of enemies on 56k modem connections]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=40657574 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=40657574 target=_blank>87 comments</a>]]></description>
             <pubDate>2024-06-12T12:55:15Z</pubDate>
             <guid isPermaLink="false">https://staniks.github.io/articles/serious-engine-networking-analysis</guid>
             <link>https://staniks.github.io/articles/serious-engine-networking-analysis</link>
@@ -91,6 +91,22 @@
             
             
             <author><![CDATA[sklopec]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Uncensor any LLM with abliteration]]></title>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=40665721 target=_blank>106 comments</a>]]></description>
+            <pubDate>2024-06-13T03:42:39Z</pubDate>
+            <guid isPermaLink="false">https://huggingface.co/blog/mlabonne/abliteration</guid>
+            <link>https://huggingface.co/blog/mlabonne/abliteration</link>
+            
+            
+            
+            <author><![CDATA[mizzao]]></author>
             
                 
             
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Uncensor any LLM with abliteration]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=40665721 target=_blank>98 comments</a>]]></description>
-            <pubDate>2024-06-13T03:42:39Z</pubDate>
-            <guid isPermaLink="false">https://huggingface.co/blog/mlabonne/abliteration</guid>
-            <link>https://huggingface.co/blog/mlabonne/abliteration</link>
-            
-            
-            
-            <author><![CDATA[mizzao]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[ChromeOS will soon be developed on large portions of the Android stack]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=40661703 target=_blank>282 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=40661703 target=_blank>286 comments</a>]]></description>
             <pubDate>2024-06-12T19:02:46Z</pubDate>
             <guid isPermaLink="false">https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html</guid>
             <link>https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Star botanist likely made up data about nutritional supplements, new probe finds]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=40658901 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=40658901 target=_blank>74 comments</a>]]></description>
             <pubDate>2024-06-12T14:59:04Z</pubDate>
             <guid isPermaLink="false">https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds</guid>
             <link>https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Gerald Sussman: Programming is (should be) fun (2022) [video]]]></title>
-            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=40663704 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=40663704 target=_blank>45 comments</a>]]></description>
             <pubDate>2024-06-12T22:02:27Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=2MYzvQ1v8Ww</guid>
             <link>https://www.youtube.com/watch?v=2MYzvQ1v8Ww</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Diffractive Chocolate]]></title>
-            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=40660689 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=40660689 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-06-12T17:27:33Z</pubDate>
             <guid isPermaLink="false">https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/</guid>
             <link>https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/</link>
