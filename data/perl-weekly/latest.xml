@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #673]]></title>
+        <title><![CDATA[Perl Weekly #674]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Chopping UTF-8]]></title>
-            <description><![CDATA[Dealing with UTF-8 characters on the command line with Perl]]></description>
-            <pubDate>2024.06.04</pubDate>
-            <guid isPermaLink="false">https://domm.plix.at/perl/2024_06_chopping_utf8.html</guid>
-            <link>https://domm.plix.at/perl/2024_06_chopping_utf8.html</link>
+            <title><![CDATA[How I Spent My Perl Toolchain Summit v2024]]></title>
+            <description><![CDATA[The wait was worth it, finally we have the report by Olaf.]]></description>
+            <pubDate>2024.06.21</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2024/06/21/how-i-spent-my-perl-toolchain-summit-v2024/</guid>
+            <link>https://www.olafalders.com/2024/06/21/how-i-spent-my-perl-toolchain-summit-v2024/</link>
             
             
             
-            <author><![CDATA[thomas_klausner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Making time to waste.]]></title>
-            <description><![CDATA[An excellent writing a bit about RRULES for recurring events and a lot about time. Something we have plenty of, but never enough.]]></description>
-            <pubDate>2024.06.15</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2024/06/making-time-to-waste.html</guid>
-            <link>https://blogs.perl.org/users/saif/2024/06/making-time-to-waste.html</link>
-            
-            
-            
-            <author><![CDATA[saif_ahmed]]></author>
+            <author><![CDATA[olaf_alders]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[listening to your friends' jams with last.fm]]></title>
-            <description><![CDATA[How can you discover music that your friends like, but you have never heard off?]]></description>
-            <pubDate>2024.06.15</pubDate>
-            <guid isPermaLink="false">https://rjbs.cloud/blog/2024/06/lastfm-friendo/</guid>
-            <link>https://rjbs.cloud/blog/2024/06/lastfm-friendo/</link>
+            <title><![CDATA[Dr. StrangeYAML or How I Learned to Stop Worrying and Love the LLM]]></title>
+            <description><![CDATA[Do you work with LLM? If yes then you should give YAMLScript a go.]]></description>
+            <pubDate>2024.06.20</pubDate>
+            <guid isPermaLink="false">https://yamlscript.org/posts/jun-20-2024/</guid>
+            <link>https://yamlscript.org/posts/jun-20-2024/</link>
             
             
             
-            <author><![CDATA[ricardo_signes]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Building Perl applications for Bioinformatics ]]></title>
-            <description><![CDATA[An academic paper and some discussion.]]></description>
-            <pubDate>2024.06.15</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1dg7phy/building_perl_applications_for_bioinformatics/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1dg7phy/building_perl_applications_for_bioinformatics/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[ingy_dot_net]]></author>
             
                 
             
@@ -82,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[GitHub Actions doesn't like the older perl images today ]]></title>
-            <description><![CDATA[GitHub Actions doesn't like the older perl images today ]]></description>
-            <pubDate>2024.06.15</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1dg1fur/github_actions_doesnt_like_the_older_perl_images/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1dg1fur/github_actions_doesnt_like_the_older_perl_images/</link>
+            <title><![CDATA[Bowing to the inevitable]]></title>
+            <description><![CDATA[Have you read the book, <strong>Data Munging with Perl</strong>? Dave is asking the readers what they would like to see in the second edition of the book.]]></description>
+            <pubDate>2024.06.23</pubDate>
+            <guid isPermaLink="false">https://dev.to/davorg/bowing-to-the-inevitable-3kkn</guid>
+            <link>https://dev.to/davorg/bowing-to-the-inevitable-3kkn</link>
             
             
             
-            <author><![CDATA[brian_d_foy]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -98,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Thanks Fastly!]]></title>
-            <description><![CDATA[The Perl NOC is thanking its supporters.]]></description>
-            <pubDate>2024.06</pubDate>
-            <guid isPermaLink="false">https://log.perl.org/2024/06/thanks-fastly.html</guid>
-            <link>https://log.perl.org/2024/06/thanks-fastly.html</link>
+            <title><![CDATA[2024.25 Geographically Explained]]></title>
+            <description><![CDATA[2024.25 Geographically Explained]]></description>
+            <pubDate>2024.06.17</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/06/17/2024-25-geographically-explained/</guid>
+            <link>https://rakudoweekly.blog/2024/06/17/2024-25-geographically-explained/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/06/d-11-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2024.06.16</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/06/di-10-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/06/dcxiii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.06.23</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -183,6 +151,22 @@
             
             <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/301413566</guid>
             <link>https://www.meetup.com/code-mavens/events/301413566</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Monatliches Raku-Monger Treffen]]></title>
+            <description><![CDATA[July 18, 2024, Im Roten Ochsen]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/niederrheinrm/events/ptbhmsygckbxb/</guid>
+            <link>https://www.meetup.com/niederrheinrm/events/ptbhmsygckbxb/</link>
             
             
             
