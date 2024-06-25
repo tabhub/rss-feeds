@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Julian Assange has reached a plea deal with the U.S., allowing him to go free]]></title>
-            <description><![CDATA[647 points | <a href=https://news.ycombinator.com/item?id=40782130 target=_blank>324 comments</a>]]></description>
+            <description><![CDATA[665 points | <a href=https://news.ycombinator.com/item?id=40782130 target=_blank>328 comments</a>]]></description>
             <pubDate>2024-06-24T23:10:07Z</pubDate>
             <guid isPermaLink="false">https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695</guid>
             <link>https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Apple found in breach of EU competition rules]]></title>
-            <description><![CDATA[643 points | <a href=https://news.ycombinator.com/item?id=40773883 target=_blank>709 comments</a>]]></description>
+            <description><![CDATA[643 points | <a href=https://news.ycombinator.com/item?id=40773883 target=_blank>710 comments</a>]]></description>
             <pubDate>2024-06-24T09:10:56Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act</guid>
             <link>https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Cosmopolitan v3.5]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=40773139 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=40773139 target=_blank>127 comments</a>]]></description>
             <pubDate>2024-06-24T06:50:00Z</pubDate>
             <guid isPermaLink="false">https://github.com/jart/cosmopolitan/releases/tag/3.5.0</guid>
             <link>https://github.com/jart/cosmopolitan/releases/tag/3.5.0</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Windows 11 is now enabling OneDrive folder backup without asking permission]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=40781048 target=_blank>318 comments</a>]]></description>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=40781048 target=_blank>319 comments</a>]]></description>
             <pubDate>2024-06-24T21:30:43Z</pubDate>
             <guid isPermaLink="false">https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/</guid>
             <link>https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Round Rects Are Everywhere]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=40781838 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=40781838 target=_blank>76 comments</a>]]></description>
             <pubDate>2024-06-24T22:38:31Z</pubDate>
             <guid isPermaLink="false">https://www.folklore.org/Round_Rects_Are_Everywhere.html</guid>
             <link>https://www.folklore.org/Round_Rects_Are_Everywhere.html</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[More Memory Safety for Let's Encrypt: Deploying ntpd-rs]]></title>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=40778594 target=_blank>91 comments</a>]]></description>
+            <pubDate>2024-06-24T17:23:28Z</pubDate>
+            <guid isPermaLink="false">https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html</guid>
+            <link>https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html</link>
+            
+            
+            
+            <author><![CDATA[Dunedan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Microsoft Account to local account conversion guide erased from Windows 11 guide]]></title>
             <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=40775301 target=_blank>269 comments</a>]]></description>
             <pubDate>2024-06-24T12:38:06Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[More Memory Safety for Let's Encrypt: Deploying ntpd-rs]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=40778594 target=_blank>90 comments</a>]]></description>
-            <pubDate>2024-06-24T17:23:28Z</pubDate>
-            <guid isPermaLink="false">https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html</guid>
-            <link>https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html</link>
-            
-            
-            
-            <author><![CDATA[Dunedan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ask HN: Those of you who've left the SWE world, what did you transition into?]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=40780940 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=40780940 target=_blank>145 comments</a>]]></description>
             <pubDate>2024-06-24T21:20:31Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=40780940</guid>
             <link>https://news.ycombinator.com/item?id=40780940</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[A journey into Kindle AI slop hell]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=40779643 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=40779643 target=_blank>98 comments</a>]]></description>
             <pubDate>2024-06-24T19:19:06Z</pubDate>
             <guid isPermaLink="false">https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now</guid>
             <link>https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now</link>
