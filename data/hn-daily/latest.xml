@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Google Sheets ported its calculation worker from JavaScript to WasmGC]]></title>
-            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=40808820 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=40808820 target=_blank>158 comments</a>]]></description>
             <pubDate>2024-06-27T09:34:09Z</pubDate>
             <guid isPermaLink="false">https://web.dev/case-studies/google-sheets-wasmgc</guid>
             <link>https://web.dev/case-studies/google-sheets-wasmgc</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Remembering Larry Finger, who made Linux wireless work]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=40812695 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=40812695 target=_blank>42 comments</a>]]></description>
             <pubDate>2024-06-27T17:09:37Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/</guid>
             <link>https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/</link>
@@ -82,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The brain makes a lot of waste. Now scientists think they know where it goes]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=40805251 target=_blank>161 comments</a>]]></description>
-            <pubDate>2024-06-26T22:21:49Z</pubDate>
-            <guid isPermaLink="false">https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</guid>
-            <link>https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</link>
+            <title><![CDATA[Lessons I Wish I Had Been Taught (1996) [pdf]]]></title>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=40808933 target=_blank>78 comments</a>]]></description>
+            <pubDate>2024-06-27T10:06:18Z</pubDate>
+            <guid isPermaLink="false">https://www.ams.org/notices/199701/comm-rota.pdf</guid>
+            <link>https://www.ams.org/notices/199701/comm-rota.pdf</link>
             
             
             
-            <author><![CDATA[robg]]></author>
+            <author><![CDATA[zerojames]]></author>
             
                 
             
@@ -107,22 +107,6 @@
             
             
             <author><![CDATA[signa11]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Lessons I Wish I Had Been Taught (1996) [pdf]]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=40808933 target=_blank>77 comments</a>]]></description>
-            <pubDate>2024-06-27T10:06:18Z</pubDate>
-            <guid isPermaLink="false">https://www.ams.org/notices/199701/comm-rota.pdf</guid>
-            <link>https://www.ams.org/notices/199701/comm-rota.pdf</link>
-            
-            
-            
-            <author><![CDATA[zerojames]]></author>
             
                 
             
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Gemma 2: Improving Open Language Models at a Practical Size [pdf]]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=40810802 target=_blank>125 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=40810802 target=_blank>126 comments</a>]]></description>
             <pubDate>2024-06-27T14:18:46Z</pubDate>
             <guid isPermaLink="false">https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf</guid>
             <link>https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[A modern 8 bit design, built using 1950s thermionic valves]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=40814011 target=_blank>28 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40814011 target=_blank>29 comments</a>]]></description>
             <pubDate>2024-06-27T19:18:10Z</pubDate>
             <guid isPermaLink="false">https://www.valve.computer/</guid>
             <link>https://www.valve.computer/</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Supreme Court blocks controversial Purdue Pharma opioid settlement]]></title>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=40813369 target=_blank>465 comments</a>]]></description>
+            <pubDate>2024-06-27T18:13:51Z</pubDate>
+            <guid isPermaLink="false">https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/</guid>
+            <link>https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/</link>
+            
+            
+            
+            <author><![CDATA[datadrivenangel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Post Office lawyers held secret meeting with judge to stop disclosure]]></title>
-            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=40808808 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=40808808 target=_blank>147 comments</a>]]></description>
             <pubDate>2024-06-27T09:31:56Z</pubDate>
             <guid isPermaLink="false">https://www.lawgazette.co.uk/news/post-office-lawyers-held-secret-meeting-with-judge-to-stop-disclosure/5119593.article</guid>
             <link>https://www.lawgazette.co.uk/news/post-office-lawyers-held-secret-meeting-with-judge-to-stop-disclosure/5119593.article</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[DoorDash and Pizza Arbitrage (2020)]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=40806356 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=40806356 target=_blank>129 comments</a>]]></description>
             <pubDate>2024-06-27T01:16:52Z</pubDate>
             <guid isPermaLink="false">https://www.readmargins.com/p/doordash-and-pizza-arbitrage</guid>
             <link>https://www.readmargins.com/p/doordash-and-pizza-arbitrage</link>
