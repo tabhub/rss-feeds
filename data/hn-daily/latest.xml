@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[25 years of video clips gone as Paramount axes Comedy Central wesbite]]></title>
-            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=40807032 target=_blank>307 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=40807032 target=_blank>308 comments</a>]]></description>
             <pubDate>2024-06-27T03:55:02Z</pubDate>
             <guid isPermaLink="false">https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/</guid>
             <link>https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Google Sheets ported its calculation worker from JavaScript to WasmGC]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=40808820 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=40808820 target=_blank>147 comments</a>]]></description>
             <pubDate>2024-06-27T09:34:09Z</pubDate>
             <guid isPermaLink="false">https://web.dev/case-studies/google-sheets-wasmgc</guid>
             <link>https://web.dev/case-studies/google-sheets-wasmgc</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Claude 3.5 Sonnet]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=40806698 target=_blank>190 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=40806698 target=_blank>191 comments</a>]]></description>
             <pubDate>2024-06-27T02:42:10Z</pubDate>
             <guid isPermaLink="false">https://thezvi.substack.com/p/on-claude-35-sonnet</guid>
             <link>https://thezvi.substack.com/p/on-claude-35-sonnet</link>
@@ -98,40 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Voice bots with 500ms response times]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=40805010 target=_blank>77 comments</a>]]></description>
-            <pubDate>2024-06-26T21:51:03Z</pubDate>
-            <guid isPermaLink="false">https://fastvoiceagent.cerebrium.ai/</guid>
-            <link>https://fastvoiceagent.cerebrium.ai/</link>
-            
-            
-            
-            <author><![CDATA[kwindla]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The brain makes a lot of waste. Now scientists think they know where it goes]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=40805251 target=_blank>154 comments</a>]]></description>
-            <pubDate>2024-06-26T22:21:49Z</pubDate>
-            <guid isPermaLink="false">https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</guid>
-            <link>https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</link>
-            
-            
-            
-            <author><![CDATA[robg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Remembering Larry Finger, who made Linux wireless work]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=40812695 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=40812695 target=_blank>33 comments</a>]]></description>
             <pubDate>2024-06-27T17:09:37Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/</guid>
             <link>https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/</link>
@@ -146,8 +114,40 @@
         </item>
         
         <item>
+            <title><![CDATA[The brain makes a lot of waste. Now scientists think they know where it goes]]></title>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=40805251 target=_blank>156 comments</a>]]></description>
+            <pubDate>2024-06-26T22:21:49Z</pubDate>
+            <guid isPermaLink="false">https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</guid>
+            <link>https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins</link>
+            
+            
+            
+            <author><![CDATA[robg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Voice bots with 500ms response times]]></title>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=40805010 target=_blank>77 comments</a>]]></description>
+            <pubDate>2024-06-26T21:51:03Z</pubDate>
+            <guid isPermaLink="false">https://fastvoiceagent.cerebrium.ai/</guid>
+            <link>https://fastvoiceagent.cerebrium.ai/</link>
+            
+            
+            
+            <author><![CDATA[kwindla]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Eplot: A new package for making charts in Emacs]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=40807923 target=_blank>36 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=40807923 target=_blank>38 comments</a>]]></description>
             <pubDate>2024-06-27T06:33:44Z</pubDate>
             <guid isPermaLink="false">https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/</guid>
             <link>https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[signa11]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Lessons I Wish I Had Been Taught (1996) [pdf]]]></title>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=40808933 target=_blank>70 comments</a>]]></description>
+            <pubDate>2024-06-27T10:06:18Z</pubDate>
+            <guid isPermaLink="false">https://www.ams.org/notices/199701/comm-rota.pdf</guid>
+            <link>https://www.ams.org/notices/199701/comm-rota.pdf</link>
+            
+            
+            
+            <author><![CDATA[zerojames]]></author>
             
                 
             
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[zoul]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Lessons I Wish I Had Been Taught (1996) [pdf]]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=40808933 target=_blank>68 comments</a>]]></description>
-            <pubDate>2024-06-27T10:06:18Z</pubDate>
-            <guid isPermaLink="false">https://www.ams.org/notices/199701/comm-rota.pdf</guid>
-            <link>https://www.ams.org/notices/199701/comm-rota.pdf</link>
-            
-            
-            
-            <author><![CDATA[zerojames]]></author>
             
                 
             
