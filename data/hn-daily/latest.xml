@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Imhex: A hex editor for reverse engineers]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=40828493 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=40828493 target=_blank>82 comments</a>]]></description>
             <pubDate>2024-06-29T07:25:49Z</pubDate>
             <guid isPermaLink="false">https://github.com/WerWolv/ImHex</guid>
             <link>https://github.com/WerWolv/ImHex</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[A bunch of programming advice I'd give to myself 15 years ago]]></title>
-            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=40829607 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=40829607 target=_blank>213 comments</a>]]></description>
             <pubDate>2024-06-29T11:38:01Z</pubDate>
             <guid isPermaLink="false">https://mbuffett.com/posts/programming-advice-younger-self/</guid>
             <link>https://mbuffett.com/posts/programming-advice-younger-self/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws]]></title>
-            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=40830005 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=40830005 target=_blank>74 comments</a>]]></description>
             <pubDate>2024-06-29T12:35:51Z</pubDate>
             <guid isPermaLink="false">https://memorycorruption.net/posts/rce-lua-factorio/</guid>
             <link>https://memorycorruption.net/posts/rce-lua-factorio/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How to waste bandwidth, battery power, and annoy sysadmins]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=40828203 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=40828203 target=_blank>132 comments</a>]]></description>
             <pubDate>2024-06-29T06:07:50Z</pubDate>
             <guid isPermaLink="false">https://rachelbythebay.com/w/2024/06/28/fxios/</guid>
             <link>https://rachelbythebay.com/w/2024/06/28/fxios/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[A Eulogy for DevOps]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=40826236 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=40826236 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-06-28T22:59:05Z</pubDate>
             <guid isPermaLink="false">https://matduggan.com/a-eulogy-for-devops/</guid>
             <link>https://matduggan.com/a-eulogy-for-devops/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[The XAES-256-GCM extended-nonce AEAD]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=40826683 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=40826683 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-06-29T00:01:24Z</pubDate>
             <guid isPermaLink="false">https://words.filippo.io/dispatches/xaes-256-gcm/</guid>
             <link>https://words.filippo.io/dispatches/xaes-256-gcm/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Researchers at ETH Zurich develop the fastest possible flow algorithm]]></title>
+            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=40829459 target=_blank>11 comments</a>]]></description>
+            <pubDate>2024-06-29T11:12:42Z</pubDate>
+            <guid isPermaLink="false">https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html</guid>
+            <link>https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html</link>
+            
+            
+            
+            <author><![CDATA[jeroenvlek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[It's not just you, Next.js is getting harder to use]]></title>
             <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=40828610 target=_blank>146 comments</a>]]></description>
             <pubDate>2024-06-29T08:00:56Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Researchers at ETH Zurich develop the fastest possible flow algorithm]]></title>
-            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=40829459 target=_blank>11 comments</a>]]></description>
-            <pubDate>2024-06-29T11:12:42Z</pubDate>
-            <guid isPermaLink="false">https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html</guid>
-            <link>https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html</link>
-            
-            
-            
-            <author><![CDATA[jeroenvlek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The economics of writing technical books]]></title>
-            <description><![CDATA[124 points | <a href=https://news.ycombinator.com/item?id=40830332 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=40830332 target=_blank>51 comments</a>]]></description>
             <pubDate>2024-06-29T13:26:46Z</pubDate>
             <guid isPermaLink="false">https://architectelevator.com/strategy/book-author-economics/</guid>
             <link>https://architectelevator.com/strategy/book-author-economics/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Thousands of Pablo Picasso’s works in a new online archive]]></title>
-            <description><![CDATA[119 points | <a href=https://news.ycombinator.com/item?id=40832214 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[122 points | <a href=https://news.ycombinator.com/item?id=40832214 target=_blank>24 comments</a>]]></description>
             <pubDate>2024-06-29T17:39:16Z</pubDate>
             <guid isPermaLink="false">https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/</guid>
             <link>https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/</link>
