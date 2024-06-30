@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Imhex: A hex editor for reverse engineers]]></title>
-            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=40828493 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[454 points | <a href=https://news.ycombinator.com/item?id=40828493 target=_blank>97 comments</a>]]></description>
             <pubDate>2024-06-29T07:25:49Z</pubDate>
             <guid isPermaLink="false">https://github.com/WerWolv/ImHex</guid>
             <link>https://github.com/WerWolv/ImHex</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[A bunch of programming advice I'd give to myself 15 years ago]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=40829607 target=_blank>243 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=40829607 target=_blank>243 comments</a>]]></description>
             <pubDate>2024-06-29T11:38:01Z</pubDate>
             <guid isPermaLink="false">https://mbuffett.com/posts/programming-advice-younger-self/</guid>
             <link>https://mbuffett.com/posts/programming-advice-younger-self/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws]]></title>
-            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=40830005 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=40830005 target=_blank>93 comments</a>]]></description>
             <pubDate>2024-06-29T12:35:51Z</pubDate>
             <guid isPermaLink="false">https://memorycorruption.net/posts/rce-lua-factorio/</guid>
             <link>https://memorycorruption.net/posts/rce-lua-factorio/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How to waste bandwidth, battery power, and annoy sysadmins]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=40828203 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=40828203 target=_blank>140 comments</a>]]></description>
             <pubDate>2024-06-29T06:07:50Z</pubDate>
             <guid isPermaLink="false">https://rachelbythebay.com/w/2024/06/28/fxios/</guid>
             <link>https://rachelbythebay.com/w/2024/06/28/fxios/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Researchers at ETH Zurich develop the fastest possible flow algorithm]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=40829459 target=_blank>26 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=40829459 target=_blank>27 comments</a>]]></description>
             <pubDate>2024-06-29T11:12:42Z</pubDate>
             <guid isPermaLink="false">https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html</guid>
             <link>https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[The economics of writing technical books]]></title>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=40830332 target=_blank>66 comments</a>]]></description>
+            <pubDate>2024-06-29T13:26:46Z</pubDate>
+            <guid isPermaLink="false">https://architectelevator.com/strategy/book-author-economics/</guid>
+            <link>https://architectelevator.com/strategy/book-author-economics/</link>
+            
+            
+            
+            <author><![CDATA[raju]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[AirPods fast connect security vulnerability]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=40832223 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=40832223 target=_blank>32 comments</a>]]></description>
             <pubDate>2024-06-29T17:40:11Z</pubDate>
             <guid isPermaLink="false">https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/</guid>
             <link>https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/</link>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[FUTO Keyboard]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=40831489 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=40831489 target=_blank>167 comments</a>]]></description>
             <pubDate>2024-06-29T15:59:12Z</pubDate>
             <guid isPermaLink="false">https://keyboard.futo.org/</guid>
             <link>https://keyboard.futo.org/</link>
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The economics of writing technical books]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=40830332 target=_blank>65 comments</a>]]></description>
-            <pubDate>2024-06-29T13:26:46Z</pubDate>
-            <guid isPermaLink="false">https://architectelevator.com/strategy/book-author-economics/</guid>
-            <link>https://architectelevator.com/strategy/book-author-economics/</link>
-            
-            
-            
-            <author><![CDATA[raju]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Python toolkit for quantitative finance]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=40831991 target=_blank>41 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=40831991 target=_blank>42 comments</a>]]></description>
             <pubDate>2024-06-29T17:07:38Z</pubDate>
             <guid isPermaLink="false">https://github.com/goldmansachs/gs-quant</guid>
             <link>https://github.com/goldmansachs/gs-quant</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Inside a $1 radar motion sensor]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=40834349 target=_blank>12 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=40834349 target=_blank>12 comments</a>]]></description>
             <pubDate>2024-06-30T00:44:06Z</pubDate>
             <guid isPermaLink="false">https://10maurycy10.github.io/projects/motion_sensor_hacking/</guid>
             <link>https://10maurycy10.github.io/projects/motion_sensor_hacking/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Show HN: I am building an open-source Confluence and Notion alternative]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=40832146 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40832146 target=_blank>61 comments</a>]]></description>
             <pubDate>2024-06-29T17:27:58Z</pubDate>
             <guid isPermaLink="false">https://github.com/docmost/docmost</guid>
             <link>https://github.com/docmost/docmost</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Thousands of Pablo Picasso’s works in a new online archive]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=40832214 target=_blank>30 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=40832214 target=_blank>30 comments</a>]]></description>
             <pubDate>2024-06-29T17:39:16Z</pubDate>
             <guid isPermaLink="false">https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/</guid>
             <link>https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/</link>
