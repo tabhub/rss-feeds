@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Origins of DS_store (2006)]]></title>
-            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=40870357 target=_blank>215 comments</a>]]></description>
-            <pubDate>2024-07-03T21:55:13Z</pubDate>
-            <guid isPermaLink="false">https://www.arno.org/on-the-origins-of-ds-store</guid>
-            <link>https://www.arno.org/on-the-origins-of-ds-store</link>
-            
-            
-            
-            <author><![CDATA[edavis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Twilio confirms data breach after hackers leak 33M Authy user phone numbers]]></title>
-            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>203 comments</a>]]></description>
             <pubDate>2024-07-04T12:26:39Z</pubDate>
             <guid isPermaLink="false">https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</guid>
             <link>https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</link>
@@ -50,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Beating NumPy matrix multiplication in 150 lines of C]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=40870345 target=_blank>58 comments</a>]]></description>
-            <pubDate>2024-07-03T21:52:55Z</pubDate>
-            <guid isPermaLink="false">https://salykova.github.io/matmul-cpu</guid>
-            <link>https://salykova.github.io/matmul-cpu</link>
-            
-            
-            
-            <author><![CDATA[p1esk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The saddest "Just Ship It" story ever (2020)]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=40872182 target=_blank>269 comments</a>]]></description>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=40872182 target=_blank>269 comments</a>]]></description>
             <pubDate>2024-07-04T03:50:35Z</pubDate>
             <guid isPermaLink="false">https://www.kitze.io/posts/saddest-just-ship-it-story-ever</guid>
             <link>https://www.kitze.io/posts/saddest-just-ship-it-story-ever</link>
@@ -83,7 +51,7 @@
         
         <item>
             <title><![CDATA[Jeffrey Snover and the Making of PowerShell]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=40874013 target=_blank>214 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=40874013 target=_blank>215 comments</a>]]></description>
             <pubDate>2024-07-04T11:26:32Z</pubDate>
             <guid isPermaLink="false">https://corecursive.com/building-powershell-with-jeffrey-snover/</guid>
             <link>https://corecursive.com/building-powershell-with-jeffrey-snover/</link>
@@ -115,7 +83,7 @@
         
         <item>
             <title><![CDATA[Building a data compression utility in Haskell using Huffman codes]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=40872332 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=40872332 target=_blank>73 comments</a>]]></description>
             <pubDate>2024-07-04T04:29:12Z</pubDate>
             <guid isPermaLink="false">https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</guid>
             <link>https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</link>
@@ -123,6 +91,22 @@
             
             
             <author><![CDATA[lazamar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Insights from over 10,000 comments on "Ask HN: Who Is Hiring" using GPT-4o]]></title>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=40877136 target=_blank>76 comments</a>]]></description>
+            <pubDate>2024-07-04T18:50:09Z</pubDate>
+            <guid isPermaLink="false">https://tamerc.com/posts/ask-hn-who-is-hiring/</guid>
+            <link>https://tamerc.com/posts/ask-hn-who-is-hiring/</link>
+            
+            
+            
+            <author><![CDATA[comcuoglu]]></author>
             
                 
             
@@ -146,22 +130,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Insights from over 10,000 comments on "Ask HN: Who Is Hiring" using GPT-4o]]></title>
-            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=40877136 target=_blank>73 comments</a>]]></description>
-            <pubDate>2024-07-04T18:50:09Z</pubDate>
-            <guid isPermaLink="false">https://tamerc.com/posts/ask-hn-who-is-hiring/</guid>
-            <link>https://tamerc.com/posts/ask-hn-who-is-hiring/</link>
-            
-            
-            
-            <author><![CDATA[comcuoglu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion]]></title>
             <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=40871783 target=_blank>8 comments</a>]]></description>
             <pubDate>2024-07-04T02:09:20Z</pubDate>
@@ -171,6 +139,38 @@
             
             
             <author><![CDATA[magoghm]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SCIM: Ncurses based, Vim-like spreadsheet]]></title>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=40876848 target=_blank>39 comments</a>]]></description>
+            <pubDate>2024-07-04T18:04:00Z</pubDate>
+            <guid isPermaLink="false">https://github.com/andmarti1424/sc-im</guid>
+            <link>https://github.com/andmarti1424/sc-im</link>
+            
+            
+            
+            <author><![CDATA[emersonrsantos]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Batteries: How cheap can they get?]]></title>
+            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=40877337 target=_blank>128 comments</a>]]></description>
+            <pubDate>2024-07-04T19:20:25Z</pubDate>
+            <guid isPermaLink="false">https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get</guid>
+            <link>https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get</link>
+            
+            
+            
+            <author><![CDATA[hoerensagen]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Batteries: How cheap can they get?]]></title>
-            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=40877337 target=_blank>122 comments</a>]]></description>
-            <pubDate>2024-07-04T19:20:25Z</pubDate>
-            <guid isPermaLink="false">https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get</guid>
-            <link>https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get</link>
+            <title><![CDATA[Mechanical computer relies on kirigami cubes, not electronics]]></title>
+            <description><![CDATA[114 points | <a href=https://news.ycombinator.com/item?id=40875924 target=_blank>74 comments</a>]]></description>
+            <pubDate>2024-07-04T16:03:32Z</pubDate>
+            <guid isPermaLink="false">https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/</guid>
+            <link>https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/</link>
             
             
             
-            <author><![CDATA[hoerensagen]]></author>
+            <author><![CDATA[gnabgib]]></author>
             
                 
             
