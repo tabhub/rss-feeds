@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The Origins of DS_store (2006)]]></title>
-            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=40870357 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=40870357 target=_blank>213 comments</a>]]></description>
             <pubDate>2024-07-03T21:55:13Z</pubDate>
             <guid isPermaLink="false">https://www.arno.org/on-the-origins-of-ds-store</guid>
             <link>https://www.arno.org/on-the-origins-of-ds-store</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: Xcapture-BPF – like Linux top, but with Xray vision]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=40869877 target=_blank>37 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=40869877 target=_blank>37 comments</a>]]></description>
             <pubDate>2024-07-03T20:52:37Z</pubDate>
             <guid isPermaLink="false">https://0x.tools/</guid>
             <link>https://0x.tools/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Twilio confirms data breach after hackers leak 33M Authy user phone numbers]]></title>
-            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>177 comments</a>]]></description>
             <pubDate>2024-07-04T12:26:39Z</pubDate>
             <guid isPermaLink="false">https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</guid>
             <link>https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[The joy of reading books you don't understand]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=40870280 target=_blank>209 comments</a>]]></description>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=40870280 target=_blank>209 comments</a>]]></description>
             <pubDate>2024-07-03T21:44:47Z</pubDate>
             <guid isPermaLink="false">https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/</guid>
             <link>https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Beating NumPy matrix multiplication in 150 lines of C]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=40870345 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=40870345 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-07-03T21:52:55Z</pubDate>
             <guid isPermaLink="false">https://salykova.github.io/matmul-cpu</guid>
             <link>https://salykova.github.io/matmul-cpu</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Sans-IO: The secret to effective Rust for network services]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=40872020 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40872020 target=_blank>65 comments</a>]]></description>
             <pubDate>2024-07-04T03:05:36Z</pubDate>
             <guid isPermaLink="false">https://www.firezone.dev/blog/sans-io</guid>
             <link>https://www.firezone.dev/blog/sans-io</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Building a data compression utility in Haskell using Huffman codes]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=40872332 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=40872332 target=_blank>73 comments</a>]]></description>
             <pubDate>2024-07-04T04:29:12Z</pubDate>
             <guid isPermaLink="false">https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</guid>
             <link>https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[lazamar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion]]></title>
+            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=40871783 target=_blank>8 comments</a>]]></description>
+            <pubDate>2024-07-04T02:09:20Z</pubDate>
+            <guid isPermaLink="false">https://boyuan.space/diffusion-forcing/</guid>
+            <link>https://boyuan.space/diffusion-forcing/</link>
+            
+            
+            
+            <author><![CDATA[magoghm]]></author>
             
                 
             
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[brianyu8]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=40871783 target=_blank>8 comments</a>]]></description>
-            <pubDate>2024-07-04T02:09:20Z</pubDate>
-            <guid isPermaLink="false">https://boyuan.space/diffusion-forcing/</guid>
-            <link>https://boyuan.space/diffusion-forcing/</link>
-            
-            
-            
-            <author><![CDATA[magoghm]]></author>
             
                 
             
