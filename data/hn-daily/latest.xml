@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The Origins of DS_store (2006)]]></title>
-            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=40870357 target=_blank>207 comments</a>]]></description>
+            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=40870357 target=_blank>210 comments</a>]]></description>
             <pubDate>2024-07-03T21:55:13Z</pubDate>
             <guid isPermaLink="false">https://www.arno.org/on-the-origins-of-ds-store</guid>
             <link>https://www.arno.org/on-the-origins-of-ds-store</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: Xcapture-BPF – like Linux top, but with Xray vision]]></title>
-            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=40869877 target=_blank>36 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=40869877 target=_blank>36 comments</a>]]></description>
             <pubDate>2024-07-03T20:52:37Z</pubDate>
             <guid isPermaLink="false">https://0x.tools/</guid>
             <link>https://0x.tools/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[AI's $600B Question]]></title>
-            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=40869461 target=_blank>499 comments</a>]]></description>
+            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=40869461 target=_blank>499 comments</a>]]></description>
             <pubDate>2024-07-03T19:55:41Z</pubDate>
             <guid isPermaLink="false">https://www.sequoiacap.com/article/ais-600b-question/</guid>
             <link>https://www.sequoiacap.com/article/ais-600b-question/</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Beating NumPy matrix multiplication in 150 lines of C]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=40870345 target=_blank>53 comments</a>]]></description>
-            <pubDate>2024-07-03T21:52:55Z</pubDate>
-            <guid isPermaLink="false">https://salykova.github.io/matmul-cpu</guid>
-            <link>https://salykova.github.io/matmul-cpu</link>
-            
-            
-            
-            <author><![CDATA[p1esk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The joy of reading books you don't understand]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=40870280 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=40870280 target=_blank>203 comments</a>]]></description>
             <pubDate>2024-07-03T21:44:47Z</pubDate>
             <guid isPermaLink="false">https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/</guid>
             <link>https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/</link>
@@ -98,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Beating NumPy matrix multiplication in 150 lines of C]]></title>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=40870345 target=_blank>53 comments</a>]]></description>
+            <pubDate>2024-07-03T21:52:55Z</pubDate>
+            <guid isPermaLink="false">https://salykova.github.io/matmul-cpu</guid>
+            <link>https://salykova.github.io/matmul-cpu</link>
+            
+            
+            
+            <author><![CDATA[p1esk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Twilio confirms data breach after hackers leak 33M Authy user phone numbers]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>161 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>161 comments</a>]]></description>
             <pubDate>2024-07-04T12:26:39Z</pubDate>
             <guid isPermaLink="false">https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</guid>
             <link>https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Jeffrey Snover and the Making of PowerShell]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=40874013 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=40874013 target=_blank>196 comments</a>]]></description>
             <pubDate>2024-07-04T11:26:32Z</pubDate>
             <guid isPermaLink="false">https://corecursive.com/building-powershell-with-jeffrey-snover/</guid>
             <link>https://corecursive.com/building-powershell-with-jeffrey-snover/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Sans-IO: The secret to effective Rust for network services]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=40872020 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=40872020 target=_blank>64 comments</a>]]></description>
             <pubDate>2024-07-04T03:05:36Z</pubDate>
             <guid isPermaLink="false">https://www.firezone.dev/blog/sans-io</guid>
             <link>https://www.firezone.dev/blog/sans-io</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Ask HN: Vision Pro owners, are you still using it?]]></title>
-            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=40872102 target=_blank>78 comments</a>]]></description>
-            <pubDate>2024-07-04T03:30:24Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=40872102</guid>
-            <link>https://news.ycombinator.com/item?id=40872102</link>
+            <title><![CDATA[Finding near-duplicates with Jaccard similarity and MinHash]]></title>
+            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=40872438 target=_blank>19 comments</a>]]></description>
+            <pubDate>2024-07-04T05:04:09Z</pubDate>
+            <guid isPermaLink="false">https://blog.nelhage.com/post/fuzzy-dedup/</guid>
+            <link>https://blog.nelhage.com/post/fuzzy-dedup/</link>
             
             
             
-            <author><![CDATA[cheerioty]]></author>
+            <author><![CDATA[brianyu8]]></author>
             
                 
             
