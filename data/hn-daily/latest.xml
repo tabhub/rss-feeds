@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Twilio confirms data breach after hackers leak 33M Authy user phone numbers]]></title>
-            <description><![CDATA[466 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>253 comments</a>]]></description>
+            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>253 comments</a>]]></description>
             <pubDate>2024-07-04T12:26:39Z</pubDate>
             <guid isPermaLink="false">https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</guid>
             <link>https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Insights from over 10,000 comments on "Ask HN: Who Is Hiring" using GPT-4o]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=40877136 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=40877136 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-07-04T18:50:09Z</pubDate>
             <guid isPermaLink="false">https://tamerc.com/posts/ask-hn-who-is-hiring/</guid>
             <link>https://tamerc.com/posts/ask-hn-who-is-hiring/</link>
@@ -43,6 +43,22 @@
             
             
             <author><![CDATA[comcuoglu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The saddest "Just Ship It" story ever (2020)]]></title>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=40872182 target=_blank>275 comments</a>]]></description>
+            <pubDate>2024-07-04T03:50:35Z</pubDate>
+            <guid isPermaLink="false">https://www.kitze.io/posts/saddest-just-ship-it-story-ever</guid>
+            <link>https://www.kitze.io/posts/saddest-just-ship-it-story-ever</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
@@ -66,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The saddest "Just Ship It" story ever (2020)]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=40872182 target=_blank>275 comments</a>]]></description>
-            <pubDate>2024-07-04T03:50:35Z</pubDate>
-            <guid isPermaLink="false">https://www.kitze.io/posts/saddest-just-ship-it-story-ever</guid>
-            <link>https://www.kitze.io/posts/saddest-just-ship-it-story-ever</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[SCIM: Ncurses based, Vim-like spreadsheet]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=40876848 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=40876848 target=_blank>55 comments</a>]]></description>
             <pubDate>2024-07-04T18:04:00Z</pubDate>
             <guid isPermaLink="false">https://github.com/andmarti1424/sc-im</guid>
             <link>https://github.com/andmarti1424/sc-im</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Batteries: How cheap can they get?]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=40877337 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=40877337 target=_blank>174 comments</a>]]></description>
             <pubDate>2024-07-04T19:20:25Z</pubDate>
             <guid isPermaLink="false">https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get</guid>
             <link>https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Building a data compression utility in Haskell using Huffman codes]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=40872332 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=40872332 target=_blank>77 comments</a>]]></description>
             <pubDate>2024-07-04T04:29:12Z</pubDate>
             <guid isPermaLink="false">https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</guid>
             <link>https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Finding near-duplicates with Jaccard similarity and MinHash]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=40872438 target=_blank>20 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=40872438 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-07-04T05:04:09Z</pubDate>
             <guid isPermaLink="false">https://blog.nelhage.com/post/fuzzy-dedup/</guid>
             <link>https://blog.nelhage.com/post/fuzzy-dedup/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Mechanical computer relies on kirigami cubes, not electronics]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=40875924 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=40875924 target=_blank>81 comments</a>]]></description>
             <pubDate>2024-07-04T16:03:32Z</pubDate>
             <guid isPermaLink="false">https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/</guid>
             <link>https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[The sad state of property-based testing libraries]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=40875559 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=40875559 target=_blank>72 comments</a>]]></description>
             <pubDate>2024-07-04T15:15:39Z</pubDate>
             <guid isPermaLink="false">https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html</guid>
             <link>https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Gravitational wave researchers cast new light on Antikythera mechanism mystery]]></title>
-            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=40877042 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=40877042 target=_blank>78 comments</a>]]></description>
             <pubDate>2024-07-04T18:33:51Z</pubDate>
             <guid isPermaLink="false">https://www.gla.ac.uk/news/headline_1086643_en.html</guid>
             <link>https://www.gla.ac.uk/news/headline_1086643_en.html</link>
