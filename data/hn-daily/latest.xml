@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I have no constructor, and I must initialize]]></title>
-            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=40880932 target=_blank>151 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=40880932 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-07-05T08:42:27Z</pubDate>
             <guid isPermaLink="false">https://consteval.ca/2024/07/03/initialization/</guid>
             <link>https://consteval.ca/2024/07/03/initialization/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Put the DVD logo in the corner (2023)]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=40883277 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=40883277 target=_blank>55 comments</a>]]></description>
             <pubDate>2024-07-05T14:48:14Z</pubDate>
             <guid isPermaLink="false">https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/</guid>
             <link>https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Is there any software you only made for your own use but nobody else?]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=40878765 target=_blank>362 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=40878765 target=_blank>364 comments</a>]]></description>
             <pubDate>2024-07-04T23:10:10Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=40878765</guid>
             <link>https://news.ycombinator.com/item?id=40878765</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: I’ve made a cheaper SEO research tool]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=40881836 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=40881836 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-07-05T11:27:10Z</pubDate>
             <guid isPermaLink="false">https://withtelescope.com</guid>
             <link>https://withtelescope.com</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs]]></title>
-            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=40882077 target=_blank>113 comments</a>]]></description>
-            <pubDate>2024-07-05T12:23:09Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/mohapatrahemant/status/1809135345683841050</guid>
-            <link>https://twitter.com/mohapatrahemant/status/1809135345683841050</link>
-            
-            
-            
-            <author><![CDATA[jxub]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ente Auth: open-source Authy alternative for 2FA]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=40883839 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=40883839 target=_blank>111 comments</a>]]></description>
             <pubDate>2024-07-05T15:57:18Z</pubDate>
             <guid isPermaLink="false">https://ente.io/auth/</guid>
             <link>https://ente.io/auth/</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs]]></title>
+            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=40882077 target=_blank>114 comments</a>]]></description>
+            <pubDate>2024-07-05T12:23:09Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/mohapatrahemant/status/1809135345683841050</guid>
+            <link>https://twitter.com/mohapatrahemant/status/1809135345683841050</link>
+            
+            
+            
+            <author><![CDATA[jxub]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Moving to a RTOS on the RP2040]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=40879541 target=_blank>91 comments</a>]]></description>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=40879541 target=_blank>91 comments</a>]]></description>
             <pubDate>2024-07-05T02:59:25Z</pubDate>
             <guid isPermaLink="false">https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/</guid>
             <link>https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/</link>
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[PostgreSQL and UUID as Primary Key]]></title>
+            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=40884878 target=_blank>45 comments</a>]]></description>
+            <pubDate>2024-07-05T18:21:01Z</pubDate>
+            <guid isPermaLink="false">https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/</guid>
+            <link>https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/</link>
+            
+            
+            
+            <author><![CDATA[taubek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Why Vivaldi won't follow the current AI trend?]]></title>
             <description><![CDATA[125 points | <a href=https://news.ycombinator.com/item?id=40880322 target=_blank>157 comments</a>]]></description>
             <pubDate>2024-07-05T06:46:24Z</pubDate>
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[botanical]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PostgreSQL and UUID as Primary Key]]></title>
-            <description><![CDATA[117 points | <a href=https://news.ycombinator.com/item?id=40884878 target=_blank>39 comments</a>]]></description>
-            <pubDate>2024-07-05T18:21:01Z</pubDate>
-            <guid isPermaLink="false">https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/</guid>
-            <link>https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/</link>
-            
-            
-            
-            <author><![CDATA[taubek]]></author>
             
                 
             
