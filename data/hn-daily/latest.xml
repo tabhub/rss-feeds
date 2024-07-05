@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Twilio confirms data breach after hackers leak 33M Authy user phone numbers]]></title>
-            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=40874341 target=_blank>251 comments</a>]]></description>
             <pubDate>2024-07-04T12:26:39Z</pubDate>
             <guid isPermaLink="false">https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</guid>
             <link>https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Insights from over 10,000 comments on "Ask HN: Who Is Hiring" using GPT-4o]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=40877136 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=40877136 target=_blank>117 comments</a>]]></description>
             <pubDate>2024-07-04T18:50:09Z</pubDate>
             <guid isPermaLink="false">https://tamerc.com/posts/ask-hn-who-is-hiring/</guid>
             <link>https://tamerc.com/posts/ask-hn-who-is-hiring/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[SCIM: Ncurses based, Vim-like spreadsheet]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=40876848 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=40876848 target=_blank>55 comments</a>]]></description>
             <pubDate>2024-07-04T18:04:00Z</pubDate>
             <guid isPermaLink="false">https://github.com/andmarti1424/sc-im</guid>
             <link>https://github.com/andmarti1424/sc-im</link>
@@ -98,40 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Sans-IO: The secret to effective Rust for network services]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=40872020 target=_blank>70 comments</a>]]></description>
-            <pubDate>2024-07-04T03:05:36Z</pubDate>
-            <guid isPermaLink="false">https://www.firezone.dev/blog/sans-io</guid>
-            <link>https://www.firezone.dev/blog/sans-io</link>
-            
-            
-            
-            <author><![CDATA[wh33zle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Building a data compression utility in Haskell using Huffman codes]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=40872332 target=_blank>77 comments</a>]]></description>
-            <pubDate>2024-07-04T04:29:12Z</pubDate>
-            <guid isPermaLink="false">https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</guid>
-            <link>https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</link>
-            
-            
-            
-            <author><![CDATA[lazamar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Batteries: How cheap can they get?]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=40877337 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=40877337 target=_blank>174 comments</a>]]></description>
             <pubDate>2024-07-04T19:20:25Z</pubDate>
             <guid isPermaLink="false">https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get</guid>
             <link>https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get</link>
@@ -146,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Building a data compression utility in Haskell using Huffman codes]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40872332 target=_blank>77 comments</a>]]></description>
+            <pubDate>2024-07-04T04:29:12Z</pubDate>
+            <guid isPermaLink="false">https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</guid>
+            <link>https://lazamar.github.io/haskell-data-compression-with-huffman-codes/</link>
+            
+            
+            
+            <author><![CDATA[lazamar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Finding near-duplicates with Jaccard similarity and MinHash]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=40872438 target=_blank>20 comments</a>]]></description>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=40872438 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-07-04T05:04:09Z</pubDate>
             <guid isPermaLink="false">https://blog.nelhage.com/post/fuzzy-dedup/</guid>
             <link>https://blog.nelhage.com/post/fuzzy-dedup/</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Mechanical computer relies on kirigami cubes, not electronics]]></title>
+            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=40875924 target=_blank>81 comments</a>]]></description>
+            <pubDate>2024-07-04T16:03:32Z</pubDate>
+            <guid isPermaLink="false">https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/</guid>
+            <link>https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/</link>
+            
+            
+            
+            <author><![CDATA[gnabgib]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ask HN: Vision Pro owners, are you still using it?]]></title>
-            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=40872102 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=40872102 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-07-04T03:30:24Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=40872102</guid>
             <link>https://news.ycombinator.com/item?id=40872102</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Japan introduces enormous humanoid robot to maintain train lines]]></title>
-            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=40877648 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=40877648 target=_blank>57 comments</a>]]></description>
             <pubDate>2024-07-04T20:02:58Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines</guid>
             <link>https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Mechanical computer relies on kirigami cubes, not electronics]]></title>
-            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=40875924 target=_blank>81 comments</a>]]></description>
-            <pubDate>2024-07-04T16:03:32Z</pubDate>
-            <guid isPermaLink="false">https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/</guid>
-            <link>https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/</link>
+            <title><![CDATA[Gravitational wave researchers cast new light on Antikythera mechanism mystery]]></title>
+            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=40877042 target=_blank>76 comments</a>]]></description>
+            <pubDate>2024-07-04T18:33:51Z</pubDate>
+            <guid isPermaLink="false">https://www.gla.ac.uk/news/headline_1086643_en.html</guid>
+            <link>https://www.gla.ac.uk/news/headline_1086643_en.html</link>
             
             
             
-            <author><![CDATA[gnabgib]]></author>
+            <author><![CDATA[ulrischa]]></author>
             
                 
             
