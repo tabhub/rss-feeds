@@ -18,6 +18,22 @@
         <ttl></ttl>
         
         <item>
+            <title><![CDATA[PostgreSQL and UUID as Primary Key]]></title>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=40884878 target=_blank>270 comments</a>]]></description>
+            <pubDate>2024-07-05T18:21:01Z</pubDate>
+            <guid isPermaLink="false">https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/</guid>
+            <link>https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/</link>
+            
+            
+            
+            <author><![CDATA[taubek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Put the DVD logo in the corner (2023)]]></title>
             <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=40883277 target=_blank>71 comments</a>]]></description>
             <pubDate>2024-07-05T14:48:14Z</pubDate>
@@ -34,40 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[PostgreSQL and UUID as Primary Key]]></title>
-            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=40884878 target=_blank>266 comments</a>]]></description>
-            <pubDate>2024-07-05T18:21:01Z</pubDate>
-            <guid isPermaLink="false">https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/</guid>
-            <link>https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/</link>
-            
-            
-            
-            <author><![CDATA[taubek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ente Auth: open-source Authy alternative for 2FA]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=40883839 target=_blank>168 comments</a>]]></description>
-            <pubDate>2024-07-05T15:57:18Z</pubDate>
-            <guid isPermaLink="false">https://ente.io/auth/</guid>
-            <link>https://ente.io/auth/</link>
-            
-            
-            
-            <author><![CDATA[memset]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Let's stop counting centuries]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=40884356 target=_blank>300 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=40884356 target=_blank>303 comments</a>]]></description>
             <pubDate>2024-07-05T17:04:45Z</pubDate>
             <guid isPermaLink="false">https://dynomight.net/centuries/</guid>
             <link>https://dynomight.net/centuries/</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Ente Auth: open-source Authy alternative for 2FA]]></title>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=40883839 target=_blank>169 comments</a>]]></description>
+            <pubDate>2024-07-05T15:57:18Z</pubDate>
+            <guid isPermaLink="false">https://ente.io/auth/</guid>
+            <link>https://ente.io/auth/</link>
+            
+            
+            
+            <author><![CDATA[memset]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Tao Te Ching translated by Ursula Le Guin (1997)]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=40886419 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=40886419 target=_blank>108 comments</a>]]></description>
             <pubDate>2024-07-05T21:57:49Z</pubDate>
             <guid isPermaLink="false">https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md</guid>
             <link>https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Radio Garden]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=40887359 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=40887359 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-07-06T00:47:52Z</pubDate>
             <guid isPermaLink="false">https://radio.garden/</guid>
             <link>https://radio.garden/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Build and train GPT-2 from scratch using PyTorch]]></title>
-            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=40888090 target=_blank>17 comments</a>]]></description>
+            <description><![CDATA[128 points | <a href=https://news.ycombinator.com/item?id=40888090 target=_blank>17 comments</a>]]></description>
             <pubDate>2024-07-06T04:03:03Z</pubDate>
             <guid isPermaLink="false">https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba</guid>
             <link>https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Research into homeopathy: data falsification, fabrication and manipulation]]></title>
-            <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=40885397 target=_blank>163 comments</a>]]></description>
+            <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=40885397 target=_blank>164 comments</a>]]></description>
             <pubDate>2024-07-05T19:39:21Z</pubDate>
             <guid isPermaLink="false">https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/</guid>
             <link>https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/</link>
