@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: A modern Jupyter client for macOS]]></title>
-            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=40899242 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=40899242 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-07-07T17:59:31Z</pubDate>
             <guid isPermaLink="false">https://satyrn.app/</guid>
             <link>https://satyrn.app/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[YouTube embeds are heavy and it’s fixable]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=40897205 target=_blank>205 comments</a>]]></description>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=40897205 target=_blank>205 comments</a>]]></description>
             <pubDate>2024-07-07T12:37:55Z</pubDate>
             <guid isPermaLink="false">https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/</guid>
             <link>https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[A reawakening of systems programming meetups]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=40897506 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=40897506 target=_blank>113 comments</a>]]></description>
             <pubDate>2024-07-07T13:20:37Z</pubDate>
             <guid isPermaLink="false">https://notes.eatonphil.com/2024-07-07-systems-meetups.html</guid>
             <link>https://notes.eatonphil.com/2024-07-07-systems-meetups.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[I'm funding Ladybird because I can't fund Firefox]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=40900648 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=40900648 target=_blank>188 comments</a>]]></description>
             <pubDate>2024-07-07T21:38:52Z</pubDate>
             <guid isPermaLink="false">http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/</guid>
             <link>http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mongo but on Postgres and with strong consistency benefits]]></title>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=40897518 target=_blank>124 comments</a>]]></description>
+            <pubDate>2024-07-07T13:22:12Z</pubDate>
+            <guid isPermaLink="false">https://github.com/event-driven-io/Pongo</guid>
+            <link>https://github.com/event-driven-io/Pongo</link>
+            
+            
+            
+            <author><![CDATA[oskar_dudycz]]></author>
             
                 
             
@@ -98,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Mongo but on Postgres and with strong consistency benefits]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=40897518 target=_blank>119 comments</a>]]></description>
-            <pubDate>2024-07-07T13:22:12Z</pubDate>
-            <guid isPermaLink="false">https://github.com/event-driven-io/Pongo</guid>
-            <link>https://github.com/event-driven-io/Pongo</link>
-            
-            
-            
-            <author><![CDATA[oskar_dudycz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: BeaconDB – An Alternative to Mozilla Location Services]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=40895672 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=40895672 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-07-07T06:25:50Z</pubDate>
             <guid isPermaLink="false">https://beacondb.net/</guid>
             <link>https://beacondb.net/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[The internet is already over (2022)]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=40899761 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=40899761 target=_blank>128 comments</a>]]></description>
             <pubDate>2024-07-07T19:17:56Z</pubDate>
             <guid isPermaLink="false">https://samkriss.substack.com/p/the-internet-is-already-over</guid>
             <link>https://samkriss.substack.com/p/the-internet-is-already-over</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: Simulating 20M Particles in JavaScript]]></title>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=40902012 target=_blank>22 comments</a>]]></description>
+            <pubDate>2024-07-08T01:52:54Z</pubDate>
+            <guid isPermaLink="false">https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles</guid>
+            <link>https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles</link>
+            
+            
+            
+            <author><![CDATA[rustystump]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Show HN: Execute JavaScript in a WebAssembly QuickJS sandbox]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=40896873 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=40896873 target=_blank>45 comments</a>]]></description>
             <pubDate>2024-07-07T11:37:25Z</pubDate>
             <guid isPermaLink="false">https://github.com/sebastianwessel/quickjs</guid>
             <link>https://github.com/sebastianwessel/quickjs</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[Why Italy Fell Out of Love with Cilantro]]></title>
-            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=40895441 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=40895441 target=_blank>192 comments</a>]]></description>
             <pubDate>2024-07-07T05:22:49Z</pubDate>
             <guid isPermaLink="false">https://www.atlasobscura.com/articles/what-are-italian-herbs</guid>
             <link>https://www.atlasobscura.com/articles/what-are-italian-herbs</link>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Simulating 20M Particles in JavaScript]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=40902012 target=_blank>21 comments</a>]]></description>
-            <pubDate>2024-07-08T01:52:54Z</pubDate>
-            <guid isPermaLink="false">https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles</guid>
-            <link>https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles</link>
-            
-            
-            
-            <author><![CDATA[rustystump]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Reasoning in Large Language Models: A Geometric Perspective]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=40899309 target=_blank>64 comments</a>]]></description>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=40899309 target=_blank>65 comments</a>]]></description>
             <pubDate>2024-07-07T18:09:25Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2407.02678</guid>
             <link>https://arxiv.org/abs/2407.02678</link>
