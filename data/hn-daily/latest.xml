@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Reverse engineering Ticketmaster's rotating barcodes]]></title>
-            <description><![CDATA[1786 points | <a href=https://news.ycombinator.com/item?id=40906148 target=_blank>591 comments</a>]]></description>
+            <description><![CDATA[1789 points | <a href=https://news.ycombinator.com/item?id=40906148 target=_blank>592 comments</a>]]></description>
             <pubDate>2024-07-08T15:14:06Z</pubDate>
             <guid isPermaLink="false">https://conduition.io/coding/ticketmaster/</guid>
             <link>https://conduition.io/coding/ticketmaster/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[No more boot loader: Please use the kernel instead]]></title>
-            <description><![CDATA[675 points | <a href=https://news.ycombinator.com/item?id=40907933 target=_blank>347 comments</a>]]></description>
+            <description><![CDATA[677 points | <a href=https://news.ycombinator.com/item?id=40907933 target=_blank>348 comments</a>]]></description>
             <pubDate>2024-07-08T18:27:16Z</pubDate>
             <guid isPermaLink="false">https://pretalx.com/devconf-cz-2024/talk/W3AVCT/</guid>
             <link>https://pretalx.com/devconf-cz-2024/talk/W3AVCT/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The Right Kind of Stubborn]]></title>
-            <description><![CDATA[482 points | <a href=https://news.ycombinator.com/item?id=40907155 target=_blank>210 comments</a>]]></description>
+            <description><![CDATA[483 points | <a href=https://news.ycombinator.com/item?id=40907155 target=_blank>210 comments</a>]]></description>
             <pubDate>2024-07-08T17:05:08Z</pubDate>
             <guid isPermaLink="false">https://paulgraham.com/persistence.html</guid>
             <link>https://paulgraham.com/persistence.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Rye: A Hassle-Free Python Experience]]></title>
-            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=40911637 target=_blank>236 comments</a>]]></description>
+            <description><![CDATA[382 points | <a href=https://news.ycombinator.com/item?id=40911637 target=_blank>239 comments</a>]]></description>
             <pubDate>2024-07-09T01:18:15Z</pubDate>
             <guid isPermaLink="false">https://rye.astral.sh/</guid>
             <link>https://rye.astral.sh/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[C++ patterns for low-latency applications including high-frequency trading]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=40908273 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=40908273 target=_blank>190 comments</a>]]></description>
             <pubDate>2024-07-08T18:58:56Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2309.04259</guid>
             <link>https://arxiv.org/abs/2309.04259</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=40909076 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=40909076 target=_blank>51 comments</a>]]></description>
             <pubDate>2024-07-08T20:08:03Z</pubDate>
             <guid isPermaLink="false">https://sqlitebrowser.org/</guid>
             <link>https://sqlitebrowser.org/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Anna's Archive Faces Millions in Damages and a Permanent Injunction]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=40908878 target=_blank>150 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=40908878 target=_blank>150 comments</a>]]></description>
             <pubDate>2024-07-08T19:52:31Z</pubDate>
             <guid isPermaLink="false">https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/</guid>
             <link>https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[PySkyWiFi: Free stupid wi-fi on long-haul flights]]></title>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=40915082 target=_blank>128 comments</a>]]></description>
+            <pubDate>2024-07-09T12:01:37Z</pubDate>
+            <guid isPermaLink="false">https://robertheaton.com/pyskywifi/</guid>
+            <link>https://robertheaton.com/pyskywifi/</link>
+            
+            
+            
+            <author><![CDATA[oumua_don17]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Z-Library admins "escape house arrest" after judge approves U.S. extradition]]></title>
             <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=40908521 target=_blank>190 comments</a>]]></description>
             <pubDate>2024-07-08T19:19:01Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[PySkyWiFi: Free stupid wi-fi on long-haul flights]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=40915082 target=_blank>125 comments</a>]]></description>
-            <pubDate>2024-07-09T12:01:37Z</pubDate>
-            <guid isPermaLink="false">https://robertheaton.com/pyskywifi/</guid>
-            <link>https://robertheaton.com/pyskywifi/</link>
-            
-            
-            
-            <author><![CDATA[oumua_don17]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Geomys, a blueprint for a sustainable open-source maintenance firm]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=40905849 target=_blank>14 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=40905849 target=_blank>15 comments</a>]]></description>
             <pubDate>2024-07-08T14:39:35Z</pubDate>
             <guid isPermaLink="false">https://words.filippo.io/dispatches/geomys/</guid>
             <link>https://words.filippo.io/dispatches/geomys/</link>
