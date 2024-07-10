@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Google Chrome has an API accesible only from *.google.com]]></title>
-            <description><![CDATA[656 points | <a href=https://news.ycombinator.com/item?id=40918052 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[672 points | <a href=https://news.ycombinator.com/item?id=40918052 target=_blank>279 comments</a>]]></description>
             <pubDate>2024-07-09T16:35:11Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/lcasdev/status/1810696257137959018</guid>
             <link>https://twitter.com/lcasdev/status/1810696257137959018</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[PySkyWiFi: Free stupid wi-fi on long-haul flights]]></title>
-            <description><![CDATA[561 points | <a href=https://news.ycombinator.com/item?id=40915082 target=_blank>299 comments</a>]]></description>
+            <description><![CDATA[576 points | <a href=https://news.ycombinator.com/item?id=40915082 target=_blank>306 comments</a>]]></description>
             <pubDate>2024-07-09T12:01:37Z</pubDate>
             <guid isPermaLink="false">https://robertheaton.com/pyskywifi/</guid>
             <link>https://robertheaton.com/pyskywifi/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Rye: A Hassle-Free Python Experience]]></title>
-            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=40911637 target=_blank>296 comments</a>]]></description>
+            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=40911637 target=_blank>297 comments</a>]]></description>
             <pubDate>2024-07-09T01:18:15Z</pubDate>
             <guid isPermaLink="false">https://rye.astral.sh/</guid>
             <link>https://rye.astral.sh/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Linksys Velop routers send Wi-Fi passwords in plaintext to US servers]]></title>
-            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=40917312 target=_blank>173 comments</a>]]></description>
+            <description><![CDATA[388 points | <a href=https://news.ycombinator.com/item?id=40917312 target=_blank>175 comments</a>]]></description>
             <pubDate>2024-07-09T15:33:29Z</pubDate>
             <guid isPermaLink="false">https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/</guid>
             <link>https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The zombie misconception of theoretical computer science]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=40912684 target=_blank>184 comments</a>]]></description>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=40912684 target=_blank>187 comments</a>]]></description>
             <pubDate>2024-07-09T05:07:07Z</pubDate>
             <guid isPermaLink="false">https://scottaaronson.blog/?p=8106</guid>
             <link>https://scottaaronson.blog/?p=8106</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: Crawlee for Python – a web scraping and browser automation library]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=40913736 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=40913736 target=_blank>50 comments</a>]]></description>
             <pubDate>2024-07-09T08:30:38Z</pubDate>
             <guid isPermaLink="false">https://crawlee.dev/python/</guid>
             <link>https://crawlee.dev/python/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Microsoft's Xandr grants GDPR rights at a rate of 0%]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=40913915 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=40913915 target=_blank>90 comments</a>]]></description>
             <pubDate>2024-07-09T09:00:05Z</pubDate>
             <guid isPermaLink="false">https://noyb.eu/en/microsofts-xandr-grants-gdpr-rights-rate-0</guid>
             <link>https://noyb.eu/en/microsofts-xandr-grants-gdpr-rights-rate-0</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=40915005 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=40915005 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-07-09T11:48:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/facebookresearch/MobileLLM</guid>
             <link>https://github.com/facebookresearch/MobileLLM</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[behdad]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Turbopuffer: Fast search on object storage]]></title>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=40916786 target=_blank>18 comments</a>]]></description>
+            <pubDate>2024-07-09T14:48:59Z</pubDate>
+            <guid isPermaLink="false">https://turbopuffer.com/blog/turbopuffer</guid>
+            <link>https://turbopuffer.com/blog/turbopuffer</link>
+            
+            
+            
+            <author><![CDATA[Sirupsen]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[NoRagrets]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Another AI company wrote us and here’s our response]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=40917299 target=_blank>186 comments</a>]]></description>
-            <pubDate>2024-07-09T15:32:29Z</pubDate>
-            <guid isPermaLink="false">https://warandpeas.com/2024/07/09/another-ai-company-wrote-us-and-heres-our-response/</guid>
-            <link>https://warandpeas.com/2024/07/09/another-ai-company-wrote-us-and-heres-our-response/</link>
-            
-            
-            
-            <author><![CDATA[askl]]></author>
             
                 
             
