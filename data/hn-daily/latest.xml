@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[WebVM is a server-less virtual Linux environment running client-side]]></title>
-            <description><![CDATA[583 points | <a href=https://news.ycombinator.com/item?id=40940225 target=_blank>122 comments</a>]]></description>
-            <pubDate>2024-07-11T20:16:21Z</pubDate>
-            <guid isPermaLink="false">https://webvm.io/</guid>
-            <link>https://webvm.io/</link>
-            
-            
-            
-            <author><![CDATA[sebg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[AT&T says criminals stole phone records of 'nearly all' customers in data breach]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=40944505 target=_blank>398 comments</a>]]></description>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=40944505 target=_blank>413 comments</a>]]></description>
             <pubDate>2024-07-12T11:17:54Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/</guid>
             <link>https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Physics-Based Deep Learning Book]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=40941056 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=40941056 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-07-11T22:10:10Z</pubDate>
             <guid isPermaLink="false">https://physicsbaseddeeplearning.org/intro.html</guid>
             <link>https://physicsbaseddeeplearning.org/intro.html</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Using S3 as a Container Registry]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=40942732 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=40942732 target=_blank>127 comments</a>]]></description>
             <pubDate>2024-07-12T04:26:23Z</pubDate>
             <guid isPermaLink="false">https://ochagavia.nl/blog/using-s3-as-a-container-registry/</guid>
             <link>https://ochagavia.nl/blog/using-s3-as-a-container-registry/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[As an Employee, You Are Disposable (2023)]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=40943436 target=_blank>358 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=40943436 target=_blank>358 comments</a>]]></description>
             <pubDate>2024-07-12T07:41:16Z</pubDate>
             <guid isPermaLink="false">https://nelson.cloud/as-an-employee-you-are-disposable/</guid>
             <link>https://nelson.cloud/as-an-employee-you-are-disposable/</link>
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=40946033 target=_blank>66 comments</a>]]></description>
-            <pubDate>2024-07-12T14:41:22Z</pubDate>
-            <guid isPermaLink="false">https://github.com/taubyte/tau</guid>
-            <link>https://github.com/taubyte/tau</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Windows NT for Power Macintosh]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=40945076 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=40945076 target=_blank>138 comments</a>]]></description>
             <pubDate>2024-07-12T12:51:58Z</pubDate>
             <guid isPermaLink="false">https://github.com/Wack0/maciNTosh</guid>
             <link>https://github.com/Wack0/maciNTosh</link>
@@ -139,6 +107,22 @@
             
             
             <author><![CDATA[TazeTSchnitzel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative]]></title>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=40946033 target=_blank>69 comments</a>]]></description>
+            <pubDate>2024-07-12T14:41:22Z</pubDate>
+            <guid isPermaLink="false">https://github.com/taubyte/tau</guid>
+            <link>https://github.com/taubyte/tau</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
@@ -178,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Beating the L1 cache with value speculation (2021)]]></title>
-            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=40940241 target=_blank>32 comments</a>]]></description>
-            <pubDate>2024-07-11T20:17:58Z</pubDate>
-            <guid isPermaLink="false">https://mazzo.li/posts/value-speculation.html</guid>
-            <link>https://mazzo.li/posts/value-speculation.html</link>
-            
-            
-            
-            <author><![CDATA[nickdevx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet]]></title>
-            <description><![CDATA[125 points | <a href=https://news.ycombinator.com/item?id=40943253 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[125 points | <a href=https://news.ycombinator.com/item?id=40943253 target=_blank>128 comments</a>]]></description>
             <pubDate>2024-07-12T06:54:19Z</pubDate>
             <guid isPermaLink="false">https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet</guid>
             <link>https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[NoRagrets]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Intel is selling defective 13-14th Gen CPUs]]></title>
+            <description><![CDATA[120 points | <a href=https://news.ycombinator.com/item?id=40946644 target=_blank>66 comments</a>]]></description>
+            <pubDate>2024-07-12T15:46:52Z</pubDate>
+            <guid isPermaLink="false">https://alderongames.com/intel-crashes</guid>
+            <link>https://alderongames.com/intel-crashes</link>
+            
+            
+            
+            <author><![CDATA[signa11]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Free-threaded CPython is ready to experiment with]]></title>
+            <description><![CDATA[107 points | <a href=https://news.ycombinator.com/item?id=40948806 target=_blank>17 comments</a>]]></description>
+            <pubDate>2024-07-12T19:52:52Z</pubDate>
+            <guid isPermaLink="false">https://labs.quansight.org/blog/free-threaded-python-rollout</guid>
+            <link>https://labs.quansight.org/blog/free-threaded-python-rollout</link>
+            
+            
+            
+            <author><![CDATA[ngoldbaum]]></author>
             
                 
             
