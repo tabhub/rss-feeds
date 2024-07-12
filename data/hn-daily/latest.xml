@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[WebVM is a server-less virtual Linux environment running client-side]]></title>
-            <description><![CDATA[559 points | <a href=https://news.ycombinator.com/item?id=40940225 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[560 points | <a href=https://news.ycombinator.com/item?id=40940225 target=_blank>117 comments</a>]]></description>
             <pubDate>2024-07-11T20:16:21Z</pubDate>
             <guid isPermaLink="false">https://webvm.io/</guid>
             <link>https://webvm.io/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[AT&T says criminals stole phone records of 'nearly all' customers in data breach]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=40944505 target=_blank>202 comments</a>]]></description>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=40944505 target=_blank>204 comments</a>]]></description>
             <pubDate>2024-07-12T11:17:54Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/</guid>
             <link>https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[As an Employee, You Are Disposable (2023)]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=40943436 target=_blank>349 comments</a>]]></description>
-            <pubDate>2024-07-12T07:41:16Z</pubDate>
-            <guid isPermaLink="false">https://nelson.cloud/as-an-employee-you-are-disposable/</guid>
-            <link>https://nelson.cloud/as-an-employee-you-are-disposable/</link>
-            
-            
-            
-            <author><![CDATA[nelsonfigueroa]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Using S3 as a Container Registry]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=40942732 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=40942732 target=_blank>95 comments</a>]]></description>
             <pubDate>2024-07-12T04:26:23Z</pubDate>
             <guid isPermaLink="false">https://ochagavia.nl/blog/using-s3-as-a-container-registry/</guid>
             <link>https://ochagavia.nl/blog/using-s3-as-a-container-registry/</link>
@@ -114,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Korvus: Single-Query RAG with Postgres]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=40938325 target=_blank>39 comments</a>]]></description>
-            <pubDate>2024-07-11T16:35:31Z</pubDate>
-            <guid isPermaLink="false">https://github.com/postgresml/korvus</guid>
-            <link>https://github.com/postgresml/korvus</link>
+            <title><![CDATA[As an Employee, You Are Disposable (2023)]]></title>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=40943436 target=_blank>350 comments</a>]]></description>
+            <pubDate>2024-07-12T07:41:16Z</pubDate>
+            <guid isPermaLink="false">https://nelson.cloud/as-an-employee-you-are-disposable/</guid>
+            <link>https://nelson.cloud/as-an-employee-you-are-disposable/</link>
             
             
             
-            <author><![CDATA[levkk]]></author>
+            <author><![CDATA[nelsonfigueroa]]></author>
             
                 
             
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Windows NT for Power Macintosh]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=40945076 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=40945076 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-07-12T12:51:58Z</pubDate>
             <guid isPermaLink="false">https://github.com/Wack0/maciNTosh</guid>
             <link>https://github.com/Wack0/maciNTosh</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=40938810 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=40938810 target=_blank>65 comments</a>]]></description>
             <pubDate>2024-07-11T17:31:48Z</pubDate>
             <guid isPermaLink="false">https://github.com/gojue/ecapture</guid>
             <link>https://github.com/gojue/ecapture</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[philips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AuraFlow v0.1: a open source alternative to Stable Diffusion 3]]></title>
+            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=40941853 target=_blank>29 comments</a>]]></description>
+            <pubDate>2024-07-12T00:42:43Z</pubDate>
+            <guid isPermaLink="false">https://blog.fal.ai/auraflow/</guid>
+            <link>https://blog.fal.ai/auraflow/</link>
+            
+            
+            
+            <author><![CDATA[treesciencebot]]></author>
             
                 
             
