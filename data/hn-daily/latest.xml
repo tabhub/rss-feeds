@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[AT&T says criminals stole phone records of 'nearly all' customers in data breach]]></title>
-            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=40944505 target=_blank>431 comments</a>]]></description>
+            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=40944505 target=_blank>450 comments</a>]]></description>
             <pubDate>2024-07-12T11:17:54Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/</guid>
             <link>https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Using S3 as a Container Registry]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=40942732 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=40942732 target=_blank>127 comments</a>]]></description>
             <pubDate>2024-07-12T04:26:23Z</pubDate>
             <guid isPermaLink="false">https://ochagavia.nl/blog/using-s3-as-a-container-registry/</guid>
             <link>https://ochagavia.nl/blog/using-s3-as-a-container-registry/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=40946033 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=40946033 target=_blank>69 comments</a>]]></description>
             <pubDate>2024-07-12T14:41:22Z</pubDate>
             <guid isPermaLink="false">https://github.com/taubyte/tau</guid>
             <link>https://github.com/taubyte/tau</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Windows NT for Power Macintosh]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=40945076 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=40945076 target=_blank>146 comments</a>]]></description>
             <pubDate>2024-07-12T12:51:58Z</pubDate>
             <guid isPermaLink="false">https://github.com/Wack0/maciNTosh</guid>
             <link>https://github.com/Wack0/maciNTosh</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Free-threaded CPython is ready to experiment with]]></title>
+            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=40948806 target=_blank>55 comments</a>]]></description>
+            <pubDate>2024-07-12T19:52:52Z</pubDate>
+            <guid isPermaLink="false">https://labs.quansight.org/blog/free-threaded-python-rollout</guid>
+            <link>https://labs.quansight.org/blog/free-threaded-python-rollout</link>
+            
+            
+            
+            <author><![CDATA[ngoldbaum]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[AuraFlow v0.1: a open source alternative to Stable Diffusion 3]]></title>
             <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=40941853 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-07-12T00:42:43Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Free-threaded CPython is ready to experiment with]]></title>
-            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=40948806 target=_blank>37 comments</a>]]></description>
-            <pubDate>2024-07-12T19:52:52Z</pubDate>
-            <guid isPermaLink="false">https://labs.quansight.org/blog/free-threaded-python-rollout</guid>
-            <link>https://labs.quansight.org/blog/free-threaded-python-rollout</link>
-            
-            
-            
-            <author><![CDATA[ngoldbaum]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet]]></title>
-            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=40943253 target=_blank>130 comments</a>]]></description>
+            <description><![CDATA[128 points | <a href=https://news.ycombinator.com/item?id=40943253 target=_blank>130 comments</a>]]></description>
             <pubDate>2024-07-12T06:54:19Z</pubDate>
             <guid isPermaLink="false">https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet</guid>
             <link>https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet</link>
