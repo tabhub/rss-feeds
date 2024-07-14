@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[No reasonable expectation of privacy in one's Google location data]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=40958458 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=40958458 target=_blank>146 comments</a>]]></description>
             <pubDate>2024-07-14T02:44:31Z</pubDate>
             <guid isPermaLink="false">https://fourthamendment.com/?p=58338</guid>
             <link>https://fourthamendment.com/?p=58338</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Nevada’s public employee pension fund invests passively and beats peers (2016)]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=40957656 target=_blank>224 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=40957656 target=_blank>226 comments</a>]]></description>
             <pubDate>2024-07-13T23:24:53Z</pubDate>
             <guid isPermaLink="false">https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420</guid>
             <link>https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: I built a Jeopardy game maker with buzzer support]]></title>
-            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=40960508 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=40960508 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-07-14T12:20:30Z</pubDate>
             <guid isPermaLink="false">https://buzzinga.io/</guid>
             <link>https://buzzinga.io/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Fitting an elephant with four non-zero parameters]]></title>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=40961163 target=_blank>39 comments</a>]]></description>
+            <pubDate>2024-07-14T14:27:46Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2407.07909</guid>
+            <link>https://arxiv.org/abs/2407.07909</link>
+            
+            
+            
+            <author><![CDATA[belter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Nvidia Warp: Python framework for high-performance simulation and graphics code]]></title>
             <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=40958305 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-07-14T01:57:58Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Fitting an elephant with four non-zero parameters]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=40961163 target=_blank>39 comments</a>]]></description>
-            <pubDate>2024-07-14T14:27:46Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2407.07909</guid>
-            <link>https://arxiv.org/abs/2407.07909</link>
-            
-            
-            
-            <author><![CDATA[belter]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Building and scaling Notion's data lake]]></title>
-            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=40959787 target=_blank>38 comments</a>]]></description>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=40959787 target=_blank>39 comments</a>]]></description>
             <pubDate>2024-07-14T09:02:15Z</pubDate>
             <guid isPermaLink="false">https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake</guid>
             <link>https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Git-PR: patch requests over SSH]]></title>
-            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=40959526 target=_blank>81 comments</a>]]></description>
-            <pubDate>2024-07-14T07:53:37Z</pubDate>
-            <guid isPermaLink="false">https://pr.pico.sh/</guid>
-            <link>https://pr.pico.sh/</link>
+            <title><![CDATA[Writing a BIOS bootloader for 64-bit mode from scratch]]></title>
+            <description><![CDATA[130 points | <a href=https://news.ycombinator.com/item?id=40959742 target=_blank>42 comments</a>]]></description>
+            <pubDate>2024-07-14T08:46:40Z</pubDate>
+            <guid isPermaLink="false">https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html</guid>
+            <link>https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html</link>
             
             
             
-            <author><![CDATA[steventhedev]]></author>
+            <author><![CDATA[D4ckard]]></author>
             
                 
             
