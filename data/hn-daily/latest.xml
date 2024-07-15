@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Fitting an elephant with four non-zero parameters]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=40961163 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=40961163 target=_blank>74 comments</a>]]></description>
             <pubDate>2024-07-14T14:27:46Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2407.07909</guid>
             <link>https://arxiv.org/abs/2407.07909</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Just Be Rich (2021)]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40962965 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40962965 target=_blank>198 comments</a>]]></description>
             <pubDate>2024-07-14T20:16:45Z</pubDate>
             <guid isPermaLink="false">https://keenen.xyz/just-be-rich/</guid>
             <link>https://keenen.xyz/just-be-rich/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: I built a Jeopardy game maker with buzzer support]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=40960508 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=40960508 target=_blank>50 comments</a>]]></description>
             <pubDate>2024-07-14T12:20:30Z</pubDate>
             <guid isPermaLink="false">https://buzzinga.io/</guid>
             <link>https://buzzinga.io/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[How to Know When It's Time to Go]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=40962675 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=40962675 target=_blank>98 comments</a>]]></description>
             <pubDate>2024-07-14T19:16:29Z</pubDate>
             <guid isPermaLink="false">https://thecodist.com/how-to-know-when-its-time-to-go/</guid>
             <link>https://thecodist.com/how-to-know-when-its-time-to-go/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Writing a BIOS bootloader for 64-bit mode from scratch]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=40959742 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=40959742 target=_blank>45 comments</a>]]></description>
             <pubDate>2024-07-14T08:46:40Z</pubDate>
             <guid isPermaLink="false">https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html</guid>
             <link>https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[The six dumbest ideas in computer security (2005)]]></title>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=40959121 target=_blank>160 comments</a>]]></description>
+            <pubDate>2024-07-14T05:48:55Z</pubDate>
+            <guid isPermaLink="false">http://www.ranum.com/security/computer_security/editorials/dumb/</guid>
+            <link>http://www.ranum.com/security/computer_security/editorials/dumb/</link>
+            
+            
+            
+            <author><![CDATA[lsb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Git-PR: patch requests over SSH]]></title>
             <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=40959526 target=_blank>90 comments</a>]]></description>
             <pubDate>2024-07-14T07:53:37Z</pubDate>
@@ -162,40 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The six dumbest ideas in computer security (2005)]]></title>
-            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=40959121 target=_blank>158 comments</a>]]></description>
-            <pubDate>2024-07-14T05:48:55Z</pubDate>
-            <guid isPermaLink="false">http://www.ranum.com/security/computer_security/editorials/dumb/</guid>
-            <link>http://www.ranum.com/security/computer_security/editorials/dumb/</link>
-            
-            
-            
-            <author><![CDATA[lsb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Nvidia Warp: Python framework for high-performance simulation and graphics code]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=40958305 target=_blank>22 comments</a>]]></description>
-            <pubDate>2024-07-14T01:57:58Z</pubDate>
-            <guid isPermaLink="false">https://nvidia.github.io/warp/</guid>
-            <link>https://nvidia.github.io/warp/</link>
-            
-            
-            
-            <author><![CDATA[RafelMri]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Calculating position from raw GPS data (2017)]]></title>
-            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=40962231 target=_blank>19 comments</a>]]></description>
+            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=40962231 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-07-14T17:42:02Z</pubDate>
             <guid isPermaLink="false">https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/</guid>
             <link>https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[fanf2]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: I generated 70k audiobooks with OpenAI Text-to-Speech]]></title>
+            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=40961385 target=_blank>89 comments</a>]]></description>
+            <pubDate>2024-07-14T15:07:25Z</pubDate>
+            <guid isPermaLink="false">https://listenly.io/gutenberg</guid>
+            <link>https://listenly.io/gutenberg</link>
+            
+            
+            
+            <author><![CDATA[evan_ry]]></author>
             
                 
             
