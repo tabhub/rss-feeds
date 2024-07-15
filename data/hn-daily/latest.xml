@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Google's Gemini AI caught scanning Google Drive PDF files without permission]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=40965892 target=_blank>141 comments</a>]]></description>
-            <pubDate>2024-07-15T07:25:38Z</pubDate>
-            <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled</guid>
-            <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Run CUDA, unmodified, on AMD GPUs]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=40970560 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=40970560 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-07-15T19:05:07Z</pubDate>
             <guid isPermaLink="false">https://docs.scale-lang.com/</guid>
             <link>https://docs.scale-lang.com/</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Google's Gemini AI caught scanning Google Drive PDF files without permission]]></title>
+            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=40965892 target=_blank>141 comments</a>]]></description>
+            <pubDate>2024-07-15T07:25:38Z</pubDate>
+            <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled</guid>
+            <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Rust for Filesystems]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=40966414 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=40966414 target=_blank>160 comments</a>]]></description>
             <pubDate>2024-07-15T09:39:17Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/Articles/978738/</guid>
             <link>https://lwn.net/Articles/978738/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Firefox 128 enables "privacy-preserving" ad measurements by default]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=40966312 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=40966312 target=_blank>183 comments</a>]]></description>
             <pubDate>2024-07-15T09:10:56Z</pubDate>
             <guid isPermaLink="false">https://mstdn.social/@Lokjo/112772496939724214</guid>
             <link>https://mstdn.social/@Lokjo/112772496939724214</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Just Be Rich (2021)]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=40962965 target=_blank>281 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=40962965 target=_blank>282 comments</a>]]></description>
             <pubDate>2024-07-14T20:16:45Z</pubDate>
             <guid isPermaLink="false">https://keenen.xyz/just-be-rich/</guid>
             <link>https://keenen.xyz/just-be-rich/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Tabloid: A clickbait headline programming language (2021)]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=40964261 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=40964261 target=_blank>29 comments</a>]]></description>
             <pubDate>2024-07-15T00:12:59Z</pubDate>
             <guid isPermaLink="false">https://tabloid.vercel.app/</guid>
             <link>https://tabloid.vercel.app/</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[ko_pivot]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[I'm not a fan of strlcpy(3)]]></title>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=40967069 target=_blank>240 comments</a>]]></description>
+            <pubDate>2024-07-15T12:03:47Z</pubDate>
+            <guid isPermaLink="false">https://nrk.neocities.org/articles/not-a-fan-of-strlcpy</guid>
+            <link>https://nrk.neocities.org/articles/not-a-fan-of-strlcpy</link>
+            
+            
+            
+            <author><![CDATA[signa11]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I'm not a fan of strlcpy(3)]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=40967069 target=_blank>237 comments</a>]]></description>
-            <pubDate>2024-07-15T12:03:47Z</pubDate>
-            <guid isPermaLink="false">https://nrk.neocities.org/articles/not-a-fan-of-strlcpy</guid>
-            <link>https://nrk.neocities.org/articles/not-a-fan-of-strlcpy</link>
-            
-            
-            
-            <author><![CDATA[signa11]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The rise of the camera launched a fight to protect Gilded Age privacy]]></title>
-            <description><![CDATA[118 points | <a href=https://news.ycombinator.com/item?id=40968493 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[119 points | <a href=https://news.ycombinator.com/item?id=40968493 target=_blank>69 comments</a>]]></description>
             <pubDate>2024-07-15T15:04:05Z</pubDate>
             <guid isPermaLink="false">https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/</guid>
             <link>https://www.smithsonianmag.com/history/how-the-rise-of-the-camera-launched-a-fight-to-protect-gilded-age-americans-privacy-180984656/</link>
@@ -162,31 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[California Grid Breezes Through Heatwave with Batteries]]></title>
-            <description><![CDATA[107 points | <a href=https://news.ycombinator.com/item?id=40962942 target=_blank>105 comments</a>]]></description>
-            <pubDate>2024-07-14T20:14:29Z</pubDate>
-            <guid isPermaLink="false">https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/</guid>
-            <link>https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/</link>
+            <title><![CDATA[Immunotherapy Is Changing Cancer Treatment Forever]]></title>
+            <description><![CDATA[109 points | <a href=https://news.ycombinator.com/item?id=40969901 target=_blank>62 comments</a>]]></description>
+            <pubDate>2024-07-15T17:41:54Z</pubDate>
+            <guid isPermaLink="false">https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html</guid>
+            <link>https://nymag.com/intelligencer/article/cancer-treatment-immunotherapy-oncology-tcells-brain-tumor.html</link>
             
             
             
-            <author><![CDATA[ChuckMcM]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Tech, Crunched: How the go-to site for startup news lost its way]]></title>
-            <description><![CDATA[104 points | <a href=https://news.ycombinator.com/item?id=40969574 target=_blank>52 comments</a>]]></description>
-            <pubDate>2024-07-15T17:00:53Z</pubDate>
-            <guid isPermaLink="false">https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site</guid>
-            <link>https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site</link>
-            
-            
-            
-            <author><![CDATA[jdbiggs]]></author>
+            <author><![CDATA[bookofjoe]]></author>
             
                 
             
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Creature that washed up on New Zealand beach may be rarest whale]]></title>
-            <description><![CDATA[104 points | <a href=https://news.ycombinator.com/item?id=40968245 target=_blank>13 comments</a>]]></description>
+            <description><![CDATA[106 points | <a href=https://news.ycombinator.com/item?id=40968245 target=_blank>13 comments</a>]]></description>
             <pubDate>2024-07-15T14:36:44Z</pubDate>
             <guid isPermaLink="false">https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/</guid>
             <link>https://www.cbsnews.com/news/creature-that-washed-up-on-new-zealand-beach-may-be-worlds-rarest-whale-a-spade-toothed-whale/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[Brajeshwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tech, Crunched: How the go-to site for startup news lost its way]]></title>
+            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=40969574 target=_blank>52 comments</a>]]></description>
+            <pubDate>2024-07-15T17:00:53Z</pubDate>
+            <guid isPermaLink="false">https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site</guid>
+            <link>https://keepgoingpod.com/p/tech-crunched-how-the-go-to-site</link>
+            
+            
+            
+            <author><![CDATA[jdbiggs]]></author>
             
                 
             
