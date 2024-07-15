@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #676]]></title>
+        <title><![CDATA[Perl Weekly #677]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[An OpenAI Chatbot in Perl]]></title>
-            <description><![CDATA[Find out how to use the latest core OOP syntax to create OpenAI Chatbot.]]></description>
-            <pubDate>2024.07.06</pubDate>
-            <guid isPermaLink="false">https://curtispoe.org/articles/an-openai-chatbot-in-perl.html</guid>
-            <link>https://curtispoe.org/articles/an-openai-chatbot-in-perl.html</link>
+            <title><![CDATA[The Quest for Performance Part IV : May the SIMD Force be with you]]></title>
+            <description><![CDATA[See discussion on <a href="https://www.reddit.com/r/perl/comments/1e1zorp/the_quest_for_performance_part_iv/">reddit</a>]]></description>
+            <pubDate>2024.07.09</pubDate>
+            <guid isPermaLink="false">https://chrisarg.github.io/Killing-It-with-PERL/2024/07/09/The-Quest-For-Performance-Part-IV-May-the-SIMD-Force-Be-With-You.html</guid>
+            <link>https://chrisarg.github.io/Killing-It-with-PERL/2024/07/09/The-Quest-For-Performance-Part-IV-May-the-SIMD-Force-Be-With-You.html</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Combining calendars]]></title>
-            <description><![CDATA[Get to know the story behind the CPAN module: <strong>App::MergeCal</strong>.]]></description>
-            <pubDate>2024.07.07</pubDate>
-            <guid isPermaLink="false">https://dev.to/davorg/combining-calendars-59g8</guid>
-            <link>https://dev.to/davorg/combining-calendars-59g8</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl v5.40.0 Shows That It Is Too Resilient To Die]]></title>
-            <description><![CDATA[If you missed the latest release Perl v5.40 then you must checkout this to find out more about the core enhancements in the latest release.]]></description>
-            <pubDate>2024.07.01</pubDate>
-            <guid isPermaLink="false">https://www.i-programmer.info/news/222-perl/17298-perl-v5400-shows-that-it-is-too-resilient-to-die-.html</guid>
-            <link>https://www.i-programmer.info/news/222-perl/17298-perl-v5400-shows-that-it-is-too-resilient-to-die-.html</link>
+            <title><![CDATA[A p5p discussion about adding :writer to perlclass]]></title>
+            <description><![CDATA[A p5p discussion about adding :writer to perlclass]]></description>
+            <pubDate>2024.07.12</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1e1f9y5/a_p5p_discussion_about_adding_writer_to_perlclass/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1e1f9y5/a_p5p_discussion_about_adding_writer_to_perlclass/</link>
             
             
             
-            <author><![CDATA[nikos_vaggalis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[New Standards of Conduct published]]></title>
-            <description><![CDATA[TPRF has created a new Standard of Conduct to help combat bullying, harassment and abuse in our communities.]]></description>
-            <pubDate>2024.07.04</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/new-standaards-of-conduct</guid>
-            <link>https://news.perlfoundation.org/post/new-standaards-of-conduct</link>
-            
-            
-            
-            <author><![CDATA[ruth_bavousett]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Continuous Integration (CI): GitHub Actions for Perl Projects (Free Virtual presentation on August 4)]]></title>
-            <description><![CDATA[This events was postponed to August 4.  In this virtual event you will learn why and how to use GitHub Actions as a CI system for your Perl projects. The meeting is free of charge thanks to my <a href="https://szabgab.com/supporters">supporters</a> via <a href="https://www.patreon.com/szabgab">Patreon</a> and <a href="https://github.com/sponsors/szabgab/">GitHub</a>. Besides this event I am running many more, so make sure you check the <a href="https://www.meetup.com/code-mavens/">Code Mavens meetup group</a> and also register to it.]]></description>
-            <pubDate>2024.08.04</pubDate>
-            <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/301413566/</guid>
-            <link>https://www.meetup.com/code-mavens/events/301413566/</link>
+            <title><![CDATA[Using Coro and AnyEvent Interactively]]></title>
+            <description><![CDATA[I have not been able to figure out how to run an async thread in the background while using a REPL like reply. The moment I run the main loop, it takes over the input from the REPL. Here's what a typical failed REPL session might look like.]]></description>
+            <pubDate>2024.07.11</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/gg/2024/07/using-coro-and-anyevent-interactively.html</guid>
+            <link>https://blogs.perl.org/users/gg/2024/07/using-coro-and-anyevent-interactively.html</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GitHub Pages for Perl developers (Free Virtual presentation on August 15)]]></title>
-            <description><![CDATA[In this virtual event you will learn how to use Markdown and GitHub Pages to create a simple web site and then we'll extend our use of GitHub Actions to generate the site using Perl. Register now!]]></description>
-            <pubDate>2024.08.15</pubDate>
-            <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/301871765/</guid>
-            <link>https://www.meetup.com/code-mavens/events/301871765/</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -114,15 +66,79 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.27 Concurrency Learnings]]></title>
-            <description><![CDATA[2024.27 Concurrency Learnings]]></description>
-            <pubDate>2024.07.01</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/07/01/2024-27-concurrency-learnings/</guid>
-            <link>https://rakudoweekly.blog/2024/07/01/2024-27-concurrency-learnings/</link>
+            <title><![CDATA[Migrating from MySQL to PostgreSQL]]></title>
+            <description><![CDATA[Migrating from MySQL to PostgreSQL]]></description>
+            <pubDate>2024.07.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/mrpercival/migrating-from-mysql-to-postgresql-1oh7</guid>
+            <link>https://dev.to/mrpercival/migrating-from-mysql-to-postgresql-1oh7</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[lawrence_cooke]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl and why you use it]]></title>
+            <description><![CDATA[Perl and why you use it]]></description>
+            <pubDate>2024.07.09</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1dzblqj/perl_and_why_you_use_it/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1dzblqj/perl_and_why_you_use_it/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl script to write into the Fediverse (and Nostr)]]></title>
+            <description><![CDATA[Perl script to write into the Fediverse (and Nostr)]]></description>
+            <pubDate>2024.07.09</pubDate>
+            <guid isPermaLink="false">https://alashazam.wordpress.com/2024/07/09/perl-script-to-write-into-the-fediverse-and-nostr/</guid>
+            <link>https://alashazam.wordpress.com/2024/07/09/perl-script-to-write-into-the-fediverse-and-nostr/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[apparently NUL is mostly whitespace in Perl?]]></title>
+            <description><![CDATA[apparently NUL is mostly whitespace in Perl?]]></description>
+            <pubDate>2024.07.09</pubDate>
+            <guid isPermaLink="false">https://rjbs.cloud/blog/2024/07/nul-bytes-in-perl/</guid>
+            <link>https://rjbs.cloud/blog/2024/07/nul-bytes-in-perl/</link>
+            
+            
+            
+            <author><![CDATA[ricardo_signes]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How to use perl v5.40's boolean builtins in Mojo::Pg queries]]></title>
+            <description><![CDATA[How to use perl v5.40's boolean builtins in Mojo::Pg queries]]></description>
+            <pubDate>2024.07.13</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/karjala/2024/07/how-to-use-perl-v540s-boolean-builtins-in-mojopg-queries.html</guid>
+            <link>https://blogs.perl.org/users/karjala/2024/07/how-to-use-perl-v540s-boolean-builtins-in-mojopg-queries.html</link>
+            
+            
+            
+            <author><![CDATA[alexander_karelas]]></author>
             
                 
             
@@ -131,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/07/diii-8-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2024.07.06</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/07/div-4-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/07/dlxxxviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/07/dcxiv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.07.14</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -146,27 +162,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Boston.pm monthly meeting]]></title>
-            <description><![CDATA[July 9, 2024, Virtual event]]></description>
+            <title><![CDATA[Toronto Perl Mongers monthly meeting]]></title>
+            <description><![CDATA[July 25, 2024, Virtual event]]></description>
             
-            <guid isPermaLink="false">https://www.meetup.com/boston-pm/events/wvqlzrygckbmb</guid>
-            <link>https://www.meetup.com/boston-pm/events/wvqlzrygckbmb</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Purdue Perl Mongers]]></title>
-            <description><![CDATA[July 10, 2024, Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygckbnb</guid>
-            <link>https://www.meetup.com/hacklafayette/events/jdxwsrygckbnb</link>
+            <guid isPermaLink="false">https://www.meetup.com/toronto-perl-mongers/events/qbvmltygckbhc/</guid>
+            <link>https://www.meetup.com/toronto-perl-mongers/events/qbvmltygckbhc/</link>
             
             
             
@@ -194,11 +194,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Toronto Perl Mongers monthly meeting]]></title>
-            <description><![CDATA[July 25, 2024, Virtual event]]></description>
+            <title><![CDATA[GitHub Pages for Perl developers]]></title>
+            <description><![CDATA[August 15, 2024, in Zoom]]></description>
             
-            <guid isPermaLink="false">https://www.meetup.com/toronto-perl-mongers/events/qbvmltygckbhc/</guid>
-            <link>https://www.meetup.com/toronto-perl-mongers/events/qbvmltygckbhc/</link>
+            <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/301871765/</guid>
+            <link>https://www.meetup.com/code-mavens/events/301871765/</link>
             
             
             
