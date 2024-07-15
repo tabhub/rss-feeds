@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How to Know When It's Time to Go]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=40962675 target=_blank>168 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=40962675 target=_blank>168 comments</a>]]></description>
             <pubDate>2024-07-14T19:16:29Z</pubDate>
             <guid isPermaLink="false">https://thecodist.com/how-to-know-when-its-time-to-go/</guid>
             <link>https://thecodist.com/how-to-know-when-its-time-to-go/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Fitting an elephant with four non-zero parameters]]></title>
-            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=40961163 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=40961163 target=_blank>111 comments</a>]]></description>
             <pubDate>2024-07-14T14:27:46Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2407.07909</guid>
             <link>https://arxiv.org/abs/2407.07909</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Fusion – A hobby OS implemented in Nim]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=40962767 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=40962767 target=_blank>66 comments</a>]]></description>
             <pubDate>2024-07-14T19:43:40Z</pubDate>
             <guid isPermaLink="false">https://github.com/khaledh/fusion</guid>
             <link>https://github.com/khaledh/fusion</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Calculating position from raw GPS data (2017)]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=40962231 target=_blank>37 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=40962231 target=_blank>37 comments</a>]]></description>
             <pubDate>2024-07-14T17:42:02Z</pubDate>
             <guid isPermaLink="false">https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/</guid>
             <link>https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Firefox 128 enables "privacy-preserving" ad measurements by default]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=40966312 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=40966312 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-07-15T09:10:56Z</pubDate>
             <guid isPermaLink="false">https://mstdn.social/@Lokjo/112772496939724214</guid>
             <link>https://mstdn.social/@Lokjo/112772496939724214</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Google's Gemini AI caught scanning Google Drive PDF files without permission]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=40965892 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=40965892 target=_blank>78 comments</a>]]></description>
             <pubDate>2024-07-15T07:25:38Z</pubDate>
             <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled</guid>
             <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/gemini-ai-caught-scanning-google-drive-hosted-pdf-files-without-permission-user-complains-feature-cant-be-disabled</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Tabloid: A clickbait headline programming language (2021)]]></title>
-            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=40964261 target=_blank>12 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=40964261 target=_blank>12 comments</a>]]></description>
             <pubDate>2024-07-15T00:12:59Z</pubDate>
             <guid isPermaLink="false">https://tabloid.vercel.app/</guid>
             <link>https://tabloid.vercel.app/</link>
@@ -139,6 +139,22 @@
             
             
             <author><![CDATA[ko_pivot]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rust for Filesystems]]></title>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=40966414 target=_blank>83 comments</a>]]></description>
+            <pubDate>2024-07-15T09:39:17Z</pubDate>
+            <guid isPermaLink="false">https://lwn.net/Articles/978738/</guid>
+            <link>https://lwn.net/Articles/978738/</link>
+            
+            
+            
+            <author><![CDATA[drakerossman]]></author>
             
                 
             
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Rust for Filesystems]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=40966414 target=_blank>77 comments</a>]]></description>
-            <pubDate>2024-07-15T09:39:17Z</pubDate>
-            <guid isPermaLink="false">https://lwn.net/Articles/978738/</guid>
-            <link>https://lwn.net/Articles/978738/</link>
-            
-            
-            
-            <author><![CDATA[drakerossman]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Kaskade – A text user interface for Kafka]]></title>
-            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=40961101 target=_blank>23 comments</a>]]></description>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=40961101 target=_blank>23 comments</a>]]></description>
             <pubDate>2024-07-14T14:14:34Z</pubDate>
             <guid isPermaLink="false">https://github.com/sauljabin/kaskade</guid>
             <link>https://github.com/sauljabin/kaskade</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Disqualified (1954)]]></title>
-            <description><![CDATA[111 points | <a href=https://news.ycombinator.com/item?id=40962572 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[111 points | <a href=https://news.ycombinator.com/item?id=40962572 target=_blank>41 comments</a>]]></description>
             <pubDate>2024-07-14T18:49:55Z</pubDate>
             <guid isPermaLink="false">https://www.gutenberg.org/cache/epub/30251/pg30251-images.html</guid>
             <link>https://www.gutenberg.org/cache/epub/30251/pg30251-images.html</link>
