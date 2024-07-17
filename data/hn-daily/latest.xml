@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I am starting an AI+Education company]]></title>
-            <description><![CDATA[770 points | <a href=https://news.ycombinator.com/item?id=40978731 target=_blank>449 comments</a>]]></description>
+            <description><![CDATA[772 points | <a href=https://news.ycombinator.com/item?id=40978731 target=_blank>451 comments</a>]]></description>
             <pubDate>2024-07-16T17:57:35Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/karpathy/status/1813263734707790301</guid>
             <link>https://twitter.com/karpathy/status/1813263734707790301</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Codestral Mamba]]></title>
-            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=40977103 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[436 points | <a href=https://news.ycombinator.com/item?id=40977103 target=_blank>129 comments</a>]]></description>
             <pubDate>2024-07-16T14:44:46Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/news/codestral-mamba/</guid>
             <link>https://mistral.ai/news/codestral-mamba/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Import and Export Markdown in Google Docs]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=40982118 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=40982118 target=_blank>54 comments</a>]]></description>
             <pubDate>2024-07-17T02:44:51Z</pubDate>
             <guid isPermaLink="false">https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html</guid>
             <link>https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Stop Microsoft users sending 'reactions' to email by adding a postfix header]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=40978073 target=_blank>237 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=40978073 target=_blank>245 comments</a>]]></description>
             <pubDate>2024-07-16T16:38:07Z</pubDate>
             <guid isPermaLink="false">https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/</guid>
             <link>https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[XLSTMTime: Long-Term Time Series Forecasting with xLSTM]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=40978372 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=40978372 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-07-16T17:14:47Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2407.10240</guid>
             <link>https://arxiv.org/abs/2407.10240</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Private Browsing 2.0]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=40977945 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=40977945 target=_blank>100 comments</a>]]></description>
             <pubDate>2024-07-16T16:23:10Z</pubDate>
             <guid isPermaLink="false">https://webkit.org/blog/15697/private-browsing-2-0/</guid>
             <link>https://webkit.org/blog/15697/private-browsing-2-0/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Devs need system design tools, not diagramming tools]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=40977308 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=40977308 target=_blank>90 comments</a>]]></description>
             <pubDate>2024-07-16T15:09:00Z</pubDate>
             <guid isPermaLink="false">https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/</guid>
             <link>https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/</link>
@@ -139,6 +139,22 @@
             
             
             <author><![CDATA[argoeris]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Jia Tan "JiaT75": Added error text to warning when untaring with bsdtar (2021)]]></title>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=40984589 target=_blank>61 comments</a>]]></description>
+            <pubDate>2024-07-17T11:03:38Z</pubDate>
+            <guid isPermaLink="false">https://github.com/libarchive/libarchive/pull/1609</guid>
+            <link>https://github.com/libarchive/libarchive/pull/1609</link>
+            
+            
+            
+            <author><![CDATA[Bluestein]]></author>
             
                 
             
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Jia Tan "JiaT75": Added error text to warning when untaring with bsdtar (2021)]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=40984589 target=_blank>51 comments</a>]]></description>
-            <pubDate>2024-07-17T11:03:38Z</pubDate>
-            <guid isPermaLink="false">https://github.com/libarchive/libarchive/pull/1609</guid>
-            <link>https://github.com/libarchive/libarchive/pull/1609</link>
-            
-            
-            
-            <author><![CDATA[Bluestein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Deconstructing the Role-Playing Video Game]]></title>
-            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=40977834 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=40977834 target=_blank>55 comments</a>]]></description>
             <pubDate>2024-07-16T16:09:29Z</pubDate>
             <guid isPermaLink="false">https://olano.dev/blog/deconstructing-the-role-playing-videogame/</guid>
             <link>https://olano.dev/blog/deconstructing-the-role-playing-videogame/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: I quit my job and made an automatic time tracker]]></title>
-            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=40977453 target=_blank>83 comments</a>]]></description>
-            <pubDate>2024-07-16T15:28:07Z</pubDate>
-            <guid isPermaLink="false">https://taimapp.io</guid>
-            <link>https://taimapp.io</link>
+            <title><![CDATA[After 12 years of reviewing restaurants, I'm leaving the table]]></title>
+            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=40979539 target=_blank>149 comments</a>]]></description>
+            <pubDate>2024-07-16T19:33:34Z</pubDate>
+            <guid isPermaLink="false">https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html</guid>
+            <link>https://www.nytimes.com/2024/07/16/dining/pete-wells-steps-down-food-critic.html</link>
             
             
             
-            <author><![CDATA[rocksalad]]></author>
+            <author><![CDATA[necubi]]></author>
             
                 
             
