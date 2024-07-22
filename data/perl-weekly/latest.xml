@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #677]]></title>
+        <title><![CDATA[Perl Weekly #678]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Quest for Performance Part IV : May the SIMD Force be with you]]></title>
-            <description><![CDATA[See discussion on <a href="https://www.reddit.com/r/perl/comments/1e1zorp/the_quest_for_performance_part_iv/">reddit</a>]]></description>
-            <pubDate>2024.07.09</pubDate>
-            <guid isPermaLink="false">https://chrisarg.github.io/Killing-It-with-PERL/2024/07/09/The-Quest-For-Performance-Part-IV-May-the-SIMD-Force-Be-With-You.html</guid>
-            <link>https://chrisarg.github.io/Killing-It-with-PERL/2024/07/09/The-Quest-For-Performance-Part-IV-May-the-SIMD-Force-Be-With-You.html</link>
+            <title><![CDATA[Dancer2 1.1.1 Released]]></title>
+            <description><![CDATA[The Dancer Core Team is happy to announce that Dancer2 1.1.1 is on its way to CPAN.]]></description>
+            <pubDate>2024.07.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2024/07/dancer2-111-released.html</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/2024/07/dancer2-111-released.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A p5p discussion about adding :writer to perlclass]]></title>
-            <description><![CDATA[A p5p discussion about adding :writer to perlclass]]></description>
-            <pubDate>2024.07.12</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1e1f9y5/a_p5p_discussion_about_adding_writer_to_perlclass/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1e1f9y5/a_p5p_discussion_about_adding_writer_to_perlclass/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[jason_crome]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Using Coro and AnyEvent Interactively]]></title>
-            <description><![CDATA[I have not been able to figure out how to run an async thread in the background while using a REPL like reply. The moment I run the main loop, it takes over the input from the REPL. Here's what a typical failed REPL session might look like.]]></description>
-            <pubDate>2024.07.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/gg/2024/07/using-coro-and-anyevent-interactively.html</guid>
-            <link>https://blogs.perl.org/users/gg/2024/07/using-coro-and-anyevent-interactively.html</link>
+            <title><![CDATA[Updated, curated, Perl module TiddlyWiki]]></title>
+            <description><![CDATA[Updated, curated, Perl module TiddlyWiki]]></description>
+            <pubDate>2024.07.21</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2024/07/updated-curated-perl-module-tiddlywiki.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2024/07/updated-curated-perl-module-tiddlywiki.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Migrating from MySQL to PostgreSQL]]></title>
-            <description><![CDATA[Migrating from MySQL to PostgreSQL]]></description>
-            <pubDate>2024.07.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/mrpercival/migrating-from-mysql-to-postgresql-1oh7</guid>
-            <link>https://dev.to/mrpercival/migrating-from-mysql-to-postgresql-1oh7</link>
-            
-            
-            
-            <author><![CDATA[lawrence_cooke]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl and why you use it]]></title>
-            <description><![CDATA[Perl and why you use it]]></description>
-            <pubDate>2024.07.09</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1dzblqj/perl_and_why_you_use_it/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1dzblqj/perl_and_why_you_use_it/</link>
+            <title><![CDATA[Sailing the Seven YAPCs]]></title>
+            <description><![CDATA[YAPC event report by another attendee <strong>Buddy Burden</strong>. Thanks for sharing your experience with us.]]></description>
+            <pubDate>2024.07.07</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/buddy_burden/2024/07/sailing-the-seven-yapcs.html</guid>
+            <link>https://blogs.perl.org/users/buddy_burden/2024/07/sailing-the-seven-yapcs.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl script to write into the Fediverse (and Nostr)]]></title>
-            <description><![CDATA[Perl script to write into the Fediverse (and Nostr)]]></description>
-            <pubDate>2024.07.09</pubDate>
-            <guid isPermaLink="false">https://alashazam.wordpress.com/2024/07/09/perl-script-to-write-into-the-fediverse-and-nostr/</guid>
-            <link>https://alashazam.wordpress.com/2024/07/09/perl-script-to-write-into-the-fediverse-and-nostr/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[buddy_burden]]></author>
             
                 
             
@@ -114,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[apparently NUL is mostly whitespace in Perl?]]></title>
-            <description><![CDATA[apparently NUL is mostly whitespace in Perl?]]></description>
-            <pubDate>2024.07.09</pubDate>
-            <guid isPermaLink="false">https://rjbs.cloud/blog/2024/07/nul-bytes-in-perl/</guid>
-            <link>https://rjbs.cloud/blog/2024/07/nul-bytes-in-perl/</link>
+            <title><![CDATA[Repository of examples using Perl and Assembly together]]></title>
+            <description><![CDATA[Sometimes one needs an extra ounce of performance. Why not combine the high level semantics of Perl with the punch of assembly?]]></description>
+            <pubDate>2024.07.04</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/chrisarg/2024/07/repository-of-examples-using-perl-and-assembly-together.html</guid>
+            <link>https://blogs.perl.org/users/chrisarg/2024/07/repository-of-examples-using-perl-and-assembly-together.html</link>
             
             
             
-            <author><![CDATA[ricardo_signes]]></author>
+            <author><![CDATA[chrisarg]]></author>
             
                 
             
@@ -130,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How to use perl v5.40's boolean builtins in Mojo::Pg queries]]></title>
-            <description><![CDATA[How to use perl v5.40's boolean builtins in Mojo::Pg queries]]></description>
-            <pubDate>2024.07.13</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/karjala/2024/07/how-to-use-perl-v540s-boolean-builtins-in-mojopg-queries.html</guid>
-            <link>https://blogs.perl.org/users/karjala/2024/07/how-to-use-perl-v540s-boolean-builtins-in-mojopg-queries.html</link>
+            <title><![CDATA[2024.29 Intel -exprJIT +5%]]></title>
+            <description><![CDATA[2024.29 Intel -exprJIT +5%]]></description>
+            <pubDate>2024.07.15</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/07/15/2024-29-intel-exprjit-5</guid>
+            <link>https://rakudoweekly.blog/2024/07/15/2024-29-intel-exprjit-5</link>
             
             
             
-            <author><![CDATA[alexander_karelas]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -147,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/07/div-4-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/07/dlxxxviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/07/dcxiv-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.07.14</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/07/dv-9-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2024.07.20</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
