@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Europe is in danger of regulating its tech market out of existence]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=41081238 target=_blank>596 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=41081238 target=_blank>600 comments</a>]]></description>
             <pubDate>2024-07-26T18:55:30Z</pubDate>
             <guid isPermaLink="false">https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/</guid>
             <link>https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The New Internet]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=41080991 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=41080991 target=_blank>188 comments</a>]]></description>
             <pubDate>2024-07-26T18:29:17Z</pubDate>
             <guid isPermaLink="false">https://tailscale.com/blog/new-internet</guid>
             <link>https://tailscale.com/blog/new-internet</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Bayesian Statistics: The three cultures]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=41080373 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=41080373 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-07-26T17:15:15Z</pubDate>
             <guid isPermaLink="false">https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/</guid>
             <link>https://statmodeling.stat.columbia.edu/2024/07/10/three-cultures-bayes-subjective-objective-pragmatic/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Courts Close the Loophole Letting the Feds Search Your Phone at the Border]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=41083286 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=41083286 target=_blank>99 comments</a>]]></description>
             <pubDate>2024-07-26T23:36:21Z</pubDate>
             <guid isPermaLink="false">https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/</guid>
             <link>https://reason.com/2024/07/26/courts-close-the-loophole-letting-the-feds-search-your-phone-at-the-border/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Zen 5's 2-ahead branch predictor: how a 30 year old idea allows for new tricks]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=41081021 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=41081021 target=_blank>131 comments</a>]]></description>
             <pubDate>2024-07-26T18:32:37Z</pubDate>
             <guid isPermaLink="false">https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/</guid>
             <link>https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[matt_d]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Linux Kernel Module Programming Guide]]></title>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=41083972 target=_blank>17 comments</a>]]></description>
+            <pubDate>2024-07-27T02:04:35Z</pubDate>
+            <guid isPermaLink="false">https://sysprog21.github.io/lkmpg/</guid>
+            <link>https://sysprog21.github.io/lkmpg/</link>
+            
+            
+            
+            <author><![CDATA[wrycoder]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Linux Kernel Module Programming Guide]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=41083972 target=_blank>15 comments</a>]]></description>
-            <pubDate>2024-07-27T02:04:35Z</pubDate>
-            <guid isPermaLink="false">https://sysprog21.github.io/lkmpg/</guid>
-            <link>https://sysprog21.github.io/lkmpg/</link>
-            
-            
-            
-            <author><![CDATA[wrycoder]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Why does the chromaticity diagram look like that?]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=41080904 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=41080904 target=_blank>65 comments</a>]]></description>
             <pubDate>2024-07-26T18:19:11Z</pubDate>
             <guid isPermaLink="false">https://jlongster.com/why-chromaticity-shape</guid>
             <link>https://jlongster.com/why-chromaticity-shape</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[In the Beginning Was the Command Line (1999)]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=41084795 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=41084795 target=_blank>131 comments</a>]]></description>
             <pubDate>2024-07-27T06:25:02Z</pubDate>
             <guid isPermaLink="false">https://web.stanford.edu/class/cs81n/command.txt</guid>
             <link>https://web.stanford.edu/class/cs81n/command.txt</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[TOTP tokens on my wrist with the smartest dumb watch]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=41081435 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=41081435 target=_blank>40 comments</a>]]></description>
             <pubDate>2024-07-26T19:20:43Z</pubDate>
             <guid isPermaLink="false">https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/</guid>
             <link>https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/</link>
