@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Microsoft technical breakdown of CrowdStrike incident]]></title>
-            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=41095530 target=_blank>314 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=41095530 target=_blank>318 comments</a>]]></description>
             <pubDate>2024-07-28T19:55:42Z</pubDate>
             <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/</guid>
             <link>https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[How simultaneous multithreading works under the hood]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=41093916 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=41093916 target=_blank>84 comments</a>]]></description>
             <pubDate>2024-07-28T15:35:14Z</pubDate>
             <guid isPermaLink="false">https://blog.codingconfessions.com/p/simultaneous-multithreading</guid>
             <link>https://blog.codingconfessions.com/p/simultaneous-multithreading</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[My favorite tools and techniques for procedural gamedev]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=41092861 target=_blank>20 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=41092861 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-07-28T12:56:32Z</pubDate>
             <guid isPermaLink="false">https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/</guid>
             <link>https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[tolower() with AVX-512]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=41095790 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=41095790 target=_blank>69 comments</a>]]></description>
             <pubDate>2024-07-28T20:38:59Z</pubDate>
             <guid isPermaLink="false">https://dotat.at/@/2024-07-28-tolower-avx512.html</guid>
             <link>https://dotat.at/@/2024-07-28-tolower-avx512.html</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: A football/soccer pass visualizer made with Three.js]]></title>
-            <description><![CDATA[124 points | <a href=https://news.ycombinator.com/item?id=41095839 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[128 points | <a href=https://news.ycombinator.com/item?id=41095839 target=_blank>24 comments</a>]]></description>
             <pubDate>2024-07-28T20:45:17Z</pubDate>
             <guid isPermaLink="false">https://statsbomb-3d-viz.vercel.app/</guid>
             <link>https://statsbomb-3d-viz.vercel.app/</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Don't blindly prefer `emplace_back` to `push_back`]]></title>
-            <description><![CDATA[119 points | <a href=https://news.ycombinator.com/item?id=41095814 target=_blank>80 comments</a>]]></description>
-            <pubDate>2024-07-28T20:42:03Z</pubDate>
-            <guid isPermaLink="false">https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/</guid>
-            <link>https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/</link>
-            
-            
-            
-            <author><![CDATA[fanf2]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Back to our roots]]></title>
-            <description><![CDATA[119 points | <a href=https://news.ycombinator.com/item?id=41092168 target=_blank>8 comments</a>]]></description>
+            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=41092168 target=_blank>9 comments</a>]]></description>
             <pubDate>2024-07-28T09:32:35Z</pubDate>
             <guid isPermaLink="false">https://honnibal.dev/blog/back-to-our-roots</guid>
             <link>https://honnibal.dev/blog/back-to-our-roots</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Don't blindly prefer `emplace_back` to `push_back`]]></title>
+            <description><![CDATA[120 points | <a href=https://news.ycombinator.com/item?id=41095814 target=_blank>82 comments</a>]]></description>
+            <pubDate>2024-07-28T20:42:03Z</pubDate>
+            <guid isPermaLink="false">https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/</guid>
+            <link>https://quuxplusone.github.io/blog/2021/03/03/push-back-emplace-back/</link>
+            
+            
+            
+            <author><![CDATA[fanf2]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LeanDojo: Theorem Proving in Lean Using LLMs]]></title>
-            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=41096486 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[111 points | <a href=https://news.ycombinator.com/item?id=41096486 target=_blank>24 comments</a>]]></description>
             <pubDate>2024-07-28T22:34:36Z</pubDate>
             <guid isPermaLink="false">https://leandojo.org/</guid>
             <link>https://leandojo.org/</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: CeLLama – Single cell annotation with local LLMs]]></title>
-            <description><![CDATA[101 points | <a href=https://news.ycombinator.com/item?id=41092862 target=_blank>21 comments</a>]]></description>
-            <pubDate>2024-07-28T12:56:55Z</pubDate>
-            <guid isPermaLink="false">https://github.com/CelVoxes/ceLLama</guid>
-            <link>https://github.com/CelVoxes/ceLLama</link>
-            
-            
-            
-            <author><![CDATA[celltalk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Higher-kinded bounded polymorphism in OCaml (2021)]]></title>
-            <description><![CDATA[101 points | <a href=https://news.ycombinator.com/item?id=41096187 target=_blank>3 comments</a>]]></description>
+            <description><![CDATA[103 points | <a href=https://news.ycombinator.com/item?id=41096187 target=_blank>3 comments</a>]]></description>
             <pubDate>2024-07-28T21:40:47Z</pubDate>
             <guid isPermaLink="false">https://okmij.org/ftp/ML/higher-kind-poly.html</guid>
             <link>https://okmij.org/ftp/ML/higher-kind-poly.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[tinyspacewizard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ps aux written in bash without forking]]></title>
+            <description><![CDATA[101 points | <a href=https://news.ycombinator.com/item?id=41097241 target=_blank>29 comments</a>]]></description>
+            <pubDate>2024-07-29T01:10:57Z</pubDate>
+            <guid isPermaLink="false">https://github.com/izabera/ps</guid>
+            <link>https://github.com/izabera/ps</link>
+            
+            
+            
+            <author><![CDATA[signa11]]></author>
             
                 
             
