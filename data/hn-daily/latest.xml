@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Microsoft technical breakdown of CrowdStrike incident]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=41095530 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=41095530 target=_blank>253 comments</a>]]></description>
             <pubDate>2024-07-28T19:55:42Z</pubDate>
             <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/</guid>
             <link>https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The irrational hungry judge effect revisited (2023)]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=41091803 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=41091803 target=_blank>148 comments</a>]]></description>
             <pubDate>2024-07-28T07:35:11Z</pubDate>
             <guid isPermaLink="false">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58</guid>
             <link>https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How simultaneous multithreading works under the hood]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=41093916 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=41093916 target=_blank>69 comments</a>]]></description>
             <pubDate>2024-07-28T15:35:14Z</pubDate>
             <guid isPermaLink="false">https://blog.codingconfessions.com/p/simultaneous-multithreading</guid>
             <link>https://blog.codingconfessions.com/p/simultaneous-multithreading</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[tolower() with AVX-512]]></title>
+            <description><![CDATA[96 points | <a href=https://news.ycombinator.com/item?id=41095790 target=_blank>34 comments</a>]]></description>
+            <pubDate>2024-07-28T20:38:59Z</pubDate>
+            <guid isPermaLink="false">https://dotat.at/@/2024-07-28-tolower-avx512.html</guid>
+            <link>https://dotat.at/@/2024-07-28-tolower-avx512.html</link>
+            
+            
+            
+            <author><![CDATA[fanf2]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Show HN: CeLLama – Single cell annotation with local LLMs]]></title>
             <description><![CDATA[94 points | <a href=https://news.ycombinator.com/item?id=41092862 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-07-28T12:56:55Z</pubDate>
@@ -162,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: A football/soccer pass visualizer made with Three.js]]></title>
+            <description><![CDATA[94 points | <a href=https://news.ycombinator.com/item?id=41095839 target=_blank>13 comments</a>]]></description>
+            <pubDate>2024-07-28T20:45:17Z</pubDate>
+            <guid isPermaLink="false">https://statsbomb-3d-viz.vercel.app/</guid>
+            <link>https://statsbomb-3d-viz.vercel.app/</link>
+            
+            
+            
+            <author><![CDATA[carlos-menezes]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[My Obsidian note-taking workflow]]></title>
             <description><![CDATA[93 points | <a href=https://news.ycombinator.com/item?id=41092928 target=_blank>70 comments</a>]]></description>
             <pubDate>2024-07-28T13:14:36Z</pubDate>
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[articsputnik]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[tolower() with AVX-512]]></title>
-            <description><![CDATA[93 points | <a href=https://news.ycombinator.com/item?id=41095790 target=_blank>33 comments</a>]]></description>
-            <pubDate>2024-07-28T20:38:59Z</pubDate>
-            <guid isPermaLink="false">https://dotat.at/@/2024-07-28-tolower-avx512.html</guid>
-            <link>https://dotat.at/@/2024-07-28-tolower-avx512.html</link>
-            
-            
-            
-            <author><![CDATA[fanf2]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: A football/soccer pass visualizer made with Three.js]]></title>
-            <description><![CDATA[93 points | <a href=https://news.ycombinator.com/item?id=41095839 target=_blank>13 comments</a>]]></description>
-            <pubDate>2024-07-28T20:45:17Z</pubDate>
-            <guid isPermaLink="false">https://statsbomb-3d-viz.vercel.app/</guid>
-            <link>https://statsbomb-3d-viz.vercel.app/</link>
-            
-            
-            
-            <author><![CDATA[carlos-menezes]]></author>
             
                 
             
