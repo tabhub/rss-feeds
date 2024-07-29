@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[tolower() with AVX-512]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=41095790 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=41095790 target=_blank>122 comments</a>]]></description>
             <pubDate>2024-07-28T20:38:59Z</pubDate>
             <guid isPermaLink="false">https://dotat.at/@/2024-07-28-tolower-avx512.html</guid>
             <link>https://dotat.at/@/2024-07-28-tolower-avx512.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[ps aux written in bash without forking]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=41097241 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=41097241 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-07-29T01:10:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/izabera/ps</guid>
             <link>https://github.com/izabera/ps</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Movable tree CRDTs and Loro's implementation]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=41099901 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=41099901 target=_blank>24 comments</a>]]></description>
             <pubDate>2024-07-29T12:24:59Z</pubDate>
             <guid isPermaLink="false">https://loro.dev/blog/movable-tree</guid>
             <link>https://loro.dev/blog/movable-tree</link>
@@ -98,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Is Cloudflare overcharging us for their images service?]]></title>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=41100958 target=_blank>95 comments</a>]]></description>
+            <pubDate>2024-07-29T14:55:57Z</pubDate>
+            <guid isPermaLink="false">http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/</guid>
+            <link>http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/</link>
+            
+            
+            
+            <author><![CDATA[rdg42]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LeanDojo: Theorem Proving in Lean Using LLMs]]></title>
             <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=41096486 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-07-28T22:34:36Z</pubDate>
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Is Cloudflare overcharging us for their images service?]]></title>
-            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=41100958 target=_blank>94 comments</a>]]></description>
-            <pubDate>2024-07-29T14:55:57Z</pubDate>
-            <guid isPermaLink="false">http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/</guid>
-            <link>http://jpetazzo.github.io/2024/07/26/cloudflare-images-overcharge-billing/</link>
-            
-            
-            
-            <author><![CDATA[rdg42]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Understanding the design of the the Super Nintendo video system]]></title>
-            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=41098141 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=41098141 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-07-29T05:36:38Z</pubDate>
             <guid isPermaLink="false">https://fabiensanglard.net/snes_video/index.html</guid>
             <link>https://fabiensanglard.net/snes_video/index.html</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[MeTube: Self-hosted YouTube downloader]]></title>
-            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=41098974 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=41098974 target=_blank>62 comments</a>]]></description>
             <pubDate>2024-07-29T08:59:41Z</pubDate>
             <guid isPermaLink="false">https://github.com/alexta69/metube</guid>
             <link>https://github.com/alexta69/metube</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Higher-kinded bounded polymorphism in OCaml (2021)]]></title>
-            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=41096187 target=_blank>9 comments</a>]]></description>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=41096187 target=_blank>9 comments</a>]]></description>
             <pubDate>2024-07-28T21:40:47Z</pubDate>
             <guid isPermaLink="false">https://okmij.org/ftp/ML/higher-kind-poly.html</guid>
             <link>https://okmij.org/ftp/ML/higher-kind-poly.html</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Children should be allowed to get bored, expert says (2013)]]></title>
-            <description><![CDATA[114 points | <a href=https://news.ycombinator.com/item?id=41098488 target=_blank>163 comments</a>]]></description>
-            <pubDate>2024-07-29T07:17:12Z</pubDate>
-            <guid isPermaLink="false">https://www.bbc.com/news/education-21895704</guid>
-            <link>https://www.bbc.com/news/education-21895704</link>
+            <title><![CDATA[Launch HN: Roame (YC S23) – Flight search engine for your credit card points]]></title>
+            <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=41100094 target=_blank>70 comments</a>]]></description>
+            <pubDate>2024-07-29T12:56:23Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=41100094</guid>
+            <link>https://news.ycombinator.com/item?id=41100094</link>
             
             
             
-            <author><![CDATA[xj]]></author>
+            <author><![CDATA[zman0225]]></author>
             
                 
             
