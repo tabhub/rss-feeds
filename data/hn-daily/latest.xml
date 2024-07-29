@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Microsoft technical breakdown of CrowdStrike incident]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=41095530 target=_blank>311 comments</a>]]></description>
+            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=41095530 target=_blank>313 comments</a>]]></description>
             <pubDate>2024-07-28T19:55:42Z</pubDate>
             <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/</guid>
             <link>https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[How simultaneous multithreading works under the hood]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=41093916 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=41093916 target=_blank>81 comments</a>]]></description>
             <pubDate>2024-07-28T15:35:14Z</pubDate>
             <guid isPermaLink="false">https://blog.codingconfessions.com/p/simultaneous-multithreading</guid>
             <link>https://blog.codingconfessions.com/p/simultaneous-multithreading</link>
@@ -43,22 +43,6 @@
             
             
             <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The irrational hungry judge effect revisited (2023)]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=41091803 target=_blank>157 comments</a>]]></description>
-            <pubDate>2024-07-28T07:35:11Z</pubDate>
-            <guid isPermaLink="false">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58</guid>
-            <link>https://www.cambridge.org/core/journals/judgment-and-decision-making/article/irrational-hungry-judge-effect-revisited-simulations-reveal-that-the-magnitude-of-the-effect-is-overestimated/61CE825D4DC137675BB9CAD04571AE58</link>
-            
-            
-            
-            <author><![CDATA[fzliu]]></author>
             
                 
             
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[tolower() with AVX-512]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=41095790 target=_blank>64 comments</a>]]></description>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=41095790 target=_blank>66 comments</a>]]></description>
             <pubDate>2024-07-28T20:38:59Z</pubDate>
             <guid isPermaLink="false">https://dotat.at/@/2024-07-28-tolower-avx512.html</guid>
             <link>https://dotat.at/@/2024-07-28-tolower-avx512.html</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: A football/soccer pass visualizer made with Three.js]]></title>
-            <description><![CDATA[122 points | <a href=https://news.ycombinator.com/item?id=41095839 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[123 points | <a href=https://news.ycombinator.com/item?id=41095839 target=_blank>24 comments</a>]]></description>
             <pubDate>2024-07-28T20:45:17Z</pubDate>
             <guid isPermaLink="false">https://statsbomb-3d-viz.vercel.app/</guid>
             <link>https://statsbomb-3d-viz.vercel.app/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Back to our roots]]></title>
-            <description><![CDATA[118 points | <a href=https://news.ycombinator.com/item?id=41092168 target=_blank>8 comments</a>]]></description>
+            <description><![CDATA[119 points | <a href=https://news.ycombinator.com/item?id=41092168 target=_blank>8 comments</a>]]></description>
             <pubDate>2024-07-28T09:32:35Z</pubDate>
             <guid isPermaLink="false">https://honnibal.dev/blog/back-to-our-roots</guid>
             <link>https://honnibal.dev/blog/back-to-our-roots</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[LeanDojo: Theorem Proving in Lean Using LLMs]]></title>
-            <description><![CDATA[106 points | <a href=https://news.ycombinator.com/item?id=41096486 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=41096486 target=_blank>24 comments</a>]]></description>
             <pubDate>2024-07-28T22:34:36Z</pubDate>
             <guid isPermaLink="false">https://leandojo.org/</guid>
             <link>https://leandojo.org/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[celltalk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Higher-kinded bounded polymorphism in OCaml (2021)]]></title>
+            <description><![CDATA[98 points | <a href=https://news.ycombinator.com/item?id=41096187 target=_blank>3 comments</a>]]></description>
+            <pubDate>2024-07-28T21:40:47Z</pubDate>
+            <guid isPermaLink="false">https://okmij.org/ftp/ML/higher-kind-poly.html</guid>
+            <link>https://okmij.org/ftp/ML/higher-kind-poly.html</link>
+            
+            
+            
+            <author><![CDATA[tinyspacewizard]]></author>
             
                 
             
