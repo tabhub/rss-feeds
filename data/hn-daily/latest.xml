@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Our audit of Homebrew]]></title>
-            <description><![CDATA[721 points | <a href=https://news.ycombinator.com/item?id=41114839 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[727 points | <a href=https://news.ycombinator.com/item?id=41114839 target=_blank>144 comments</a>]]></description>
             <pubDate>2024-07-30T22:39:21Z</pubDate>
             <guid isPermaLink="false">https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/</guid>
             <link>https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[macOS in QEMU in Docker]]></title>
-            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=41116473 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=41116473 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-07-31T04:51:12Z</pubDate>
             <guid isPermaLink="false">https://github.com/sickcodes/Docker-OSX</guid>
             <link>https://github.com/sickcodes/Docker-OSX</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[`find` + `mkdir` is Turing complete]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=41115941 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=41115941 target=_blank>75 comments</a>]]></description>
             <pubDate>2024-07-31T02:22:41Z</pubDate>
             <guid isPermaLink="false">https://ogiekako.vercel.app/blog/find_mkdir_tc</guid>
             <link>https://ogiekako.vercel.app/blog/find_mkdir_tc</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Creativity fundamentally comes from memorization]]></title>
+            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=41114825 target=_blank>214 comments</a>]]></description>
+            <pubDate>2024-07-30T22:37:24Z</pubDate>
+            <guid isPermaLink="false">https://shwin.co/blog/creativity-fundamentally-comes-from-memorization</guid>
+            <link>https://shwin.co/blog/creativity-fundamentally-comes-from-memorization</link>
+            
+            
+            
+            <author><![CDATA[shw1n]]></author>
             
                 
             
@@ -82,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Creativity fundamentally comes from memorization]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=41114825 target=_blank>211 comments</a>]]></description>
-            <pubDate>2024-07-30T22:37:24Z</pubDate>
-            <guid isPermaLink="false">https://shwin.co/blog/creativity-fundamentally-comes-from-memorization</guid>
-            <link>https://shwin.co/blog/creativity-fundamentally-comes-from-memorization</link>
+            <title><![CDATA[I prefer rST to Markdown]]></title>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=41120254 target=_blank>216 comments</a>]]></description>
+            <pubDate>2024-07-31T15:49:55Z</pubDate>
+            <guid isPermaLink="false">https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/</guid>
+            <link>https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/</link>
             
             
             
-            <author><![CDATA[shw1n]]></author>
+            <author><![CDATA[BerislavLopac]]></author>
             
                 
             
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I prefer rST to Markdown]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41120254 target=_blank>209 comments</a>]]></description>
-            <pubDate>2024-07-31T15:49:55Z</pubDate>
-            <guid isPermaLink="false">https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/</guid>
-            <link>https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/</link>
-            
-            
-            
-            <author><![CDATA[BerislavLopac]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Rustgo: Calling Rust from Go with near-zero overhead (2017)]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=41116639 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=41116639 target=_blank>73 comments</a>]]></description>
             <pubDate>2024-07-31T05:43:33Z</pubDate>
             <guid isPermaLink="false">https://words.filippo.io/rustgo/</guid>
             <link>https://words.filippo.io/rustgo/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Why the CrowdStrike bug hit banks hard]]></title>
-            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=41119874 target=_blank>200 comments</a>]]></description>
+            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=41119874 target=_blank>203 comments</a>]]></description>
             <pubDate>2024-07-31T15:07:24Z</pubDate>
             <guid isPermaLink="false">https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/</guid>
             <link>https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Superconducting Microprocessors? Turns Out They're Ultra-Efficient (2021)]]></title>
-            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=41115591 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=41115591 target=_blank>66 comments</a>]]></description>
             <pubDate>2024-07-31T01:00:26Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency</guid>
             <link>https://spectrum.ieee.org/new-superconductor-microprocessor-yields-a-substantial-boost-in-efficiency</link>
