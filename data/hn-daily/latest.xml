@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[SAM 2: Segment Anything in Images and Videos]]></title>
-            <description><![CDATA[709 points | <a href=https://news.ycombinator.com/item?id=41104523 target=_blank>129 comments</a>]]></description>
-            <pubDate>2024-07-29T22:52:56Z</pubDate>
-            <guid isPermaLink="false">https://github.com/facebookresearch/segment-anything-2</guid>
-            <link>https://github.com/facebookresearch/segment-anything-2</link>
-            
-            
-            
-            <author><![CDATA[xenova]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?]]></title>
             <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=41109926 target=_blank>125 comments</a>]]></description>
             <pubDate>2024-07-30T15:11:44Z</pubDate>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[If we want a shift to walking, we need to prioritize dignity]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=41105944 target=_blank>398 comments</a>]]></description>
+            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=41105944 target=_blank>414 comments</a>]]></description>
             <pubDate>2024-07-30T03:59:52Z</pubDate>
             <guid isPermaLink="false">https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity</guid>
             <link>https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[A eulogy for Dark Sky, a data visualization masterpiece (2023)]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=41109799 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=41109799 target=_blank>175 comments</a>]]></description>
             <pubDate>2024-07-30T14:58:54Z</pubDate>
             <guid isPermaLink="false">https://nightingaledvs.com/dark-sky-weather-data-viz/</guid>
             <link>https://nightingaledvs.com/dark-sky-weather-data-viz/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Four billion years in four minutes – Simulating worlds on the GPU]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=41104721 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=41104721 target=_blank>93 comments</a>]]></description>
             <pubDate>2024-07-29T23:33:51Z</pubDate>
             <guid isPermaLink="false">https://davidar.io/post/sim-glsl</guid>
             <link>https://davidar.io/post/sim-glsl</link>
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[C Macro Reflection in Zig]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=41106686 target=_blank>114 comments</a>]]></description>
-            <pubDate>2024-07-30T06:57:53Z</pubDate>
-            <guid isPermaLink="false">https://jstrieb.github.io/posts/c-reflection-zig/</guid>
-            <link>https://jstrieb.github.io/posts/c-reflection-zig/</link>
-            
-            
-            
-            <author><![CDATA[jstrieb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Meta to pay Texas $1.4B for using facial recognition without users' permission]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=41111145 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=41111145 target=_blank>180 comments</a>]]></description>
             <pubDate>2024-07-30T16:41:13Z</pubDate>
             <guid isPermaLink="false">https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/</guid>
             <link>https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/</link>
@@ -146,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Calculating the cost of a Google DeepMind paper]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=41107721 target=_blank>127 comments</a>]]></description>
-            <pubDate>2024-07-30T10:26:55Z</pubDate>
-            <guid isPermaLink="false">https://152334H.github.io/blog/scaling-exponents/</guid>
-            <link>https://152334H.github.io/blog/scaling-exponents/</link>
+            <title><![CDATA[C Macro Reflection in Zig]]></title>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=41106686 target=_blank>115 comments</a>]]></description>
+            <pubDate>2024-07-30T06:57:53Z</pubDate>
+            <guid isPermaLink="false">https://jstrieb.github.io/posts/c-reflection-zig/</guid>
+            <link>https://jstrieb.github.io/posts/c-reflection-zig/</link>
             
             
             
-            <author><![CDATA[152334H]]></author>
+            <author><![CDATA[jstrieb]]></author>
             
                 
             
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[Porffor: A from-scratch experimental ahead-of-time JS engine]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=41112854 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=41112854 target=_blank>55 comments</a>]]></description>
             <pubDate>2024-07-30T18:55:10Z</pubDate>
             <guid isPermaLink="false">https://porffor.dev/</guid>
             <link>https://porffor.dev/</link>
@@ -178,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Calculating the cost of a Google DeepMind paper]]></title>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=41107721 target=_blank>130 comments</a>]]></description>
+            <pubDate>2024-07-30T10:26:55Z</pubDate>
+            <guid isPermaLink="false">https://152334H.github.io/blog/scaling-exponents/</guid>
+            <link>https://152334H.github.io/blog/scaling-exponents/</link>
+            
+            
+            
+            <author><![CDATA[152334H]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Microjs]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=41105261 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=41105261 target=_blank>45 comments</a>]]></description>
             <pubDate>2024-07-30T01:16:23Z</pubDate>
             <guid isPermaLink="false">http://microjs.com/</guid>
             <link>http://microjs.com/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Why doesn't advice work?]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=41109891 target=_blank>234 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=41109891 target=_blank>244 comments</a>]]></description>
             <pubDate>2024-07-30T15:07:51Z</pubDate>
             <guid isPermaLink="false">https://dynomight.substack.com/p/advice</guid>
             <link>https://dynomight.substack.com/p/advice</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[yarapavan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Translating All C to Rust (TRACTOR)]]></title>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=41110269 target=_blank>191 comments</a>]]></description>
+            <pubDate>2024-07-30T15:42:06Z</pubDate>
+            <guid isPermaLink="false">https://www.darpa.mil/program/translating-all-c-to-rust</guid>
+            <link>https://www.darpa.mil/program/translating-all-c-to-rust</link>
+            
+            
+            
+            <author><![CDATA[steveklabnik]]></author>
             
                 
             
