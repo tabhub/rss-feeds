@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Our audit of Homebrew]]></title>
-            <description><![CDATA[548 points | <a href=https://news.ycombinator.com/item?id=41114839 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[552 points | <a href=https://news.ycombinator.com/item?id=41114839 target=_blank>108 comments</a>]]></description>
             <pubDate>2024-07-30T22:39:21Z</pubDate>
             <guid isPermaLink="false">https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/</guid>
             <link>https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Dear AI Companies, instead of scraping OpenStreetMap, how about a $10k donation?]]></title>
-            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=41109926 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=41109926 target=_blank>137 comments</a>]]></description>
             <pubDate>2024-07-30T15:11:44Z</pubDate>
             <guid isPermaLink="false">https://en.osm.town/@Firefishy/112875549871566269</guid>
             <link>https://en.osm.town/@Firefishy/112875549871566269</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Meta to pay Texas $1.4B for using facial recognition without users' permission]]></title>
-            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=41111145 target=_blank>219 comments</a>]]></description>
-            <pubDate>2024-07-30T16:41:13Z</pubDate>
-            <guid isPermaLink="false">https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/</guid>
-            <link>https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/</link>
-            
-            
-            
-            <author><![CDATA[perihelions]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Porffor: A from-scratch experimental ahead-of-time JS engine]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=41112854 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=41112854 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-07-30T18:55:10Z</pubDate>
             <guid isPermaLink="false">https://porffor.dev/</guid>
             <link>https://porffor.dev/</link>
@@ -75,6 +59,22 @@
             
             
             <author><![CDATA[bpierre]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Meta to pay Texas $1.4B for using facial recognition without users' permission]]></title>
+            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=41111145 target=_blank>221 comments</a>]]></description>
+            <pubDate>2024-07-30T16:41:13Z</pubDate>
+            <guid isPermaLink="false">https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/</guid>
+            <link>https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/</link>
+            
+            
+            
+            <author><![CDATA[perihelions]]></author>
             
                 
             
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Swift Homomorphic Encryption]]></title>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=41111129 target=_blank>103 comments</a>]]></description>
+            <pubDate>2024-07-30T16:40:13Z</pubDate>
+            <guid isPermaLink="false">https://www.swift.org/blog/announcing-swift-homomorphic-encryption/</guid>
+            <link>https://www.swift.org/blog/announcing-swift-homomorphic-encryption/</link>
+            
+            
+            
+            <author><![CDATA[yAak]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Why doesn't advice work?]]></title>
             <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=41109891 target=_blank>283 comments</a>]]></description>
             <pubDate>2024-07-30T15:07:51Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Swift Homomorphic Encryption]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=41111129 target=_blank>103 comments</a>]]></description>
-            <pubDate>2024-07-30T16:40:13Z</pubDate>
-            <guid isPermaLink="false">https://www.swift.org/blog/announcing-swift-homomorphic-encryption/</guid>
-            <link>https://www.swift.org/blog/announcing-swift-homomorphic-encryption/</link>
-            
-            
-            
-            <author><![CDATA[yAak]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Launch HN: SSOReady (YC W24) – Making SAML SSO painless and open source]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=41110850 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=41110850 target=_blank>82 comments</a>]]></description>
             <pubDate>2024-07-30T16:19:45Z</pubDate>
             <guid isPermaLink="false">https://github.com/ssoready/ssoready</guid>
             <link>https://github.com/ssoready/ssoready</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[The Truth About Linear Regression (2015)]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=41111115 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=41111115 target=_blank>63 comments</a>]]></description>
             <pubDate>2024-07-30T16:38:40Z</pubDate>
             <guid isPermaLink="false">https://www.stat.cmu.edu/~cshalizi/TALR/</guid>
             <link>https://www.stat.cmu.edu/~cshalizi/TALR/</link>
