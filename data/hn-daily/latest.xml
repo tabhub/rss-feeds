@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[How I got my laser eye injury]]></title>
-            <description><![CDATA[395 points | <a href=https://news.ycombinator.com/item?id=41127706 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=41127706 target=_blank>169 comments</a>]]></description>
             <pubDate>2024-08-01T10:25:34Z</pubDate>
             <guid isPermaLink="false">https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/</guid>
             <link>https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Just Disconnect the Internet]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=41125490 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=41125490 target=_blank>169 comments</a>]]></description>
             <pubDate>2024-08-01T01:52:57Z</pubDate>
             <guid isPermaLink="false">https://computer.rip/2024-07-31-just-disconnect-the-internet.html</guid>
             <link>https://computer.rip/2024-07-31-just-disconnect-the-internet.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Breakthrough a step toward revealing hidden structure of prime numbers]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=41126944 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=41126944 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-08-01T07:34:30Z</pubDate>
             <guid isPermaLink="false">https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers</guid>
             <link>https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[igitur]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Stop Killing Games – European Citizens' Initiative]]></title>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=41126782 target=_blank>122 comments</a>]]></description>
+            <pubDate>2024-08-01T06:59:35Z</pubDate>
+            <guid isPermaLink="false">https://www.stopkillinggames.com/eci</guid>
+            <link>https://www.stopkillinggames.com/eci</link>
+            
+            
+            
+            <author><![CDATA[edd25]]></author>
             
                 
             
@@ -98,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Stop Killing Games – European Citizens' Initiative]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=41126782 target=_blank>121 comments</a>]]></description>
-            <pubDate>2024-08-01T06:59:35Z</pubDate>
-            <guid isPermaLink="false">https://www.stopkillinggames.com/eci</guid>
-            <link>https://www.stopkillinggames.com/eci</link>
-            
-            
-            
-            <author><![CDATA[edd25]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[SnowflakeOS: Beginner friendly and GUI focused NixOS variant]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=41124472 target=_blank>130 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=41124472 target=_blank>131 comments</a>]]></description>
             <pubDate>2024-07-31T23:06:11Z</pubDate>
             <guid isPermaLink="false">https://snowflakeos.org/</guid>
             <link>https://snowflakeos.org/</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[PyTorch – Torchchat: Chat with LLMs Everywhere]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41125980 target=_blank>30 comments</a>]]></description>
-            <pubDate>2024-08-01T03:48:14Z</pubDate>
-            <guid isPermaLink="false">https://github.com/pytorch/torchchat</guid>
-            <link>https://github.com/pytorch/torchchat</link>
-            
-            
-            
-            <author><![CDATA[constantinum]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I recreated Shazam's algorithm with Go]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=41127726 target=_blank>38 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=41127726 target=_blank>41 comments</a>]]></description>
             <pubDate>2024-08-01T10:29:21Z</pubDate>
             <guid isPermaLink="false">https://github.com/cgzirim/not-shazam</guid>
             <link>https://github.com/cgzirim/not-shazam</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[PyTorch – Torchchat: Chat with LLMs Everywhere]]></title>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=41125980 target=_blank>30 comments</a>]]></description>
+            <pubDate>2024-08-01T03:48:14Z</pubDate>
+            <guid isPermaLink="false">https://github.com/pytorch/torchchat</guid>
+            <link>https://github.com/pytorch/torchchat</link>
+            
+            
+            
+            <author><![CDATA[constantinum]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Coinbase awarded a $500k bug bounty]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=41127446 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=41127446 target=_blank>128 comments</a>]]></description>
             <pubDate>2024-08-01T09:40:25Z</pubDate>
             <guid isPermaLink="false">https://hackerone.com/coinbase/hacktivity</guid>
             <link>https://hackerone.com/coinbase/hacktivity</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Don’t Let Your Domain Name Become a “Sitting Duck”]]></title>
-            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=41125544 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=41125544 target=_blank>56 comments</a>]]></description>
             <pubDate>2024-08-01T02:00:12Z</pubDate>
             <guid isPermaLink="false">https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/</guid>
             <link>https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/</link>
