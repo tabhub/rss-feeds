@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA["We ran out of columns"]]></title>
-            <description><![CDATA[990 points | <a href=https://news.ycombinator.com/item?id=41146239 target=_blank>364 comments</a>]]></description>
+            <description><![CDATA[995 points | <a href=https://news.ycombinator.com/item?id=41146239 target=_blank>372 comments</a>]]></description>
             <pubDate>2024-08-03T12:26:03Z</pubDate>
             <guid isPermaLink="false">https://jimmyhmiller.github.io/ugliest-beautiful-codebase</guid>
             <link>https://jimmyhmiller.github.io/ugliest-beautiful-codebase</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[p5.js]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=41144755 target=_blank>59 comments</a>]]></description>
+            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=41144755 target=_blank>59 comments</a>]]></description>
             <pubDate>2024-08-03T04:53:10Z</pubDate>
             <guid isPermaLink="false">https://p5js.org/</guid>
             <link>https://p5js.org/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[How to build quickly]]></title>
-            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=41148517 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=41148517 target=_blank>69 comments</a>]]></description>
             <pubDate>2024-08-03T19:05:02Z</pubDate>
             <guid isPermaLink="false">https://learnhowtolearn.org/how-to-build-extremely-quickly/</guid>
             <link>https://learnhowtolearn.org/how-to-build-extremely-quickly/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Hanon Pro – piano technique and exercises for the digital age]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=41144826 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=41144826 target=_blank>89 comments</a>]]></description>
             <pubDate>2024-08-03T05:21:09Z</pubDate>
             <guid isPermaLink="false">https://furnacecreek.org/hanon/</guid>
             <link>https://furnacecreek.org/hanon/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Reverse engineering the 59-pound printer onboard the Space Shuttle]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=41147643 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=41147643 target=_blank>71 comments</a>]]></description>
             <pubDate>2024-08-03T16:43:09Z</pubDate>
             <guid isPermaLink="false">http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html</guid>
             <link>http://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[I Made an Extended Version of Vimtutor – Introducing Vimtutor Sequel]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=41144843 target=_blank>30 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=41144843 target=_blank>30 comments</a>]]></description>
             <pubDate>2024-08-03T05:29:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/micahkepe/vimtutor-sequel</guid>
             <link>https://github.com/micahkepe/vimtutor-sequel</link>
@@ -107,6 +107,38 @@
             
             
             <author><![CDATA[micahkepe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Make your electronics tamper-evident]]></title>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=41148650 target=_blank>80 comments</a>]]></description>
+            <pubDate>2024-08-03T19:25:58Z</pubDate>
+            <guid isPermaLink="false">https://www.anarsec.guide/posts/tamper/</guid>
+            <link>https://www.anarsec.guide/posts/tamper/</link>
+            
+            
+            
+            <author><![CDATA[walterbell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Clang vs. Clang]]></title>
+            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=41146860 target=_blank>182 comments</a>]]></description>
+            <pubDate>2024-08-03T14:45:17Z</pubDate>
+            <guid isPermaLink="false">https://blog.cr.yp.to/20240803-clang.html</guid>
+            <link>https://blog.cr.yp.to/20240803-clang.html</link>
+            
+            
+            
+            <author><![CDATA[dchest]]></author>
             
                 
             
@@ -130,40 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Make your electronics tamper-evident]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=41148650 target=_blank>78 comments</a>]]></description>
-            <pubDate>2024-08-03T19:25:58Z</pubDate>
-            <guid isPermaLink="false">https://www.anarsec.guide/posts/tamper/</guid>
-            <link>https://www.anarsec.guide/posts/tamper/</link>
-            
-            
-            
-            <author><![CDATA[walterbell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Clang vs. Clang]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41146860 target=_blank>180 comments</a>]]></description>
-            <pubDate>2024-08-03T14:45:17Z</pubDate>
-            <guid isPermaLink="false">https://blog.cr.yp.to/20240803-clang.html</guid>
-            <link>https://blog.cr.yp.to/20240803-clang.html</link>
-            
-            
-            
-            <author><![CDATA[dchest]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Open Source Farming Robot]]></title>
-            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=41150095 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=41150095 target=_blank>59 comments</a>]]></description>
             <pubDate>2024-08-03T23:37:52Z</pubDate>
             <guid isPermaLink="false">https://farm.bot/</guid>
             <link>https://farm.bot/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Game Informer shutting down after 33 years]]></title>
-            <description><![CDATA[130 points | <a href=https://news.ycombinator.com/item?id=41147317 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=41147317 target=_blank>54 comments</a>]]></description>
             <pubDate>2024-08-03T15:55:08Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop</guid>
             <link>https://www.theverge.com/2024/8/2/24212016/game-informer-shutting-down-layoffs-gamestop</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Primitive Recursive Functions for a Working Programmer]]></title>
-            <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=41146278 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[117 points | <a href=https://news.ycombinator.com/item?id=41146278 target=_blank>43 comments</a>]]></description>
             <pubDate>2024-08-03T12:32:01Z</pubDate>
             <guid isPermaLink="false">https://matklad.github.io/2024/08/01/primitive-recursive-functions.html</guid>
             <link>https://matklad.github.io/2024/08/01/primitive-recursive-functions.html</link>
