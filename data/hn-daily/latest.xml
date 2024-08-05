@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Starting Hospice]]></title>
-            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=41157974 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[586 points | <a href=https://news.ycombinator.com/item?id=41157974 target=_blank>63 comments</a>]]></description>
             <pubDate>2024-08-05T03:35:53Z</pubDate>
             <guid isPermaLink="false">https://jakeseliger.com/2024/08/04/starting-hospice-the-end/</guid>
             <link>https://jakeseliger.com/2024/08/04/starting-hospice-the-end/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Stop Killing Games]]></title>
-            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=41159063 target=_blank>189 comments</a>]]></description>
+            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=41159063 target=_blank>193 comments</a>]]></description>
             <pubDate>2024-08-05T08:06:51Z</pubDate>
             <guid isPermaLink="false">https://eci.ec.europa.eu/045/public/</guid>
             <link>https://eci.ec.europa.eu/045/public/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: Free e-book about WebGPU Programming]]></title>
-            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=41156872 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=41156872 target=_blank>61 comments</a>]]></description>
             <pubDate>2024-08-04T22:56:22Z</pubDate>
             <guid isPermaLink="false">https://shi-yan.github.io/webgpuunleashed/</guid>
             <link>https://shi-yan.github.io/webgpuunleashed/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How Postgres stores data on disk – this one's a page turner]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=41159180 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=41159180 target=_blank>66 comments</a>]]></description>
             <pubDate>2024-08-05T08:28:25Z</pubDate>
             <guid isPermaLink="false">https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/</guid>
             <link>https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[How I Program in 2024]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=41157494 target=_blank>234 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=41157494 target=_blank>238 comments</a>]]></description>
             <pubDate>2024-08-05T01:28:39Z</pubDate>
             <guid isPermaLink="false">http://akkartik.name/post/programming-2024</guid>
             <link>http://akkartik.name/post/programming-2024</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Building Lego Machines to Destroy Tall Lego Towers]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=41157595 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=41157595 target=_blank>36 comments</a>]]></description>
             <pubDate>2024-08-05T02:02:20Z</pubDate>
             <guid isPermaLink="false">https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers</guid>
             <link>https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Age is a simple, modern and secure file encryption tool, format, and Go library]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=41156793 target=_blank>84 comments</a>]]></description>
-            <pubDate>2024-08-04T22:42:39Z</pubDate>
-            <guid isPermaLink="false">https://github.com/FiloSottile/age</guid>
-            <link>https://github.com/FiloSottile/age</link>
-            
-            
-            
-            <author><![CDATA[gjvc]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Airlines are running out of 4-digit flight numbers]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=41155462 target=_blank>336 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=41155462 target=_blank>342 comments</a>]]></description>
             <pubDate>2024-08-04T18:46:25Z</pubDate>
             <guid isPermaLink="false">https://viewfromthewing.com/airlines-are-running-out-of-flight-numbers-and-they-dont-know-what-to-do-about-it/</guid>
             <link>https://viewfromthewing.com/airlines-are-running-out-of-flight-numbers-and-they-dont-know-what-to-do-about-it/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Age is a simple, modern and secure file encryption tool, format, and Go library]]></title>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=41156793 target=_blank>88 comments</a>]]></description>
+            <pubDate>2024-08-04T22:42:39Z</pubDate>
+            <guid isPermaLink="false">https://github.com/FiloSottile/age</guid>
+            <link>https://github.com/FiloSottile/age</link>
+            
+            
+            
+            <author><![CDATA[gjvc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Apple Intelligence beta flagged a phishing email as "Priority"]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=41159680 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=41159680 target=_blank>144 comments</a>]]></description>
             <pubDate>2024-08-05T10:12:04Z</pubDate>
             <guid isPermaLink="false">https://social.panic.com/@cabel/112905175504595751</guid>
             <link>https://social.panic.com/@cabel/112905175504595751</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[latexr]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Andy Warhol's lost Amiga art found]]></title>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=41162311 target=_blank>47 comments</a>]]></description>
+            <pubDate>2024-08-05T15:33:30Z</pubDate>
+            <guid isPermaLink="false">https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/</guid>
+            <link>https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Cortex A73's Not-So-Infinite Reordering Capacity]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=41156474 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=41156474 target=_blank>39 comments</a>]]></description>
             <pubDate>2024-08-04T21:30:00Z</pubDate>
             <guid isPermaLink="false">https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/</guid>
             <link>https://chipsandcheese.com/2024/08/04/cortex-a73s-not-so-infinite-reordering-capacity/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[ingve]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Uncovered Euripides fragments are 'kind of a big deal']]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=41157192 target=_blank>46 comments</a>]]></description>
-            <pubDate>2024-08-05T00:11:33Z</pubDate>
-            <guid isPermaLink="false">https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal</guid>
-            <link>https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal</link>
-            
-            
-            
-            <author><![CDATA[caf]]></author>
             
                 
             
