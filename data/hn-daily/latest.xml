@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Porting my JavaScript game engine to C for no reason]]></title>
-            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=41154135 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=41154135 target=_blank>99 comments</a>]]></description>
             <pubDate>2024-08-04T15:26:34Z</pubDate>
             <guid isPermaLink="false">https://phoboslab.org/log/2024/08/high_impact</guid>
             <link>https://phoboslab.org/log/2024/08/high_impact</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Starting Hospice]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=41157974 target=_blank>28 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=41157974 target=_blank>29 comments</a>]]></description>
             <pubDate>2024-08-05T03:35:53Z</pubDate>
             <guid isPermaLink="false">https://jakeseliger.com/2024/08/04/starting-hospice-the-end/</guid>
             <link>https://jakeseliger.com/2024/08/04/starting-hospice-the-end/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[WhenFS: Calender Is Now a File System]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=41154616 target=_blank>59 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=41154616 target=_blank>60 comments</a>]]></description>
             <pubDate>2024-08-04T16:35:36Z</pubDate>
             <guid isPermaLink="false">https://github.com/lvkv/whenfs</guid>
             <link>https://github.com/lvkv/whenfs</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Jailbroke my Kindle to use it as an e-ink monitor]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=41154410 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=41154410 target=_blank>99 comments</a>]]></description>
             <pubDate>2024-08-04T16:08:25Z</pubDate>
             <guid isPermaLink="false">https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c</guid>
             <link>https://gist.github.com/adtac/eb639d3c707b55a28f0ee9a420aa7e0c</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[How I Program in 2024]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=41157494 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=41157494 target=_blank>152 comments</a>]]></description>
             <pubDate>2024-08-05T01:28:39Z</pubDate>
             <guid isPermaLink="false">http://akkartik.name/post/programming-2024</guid>
             <link>http://akkartik.name/post/programming-2024</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Self-Compressing Neural Networks]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=41153039 target=_blank>35 comments</a>]]></description>
-            <pubDate>2024-08-04T12:17:16Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2301.13142</guid>
-            <link>https://arxiv.org/abs/2301.13142</link>
-            
-            
-            
-            <author><![CDATA[bilsbie]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Free e-book about WebGPU Programming]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=41156872 target=_blank>19 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41156872 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-08-04T22:56:22Z</pubDate>
             <guid isPermaLink="false">https://shi-yan.github.io/webgpuunleashed/</guid>
             <link>https://shi-yan.github.io/webgpuunleashed/</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Self-Compressing Neural Networks]]></title>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=41153039 target=_blank>36 comments</a>]]></description>
+            <pubDate>2024-08-04T12:17:16Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2301.13142</guid>
+            <link>https://arxiv.org/abs/2301.13142</link>
+            
+            
+            
+            <author><![CDATA[bilsbie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Written by a 16 year old, a book on how computers work]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=41153892 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=41153892 target=_blank>61 comments</a>]]></description>
             <pubDate>2024-08-04T14:48:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/hackclub/RAM-a-thon</guid>
             <link>https://github.com/hackclub/RAM-a-thon</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Praise My GitHub Profile]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=41154560 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=41154560 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-08-04T16:28:22Z</pubDate>
             <guid isPermaLink="false">https://praise-me.fly.dev/</guid>
             <link>https://praise-me.fly.dev/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Belenios: Verifiable online voting system]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=41153158 target=_blank>221 comments</a>]]></description>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41153158 target=_blank>224 comments</a>]]></description>
             <pubDate>2024-08-04T12:41:33Z</pubDate>
             <guid isPermaLink="false">https://www.belenios.org/</guid>
             <link>https://www.belenios.org/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Making your own hot sauce]]></title>
-            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=41154334 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=41154334 target=_blank>116 comments</a>]]></description>
             <pubDate>2024-08-04T15:58:10Z</pubDate>
             <guid isPermaLink="false">https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/</guid>
             <link>https://successfulsoftware.net/2024/08/04/making-your-own-hot-sauce/</link>
