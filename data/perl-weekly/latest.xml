@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #679]]></title>
+        <title><![CDATA[Perl Weekly #680]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[First Batch of LPW 2024 Talks Accepted]]></title>
-            <description><![CDATA[First Batch of LPW 2024 Talks Accepted]]></description>
-            <pubDate>2024.07.27</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lpw/2024/07/first-batch-of-lpw-2024-talks-accepted.html</guid>
-            <link>https://blogs.perl.org/users/lpw/2024/07/first-batch-of-lpw-2024-talks-accepted.html</link>
+            <title><![CDATA[Perl Advent Calendar 2024 CFP]]></title>
+            <description><![CDATA[You are cordially invited to write an article for the 2024 Perl Advent Calendar. The CFP is open until midnight on Friday September 30th EST.]]></description>
+            
+            <guid isPermaLink="false">https://cfp.perladvent.org</guid>
+            <link>https://cfp.perladvent.org</link>
             
             
             
@@ -34,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Quest for Performance Part I : Inline C, OpenMP and the Perl Data Language (PDL)]]></title>
-            <description><![CDATA[The Quest for Performance Part I : Inline C, OpenMP and the Perl Data Language (PDL)]]></description>
-            <pubDate>2024.07.26</pubDate>
-            <guid isPermaLink="false">https://dev.to/chrisarg/the-quest-for-performance-part-i-inline-c-openmp-and-the-perl-data-language-pdl-48be</guid>
-            <link>https://dev.to/chrisarg/the-quest-for-performance-part-i-inline-c-openmp-and-the-perl-data-language-pdl-48be</link>
+            <title><![CDATA[What's new on CPAN - June 2024]]></title>
+            <description><![CDATA[Please checkout the monthly post abput the cool collection of <strong>CPAN</strong> modules. Find out more about the new addition.]]></description>
+            <pubDate>2024.07.21</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/what-s-new-on-cpan-june-2024/</guid>
+            <link>https://www.perl.com/article/what-s-new-on-cpan-june-2024/</link>
             
             
             
-            <author><![CDATA[chrisarg]]></author>
+            <author><![CDATA[mathew_korica]]></author>
             
                 
             
@@ -50,11 +50,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Creating Custom Functions In PostgreSQL]]></title>
-            <description><![CDATA[Creating Custom Functions In PostgreSQL]]></description>
-            <pubDate>2024.07.25</pubDate>
-            <guid isPermaLink="false">https://dev.to/mrpercival/creating-custom-functions-in-postgresql-52bn</guid>
-            <link>https://dev.to/mrpercival/creating-custom-functions-in-postgresql-52bn</link>
+            <title><![CDATA[Deploying Dancer Apps (Addendum)]]></title>
+            <description><![CDATA[This is the second post in continuation to what was discussed in earlier post: <a href="https://perlhacks.com/2024/05/deploying-dancer-apps">Deploying Dancer Apps</a>.]]></description>
+            <pubDate>2024.08.01</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2024/08/deploying-dancer-apps-addendum/</guid>
+            <link>https://perlhacks.com/2024/08/deploying-dancer-apps-addendum/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (154)]]></title>
+            <description><![CDATA[Regular updates from Perl Steering Council. Happy to see the progress report. Thank you all for your time and efforts.]]></description>
+            <pubDate>2024.08.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/08/this-week-in-psc-154-2024-08-01.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/08/this-week-in-psc-154-2024-08-01.html</link>
             
             
             
@@ -66,15 +82,31 @@
         </item>
         
         <item>
-            <title><![CDATA[How I use PostgreSQL's timestamptz fields in my Mojo apps]]></title>
-            <description><![CDATA[How I use PostgreSQL's timestamptz fields in my Mojo apps]]></description>
-            <pubDate>2024.07.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/karjala/2024/07/how-i-use-postgresqls-timestamptz-fields-in-my-mojo-apps.html</guid>
-            <link>https://blogs.perl.org/users/karjala/2024/07/how-i-use-postgresqls-timestamptz-fields-in-my-mojo-apps.html</link>
+            <title><![CDATA[Why Perl Remains Indispensable in the Age of Modern Programming Languages]]></title>
+            <description><![CDATA[An honest opinion and view about Perl. What do you think?]]></description>
+            <pubDate>2024.08.04</pubDate>
+            <guid isPermaLink="false">https://dev.to/fa5tworm/why-perl-remains-indispensable-in-the-age-of-modern-programming-languages-2io0</guid>
+            <link>https://dev.to/fa5tworm/why-perl-remains-indispensable-in-the-age-of-modern-programming-languages-2io0</link>
             
             
             
-            <author><![CDATA[alexander_karelas]]></author>
+            <author><![CDATA[otmane]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2024.31 Mondrianally]]></title>
+            <description><![CDATA[2024.31 Mondrianally]]></description>
+            <pubDate>2024.07.29</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/07/29/2024-31-mondrianally/</guid>
+            <link>https://rakudoweekly.blog/2024/07/29/2024-31-mondrianally/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -83,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/07/dvi-3-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2024.07.28</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/08/dvii-7-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2024.08.04</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -98,11 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Continuous Integration (CI): GitHub Actions for Perl Projects]]></title>
-            <description><![CDATA[August 4, 2024, in Zoom]]></description>
+            <title><![CDATA[Boston.pm monthly meeting]]></title>
+            <description><![CDATA[August 13, 2024, Virtual event]]></description>
             
-            <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/301413566</guid>
-            <link>https://www.meetup.com/code-mavens/events/301413566</link>
+            <guid isPermaLink="false">https://www.meetup.com/boston-pm/events/wvqlzrygclbrb</guid>
+            <link>https://www.meetup.com/boston-pm/events/wvqlzrygclbrb</link>
             
             
             
@@ -119,6 +151,22 @@
             
             <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/301871765/</guid>
             <link>https://www.meetup.com/code-mavens/events/301871765/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Purdue Perl Mongers]]></title>
+            <description><![CDATA[August 14, 2024, Virtual event]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygclbsb/</guid>
+            <link>https://www.meetup.com/hacklafayette/events/jdxwsrygclbsb/</link>
             
             
             
