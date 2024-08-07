@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Please do not attempt to simplify this code]]></title>
-            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=41175586 target=_blank>280 comments</a>]]></description>
+            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=41175586 target=_blank>282 comments</a>]]></description>
             <pubDate>2024-08-06T21:30:12Z</pubDate>
             <guid isPermaLink="false">https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go</guid>
             <link>https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[How French Drains Work]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=41176461 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=41176461 target=_blank>94 comments</a>]]></description>
             <pubDate>2024-08-06T23:07:07Z</pubDate>
             <guid isPermaLink="false">https://practical.engineering/blog/2024/8/6/how-french-drains-work</guid>
             <link>https://practical.engineering/blog/2024/8/6/how-french-drains-work</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: I've spent nearly 5y on a web app that creates 3D apartments]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=41180504 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=41180504 target=_blank>116 comments</a>]]></description>
             <pubDate>2024-08-07T12:03:39Z</pubDate>
             <guid isPermaLink="false">https://roometron.com</guid>
             <link>https://roometron.com</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[YC is doing a first ever Fall batch – applications due by 8/27]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=41174281 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=41174281 target=_blank>150 comments</a>]]></description>
             <pubDate>2024-08-06T19:21:06Z</pubDate>
             <guid isPermaLink="false">https://www.ycombinator.com/blog/yc-fall-2024#</guid>
             <link>https://www.ycombinator.com/blog/yc-fall-2024#</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Tony Hawk's Pro Strcpy]]></title>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=41183115 target=_blank>20 comments</a>]]></description>
+            <pubDate>2024-08-07T16:48:42Z</pubDate>
+            <guid isPermaLink="false">https://icode4.coffee/?p=954</guid>
+            <link>https://icode4.coffee/?p=954</link>
+            
+            
+            
+            <author><![CDATA[ndiddy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How Uber tests payments in production]]></title>
-            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=41178959 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=41178959 target=_blank>102 comments</a>]]></description>
             <pubDate>2024-08-07T07:16:02Z</pubDate>
             <guid isPermaLink="false">https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments</guid>
             <link>https://news.alvaroduran.com/p/cringey-but-true-how-uber-tests-payments</link>
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=41180441 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=41180441 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-08-07T11:56:02Z</pubDate>
             <guid isPermaLink="false">https://www.budgetflow.cc/</guid>
             <link>https://www.budgetflow.cc/</link>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Tony Hawk's Pro Strcpy]]></title>
-            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=41183115 target=_blank>18 comments</a>]]></description>
-            <pubDate>2024-08-07T16:48:42Z</pubDate>
-            <guid isPermaLink="false">https://icode4.coffee/?p=954</guid>
-            <link>https://icode4.coffee/?p=954</link>
+            <title><![CDATA[Official Puppeteer Support for Firefox]]></title>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=41182847 target=_blank>14 comments</a>]]></description>
+            <pubDate>2024-08-07T16:19:06Z</pubDate>
+            <guid isPermaLink="false">https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/</guid>
+            <link>https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/</link>
             
             
             
-            <author><![CDATA[ndiddy]]></author>
+            <author><![CDATA[cpeterso]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[andypiper]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Official Puppeteer Support for Firefox]]></title>
-            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=41182847 target=_blank>10 comments</a>]]></description>
-            <pubDate>2024-08-07T16:19:06Z</pubDate>
-            <guid isPermaLink="false">https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/</guid>
-            <link>https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/</link>
-            
-            
-            
-            <author><![CDATA[cpeterso]]></author>
             
                 
             
