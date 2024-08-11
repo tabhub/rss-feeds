@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[A wonderful coincidence or an expected connection: why π² ≈ g]]></title>
-            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=41208988 target=_blank>264 comments</a>]]></description>
+            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=41208988 target=_blank>267 comments</a>]]></description>
             <pubDate>2024-08-10T12:24:54Z</pubDate>
             <guid isPermaLink="false">https://roitman.io/blog/91</guid>
             <link>https://roitman.io/blog/91</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[OpenSnitch is a GNU/Linux interactive application firewall]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=41209688 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=41209688 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-08-10T14:15:52Z</pubDate>
             <guid isPermaLink="false">https://github.com/evilsocket/opensnitch</guid>
             <link>https://github.com/evilsocket/opensnitch</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[I Created 175 Fonts Using Rust]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=41213053 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=41213053 target=_blank>54 comments</a>]]></description>
             <pubDate>2024-08-10T23:52:44Z</pubDate>
             <guid isPermaLink="false">https://chevyray.dev/blog/creating-175-fonts/</guid>
             <link>https://chevyray.dev/blog/creating-175-fonts/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Things I Won't Work With: Dimethylcadmium (2013)]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=41211540 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=41211540 target=_blank>123 comments</a>]]></description>
             <pubDate>2024-08-10T19:11:39Z</pubDate>
             <guid isPermaLink="false">https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium</guid>
             <link>https://www.science.org/content/blog-post/things-i-won-t-work-dimethylcadmium</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Ladybird browser to start using Swift language this fall]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=41208836 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=41208836 target=_blank>174 comments</a>]]></description>
             <pubDate>2024-08-10T11:52:22Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/awesomekling/status/1822236888188498031</guid>
             <link>https://twitter.com/awesomekling/status/1822236888188498031</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Entropic Engineering DEFCON 32 Statement]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=41212899 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=41212899 target=_blank>74 comments</a>]]></description>
             <pubDate>2024-08-10T23:10:49Z</pubDate>
             <guid isPermaLink="false">https://www.entropicengineering.com/defcon-32-statement</guid>
             <link>https://www.entropicengineering.com/defcon-32-statement</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Pg_replicate – Build Postgres replication applications in Rust]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=41209994 target=_blank>21 comments</a>]]></description>
-            <pubDate>2024-08-10T15:00:41Z</pubDate>
-            <guid isPermaLink="false">https://github.com/supabase/pg_replicate</guid>
-            <link>https://github.com/supabase/pg_replicate</link>
-            
-            
-            
-            <author><![CDATA[imor80]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[OpenStreetMap Is Turning 20]]></title>
-            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=41214259 target=_blank>21 comments</a>]]></description>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=41214259 target=_blank>26 comments</a>]]></description>
             <pubDate>2024-08-11T06:00:17Z</pubDate>
             <guid isPermaLink="false">https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are</guid>
             <link>https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are</link>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[gemanor]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Pg_replicate – Build Postgres replication applications in Rust]]></title>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=41209994 target=_blank>22 comments</a>]]></description>
+            <pubDate>2024-08-10T15:00:41Z</pubDate>
+            <guid isPermaLink="false">https://github.com/supabase/pg_replicate</guid>
+            <link>https://github.com/supabase/pg_replicate</link>
+            
+            
+            
+            <author><![CDATA[imor80]]></author>
             
                 
             
