@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[VanillaJSX.com]]></title>
-            <description><![CDATA[484 points | <a href=https://news.ycombinator.com/item?id=41269321 target=_blank>202 comments</a>]]></description>
-            <pubDate>2024-08-16T19:01:09Z</pubDate>
-            <guid isPermaLink="false">https://vanillajsx.com/</guid>
-            <link>https://vanillajsx.com/</link>
-            
-            
-            
-            <author><![CDATA[novocantico]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google removed Organic Maps from the Play Store]]></title>
-            <description><![CDATA[478 points | <a href=https://news.ycombinator.com/item?id=41272925 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[489 points | <a href=https://news.ycombinator.com/item?id=41272925 target=_blank>176 comments</a>]]></description>
             <pubDate>2024-08-17T09:01:24Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/organicmapsapp/status/1824727403580596260</guid>
             <link>https://twitter.com/organicmapsapp/status/1824727403580596260</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[X ordered to pay €550k to Irish employee fired after yes-or-resign ultimatum]]></title>
-            <description><![CDATA[425 points | <a href=https://news.ycombinator.com/item?id=41272861 target=_blank>352 comments</a>]]></description>
+            <description><![CDATA[427 points | <a href=https://news.ycombinator.com/item?id=41272861 target=_blank>354 comments</a>]]></description>
             <pubDate>2024-08-17T08:46:56Z</pubDate>
             <guid isPermaLink="false">https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/</guid>
             <link>https://fortune.com/europe/2024/08/14/x-ordered-to-pay-550000-to-irish-employee-fired-for-not-replying-to-elon-musk-yes-or-resign-extremely-hardcore-ultimatum/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Increasing Retention Without Increasing Study Time [pdf]]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=41274602 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=41274602 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-08-17T13:53:11Z</pubDate>
             <guid isPermaLink="false">https://files.eric.ed.gov/fulltext/ED505647.pdf</guid>
             <link>https://files.eric.ed.gov/fulltext/ED505647.pdf</link>
@@ -107,6 +91,22 @@
             
             
             <author><![CDATA[JustinSkycak]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Magic Wormhole: get things from one computer to another, safely]]></title>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41275920 target=_blank>80 comments</a>]]></description>
+            <pubDate>2024-08-17T16:59:47Z</pubDate>
+            <guid isPermaLink="false">https://github.com/magic-wormhole/magic-wormhole</guid>
+            <link>https://github.com/magic-wormhole/magic-wormhole</link>
+            
+            
+            
+            <author><![CDATA[tosh]]></author>
             
                 
             
@@ -146,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Magic Wormhole: get things from one computer to another, safely]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=41275920 target=_blank>71 comments</a>]]></description>
-            <pubDate>2024-08-17T16:59:47Z</pubDate>
-            <guid isPermaLink="false">https://github.com/magic-wormhole/magic-wormhole</guid>
-            <link>https://github.com/magic-wormhole/magic-wormhole</link>
+            <title><![CDATA[Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess']]></title>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=41275073 target=_blank>156 comments</a>]]></description>
+            <pubDate>2024-08-17T15:08:40Z</pubDate>
+            <guid isPermaLink="false">https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai</guid>
+            <link>https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai</link>
             
             
             
-            <author><![CDATA[tosh]]></author>
+            <author><![CDATA[stalfosknight]]></author>
             
                 
             
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess']]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=41275073 target=_blank>156 comments</a>]]></description>
-            <pubDate>2024-08-17T15:08:40Z</pubDate>
-            <guid isPermaLink="false">https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai</guid>
-            <link>https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai</link>
-            
-            
-            
-            <author><![CDATA[stalfosknight]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Zngur: A C++/Rust interop tool]]></title>
-            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=41271273 target=_blank>28 comments</a>]]></description>
+            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=41271273 target=_blank>28 comments</a>]]></description>
             <pubDate>2024-08-16T23:27:21Z</pubDate>
             <guid isPermaLink="false">https://hkalbasi.github.io/zngur/</guid>
             <link>https://hkalbasi.github.io/zngur/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[hkalbasi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Xapian: Open source search engine library]]></title>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=41273415 target=_blank>38 comments</a>]]></description>
+            <pubDate>2024-08-17T10:42:54Z</pubDate>
+            <guid isPermaLink="false">https://xapian.org/</guid>
+            <link>https://xapian.org/</link>
+            
+            
+            
+            <author><![CDATA[Bluestein]]></author>
             
                 
             
