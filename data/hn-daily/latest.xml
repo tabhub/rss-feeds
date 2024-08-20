@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[13ft – A site similar to 12ft.io but self-hosted]]></title>
-            <description><![CDATA[582 points | <a href=https://news.ycombinator.com/item?id=41294067 target=_blank>242 comments</a>]]></description>
-            <pubDate>2024-08-19T19:49:22Z</pubDate>
-            <guid isPermaLink="false">https://github.com/wasi-master/13ft</guid>
-            <link>https://github.com/wasi-master/13ft</link>
-            
-            
-            
-            <author><![CDATA[darknavi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Sourcegraph went dark]]></title>
-            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=41296481 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=41296481 target=_blank>149 comments</a>]]></description>
             <pubDate>2024-08-20T03:30:27Z</pubDate>
             <guid isPermaLink="false">https://eric-fritz.com/articles/sourcegraph-went-dark/</guid>
             <link>https://eric-fritz.com/articles/sourcegraph-went-dark/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Toasts Are Bad UX]]></title>
-            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=41298794 target=_blank>245 comments</a>]]></description>
+            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=41298794 target=_blank>246 comments</a>]]></description>
             <pubDate>2024-08-20T10:57:27Z</pubDate>
             <guid isPermaLink="false">https://maxschmitt.me/posts/toasts-bad-ux</guid>
             <link>https://maxschmitt.me/posts/toasts-bad-ux</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[The anatomy of a 2AM mental breakdown]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=41300368 target=_blank>202 comments</a>]]></description>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=41300368 target=_blank>204 comments</a>]]></description>
             <pubDate>2024-08-20T14:25:03Z</pubDate>
             <guid isPermaLink="false">https://zarar.dev/anatomy-of-a-mental-breakdown/</guid>
             <link>https://zarar.dev/anatomy-of-a-mental-breakdown/</link>
@@ -82,8 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[1953 US Navy training film on mechanical computers [video]]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=41299211 target=_blank>95 comments</a>]]></description>
+            <title><![CDATA[Basic Mechanisms In Fire Control Computers (1953) [video]]]></title>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=41299211 target=_blank>96 comments</a>]]></description>
             <pubDate>2024-08-20T12:02:00Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=gwf5mAlI7Ug</guid>
             <link>https://www.youtube.com/watch?v=gwf5mAlI7Ug</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Transformers for Ruby]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=41299148 target=_blank>25 comments</a>]]></description>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=41299148 target=_blank>25 comments</a>]]></description>
             <pubDate>2024-08-20T11:54:07Z</pubDate>
             <guid isPermaLink="false">https://github.com/ankane/transformers-ruby</guid>
             <link>https://github.com/ankane/transformers-ruby</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Pragtical: Practical and pragmatic code editor]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=41297609 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=41297609 target=_blank>91 comments</a>]]></description>
             <pubDate>2024-08-20T07:15:34Z</pubDate>
             <guid isPermaLink="false">https://pragtical.dev/</guid>
             <link>https://pragtical.dev/</link>
@@ -146,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Zed AI]]></title>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=41302782 target=_blank>143 comments</a>]]></description>
+            <pubDate>2024-08-20T18:47:49Z</pubDate>
+            <guid isPermaLink="false">https://zed.dev/blog/zed-ai</guid>
+            <link>https://zed.dev/blog/zed-ai</link>
+            
+            
+            
+            <author><![CDATA[dahjelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Phrack 71]]></title>
             <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=41296949 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-08-20T04:57:50Z</pubDate>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Zed AI]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=41302782 target=_blank>136 comments</a>]]></description>
-            <pubDate>2024-08-20T18:47:49Z</pubDate>
-            <guid isPermaLink="false">https://zed.dev/blog/zed-ai</guid>
-            <link>https://zed.dev/blog/zed-ai</link>
-            
-            
-            
-            <author><![CDATA[dahjelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Fine-tuning now available for GPT-4o]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=41301673 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=41301673 target=_blank>79 comments</a>]]></description>
             <pubDate>2024-08-20T16:50:52Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/gpt-4o-fine-tuning/</guid>
             <link>https://openai.com/index/gpt-4o-fine-tuning/</link>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[davidbarker]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Data Exfiltration from Slack AI via indirect prompt injection]]></title>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=41302597 target=_blank>39 comments</a>]]></description>
+            <pubDate>2024-08-20T18:27:45Z</pubDate>
+            <guid isPermaLink="false">https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via</guid>
+            <link>https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via</link>
+            
+            
+            
+            <author><![CDATA[tprow50]]></author>
             
                 
             
