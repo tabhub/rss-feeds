@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Sourcegraph went dark]]></title>
-            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=41296481 target=_blank>149 comments</a>]]></description>
-            <pubDate>2024-08-20T03:30:27Z</pubDate>
-            <guid isPermaLink="false">https://eric-fritz.com/articles/sourcegraph-went-dark/</guid>
-            <link>https://eric-fritz.com/articles/sourcegraph-went-dark/</link>
-            
-            
-            
-            <author><![CDATA[kaycebasques]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Toasts are bad UX]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=41298794 target=_blank>253 comments</a>]]></description>
+            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=41298794 target=_blank>256 comments</a>]]></description>
             <pubDate>2024-08-20T10:57:27Z</pubDate>
             <guid isPermaLink="false">https://maxschmitt.me/posts/toasts-bad-ux</guid>
             <link>https://maxschmitt.me/posts/toasts-bad-ux</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Sourcegraph went dark]]></title>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=41296481 target=_blank>150 comments</a>]]></description>
+            <pubDate>2024-08-20T03:30:27Z</pubDate>
+            <guid isPermaLink="false">https://eric-fritz.com/articles/sourcegraph-went-dark/</guid>
+            <link>https://eric-fritz.com/articles/sourcegraph-went-dark/</link>
+            
+            
+            
+            <author><![CDATA[kaycebasques]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The anatomy of a 2AM mental breakdown]]></title>
-            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=41300368 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=41300368 target=_blank>212 comments</a>]]></description>
             <pubDate>2024-08-20T14:25:03Z</pubDate>
             <guid isPermaLink="false">https://zarar.dev/anatomy-of-a-mental-breakdown/</guid>
             <link>https://zarar.dev/anatomy-of-a-mental-breakdown/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Basic Mechanisms In Fire Control Computers (1953) [video]]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=41299211 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=41299211 target=_blank>98 comments</a>]]></description>
             <pubDate>2024-08-20T12:02:00Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=gwf5mAlI7Ug</guid>
             <link>https://www.youtube.com/watch?v=gwf5mAlI7Ug</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Transformers for Ruby]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=41299148 target=_blank>26 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=41299148 target=_blank>27 comments</a>]]></description>
             <pubDate>2024-08-20T11:54:07Z</pubDate>
             <guid isPermaLink="false">https://github.com/ankane/transformers-ruby</guid>
             <link>https://github.com/ankane/transformers-ruby</link>
@@ -114,6 +114,38 @@
         </item>
         
         <item>
+            <title><![CDATA[Data Exfiltration from Slack AI via indirect prompt injection]]></title>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=41302597 target=_blank>50 comments</a>]]></description>
+            <pubDate>2024-08-20T18:27:45Z</pubDate>
+            <guid isPermaLink="false">https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via</guid>
+            <link>https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via</link>
+            
+            
+            
+            <author><![CDATA[tprow50]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Zed AI]]></title>
+            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=41302782 target=_blank>149 comments</a>]]></description>
+            <pubDate>2024-08-20T18:47:49Z</pubDate>
+            <guid isPermaLink="false">https://zed.dev/blog/zed-ai</guid>
+            <link>https://zed.dev/blog/zed-ai</link>
+            
+            
+            
+            <author><![CDATA[dahjelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I picked up a shitty NUC from ewaste and it had a label on it for an AI company]]></title>
             <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=41298430 target=_blank>64 comments</a>]]></description>
             <pubDate>2024-08-20T09:45:05Z</pubDate>
@@ -130,40 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Zed AI]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41302782 target=_blank>147 comments</a>]]></description>
-            <pubDate>2024-08-20T18:47:49Z</pubDate>
-            <guid isPermaLink="false">https://zed.dev/blog/zed-ai</guid>
-            <link>https://zed.dev/blog/zed-ai</link>
-            
-            
-            
-            <author><![CDATA[dahjelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Data Exfiltration from Slack AI via indirect prompt injection]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=41302597 target=_blank>47 comments</a>]]></description>
-            <pubDate>2024-08-20T18:27:45Z</pubDate>
-            <guid isPermaLink="false">https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via</guid>
-            <link>https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via</link>
-            
-            
-            
-            <author><![CDATA[tprow50]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Fine-tuning now available for GPT-4o]]></title>
-            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=41301673 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=41301673 target=_blank>80 comments</a>]]></description>
             <pubDate>2024-08-20T16:50:52Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/gpt-4o-fine-tuning/</guid>
             <link>https://openai.com/index/gpt-4o-fine-tuning/</link>
