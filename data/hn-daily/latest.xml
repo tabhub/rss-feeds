@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Toasts are bad UX]]></title>
-            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=41298794 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=41298794 target=_blank>287 comments</a>]]></description>
             <pubDate>2024-08-20T10:57:27Z</pubDate>
             <guid isPermaLink="false">https://maxschmitt.me/posts/toasts-bad-ux</guid>
             <link>https://maxschmitt.me/posts/toasts-bad-ux</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Sourcegraph went dark]]></title>
-            <description><![CDATA[376 points | <a href=https://news.ycombinator.com/item?id=41296481 target=_blank>151 comments</a>]]></description>
+            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=41296481 target=_blank>155 comments</a>]]></description>
             <pubDate>2024-08-20T03:30:27Z</pubDate>
             <guid isPermaLink="false">https://eric-fritz.com/articles/sourcegraph-went-dark/</guid>
             <link>https://eric-fritz.com/articles/sourcegraph-went-dark/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The anatomy of a 2AM mental breakdown]]></title>
-            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=41300368 target=_blank>232 comments</a>]]></description>
+            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=41300368 target=_blank>233 comments</a>]]></description>
             <pubDate>2024-08-20T14:25:03Z</pubDate>
             <guid isPermaLink="false">https://zarar.dev/anatomy-of-a-mental-breakdown/</guid>
             <link>https://zarar.dev/anatomy-of-a-mental-breakdown/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Data Exfiltration from Slack AI via indirect prompt injection]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=41302597 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=41302597 target=_blank>93 comments</a>]]></description>
             <pubDate>2024-08-20T18:27:45Z</pubDate>
             <guid isPermaLink="false">https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via</guid>
             <link>https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[MIT leaders describe the experience of not renewing Elsevier contract]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=41303159 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=41303159 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-08-20T19:27:52Z</pubDate>
             <guid isPermaLink="false">https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/</guid>
             <link>https://sparcopen.org/our-work/big-deal-knowledge-base/unbundling-profiles/mit-libraries/</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Zed AI]]></title>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=41302782 target=_blank>201 comments</a>]]></description>
+            <pubDate>2024-08-20T18:47:49Z</pubDate>
+            <guid isPermaLink="false">https://zed.dev/blog/zed-ai</guid>
+            <link>https://zed.dev/blog/zed-ai</link>
+            
+            
+            
+            <author><![CDATA[dahjelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Basic Mechanisms In Fire Control Computers (1953) [video]]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=41299211 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=41299211 target=_blank>103 comments</a>]]></description>
             <pubDate>2024-08-20T12:02:00Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=gwf5mAlI7Ug</guid>
             <link>https://www.youtube.com/watch?v=gwf5mAlI7Ug</link>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Transformers for Ruby]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=41299148 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=41299148 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-08-20T11:54:07Z</pubDate>
             <guid isPermaLink="false">https://github.com/ankane/transformers-ruby</guid>
             <link>https://github.com/ankane/transformers-ruby</link>
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Zed AI]]></title>
-            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=41302782 target=_blank>187 comments</a>]]></description>
-            <pubDate>2024-08-20T18:47:49Z</pubDate>
-            <guid isPermaLink="false">https://zed.dev/blog/zed-ai</guid>
-            <link>https://zed.dev/blog/zed-ai</link>
-            
-            
-            
-            <author><![CDATA[dahjelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Pragtical: Practical and pragmatic code editor]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=41297609 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=41297609 target=_blank>94 comments</a>]]></description>
             <pubDate>2024-08-20T07:15:34Z</pubDate>
             <guid isPermaLink="false">https://pragtical.dev/</guid>
             <link>https://pragtical.dev/</link>
@@ -162,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Artificial intelligence is losing hype]]></title>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=41295923 target=_blank>321 comments</a>]]></description>
+            <pubDate>2024-08-20T01:13:23Z</pubDate>
+            <guid isPermaLink="false">https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype</guid>
+            <link>https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype</link>
+            
+            
+            
+            <author><![CDATA[bx376]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Fine-tuning now available for GPT-4o]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=41301673 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=41301673 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-08-20T16:50:52Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/gpt-4o-fine-tuning/</guid>
             <link>https://openai.com/index/gpt-4o-fine-tuning/</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[I picked up a shitty NUC from ewaste and it had a label on it for an AI company]]></title>
-            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=41298430 target=_blank>64 comments</a>]]></description>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=41298430 target=_blank>64 comments</a>]]></description>
             <pubDate>2024-08-20T09:45:05Z</pubDate>
             <guid isPermaLink="false">https://digipres.club/@foone/112990331505043510</guid>
             <link>https://digipres.club/@foone/112990331505043510</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[chx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Phrack 71]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=41296949 target=_blank>21 comments</a>]]></description>
-            <pubDate>2024-08-20T04:57:50Z</pubDate>
-            <guid isPermaLink="false">http://phrack.org/issues/71/1.html</guid>
-            <link>http://phrack.org/issues/71/1.html</link>
-            
-            
-            
-            <author><![CDATA[ghostway]]></author>
             
                 
             
