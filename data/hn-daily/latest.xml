@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: InstantDB – A Modern Firebase]]></title>
-            <description><![CDATA[742 points | <a href=https://news.ycombinator.com/item?id=41322281 target=_blank>173 comments</a>]]></description>
+            <description><![CDATA[753 points | <a href=https://news.ycombinator.com/item?id=41322281 target=_blank>175 comments</a>]]></description>
             <pubDate>2024-08-22T17:08:50Z</pubDate>
             <guid isPermaLink="false">https://github.com/instantdb/instant</guid>
             <link>https://github.com/instantdb/instant</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[What is an SBAT and why does everyone suddenly care]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=41318222 target=_blank>204 comments</a>]]></description>
-            <pubDate>2024-08-22T09:11:10Z</pubDate>
-            <guid isPermaLink="false">https://mjg59.dreamwidth.org/70348.html</guid>
-            <link>https://mjg59.dreamwidth.org/70348.html</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Continuous reinvention: A brief history of block storage at AWS]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=41321063 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=41321063 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-08-22T14:59:14Z</pubDate>
             <guid isPermaLink="false">https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html</guid>
             <link>https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Python's Preprocessor]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=41322758 target=_blank>63 comments</a>]]></description>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=41322758 target=_blank>64 comments</a>]]></description>
             <pubDate>2024-08-22T17:54:25Z</pubDate>
             <guid isPermaLink="false">https://pydong.org/posts/PythonsPreprocessor/</guid>
             <link>https://pydong.org/posts/PythonsPreprocessor/</link>
@@ -82,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: A Ghidra extension for exporting parts of a program as object files]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=41318133 target=_blank>33 comments</a>]]></description>
-            <pubDate>2024-08-22T08:54:44Z</pubDate>
-            <guid isPermaLink="false">https://github.com/boricj/ghidra-delinker-extension</guid>
-            <link>https://github.com/boricj/ghidra-delinker-extension</link>
-            
-            
-            
-            <author><![CDATA[boricj]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Aerc: A well-crafted TUI for email]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=41321981 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=41321981 target=_blank>131 comments</a>]]></description>
             <pubDate>2024-08-22T16:34:30Z</pubDate>
             <guid isPermaLink="false">https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/</guid>
             <link>https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/</link>
@@ -115,7 +83,7 @@
         
         <item>
             <title><![CDATA[No "Hello", No "Quick Call", and No Meetings Without an Agenda]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=41318408 target=_blank>257 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=41318408 target=_blank>259 comments</a>]]></description>
             <pubDate>2024-08-22T09:46:32Z</pubDate>
             <guid isPermaLink="false">https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/</guid>
             <link>https://switowski.com/blog/no-hello-no-quick-call-no-agendaless-meetings/</link>
@@ -131,7 +99,7 @@
         
         <item>
             <title><![CDATA[Government report proves that we need to liberate the Postcode Address File]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=41326604 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=41326604 target=_blank>124 comments</a>]]></description>
             <pubDate>2024-08-23T06:36:29Z</pubDate>
             <guid isPermaLink="false">https://takes.jamesomalley.co.uk/p/secret-paf-report</guid>
             <link>https://takes.jamesomalley.co.uk/p/secret-paf-report</link>
@@ -178,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Claude's API now supports CORS requests, enabling client-side applications]]></title>
+            <description><![CDATA[114 points | <a href=https://news.ycombinator.com/item?id=41325889 target=_blank>58 comments</a>]]></description>
+            <pubDate>2024-08-23T03:05:33Z</pubDate>
+            <guid isPermaLink="false">https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/</guid>
+            <link>https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/</link>
+            
+            
+            
+            <author><![CDATA[simonw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Peloton to charge $95 activation fee for used bikes]]></title>
             <description><![CDATA[112 points | <a href=https://news.ycombinator.com/item?id=41322266 target=_blank>153 comments</a>]]></description>
             <pubDate>2024-08-22T17:06:31Z</pubDate>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[refset]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Semaglutide like Ozempic burn visceral fat, don't just suppress appetite]]></title>
+            <description><![CDATA[89 points | <a href=https://news.ycombinator.com/item?id=41326138 target=_blank>84 comments</a>]]></description>
+            <pubDate>2024-08-23T04:18:35Z</pubDate>
+            <guid isPermaLink="false">https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126</guid>
+            <link>https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24126</link>
+            
+            
+            
+            <author><![CDATA[gumby]]></author>
             
                 
             
