@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Internet Archive has lost its appeal in Hachette vs. Internet Archive]]></title>
-            <description><![CDATA[904 points | <a href=https://news.ycombinator.com/item?id=41447758 target=_blank>676 comments</a>]]></description>
-            <pubDate>2024-09-04T16:41:50Z</pubDate>
-            <guid isPermaLink="false">https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf</guid>
-            <link>https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf</link>
-            
-            
-            
-            <author><![CDATA[Signez]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Dynamicland 2024]]></title>
             <description><![CDATA[535 points | <a href=https://news.ycombinator.com/item?id=41448022 target=_blank>164 comments</a>]]></description>
             <pubDate>2024-09-04T17:02:14Z</pubDate>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[CSS @property and the new style]]></title>
-            <description><![CDATA[501 points | <a href=https://news.ycombinator.com/item?id=41448740 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[503 points | <a href=https://news.ycombinator.com/item?id=41448740 target=_blank>160 comments</a>]]></description>
             <pubDate>2024-09-04T18:13:51Z</pubDate>
             <guid isPermaLink="false">https://ryanmulligan.dev/blog/css-property-new-style/</guid>
             <link>https://ryanmulligan.dev/blog/css-property-new-style/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: An open-source implementation of AlphaFold3]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=41448439 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=41448439 target=_blank>33 comments</a>]]></description>
             <pubDate>2024-09-04T17:44:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/Ligo-Biosciences/AlphaFold3</guid>
             <link>https://github.com/Ligo-Biosciences/AlphaFold3</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Amazon bans its drivers from moving their own lips too much at work]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=41448866 target=_blank>261 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=41448866 target=_blank>261 comments</a>]]></description>
             <pubDate>2024-09-04T18:24:58Z</pubDate>
             <guid isPermaLink="false">https://www.freightwaves.com/news/should-truckers-be-allowed-to-sing-along-with-the-radio</guid>
             <link>https://www.freightwaves.com/news/should-truckers-be-allowed-to-sing-along-with-the-radio</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Yi-Coder: A Small but Mighty LLM for Code]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=41453237 target=_blank>76 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=41453237 target=_blank>77 comments</a>]]></description>
             <pubDate>2024-09-05T03:38:29Z</pubDate>
             <guid isPermaLink="false">https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md</guid>
             <link>https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=41451698 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=41451698 target=_blank>32 comments</a>]]></description>
             <pubDate>2024-09-04T22:52:19Z</pubDate>
             <guid isPermaLink="false">https://github.com/lmnr-ai/lmnr</guid>
             <link>https://github.com/lmnr-ai/lmnr</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Lesser known parts of Python standard library]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=41450824 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=41450824 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-09-04T21:07:05Z</pubDate>
             <guid isPermaLink="false">https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/</guid>
             <link>https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/</link>
@@ -171,6 +155,22 @@
             
             
             <author><![CDATA[rbanffy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tinystatus: A tiny status page generated by a Python script]]></title>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=41452339 target=_blank>43 comments</a>]]></description>
+            <pubDate>2024-09-05T00:40:25Z</pubDate>
+            <guid isPermaLink="false">https://github.com/harsxv/tinystatus</guid>
+            <link>https://github.com/harsxv/tinystatus</link>
+            
+            
+            
+            <author><![CDATA[harsxv]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Building a WoW (World of Warcraft) Server in Elixir]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=41454741 target=_blank>37 comments</a>]]></description>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=41454741 target=_blank>37 comments</a>]]></description>
             <pubDate>2024-09-05T08:36:56Z</pubDate>
             <guid isPermaLink="false">https://pikdum.dev/posts/thistle-tea/</guid>
             <link>https://pikdum.dev/posts/thistle-tea/</link>
