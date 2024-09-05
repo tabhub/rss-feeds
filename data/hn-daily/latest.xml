@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Kagi Assistant]]></title>
-            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=41448985 target=_blank>220 comments</a>]]></description>
-            <pubDate>2024-09-04T18:35:53Z</pubDate>
-            <guid isPermaLink="false">https://blog.kagi.com/announcing-assistant</guid>
-            <link>https://blog.kagi.com/announcing-assistant</link>
-            
-            
-            
-            <author><![CDATA[darthShadow]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Yi-Coder: A Small but Mighty LLM for Code]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=41453237 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=41453237 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-09-05T03:38:29Z</pubDate>
             <guid isPermaLink="false">https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md</guid>
             <link>https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Lesser known parts of Python standard library]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=41450824 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=41450824 target=_blank>101 comments</a>]]></description>
             <pubDate>2024-09-04T21:07:05Z</pubDate>
             <guid isPermaLink="false">https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/</guid>
             <link>https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Porting systemd to musl Libc-powered Linux]]></title>
-            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=41454779 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=41454779 target=_blank>150 comments</a>]]></description>
             <pubDate>2024-09-05T08:44:58Z</pubDate>
             <guid isPermaLink="false">https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/</guid>
             <link>https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Building a WoW (World of Warcraft) Server in Elixir]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=41454741 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=41454741 target=_blank>39 comments</a>]]></description>
             <pubDate>2024-09-05T08:36:56Z</pubDate>
             <guid isPermaLink="false">https://pikdum.dev/posts/thistle-tea/</guid>
             <link>https://pikdum.dev/posts/thistle-tea/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Accelerando (2005)]]></title>
-            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=41452962 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=41452962 target=_blank>91 comments</a>]]></description>
             <pubDate>2024-09-05T02:33:55Z</pubDate>
             <guid isPermaLink="false">https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html</guid>
             <link>https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[AlphaProteo generates novel proteins for biology and health research]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41457331 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=41457331 target=_blank>55 comments</a>]]></description>
             <pubDate>2024-09-05T15:05:49Z</pubDate>
             <guid isPermaLink="false">https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</guid>
             <link>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[meetpateltech]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Desed: Demystify and debug your sed scripts]]></title>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=41453557 target=_blank>48 comments</a>]]></description>
+            <pubDate>2024-09-05T04:46:59Z</pubDate>
+            <guid isPermaLink="false">https://github.com/SoptikHa2/desed</guid>
+            <link>https://github.com/SoptikHa2/desed</link>
+            
+            
+            
+            <author><![CDATA[asicsp]]></author>
             
                 
             
