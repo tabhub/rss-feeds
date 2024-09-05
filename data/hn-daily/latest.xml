@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Yi-Coder: A Small but Mighty LLM for Code]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=41453237 target=_blank>91 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=41453237 target=_blank>92 comments</a>]]></description>
             <pubDate>2024-09-05T03:38:29Z</pubDate>
             <guid isPermaLink="false">https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md</guid>
             <link>https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md</link>
@@ -34,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[UE5 Nanite in WebGPU]]></title>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=41458987 target=_blank>65 comments</a>]]></description>
+            <pubDate>2024-09-05T17:55:59Z</pubDate>
+            <guid isPermaLink="false">https://github.com/Scthe/nanite-webgpu</guid>
+            <link>https://github.com/Scthe/nanite-webgpu</link>
+            
+            
+            
+            <author><![CDATA[vouwfietsman]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[AlphaProteo generates novel proteins for biology and health research]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=41457331 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=41457331 target=_blank>65 comments</a>]]></description>
             <pubDate>2024-09-05T15:05:49Z</pubDate>
             <guid isPermaLink="false">https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</guid>
             <link>https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</link>
@@ -67,7 +83,7 @@
         
         <item>
             <title><![CDATA[Lesser known parts of Python standard library]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=41450824 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=41450824 target=_blank>105 comments</a>]]></description>
             <pubDate>2024-09-04T21:07:05Z</pubDate>
             <guid isPermaLink="false">https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/</guid>
             <link>https://www.trickster.dev/post/lesser-known-parts-of-python-standard-library/</link>
@@ -75,22 +91,6 @@
             
             
             <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[UE5 Nanite in WebGPU]]></title>
-            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=41458987 target=_blank>63 comments</a>]]></description>
-            <pubDate>2024-09-05T17:55:59Z</pubDate>
-            <guid isPermaLink="false">https://github.com/Scthe/nanite-webgpu</guid>
-            <link>https://github.com/Scthe/nanite-webgpu</link>
-            
-            
-            
-            <author><![CDATA[vouwfietsman]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Show HN: AnythingLLM – Open-Source, All-in-One Desktop AI Assistant]]></title>
-            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=41457633 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=41457633 target=_blank>46 comments</a>]]></description>
             <pubDate>2024-09-05T15:40:45Z</pubDate>
             <guid isPermaLink="false">https://github.com/Mintplex-Labs/anything-llm</guid>
             <link>https://github.com/Mintplex-Labs/anything-llm</link>
