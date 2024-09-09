@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[QUIC is not quick enough over fast internet]]></title>
-            <description><![CDATA[525 points | <a href=https://news.ycombinator.com/item?id=41484991 target=_blank>242 comments</a>]]></description>
+            <description><![CDATA[530 points | <a href=https://news.ycombinator.com/item?id=41484991 target=_blank>243 comments</a>]]></description>
             <pubDate>2024-09-09T02:34:15Z</pubDate>
             <guid isPermaLink="false">https://dl.acm.org/doi/10.1145/3589334.3645323</guid>
             <link>https://dl.acm.org/doi/10.1145/3589334.3645323</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Reclaim the Stack]]></title>
-            <description><![CDATA[434 points | <a href=https://news.ycombinator.com/item?id=41483675 target=_blank>266 comments</a>]]></description>
+            <description><![CDATA[443 points | <a href=https://news.ycombinator.com/item?id=41483675 target=_blank>274 comments</a>]]></description>
             <pubDate>2024-09-08T22:11:02Z</pubDate>
             <guid isPermaLink="false">https://reclaim-the-stack.com</guid>
             <link>https://reclaim-the-stack.com</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Serving AI from the Basement – 192GB of VRAM Setup]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=41481852 target=_blank>236 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=41481852 target=_blank>238 comments</a>]]></description>
             <pubDate>2024-09-08T17:47:44Z</pubDate>
             <guid isPermaLink="false">https://ahmadosman.com/blog/serving-ai-from-basement/</guid>
             <link>https://ahmadosman.com/blog/serving-ai-from-basement/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Core: an experimental new way to write videogames]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=41482060 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=41482060 target=_blank>178 comments</a>]]></description>
             <pubDate>2024-09-08T18:21:00Z</pubDate>
             <guid isPermaLink="false">https://github.com/damn/core</guid>
             <link>https://github.com/damn/core</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Charging lithium-ion batteries at high currents first increases lifespan by 50%]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=41483654 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=41483654 target=_blank>94 comments</a>]]></description>
             <pubDate>2024-09-08T22:06:44Z</pubDate>
             <guid isPermaLink="false">https://www.eurekalert.org/news-releases/1056171</guid>
             <link>https://www.eurekalert.org/news-releases/1056171</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Sleep duration, chronotype, health and lifestyle factors affect cognition [pdf]]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=41483434 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=41483434 target=_blank>147 comments</a>]]></description>
             <pubDate>2024-09-08T21:37:12Z</pubDate>
             <guid isPermaLink="false">https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf</guid>
             <link>https://bmjpublichealth.bmj.com/content/bmjph/2/1/e001000.full.pdf</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[The Fennel Programming Language]]></title>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=41483216 target=_blank>64 comments</a>]]></description>
+            <pubDate>2024-09-08T21:06:40Z</pubDate>
+            <guid isPermaLink="false">https://fennel-lang.org/</guid>
+            <link>https://fennel-lang.org/</link>
+            
+            
+            
+            <author><![CDATA[tosh]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Confirmed: Reflection 70B's official API is a wrapper for Sonnet 3.5]]></title>
             <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=41484981 target=_blank>56 comments</a>]]></description>
             <pubDate>2024-09-09T02:30:54Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Fennel Programming Language]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=41483216 target=_blank>62 comments</a>]]></description>
-            <pubDate>2024-09-08T21:06:40Z</pubDate>
-            <guid isPermaLink="false">https://fennel-lang.org/</guid>
-            <link>https://fennel-lang.org/</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[ATProto for distributed system engineers]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41484337 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41484337 target=_blank>50 comments</a>]]></description>
             <pubDate>2024-09-09T00:04:01Z</pubDate>
             <guid isPermaLink="false">https://atproto.com/articles/atproto-for-distsys-engineers</guid>
             <link>https://atproto.com/articles/atproto-for-distsys-engineers</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Htmx, Raku and Pico CSS]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=41482679 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=41482679 target=_blank>129 comments</a>]]></description>
             <pubDate>2024-09-08T19:51:20Z</pubDate>
             <guid isPermaLink="false">https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/</guid>
             <link>https://rakujourney.wordpress.com/2024/09/08/htmx-raku-and-pico-css/</link>
