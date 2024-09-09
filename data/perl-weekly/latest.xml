@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #684]]></title>
+        <title><![CDATA[Perl Weekly #685]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,27 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[LPW 2024 Will Have A Third Track]]></title>
-            <description><![CDATA[We now have a third track, wohooo. Please do come and experience the positive energy.]]></description>
-            <pubDate>2024.08.24</pubDate>
-            <guid isPermaLink="false">https://act.yapc.eu/lpw2024/news/1704</guid>
-            <link>https://act.yapc.eu/lpw2024/news/1704</link>
-            
-            
-            
-            <author><![CDATA[lee_johnson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[YAPC::Hakodate 2024]]></title>
-            <description><![CDATA[Tickets for the event are on sale. If you are planning to attend then get your ticket before it is too late.]]></description>
-            <pubDate>2024.08.29</pubDate>
-            <guid isPermaLink="false">https://yapcjapan.org/2024hakodate/</guid>
-            <link>https://yapcjapan.org/2024hakodate/</link>
+            <title><![CDATA[SlapbirdAPM now generically supports DBI!]]></title>
+            <description><![CDATA[SlapbirdAPM is an open-source Perl application performance monitor.]]></description>
+            <pubDate>2024.09</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1famad3/slapbirdapm_now_generically_supports_dbi/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1famad3/slapbirdapm_now_generically_supports_dbi/</link>
             
             
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[What's new on CPAN - July 2024]]></title>
-            <description><![CDATA[See what's new on <strong>CPAN</strong> last month. Who knows you might find something usefull in it.]]></description>
-            <pubDate>2024.08.26</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/what-s-new-on-cpan-july-2024/</guid>
-            <link>https://www.perl.com/article/what-s-new-on-cpan-july-2024/</link>
+            <title><![CDATA[App::cp ]]></title>
+            <description><![CDATA[App::cpx, a npx-like for CPAN, for Perl developers who also need to do front-end.]]></description>
+            <pubDate>2024.09.05</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/appcpx-1ilf</guid>
+            <link>https://dev.to/thibaultduponchelle/appcpx-1ilf</link>
             
             
             
-            <author><![CDATA[mathew_korica]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[On the [b]leading edge]]></title>
-            <description><![CDATA[Are you one of those, who wants to play on bleading edge? If yes then checkout this masterpiece.]]></description>
-            <pubDate>2024.08.29</pubDate>
-            <guid isPermaLink="false">https://dev.to/davorg/on-the-bleading-edge-1olf</guid>
-            <link>https://dev.to/davorg/on-the-bleading-edge-1olf</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[thibault_duponchelle]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[I'm Still Lazy]]></title>
-            <description><![CDATA[Do you consider yourself lazy? Nothing wrong to be a lazy programmer. Please checkout this handy tool named <strong>"lazy"</strong>.]]></description>
-            <pubDate>2024.08.28</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2024/08/28/i-am-still-lazy/</guid>
-            <link>https://www.olafalders.com/2024/08/28/i-am-still-lazy/</link>
+            <title><![CDATA[Perl wiki updated, 4 other wikis uploaded - Take 4]]></title>
+            <description><![CDATA[Perl wiki updated, 4 other wikis uploaded - Take 4]]></description>
+            <pubDate>2024.09.05</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2024/09/perl-wiki-updated-4-other-wikis-uploaded---take-3.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2024/09/perl-wiki-updated-4-other-wikis-uploaded---take-3.html</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PerlOnJava - Perl Compiler Under Development]]></title>
-            <description><![CDATA[If you are Perl programmer and wants the flexibility of running on JVM then you should give it a go.]]></description>
-            <pubDate>2024.08.29</pubDate>
-            <guid isPermaLink="false">https://github.com/fglock/PerlOnJava</guid>
-            <link>https://github.com/fglock/PerlOnJava</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -114,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Why We Sponsor MetaCPAN: OpenCage]]></title>
-            <description><![CDATA[Ed sharing the reason behind sponsoring MetaCPAN.]]></description>
-            <pubDate>2024.08.12</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/why-we-sponsor-metacpan-opencage</guid>
-            <link>https://www.perl.com/article/why-we-sponsor-metacpan-opencage</link>
+            <title><![CDATA[Perl wiki updated, 4 other wikis uploaded - Take 2]]></title>
+            <description><![CDATA[Perl wiki updated, 4 other wikis uploaded - Take 2]]></description>
+            <pubDate>2024.09.05</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2024/09/perl-wiki-updated-4-other-wikis-uploaded---take-2.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2024/09/perl-wiki-updated-4-other-wikis-uploaded---take-2.html</link>
             
             
             
-            <author><![CDATA[ed_freyfogle]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -130,15 +82,47 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.35 Cro 💍 HTMX]]></title>
-            <description><![CDATA[2024.35 Cro 💍 HTMX]]></description>
-            <pubDate>2024.08.26</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/08/26/2024-35-cro-%f0%9f%92%8d-htmx/</guid>
-            <link>https://rakudoweekly.blog/2024/08/26/2024-35-cro-%f0%9f%92%8d-htmx/</link>
+            <title><![CDATA[Just released the latest version of String::Util]]></title>
+            <description><![CDATA[Every project ends up with the junk drawer module of the special string processing it needs.]]></description>
+            <pubDate>2024.09.05</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1f9ba6m/just_released_the_latest_version_of_stringutil/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1f9ba6m/just_released_the_latest_version_of_stringutil/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[brian_d_foy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GIST: sorting semantic versioned Git tags]]></title>
+            <description><![CDATA[GIST: sorting semantic versioned Git tags]]></description>
+            <pubDate>2024.09.04</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/gist-sorting-semantic-versioned-git-tags-191e</guid>
+            <link>https://dev.to/jonasbn/gist-sorting-semantic-versioned-git-tags-191e</link>
+            
+            
+            
+            <author><![CDATA[jonas_nielsen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FreePublicPerlAPIs Update: 10 new CPAN modules from 3 Authors, more on the way. 290 to go!]]></title>
+            <description><![CDATA[FreePublicPerlAPIs Update: 10 new CPAN modules from 3 Authors, more on the way. 290 to go!]]></description>
+            <pubDate>2024.09.08</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1fbnobu/freepublicperlapis_update_10_new_cpan_modules/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1fbnobu/freepublicperlapis_update_10_new_cpan_modules/</link>
+            
+            
+            
+            <author><![CDATA[oodler]]></author>
             
                 
             
@@ -147,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/08/dxi-15-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2024.08.31</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/09/dxii-19-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.09.09</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
