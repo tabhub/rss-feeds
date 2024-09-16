@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #685]]></title>
+        <title><![CDATA[Perl Weekly #686]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[SlapbirdAPM now generically supports DBI!]]></title>
-            <description><![CDATA[SlapbirdAPM is an open-source Perl application performance monitor.]]></description>
-            <pubDate>2024.09</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1famad3/slapbirdapm_now_generically_supports_dbi/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1famad3/slapbirdapm_now_generically_supports_dbi/</link>
+            <title><![CDATA[Dates and location have been set for TPRC 2025!]]></title>
+            <description><![CDATA[For all Perl and Raku fans, the venue for TPRC 2025 is declared finally.]]></description>
+            <pubDate>2024.09.09</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/dates_set_tprc_2025</guid>
+            <link>https://news.perlfoundation.org/post/dates_set_tprc_2025</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[App::cp ]]></title>
-            <description><![CDATA[App::cpx, a npx-like for CPAN, for Perl developers who also need to do front-end.]]></description>
-            <pubDate>2024.09.05</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/appcpx-1ilf</guid>
-            <link>https://dev.to/thibaultduponchelle/appcpx-1ilf</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
+            <author><![CDATA[ruth_bavousett]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl wiki updated, 4 other wikis uploaded - Take 4]]></title>
-            <description><![CDATA[Perl wiki updated, 4 other wikis uploaded - Take 4]]></description>
-            <pubDate>2024.09.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2024/09/perl-wiki-updated-4-other-wikis-uploaded---take-3.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2024/09/perl-wiki-updated-4-other-wikis-uploaded---take-3.html</link>
+            <title><![CDATA[TPRC 2024 after action report]]></title>
+            <description><![CDATA[We now have feedback for TPRC 2024 as shared by TPF.]]></description>
+            <pubDate>2024.09.11</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/2024tprc</guid>
+            <link>https://news.perlfoundation.org/post/2024tprc</link>
             
             
             
-            <author><![CDATA[ron_savage]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl wiki updated, 4 other wikis uploaded - Take 2]]></title>
-            <description><![CDATA[Perl wiki updated, 4 other wikis uploaded - Take 2]]></description>
-            <pubDate>2024.09.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2024/09/perl-wiki-updated-4-other-wikis-uploaded---take-2.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2024/09/perl-wiki-updated-4-other-wikis-uploaded---take-2.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[amber_krawczyk]]></author>
             
                 
             
@@ -82,47 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Just released the latest version of String::Util]]></title>
-            <description><![CDATA[Every project ends up with the junk drawer module of the special string processing it needs.]]></description>
-            <pubDate>2024.09.05</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1f9ba6m/just_released_the_latest_version_of_stringutil/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1f9ba6m/just_released_the_latest_version_of_stringutil/</link>
+            <title><![CDATA[2024.37 Rainbow Highlighting]]></title>
+            <description><![CDATA[2024.37 Rainbow Highlighting]]></description>
+            <pubDate>2024.09.10</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/09/10/2024-37-rainbow-highlighting/</guid>
+            <link>https://rakudoweekly.blog/2024/09/10/2024-37-rainbow-highlighting/</link>
             
             
             
-            <author><![CDATA[brian_d_foy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GIST: sorting semantic versioned Git tags]]></title>
-            <description><![CDATA[GIST: sorting semantic versioned Git tags]]></description>
-            <pubDate>2024.09.04</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/gist-sorting-semantic-versioned-git-tags-191e</guid>
-            <link>https://dev.to/jonasbn/gist-sorting-semantic-versioned-git-tags-191e</link>
-            
-            
-            
-            <author><![CDATA[jonas_nielsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FreePublicPerlAPIs Update: 10 new CPAN modules from 3 Authors, more on the way. 290 to go!]]></title>
-            <description><![CDATA[FreePublicPerlAPIs Update: 10 new CPAN modules from 3 Authors, more on the way. 290 to go!]]></description>
-            <pubDate>2024.09.08</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1fbnobu/freepublicperlapis_update_10_new_cpan_modules/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1fbnobu/freepublicperlapis_update_10_new_cpan_modules/</link>
-            
-            
-            
-            <author><![CDATA[oodler]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -131,8 +67,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/09/dxii-19-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.09.09</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/09/dxiii-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/09/dxc-metacpan-weekly-report-lazy.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/09/dcxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.09.14</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -146,11 +82,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Boston.pm monthly meeting]]></title>
-            <description><![CDATA[September 10, 2024, Virtual event]]></description>
+            <title><![CDATA[Toronto Perl Mongers monthly meeting]]></title>
+            <description><![CDATA[September 26, 2024, Virtual event]]></description>
             
-            <guid isPermaLink="false">https://www.meetup.com/boston-pm/events/wvqlzrygcmbnb</guid>
-            <link>https://www.meetup.com/boston-pm/events/wvqlzrygcmbnb</link>
+            <guid isPermaLink="false">https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcmbjc/</guid>
+            <link>https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcmbjc/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston.pm monthly meeting]]></title>
+            <description><![CDATA[October 8, 2024, Virtual event]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/boston-pm/events/wvqlzrygcnblb</guid>
+            <link>https://www.meetup.com/boston-pm/events/wvqlzrygcnblb</link>
             
             
             
@@ -163,26 +115,10 @@
         
         <item>
             <title><![CDATA[Purdue Perl Mongers]]></title>
-            <description><![CDATA[September 11, 2024, Virtual event]]></description>
+            <description><![CDATA[October 09, 2024, Virtual event]]></description>
             
-            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygcmbpb/</guid>
-            <link>https://www.meetup.com/hacklafayette/events/jdxwsrygcmbpb/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toronto Perl Mongers monthly meeting]]></title>
-            <description><![CDATA[September 26, 2024, Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcmbjc/</guid>
-            <link>https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcmbjc/</link>
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygcnbmb/</guid>
+            <link>https://www.meetup.com/hacklafayette/events/jdxwsrygcnbmb/</link>
             
             
             
