@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit]]></title>
-            <description><![CDATA[463 points | <a href=https://news.ycombinator.com/item?id=41600756 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=41600756 target=_blank>110 comments</a>]]></description>
             <pubDate>2024-09-20T11:04:15Z</pubDate>
             <guid isPermaLink="false">https://dmitry.gr/?r=05.Projects&#38;proj=35.%20Linux4004</guid>
             <link>https://dmitry.gr/?r=05.Projects&#38;proj=35.%20Linux4004</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Visualizing Weather Forecasts Through Landscape Imagery]]></title>
-            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=41603546 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[443 points | <a href=https://news.ycombinator.com/item?id=41603546 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-09-20T16:31:00Z</pubDate>
             <guid isPermaLink="false">https://github.com/lds133/weather_landscape</guid>
             <link>https://github.com/lds133/weather_landscape</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: Container Desktop – Podman Desktop Companion]]></title>
-            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=41604262 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=41604262 target=_blank>147 comments</a>]]></description>
             <pubDate>2024-09-20T18:08:22Z</pubDate>
             <guid isPermaLink="false">https://container-desktop.com/</guid>
             <link>https://container-desktop.com/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: Put this touch sensor on a robot and learn super precise tasks]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=41603865 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=41603865 target=_blank>54 comments</a>]]></description>
             <pubDate>2024-09-20T17:11:48Z</pubDate>
             <guid isPermaLink="false">https://any-skin.github.io</guid>
             <link>https://any-skin.github.io</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[I Like Makefiles]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=41607059 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=41607059 target=_blank>179 comments</a>]]></description>
             <pubDate>2024-09-21T02:37:44Z</pubDate>
             <guid isPermaLink="false">https://switowski.com/blog/i-like-makefiles/</guid>
             <link>https://switowski.com/blog/i-like-makefiles/</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Openpilot – Operating system for robotics]]></title>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=41600177 target=_blank>125 comments</a>]]></description>
+            <pubDate>2024-09-20T09:19:00Z</pubDate>
+            <guid isPermaLink="false">https://github.com/commaai/openpilot</guid>
+            <link>https://github.com/commaai/openpilot</link>
+            
+            
+            
+            <author><![CDATA[punnerud]]></author>
             
                 
             
@@ -123,22 +139,6 @@
             
             
             <author><![CDATA[weirdcat]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Openpilot – Operating system for robotics]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=41600177 target=_blank>125 comments</a>]]></description>
-            <pubDate>2024-09-20T09:19:00Z</pubDate>
-            <guid isPermaLink="false">https://github.com/commaai/openpilot</guid>
-            <link>https://github.com/commaai/openpilot</link>
-            
-            
-            
-            <author><![CDATA[punnerud]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Three Mile Island nuclear plant restart in Microsoft AI power deal]]></title>
-            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=41601443 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=41601443 target=_blank>250 comments</a>]]></description>
             <pubDate>2024-09-20T12:43:29Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/</guid>
             <link>https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[rcdemski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Discord Reduced WebSocket Traffic by 40%]]></title>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=41604267 target=_blank>109 comments</a>]]></description>
+            <pubDate>2024-09-20T18:09:15Z</pubDate>
+            <guid isPermaLink="false">https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent</guid>
+            <link>https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent</link>
+            
+            
+            
+            <author><![CDATA[hampus]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[tollandlebas]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Discord Reduced WebSocket Traffic by 40%]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41604267 target=_blank>107 comments</a>]]></description>
-            <pubDate>2024-09-20T18:09:15Z</pubDate>
-            <guid isPermaLink="false">https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent</guid>
-            <link>https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent</link>
-            
-            
-            
-            <author><![CDATA[hampus]]></author>
             
                 
             
