@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #686]]></title>
+        <title><![CDATA[Perl Weekly #687]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Dates and location have been set for TPRC 2025!]]></title>
-            <description><![CDATA[For all Perl and Raku fans, the venue for TPRC 2025 is declared finally.]]></description>
-            <pubDate>2024.09.09</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/dates_set_tprc_2025</guid>
-            <link>https://news.perlfoundation.org/post/dates_set_tprc_2025</link>
+            <title><![CDATA[CFP: Perl Community Conference, Winter 2024 🎂 - closes 9/30]]></title>
+            <description><![CDATA[Reading that announcement it is unclear to me. Is it a journal or is it a virtual conference? Are people expected to submit the paper to present it or are those two things separate? I suggest you ask the organizers!]]></description>
+            <pubDate>2024.09.13</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1ffbeg6/perl_community_conference_winter_2024_call_for/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1ffbeg6/perl_community_conference_winter_2024_call_for/</link>
             
             
             
-            <author><![CDATA[ruth_bavousett]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[TPRC 2024 after action report]]></title>
-            <description><![CDATA[We now have feedback for TPRC 2024 as shared by TPF.]]></description>
-            <pubDate>2024.09.11</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/2024tprc</guid>
-            <link>https://news.perlfoundation.org/post/2024tprc</link>
-            
-            
-            
-            <author><![CDATA[amber_krawczyk]]></author>
+            <author><![CDATA[oodler]]></author>
             
                 
             
@@ -50,15 +34,63 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.37 Rainbow Highlighting]]></title>
-            <description><![CDATA[2024.37 Rainbow Highlighting]]></description>
-            <pubDate>2024.09.10</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/09/10/2024-37-rainbow-highlighting/</guid>
-            <link>https://rakudoweekly.blog/2024/09/10/2024-37-rainbow-highlighting/</link>
+            <title><![CDATA[Ways in which the Camel Book permanently altered my idiolect]]></title>
+            <description><![CDATA[... or 5 quotes from the book]]></description>
+            <pubDate>2024.09.23</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1fnak7q/ways_in_which_the_camel_book_permanently_altered/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1fnak7q/ways_in_which_the_camel_book_permanently_altered/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancing with Copilot Workspace]]></title>
+            <description><![CDATA[It seem Dave is quie happy with the various features of Copilot. It might be time that I also give it a try. At least for open source projects.]]></description>
+            <pubDate>2024.09.22</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2024/09/dancing-with-copilot-workspace/</guid>
+            <link>https://perlhacks.com/2024/09/dancing-with-copilot-workspace/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Crypt::OpenSSL::PKCS12 1.92 released to CPAN]]></title>
+            <description><![CDATA[Crypt::OpenSSL::PKCS12 1.92 released to CPAN]]></description>
+            <pubDate>2024.09.22</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/cryptopensslpkcs12-192-released-to-cpan-4n78</guid>
+            <link>https://dev.to/jonasbn/cryptopensslpkcs12-192-released-to-cpan-4n78</link>
+            
+            
+            
+            <author><![CDATA[jonas_nielsen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Taking VelociPerl for a ride]]></title>
+            <description><![CDATA[Personally I don't think I like closed-source 'improvements' to Open Source projects. It feels like ripping off the volunteer work of the community who built that Open Source software. On the other hand maybe this is the only way to getting rid of certain old construct in Perl that limit the improvements in the language. There is also a <a href="https://www.reddit.com/r/perl/comments/1aft377/velociperl_a_speed_oriented_fork_of_perl/">discussion on Reddit</a> about this.]]></description>
+            <pubDate>2024.09.21</pubDate>
+            <guid isPermaLink="false">https://dev.to/chrisarg/taking-velociperl-for-a-ride-3n5a</guid>
+            <link>https://dev.to/chrisarg/taking-velociperl-for-a-ride-3n5a</link>
+            
+            
+            
+            <author><![CDATA[chrisarg]]></author>
             
                 
             
@@ -67,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/09/dxiii-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/09/dxc-metacpan-weekly-report-lazy.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/09/dcxvii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.09.14</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/09/dxiv-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
+            <pubDate>2024.09.22</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
