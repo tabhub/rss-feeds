@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Orion, our first true augmented reality glasses]]></title>
-            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=41650047 target=_blank>347 comments</a>]]></description>
+            <description><![CDATA[500 points | <a href=https://news.ycombinator.com/item?id=41650047 target=_blank>376 comments</a>]]></description>
             <pubDate>2024-09-25T17:56:53Z</pubDate>
             <guid isPermaLink="false">https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/</guid>
             <link>https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mira Murati leaves OpenAI]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=41651038 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=41651038 target=_blank>255 comments</a>]]></description>
             <pubDate>2024-09-25T19:35:31Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/miramurati/status/1839025700009030027</guid>
             <link>https://twitter.com/miramurati/status/1839025700009030027</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Why I still blog after 15 years]]></title>
-            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=41646531 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=41646531 target=_blank>170 comments</a>]]></description>
             <pubDate>2024-09-25T12:19:29Z</pubDate>
             <guid isPermaLink="false">https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/</guid>
             <link>https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Hacker plants false memories in ChatGPT to steal user data in perpetuity]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=41641522 target=_blank>135 comments</a>]]></description>
-            <pubDate>2024-09-24T22:13:03Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/</guid>
-            <link>https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/</link>
-            
-            
-            
-            <author><![CDATA[nobody9999]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NIST to forbid requirement of specific passwords character composition]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=41643700 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=41643700 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-09-25T04:30:36Z</pubDate>
             <guid isPermaLink="false">https://mastodon.social/@LukaszOlejnik/113193089731407165</guid>
             <link>https://mastodon.social/@LukaszOlejnik/113193089731407165</link>
@@ -107,6 +91,22 @@
             
             
             <author><![CDATA[riffraff]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rearchitecting: Redis to SQLite]]></title>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=41645173 target=_blank>85 comments</a>]]></description>
+            <pubDate>2024-09-25T08:37:48Z</pubDate>
+            <guid isPermaLink="false">https://wafris.org/blog/rearchitecting-for-sqlite</guid>
+            <link>https://wafris.org/blog/rearchitecting-for-sqlite</link>
+            
+            
+            
+            <author><![CDATA[thecodemonkey]]></author>
             
                 
             
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Rearchitecting: Redis to SQLite]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=41645173 target=_blank>81 comments</a>]]></description>
-            <pubDate>2024-09-25T08:37:48Z</pubDate>
-            <guid isPermaLink="false">https://wafris.org/blog/rearchitecting-for-sqlite</guid>
-            <link>https://wafris.org/blog/rearchitecting-for-sqlite</link>
-            
-            
-            
-            <author><![CDATA[thecodemonkey]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[SQL Tips and Tricks]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=41643651 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=41643651 target=_blank>112 comments</a>]]></description>
             <pubDate>2024-09-25T04:20:48Z</pubDate>
             <guid isPermaLink="false">https://github.com/ben-n93/SQL-tips-and-tricks</guid>
             <link>https://github.com/ben-n93/SQL-tips-and-tricks</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[The lost language extensions of MetaWare's High C compiler (2023)]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=41647843 target=_blank>63 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=41647843 target=_blank>66 comments</a>]]></description>
             <pubDate>2024-09-25T14:19:13Z</pubDate>
             <guid isPermaLink="false">https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler</guid>
             <link>https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Llama 3.2: Revolutionizing edge AI and vision with open, customizable models]]></title>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=41649763 target=_blank>74 comments</a>]]></description>
+            <pubDate>2024-09-25T17:29:27Z</pubDate>
+            <guid isPermaLink="false">https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1</guid>
+            <link>https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1</link>
+            
+            
+            
+            <author><![CDATA[nmwnmw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Committing to Rust in the Kernel]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=41642313 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=41642313 target=_blank>165 comments</a>]]></description>
             <pubDate>2024-09-25T00:08:01Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/</guid>
             <link>https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/</link>
