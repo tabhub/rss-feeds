@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Orion, our first true augmented reality glasses]]></title>
-            <description><![CDATA[1048 points | <a href=https://news.ycombinator.com/item?id=41650047 target=_blank>820 comments</a>]]></description>
+            <description><![CDATA[1063 points | <a href=https://news.ycombinator.com/item?id=41650047 target=_blank>829 comments</a>]]></description>
             <pubDate>2024-09-25T17:56:53Z</pubDate>
             <guid isPermaLink="false">https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/</guid>
             <link>https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Mira Murati leaves OpenAI]]></title>
-            <description><![CDATA[734 points | <a href=https://news.ycombinator.com/item?id=41651038 target=_blank>514 comments</a>]]></description>
-            <pubDate>2024-09-25T19:35:31Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/miramurati/status/1839025700009030027</guid>
-            <link>https://twitter.com/miramurati/status/1839025700009030027</link>
-            
-            
-            
-            <author><![CDATA[brianjking]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Llama 3.2: Revolutionizing edge AI and vision with open, customizable models]]></title>
-            <description><![CDATA[733 points | <a href=https://news.ycombinator.com/item?id=41649763 target=_blank>233 comments</a>]]></description>
+            <description><![CDATA[740 points | <a href=https://news.ycombinator.com/item?id=41649763 target=_blank>238 comments</a>]]></description>
             <pubDate>2024-09-25T17:29:27Z</pubDate>
             <guid isPermaLink="false">https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1</guid>
             <link>https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/?_fb_noscript=1</link>
@@ -66,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenAI to remove non-profit control and give Sam Altman equity]]></title>
-            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=41651548 target=_blank>51 comments</a>]]></description>
-            <pubDate>2024-09-25T20:31:48Z</pubDate>
-            <guid isPermaLink="false">https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/</guid>
-            <link>https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/</link>
+            <title><![CDATA[Mira Murati leaves OpenAI]]></title>
+            <description><![CDATA[736 points | <a href=https://news.ycombinator.com/item?id=41651038 target=_blank>519 comments</a>]]></description>
+            <pubDate>2024-09-25T19:35:31Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/miramurati/status/1839025700009030027</guid>
+            <link>https://twitter.com/miramurati/status/1839025700009030027</link>
             
             
             
-            <author><![CDATA[award_]]></author>
+            <author><![CDATA[brianjking]]></author>
             
                 
             
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[OpenAI to Become For-Profit Company]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=41655954 target=_blank>190 comments</a>]]></description>
+            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=41655954 target=_blank>212 comments</a>]]></description>
             <pubDate>2024-09-26T08:34:43Z</pubDate>
             <guid isPermaLink="false">https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639</guid>
             <link>https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639</link>
@@ -98,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[OpenAI to remove non-profit control and give Sam Altman equity]]></title>
+            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=41651548 target=_blank>52 comments</a>]]></description>
+            <pubDate>2024-09-25T20:31:48Z</pubDate>
+            <guid isPermaLink="false">https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/</guid>
+            <link>https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/</link>
+            
+            
+            
+            <author><![CDATA[award_]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Git-absorb: Git commit –fixup, but automatic]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=41653191 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=41653191 target=_blank>157 comments</a>]]></description>
             <pubDate>2024-09-26T00:12:53Z</pubDate>
             <guid isPermaLink="false">https://github.com/tummychow/git-absorb</guid>
             <link>https://github.com/tummychow/git-absorb</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Rewriting Rust]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=41654871 target=_blank>299 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=41654871 target=_blank>308 comments</a>]]></description>
             <pubDate>2024-09-26T05:37:00Z</pubDate>
             <guid isPermaLink="false">https://josephg.com/blog/rewriting-rust/</guid>
             <link>https://josephg.com/blog/rewriting-rust/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Launch HN: Haystack (YC S24) – Visualize and edit code on an infinite canvas]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=41648564 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=41648564 target=_blank>149 comments</a>]]></description>
             <pubDate>2024-09-25T15:31:00Z</pubDate>
             <guid isPermaLink="false">https://github.com/haystackeditor/haystack-editor</guid>
             <link>https://github.com/haystackeditor/haystack-editor</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[The lost language extensions of MetaWare's High C compiler (2023)]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=41647843 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=41647843 target=_blank>89 comments</a>]]></description>
             <pubDate>2024-09-25T14:19:13Z</pubDate>
             <guid isPermaLink="false">https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler</guid>
             <link>https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware%27s-high-c-compiler</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Eliminating Memory Safety Vulnerabilities at the Source]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=41650647 target=_blank>115 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=41650647 target=_blank>116 comments</a>]]></description>
             <pubDate>2024-09-25T18:49:03Z</pubDate>
             <guid isPermaLink="false">https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html</guid>
             <link>https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Timeshare owner? The Mexican drug cartels want you]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=41649134 target=_blank>227 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=41649134 target=_blank>235 comments</a>]]></description>
             <pubDate>2024-09-25T16:28:20Z</pubDate>
             <guid isPermaLink="false">https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/</guid>
             <link>https://krebsonsecurity.com/2024/09/timeshare-owner-the-mexican-drug-cartels-want-you/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Sam Altman: Long con was "child's play for me"]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=41657001 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=41657001 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-09-26T11:13:35Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/AskReddit/comments/3cs78i/whats_the_best_long_con_you_ever_pulled/cszwpgq/</guid>
             <link>https://old.reddit.com/r/AskReddit/comments/3cs78i/whats_the_best_long_con_you_ever_pulled/cszwpgq/</link>
