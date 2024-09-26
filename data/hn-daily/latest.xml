@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Orion, our first true augmented reality glasses]]></title>
-            <description><![CDATA[1150 points | <a href=https://news.ycombinator.com/item?id=41650047 target=_blank>961 comments</a>]]></description>
-            <pubDate>2024-09-25T17:56:53Z</pubDate>
-            <guid isPermaLink="false">https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/</guid>
-            <link>https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/</link>
-            
-            
-            
-            <author><![CDATA[mfiguiere]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[OpenAI to Become For-Profit Company]]></title>
-            <description><![CDATA[808 points | <a href=https://news.ycombinator.com/item?id=41655954 target=_blank>483 comments</a>]]></description>
+            <description><![CDATA[820 points | <a href=https://news.ycombinator.com/item?id=41655954 target=_blank>492 comments</a>]]></description>
             <pubDate>2024-09-26T08:34:43Z</pubDate>
             <guid isPermaLink="false">https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639</guid>
             <link>https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mira Murati leaves OpenAI]]></title>
-            <description><![CDATA[762 points | <a href=https://news.ycombinator.com/item?id=41651038 target=_blank>549 comments</a>]]></description>
+            <description><![CDATA[763 points | <a href=https://news.ycombinator.com/item?id=41651038 target=_blank>553 comments</a>]]></description>
             <pubDate>2024-09-25T19:35:31Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/miramurati/status/1839025700009030027</guid>
             <link>https://twitter.com/miramurati/status/1839025700009030027</link>
@@ -59,6 +43,22 @@
             
             
             <author><![CDATA[brianjking]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PostgreSQL 17]]></title>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=41657986 target=_blank>75 comments</a>]]></description>
+            <pubDate>2024-09-26T13:10:24Z</pubDate>
+            <guid isPermaLink="false">https://www.postgresql.org/about/news/postgresql-17-released-2936/</guid>
+            <link>https://www.postgresql.org/about/news/postgresql-17-released-2936/</link>
+            
+            
+            
+            <author><![CDATA[jkatz05]]></author>
             
                 
             
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[PostgreSQL 17]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=41657986 target=_blank>72 comments</a>]]></description>
-            <pubDate>2024-09-26T13:10:24Z</pubDate>
-            <guid isPermaLink="false">https://www.postgresql.org/about/news/postgresql-17-released-2936/</guid>
-            <link>https://www.postgresql.org/about/news/postgresql-17-released-2936/</link>
-            
-            
-            
-            <author><![CDATA[jkatz05]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Git-absorb: Git commit –fixup, but automatic]]></title>
-            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=41653191 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=41653191 target=_blank>215 comments</a>]]></description>
             <pubDate>2024-09-26T00:12:53Z</pubDate>
             <guid isPermaLink="false">https://github.com/tummychow/git-absorb</guid>
             <link>https://github.com/tummychow/git-absorb</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Rewriting Rust]]></title>
-            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=41654871 target=_blank>344 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=41654871 target=_blank>346 comments</a>]]></description>
             <pubDate>2024-09-26T05:37:00Z</pubDate>
             <guid isPermaLink="false">https://josephg.com/blog/rewriting-rust/</guid>
             <link>https://josephg.com/blog/rewriting-rust/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Eliminating Memory Safety Vulnerabilities at the Source]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=41650647 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=41650647 target=_blank>143 comments</a>]]></description>
             <pubDate>2024-09-25T18:49:03Z</pubDate>
             <guid isPermaLink="false">https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html</guid>
             <link>https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Sam Altman: Long con was "child's play for me"]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=41657001 target=_blank>58 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=41657001 target=_blank>60 comments</a>]]></description>
             <pubDate>2024-09-26T11:13:35Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/AskReddit/comments/3cs78i/whats_the_best_long_con_you_ever_pulled/cszwpgq/</guid>
             <link>https://old.reddit.com/r/AskReddit/comments/3cs78i/whats_the_best_long_con_you_ever_pulled/cszwpgq/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Show HN: Httpdbg – A tool to trace the HTTP requests sent by your Python code]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=41650905 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=41650905 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-09-25T19:18:12Z</pubDate>
             <guid isPermaLink="false">https://github.com/cle-b/httpdbg</guid>
             <link>https://github.com/cle-b/httpdbg</link>
@@ -171,6 +155,22 @@
             
             
             <author><![CDATA[cle-b]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says]]></title>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=41659324 target=_blank>130 comments</a>]]></description>
+            <pubDate>2024-09-26T15:13:44Z</pubDate>
+            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/</guid>
+            <link>https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/</link>
+            
+            
+            
+            <author><![CDATA[Brajeshwar]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DoNotPay has to pay $193K for falsely touting untested AI lawyer, FTC says]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=41659324 target=_blank>129 comments</a>]]></description>
-            <pubDate>2024-09-26T15:13:44Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/</guid>
-            <link>https://arstechnica.com/tech-policy/2024/09/startup-behind-worlds-first-robot-lawyer-to-pay-193k-for-false-ads-ftc-says/</link>
+            <title><![CDATA[NKRYPT Sculpture]]></title>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=41658766 target=_blank>6 comments</a>]]></description>
+            <pubDate>2024-09-26T14:24:36Z</pubDate>
+            <guid isPermaLink="false">https://www.meme.net.au/nkrypt/</guid>
+            <link>https://www.meme.net.au/nkrypt/</link>
             
             
             
-            <author><![CDATA[Brajeshwar]]></author>
+            <author><![CDATA[goles]]></author>
             
                 
             
