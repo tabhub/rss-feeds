@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[OpenAI to become for-profit company]]></title>
-            <description><![CDATA[1224 points | <a href=https://news.ycombinator.com/item?id=41655954 target=_blank>659 comments</a>]]></description>
+            <description><![CDATA[1224 points | <a href=https://news.ycombinator.com/item?id=41655954 target=_blank>660 comments</a>]]></description>
             <pubDate>2024-09-26T08:34:43Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/</guid>
             <link>https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[PostgreSQL 17]]></title>
-            <description><![CDATA[566 points | <a href=https://news.ycombinator.com/item?id=41657986 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[568 points | <a href=https://news.ycombinator.com/item?id=41657986 target=_blank>115 comments</a>]]></description>
             <pubDate>2024-09-26T13:10:24Z</pubDate>
             <guid isPermaLink="false">https://www.postgresql.org/about/news/postgresql-17-released-2936/</guid>
             <link>https://www.postgresql.org/about/news/postgresql-17-released-2936/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[WordPress.org bans WP Engine]]></title>
-            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=41655967 target=_blank>371 comments</a>]]></description>
+            <description><![CDATA[406 points | <a href=https://news.ycombinator.com/item?id=41655967 target=_blank>372 comments</a>]]></description>
             <pubDate>2024-09-26T08:36:14Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/</guid>
             <link>https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Hacking Kia: Remotely controlling cars with just a license plate]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=41658733 target=_blank>254 comments</a>]]></description>
+            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=41658733 target=_blank>256 comments</a>]]></description>
             <pubDate>2024-09-26T14:22:07Z</pubDate>
             <guid isPermaLink="false">https://samcurry.net/hacking-kia</guid>
             <link>https://samcurry.net/hacking-kia</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[U.S. court orders LibGen to pay $30M to publishers, issues broad injunction]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=41661512 target=_blank>302 comments</a>]]></description>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=41661512 target=_blank>305 comments</a>]]></description>
             <pubDate>2024-09-26T18:22:23Z</pubDate>
             <guid isPermaLink="false">https://torrentfreak.com/u-s-court-orders-libgen-to-pay-30m-to-publishers-issues-broad-injunction-240925/</guid>
             <link>https://torrentfreak.com/u-s-court-orders-libgen-to-pay-30m-to-publishers-issues-broad-injunction-240925/</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Tcl 9.0]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=41661906 target=_blank>149 comments</a>]]></description>
-            <pubDate>2024-09-26T18:59:31Z</pubDate>
-            <guid isPermaLink="false">https://www.tcl-lang.org/software/tcltk/9.0.html?post=new</guid>
-            <link>https://www.tcl-lang.org/software/tcltk/9.0.html?post=new</link>
-            
-            
-            
-            <author><![CDATA[bch]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Attacking UNIX Systems via CUPS]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=41662596 target=_blank>199 comments</a>]]></description>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=41662596 target=_blank>205 comments</a>]]></description>
             <pubDate>2024-09-26T19:59:30Z</pubDate>
             <guid isPermaLink="false">https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/</guid>
             <link>https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/</link>
@@ -139,6 +123,22 @@
             
             
             <author><![CDATA[NetBender]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tcl 9.0]]></title>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=41661906 target=_blank>149 comments</a>]]></description>
+            <pubDate>2024-09-26T18:59:31Z</pubDate>
+            <guid isPermaLink="false">https://www.tcl-lang.org/software/tcltk/9.0.html?post=new</guid>
+            <link>https://www.tcl-lang.org/software/tcltk/9.0.html?post=new</link>
+            
+            
+            
+            <author><![CDATA[bch]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Our Android app is frozen in carbonite]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=41664281 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=41664281 target=_blank>114 comments</a>]]></description>
             <pubDate>2024-09-26T22:39:05Z</pubDate>
             <guid isPermaLink="false">https://ia.net/topics/our-android-app-is-frozen-in-carbonite</guid>
             <link>https://ia.net/topics/our-android-app-is-frozen-in-carbonite</link>
