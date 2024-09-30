@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #687]]></title>
+        <title><![CDATA[Perl Weekly #688]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,27 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[CFP: Perl Community Conference, Winter 2024 🎂 - closes 9/30]]></title>
-            <description><![CDATA[Reading that announcement it is unclear to me. Is it a journal or is it a virtual conference? Are people expected to submit the paper to present it or are those two things separate? I suggest you ask the organizers!]]></description>
-            <pubDate>2024.09.13</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1ffbeg6/perl_community_conference_winter_2024_call_for/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1ffbeg6/perl_community_conference_winter_2024_call_for/</link>
-            
-            
-            
-            <author><![CDATA[oodler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ways in which the Camel Book permanently altered my idiolect]]></title>
-            <description><![CDATA[... or 5 quotes from the book]]></description>
-            <pubDate>2024.09.23</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1fnak7q/ways_in_which_the_camel_book_permanently_altered/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1fnak7q/ways_in_which_the_camel_book_permanently_altered/</link>
+            <title><![CDATA[Perl-Conf.Ru]]></title>
+            <description><![CDATA[If you missed the event then you can still checkout the event results.]]></description>
+            <pubDate>2024.09.30</pubDate>
+            <guid isPermaLink="false">https://perl-conf.ru/24/</guid>
+            <link>https://perl-conf.ru/24/</link>
             
             
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancing with Copilot Workspace]]></title>
-            <description><![CDATA[It seem Dave is quie happy with the various features of Copilot. It might be time that I also give it a try. At least for open source projects.]]></description>
-            <pubDate>2024.09.22</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2024/09/dancing-with-copilot-workspace/</guid>
-            <link>https://perlhacks.com/2024/09/dancing-with-copilot-workspace/</link>
+            <title><![CDATA[Crypt::OpenSSL::PKCS12 1.93 released to CPAN]]></title>
+            <description><![CDATA[The release is offering a new feature: info which can provide the user with information from the OpenSSL object being worked on.]]></description>
+            <pubDate>2024.09.29</pubDate>
+            <guid isPermaLink="false">https://dev.to/jonasbn/cryptopensslpkcs12-193-released-to-cpan-5hio</guid>
+            <link>https://dev.to/jonasbn/cryptopensslpkcs12-193-released-to-cpan-5hio</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Crypt::OpenSSL::PKCS12 1.92 released to CPAN]]></title>
-            <description><![CDATA[Crypt::OpenSSL::PKCS12 1.92 released to CPAN]]></description>
-            <pubDate>2024.09.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/cryptopensslpkcs12-192-released-to-cpan-4n78</guid>
-            <link>https://dev.to/jonasbn/cryptopensslpkcs12-192-released-to-cpan-4n78</link>
-            
-            
-            
-            <author><![CDATA[jonas_nielsen]]></author>
+            <author><![CDATA[jonas_bromso_nielsen]]></author>
             
                 
             
@@ -82,15 +50,79 @@
         </item>
         
         <item>
-            <title><![CDATA[Taking VelociPerl for a ride]]></title>
-            <description><![CDATA[Personally I don't think I like closed-source 'improvements' to Open Source projects. It feels like ripping off the volunteer work of the community who built that Open Source software. On the other hand maybe this is the only way to getting rid of certain old construct in Perl that limit the improvements in the language. There is also a <a href="https://www.reddit.com/r/perl/comments/1aft377/velociperl_a_speed_oriented_fork_of_perl/">discussion on Reddit</a> about this.]]></description>
-            <pubDate>2024.09.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/chrisarg/taking-velociperl-for-a-ride-3n5a</guid>
-            <link>https://dev.to/chrisarg/taking-velociperl-for-a-ride-3n5a</link>
+            <title><![CDATA[Things I've Learned Serving on the Board of The Perl Foundation]]></title>
+            <description><![CDATA[Part one of 2-parts series post, Makoto-san shares his experience @ TPF.]]></description>
+            <pubDate>2024.09.23</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/makoto_nozaki/2024/09/things-ive-learned-serving-on-the-board-of-the-perl-foundation.html</guid>
+            <link>https://blogs.perl.org/users/makoto_nozaki/2024/09/things-ive-learned-serving-on-the-board-of-the-perl-foundation.html</link>
             
             
             
-            <author><![CDATA[chrisarg]]></author>
+            <author><![CDATA[makoto_nozaki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Board Reflections: Continued Experiences with The Perl Foundation]]></title>
+            <description><![CDATA[Part two and last post continued to talk about various projects handled by Makoto.]]></description>
+            <pubDate>2024.09.29</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/makoto_nozaki/2024/09/board-reflections-continued-experiences-with-the-perl-foundation.html</guid>
+            <link>https://blogs.perl.org/users/makoto_nozaki/2024/09/board-reflections-continued-experiences-with-the-perl-foundation.html</link>
+            
+            
+            
+            <author><![CDATA[makoto_nozaki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (161) | 2024-09-27]]></title>
+            <description><![CDATA[Interesting topics discussed in the last team meetup. Thank you PSC for your time and effort.]]></description>
+            <pubDate>2024.09.27</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/09/this-week-in-psc-161-2024-09-27.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/09/this-week-in-psc-161-2024-09-27.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloud VM performance / price comparison 2024]]></title>
+            <description><![CDATA[Talk on the topic was presented at The Perl and Raku Conference 2024.]]></description>
+            <pubDate>2024.09.26</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dimitrios_kechagias/2024/09/cloud-vm-performance-price-comparison-2024.html</guid>
+            <link>https://blogs.perl.org/users/dimitrios_kechagias/2024/09/cloud-vm-performance-price-comparison-2024.html</link>
+            
+            
+            
+            <author><![CDATA[dimitrios_kechagias]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2024.39 Fun With Raku]]></title>
+            <description><![CDATA[2024.39 Fun With Raku]]></description>
+            <pubDate>2024.09.23</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/09/23/2024-39-fun-with-raku/</guid>
+            <link>https://rakudoweekly.blog/2024/09/23/2024-39-fun-with-raku/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -99,30 +131,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/09/dxiv-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
-            <pubDate>2024.09.22</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/09/dxv-5-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2024.09.28</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toronto Perl Mongers monthly meeting]]></title>
-            <description><![CDATA[September 26, 2024, Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcmbjc/</guid>
-            <link>https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcmbjc/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Purdue Perl Mongers]]></title>
-            <description><![CDATA[October 09, 2024, Virtual event]]></description>
+            <description><![CDATA[October 9, 2024, Virtual event]]></description>
             
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygcnbmb/</guid>
             <link>https://www.meetup.com/hacklafayette/events/jdxwsrygcnbmb/</link>
