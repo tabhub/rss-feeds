@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Arthur Whitney's one liner sudoku solver (2011)]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=41753741 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=41753741 target=_blank>159 comments</a>]]></description>
             <pubDate>2024-10-06T00:00:04Z</pubDate>
             <guid isPermaLink="false">https://dfns.dyalog.com/n_sudoku.htm</guid>
             <link>https://dfns.dyalog.com/n_sudoku.htm</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[We need a real GNU/Linux (not Android) smartphone ecosystem]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=41754074 target=_blank>186 comments</a>]]></description>
-            <pubDate>2024-10-06T01:28:28Z</pubDate>
-            <guid isPermaLink="false">https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/</guid>
-            <link>https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/</link>
-            
-            
-            
-            <author><![CDATA[neelc]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[So thieves broke into your storage unit again]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=41754008 target=_blank>148 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=41754008 target=_blank>152 comments</a>]]></description>
             <pubDate>2024-10-06T01:09:19Z</pubDate>
             <guid isPermaLink="false">http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html</guid>
             <link>http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html</link>
@@ -98,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[We need a real GNU/Linux (not Android) smartphone ecosystem]]></title>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=41754074 target=_blank>188 comments</a>]]></description>
+            <pubDate>2024-10-06T01:28:28Z</pubDate>
+            <guid isPermaLink="false">https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/</guid>
+            <link>https://old.reddit.com/r/linux/comments/1fx5fq0/we_need_a_real_gnulinux_not_android_smartphone/</link>
+            
+            
+            
+            <author><![CDATA[neelc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[CoRncrete: A corn starch based building material (2017)]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=41752020 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=41752020 target=_blank>100 comments</a>]]></description>
             <pubDate>2024-10-05T18:51:28Z</pubDate>
             <guid isPermaLink="false">https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material</guid>
             <link>https://research.tudelft.nl/en/publications/corncrete-a-corn-starch-based-building-material</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[World-first therapy using donor cells sends autoimmune diseases into remission]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=41751568 target=_blank>41 comments</a>]]></description>
+            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=41751568 target=_blank>42 comments</a>]]></description>
             <pubDate>2024-10-05T17:46:33Z</pubDate>
             <guid isPermaLink="false">https://www.nature.com/articles/d41586-024-03209-4</guid>
             <link>https://www.nature.com/articles/d41586-024-03209-4</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[What is the history of the use of "foo" and "bar" in source code examples? (2012)]]></title>
-            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=41752436 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=41752436 target=_blank>129 comments</a>]]></description>
             <pubDate>2024-10-05T19:52:09Z</pubDate>
             <guid isPermaLink="false">https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples</guid>
             <link>https://softwareengineering.stackexchange.com/questions/69788/what-is-the-history-of-the-use-of-foo-and-bar-in-source-code-examples</link>
@@ -162,6 +162,38 @@
         </item>
         
         <item>
+            <title><![CDATA[Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support]]></title>
+            <description><![CDATA[94 points | <a href=https://news.ycombinator.com/item?id=41754628 target=_blank>29 comments</a>]]></description>
+            <pubDate>2024-10-06T03:55:13Z</pubDate>
+            <guid isPermaLink="false">https://github.com/Forceu/Gokapi</guid>
+            <link>https://github.com/Forceu/Gokapi</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Book of Kells, now digitized and available online]]></title>
+            <description><![CDATA[94 points | <a href=https://news.ycombinator.com/item?id=41757722 target=_blank>24 comments</a>]]></description>
+            <pubDate>2024-10-06T15:19:15Z</pubDate>
+            <guid isPermaLink="false">https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html</guid>
+            <link>https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html</link>
+            
+            
+            
+            <author><![CDATA[ColinWright]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The Importance of Local Development]]></title>
             <description><![CDATA[92 points | <a href=https://news.ycombinator.com/item?id=41756277 target=_blank>77 comments</a>]]></description>
             <pubDate>2024-10-06T11:01:35Z</pubDate>
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[davnn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Router Security]]></title>
-            <description><![CDATA[91 points | <a href=https://news.ycombinator.com/item?id=41752327 target=_blank>70 comments</a>]]></description>
-            <pubDate>2024-10-05T19:35:31Z</pubDate>
-            <guid isPermaLink="false">https://routersecurity.org/</guid>
-            <link>https://routersecurity.org/</link>
-            
-            
-            
-            <author><![CDATA[blueridge]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Gokapi: Lightweight selfhosted Firefox Send alternative with AWS S3 support]]></title>
-            <description><![CDATA[91 points | <a href=https://news.ycombinator.com/item?id=41754628 target=_blank>28 comments</a>]]></description>
-            <pubDate>2024-10-06T03:55:13Z</pubDate>
-            <guid isPermaLink="false">https://github.com/Forceu/Gokapi</guid>
-            <link>https://github.com/Forceu/Gokapi</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
             
                 
             
