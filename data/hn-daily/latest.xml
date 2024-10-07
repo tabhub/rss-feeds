@@ -18,40 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Arthur Whitney's one liner sudoku solver (2011)]]></title>
-            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=41753741 target=_blank>173 comments</a>]]></description>
-            <pubDate>2024-10-06T00:00:04Z</pubDate>
-            <guid isPermaLink="false">https://dfns.dyalog.com/n_sudoku.htm</guid>
-            <link>https://dfns.dyalog.com/n_sudoku.htm</link>
-            
-            
-            
-            <author><![CDATA[secwang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[So thieves broke into your storage unit again]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=41754008 target=_blank>269 comments</a>]]></description>
-            <pubDate>2024-10-06T01:09:19Z</pubDate>
-            <guid isPermaLink="false">http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html</guid>
-            <link>http://oldvcr.blogspot.com/2024/10/so-thieves-broke-into-your-storage-unit.html</link>
-            
-            
-            
-            <author><![CDATA[goldenskye]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The Book of Kells, now digitized and available online]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=41757722 target=_blank>58 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=41757722 target=_blank>61 comments</a>]]></description>
             <pubDate>2024-10-06T15:19:15Z</pubDate>
             <guid isPermaLink="false">https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html</guid>
             <link>https://www.openculture.com/2024/09/the-medieval-masterpiece-the-book-of-kells-is-now-digitized-and-available-online.html</link>
@@ -67,7 +35,7 @@
         
         <item>
             <title><![CDATA[HPy – A better C API for Python]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=41755183 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=41755183 target=_blank>78 comments</a>]]></description>
             <pubDate>2024-10-06T06:23:16Z</pubDate>
             <guid isPermaLink="false">https://hpyproject.org/</guid>
             <link>https://hpyproject.org/</link>
@@ -83,7 +51,7 @@
         
         <item>
             <title><![CDATA[XFCE 4.20 aims to bring preliminary Wayland support]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=41758693 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=41758693 target=_blank>141 comments</a>]]></description>
             <pubDate>2024-10-06T17:41:59Z</pubDate>
             <guid isPermaLink="false">https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/</guid>
             <link>https://ostechnix.com/xfce-4-20-aims-to-bring-preliminary-wayland-support/</link>
@@ -91,6 +59,22 @@
             
             
             <author><![CDATA[alexzeitler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AI is an impediment to learning web development]]></title>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=41757711 target=_blank>184 comments</a>]]></description>
+            <pubDate>2024-10-06T15:18:20Z</pubDate>
+            <guid isPermaLink="false">https://ben.page/jumbocode-ai</guid>
+            <link>https://ben.page/jumbocode-ai</link>
+            
+            
+            
+            <author><![CDATA[bdlowery]]></author>
             
                 
             
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[AI is an impediment to learning web development]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41757711 target=_blank>182 comments</a>]]></description>
-            <pubDate>2024-10-06T15:18:20Z</pubDate>
-            <guid isPermaLink="false">https://ben.page/jumbocode-ai</guid>
-            <link>https://ben.page/jumbocode-ai</link>
-            
-            
-            
-            <author><![CDATA[bdlowery]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[AVX Bitwise ternary logic instruction busted]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=41759112 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=41759112 target=_blank>31 comments</a>]]></description>
             <pubDate>2024-10-06T18:38:26Z</pubDate>
             <guid isPermaLink="false">https://arnaud-carre.github.io/2024-10-06-vpternlogd/</guid>
             <link>https://arnaud-carre.github.io/2024-10-06-vpternlogd/</link>
@@ -146,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Sq.io: jq for databases and more]]></title>
+            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=41760697 target=_blank>23 comments</a>]]></description>
+            <pubDate>2024-10-06T22:02:34Z</pubDate>
+            <guid isPermaLink="false">https://sq.io</guid>
+            <link>https://sq.io</link>
+            
+            
+            
+            <author><![CDATA[stavepan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Wi-Fi Goes Long Range on New WiLo Standard]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=41756023 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=41756023 target=_blank>83 comments</a>]]></description>
             <pubDate>2024-10-06T09:54:06Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/wi-fi-lora-hybrid</guid>
             <link>https://spectrum.ieee.org/wi-fi-lora-hybrid</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Gleam Is Pragmatic]]></title>
-            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=41758915 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=41758915 target=_blank>70 comments</a>]]></description>
             <pubDate>2024-10-06T18:15:23Z</pubDate>
             <guid isPermaLink="false">https://blog.drewolson.org/gleam-is-pragmatic/</guid>
             <link>https://blog.drewolson.org/gleam-is-pragmatic/</link>
@@ -178,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Sq.io: jq for databases and more]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=41760697 target=_blank>19 comments</a>]]></description>
-            <pubDate>2024-10-06T22:02:34Z</pubDate>
-            <guid isPermaLink="false">https://sq.io</guid>
-            <link>https://sq.io</link>
+            <title><![CDATA[Rust needs a web framework]]></title>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=41760421 target=_blank>123 comments</a>]]></description>
+            <pubDate>2024-10-06T21:21:47Z</pubDate>
+            <guid isPermaLink="false">https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/</guid>
+            <link>https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/</link>
             
             
             
-            <author><![CDATA[stavepan]]></author>
+            <author><![CDATA[dcminter]]></author>
             
                 
             
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[jsheard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WiFi4EU initiative provides free Wi-Fi in public spaces across Europe]]></title>
+            <description><![CDATA[110 points | <a href=https://news.ycombinator.com/item?id=41756842 target=_blank>98 comments</a>]]></description>
+            <pubDate>2024-10-06T12:58:24Z</pubDate>
+            <guid isPermaLink="false">https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en</guid>
+            <link>https://hadea.ec.europa.eu/programmes/connecting-europe-facility/wifi4eu/download-wifi4eu-app_en</link>
+            
+            
+            
+            <author><![CDATA[nabla9]]></author>
             
                 
             
