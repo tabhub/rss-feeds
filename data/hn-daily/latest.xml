@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Internet Archive: Security breach alert]]></title>
-            <description><![CDATA[1017 points | <a href=https://news.ycombinator.com/item?id=41792500 target=_blank>560 comments</a>]]></description>
+            <description><![CDATA[1020 points | <a href=https://news.ycombinator.com/item?id=41792500 target=_blank>560 comments</a>]]></description>
             <pubDate>2024-10-09T20:54:26Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message</guid>
             <link>https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Helping wikis move away from Fandom]]></title>
-            <description><![CDATA[711 points | <a href=https://news.ycombinator.com/item?id=41797719 target=_blank>338 comments</a>]]></description>
+            <description><![CDATA[720 points | <a href=https://news.ycombinator.com/item?id=41797719 target=_blank>344 comments</a>]]></description>
             <pubDate>2024-10-10T11:21:53Z</pubDate>
             <guid isPermaLink="false">https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom</guid>
             <link>https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Why Gov.uk's Exit this Page component doesn't use the Escape key]]></title>
-            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=41793597 target=_blank>217 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=41793597 target=_blank>218 comments</a>]]></description>
             <pubDate>2024-10-09T22:45:26Z</pubDate>
             <guid isPermaLink="false">https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/</guid>
             <link>https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/</link>
@@ -82,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[DeskPad – A virtual monitor for screen sharing]]></title>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=41800602 target=_blank>42 comments</a>]]></description>
+            <pubDate>2024-10-10T16:36:54Z</pubDate>
+            <guid isPermaLink="false">https://github.com/Stengo/DeskPad</guid>
+            <link>https://github.com/Stengo/DeskPad</link>
+            
+            
+            
+            <author><![CDATA[geerlingguy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[WASM Is the New CGI]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=41795561 target=_blank>277 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=41795561 target=_blank>279 comments</a>]]></description>
             <pubDate>2024-10-10T04:38:58Z</pubDate>
             <guid isPermaLink="false">https://roborooter.com/post/wasm-is-the-new-cgi/</guid>
             <link>https://roborooter.com/post/wasm-is-the-new-cgi/</link>
@@ -98,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DeskPad – A virtual monitor for screen sharing]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=41800602 target=_blank>38 comments</a>]]></description>
-            <pubDate>2024-10-10T16:36:54Z</pubDate>
-            <guid isPermaLink="false">https://github.com/Stengo/DeskPad</guid>
-            <link>https://github.com/Stengo/DeskPad</link>
+            <title><![CDATA[Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel]]></title>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=41798477 target=_blank>99 comments</a>]]></description>
+            <pubDate>2024-10-10T13:15:38Z</pubDate>
+            <guid isPermaLink="false">https://tenno.app</guid>
+            <link>https://tenno.app</link>
             
             
             
-            <author><![CDATA[geerlingguy]]></author>
+            <author><![CDATA[deepmacro]]></author>
             
                 
             
@@ -146,40 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Tenno – Markdown and JavaScript = a hybrid of Word and Excel]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=41798477 target=_blank>98 comments</a>]]></description>
-            <pubDate>2024-10-10T13:15:38Z</pubDate>
-            <guid isPermaLink="false">https://tenno.app</guid>
-            <link>https://tenno.app</link>
-            
-            
-            
-            <author><![CDATA[deepmacro]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Wordpress.org Login: "I am not affiliated with WP Engine in any way"]]></title>
-            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=41791369 target=_blank>219 comments</a>]]></description>
-            <pubDate>2024-10-09T18:55:21Z</pubDate>
-            <guid isPermaLink="false">https://www.404media.co/wordpress-checkbox-login-wp-engine/</guid>
-            <link>https://www.404media.co/wordpress-checkbox-login-wp-engine/</link>
-            
-            
-            
-            <author><![CDATA[notamy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[My negative views on Rust (2023)]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=41791773 target=_blank>263 comments</a>]]></description>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=41791773 target=_blank>265 comments</a>]]></description>
             <pubDate>2024-10-09T19:34:12Z</pubDate>
             <guid isPermaLink="false">https://chrisdone.com/posts/rust/</guid>
             <link>https://chrisdone.com/posts/rust/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[timokoesters]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Studios: Please Don't Spoil the Movie We Are Seated to See]]></title>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=41801300 target=_blank>151 comments</a>]]></description>
+            <pubDate>2024-10-10T17:44:55Z</pubDate>
+            <guid isPermaLink="false">http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html</guid>
+            <link>http://fxrant.blogspot.com/2024/06/studios-dont-spoil-movie-we-are-seated.html</link>
+            
+            
+            
+            <author><![CDATA[speckx]]></author>
             
                 
             
