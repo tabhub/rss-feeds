@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[$2 H100s: How the GPU Rental Bubble Burst]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=41805446 target=_blank>246 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=41805446 target=_blank>247 comments</a>]]></description>
             <pubDate>2024-10-11T02:19:42Z</pubDate>
             <guid isPermaLink="false">https://www.latent.space/p/gpu-bubble</guid>
             <link>https://www.latent.space/p/gpu-bubble</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA["Begin disabling installed extensions still using Manifest V2 in Chrome stable"]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>266 comments</a>]]></description>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>268 comments</a>]]></description>
             <pubDate>2024-10-11T14:20:26Z</pubDate>
             <guid isPermaLink="false">https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</guid>
             <link>https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Nobel Peace Prize for 2024 awarded to Nihon Hidankyo]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=41807681 target=_blank>291 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=41807681 target=_blank>294 comments</a>]]></description>
             <pubDate>2024-10-11T09:01:54Z</pubDate>
             <guid isPermaLink="false">https://www.nobelprize.org/press-release-peace-2024/</guid>
             <link>https://www.nobelprize.org/press-release-peace-2024/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[How long til we're all on Ozempic?]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=41811263 target=_blank>719 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=41811263 target=_blank>735 comments</a>]]></description>
             <pubDate>2024-10-11T17:06:30Z</pubDate>
             <guid isPermaLink="false">https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic</guid>
             <link>https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic</link>
@@ -146,6 +146,38 @@
         </item>
         
         <item>
+            <title><![CDATA[Understanding the Limitations of Mathematical Reasoning in LLMs]]></title>
+            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=41808683 target=_blank>148 comments</a>]]></description>
+            <pubDate>2024-10-11T11:55:06Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2410.05229</guid>
+            <link>https://arxiv.org/abs/2410.05229</link>
+            
+            
+            
+            <author><![CDATA[hnhn34]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Lm.rs: Minimal CPU LLM inference in Rust with no dependency]]></title>
+            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=41811078 target=_blank>33 comments</a>]]></description>
+            <pubDate>2024-10-11T16:46:54Z</pubDate>
+            <guid isPermaLink="false">https://github.com/samuel-vitorino/lm.rs</guid>
+            <link>https://github.com/samuel-vitorino/lm.rs</link>
+            
+            
+            
+            <author><![CDATA[littlestymaar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Google Play killed my game and won't tell me why]]></title>
             <description><![CDATA[124 points | <a href=https://news.ycombinator.com/item?id=41808917 target=_blank>59 comments</a>]]></description>
             <pubDate>2024-10-11T12:34:02Z</pubDate>
@@ -162,22 +194,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Understanding the Limitations of Mathematical Reasoning in LLMs]]></title>
-            <description><![CDATA[123 points | <a href=https://news.ycombinator.com/item?id=41808683 target=_blank>145 comments</a>]]></description>
-            <pubDate>2024-10-11T11:55:06Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2410.05229</guid>
-            <link>https://arxiv.org/abs/2410.05229</link>
-            
-            
-            
-            <author><![CDATA[hnhn34]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Nurdle Patrol]]></title>
             <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=41806629 target=_blank>35 comments</a>]]></description>
             <pubDate>2024-10-11T06:00:03Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[amar-laksh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Lm.rs: Minimal CPU LLM inference in Rust with no dependency]]></title>
-            <description><![CDATA[120 points | <a href=https://news.ycombinator.com/item?id=41811078 target=_blank>32 comments</a>]]></description>
-            <pubDate>2024-10-11T16:46:54Z</pubDate>
-            <guid isPermaLink="false">https://github.com/samuel-vitorino/lm.rs</guid>
-            <link>https://github.com/samuel-vitorino/lm.rs</link>
-            
-            
-            
-            <author><![CDATA[littlestymaar]]></author>
             
                 
             
