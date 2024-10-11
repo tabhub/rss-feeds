@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[DeskPad – A virtual monitor for screen sharing]]></title>
-            <description><![CDATA[980 points | <a href=https://news.ycombinator.com/item?id=41800602 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[983 points | <a href=https://news.ycombinator.com/item?id=41800602 target=_blank>142 comments</a>]]></description>
             <pubDate>2024-10-10T16:36:54Z</pubDate>
             <guid isPermaLink="false">https://github.com/Stengo/DeskPad</guid>
             <link>https://github.com/Stengo/DeskPad</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The Copenhagen Book: general guideline on implementing auth in web applications]]></title>
-            <description><![CDATA[632 points | <a href=https://news.ycombinator.com/item?id=41801883 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[635 points | <a href=https://news.ycombinator.com/item?id=41801883 target=_blank>156 comments</a>]]></description>
             <pubDate>2024-10-10T18:37:01Z</pubDate>
             <guid isPermaLink="false">https://thecopenhagenbook.com/</guid>
             <link>https://thecopenhagenbook.com/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: HTML for People]]></title>
-            <description><![CDATA[516 points | <a href=https://news.ycombinator.com/item?id=41801334 target=_blank>173 comments</a>]]></description>
+            <description><![CDATA[518 points | <a href=https://news.ycombinator.com/item?id=41801334 target=_blank>174 comments</a>]]></description>
             <pubDate>2024-10-10T17:47:42Z</pubDate>
             <guid isPermaLink="false">https://htmlforpeople.com</guid>
             <link>https://htmlforpeople.com</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Tesla Robotaxi]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=41805706 target=_blank>585 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=41805706 target=_blank>586 comments</a>]]></description>
             <pubDate>2024-10-11T03:24:25Z</pubDate>
             <guid isPermaLink="false">https://www.tesla.com/we-robot</guid>
             <link>https://www.tesla.com/we-robot</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Game Programming in Prolog]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=41800764 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=41800764 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-10-10T16:50:40Z</pubDate>
             <guid isPermaLink="false">https://thingspool.net/morsels/page-10.html</guid>
             <link>https://thingspool.net/morsels/page-10.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Nobel Peace Prize for 2024 awarded to Nihon Hidankyo]]></title>
-            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=41807681 target=_blank>159 comments</a>]]></description>
+            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=41807681 target=_blank>160 comments</a>]]></description>
             <pubDate>2024-10-11T09:01:54Z</pubDate>
             <guid isPermaLink="false">https://www.nobelprize.org/press-release-peace-2024/</guid>
             <link>https://www.nobelprize.org/press-release-peace-2024/</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The science behind on-the-wrist blood pressure tracking]]></title>
-            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=41799324 target=_blank>93 comments</a>]]></description>
-            <pubDate>2024-10-10T14:40:43Z</pubDate>
-            <guid isPermaLink="false">https://www.empirical.health/blog/apple-watch-blood-pressure/</guid>
-            <link>https://www.empirical.health/blog/apple-watch-blood-pressure/</link>
-            
-            
-            
-            <author><![CDATA[brandonb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[A Lisp compiler to RISC-V written in Lisp]]></title>
-            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=41808696 target=_blank>17 comments</a>]]></description>
+            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=41808696 target=_blank>18 comments</a>]]></description>
             <pubDate>2024-10-11T11:56:57Z</pubDate>
             <guid isPermaLink="false">http://www.ulisp.com/show?4Y20</guid>
             <link>http://www.ulisp.com/show?4Y20</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[chrisjj]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Manifest v2 is now removed from Chrome canary]]></title>
+            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>111 comments</a>]]></description>
+            <pubDate>2024-10-11T14:20:26Z</pubDate>
+            <guid isPermaLink="false">https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</guid>
+            <link>https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</link>
+            
+            
+            
+            <author><![CDATA[freedomben]]></author>
             
                 
             
