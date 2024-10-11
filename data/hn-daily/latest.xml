@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[$2 H100s: How the GPU Rental Bubble Burst]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=41805446 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=41805446 target=_blank>253 comments</a>]]></description>
             <pubDate>2024-10-11T02:19:42Z</pubDate>
             <guid isPermaLink="false">https://www.latent.space/p/gpu-bubble</guid>
             <link>https://www.latent.space/p/gpu-bubble</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA["Begin disabling installed extensions still using Manifest V2 in Chrome stable"]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>277 comments</a>]]></description>
+            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>280 comments</a>]]></description>
             <pubDate>2024-10-11T14:20:26Z</pubDate>
             <guid isPermaLink="false">https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</guid>
             <link>https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Nobel Peace Prize for 2024 awarded to Nihon Hidankyo]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=41807681 target=_blank>302 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=41807681 target=_blank>305 comments</a>]]></description>
             <pubDate>2024-10-11T09:01:54Z</pubDate>
             <guid isPermaLink="false">https://www.nobelprize.org/press-release-peace-2024/</guid>
             <link>https://www.nobelprize.org/press-release-peace-2024/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[A Lisp compiler to RISC-V written in Lisp]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=41808696 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=41808696 target=_blank>31 comments</a>]]></description>
             <pubDate>2024-10-11T11:56:57Z</pubDate>
             <guid isPermaLink="false">http://www.ulisp.com/show?4Y20</guid>
             <link>http://www.ulisp.com/show?4Y20</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[How long til we're all on Ozempic?]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=41811263 target=_blank>817 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=41811263 target=_blank>838 comments</a>]]></description>
             <pubDate>2024-10-11T17:06:30Z</pubDate>
             <guid isPermaLink="false">https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic</guid>
             <link>https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic</link>
@@ -107,6 +107,38 @@
             
             
             <author><![CDATA[thehoff]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Working from home is powering productivity]]></title>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41813304 target=_blank>59 comments</a>]]></description>
+            <pubDate>2024-10-11T20:18:30Z</pubDate>
+            <guid isPermaLink="false">https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom</guid>
+            <link>https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom</link>
+            
+            
+            
+            <author><![CDATA[rwmj]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Lm.rs: Minimal CPU LLM inference in Rust with no dependency]]></title>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41811078 target=_blank>37 comments</a>]]></description>
+            <pubDate>2024-10-11T16:46:54Z</pubDate>
+            <guid isPermaLink="false">https://github.com/samuel-vitorino/lm.rs</guid>
+            <link>https://github.com/samuel-vitorino/lm.rs</link>
+            
+            
+            
+            <author><![CDATA[littlestymaar]]></author>
             
                 
             
@@ -130,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Lm.rs: Minimal CPU LLM inference in Rust with no dependency]]></title>
-            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=41811078 target=_blank>35 comments</a>]]></description>
-            <pubDate>2024-10-11T16:46:54Z</pubDate>
-            <guid isPermaLink="false">https://github.com/samuel-vitorino/lm.rs</guid>
-            <link>https://github.com/samuel-vitorino/lm.rs</link>
-            
-            
-            
-            <author><![CDATA[littlestymaar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Initial CUDA Performance Lessons]]></title>
-            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=41808013 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=41808013 target=_blank>33 comments</a>]]></description>
             <pubDate>2024-10-11T10:01:32Z</pubDate>
             <guid isPermaLink="false">https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/</guid>
             <link>https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[Understanding the Limitations of Mathematical Reasoning in LLMs]]></title>
-            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=41808683 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=41808683 target=_blank>167 comments</a>]]></description>
             <pubDate>2024-10-11T11:55:06Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2410.05229</guid>
             <link>https://arxiv.org/abs/2410.05229</link>
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[hnhn34]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Working from home is powering productivity]]></title>
-            <description><![CDATA[129 points | <a href=https://news.ycombinator.com/item?id=41813304 target=_blank>40 comments</a>]]></description>
-            <pubDate>2024-10-11T20:18:30Z</pubDate>
-            <guid isPermaLink="false">https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom</guid>
-            <link>https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom</link>
-            
-            
-            
-            <author><![CDATA[rwmj]]></author>
             
                 
             
