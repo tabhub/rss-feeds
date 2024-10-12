@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA["Begin disabling installed extensions still using Manifest V2 in Chrome stable"]]></title>
-            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>383 comments</a>]]></description>
-            <pubDate>2024-10-11T14:20:26Z</pubDate>
-            <guid isPermaLink="false">https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</guid>
-            <link>https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</link>
-            
-            
-            
-            <author><![CDATA[freedomben]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Working from home is powering productivity]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=41813304 target=_blank>260 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=41813304 target=_blank>260 comments</a>]]></description>
             <pubDate>2024-10-11T20:18:30Z</pubDate>
             <guid isPermaLink="false">https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom</guid>
             <link>https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA["Begin disabling installed extensions still using Manifest V2 in Chrome stable"]]></title>
+            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>383 comments</a>]]></description>
+            <pubDate>2024-10-11T14:20:26Z</pubDate>
+            <guid isPermaLink="false">https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</guid>
+            <link>https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</link>
+            
+            
+            
+            <author><![CDATA[freedomben]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How long til we're all on Ozempic?]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=41811263 target=_blank>1149 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=41811263 target=_blank>1152 comments</a>]]></description>
             <pubDate>2024-10-11T17:06:30Z</pubDate>
             <guid isPermaLink="false">https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic</guid>
             <link>https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Nobel Peace Prize for 2024 awarded to Nihon Hidankyo]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=41807681 target=_blank>327 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=41807681 target=_blank>327 comments</a>]]></description>
             <pubDate>2024-10-11T09:01:54Z</pubDate>
             <guid isPermaLink="false">https://www.nobelprize.org/press-release-peace-2024/</guid>
             <link>https://www.nobelprize.org/press-release-peace-2024/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A Lisp compiler to RISC-V written in Lisp]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=41808696 target=_blank>46 comments</a>]]></description>
-            <pubDate>2024-10-11T11:56:57Z</pubDate>
-            <guid isPermaLink="false">http://www.ulisp.com/show?4Y20</guid>
-            <link>http://www.ulisp.com/show?4Y20</link>
-            
-            
-            
-            <author><![CDATA[chrisjj]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Lm.rs: Minimal CPU LLM inference in Rust with no dependency]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=41811078 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=41811078 target=_blank>54 comments</a>]]></description>
             <pubDate>2024-10-11T16:46:54Z</pubDate>
             <guid isPermaLink="false">https://github.com/samuel-vitorino/lm.rs</guid>
             <link>https://github.com/samuel-vitorino/lm.rs</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[A Lisp compiler to RISC-V written in Lisp]]></title>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=41808696 target=_blank>46 comments</a>]]></description>
+            <pubDate>2024-10-11T11:56:57Z</pubDate>
+            <guid isPermaLink="false">http://www.ulisp.com/show?4Y20</guid>
+            <link>http://www.ulisp.com/show?4Y20</link>
+            
+            
+            
+            <author><![CDATA[chrisjj]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Understanding the Limitations of Mathematical Reasoning in LLMs]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41808683 target=_blank>216 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41808683 target=_blank>217 comments</a>]]></description>
             <pubDate>2024-10-11T11:55:06Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2410.05229</guid>
             <link>https://arxiv.org/abs/2410.05229</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Started a guide to writing FUSE filesystems in Python]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=41811983 target=_blank>44 comments</a>]]></description>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=41811983 target=_blank>44 comments</a>]]></description>
             <pubDate>2024-10-11T18:29:40Z</pubDate>
             <guid isPermaLink="false">https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html</guid>
             <link>https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Valve says Steam users don't own a thing, GOG says its games can't be taken away]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=41812813 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=41812813 target=_blank>112 comments</a>]]></description>
             <pubDate>2024-10-11T19:37:32Z</pubDate>
             <guid isPermaLink="false">https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/</guid>
             <link>https://www.gamesradar.com/games/valve-reminds-steam-users-they-dont-actually-own-a-darn-thing-they-buy-gog-pounces-and-says-its-games-cannot-be-taken-away-from-you-thanks-to-offline-installers/</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[josephcsible]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[An exoskeleton let a paralyzed man walk, then its maker refused repairs]]></title>
+            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=41813720 target=_blank>110 comments</a>]]></description>
+            <pubDate>2024-10-11T21:03:50Z</pubDate>
+            <guid isPermaLink="false">https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/</guid>
+            <link>https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/</link>
+            
+            
+            
+            <author><![CDATA[paulpauper]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[An exoskeleton let a paralyzed man walk, then its maker refused repairs]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41813720 target=_blank>108 comments</a>]]></description>
-            <pubDate>2024-10-11T21:03:50Z</pubDate>
-            <guid isPermaLink="false">https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/</guid>
-            <link>https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/</link>
-            
-            
-            
-            <author><![CDATA[paulpauper]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Kagi Snaps]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=41813676 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=41813676 target=_blank>51 comments</a>]]></description>
             <pubDate>2024-10-11T20:58:48Z</pubDate>
             <guid isPermaLink="false">https://help.kagi.com/kagi/features/snaps.html</guid>
             <link>https://help.kagi.com/kagi/features/snaps.html</link>
