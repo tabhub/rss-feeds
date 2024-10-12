@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Working from home is powering productivity]]></title>
-            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=41813304 target=_blank>320 comments</a>]]></description>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=41813304 target=_blank>323 comments</a>]]></description>
             <pubDate>2024-10-11T20:18:30Z</pubDate>
             <guid isPermaLink="false">https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom</guid>
             <link>https://www.imf.org/en/Publications/fandd/issues/2024/09/working-from-home-is-powering-productivity-bloom</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA["Begin disabling installed extensions still using Manifest V2 in Chrome stable"]]></title>
-            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>402 comments</a>]]></description>
+            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=41809698 target=_blank>402 comments</a>]]></description>
             <pubDate>2024-10-11T14:20:26Z</pubDate>
             <guid isPermaLink="false">https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</guid>
             <link>https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[How long til we're all on Ozempic?]]></title>
-            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=41811263 target=_blank>1240 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=41811263 target=_blank>1246 comments</a>]]></description>
             <pubDate>2024-10-11T17:06:30Z</pubDate>
             <guid isPermaLink="false">https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic</guid>
             <link>https://asteriskmag.com/issues/07/how-long-til-were-all-on-ozempic</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Lm.rs: Minimal CPU LLM inference in Rust with no dependency]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=41811078 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=41811078 target=_blank>62 comments</a>]]></description>
             <pubDate>2024-10-11T16:46:54Z</pubDate>
             <guid isPermaLink="false">https://github.com/samuel-vitorino/lm.rs</guid>
             <link>https://github.com/samuel-vitorino/lm.rs</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Understanding the Limitations of Mathematical Reasoning in LLMs]]></title>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=41808683 target=_blank>229 comments</a>]]></description>
+            <pubDate>2024-10-11T11:55:06Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2410.05229</guid>
+            <link>https://arxiv.org/abs/2410.05229</link>
+            
+            
+            
+            <author><![CDATA[hnhn34]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Started a guide to writing FUSE filesystems in Python]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=41811983 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=41811983 target=_blank>54 comments</a>]]></description>
             <pubDate>2024-10-11T18:29:40Z</pubDate>
             <guid isPermaLink="false">https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html</guid>
             <link>https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html</link>
@@ -114,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Understanding the Limitations of Mathematical Reasoning in LLMs]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=41808683 target=_blank>228 comments</a>]]></description>
-            <pubDate>2024-10-11T11:55:06Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2410.05229</guid>
-            <link>https://arxiv.org/abs/2410.05229</link>
+            <title><![CDATA[AMD's Turin: 5th Gen EPYC Launched]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=41815268 target=_blank>72 comments</a>]]></description>
+            <pubDate>2024-10-12T00:22:48Z</pubDate>
+            <guid isPermaLink="false">https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched</guid>
+            <link>https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched</link>
             
             
             
-            <author><![CDATA[hnhn34]]></author>
+            <author><![CDATA[zdw]]></author>
             
                 
             
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[AMD's Turin: 5th Gen EPYC Launched]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=41815268 target=_blank>70 comments</a>]]></description>
-            <pubDate>2024-10-12T00:22:48Z</pubDate>
-            <guid isPermaLink="false">https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched</guid>
-            <link>https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[An exoskeleton let a paralyzed man walk, then its maker refused repairs]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=41813720 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=41813720 target=_blank>127 comments</a>]]></description>
             <pubDate>2024-10-11T21:03:50Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/</guid>
             <link>https://www.washingtonpost.com/nation/2024/10/08/exoskeleton-paralyzed-repairs-michael-straight/</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Initial CUDA Performance Lessons]]></title>
-            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=41808013 target=_blank>36 comments</a>]]></description>
-            <pubDate>2024-10-11T10:01:32Z</pubDate>
-            <guid isPermaLink="false">https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/</guid>
-            <link>https://probablydance.com/2024/10/07/initial-cuda-performance-lessons/</link>
-            
-            
-            
-            <author><![CDATA[ibobev]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Kagi Snaps]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41813676 target=_blank>59 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=41813676 target=_blank>59 comments</a>]]></description>
             <pubDate>2024-10-11T20:58:48Z</pubDate>
             <guid isPermaLink="false">https://help.kagi.com/kagi/features/snaps.html</guid>
             <link>https://help.kagi.com/kagi/features/snaps.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[aleksi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Google is preparing to let you run Linux apps on Android, just like Chrome OS]]></title>
+            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=41816756 target=_blank>138 comments</a>]]></description>
+            <pubDate>2024-10-12T05:49:33Z</pubDate>
+            <guid isPermaLink="false">https://www.androidauthority.com/android-linux-terminal-app-3489887/</guid>
+            <link>https://www.androidauthority.com/android-linux-terminal-app-3489887/</link>
+            
+            
+            
+            <author><![CDATA[politelemon]]></author>
             
                 
             
