@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: I built the most over-engineered Deal With It emoji generator]]></title>
-            <description><![CDATA[696 points | <a href=https://news.ycombinator.com/item?id=41848150 target=_blank>133 comments</a>]]></description>
+            <description><![CDATA[707 points | <a href=https://news.ycombinator.com/item?id=41848150 target=_blank>137 comments</a>]]></description>
             <pubDate>2024-10-15T13:05:05Z</pubDate>
             <guid isPermaLink="false">https://emoji.build/deal-with-it-generator/</guid>
             <link>https://emoji.build/deal-with-it-generator/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Sqlite3 WebAssembly]]></title>
-            <description><![CDATA[549 points | <a href=https://news.ycombinator.com/item?id=41851051 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[553 points | <a href=https://news.ycombinator.com/item?id=41851051 target=_blank>157 comments</a>]]></description>
             <pubDate>2024-10-15T17:45:27Z</pubDate>
             <guid isPermaLink="false">https://sqlite.org/wasm/doc/trunk/index.md</guid>
             <link>https://sqlite.org/wasm/doc/trunk/index.md</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: Graphite, a Blender-inspired 2D procedural design Rust app]]></title>
-            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=41853810 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=41853810 target=_blank>69 comments</a>]]></description>
             <pubDate>2024-10-15T22:32:06Z</pubDate>
             <guid isPermaLink="false">https://graphite.rs/</guid>
             <link>https://graphite.rs/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[The C23 edition of Modern C]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=41850017 target=_blank>238 comments</a>]]></description>
+            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=41850017 target=_blank>240 comments</a>]]></description>
             <pubDate>2024-10-15T16:06:29Z</pubDate>
             <guid isPermaLink="false">https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/</guid>
             <link>https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: I 3D scanned the tunnels inside the Maya Pyramid Temples at Copan]]></title>
-            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=41848099 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=41848099 target=_blank>70 comments</a>]]></description>
             <pubDate>2024-10-15T12:57:54Z</pubDate>
             <guid isPermaLink="false">https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/</guid>
             <link>https://mused.com/guided/158/temple-26-and-excavation-tunnels-copan-ruinas/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Apple introduces iPad mini built for Apple Intelligence]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=41849058 target=_blank>412 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=41849058 target=_blank>418 comments</a>]]></description>
             <pubDate>2024-10-15T14:35:29Z</pubDate>
             <guid isPermaLink="false">https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/</guid>
             <link>https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Asterinas: OS kernel written in Rust and providing Linux-compatible ABI]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=41847640 target=_blank>143 comments</a>]]></description>
-            <pubDate>2024-10-15T12:01:59Z</pubDate>
-            <guid isPermaLink="false">https://github.com/asterinas/asterinas</guid>
-            <link>https://github.com/asterinas/asterinas</link>
-            
-            
-            
-            <author><![CDATA[Klasiaster]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[CapibaraZero: A cheap alternative to FlipperZero based on ESP32-S3]]></title>
-            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=41852821 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=41852821 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-10-15T20:34:41Z</pubDate>
             <guid isPermaLink="false">https://capibarazero.github.io/docs/</guid>
             <link>https://capibarazero.github.io/docs/</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Asterinas: OS kernel written in Rust and providing Linux-compatible ABI]]></title>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=41847640 target=_blank>151 comments</a>]]></description>
+            <pubDate>2024-10-15T12:01:59Z</pubDate>
+            <guid isPermaLink="false">https://github.com/asterinas/asterinas</guid>
+            <link>https://github.com/asterinas/asterinas</link>
+            
+            
+            
+            <author><![CDATA[Klasiaster]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Mothbox 4.0]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=41848804 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=41848804 target=_blank>29 comments</a>]]></description>
             <pubDate>2024-10-15T14:10:58Z</pubDate>
             <guid isPermaLink="false">https://digital-naturalism-laboratories.github.io/Mothbox/</guid>
             <link>https://digital-naturalism-laboratories.github.io/Mothbox/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Meta's open AI hardware vision]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=41851304 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=41851304 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-10-15T18:08:15Z</pubDate>
             <guid isPermaLink="false">https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/</guid>
             <link>https://engineering.fb.com/2024/10/15/data-infrastructure/metas-open-ai-hardware-vision/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Why don't we use awnings anymore (2022)]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=41853637 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=41853637 target=_blank>195 comments</a>]]></description>
             <pubDate>2024-10-15T22:11:35Z</pubDate>
             <guid isPermaLink="false">https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/</guid>
             <link>https://thecraftsmanblog.com/why-dont-we-use-awnings-anymore/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Mermaid ASCII Diagrams]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=41847407 target=_blank>40 comments</a>]]></description>
-            <pubDate>2024-10-15T11:30:14Z</pubDate>
-            <guid isPermaLink="false">https://mermaid-ascii.art/</guid>
-            <link>https://mermaid-ascii.art/</link>
+            <title><![CDATA[MacOS sometimes leaks traffic after system updates]]></title>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=41856883 target=_blank>83 comments</a>]]></description>
+            <pubDate>2024-10-16T08:37:23Z</pubDate>
+            <guid isPermaLink="false">https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates</guid>
+            <link>https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates</link>
             
             
             
-            <author><![CDATA[AlexanderGrooff]]></author>
+            <author><![CDATA[dulvui]]></author>
             
                 
             
