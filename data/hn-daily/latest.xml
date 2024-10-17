@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[FTC announces "click-to-cancel" rule making it easier to cancel subscriptions]]></title>
-            <description><![CDATA[1351 points | <a href=https://news.ycombinator.com/item?id=41858665 target=_blank>607 comments</a>]]></description>
+            <description><![CDATA[1360 points | <a href=https://news.ycombinator.com/item?id=41858665 target=_blank>610 comments</a>]]></description>
             <pubDate>2024-10-16T13:09:04Z</pubDate>
             <guid isPermaLink="false">https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring</guid>
             <link>https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[ArchiveBox is evolving: the future of self-hosted internet archives]]></title>
-            <description><![CDATA[493 points | <a href=https://news.ycombinator.com/item?id=41860909 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[496 points | <a href=https://news.ycombinator.com/item?id=41860909 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-10-16T16:18:39Z</pubDate>
             <guid isPermaLink="false">https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement</guid>
             <link>https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[FLOSS/fund for free and open source projects]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=41857032 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=41857032 target=_blank>98 comments</a>]]></description>
             <pubDate>2024-10-16T09:02:25Z</pubDate>
             <guid isPermaLink="false">https://floss.fund/blog/announcing-floss-fund/</guid>
             <link>https://floss.fund/blog/announcing-floss-fund/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Traveling with Apple Vision Pro]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=41859012 target=_blank>453 comments</a>]]></description>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=41859012 target=_blank>454 comments</a>]]></description>
             <pubDate>2024-10-16T13:48:51Z</pubDate>
             <guid isPermaLink="false">https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/</guid>
             <link>https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Winamp deletes entire GitHub source code repo after a rocky few weeks]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=41861056 target=_blank>258 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=41861056 target=_blank>259 comments</a>]]></description>
             <pubDate>2024-10-16T16:34:15Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/</guid>
             <link>https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[dangle1]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hofstadter on Lisp (1983)]]></title>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=41858975 target=_blank>130 comments</a>]]></description>
+            <pubDate>2024-10-16T13:44:37Z</pubDate>
+            <guid isPermaLink="false">https://gist.github.com/jackrusher/5139396</guid>
+            <link>https://gist.github.com/jackrusher/5139396</link>
+            
+            
+            
+            <author><![CDATA[Eric_WVGG]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Hofstadter on Lisp (1983)]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=41858975 target=_blank>130 comments</a>]]></description>
-            <pubDate>2024-10-16T13:44:37Z</pubDate>
-            <guid isPermaLink="false">https://gist.github.com/jackrusher/5139396</guid>
-            <link>https://gist.github.com/jackrusher/5139396</link>
-            
-            
-            
-            <author><![CDATA[Eric_WVGG]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[AI PCs Aren't Good at AI: The CPU Beats the NPU]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=41863061 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=41863061 target=_blank>188 comments</a>]]></description>
             <pubDate>2024-10-16T19:44:02Z</pubDate>
             <guid isPermaLink="false">https://github.com/usefulsensors/qc_npu_benchmark</guid>
             <link>https://github.com/usefulsensors/qc_npu_benchmark</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[dbreunig]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Amazon reveals first color Kindle, new Kindle Scribe, and more]]></title>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=41859047 target=_blank>326 comments</a>]]></description>
+            <pubDate>2024-10-16T13:52:55Z</pubDate>
+            <guid isPermaLink="false">https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry</guid>
+            <link>https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry</link>
+            
+            
+            
+            <author><![CDATA[bookofjoe]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Amazon reveals first color Kindle, new Kindle Scribe, and more]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=41859047 target=_blank>313 comments</a>]]></description>
-            <pubDate>2024-10-16T13:52:55Z</pubDate>
-            <guid isPermaLink="false">https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry</guid>
-            <link>https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry</link>
-            
-            
-            
-            <author><![CDATA[bookofjoe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Un Ministral, Des Ministraux]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=41859466 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=41859466 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-10-16T14:31:18Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/news/ministraux/</guid>
             <link>https://mistral.ai/news/ministraux/</link>
