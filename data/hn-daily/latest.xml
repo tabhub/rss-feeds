@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Love being interrupted when my monitor asks me to accept user agreements]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=41889140 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=41889140 target=_blank>175 comments</a>]]></description>
             <pubDate>2024-10-19T17:27:17Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/snwy_me/status/1847396175961641176</guid>
             <link>https://twitter.com/snwy_me/status/1847396175961641176</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Svelte 5 Released]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=41889674 target=_blank>95 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=41889674 target=_blank>114 comments</a>]]></description>
             <pubDate>2024-10-19T18:38:06Z</pubDate>
             <guid isPermaLink="false">https://www.npmjs.com/package/svelte</guid>
             <link>https://www.npmjs.com/package/svelte</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The long road to lazy preemption in the Linux CPU scheduler]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=41886256 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=41886256 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-10-19T07:29:56Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/</guid>
             <link>https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/</link>
@@ -66,8 +66,40 @@
         </item>
         
         <item>
+            <title><![CDATA[AI engineers claim new algorithm reduces AI power consumption by 95%]]></title>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=41889414 target=_blank>73 comments</a>]]></description>
+            <pubDate>2024-10-19T18:03:32Z</pubDate>
+            <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition</guid>
+            <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition</link>
+            
+            
+            
+            <author><![CDATA[ferriswil]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Send: Open-source fork of Firefox Send]]></title>
+            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=41887378 target=_blank>51 comments</a>]]></description>
+            <pubDate>2024-10-19T12:17:15Z</pubDate>
+            <guid isPermaLink="false">https://send.vis.ee/</guid>
+            <link>https://send.vis.ee/</link>
+            
+            
+            
+            <author><![CDATA[leonry]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Have McKinsey and its consulting rivals got too big?]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=41888061 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=41888061 target=_blank>156 comments</a>]]></description>
             <pubDate>2024-10-19T14:46:48Z</pubDate>
             <guid isPermaLink="false">https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big</guid>
             <link>https://www.economist.com/business/2024/03/25/have-mckinsey-and-its-consulting-rivals-got-too-big</link>
@@ -82,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Send: Open-source fork of Firefox Send]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=41887378 target=_blank>50 comments</a>]]></description>
-            <pubDate>2024-10-19T12:17:15Z</pubDate>
-            <guid isPermaLink="false">https://send.vis.ee/</guid>
-            <link>https://send.vis.ee/</link>
+            <title><![CDATA[A Distributed Systems Reading List (2014)]]></title>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=41889076 target=_blank>9 comments</a>]]></description>
+            <pubDate>2024-10-19T17:17:19Z</pubDate>
+            <guid isPermaLink="false">https://dancres.github.io/Pages/</guid>
+            <link>https://dancres.github.io/Pages/</link>
             
             
             
-            <author><![CDATA[leonry]]></author>
+            <author><![CDATA[udev4096]]></author>
             
                 
             
@@ -114,31 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AI engineers claim new algorithm reduces AI power consumption by 95%]]></title>
-            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=41889414 target=_blank>68 comments</a>]]></description>
-            <pubDate>2024-10-19T18:03:32Z</pubDate>
-            <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition</guid>
-            <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineers-build-new-algorithm-for-ai-processing-replace-complex-floating-point-multiplication-with-integer-addition</link>
+            <title><![CDATA[QUIC Is Not Quick Enough over Fast Internet]]></title>
+            <description><![CDATA[128 points | <a href=https://news.ycombinator.com/item?id=41890784 target=_blank>118 comments</a>]]></description>
+            <pubDate>2024-10-19T21:04:52Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2310.09423</guid>
+            <link>https://arxiv.org/abs/2310.09423</link>
             
             
             
-            <author><![CDATA[ferriswil]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A Distributed Systems Reading List (2014)]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=41889076 target=_blank>9 comments</a>]]></description>
-            <pubDate>2024-10-19T17:17:19Z</pubDate>
-            <guid isPermaLink="false">https://dancres.github.io/Pages/</guid>
-            <link>https://dancres.github.io/Pages/</link>
-            
-            
-            
-            <author><![CDATA[udev4096]]></author>
+            <author><![CDATA[carlos-menezes]]></author>
             
                 
             
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Dwarf Fortress – Boatmurdered Part #1 – Intro (2006)]]></title>
-            <description><![CDATA[112 points | <a href=https://news.ycombinator.com/item?id=41889543 target=_blank>35 comments</a>]]></description>
+            <description><![CDATA[114 points | <a href=https://news.ycombinator.com/item?id=41889543 target=_blank>37 comments</a>]]></description>
             <pubDate>2024-10-19T18:19:59Z</pubDate>
             <guid isPermaLink="false">https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/</guid>
             <link>https://lparchive.org/Dwarf-Fortress-Boatmurdered/Introduction/</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[How to leverage Claude's capabilities with interactive visualization]]></title>
-            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=41885231 target=_blank>26 comments</a>]]></description>
+            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=41885231 target=_blank>26 comments</a>]]></description>
             <pubDate>2024-10-19T02:39:29Z</pubDate>
             <guid isPermaLink="false">https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst</guid>
             <link>https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst</link>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[QUIC Is Not Quick Enough over Fast Internet]]></title>
-            <description><![CDATA[104 points | <a href=https://news.ycombinator.com/item?id=41890784 target=_blank>86 comments</a>]]></description>
-            <pubDate>2024-10-19T21:04:52Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2310.09423</guid>
-            <link>https://arxiv.org/abs/2310.09423</link>
-            
-            
-            
-            <author><![CDATA[carlos-menezes]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[S3 as a Git remote and LFS server]]></title>
-            <description><![CDATA[103 points | <a href=https://news.ycombinator.com/item?id=41887004 target=_blank>20 comments</a>]]></description>
+            <description><![CDATA[107 points | <a href=https://news.ycombinator.com/item?id=41887004 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-10-19T10:37:32Z</pubDate>
             <guid isPermaLink="false">https://github.com/awslabs/git-remote-s3</guid>
             <link>https://github.com/awslabs/git-remote-s3</link>
