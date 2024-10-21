@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #690]]></title>
+        <title><![CDATA[Perl Weekly #691]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Weather::OWM released on CPAN]]></title>
-            <description><![CDATA[A new module, <strong>Weather::ORM</strong> just arrived. The OpenWeather API has a Free tier with both current weather and forecast, which makes the module useful to anyone interested in fetching weather for any location.]]></description>
-            <pubDate>2024.10.10</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dimitrios_kechagias/2024/10/weatherowm-released-on-cpan.html</guid>
-            <link>https://blogs.perl.org/users/dimitrios_kechagias/2024/10/weatherowm-released-on-cpan.html</link>
+            <title><![CDATA[Coming soon... Data Munging with Perl - Second Edition]]></title>
+            <description><![CDATA[Coming soon... Data Munging with Perl - Second Edition]]></description>
+            <pubDate>2024.10.19</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1g6nbdo/coming_soon/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1g6nbdo/coming_soon/</link>
             
             
             
-            <author><![CDATA[dimitrios_kechagias]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (163) | 2024-10-10]]></title>
-            <description><![CDATA[<strong>Olaf Alders</strong> joined this week PSC meeting exchanged ideas.]]></description>
-            <pubDate>2024.10.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/10/this-week-in-psc-163-2024-10-10.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/10/this-week-in-psc-163-2024-10-10.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Why The Perl and Raku Foundation Supports The Open Source Pledge]]></title>
-            <description><![CDATA[The Open Source Pledge consists of companies with a shared commitment to paying the maintainers of the open source software they consume, therefore aims to help address sustainability challenges facing the Open Source community.]]></description>
-            <pubDate>2024.10.08</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/-open-source-pledge</guid>
-            <link>https://news.perlfoundation.org/post/-open-source-pledge</link>
+            <title><![CDATA[London Perl Workshop 2024 – Preview]]></title>
+            <description><![CDATA[After a break of five years, the London Perl Workshop returns next weekend. It’s been twenty years since the first one.]]></description>
+            <pubDate>2024.10.20</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2024/10/london-perl-workshop-2024-preview/</guid>
+            <link>https://perlhacks.com/2024/10/london-perl-workshop-2024-preview/</link>
             
             
             
-            <author><![CDATA[stuart_mackintosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How to create a parallel echo server using goroutines in SPVM?]]></title>
-            <description><![CDATA[Create a parallel echo server using <strong>SPVM::IO::Socket::IP</strong> and goroutines, channels, select in <strong>SPVM::Go</strong>.]]></description>
-            <pubDate>2024.10.09</pubDate>
-            <guid isPermaLink="false">https://dev.to/yukikimoto/how-to-create-a-parallel-echo-server-using-goroutines-in-spvm-4e7p</guid>
-            <link>https://dev.to/yukikimoto/how-to-create-a-parallel-echo-server-using-goroutines-in-spvm-4e7p</link>
-            
-            
-            
-            <author><![CDATA[yuki_kimoto]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How to generate an executable file for an AI program using SPVM ?]]></title>
-            <description><![CDATA[Wouldn't you like to output a single executable file from your AI program? Then, you can run the AI ​​program just by copying the executable file to the Raspberry Pi.]]></description>
-            <pubDate>2024.10.08</pubDate>
-            <guid isPermaLink="false">https://dev.to/yukikimoto/how-to-generate-an-executable-file-for-an-ai-program-using-spvm--3eie</guid>
-            <link>https://dev.to/yukikimoto/how-to-generate-an-executable-file-for-an-ai-program-using-spvm--3eie</link>
+            <title><![CDATA[The URI module went on holiday, but then returned]]></title>
+            <description><![CDATA[There is certain gamification of making improvements. Go ahead, read this and then add your reaction and your GitHub Star.]]></description>
+            <pubDate>2024.10.19</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1g6tv9r/the_uri_module_went_on_holiday_but_then_returned/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1g6tv9r/the_uri_module_went_on_holiday_but_then_returned/</link>
             
             
             
-            <author><![CDATA[yuki_kimoto]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[wxPerl Revival]]></title>
-            <description><![CDATA[This is the beginning of wxPerl revival. Please do support the initiative.]]></description>
-            <pubDate>2024.10.12</pubDate>
-            <guid isPermaLink="false">https://dev.to/sciurius/wxperl-revival-5fde</guid>
-            <link>https://dev.to/sciurius/wxperl-revival-5fde</link>
-            
-            
-            
-            <author><![CDATA[johan_vromans]]></author>
+            <author><![CDATA[brian_d_foy]]></author>
             
                 
             
@@ -114,47 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[London Perl & Raku Workshop 2024 Gold Sponsor: Oleeo]]></title>
-            <description><![CDATA[Oleeo is an award-winning provider of innovative talent acquisition technology. Built using intelligent automation and machine learning, Oleeo’s platform helps companies discover unlimited sourcing potential to attract, engage and hire amazing, diverse teams that change the world for the better.]]></description>
-            <pubDate>2024.10.09</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lpw/2024/10/london-perl-raku-workshop-2024-gold-sponsor-oleeo.html</guid>
-            <link>https://blogs.perl.org/users/lpw/2024/10/london-perl-raku-workshop-2024-gold-sponsor-oleeo.html</link>
+            <title><![CDATA[Table subset searching with a list and DBIx::Class ]]></title>
+            <description><![CDATA[How to write the SQL query clause 'WHERE column_name IN list' using DBIx::Class?]]></description>
+            <pubDate>2024.10.16</pubDate>
+            <guid isPermaLink="false">https://dev.to/peateasea/table-subset-searching-with-a-list-and-dbixclass-49io</guid>
+            <link>https://dev.to/peateasea/table-subset-searching-with-a-list-and-dbixclass-49io</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[London Perl & Raku Workshop 2024 Silver Sponsors]]></title>
-            <description><![CDATA[Geekuni can give software developers with no previous Perl experience the training they need, as they need it. Geizhals Preisvergleich is one of the largest product and price comparison platforms in the German-speaking area.]]></description>
-            <pubDate>2024.10.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lpw/2024/10/london-perl-raku-workshop-2024-silver-sponsors.html</guid>
-            <link>https://blogs.perl.org/users/lpw/2024/10/london-perl-raku-workshop-2024-silver-sponsors.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2024.41 KnowLite]]></title>
-            <description><![CDATA[2024.41 KnowLite]]></description>
-            <pubDate>2024.10.07</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/10/07/2024-41-knowlite/</guid>
-            <link>https://rakudoweekly.blog/2024/10/07/2024-41-knowlite/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[paul_cochrane]]></author>
             
                 
             
@@ -163,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/10/dxvii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2024.10.13</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/10/dxviii-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.10.20</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
