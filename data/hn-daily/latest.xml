@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Understanding Round Robin DNS]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=41955912 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=41955912 target=_blank>104 comments</a>]]></description>
             <pubDate>2024-10-26T16:46:52Z</pubDate>
             <guid isPermaLink="false">https://blog.hyperknot.com/p/understanding-round-robin-dns</guid>
             <link>https://blog.hyperknot.com/p/understanding-round-robin-dns</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Shrunked JavaScript monorepo Git size by 94%]]></title>
-            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=41959428 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=41959428 target=_blank>91 comments</a>]]></description>
             <pubDate>2024-10-27T02:35:22Z</pubDate>
             <guid isPermaLink="false">https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/</guid>
             <link>https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[I discovered mysterious hidden signals on a public radio channel (2013) [video]]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=41958766 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=41958766 target=_blank>33 comments</a>]]></description>
             <pubDate>2024-10-27T00:09:50Z</pubDate>
             <guid isPermaLink="false">https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen</guid>
             <link>https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Should JavaScript be split into two languages?]]></title>
-            <description><![CDATA[130 points | <a href=https://news.ycombinator.com/item?id=41955353 target=_blank>241 comments</a>]]></description>
+            <description><![CDATA[130 points | <a href=https://news.ycombinator.com/item?id=41955353 target=_blank>245 comments</a>]]></description>
             <pubDate>2024-10-26T15:27:37Z</pubDate>
             <guid isPermaLink="false">https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/</guid>
             <link>https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Open washing – why companies pretend to be open source]]></title>
-            <description><![CDATA[125 points | <a href=https://news.ycombinator.com/item?id=41955473 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[125 points | <a href=https://news.ycombinator.com/item?id=41955473 target=_blank>79 comments</a>]]></description>
             <pubDate>2024-10-26T15:45:42Z</pubDate>
             <guid isPermaLink="false">https://www.theregister.com/2024/10/25/opinion_open_washing/</guid>
             <link>https://www.theregister.com/2024/10/25/opinion_open_washing/</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Bullenweg.com is no longer available following threats of legal action]]></title>
-            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=41957829 target=_blank>35 comments</a>]]></description>
-            <pubDate>2024-10-26T21:23:55Z</pubDate>
-            <guid isPermaLink="false">https://bullenweg.com/</guid>
-            <link>https://bullenweg.com/</link>
-            
-            
-            
-            <author><![CDATA[odo1242]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Open Source on its own is no alternative to Big Tech]]></title>
-            <description><![CDATA[102 points | <a href=https://news.ycombinator.com/item?id=41960442 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[112 points | <a href=https://news.ycombinator.com/item?id=41960442 target=_blank>98 comments</a>]]></description>
             <pubDate>2024-10-27T07:12:10Z</pubDate>
             <guid isPermaLink="false">https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/</guid>
             <link>https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/</link>
@@ -171,6 +155,22 @@
             
             
             <author><![CDATA[lhoff]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Bullenweg.com is no longer available following threats of legal action]]></title>
+            <description><![CDATA[109 points | <a href=https://news.ycombinator.com/item?id=41957829 target=_blank>35 comments</a>]]></description>
+            <pubDate>2024-10-26T21:23:55Z</pubDate>
+            <guid isPermaLink="false">https://bullenweg.com/</guid>
+            <link>https://bullenweg.com/</link>
+            
+            
+            
+            <author><![CDATA[odo1242]]></author>
             
                 
             
