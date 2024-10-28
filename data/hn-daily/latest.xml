@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[You-get: Dumb downloader that scrapes the web]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=41962205 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=41962205 target=_blank>100 comments</a>]]></description>
             <pubDate>2024-10-27T12:45:02Z</pubDate>
             <guid isPermaLink="false">https://github.com/soimort/you-get</guid>
             <link>https://github.com/soimort/you-get</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[NewPipe on Linux, Using Android_translation_layer]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=41963932 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=41963932 target=_blank>50 comments</a>]]></description>
             <pubDate>2024-10-27T16:58:56Z</pubDate>
             <guid isPermaLink="false">https://flathub.org/apps/net.newpipe.NewPipe</guid>
             <link>https://flathub.org/apps/net.newpipe.NewPipe</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Crossing the USA by Train]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=41961034 target=_blank>283 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=41961034 target=_blank>286 comments</a>]]></description>
             <pubDate>2024-10-27T09:23:52Z</pubDate>
             <guid isPermaLink="false">https://blinry.org/coast-to-coast/</guid>
             <link>https://blinry.org/coast-to-coast/</link>
@@ -91,6 +91,22 @@
             
             
             <author><![CDATA[chmaynard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NotebookLlama: An open source version of NotebookLM]]></title>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=41964980 target=_blank>30 comments</a>]]></description>
+            <pubDate>2024-10-27T19:31:02Z</pubDate>
+            <guid isPermaLink="false">https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama</guid>
+            <link>https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama</link>
+            
+            
+            
+            <author><![CDATA[bibinmohan]]></author>
             
                 
             
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Using SQLite as storage for web server static content]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=41963996 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=41963996 target=_blank>100 comments</a>]]></description>
             <pubDate>2024-10-27T17:08:08Z</pubDate>
             <guid isPermaLink="false">https://clace.io/blog/sqlite/</guid>
             <link>https://clace.io/blog/sqlite/</link>
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[NotebookLlama: An open source version of NotebookLM]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=41964980 target=_blank>29 comments</a>]]></description>
-            <pubDate>2024-10-27T19:31:02Z</pubDate>
-            <guid isPermaLink="false">https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama</guid>
-            <link>https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama</link>
-            
-            
-            
-            <author><![CDATA[bibinmohan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[School is Not Enough: Learning is a consequence of doing (2021)]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=41963063 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=41963063 target=_blank>110 comments</a>]]></description>
             <pubDate>2024-10-27T15:02:10Z</pubDate>
             <guid isPermaLink="false">https://map.simonsarris.com/p/school-is-not-enough</guid>
             <link>https://map.simonsarris.com/p/school-is-not-enough</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Moonshine, the new state of the art for speech to text]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=41960085 target=_blank>33 comments</a>]]></description>
-            <pubDate>2024-10-27T05:33:09Z</pubDate>
-            <guid isPermaLink="false">https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/</guid>
-            <link>https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/</link>
+            <title><![CDATA[Ibis: Federated Wikipedia alternative]]></title>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=41964210 target=_blank>105 comments</a>]]></description>
+            <pubDate>2024-10-27T17:39:17Z</pubDate>
+            <guid isPermaLink="false">https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative</guid>
+            <link>https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative</link>
             
             
             
-            <author><![CDATA[freediver]]></author>
+            <author><![CDATA[mostcallmeyt]]></author>
             
                 
             
