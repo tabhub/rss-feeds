@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #691]]></title>
+        <title><![CDATA[Perl Weekly #692]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,27 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Coming soon... Data Munging with Perl - Second Edition]]></title>
-            <description><![CDATA[Coming soon... Data Munging with Perl - Second Edition]]></description>
-            <pubDate>2024.10.19</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1g6nbdo/coming_soon/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1g6nbdo/coming_soon/</link>
+            <title><![CDATA[This week in PSC (165) | 2024-10-25]]></title>
+            <description><![CDATA[It was all about working on document about Perl version. Curious to know more about it.]]></description>
+            <pubDate>2024.10.25</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/10/this-week-in-psc-165-2024-10-25.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/10/this-week-in-psc-165-2024-10-25.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[London Perl Workshop 2024]]></title>
+            <description><![CDATA[If you missed the talks by Dave then this is for you. It is worth bookmarking for later reading.]]></description>
+            <pubDate>2024.10.27</pubDate>
+            <guid isPermaLink="false">https://talks.davecross.co.uk/event/london-perl-workshop-2024/</guid>
+            <link>https://talks.davecross.co.uk/event/london-perl-workshop-2024/</link>
             
             
             
@@ -34,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[London Perl Workshop 2024 – Preview]]></title>
-            <description><![CDATA[After a break of five years, the London Perl Workshop returns next weekend. It’s been twenty years since the first one.]]></description>
-            <pubDate>2024.10.20</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2024/10/london-perl-workshop-2024-preview/</guid>
-            <link>https://perlhacks.com/2024/10/london-perl-workshop-2024-preview/</link>
+            <title><![CDATA[What's new in Perl v5.40?]]></title>
+            <description><![CDATA[Please find the slides of my talk at LPW 2024. I hope you find it useful.]]></description>
+            <pubDate>2024.10.27</pubDate>
+            <guid isPermaLink="false">https://manwar.org/talks/LPW-2024.pdf</guid>
+            <link>https://manwar.org/talks/LPW-2024.pdf</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The URI module went on holiday, but then returned]]></title>
-            <description><![CDATA[There is certain gamification of making improvements. Go ahead, read this and then add your reaction and your GitHub Star.]]></description>
-            <pubDate>2024.10.19</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1g6tv9r/the_uri_module_went_on_holiday_but_then_returned/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1g6tv9r/the_uri_module_went_on_holiday_but_then_returned/</link>
-            
-            
-            
-            <author><![CDATA[brian_d_foy]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -66,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Table subset searching with a list and DBIx::Class ]]></title>
-            <description><![CDATA[How to write the SQL query clause 'WHERE column_name IN list' using DBIx::Class?]]></description>
-            <pubDate>2024.10.16</pubDate>
-            <guid isPermaLink="false">https://dev.to/peateasea/table-subset-searching-with-a-list-and-dbixclass-49io</guid>
-            <link>https://dev.to/peateasea/table-subset-searching-with-a-list-and-dbixclass-49io</link>
+            <title><![CDATA[2024.43 Advent Alert]]></title>
+            <description><![CDATA[2024.43 Advent Alert]]></description>
+            <pubDate>2024.10.21</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/10/21/2024-43-advent-alert/</guid>
+            <link>https://rakudoweekly.blog/2024/10/21/2024-43-advent-alert/</link>
             
             
             
-            <author><![CDATA[paul_cochrane]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -83,46 +83,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/10/dxviii-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.10.20</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/10/dxix-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2024.10.27</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toronto Perl Mongers monthly meeting]]></title>
-            <description><![CDATA[October 24, 2024, Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcnbgc/</guid>
-            <link>https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcnbgc/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[London Perl and Raku Workshop]]></title>
-            <description><![CDATA[October 26, 2024, in London, UK]]></description>
-            
-            <guid isPermaLink="false">http://act.yapc.eu/lpw2024/</guid>
-            <link>http://act.yapc.eu/lpw2024/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -151,6 +119,38 @@
             
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygcpbrb/</guid>
             <link>https://www.meetup.com/hacklafayette/events/jdxwsrygcpbrb/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toronto Perl Mongers monthly meeting]]></title>
+            <description><![CDATA[November 28, 2024, Virtual event]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcpblc/</guid>
+            <link>https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcpblc/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Purdue Perl Mongers]]></title>
+            <description><![CDATA[December 11, 2024, Virtual event]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygcqbpb</guid>
+            <link>https://www.meetup.com/hacklafayette/events/jdxwsrygcqbpb</link>
             
             
             
