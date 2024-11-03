@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Touchscreens are out, and tactile controls are back]]></title>
-            <description><![CDATA[603 points | <a href=https://news.ycombinator.com/item?id=42033241 target=_blank>442 comments</a>]]></description>
+            <description><![CDATA[611 points | <a href=https://news.ycombinator.com/item?id=42033241 target=_blank>451 comments</a>]]></description>
             <pubDate>2024-11-03T14:29:57Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/touchscreens</guid>
             <link>https://spectrum.ieee.org/touchscreens</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Speed, scale and reliability: 25 years of Google datacenter networking evolution]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=42031169 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=42031169 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-11-03T04:29:14Z</pubDate>
             <guid isPermaLink="false">https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking</guid>
             <link>https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Matrix 2.0 Is Here]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=42032387 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=42032387 target=_blank>82 comments</a>]]></description>
             <pubDate>2024-11-03T11:09:08Z</pubDate>
             <guid isPermaLink="false">https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit</guid>
             <link>https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/?resubmit</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Ractor – a Rust Actor Framework]]></title>
-            <description><![CDATA[135 points | <a href=https://news.ycombinator.com/item?id=42030625 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=42030625 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-11-03T01:47:23Z</pubDate>
             <guid isPermaLink="false">https://slawlor.github.io/ractor/quickstart/</guid>
             <link>https://slawlor.github.io/ractor/quickstart/</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Project Sid: Many-agent simulations toward AI civilization]]></title>
+            <description><![CDATA[119 points | <a href=https://news.ycombinator.com/item?id=42035319 target=_blank>26 comments</a>]]></description>
+            <pubDate>2024-11-03T19:09:19Z</pubDate>
+            <guid isPermaLink="false">https://github.com/altera-al/project-sid</guid>
+            <link>https://github.com/altera-al/project-sid</link>
+            
+            
+            
+            <author><![CDATA[talms]]></author>
             
                 
             
@@ -123,22 +139,6 @@
             
             
             <author><![CDATA[gooob]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Project Sid: Many-agent simulations toward AI civilization]]></title>
-            <description><![CDATA[114 points | <a href=https://news.ycombinator.com/item?id=42035319 target=_blank>22 comments</a>]]></description>
-            <pubDate>2024-11-03T19:09:19Z</pubDate>
-            <guid isPermaLink="false">https://github.com/altera-al/project-sid</guid>
-            <link>https://github.com/altera-al/project-sid</link>
-            
-            
-            
-            <author><![CDATA[talms]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[pg_flo – Stream, transform, and re-route PostgreSQL data in real-time]]></title>
-            <description><![CDATA[75 points | <a href=https://news.ycombinator.com/item?id=42034237 target=_blank>13 comments</a>]]></description>
+            <description><![CDATA[76 points | <a href=https://news.ycombinator.com/item?id=42034237 target=_blank>13 comments</a>]]></description>
             <pubDate>2024-11-03T17:02:11Z</pubDate>
             <guid isPermaLink="false">https://www.pgflo.io/</guid>
             <link>https://www.pgflo.io/</link>
