@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: Someday, Open-Source Calendly Alternative for Gmail / Google App Script]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=42027187 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=42027187 target=_blank>43 comments</a>]]></description>
             <pubDate>2024-11-02T16:04:40Z</pubDate>
             <guid isPermaLink="false">https://github.com/rbbydotdev/someday</guid>
             <link>https://github.com/rbbydotdev/someday</link>
@@ -27,6 +27,22 @@
             
             
             <author><![CDATA[rbbydotdev]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: A minimalist (brutalist?) website for sharing all your links]]></title>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=42027654 target=_blank>125 comments</a>]]></description>
+            <pubDate>2024-11-02T17:10:25Z</pubDate>
+            <guid isPermaLink="false">https://lynx.boo</guid>
+            <link>https://lynx.boo</link>
+            
+            
+            
+            <author><![CDATA[TravisPeacock]]></author>
             
                 
             
@@ -50,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: A minimalist (brutalist?) website for sharing all your links]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=42027654 target=_blank>125 comments</a>]]></description>
-            <pubDate>2024-11-02T17:10:25Z</pubDate>
-            <guid isPermaLink="false">https://lynx.boo</guid>
-            <link>https://lynx.boo</link>
-            
-            
-            
-            <author><![CDATA[TravisPeacock]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Cash: A small jQuery alternative for modern browsers]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=42026054 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=42026054 target=_blank>121 comments</a>]]></description>
             <pubDate>2024-11-02T12:42:07Z</pubDate>
             <guid isPermaLink="false">https://github.com/fabiospampinato/cash</guid>
             <link>https://github.com/fabiospampinato/cash</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Eighty Years of the Finite Element Method (2022)]]></title>
-            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=42028569 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=42028569 target=_blank>69 comments</a>]]></description>
             <pubDate>2024-11-02T19:23:40Z</pubDate>
             <guid isPermaLink="false">https://link.springer.com/article/10.1007/s11831-022-09740-9</guid>
             <link>https://link.springer.com/article/10.1007/s11831-022-09740-9</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Next Generation Out of Band Garbage Collection]]></title>
-            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=42028833 target=_blank>42 comments</a>]]></description>
-            <pubDate>2024-11-02T19:57:30Z</pubDate>
-            <guid isPermaLink="false">https://railsatscale.com/2024-10-23-next-generation-oob-gc/</guid>
-            <link>https://railsatscale.com/2024-10-23-next-generation-oob-gc/</link>
-            
-            
-            
-            <author><![CDATA[ksec]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Security flaws found in all Nvidia GeForce GPUs. Update drivers ASAP]]></title>
-            <description><![CDATA[107 points | <a href=https://news.ycombinator.com/item?id=42030463 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[113 points | <a href=https://news.ycombinator.com/item?id=42030463 target=_blank>57 comments</a>]]></description>
             <pubDate>2024-11-03T01:06:37Z</pubDate>
             <guid isPermaLink="false">https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html</guid>
             <link>https://www.pcworld.com/article/2504035/security-flaws-found-in-all-nvidia-geforce-gpus-update-drivers-asap.html</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Next Generation Out of Band Garbage Collection]]></title>
+            <description><![CDATA[109 points | <a href=https://news.ycombinator.com/item?id=42028833 target=_blank>45 comments</a>]]></description>
+            <pubDate>2024-11-02T19:57:30Z</pubDate>
+            <guid isPermaLink="false">https://railsatscale.com/2024-10-23-next-generation-oob-gc/</guid>
+            <link>https://railsatscale.com/2024-10-23-next-generation-oob-gc/</link>
+            
+            
+            
+            <author><![CDATA[ksec]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Spann: Highly-Efficient Billion-Scale Approximate Nearest Neighbor Search (2021)]]></title>
-            <description><![CDATA[83 points | <a href=https://news.ycombinator.com/item?id=42028873 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[84 points | <a href=https://news.ycombinator.com/item?id=42028873 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-11-02T20:02:23Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2111.08566</guid>
             <link>https://arxiv.org/abs/2111.08566</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Speed, scale and reliability: 25 years of Google datacenter networking evolution]]></title>
+            <description><![CDATA[49 points | <a href=https://news.ycombinator.com/item?id=42031169 target=_blank>7 comments</a>]]></description>
+            <pubDate>2024-11-03T04:29:14Z</pubDate>
+            <guid isPermaLink="false">https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking</guid>
+            <link>https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking</link>
+            
+            
+            
+            <author><![CDATA[sandwichsphinx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ring-Based Mid-Air Gesture Typing System Using Deep Learning Word Prediction]]></title>
             <description><![CDATA[48 points | <a href=https://news.ycombinator.com/item?id=42027499 target=_blank>30 comments</a>]]></description>
             <pubDate>2024-11-02T16:49:10Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[PaulHoule]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Colossus AI Supercluster with over 100k Nvidia H100 GPUs]]></title>
-            <description><![CDATA[45 points | <a href=https://news.ycombinator.com/item?id=42028047 target=_blank>32 comments</a>]]></description>
-            <pubDate>2024-11-02T18:08:44Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/ServeTheHome/status/1850917031421399543</guid>
-            <link>https://twitter.com/ServeTheHome/status/1850917031421399543</link>
-            
-            
-            
-            <author><![CDATA[DeathArrow]]></author>
             
                 
             
