@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #692]]></title>
+        <title><![CDATA[Perl Weekly #693]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[This week in PSC (165) | 2024-10-25]]></title>
-            <description><![CDATA[It was all about working on document about Perl version. Curious to know more about it.]]></description>
-            <pubDate>2024.10.25</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/10/this-week-in-psc-165-2024-10-25.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/10/this-week-in-psc-165-2024-10-25.html</link>
+            <title><![CDATA[Perl and Raku Conference 2025 News]]></title>
+            <description><![CDATA[It will take place June 27-29, 2025 in Greenville, South Caroline]]></description>
+            <pubDate>2024.11.03</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/perl_and_raku_conference_2025_details</guid>
+            <link>https://news.perlfoundation.org/post/perl_and_raku_conference_2025_details</link>
             
             
             
@@ -34,11 +34,27 @@
         </item>
         
         <item>
-            <title><![CDATA[London Perl Workshop 2024]]></title>
-            <description><![CDATA[If you missed the talks by Dave then this is for you. It is worth bookmarking for later reading.]]></description>
-            <pubDate>2024.10.27</pubDate>
-            <guid isPermaLink="false">https://talks.davecross.co.uk/event/london-perl-workshop-2024/</guid>
-            <link>https://talks.davecross.co.uk/event/london-perl-workshop-2024/</link>
+            <title><![CDATA[A Regexp::Debugger visualization for Abigail's prime number checker]]></title>
+            <description><![CDATA[Do you know how to generate prime numbers using a Regular Expression?]]></description>
+            <pubDate>2024.11.02</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1ghh796/a_regexpdebugger_visualization_for_abigails_prime/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1ghh796/a_regexpdebugger_visualization_for_abigails_prime/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advertising Perl]]></title>
+            <description><![CDATA[About the creation of the Perl Ad Server]]></description>
+            <pubDate>2024.11.01</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2024/11/advertising-perl/</guid>
+            <link>https://perlhacks.com/2024/11/advertising-perl/</link>
             
             
             
@@ -50,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[What's new in Perl v5.40?]]></title>
-            <description><![CDATA[Please find the slides of my talk at LPW 2024. I hope you find it useful.]]></description>
-            <pubDate>2024.10.27</pubDate>
-            <guid isPermaLink="false">https://manwar.org/talks/LPW-2024.pdf</guid>
-            <link>https://manwar.org/talks/LPW-2024.pdf</link>
+            <title><![CDATA[London Perl & Raku Workshop 2024]]></title>
+            <description><![CDATA[London Perl & Raku Workshop 2024]]></description>
+            <pubDate>2024.10.29</pubDate>
+            <guid isPermaLink="false">https://andrewshitov.com/2024/10/29/london-perl-raku-workshop-2024/</guid>
+            <link>https://andrewshitov.com/2024/10/29/london-perl-raku-workshop-2024/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[andrew_shitov]]></author>
             
                 
             
@@ -66,15 +82,47 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.43 Advent Alert]]></title>
-            <description><![CDATA[2024.43 Advent Alert]]></description>
-            <pubDate>2024.10.21</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/10/21/2024-43-advent-alert/</guid>
-            <link>https://rakudoweekly.blog/2024/10/21/2024-43-advent-alert/</link>
+            <title><![CDATA[LPW 2024]]></title>
+            <description><![CDATA[LPW 2024]]></description>
+            <pubDate>2024.10</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/simbabque/2024/10/lpw-2024.html</guid>
+            <link>https://blogs.perl.org/users/simbabque/2024/10/lpw-2024.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[simbabque]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My London Perl And Raku Workshop 2024]]></title>
+            <description><![CDATA[My London Perl And Raku Workshop 2024]]></description>
+            <pubDate>2024.10.29</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/my-london-perl-and-raku-workshop-2024-1i6m</guid>
+            <link>https://dev.to/thibaultduponchelle/my-london-perl-and-raku-workshop-2024-1i6m</link>
+            
+            
+            
+            <author><![CDATA[thibault_duponchelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[London Perl & Raku Workshop 2024: Quick Afterwords]]></title>
+            <description><![CDATA[London Perl & Raku Workshop 2024: Quick Afterwords]]></description>
+            <pubDate>2024.10.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/lpw/2024/10/london-perl-raku-workshop-2024-quick-afterwords.html</guid>
+            <link>https://blogs.perl.org/users/lpw/2024/10/london-perl-raku-workshop-2024-quick-afterwords.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -83,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/10/dxix-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2024.10.27</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/11/dxx-11-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2024.11.03</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
