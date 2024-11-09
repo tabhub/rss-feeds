@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Multiple new macOS sandbox escape vulnerabilities]]></title>
-            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=42084588 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[473 points | <a href=https://news.ycombinator.com/item?id=42084588 target=_blank>132 comments</a>]]></description>
             <pubDate>2024-11-08T06:10:14Z</pubDate>
             <guid isPermaLink="false">https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/</guid>
             <link>https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mitochondria Are Alive]]></title>
-            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=42088758 target=_blank>301 comments</a>]]></description>
+            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=42088758 target=_blank>301 comments</a>]]></description>
             <pubDate>2024-11-08T17:39:43Z</pubDate>
             <guid isPermaLink="false">https://www.asimov.press/p/mitochondria</guid>
             <link>https://www.asimov.press/p/mitochondria</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Stabilizing the Obra Dinn 1-bit dithering process (2017)]]></title>
-            <description><![CDATA[416 points | <a href=https://news.ycombinator.com/item?id=42084080 target=_blank>76 comments</a>]]></description>
+            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=42084080 target=_blank>77 comments</a>]]></description>
             <pubDate>2024-11-08T04:15:59Z</pubDate>
             <guid isPermaLink="false">https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742</guid>
             <link>https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Asterogue, my sci-fi roguelike, is now playable on the web]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=42085036 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=42085036 target=_blank>73 comments</a>]]></description>
             <pubDate>2024-11-08T07:43:02Z</pubDate>
             <guid isPermaLink="false">https://asterogue.com</guid>
             <link>https://asterogue.com</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Principles for product velocity]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=42084753 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=42084753 target=_blank>129 comments</a>]]></description>
             <pubDate>2024-11-08T06:48:48Z</pubDate>
             <guid isPermaLink="false">https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/</guid>
             <link>https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Delta: A syntax-highlighting pager for Git, diff, grep, and blame output]]></title>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=42091365 target=_blank>28 comments</a>]]></description>
+            <pubDate>2024-11-08T23:46:46Z</pubDate>
+            <guid isPermaLink="false">https://github.com/dandavison/delta</guid>
+            <link>https://github.com/dandavison/delta</link>
+            
+            
+            
+            <author><![CDATA[nateb2022]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LoRA vs. Full Fine-Tuning: An Illusion of Equivalence]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=42085665 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=42085665 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-11-08T09:58:24Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2410.21228</guid>
             <link>https://arxiv.org/abs/2410.21228</link>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Perceptually lossless (talking head) video compression at 22kbit/s]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=42084977 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=42084977 target=_blank>124 comments</a>]]></description>
             <pubDate>2024-11-08T07:30:31Z</pubDate>
             <guid isPermaLink="false">https://mlumiste.com/technical/liveportrait-compression/</guid>
             <link>https://mlumiste.com/technical/liveportrait-compression/</link>
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Delta: A syntax-highlighting pager for Git, diff, grep, and blame output]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=42091365 target=_blank>27 comments</a>]]></description>
-            <pubDate>2024-11-08T23:46:46Z</pubDate>
-            <guid isPermaLink="false">https://github.com/dandavison/delta</guid>
-            <link>https://github.com/dandavison/delta</link>
-            
-            
-            
-            <author><![CDATA[nateb2022]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Λ-2D: An Exploration of Drawing as Programming Language]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=42085273 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=42085273 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-11-08T08:30:54Z</pubDate>
             <guid isPermaLink="false">https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/</guid>
             <link>https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[It's legal for police to use deception in interrogations. Some want that to end]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=42091423 target=_blank>133 comments</a>]]></description>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=42091423 target=_blank>137 comments</a>]]></description>
             <pubDate>2024-11-08T23:57:13Z</pubDate>
             <guid isPermaLink="false">https://text.npr.org/nx-s1-4974964</guid>
             <link>https://text.npr.org/nx-s1-4974964</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[I quit Google to work for myself (2018)]]></title>
-            <description><![CDATA[120 points | <a href=https://news.ycombinator.com/item?id=42090430 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=42090430 target=_blank>73 comments</a>]]></description>
             <pubDate>2024-11-08T20:59:47Z</pubDate>
             <guid isPermaLink="false">https://mtlynch.io/why-i-quit-google/</guid>
             <link>https://mtlynch.io/why-i-quit-google/</link>
