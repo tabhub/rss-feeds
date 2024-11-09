@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Delta: A syntax-highlighting pager for Git, diff, grep, and blame output]]></title>
-            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=42091365 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[545 points | <a href=https://news.ycombinator.com/item?id=42091365 target=_blank>72 comments</a>]]></description>
             <pubDate>2024-11-08T23:46:46Z</pubDate>
             <guid isPermaLink="false">https://github.com/dandavison/delta</guid>
             <link>https://github.com/dandavison/delta</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[I quit Google to work for myself (2018)]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=42090430 target=_blank>190 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=42090430 target=_blank>192 comments</a>]]></description>
             <pubDate>2024-11-08T20:59:47Z</pubDate>
             <guid isPermaLink="false">https://mtlynch.io/why-i-quit-google/</guid>
             <link>https://mtlynch.io/why-i-quit-google/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Mergiraf: a syntax-aware merge driver for Git]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=42093756 target=_blank>65 comments</a>]]></description>
-            <pubDate>2024-11-09T11:06:10Z</pubDate>
-            <guid isPermaLink="false">https://mergiraf.org/</guid>
-            <link>https://mergiraf.org/</link>
-            
-            
-            
-            <author><![CDATA[p4bl0]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Scientist treated her own cancer with viruses she grew in the lab]]></title>
-            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=42094573 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=42094573 target=_blank>118 comments</a>]]></description>
             <pubDate>2024-11-09T14:23:30Z</pubDate>
             <guid isPermaLink="false">https://www.nature.com/articles/d41586-024-03647-0</guid>
             <link>https://www.nature.com/articles/d41586-024-03647-0</link>
@@ -75,6 +59,22 @@
             
             
             <author><![CDATA[dataminer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mergiraf: a syntax-aware merge driver for Git]]></title>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=42093756 target=_blank>66 comments</a>]]></description>
+            <pubDate>2024-11-09T11:06:10Z</pubDate>
+            <guid isPermaLink="false">https://mergiraf.org/</guid>
+            <link>https://mergiraf.org/</link>
+            
+            
+            
+            <author><![CDATA[p4bl0]]></author>
             
                 
             
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Claude AI to process secret government data through new Palantir deal]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=42091043 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=42091043 target=_blank>168 comments</a>]]></description>
             <pubDate>2024-11-08T22:42:20Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/</guid>
             <link>https://arstechnica.com/ai/2024/11/safe-ai-champ-anthropic-teams-up-with-defense-giant-palantir-in-new-deal/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=42093511 target=_blank>41 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=42093511 target=_blank>41 comments</a>]]></description>
             <pubDate>2024-11-09T09:48:08Z</pubDate>
             <guid isPermaLink="false">https://github.com/JohannesKaufmann/html-to-markdown</guid>
             <link>https://github.com/JohannesKaufmann/html-to-markdown</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Memories are not only in the brain, human cell study finds]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=42094427 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=42094427 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-11-09T13:53:33Z</pubDate>
             <guid isPermaLink="false">https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html</guid>
             <link>https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[OpenCoder: Open Cookbook for Top-Tier Code Large Language Models]]></title>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=42095580 target=_blank>23 comments</a>]]></description>
+            <pubDate>2024-11-09T17:27:30Z</pubDate>
+            <guid isPermaLink="false">https://opencoder-llm.github.io/</guid>
+            <link>https://opencoder-llm.github.io/</link>
+            
+            
+            
+            <author><![CDATA[pil0u]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Texture-Less Text Rendering]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=42093037 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=42093037 target=_blank>42 comments</a>]]></description>
             <pubDate>2024-11-09T07:27:56Z</pubDate>
             <guid isPermaLink="false">https://poniesandlight.co.uk/reflect/debug_print_text/</guid>
             <link>https://poniesandlight.co.uk/reflect/debug_print_text/</link>
@@ -178,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenCoder: Open-Source LLM for Coding]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=42095580 target=_blank>22 comments</a>]]></description>
-            <pubDate>2024-11-09T17:27:30Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2411.04905</guid>
-            <link>https://arxiv.org/abs/2411.04905</link>
+            <title><![CDATA[SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup]]></title>
+            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=42093112 target=_blank>43 comments</a>]]></description>
+            <pubDate>2024-11-09T07:46:22Z</pubDate>
+            <guid isPermaLink="false">https://hanlab.mit.edu/blog/svdquant</guid>
+            <link>https://hanlab.mit.edu/blog/svdquant</link>
             
             
             
-            <author><![CDATA[pil0u]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What Is a Staff Engineer?]]></title>
-            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=42090771 target=_blank>105 comments</a>]]></description>
-            <pubDate>2024-11-08T21:55:40Z</pubDate>
-            <guid isPermaLink="false">https://nishtahir.com/what-is-a-staff-engineer/</guid>
-            <link>https://nishtahir.com/what-is-a-staff-engineer/</link>
-            
-            
-            
-            <author><![CDATA[CarefreeCrayon]]></author>
+            <author><![CDATA[lmxyy]]></author>
             
                 
             
