@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Delta: A syntax-highlighting pager for Git, diff, grep, and blame output]]></title>
-            <description><![CDATA[539 points | <a href=https://news.ycombinator.com/item?id=42091365 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[543 points | <a href=https://news.ycombinator.com/item?id=42091365 target=_blank>71 comments</a>]]></description>
             <pubDate>2024-11-08T23:46:46Z</pubDate>
             <guid isPermaLink="false">https://github.com/dandavison/delta</guid>
             <link>https://github.com/dandavison/delta</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[I quit Google to work for myself (2018)]]></title>
-            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=42090430 target=_blank>190 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=42090430 target=_blank>190 comments</a>]]></description>
             <pubDate>2024-11-08T20:59:47Z</pubDate>
             <guid isPermaLink="false">https://mtlynch.io/why-i-quit-google/</guid>
             <link>https://mtlynch.io/why-i-quit-google/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Mergiraf: a syntax-aware merge driver for Git]]></title>
-            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=42093756 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=42093756 target=_blank>65 comments</a>]]></description>
             <pubDate>2024-11-09T11:06:10Z</pubDate>
             <guid isPermaLink="false">https://mergiraf.org/</guid>
             <link>https://mergiraf.org/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Scientist treated her own cancer with viruses she grew in the lab]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=42094573 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=42094573 target=_blank>113 comments</a>]]></description>
             <pubDate>2024-11-09T14:23:30Z</pubDate>
             <guid isPermaLink="false">https://www.nature.com/articles/d41586-024-03647-0</guid>
             <link>https://www.nature.com/articles/d41586-024-03647-0</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=42093511 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=42093511 target=_blank>41 comments</a>]]></description>
             <pubDate>2024-11-09T09:48:08Z</pubDate>
             <guid isPermaLink="false">https://github.com/JohannesKaufmann/html-to-markdown</guid>
             <link>https://github.com/JohannesKaufmann/html-to-markdown</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[JohannesKauf]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Memories are not only in the brain, human cell study finds]]></title>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=42094427 target=_blank>64 comments</a>]]></description>
+            <pubDate>2024-11-09T13:53:33Z</pubDate>
+            <guid isPermaLink="false">https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html</guid>
+            <link>https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html</link>
+            
+            
+            
+            <author><![CDATA[vivekd]]></author>
             
                 
             
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Memories are not only in the brain, human cell study finds]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=42094427 target=_blank>63 comments</a>]]></description>
-            <pubDate>2024-11-09T13:53:33Z</pubDate>
-            <guid isPermaLink="false">https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html</guid>
-            <link>https://medicalxpress.com/news/2024-11-memories-brain-human-cell.html</link>
+            <title><![CDATA[OpenCoder: Open-Source LLM for Coding]]></title>
+            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=42095580 target=_blank>19 comments</a>]]></description>
+            <pubDate>2024-11-09T17:27:30Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2411.04905</guid>
+            <link>https://arxiv.org/abs/2411.04905</link>
             
             
             
-            <author><![CDATA[vivekd]]></author>
+            <author><![CDATA[pil0u]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[CarefreeCrayon]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup]]></title>
-            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=42093112 target=_blank>41 comments</a>]]></description>
-            <pubDate>2024-11-09T07:46:22Z</pubDate>
-            <guid isPermaLink="false">https://hanlab.mit.edu/blog/svdquant</guid>
-            <link>https://hanlab.mit.edu/blog/svdquant</link>
-            
-            
-            
-            <author><![CDATA[lmxyy]]></author>
             
                 
             
