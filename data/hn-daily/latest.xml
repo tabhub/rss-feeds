@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Multiple new macOS sandbox escape vulnerabilities]]></title>
-            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=42084588 target=_blank>130 comments</a>]]></description>
+            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=42084588 target=_blank>132 comments</a>]]></description>
             <pubDate>2024-11-08T06:10:14Z</pubDate>
             <guid isPermaLink="false">https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/</guid>
             <link>https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mitochondria Are Alive]]></title>
-            <description><![CDATA[418 points | <a href=https://news.ycombinator.com/item?id=42088758 target=_blank>297 comments</a>]]></description>
+            <description><![CDATA[421 points | <a href=https://news.ycombinator.com/item?id=42088758 target=_blank>299 comments</a>]]></description>
             <pubDate>2024-11-08T17:39:43Z</pubDate>
             <guid isPermaLink="false">https://www.asimov.press/p/mitochondria</guid>
             <link>https://www.asimov.press/p/mitochondria</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Stabilizing the Obra Dinn 1-bit dithering process (2017)]]></title>
-            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=42084080 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=42084080 target=_blank>71 comments</a>]]></description>
             <pubDate>2024-11-08T04:15:59Z</pubDate>
             <guid isPermaLink="false">https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742</guid>
             <link>https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: Asterogue, my sci-fi roguelike, is now playable on the web]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=42085036 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=42085036 target=_blank>72 comments</a>]]></description>
             <pubDate>2024-11-08T07:43:02Z</pubDate>
             <guid isPermaLink="false">https://asterogue.com</guid>
             <link>https://asterogue.com</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Perceptually lossless (talking head) video compression at 22kbit/s]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=42084977 target=_blank>120 comments</a>]]></description>
-            <pubDate>2024-11-08T07:30:31Z</pubDate>
-            <guid isPermaLink="false">https://mlumiste.com/technical/liveportrait-compression/</guid>
-            <link>https://mlumiste.com/technical/liveportrait-compression/</link>
-            
-            
-            
-            <author><![CDATA[skandium]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[LoRA vs. Full Fine-Tuning: An Illusion of Equivalence]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=42085665 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=42085665 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-11-08T09:58:24Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2410.21228</guid>
             <link>https://arxiv.org/abs/2410.21228</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Perceptually lossless (talking head) video compression at 22kbit/s]]></title>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=42084977 target=_blank>122 comments</a>]]></description>
+            <pubDate>2024-11-08T07:30:31Z</pubDate>
+            <guid isPermaLink="false">https://mlumiste.com/technical/liveportrait-compression/</guid>
+            <link>https://mlumiste.com/technical/liveportrait-compression/</link>
+            
+            
+            
+            <author><![CDATA[skandium]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Λ-2D: An Exploration of Drawing as Programming Language]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=42085273 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=42085273 target=_blank>47 comments</a>]]></description>
             <pubDate>2024-11-08T08:30:54Z</pubDate>
             <guid isPermaLink="false">https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/</guid>
             <link>https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Delta: A syntax-highlighting pager for Git, diff, grep, and blame output]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=42091365 target=_blank>16 comments</a>]]></description>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=42091365 target=_blank>20 comments</a>]]></description>
             <pubDate>2024-11-08T23:46:46Z</pubDate>
             <guid isPermaLink="false">https://github.com/dandavison/delta</guid>
             <link>https://github.com/dandavison/delta</link>
