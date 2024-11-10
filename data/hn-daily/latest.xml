@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Scientist treated her own cancer with viruses she grew in the lab]]></title>
-            <description><![CDATA[453 points | <a href=https://news.ycombinator.com/item?id=42094573 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=42094573 target=_blank>169 comments</a>]]></description>
             <pubDate>2024-11-09T14:23:30Z</pubDate>
             <guid isPermaLink="false">https://www.nature.com/articles/d41586-024-03647-0</guid>
             <link>https://www.nature.com/articles/d41586-024-03647-0</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Mergiraf: a syntax-aware merge driver for Git]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=42093756 target=_blank>69 comments</a>]]></description>
-            <pubDate>2024-11-09T11:06:10Z</pubDate>
-            <guid isPermaLink="false">https://mergiraf.org/</guid>
-            <link>https://mergiraf.org/</link>
-            
-            
-            
-            <author><![CDATA[p4bl0]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[OpenCoder: Open Cookbook for Top-Tier Code Large Language Models]]></title>
-            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=42095580 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=42095580 target=_blank>42 comments</a>]]></description>
             <pubDate>2024-11-09T17:27:30Z</pubDate>
             <guid isPermaLink="false">https://opencoder-llm.github.io/</guid>
             <link>https://opencoder-llm.github.io/</link>
@@ -66,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Mergiraf: a syntax-aware merge driver for Git]]></title>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=42093756 target=_blank>70 comments</a>]]></description>
+            <pubDate>2024-11-09T11:06:10Z</pubDate>
+            <guid isPermaLink="false">https://mergiraf.org/</guid>
+            <link>https://mergiraf.org/</link>
+            
+            
+            
+            <author><![CDATA[p4bl0]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[IronCalc – Open-Source Spreadsheet Engine]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=42095292 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=42095292 target=_blank>88 comments</a>]]></description>
             <pubDate>2024-11-09T16:36:19Z</pubDate>
             <guid isPermaLink="false">https://www.ironcalc.com/</guid>
             <link>https://www.ironcalc.com/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Show HN: Jaws – a JavaScript to WASM ahead-of-time compiler]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=42095879 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=42095879 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-11-09T18:14:30Z</pubDate>
             <guid isPermaLink="false">https://github.com/drogus/jaws</guid>
             <link>https://github.com/drogus/jaws</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=42093112 target=_blank>55 comments</a>]]></description>
-            <pubDate>2024-11-09T07:46:22Z</pubDate>
-            <guid isPermaLink="false">https://hanlab.mit.edu/blog/svdquant</guid>
-            <link>https://hanlab.mit.edu/blog/svdquant</link>
-            
-            
-            
-            <author><![CDATA[lmxyy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Grim Fandango]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=42097261 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=42097261 target=_blank>52 comments</a>]]></description>
             <pubDate>2024-11-09T22:17:23Z</pubDate>
             <guid isPermaLink="false">https://www.filfre.net/2024/11/grim-fandango/</guid>
             <link>https://www.filfre.net/2024/11/grim-fandango/</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup]]></title>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=42093112 target=_blank>55 comments</a>]]></description>
+            <pubDate>2024-11-09T07:46:22Z</pubDate>
+            <guid isPermaLink="false">https://hanlab.mit.edu/blog/svdquant</guid>
+            <link>https://hanlab.mit.edu/blog/svdquant</link>
+            
+            
+            
+            <author><![CDATA[lmxyy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NYC Subway Station Layouts]]></title>
-            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=42096717 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=42096717 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-11-09T20:35:04Z</pubDate>
             <guid isPermaLink="false">http://www.projectsubwaynyc.com/gallery</guid>
             <link>http://www.projectsubwaynyc.com/gallery</link>
