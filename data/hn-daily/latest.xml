@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[NYC Subway Station Layouts]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=42096717 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=42096717 target=_blank>97 comments</a>]]></description>
             <pubDate>2024-11-09T20:35:04Z</pubDate>
             <guid isPermaLink="false">http://www.projectsubwaynyc.com/gallery</guid>
             <link>http://www.projectsubwaynyc.com/gallery</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Grim Fandango]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=42097261 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=42097261 target=_blank>104 comments</a>]]></description>
             <pubDate>2024-11-09T22:17:23Z</pubDate>
             <guid isPermaLink="false">https://www.filfre.net/2024/11/grim-fandango/</guid>
             <link>https://www.filfre.net/2024/11/grim-fandango/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Audio Decomposition – open-source seperation of music to constituent instruments]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=42098491 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=42098491 target=_blank>51 comments</a>]]></description>
             <pubDate>2024-11-10T03:57:37Z</pubDate>
             <guid isPermaLink="false">https://matthew-bird.com/blogs/Audio-Decomposition.html</guid>
             <link>https://matthew-bird.com/blogs/Audio-Decomposition.html</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenID Connect specifications published as ISO standards]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=42101181 target=_blank>52 comments</a>]]></description>
-            <pubDate>2024-11-10T16:53:19Z</pubDate>
-            <guid isPermaLink="false">https://self-issued.info/?p=2573</guid>
-            <link>https://self-issued.info/?p=2573</link>
-            
-            
-            
-            <author><![CDATA[mooreds]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Procrastination and the fear of not being good enough]]></title>
-            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=42101327 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=42101327 target=_blank>70 comments</a>]]></description>
             <pubDate>2024-11-10T17:23:59Z</pubDate>
             <guid isPermaLink="false">https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough</guid>
             <link>https://swapnilchauhan.com/blog/procrastination-and-the-fear-of-not-being-good-enough</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[OpenID Connect specifications published as ISO standards]]></title>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=42101181 target=_blank>55 comments</a>]]></description>
+            <pubDate>2024-11-10T16:53:19Z</pubDate>
+            <guid isPermaLink="false">https://self-issued.info/?p=2573</guid>
+            <link>https://self-issued.info/?p=2573</link>
+            
+            
+            
+            <author><![CDATA[mooreds]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[What's New in F# 9]]></title>
-            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=42101312 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=42101312 target=_blank>65 comments</a>]]></description>
             <pubDate>2024-11-10T17:20:26Z</pubDate>
             <guid isPermaLink="false">https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9</guid>
             <link>https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[ASCII Delimited Text – Not CSV or Tab Delimited Text]]></title>
-            <description><![CDATA[104 points | <a href=https://news.ycombinator.com/item?id=42100499 target=_blank>94 comments</a>]]></description>
-            <pubDate>2024-11-10T14:42:12Z</pubDate>
-            <guid isPermaLink="false">https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/</guid>
-            <link>https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/</link>
+            <title><![CDATA[JVM Anatomy Quarks]]></title>
+            <description><![CDATA[110 points | <a href=https://news.ycombinator.com/item?id=42100876 target=_blank>25 comments</a>]]></description>
+            <pubDate>2024-11-10T16:09:07Z</pubDate>
+            <guid isPermaLink="false">https://shipilev.net/jvm/anatomy-quarks/</guid>
+            <link>https://shipilev.net/jvm/anatomy-quarks/</link>
             
             
             
-            <author><![CDATA[ejstronge]]></author>
+            <author><![CDATA[lichtenberger]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Everything I've learned so far about running local LLMs]]></title>
-            <description><![CDATA[104 points | <a href=https://news.ycombinator.com/item?id=42100560 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=42100560 target=_blank>31 comments</a>]]></description>
             <pubDate>2024-11-10T14:53:36Z</pubDate>
             <guid isPermaLink="false">https://nullprogram.com/blog/2024/11/10/</guid>
             <link>https://nullprogram.com/blog/2024/11/10/</link>
