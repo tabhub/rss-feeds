@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #694]]></title>
+        <title><![CDATA[Perl Weekly #695]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[London Perl & Raku Workshop 2024: Recordings & Thoughts]]></title>
-            <description><![CDATA[For all who missed the LPW 2024, we now have the recordings of the event. Audio quality may not be great, I must inform you upfront.]]></description>
-            <pubDate>2024.11.07</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lpw/2024/11/london-perl-raku-workshop-2024-recordings-thoughts.html</guid>
-            <link>https://blogs.perl.org/users/lpw/2024/11/london-perl-raku-workshop-2024-recordings-thoughts.html</link>
+            <title><![CDATA[Randal Schwartz: Half My Life with Perl]]></title>
+            <description><![CDATA[As part of year 25 of The Perl Advent Calendar, Perl luminary and co-author of O'Reilly's "Learning Perl" Randal Schwartz will be giving a presentation entitled "Half My Life with Perl". The presentation takes place on Saturday, Dec 14, 2024.]]></description>
+            <pubDate>2024.11.14</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/randal-schwartz-half-my-life-with-perl/</guid>
+            <link>https://www.perl.com/article/randal-schwartz-half-my-life-with-perl/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (167) | 2024-11-07]]></title>
-            <description><![CDATA[It seems very busy week, lots of topics discussed amd agreed upon. Happy to see things moving really fast. Thank you <strong>Perl Steering Council</strong>.]]></description>
-            <pubDate>2024.11.08</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/11/this-week-in-psc-167-2024-11-07.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/11/this-week-in-psc-167-2024-11-07.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[olaf_alders]]></author>
             
                 
             
@@ -50,47 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Multiple Inheritance vs Role]]></title>
-            <description><![CDATA[A simplified comparison between <strong>Multiple Inheritance</strong> and <strong>Roles</strong>.]]></description>
-            <pubDate>2024.11.07</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/mi-vs-role/</guid>
-            <link>https://theweeklychallenge.org/blog/mi-vs-role/</link>
+            <title><![CDATA[A link site of your very own]]></title>
+            <description><![CDATA[Another personal project of Dave that made it to CPAN as well. Think about it as a LinkTree clone. <a href="https://www.reddit.com/r/perl/comments/1gtilaz/a_link_site_of_your_very_own_perl_hacks/">reddit</a>]]></description>
+            <pubDate>2024.11.17</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2024/11/a-link-site-of-your-very-own/</guid>
+            <link>https://perlhacks.com/2024/11/a-link-site-of-your-very-own/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Further on Perl Camel]]></title>
-            <description><![CDATA[The good old discussion of Perl Camel is back ...]]></description>
-            <pubDate>2024.11.07</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/further-on-perl-camel-3ak1</guid>
-            <link>https://dev.to/thibaultduponchelle/further-on-perl-camel-3ak1</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2024.43 One Of 21]]></title>
-            <description><![CDATA[2024.43 One Of 21]]></description>
-            <pubDate>2024.11.04</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/11/04/2024-43-one-of-21/</guid>
-            <link>https://rakudoweekly.blog/2024/11/04/2024-43-one-of-21/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -99,8 +51,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/11/dxxi-9-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/11/dxcii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2024.11.10</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/11/dxxii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.11.16</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -114,47 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Boston.pm monthly meeting]]></title>
-            <description><![CDATA[November 12, 2024, Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/boston-pm/events/wvqlzrygcpbqb</guid>
-            <link>https://www.meetup.com/boston-pm/events/wvqlzrygcpbqb</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Purdue Perl Mongers]]></title>
-            <description><![CDATA[November 13, 2024, Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygcpbrb/</guid>
-            <link>https://www.meetup.com/hacklafayette/events/jdxwsrygcpbrb/</link>
+            <title><![CDATA[Improving the (software) development process ]]></title>
+            <description><![CDATA[This seems to be a generic problem regardless of the programming language, though I wonder how does the age of the programming language and the traditions of the Open Source communities around the language impact this.]]></description>
+            <pubDate>2024.11.17</pubDate>
+            <guid isPermaLink="false">https://www.linkedin.com/pulse/improving-software-development-process-gábor-szabó-imdlf/</guid>
+            <link>https://www.linkedin.com/pulse/improving-software-development-process-gábor-szabó-imdlf/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toronto Perl Mongers monthly meeting]]></title>
-            <description><![CDATA[November 28, 2024, Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcpblc/</guid>
-            <link>https://www.meetup.com/toronto-perl-mongers/events/qbvmltygcpblc/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -167,6 +87,70 @@
             
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/jdxwsrygcqbpb</guid>
             <link>https://www.meetup.com/hacklafayette/events/jdxwsrygcqbpb</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston.pm monthly meeting]]></title>
+            <description><![CDATA[December 11, 2024, Virtual event]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/boston-pm/events/wvqlzrygcqbnb</guid>
+            <link>https://www.meetup.com/boston-pm/events/wvqlzrygcqbnb</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Randal Schwartz: Half My Life with Perl]]></title>
+            <description><![CDATA[December 14, 2024, Virtual event]]></description>
+            
+            <guid isPermaLink="false">https://lu.ma/giz69577</guid>
+            <link>https://lu.ma/giz69577</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Community Conference]]></title>
+            <description><![CDATA[December 18, 2024, Virtual]]></description>
+            
+            <guid isPermaLink="false">https://science.perlcommunity.org/spj/index</guid>
+            <link>https://science.perlcommunity.org/spj/index</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toronto.pm December Social]]></title>
+            <description><![CDATA[December 19, 2024, In Person Event]]></description>
+            
+            <guid isPermaLink="false">https://lu.ma/ai5c2y4z</guid>
+            <link>https://lu.ma/ai5c2y4z</link>
             
             
             
