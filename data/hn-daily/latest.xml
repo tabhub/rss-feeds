@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Reverse Engineering iOS 18 Inactivity Reboot]]></title>
-            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=42167633 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=42167633 target=_blank>104 comments</a>]]></description>
             <pubDate>2024-11-17T21:50:26Z</pubDate>
             <guid isPermaLink="false">https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html</guid>
             <link>https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Good Software Development Habits]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=42165057 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=42165057 target=_blank>163 comments</a>]]></description>
             <pubDate>2024-11-17T16:34:26Z</pubDate>
             <guid isPermaLink="false">https://zarar.dev/good-software-development-habits/</guid>
             <link>https://zarar.dev/good-software-development-habits/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Bpftune uses BPF to auto-tune Linux systems]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=42163597 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=42163597 target=_blank>70 comments</a>]]></description>
             <pubDate>2024-11-17T11:38:35Z</pubDate>
             <guid isPermaLink="false">https://github.com/oracle/bpftune</guid>
             <link>https://github.com/oracle/bpftune</link>
@@ -114,6 +114,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Why did Windows 95 setup use three operating systems?]]></title>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=42166606 target=_blank>106 comments</a>]]></description>
+            <pubDate>2024-11-17T19:54:24Z</pubDate>
+            <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507</guid>
+            <link>https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507</link>
+            
+            
+            
+            <author><![CDATA[mooreds]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The myth that you can’t build interactive web apps except as single page app]]></title>
             <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=42164154 target=_blank>117 comments</a>]]></description>
             <pubDate>2024-11-17T13:44:03Z</pubDate>
@@ -123,22 +139,6 @@
             
             
             <author><![CDATA[gherkinnn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Why did Windows 95 setup use three operating systems?]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=42166606 target=_blank>105 comments</a>]]></description>
-            <pubDate>2024-11-17T19:54:24Z</pubDate>
-            <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507</guid>
-            <link>https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507</link>
-            
-            
-            
-            <author><![CDATA[mooreds]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Claude AI built me a React app to compare maps side by side]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=42164141 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=42164141 target=_blank>193 comments</a>]]></description>
             <pubDate>2024-11-17T13:39:39Z</pubDate>
             <guid isPermaLink="false">https://github.com/veloplanner/map-matrix</guid>
             <link>https://github.com/veloplanner/map-matrix</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[We are shutting down Ondsel]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=42169998 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=42169998 target=_blank>68 comments</a>]]></description>
             <pubDate>2024-11-18T05:40:58Z</pubDate>
             <guid isPermaLink="false">https://ondsel.com/blog/goodbye/</guid>
             <link>https://ondsel.com/blog/goodbye/</link>
