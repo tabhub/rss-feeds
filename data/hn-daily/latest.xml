@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The 'Return to Office' Lies]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=42221623 target=_blank>273 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=42221623 target=_blank>290 comments</a>]]></description>
             <pubDate>2024-11-23T16:17:45Z</pubDate>
             <guid isPermaLink="false">https://blog.avas.space/rto/</guid>
             <link>https://blog.avas.space/rto/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Highest-resolution images ever captured of the sun’s entire surface]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=42220155 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=42220155 target=_blank>84 comments</a>]]></description>
             <pubDate>2024-11-23T10:01:30Z</pubDate>
             <guid isPermaLink="false">https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/</guid>
             <link>https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Quake 3 Source Code Review: Network Model (2012)]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=42218532 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=42218532 target=_blank>44 comments</a>]]></description>
             <pubDate>2024-11-23T00:55:00Z</pubDate>
             <guid isPermaLink="false">https://fabiensanglard.net/quake3/network.php</guid>
             <link>https://fabiensanglard.net/quake3/network.php</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Americans see their savings vanish in Synapse fintech crisis]]></title>
-            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=42219407 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=42219407 target=_blank>184 comments</a>]]></description>
             <pubDate>2024-11-23T05:44:48Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html</guid>
             <link>https://www.cnbc.com/2024/11/22/synapse-bankruptcy-thousands-of-americans-see-their-savings-vanish.html</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Understanding Google's Quantum Error Correction Breakthrough]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=42215910 target=_blank>85 comments</a>]]></description>
-            <pubDate>2024-11-22T17:53:29Z</pubDate>
-            <guid isPermaLink="false">https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/</guid>
-            <link>https://www.quantum-machines.co/blog/understanding-googles-quantum-error-correction-breakthrough/</link>
-            
-            
-            
-            <author><![CDATA[GavCo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RGFW: Single-header C99 window abstraction library]]></title>
-            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=42217535 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[139 points | <a href=https://news.ycombinator.com/item?id=42217535 target=_blank>81 comments</a>]]></description>
             <pubDate>2024-11-22T21:31:51Z</pubDate>
             <guid isPermaLink="false">https://github.com/ColleagueRiley/RGFW</guid>
             <link>https://github.com/ColleagueRiley/RGFW</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[SQLite’s Use of Tcl (2017)]]></title>
-            <description><![CDATA[104 points | <a href=https://news.ycombinator.com/item?id=42220078 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[107 points | <a href=https://news.ycombinator.com/item?id=42220078 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-11-23T09:42:03Z</pubDate>
             <guid isPermaLink="false">https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html</guid>
             <link>https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html</link>
@@ -139,6 +123,38 @@
             
             
             <author><![CDATA[fanf2]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP]]></title>
+            <description><![CDATA[104 points | <a href=https://news.ycombinator.com/item?id=42219890 target=_blank>22 comments</a>]]></description>
+            <pubDate>2024-11-23T08:58:19Z</pubDate>
+            <guid isPermaLink="false">https://www.openmptcprouter.com/</guid>
+            <link>https://www.openmptcprouter.com/</link>
+            
+            
+            
+            <author><![CDATA[yamrzou]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Don’t look down on print debugging]]></title>
+            <description><![CDATA[103 points | <a href=https://news.ycombinator.com/item?id=42219708 target=_blank>145 comments</a>]]></description>
+            <pubDate>2024-11-23T07:43:23Z</pubDate>
+            <guid isPermaLink="false">https://blog.startifact.com/posts/print-debugging/</guid>
+            <link>https://blog.startifact.com/posts/print-debugging/</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
             
                 
             
@@ -162,38 +178,6 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP]]></title>
-            <description><![CDATA[103 points | <a href=https://news.ycombinator.com/item?id=42219890 target=_blank>22 comments</a>]]></description>
-            <pubDate>2024-11-23T08:58:19Z</pubDate>
-            <guid isPermaLink="false">https://www.openmptcprouter.com/</guid>
-            <link>https://www.openmptcprouter.com/</link>
-            
-            
-            
-            <author><![CDATA[yamrzou]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Don’t look down on print debugging]]></title>
-            <description><![CDATA[102 points | <a href=https://news.ycombinator.com/item?id=42219708 target=_blank>144 comments</a>]]></description>
-            <pubDate>2024-11-23T07:43:23Z</pubDate>
-            <guid isPermaLink="false">https://blog.startifact.com/posts/print-debugging/</guid>
-            <link>https://blog.startifact.com/posts/print-debugging/</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Translating my Grandfather’s biograpy]]></title>
             <description><![CDATA[93 points | <a href=https://news.ycombinator.com/item?id=42216311 target=_blank>31 comments</a>]]></description>
             <pubDate>2024-11-22T18:43:36Z</pubDate>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[pavel_lishin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Baby’s Second Garbage Collector]]></title>
+            <description><![CDATA[84 points | <a href=https://news.ycombinator.com/item?id=42218939 target=_blank>0 comments</a>]]></description>
+            <pubDate>2024-11-23T03:11:06Z</pubDate>
+            <guid isPermaLink="false">https://jennyjams.net/blog/copygc/</guid>
+            <link>https://jennyjams.net/blog/copygc/</link>
+            
+            
+            
+            <author><![CDATA[whereistimbo]]></author>
             
                 
             
