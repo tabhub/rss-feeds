@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #695]]></title>
+        <title><![CDATA[Perl Weekly #696]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Randal Schwartz: Half My Life with Perl]]></title>
-            <description><![CDATA[As part of year 25 of The Perl Advent Calendar, Perl luminary and co-author of O'Reilly's "Learning Perl" Randal Schwartz will be giving a presentation entitled "Half My Life with Perl". The presentation takes place on Saturday, Dec 14, 2024.]]></description>
-            <pubDate>2024.11.14</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/randal-schwartz-half-my-life-with-perl/</guid>
-            <link>https://www.perl.com/article/randal-schwartz-half-my-life-with-perl/</link>
+            <title><![CDATA[Registration is OPEN - Perl Community Conference, Winter 2024]]></title>
+            <description><![CDATA[The Perl Community Conference is a hybrid in-person-and-online event held on December 18th from 10:30a-4:30p CST.]]></description>
+            <pubDate>2024.11.20</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/11/registration-is-open---perl-community-conference-winter-2024.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2024/11/registration-is-open---perl-community-conference-winter-2024.html</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
+            <author><![CDATA[oodler]]></author>
             
                 
             
@@ -34,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[A link site of your very own]]></title>
-            <description><![CDATA[Another personal project of Dave that made it to CPAN as well. Think about it as a LinkTree clone. <a href="https://www.reddit.com/r/perl/comments/1gtilaz/a_link_site_of_your_very_own_perl_hacks/">reddit</a>]]></description>
-            <pubDate>2024.11.17</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2024/11/a-link-site-of-your-very-own/</guid>
-            <link>https://perlhacks.com/2024/11/a-link-site-of-your-very-own/</link>
+            <title><![CDATA[Aphra - A simple sitebuilder in Perl]]></title>
+            <description><![CDATA[Yet another handy tool for building static site in Perl.]]></description>
+            <pubDate>2024.11.20</pubDate>
+            <guid isPermaLink="false">https://aphra.perlhacks.com/</guid>
+            <link>https://aphra.perlhacks.com/</link>
             
             
             
@@ -50,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/11/dxxii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.11.16</pubDate>
-            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
-            <link>http://niceperl.blogspot.com/</link>
+            <title><![CDATA[Using Vector Databases with Perl]]></title>
+            <description><![CDATA[Gem of an article talking about Vector Database and showing how to work with it using Perl.]]></description>
+            <pubDate>2024.11.19</pubDate>
+            <guid isPermaLink="false">https://curtispoe.org/articles/using-vector-databases-with-perl.html</guid>
+            <link>https://curtispoe.org/articles/using-vector-databases-with-perl.html</link>
             
             
             
-            <author><![CDATA[miguel_prz]]></author>
+            <author><![CDATA[curtis_ovid_poe]]></author>
             
                 
             
@@ -66,15 +66,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Improving the (software) development process ]]></title>
-            <description><![CDATA[This seems to be a generic problem regardless of the programming language, though I wonder how does the age of the programming language and the traditions of the Open Source communities around the language impact this.]]></description>
-            <pubDate>2024.11.17</pubDate>
-            <guid isPermaLink="false">https://www.linkedin.com/pulse/improving-software-development-process-gábor-szabó-imdlf/</guid>
-            <link>https://www.linkedin.com/pulse/improving-software-development-process-gábor-szabó-imdlf/</link>
+            <title><![CDATA[This week in PSC (169) | 2024-11-21]]></title>
+            <description><![CDATA[A big announcement, the merger of <strong>PPC0025</strong> about the "Perl 5 is Perl".]]></description>
+            <pubDate>2024.11.21</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/11/this-week-in-psc-169-2024-11-21.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/11/this-week-in-psc-169-2024-11-21.html</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2024.45 Rainbow Butterfly]]></title>
+            <description><![CDATA[2024.45 Rainbow Butterfly]]></description>
+            <pubDate>2024.11.18</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/11/18/2024-45-rainbow-butterfly/</guid>
+            <link>https://rakudoweekly.blog/2024/11/18/2024-45-rainbow-butterfly/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/11/dxxiii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2024.11.23</pubDate>
+            <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
+            <link>http://niceperl.blogspot.com/</link>
+            
+            
+            
+            <author><![CDATA[miguel_prz]]></author>
             
                 
             
@@ -119,22 +151,6 @@
             
             <guid isPermaLink="false">https://lu.ma/giz69577</guid>
             <link>https://lu.ma/giz69577</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Community Conference]]></title>
-            <description><![CDATA[December 18, 2024, Virtual]]></description>
-            
-            <guid isPermaLink="false">https://science.perlcommunity.org/spj/index</guid>
-            <link>https://science.perlcommunity.org/spj/index</link>
             
             
             
