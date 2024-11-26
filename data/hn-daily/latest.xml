@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Model Context Protocol]]></title>
-            <description><![CDATA[685 points | <a href=https://news.ycombinator.com/item?id=42237424 target=_blank>216 comments</a>]]></description>
+            <description><![CDATA[686 points | <a href=https://news.ycombinator.com/item?id=42237424 target=_blank>216 comments</a>]]></description>
             <pubDate>2024-11-25T16:14:22Z</pubDate>
             <guid isPermaLink="false">https://www.anthropic.com/news/model-context-protocol</guid>
             <link>https://www.anthropic.com/news/model-context-protocol</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Amazon S3 Adds Put-If-Match (Compare-and-Swap)]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=42240678 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=42240678 target=_blank>114 comments</a>]]></description>
             <pubDate>2024-11-25T22:11:31Z</pubDate>
             <guid isPermaLink="false">https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/</guid>
             <link>https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Lies we tell ourselves to keep using Golang (2022)]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=42243500 target=_blank>205 comments</a>]]></description>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=42243500 target=_blank>219 comments</a>]]></description>
             <pubDate>2024-11-26T08:01:33Z</pubDate>
             <guid isPermaLink="false">https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang</guid>
             <link>https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Cybertruck's Many Recalls]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=42242971 target=_blank>232 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=42242971 target=_blank>233 comments</a>]]></description>
             <pubDate>2024-11-26T06:12:17Z</pubDate>
             <guid isPermaLink="false">https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/</guid>
             <link>https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Fly.io outage – resolved]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=42241851 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=42241851 target=_blank>158 comments</a>]]></description>
             <pubDate>2024-11-26T01:47:25Z</pubDate>
             <guid isPermaLink="false">https://status.flyio.net</guid>
             <link>https://status.flyio.net</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[A Short Introduction to Automotive Lidar Technology]]></title>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=42239721 target=_blank>110 comments</a>]]></description>
+            <pubDate>2024-11-25T20:12:27Z</pubDate>
+            <guid isPermaLink="false">https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar</guid>
+            <link>https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar</link>
+            
+            
+            
+            <author><![CDATA[kayson]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Noise-canceling single-layer woven silk and cotton fabric]]></title>
             <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=42235909 target=_blank>108 comments</a>]]></description>
             <pubDate>2024-11-25T13:00:15Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A Short Introduction to Automotive Lidar Technology]]></title>
-            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=42239721 target=_blank>107 comments</a>]]></description>
-            <pubDate>2024-11-25T20:12:27Z</pubDate>
-            <guid isPermaLink="false">https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar</guid>
-            <link>https://www.viksnewsletter.com/p/short-intro-to-automotive-lidar</link>
-            
-            
-            
-            <author><![CDATA[kayson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Redis is trying to take over the all of the OSS Redis libraries]]></title>
-            <description><![CDATA[123 points | <a href=https://news.ycombinator.com/item?id=42239607 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[124 points | <a href=https://news.ycombinator.com/item?id=42239607 target=_blank>53 comments</a>]]></description>
             <pubDate>2024-11-25T20:00:08Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/TomHacohen/status/1861137484249252093</guid>
             <link>https://twitter.com/TomHacohen/status/1861137484249252093</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Show HN: Gemini LLM corrects ASR YouTube transcripts]]></title>
-            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=42238890 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[123 points | <a href=https://news.ycombinator.com/item?id=42238890 target=_blank>78 comments</a>]]></description>
             <pubDate>2024-11-25T18:44:22Z</pubDate>
             <guid isPermaLink="false">https://ldenoue.github.io/readabletranscripts/</guid>
             <link>https://ldenoue.github.io/readabletranscripts/</link>
