@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Engineers do not get to make startup mistakes when they build ledgers]]></title>
-            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=42269227 target=_blank>433 comments</a>]]></description>
-            <pubDate>2024-11-28T23:03:47Z</pubDate>
-            <guid isPermaLink="false">https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup</guid>
-            <link>https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup</link>
-            
-            
-            
-            <author><![CDATA[fagnerbrack]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Don't Fuck with Scroll]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=42273505 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=42273505 target=_blank>124 comments</a>]]></description>
             <pubDate>2024-11-29T12:52:51Z</pubDate>
             <guid isPermaLink="false">https://dontfuckwithscroll.com</guid>
             <link>https://dontfuckwithscroll.com</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Car tires shed a quarter of all microplastics in the environment]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=42269925 target=_blank>295 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=42269925 target=_blank>295 comments</a>]]></description>
             <pubDate>2024-11-29T01:09:33Z</pubDate>
             <guid isPermaLink="false">https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html</guid>
             <link>https://phys.org/news/2024-11-car-quarter-microplastics-environment-urgent.html</link>
@@ -66,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How much memory do you need in 2024 to run 1M concurrent tasks?]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=42270378 target=_blank>179 comments</a>]]></description>
-            <pubDate>2024-11-29T02:50:59Z</pubDate>
-            <guid isPermaLink="false">https://hez2010.github.io/async-runtimes-benchmarks-2024/</guid>
-            <link>https://hez2010.github.io/async-runtimes-benchmarks-2024/</link>
-            
-            
-            
-            <author><![CDATA[neonsunset]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Why pipes sometimes get "stuck": buffering]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=42275033 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=42275033 target=_blank>67 comments</a>]]></description>
             <pubDate>2024-11-29T16:43:51Z</pubDate>
             <guid isPermaLink="false">https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/</guid>
             <link>https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/</link>
@@ -98,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[GIMP 3.0 is on the way]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=42272927 target=_blank>169 comments</a>]]></description>
-            <pubDate>2024-11-29T10:50:33Z</pubDate>
-            <guid isPermaLink="false">https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/</guid>
-            <link>https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/</link>
-            
-            
-            
-            <author><![CDATA[chmaynard]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Llama.cpp guide – Running LLMs locally on any hardware, from scratch]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=42274489 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=42274489 target=_blank>51 comments</a>]]></description>
             <pubDate>2024-11-29T15:28:34Z</pubDate>
             <guid isPermaLink="false">https://steelph0enix.github.io/posts/llama-cpp-guide/</guid>
             <link>https://steelph0enix.github.io/posts/llama-cpp-guide/</link>
@@ -130,15 +82,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Vince – A self hosted alternative to Google Analytics]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=42270389 target=_blank>65 comments</a>]]></description>
-            <pubDate>2024-11-29T02:54:00Z</pubDate>
-            <guid isPermaLink="false">https://github.com/vinceanalytics/vince</guid>
-            <link>https://github.com/vinceanalytics/vince</link>
+            <title><![CDATA[How much memory do you need in 2024 to run 1M concurrent tasks?]]></title>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=42270378 target=_blank>179 comments</a>]]></description>
+            <pubDate>2024-11-29T02:50:59Z</pubDate>
+            <guid isPermaLink="false">https://hez2010.github.io/async-runtimes-benchmarks-2024/</guid>
+            <link>https://hez2010.github.io/async-runtimes-benchmarks-2024/</link>
             
             
             
-            <author><![CDATA[gernest]]></author>
+            <author><![CDATA[neonsunset]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GIMP 3.0 is on the way]]></title>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=42272927 target=_blank>172 comments</a>]]></description>
+            <pubDate>2024-11-29T10:50:33Z</pubDate>
+            <guid isPermaLink="false">https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/</guid>
+            <link>https://lwn.net/SubscriberLink/998793/6c8d00bd1b2a7948/</link>
+            
+            
+            
+            <author><![CDATA[chmaynard]]></author>
             
                 
             
@@ -147,7 +115,7 @@
         
         <item>
             <title><![CDATA[What does this button do? – My new car has a mysterious and undocumented switch]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=42276620 target=_blank>123 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=42276620 target=_blank>158 comments</a>]]></description>
             <pubDate>2024-11-29T19:59:47Z</pubDate>
             <guid isPermaLink="false">https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr</guid>
             <link>https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr</link>
@@ -162,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: Vince – A self hosted alternative to Google Analytics]]></title>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=42270389 target=_blank>65 comments</a>]]></description>
+            <pubDate>2024-11-29T02:54:00Z</pubDate>
+            <guid isPermaLink="false">https://github.com/vinceanalytics/vince</guid>
+            <link>https://github.com/vinceanalytics/vince</link>
+            
+            
+            
+            <author><![CDATA[gernest]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Show HN: Screen Sharing in the Browser]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=42269897 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=42269897 target=_blank>40 comments</a>]]></description>
             <pubDate>2024-11-29T01:04:21Z</pubDate>
             <guid isPermaLink="false">https://github.com/tonghohin/screen-sharing</guid>
             <link>https://github.com/tonghohin/screen-sharing</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Core copyright violation moves ahead in The Intercept's lawsuit against OpenAI]]></title>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=42273817 target=_blank>175 comments</a>]]></description>
+            <pubDate>2024-11-29T13:48:12Z</pubDate>
+            <guid isPermaLink="false">https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/</guid>
+            <link>https://www.niemanlab.org/2024/11/copyright-claim-moves-ahead-in-the-intercepts-lawsuit-against-openai/</link>
+            
+            
+            
+            <author><![CDATA[giuliomagnifico]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Prometheus 3.0]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=42274660 target=_blank>30 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=42274660 target=_blank>30 comments</a>]]></description>
             <pubDate>2024-11-29T15:52:44Z</pubDate>
             <guid isPermaLink="false">https://prometheus.io/blog/2024/11/14/prometheus-3-0/</guid>
             <link>https://prometheus.io/blog/2024/11/14/prometheus-3-0/</link>
