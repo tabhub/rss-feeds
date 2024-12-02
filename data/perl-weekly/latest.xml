@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #696]]></title>
+        <title><![CDATA[Perl Weekly #697]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Registration is OPEN - Perl Community Conference, Winter 2024]]></title>
-            <description><![CDATA[The Perl Community Conference is a hybrid in-person-and-online event held on December 18th from 10:30a-4:30p CST.]]></description>
-            <pubDate>2024.11.20</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/11/registration-is-open---perl-community-conference-winter-2024.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2024/11/registration-is-open---perl-community-conference-winter-2024.html</link>
+            <title><![CDATA[German Perl/Raku Workshop 2025 in Munich]]></title>
+            <description><![CDATA[Scheduled for 12.05.2025-14.05.2025]]></description>
+            <pubDate>2024.11.29</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2024/11/german-perlraku-workshop-2025-in-munich---12052025-14052025.html</guid>
+            <link>https://blogs.perl.org/users/max_maischein/2024/11/german-perlraku-workshop-2025-in-munich---12052025-14052025.html</link>
             
             
             
-            <author><![CDATA[oodler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Aphra - A simple sitebuilder in Perl]]></title>
-            <description><![CDATA[Yet another handy tool for building static site in Perl.]]></description>
-            <pubDate>2024.11.20</pubDate>
-            <guid isPermaLink="false">https://aphra.perlhacks.com/</guid>
-            <link>https://aphra.perlhacks.com/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[max_maischein]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Using Vector Databases with Perl]]></title>
-            <description><![CDATA[Gem of an article talking about Vector Database and showing how to work with it using Perl.]]></description>
-            <pubDate>2024.11.19</pubDate>
-            <guid isPermaLink="false">https://curtispoe.org/articles/using-vector-databases-with-perl.html</guid>
-            <link>https://curtispoe.org/articles/using-vector-databases-with-perl.html</link>
+            <title><![CDATA[PPI Signatures Trial Release - Feedback Requested]]></title>
+            <description><![CDATA[PPI Signatures Trial Release - Feedback Requested]]></description>
+            <pubDate>2024.11.25</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mithaldu/2024/11/ppi-signatures-support---feedback-requested.html</guid>
+            <link>https://blogs.perl.org/users/mithaldu/2024/11/ppi-signatures-support---feedback-requested.html</link>
             
             
             
-            <author><![CDATA[curtis_ovid_poe]]></author>
+            <author><![CDATA[christian_walde]]></author>
             
                 
             
@@ -66,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (169) | 2024-11-21]]></title>
-            <description><![CDATA[A big announcement, the merger of <strong>PPC0025</strong> about the "Perl 5 is Perl".]]></description>
-            <pubDate>2024.11.21</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/11/this-week-in-psc-169-2024-11-21.html</guid>
-            <link>https://blogs.perl.org/users/psc/2024/11/this-week-in-psc-169-2024-11-21.html</link>
+            <title><![CDATA[Type library kura meets built-in class.]]></title>
+            <description><![CDATA[Type library kura meets built-in class.]]></description>
+            <pubDate>2024.11.25</pubDate>
+            <guid isPermaLink="false">https://dev.to/kfly8/type-library-kura-meets-built-in-class-1ki4</guid>
+            <link>https://dev.to/kfly8/type-library-kura-meets-built-in-class-1ki4</link>
             
             
             
@@ -82,25 +66,9 @@
         </item>
         
         <item>
-            <title><![CDATA[2024.45 Rainbow Butterfly]]></title>
-            <description><![CDATA[2024.45 Rainbow Butterfly]]></description>
-            <pubDate>2024.11.18</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/11/18/2024-45-rainbow-butterfly/</guid>
-            <link>https://rakudoweekly.blog/2024/11/18/2024-45-rainbow-butterfly/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/11/dxxiii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2024.11.23</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/12/dxxiv-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/12/dxciii-metacpan-weekly-report-mce.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/12/dcxx-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
+            <pubDate>2024.12.01</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
