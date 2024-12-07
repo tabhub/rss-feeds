@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Every V4 UUID]]></title>
-            <description><![CDATA[1084 points | <a href=https://news.ycombinator.com/item?id=42342382 target=_blank>312 comments</a>]]></description>
+            <description><![CDATA[1087 points | <a href=https://news.ycombinator.com/item?id=42342382 target=_blank>314 comments</a>]]></description>
             <pubDate>2024-12-06T18:11:46Z</pubDate>
             <guid isPermaLink="false">https://everyuuid.com/</guid>
             <link>https://everyuuid.com/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Tokyo is set to introduce a four-day workweek for government employees]]></title>
-            <description><![CDATA[552 points | <a href=https://news.ycombinator.com/item?id=42342203 target=_blank>271 comments</a>]]></description>
+            <description><![CDATA[554 points | <a href=https://news.ycombinator.com/item?id=42342203 target=_blank>274 comments</a>]]></description>
             <pubDate>2024-12-06T17:54:20Z</pubDate>
             <guid isPermaLink="false">https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</guid>
             <link>https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Romanian court annuls result of presidential election first round]]></title>
-            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=42339819 target=_blank>939 comments</a>]]></description>
+            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=42339819 target=_blank>942 comments</a>]]></description>
             <pubDate>2024-12-06T13:55:49Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4x2epppego</guid>
             <link>https://www.bbc.com/news/articles/cn4x2epppego</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Llama-3.3-70B-Instruct]]></title>
-            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=42341388 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=42341388 target=_blank>196 comments</a>]]></description>
             <pubDate>2024-12-06T16:44:56Z</pubDate>
             <guid isPermaLink="false">https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</guid>
             <link>https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[My second year without a job]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=42344002 target=_blank>361 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=42344002 target=_blank>366 comments</a>]]></description>
             <pubDate>2024-12-06T20:26:05Z</pubDate>
             <guid isPermaLink="false">https://shilin.ca/my-second-year-without-job/</guid>
             <link>https://shilin.ca/my-second-year-without-job/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Install postmarketOS on Android phone and use Docker as a home server]]></title>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=42340065 target=_blank>100 comments</a>]]></description>
+            <pubDate>2024-12-06T14:23:17Z</pubDate>
+            <guid isPermaLink="false">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</guid>
+            <link>https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</link>
+            
+            
+            
+            <author><![CDATA[raybb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists]]></title>
             <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=42340346 target=_blank>58 comments</a>]]></description>
             <pubDate>2024-12-06T14:54:56Z</pubDate>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Install postmarketOS on Android phone and use Docker as a home server]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=42340065 target=_blank>100 comments</a>]]></description>
-            <pubDate>2024-12-06T14:23:17Z</pubDate>
-            <guid isPermaLink="false">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</guid>
-            <link>https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</link>
+            <title><![CDATA[How to use Postgres for everything]]></title>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=42347606 target=_blank>113 comments</a>]]></description>
+            <pubDate>2024-12-07T05:56:15Z</pubDate>
+            <guid isPermaLink="false">https://github.com/Olshansk/postgres_for_everything</guid>
+            <link>https://github.com/Olshansk/postgres_for_everything</link>
             
             
             
-            <author><![CDATA[raybb]]></author>
+            <author><![CDATA[Olshansky]]></author>
             
                 
             
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Rivian is opening its charging network to other EVs]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=42340000 target=_blank>242 comments</a>]]></description>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=42340000 target=_blank>243 comments</a>]]></description>
             <pubDate>2024-12-06T14:16:49Z</pubDate>
             <guid isPermaLink="false">https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs</guid>
             <link>https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[peutetre]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How to use Postgres for everything]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=42347606 target=_blank>111 comments</a>]]></description>
-            <pubDate>2024-12-07T05:56:15Z</pubDate>
-            <guid isPermaLink="false">https://github.com/Olshansk/postgres_for_everything</guid>
-            <link>https://github.com/Olshansk/postgres_for_everything</link>
-            
-            
-            
-            <author><![CDATA[Olshansky]]></author>
             
                 
             
