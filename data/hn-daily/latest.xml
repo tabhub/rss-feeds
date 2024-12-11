@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[GM exits robotaxi market, will bring Cruise operations in house]]></title>
-            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=42381637 target=_blank>548 comments</a>]]></description>
-            <pubDate>2024-12-10T21:19:22Z</pubDate>
-            <guid isPermaLink="false">https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html</guid>
-            <link>https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html</link>
-            
-            
-            
-            <author><![CDATA[atomic128]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Judge Refuses to Allow Sale of Infowars to The Onion]]></title>
-            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=42384921 target=_blank>481 comments</a>]]></description>
+            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=42384921 target=_blank>497 comments</a>]]></description>
             <pubDate>2024-12-11T04:53:54Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html</guid>
             <link>https://www.nytimes.com/2024/12/10/business/media/the-onion-infowars-alex-jones.html</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[GM exits robotaxi market, will bring Cruise operations in house]]></title>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=42381637 target=_blank>553 comments</a>]]></description>
+            <pubDate>2024-12-10T21:19:22Z</pubDate>
+            <guid isPermaLink="false">https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html</guid>
+            <link>https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html</link>
+            
+            
+            
+            <author><![CDATA[atomic128]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Limbo: A complete rewrite of SQLite in Rust]]></title>
-            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=42378843 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=42378843 target=_blank>214 comments</a>]]></description>
             <pubDate>2024-12-10T17:16:12Z</pubDate>
             <guid isPermaLink="false">https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust</guid>
             <link>https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[U.S. math scores drop on major international test]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=42378929 target=_blank>605 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=42378929 target=_blank>607 comments</a>]]></description>
             <pubDate>2024-12-10T17:24:13Z</pubDate>
             <guid isPermaLink="false">https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/</guid>
             <link>https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Digital consumption keeps me from getting better at my job]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=42379970 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=42379970 target=_blank>96 comments</a>]]></description>
             <pubDate>2024-12-10T18:46:50Z</pubDate>
             <guid isPermaLink="false">http://sibervepunk.com/digital-consumption.html</guid>
             <link>http://sibervepunk.com/digital-consumption.html</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Electric (Postgres sync engine) beta release]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=42383136 target=_blank>53 comments</a>]]></description>
-            <pubDate>2024-12-11T00:04:41Z</pubDate>
-            <guid isPermaLink="false">https://electric-sql.com/blog/2024/12/10/electric-beta-release</guid>
-            <link>https://electric-sql.com/blog/2024/12/10/electric-beta-release</link>
-            
-            
-            
-            <author><![CDATA[austinbirch]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Gemini 2.0: our new AI model for the agentic era]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=42388783 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=42388783 target=_blank>148 comments</a>]]></description>
             <pubDate>2024-12-11T15:33:54Z</pubDate>
             <guid isPermaLink="false">https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/</guid>
             <link>https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Electric (Postgres sync engine) beta release]]></title>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=42383136 target=_blank>53 comments</a>]]></description>
+            <pubDate>2024-12-11T00:04:41Z</pubDate>
+            <guid isPermaLink="false">https://electric-sql.com/blog/2024/12/10/electric-beta-release</guid>
+            <link>https://electric-sql.com/blog/2024/12/10/electric-beta-release</link>
+            
+            
+            
+            <author><![CDATA[austinbirch]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=42382829 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=42382829 target=_blank>100 comments</a>]]></description>
             <pubDate>2024-12-10T23:20:34Z</pubDate>
             <guid isPermaLink="false">https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/</guid>
             <link>https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AI model for near-instant image creation on consumer-grade hardware]]></title>
-            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=42378519 target=_blank>47 comments</a>]]></description>
-            <pubDate>2024-12-10T16:44:52Z</pubDate>
-            <guid isPermaLink="false">https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware</guid>
-            <link>https://www.surrey.ac.uk/news/surrey-announces-worlds-first-ai-model-near-instant-image-creation-consumer-grade-hardware</link>
+            <title><![CDATA[Canvas]]></title>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=42379361 target=_blank>90 comments</a>]]></description>
+            <pubDate>2024-12-10T18:01:23Z</pubDate>
+            <guid isPermaLink="false">https://openai.com/index/introducing-canvas/</guid>
+            <link>https://openai.com/index/introducing-canvas/</link>
             
             
             
-            <author><![CDATA[giuliomagnifico]]></author>
+            <author><![CDATA[t55]]></author>
             
                 
             
