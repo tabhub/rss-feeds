@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[From where I left]]></title>
-            <description><![CDATA[993 points | <a href=https://news.ycombinator.com/item?id=42378488 target=_blank>359 comments</a>]]></description>
+            <description><![CDATA[1002 points | <a href=https://news.ycombinator.com/item?id=42378488 target=_blank>362 comments</a>]]></description>
             <pubDate>2024-12-10T16:41:52Z</pubDate>
             <guid isPermaLink="false">https://antirez.com/news/144</guid>
             <link>https://antirez.com/news/144</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The Google Willow Thing]]></title>
-            <description><![CDATA[652 points | <a href=https://news.ycombinator.com/item?id=42378407 target=_blank>329 comments</a>]]></description>
+            <description><![CDATA[657 points | <a href=https://news.ycombinator.com/item?id=42378407 target=_blank>332 comments</a>]]></description>
             <pubDate>2024-12-10T16:34:02Z</pubDate>
             <guid isPermaLink="false">https://scottaaronson.blog/?p=8525</guid>
             <link>https://scottaaronson.blog/?p=8525</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Launch HN: Double (YC W24) – Index Investing with 0% Expense Ratios]]></title>
-            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=42377018 target=_blank>368 comments</a>]]></description>
+            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=42377018 target=_blank>368 comments</a>]]></description>
             <pubDate>2024-12-10T14:16:54Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=42377018</guid>
             <link>https://news.ycombinator.com/item?id=42377018</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[GM exits robotaxi market, will bring Cruise operations in house]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=42381637 target=_blank>424 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=42381637 target=_blank>424 comments</a>]]></description>
             <pubDate>2024-12-10T21:19:22Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html</guid>
             <link>https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[U.S. math scores drop on major international test]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=42378929 target=_blank>520 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=42378929 target=_blank>521 comments</a>]]></description>
             <pubDate>2024-12-10T17:24:13Z</pubDate>
             <guid isPermaLink="false">https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/</guid>
             <link>https://www.chalkbeat.org/2024/12/04/timss-international-test-result-us-math-scores-decline-post-pandemic/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Digital consumption keeps me from getting better at my job]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=42379970 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=42379970 target=_blank>84 comments</a>]]></description>
             <pubDate>2024-12-10T18:46:50Z</pubDate>
             <guid isPermaLink="false">http://sibervepunk.com/digital-consumption.html</guid>
             <link>http://sibervepunk.com/digital-consumption.html</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Training LLMs to Reason in a Continuous Latent Space]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=42378335 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=42378335 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-12-10T16:26:17Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2412.06769</guid>
             <link>https://arxiv.org/abs/2412.06769</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[WPEngine, Inc. vs. Automattic– Order on Motion for Preliminary Injunction]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=42382829 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=42382829 target=_blank>77 comments</a>]]></description>
             <pubDate>2024-12-10T23:20:34Z</pubDate>
             <guid isPermaLink="false">https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/</guid>
             <link>https://www.courtlistener.com/docket/69221176/64/wpengine-inc-v-automattic-inc/</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[kbarmettler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Electric (Postgres sync engine) beta release]]></title>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=42383136 target=_blank>41 comments</a>]]></description>
+            <pubDate>2024-12-11T00:04:41Z</pubDate>
+            <guid isPermaLink="false">https://electric-sql.com/blog/2024/12/10/electric-beta-release</guid>
+            <link>https://electric-sql.com/blog/2024/12/10/electric-beta-release</link>
+            
+            
+            
+            <author><![CDATA[austinbirch]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[pseudolus]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Electric (Postgres sync engine) beta release]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=42383136 target=_blank>41 comments</a>]]></description>
-            <pubDate>2024-12-11T00:04:41Z</pubDate>
-            <guid isPermaLink="false">https://electric-sql.com/blog/2024/12/10/electric-beta-release</guid>
-            <link>https://electric-sql.com/blog/2024/12/10/electric-beta-release</link>
-            
-            
-            
-            <author><![CDATA[austinbirch]]></author>
             
                 
             
