@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Test]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=42408202 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=42408202 target=_blank>92 comments</a>]]></description>
             <pubDate>2024-12-13T13:23:54Z</pubDate>
             <guid isPermaLink="false">https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/</guid>
             <link>https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[A new video captures a 1968 demo of IBM’s Executive Terminal]]></title>
-            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=42405462 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=42405462 target=_blank>84 comments</a>]]></description>
             <pubDate>2024-12-13T02:30:01Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/ibm-demo</guid>
             <link>https://spectrum.ieee.org/ibm-demo</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Elon Musk wanted an OpenAI for-profit]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=42411608 target=_blank>310 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=42411608 target=_blank>318 comments</a>]]></description>
             <pubDate>2024-12-13T19:36:41Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/elon-musk-wanted-an-openai-for-profit/</guid>
             <link>https://openai.com/index/elon-musk-wanted-an-openai-for-profit/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Elixir/Erlang Hot Swapping Code (2016)]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=42404411 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=42404411 target=_blank>102 comments</a>]]></description>
             <pubDate>2024-12-12T23:16:20Z</pubDate>
             <guid isPermaLink="false">https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html</guid>
             <link>https://kennyballou.com/blog/2016/12/elixir-hot-swapping/index.html</link>
@@ -130,15 +130,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Carta is making it too difficult to cancel subscriptions, some founders say]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=42404144 target=_blank>72 comments</a>]]></description>
-            <pubDate>2024-12-12T22:37:32Z</pubDate>
-            <guid isPermaLink="false">https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/</guid>
-            <link>https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/</link>
+            <title><![CDATA[OpenAI whistleblower found dead in San Francisco apartment]]></title>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=42412718 target=_blank>70 comments</a>]]></description>
+            <pubDate>2024-12-13T21:56:29Z</pubDate>
+            <guid isPermaLink="false">https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/</guid>
+            <link>https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/</link>
             
             
             
-            <author><![CDATA[impish9208]]></author>
+            <author><![CDATA[mmorearty]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MarkItDown: Python tool for converting files and office documents to Markdown]]></title>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=42410803 target=_blank>53 comments</a>]]></description>
+            <pubDate>2024-12-13T18:02:03Z</pubDate>
+            <guid isPermaLink="false">https://github.com/microsoft/markitdown</guid>
+            <link>https://github.com/microsoft/markitdown</link>
+            
+            
+            
+            <author><![CDATA[Handy-Man]]></author>
             
                 
             
@@ -162,31 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[MarkItDown: Python tool for converting files and office documents to Markdown]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=42410803 target=_blank>52 comments</a>]]></description>
-            <pubDate>2024-12-13T18:02:03Z</pubDate>
-            <guid isPermaLink="false">https://github.com/microsoft/markitdown</guid>
-            <link>https://github.com/microsoft/markitdown</link>
+            <title><![CDATA[Web Origami, for making websites where you can understand how they’re made]]></title>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=42408819 target=_blank>39 comments</a>]]></description>
+            <pubDate>2024-12-13T14:43:05Z</pubDate>
+            <guid isPermaLink="false">https://weborigami.org</guid>
+            <link>https://weborigami.org</link>
             
             
             
-            <author><![CDATA[Handy-Man]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[OpenAI whistleblower found dead in San Francisco apartment]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=42412718 target=_blank>69 comments</a>]]></description>
-            <pubDate>2024-12-13T21:56:29Z</pubDate>
-            <guid isPermaLink="false">https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/</guid>
-            <link>https://www.mercurynews.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/</link>
-            
-            
-            
-            <author><![CDATA[mmorearty]]></author>
+            <author><![CDATA[ayoreis]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Taming LLMs – A Practical Guide to LLM Pitfalls with Open Source Software]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=42404202 target=_blank>29 comments</a>]]></description>
-            <pubDate>2024-12-12T22:45:57Z</pubDate>
-            <guid isPermaLink="false">https://www.souzatharsis.com/tamingLLMs/markdown/toc.html</guid>
-            <link>https://www.souzatharsis.com/tamingLLMs/markdown/toc.html</link>
+            <title><![CDATA[Feds help health insurers hide their dirty secret: denials on the rise]]></title>
+            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=42408925 target=_blank>241 comments</a>]]></description>
+            <pubDate>2024-12-13T14:51:49Z</pubDate>
+            <guid isPermaLink="false">https://nypost.com/2024/12/12/opinion/feds-help-health-insurers-hide-dirty-secret-rising-denials/</guid>
+            <link>https://nypost.com/2024/12/12/opinion/feds-help-health-insurers-hide-dirty-secret-rising-denials/</link>
             
             
             
-            <author><![CDATA[sebg]]></author>
+            <author><![CDATA[mancerayder]]></author>
             
                 
             
