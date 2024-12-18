@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Moon]]></title>
-            <description><![CDATA[1897 points | <a href=https://news.ycombinator.com/item?id=42443229 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[1928 points | <a href=https://news.ycombinator.com/item?id=42443229 target=_blank>176 comments</a>]]></description>
             <pubDate>2024-12-17T17:26:26Z</pubDate>
             <guid isPermaLink="false">https://ciechanow.ski/moon/</guid>
             <link>https://ciechanow.ski/moon/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[FTC bans hidden junk fees in hotel, event ticket prices]]></title>
-            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=42445037 target=_blank>384 comments</a>]]></description>
+            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=42445037 target=_blank>385 comments</a>]]></description>
             <pubDate>2024-12-17T20:36:07Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html</guid>
             <link>https://www.cnbc.com/2024/12/17/ftc-bans-hidden-junk-fees-in-hotel-event-ticket-prices-.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[After 3 Years, I Failed. Here's All My Startup's Code]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=42440886 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=42440886 target=_blank>85 comments</a>]]></description>
             <pubDate>2024-12-17T12:38:11Z</pubDate>
             <guid isPermaLink="false">https://dylanhuang.com/blog/closing-my-startup/</guid>
             <link>https://dylanhuang.com/blog/closing-my-startup/</link>
@@ -82,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How I used linear algebra to build an interactive diagramming editor]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=42438767 target=_blank>38 comments</a>]]></description>
-            <pubDate>2024-12-17T06:10:26Z</pubDate>
-            <guid isPermaLink="false">https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d</guid>
-            <link>https://medium.com/@ivan.ishubin/how-i-used-linear-algebra-to-build-an-interactive-diagramming-editor-and-why-matrix-math-is-d5bd552f2e8d</link>
+            <title><![CDATA[Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps]]></title>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=42441258 target=_blank>52 comments</a>]]></description>
+            <pubDate>2024-12-17T13:43:29Z</pubDate>
+            <guid isPermaLink="false">https://github.com/langfuse/langfuse</guid>
+            <link>https://github.com/langfuse/langfuse</link>
             
             
             
-            <author><![CDATA[binshu]]></author>
+            <author><![CDATA[mdeichmann]]></author>
             
                 
             
@@ -114,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Launch HN: Langfuse (YC W23) – OSS Tracing and Workflows to Improve LLM Apps]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=42441258 target=_blank>52 comments</a>]]></description>
-            <pubDate>2024-12-17T13:43:29Z</pubDate>
-            <guid isPermaLink="false">https://github.com/langfuse/langfuse</guid>
-            <link>https://github.com/langfuse/langfuse</link>
+            <title><![CDATA[Show HN: I built an open-source data pipeline tool in Go]]></title>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=42442812 target=_blank>32 comments</a>]]></description>
+            <pubDate>2024-12-17T16:40:31Z</pubDate>
+            <guid isPermaLink="false">https://github.com/bruin-data/bruin</guid>
+            <link>https://github.com/bruin-data/bruin</link>
             
             
             
-            <author><![CDATA[mdeichmann]]></author>
+            <author><![CDATA[karakanb]]></author>
             
                 
             
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Natural Number Game: build the basic theory of the natural numbers from scratch]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=42440016 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=42440016 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-12-17T10:06:22Z</pubDate>
             <guid isPermaLink="false">https://adam.math.hhu.de/#/g/leanprover-community/NNG4</guid>
             <link>https://adam.math.hhu.de/#/g/leanprover-community/NNG4</link>
@@ -139,22 +139,6 @@
             
             
             <author><![CDATA[mildog8]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: I built an open-source data pipeline tool in Go]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=42442812 target=_blank>32 comments</a>]]></description>
-            <pubDate>2024-12-17T16:40:31Z</pubDate>
-            <guid isPermaLink="false">https://github.com/bruin-data/bruin</guid>
-            <link>https://github.com/bruin-data/bruin</link>
-            
-            
-            
-            <author><![CDATA[karakanb]]></author>
             
                 
             
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Includeable minimal operating system for C++]]></title>
-            <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=42445508 target=_blank>21 comments</a>]]></description>
+            <description><![CDATA[116 points | <a href=https://news.ycombinator.com/item?id=42445508 target=_blank>21 comments</a>]]></description>
             <pubDate>2024-12-17T21:29:52Z</pubDate>
             <guid isPermaLink="false">https://www.includeos.org/</guid>
             <link>https://www.includeos.org/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[When should we require that firmware be free?]]></title>
-            <description><![CDATA[111 points | <a href=https://news.ycombinator.com/item?id=42439921 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[111 points | <a href=https://news.ycombinator.com/item?id=42439921 target=_blank>113 comments</a>]]></description>
             <pubDate>2024-12-17T09:49:17Z</pubDate>
             <guid isPermaLink="false">https://mjg59.dreamwidth.org/70895.html</guid>
             <link>https://mjg59.dreamwidth.org/70895.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[AndrewDucker]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ergo Chat – A modern IRC server written in Go]]></title>
+            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=42447071 target=_blank>26 comments</a>]]></description>
+            <pubDate>2024-12-18T00:46:19Z</pubDate>
+            <guid isPermaLink="false">https://github.com/ergochat/ergo</guid>
+            <link>https://github.com/ergochat/ergo</link>
+            
+            
+            
+            <author><![CDATA[OuterVale]]></author>
             
                 
             
