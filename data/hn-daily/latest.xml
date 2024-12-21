@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[OpenAI O3 breakthrough high score on ARC-AGI-PUB]]></title>
-            <description><![CDATA[1055 points | <a href=https://news.ycombinator.com/item?id=42473321 target=_blank>985 comments</a>]]></description>
+            <description><![CDATA[1065 points | <a href=https://news.ycombinator.com/item?id=42473321 target=_blank>994 comments</a>]]></description>
             <pubDate>2024-12-20T18:11:13Z</pubDate>
             <guid isPermaLink="false">https://arcprize.org/blog/oai-o3-pub-breakthrough</guid>
             <link>https://arcprize.org/blog/oai-o3-pub-breakthrough</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[My favourite colour is Chuck Norris red]]></title>
-            <description><![CDATA[506 points | <a href=https://news.ycombinator.com/item?id=42468318 target=_blank>98 comments</a>]]></description>
+            <description><![CDATA[506 points | <a href=https://news.ycombinator.com/item?id=42468318 target=_blank>99 comments</a>]]></description>
             <pubDate>2024-12-20T04:35:49Z</pubDate>
             <guid isPermaLink="false">https://htmhell.dev/adventcalendar/2024/20/</guid>
             <link>https://htmhell.dev/adventcalendar/2024/20/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Grayjay Desktop App]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=42473032 target=_blank>177 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=42473032 target=_blank>179 comments</a>]]></description>
             <pubDate>2024-12-20T17:33:00Z</pubDate>
             <guid isPermaLink="false">https://grayjay.app/desktop/</guid>
             <link>https://grayjay.app/desktop/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A Gentle Introduction to Graph Neural Networks (2021)]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=42468214 target=_blank>30 comments</a>]]></description>
-            <pubDate>2024-12-20T04:10:42Z</pubDate>
-            <guid isPermaLink="false">https://distill.pub/2021/gnn-intro/</guid>
-            <link>https://distill.pub/2021/gnn-intro/</link>
-            
-            
-            
-            <author><![CDATA[misonic]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Building Effective "Agents"]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=42470541 target=_blank>37 comments</a>]]></description>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=42470541 target=_blank>38 comments</a>]]></description>
             <pubDate>2024-12-20T12:29:17Z</pubDate>
             <guid isPermaLink="false">https://www.anthropic.com/research/building-effective-agents</guid>
             <link>https://www.anthropic.com/research/building-effective-agents</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Why are UK electricity bills so expensive?]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=42472247 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=42472247 target=_blank>268 comments</a>]]></description>
             <pubDate>2024-12-20T16:05:31Z</pubDate>
             <guid isPermaLink="false">https://climate.benjames.io/uk-electricity-bills/</guid>
             <link>https://climate.benjames.io/uk-electricity-bills/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Qualcomm wins licensing fight with Arm over chip designs]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=42475228 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=42475228 target=_blank>73 comments</a>]]></description>
             <pubDate>2024-12-20T21:28:53Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs</guid>
             <link>https://www.bloomberg.com/news/articles/2024-12-20/qualcomm-wins-licensing-fight-with-arm-over-chip-designs</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[PuffinBlue]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Compiling C to Safe Rust, Formalized]]></title>
+            <description><![CDATA[120 points | <a href=https://news.ycombinator.com/item?id=42476192 target=_blank>39 comments</a>]]></description>
+            <pubDate>2024-12-20T23:30:03Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2412.15042</guid>
+            <link>https://arxiv.org/abs/2412.15042</link>
+            
+            
+            
+            <author><![CDATA[love2read]]></author>
             
                 
             
