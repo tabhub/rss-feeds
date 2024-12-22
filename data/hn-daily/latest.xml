@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Introducing S2]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=42480105 target=_blank>148 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=42480105 target=_blank>149 comments</a>]]></description>
             <pubDate>2024-12-21T15:11:19Z</pubDate>
             <guid isPermaLink="false">https://s2.dev/blog/intro</guid>
             <link>https://s2.dev/blog/intro</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[City Roads: A tool to draw all roads in a city at once]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=42481206 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=42481206 target=_blank>43 comments</a>]]></description>
             <pubDate>2024-12-21T18:16:01Z</pubDate>
             <guid isPermaLink="false">https://anvaka.github.io/city-roads/</guid>
             <link>https://anvaka.github.io/city-roads/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Rosetta 2 creator leaves Apple to work on Lean full-time]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=42483895 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=42483895 target=_blank>70 comments</a>]]></description>
             <pubDate>2024-12-22T02:01:51Z</pubDate>
             <guid isPermaLink="false">https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x</guid>
             <link>https://www.linkedin.com/posts/leonardo-de-moura-26a27b5_leanlang-leanprover-leanfro-activity-7274523099394400256-0F0x</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Slow deployment causes meetings (2015)]]></title>
-            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=42484139 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=42484139 target=_blank>34 comments</a>]]></description>
             <pubDate>2024-12-22T03:12:23Z</pubDate>
             <guid isPermaLink="false">https://tidyfirst.substack.com/p/slow-deployment-causes-meetings</guid>
             <link>https://tidyfirst.substack.com/p/slow-deployment-causes-meetings</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Singlefile: A web extension to save a complete web page into a single HTML file]]></title>
-            <description><![CDATA[103 points | <a href=https://news.ycombinator.com/item?id=42481659 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[104 points | <a href=https://news.ycombinator.com/item?id=42481659 target=_blank>43 comments</a>]]></description>
             <pubDate>2024-12-21T19:33:15Z</pubDate>
             <guid isPermaLink="false">https://github.com/gildas-lormeau/SingleFile</guid>
             <link>https://github.com/gildas-lormeau/SingleFile</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[throw0101a]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[JEP 483: Ahead-of-Time Class Loading and Linking]]></title>
+            <description><![CDATA[95 points | <a href=https://news.ycombinator.com/item?id=42481813 target=_blank>21 comments</a>]]></description>
+            <pubDate>2024-12-21T19:53:26Z</pubDate>
+            <guid isPermaLink="false">https://openjdk.org/jeps/483</guid>
+            <link>https://openjdk.org/jeps/483</link>
+            
+            
+            
+            <author><![CDATA[ptx]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[mbforbes]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[JEP 483: Ahead-of-Time Class Loading and Linking]]></title>
-            <description><![CDATA[92 points | <a href=https://news.ycombinator.com/item?id=42481813 target=_blank>21 comments</a>]]></description>
-            <pubDate>2024-12-21T19:53:26Z</pubDate>
-            <guid isPermaLink="false">https://openjdk.org/jeps/483</guid>
-            <link>https://openjdk.org/jeps/483</link>
-            
-            
-            
-            <author><![CDATA[ptx]]></author>
             
                 
             
