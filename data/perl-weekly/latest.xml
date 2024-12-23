@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #699]]></title>
+        <title><![CDATA[Perl Weekly #700]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Wide character (U+XXXX) in substitution (s///)]]></title>
-            <description><![CDATA[Oh the hated message...]]></description>
-            <pubDate>2024.12.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/aristotle/2024/12/subst-widechar-warning.html</guid>
-            <link>https://blogs.perl.org/users/aristotle/2024/12/subst-widechar-warning.html</link>
+            <title><![CDATA[Announcing the 2024 White Camel Award recipient]]></title>
+            <description><![CDATA[<strong>Olaf Alders</strong> is the winner of <strong>2024 White Camel Award</strong>. Many many congratulations, <strong>Olaf</strong>.]]></description>
+            <pubDate>2024.12.19</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/white-camel-2024</guid>
+            <link>https://news.perlfoundation.org/post/white-camel-2024</link>
             
             
             
-            <author><![CDATA[aristotle_pagaltzis]]></author>
+            <author><![CDATA[makoto_nozaki]]></author>
             
                 
             
@@ -34,15 +34,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Cosmoshop supports the German Perl/Raku-Workshop]]></title>
-            <description><![CDATA[Cosmoshop supports the German Perl/Raku-Workshop]]></description>
-            <pubDate>2024.12</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2024/12/cosmoshop-supports-the-german-perlraku-workshop.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2024/12/cosmoshop-supports-the-german-perlraku-workshop.html</link>
+            <title><![CDATA[About the German Perl/Raku Workshop conference 2025]]></title>
+            <description><![CDATA[You can now register if you are planning to attend German Perl/Raku Workshop conference 2025.]]></description>
+            <pubDate>2024.12.13</pubDate>
+            <guid isPermaLink="false">https://act.yapc.eu/gpw2025/</guid>
+            <link>https://act.yapc.eu/gpw2025/</link>
             
             
             
-            <author><![CDATA[max_maischein]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PCC Winter '24 Follow-Up - Summer PCC Dates Announced!]]></title>
+            <description><![CDATA[After the success of the very first PCC event, we now have the dates of upcoming event.]]></description>
+            <pubDate>2024.12.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2024/12/pcc-winter-24-follow-up---future-plans-announced.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2024/12/pcc-winter-24-follow-up---future-plans-announced.html</link>
+            
+            
+            
+            <author><![CDATA[oodler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (173) | 2024-12-20]]></title>
+            <description><![CDATA[Some more news with regard to the proposed <strong>Perl</strong> version.]]></description>
+            <pubDate>2024.12.21</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2024/12/this-week-in-psc-173-2024-12-20.html</guid>
+            <link>https://blogs.perl.org/users/psc/2024/12/this-week-in-psc-173-2024-12-20.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Objective Decisions]]></title>
+            <description><![CDATA[Interesting story and thought provoking. I loved the GUI. I wonder how hard it is to design.]]></description>
+            <pubDate>2024.12.18</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2024/12/objective-decisions.html</guid>
+            <link>https://blogs.perl.org/users/saif/2024/12/objective-decisions.html</link>
+            
+            
+            
+            <author><![CDATA[saif_ahmed]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[London Perl & Raku Workshop 2025 + 2024 Feedback]]></title>
+            <description><![CDATA[A very positive and encouraging feedback by the attendees of <strong>London Perl and Raku Workshop</strong>.]]></description>
+            <pubDate>2024.12.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/lpw/2024/12/london-perl-raku-workshop-2025-2024-feedback.html</guid>
+            <link>https://blogs.perl.org/users/lpw/2024/12/london-perl-raku-workshop-2025-2024-feedback.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2024.51 Bus++]]></title>
+            <description><![CDATA[2024.51 Bus++]]></description>
+            <pubDate>2024.12.16</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/12/16/2024-51-bus/</guid>
+            <link>https://rakudoweekly.blog/2024/12/16/2024-51-bus/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -51,46 +131,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/12/dxxvi-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/12/dxcv-metacpan-weekly-report-pathtiny.html">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.12.15</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/12/dxxvii-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2024.12.23</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toronto.pm December Social]]></title>
-            <description><![CDATA[December 19, 2024, In Person Event]]></description>
-            
-            <guid isPermaLink="false">https://lu.ma/ai5c2y4z</guid>
-            <link>https://lu.ma/ai5c2y4z</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GitLab pipelines and CI for Perl developers]]></title>
-            <description><![CDATA[January 20, 2025, Virtual event in Zoom]]></description>
-            
-            <guid isPermaLink="false">https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers</guid>
-            <link>https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
