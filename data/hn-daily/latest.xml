@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The number pi has an evil twin]]></title>
-            <description><![CDATA[418 points | <a href=https://news.ycombinator.com/item?id=42499567 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=42499567 target=_blank>179 comments</a>]]></description>
             <pubDate>2024-12-24T03:41:22Z</pubDate>
             <guid isPermaLink="false">https://mathstodon.xyz/@johncarlosbaez/113703444230936435</guid>
             <link>https://mathstodon.xyz/@johncarlosbaez/113703444230936435</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Build a Low-Cost Drone Using ESP32]]></title>
-            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=42498648 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=42498648 target=_blank>116 comments</a>]]></description>
             <pubDate>2024-12-24T00:20:39Z</pubDate>
             <guid isPermaLink="false">https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391</guid>
             <link>https://www.digikey.com/en/maker/projects/a-step-by-step-guide-to-build-a-low-cost-drone-using-esp32/8afccd0690574bcebfa0d2ad6fd0a391</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Making AMD GPUs competitive for LLM inference (2023)]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=42498634 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=42498634 target=_blank>164 comments</a>]]></description>
             <pubDate>2024-12-24T00:17:18Z</pubDate>
             <guid isPermaLink="false">https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference</guid>
             <link>https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference</link>
@@ -82,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Why are cancer guidelines stuck in PDFs?]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=42498462 target=_blank>121 comments</a>]]></description>
-            <pubDate>2024-12-23T23:36:37Z</pubDate>
-            <guid isPermaLink="false">https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in</guid>
-            <link>https://seangeiger.substack.com/p/why-are-cancer-guidelines-stuck-in</link>
+            <title><![CDATA[macOS menu bar app that shows how full the ISS urine tank is in real time]]></title>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=42505454 target=_blank>79 comments</a>]]></description>
+            <pubDate>2024-12-24T22:38:40Z</pubDate>
+            <guid isPermaLink="false">https://github.com/Jaennaet/pISSStream</guid>
+            <link>https://github.com/Jaennaet/pISSStream</link>
             
             
             
-            <author><![CDATA[huerne]]></author>
+            <author><![CDATA[ajdude]]></author>
             
                 
             
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Tokyo released point cloud data of the entire city for free]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=42501102 target=_blank>31 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=42501102 target=_blank>32 comments</a>]]></description>
             <pubDate>2024-12-24T10:51:39Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/spatiallyjess/status/1871342549958537326</guid>
             <link>https://twitter.com/spatiallyjess/status/1871342549958537326</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Demystifying Debuggers, Part 2: The Anatomy of a Running Program]]></title>
-            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=42498982 target=_blank>21 comments</a>]]></description>
+            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=42498982 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-12-24T01:33:31Z</pubDate>
             <guid isPermaLink="false">https://www.rfleury.com/p/demystifying-debuggers-part-2-the</guid>
             <link>https://www.rfleury.com/p/demystifying-debuggers-part-2-the</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[macOS menu bar app that shows how full the ISS urine tank is in real time]]></title>
-            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=42505454 target=_blank>50 comments</a>]]></description>
-            <pubDate>2024-12-24T22:38:40Z</pubDate>
-            <guid isPermaLink="false">https://github.com/Jaennaet/pISSStream</guid>
-            <link>https://github.com/Jaennaet/pISSStream</link>
-            
-            
-            
-            <author><![CDATA[ajdude]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Automating the search for artificial life with foundation models]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=42499332 target=_blank>30 comments</a>]]></description>
+            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=42499332 target=_blank>31 comments</a>]]></description>
             <pubDate>2024-12-24T02:47:47Z</pubDate>
             <guid isPermaLink="false">https://sakana.ai/asal/</guid>
             <link>https://sakana.ai/asal/</link>
@@ -178,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Parsing millions of URLs per Second (2023)]]></title>
-            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=42498514 target=_blank>35 comments</a>]]></description>
-            <pubDate>2024-12-23T23:48:08Z</pubDate>
-            <guid isPermaLink="false">https://onlinelibrary.wiley.com/doi/10.1002/spe.3296</guid>
-            <link>https://onlinelibrary.wiley.com/doi/10.1002/spe.3296</link>
-            
-            
-            
-            <author><![CDATA[PaulHoule]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Paris to Berlin by train is now faster by five hours]]></title>
-            <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=42500704 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[117 points | <a href=https://news.ycombinator.com/item?id=42500704 target=_blank>107 comments</a>]]></description>
             <pubDate>2024-12-24T09:17:14Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/travel/2024/dec/24/paris-to-berlin-by-train-faster-service-via-strasbourg</guid>
             <link>https://www.theguardian.com/travel/2024/dec/24/paris-to-berlin-by-train-faster-service-via-strasbourg</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[teleforce]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[JavaScript Benchmarking Is a Mess]]></title>
+            <description><![CDATA[112 points | <a href=https://news.ycombinator.com/item?id=42501532 target=_blank>70 comments</a>]]></description>
+            <pubDate>2024-12-24T12:37:45Z</pubDate>
+            <guid isPermaLink="false">https://byteofdev.com/posts/javascript-benchmarking-mess/</guid>
+            <link>https://byteofdev.com/posts/javascript-benchmarking-mess/</link>
+            
+            
+            
+            <author><![CDATA[joseneca]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Why making friends as an adult is harder]]></title>
+            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=42502580 target=_blank>131 comments</a>]]></description>
+            <pubDate>2024-12-24T15:40:28Z</pubDate>
+            <guid isPermaLink="false">https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever</guid>
+            <link>https://www.theestablished.com/self/health/why-making-friends-as-an-adult-is-harder-than-ever</link>
+            
+            
+            
+            <author><![CDATA[yamrzou]]></author>
             
                 
             
