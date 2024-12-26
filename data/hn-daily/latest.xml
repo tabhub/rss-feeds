@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Blackcandy: Self hosted music streaming server]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=42512896 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=42512896 target=_blank>108 comments</a>]]></description>
             <pubDate>2024-12-26T03:17:34Z</pubDate>
             <guid isPermaLink="false">https://github.com/blackcandy-org/blackcandy</guid>
             <link>https://github.com/blackcandy-org/blackcandy</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Portspoof: Emulate a valid service on all 65535 TCP ports]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=42509953 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=42509953 target=_blank>93 comments</a>]]></description>
             <pubDate>2024-12-25T17:44:04Z</pubDate>
             <guid isPermaLink="false">https://github.com/drk1wi/portspoof</guid>
             <link>https://github.com/drk1wi/portspoof</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Server-Sent Events (SSE) Are Underrated]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=42511318 target=_blank>97 comments</a>]]></description>
-            <pubDate>2024-12-25T21:35:55Z</pubDate>
-            <guid isPermaLink="false">https://igorstechnoclub.com/server-sent-events-sse-are-underrated/</guid>
-            <link>https://igorstechnoclub.com/server-sent-events-sse-are-underrated/</link>
-            
-            
-            
-            <author><![CDATA[Igor_Wiwi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Egui – An immediate mode GUI written in Rust]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=42512636 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=42512636 target=_blank>75 comments</a>]]></description>
             <pubDate>2024-12-26T02:06:10Z</pubDate>
             <guid isPermaLink="false">https://www.egui.rs/</guid>
             <link>https://www.egui.rs/</link>
@@ -75,6 +59,22 @@
             
             
             <author><![CDATA[josephcsible]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Server-Sent Events (SSE) Are Underrated]]></title>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=42511318 target=_blank>98 comments</a>]]></description>
+            <pubDate>2024-12-25T21:35:55Z</pubDate>
+            <guid isPermaLink="false">https://igorstechnoclub.com/server-sent-events-sse-are-underrated/</guid>
+            <link>https://igorstechnoclub.com/server-sent-events-sse-are-underrated/</link>
+            
+            
+            
+            <author><![CDATA[Igor_Wiwi]]></author>
             
                 
             
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[F*: A proof oriented general purpose programming language]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=42508642 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=42508642 target=_blank>54 comments</a>]]></description>
             <pubDate>2024-12-25T13:16:40Z</pubDate>
             <guid isPermaLink="false">https://fstar-lang.org/</guid>
             <link>https://fstar-lang.org/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Air missile accident emerges as probable cause of Azerbaijan E190tragedy]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=42511267 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=42511267 target=_blank>136 comments</a>]]></description>
             <pubDate>2024-12-25T21:25:13Z</pubDate>
             <guid isPermaLink="false">https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau</guid>
             <link>https://www.euronews.com/2024/12/25/azerbaijani-passenger-plane-crashes-near-kazakh-city-of-aktau</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Seconds Since the Epoch]]></title>
-            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=42512371 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=42512371 target=_blank>86 comments</a>]]></description>
             <pubDate>2024-12-26T00:59:27Z</pubDate>
             <guid isPermaLink="false">https://aphyr.com/posts/378-seconds-since-the-epoch</guid>
             <link>https://aphyr.com/posts/378-seconds-since-the-epoch</link>
