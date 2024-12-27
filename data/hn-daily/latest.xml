@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ghostty 1.0]]></title>
-            <description><![CDATA[1747 points | <a href=https://news.ycombinator.com/item?id=42517447 target=_blank>498 comments</a>]]></description>
+            <description><![CDATA[1765 points | <a href=https://news.ycombinator.com/item?id=42517447 target=_blank>503 comments</a>]]></description>
             <pubDate>2024-12-26T20:14:57Z</pubDate>
             <guid isPermaLink="false">https://ghostty.org/</guid>
             <link>https://ghostty.org/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Bill requiring US agencies to share source code with each other becomes law]]></title>
-            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=42518833 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=42518833 target=_blank>115 comments</a>]]></description>
             <pubDate>2024-12-26T23:57:52Z</pubDate>
             <guid isPermaLink="false">https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/</guid>
             <link>https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Lua is so underrated]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=42517102 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=42517102 target=_blank>287 comments</a>]]></description>
             <pubDate>2024-12-26T19:18:10Z</pubDate>
             <guid isPermaLink="false">https://nflatrea.bearblog.dev/lua-is-so-underrated/</guid>
             <link>https://nflatrea.bearblog.dev/lua-is-so-underrated/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Write Your Own Virtual Machine (2022)]]></title>
-            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=42517164 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=42517164 target=_blank>61 comments</a>]]></description>
             <pubDate>2024-12-26T19:30:18Z</pubDate>
             <guid isPermaLink="false">https://www.jmeiners.com/lc3-vm/</guid>
             <link>https://www.jmeiners.com/lc3-vm/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[A Tour of WebAuthn]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=42516800 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=42516800 target=_blank>110 comments</a>]]></description>
             <pubDate>2024-12-26T18:27:49Z</pubDate>
             <guid isPermaLink="false">https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html</guid>
             <link>https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[A Simple ELF]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=42516697 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=42516697 target=_blank>54 comments</a>]]></description>
             <pubDate>2024-12-26T18:10:23Z</pubDate>
             <guid isPermaLink="false">https://4zm.org/2024/12/25/a-simple-elf.html</guid>
             <link>https://4zm.org/2024/12/25/a-simple-elf.html</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[signa11]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Quiver: A Modern Commutative Diagram Editor]]></title>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=42520151 target=_blank>27 comments</a>]]></description>
+            <pubDate>2024-12-27T05:27:41Z</pubDate>
+            <guid isPermaLink="false">https://github.com/varkor/quiver</guid>
+            <link>https://github.com/varkor/quiver</link>
+            
+            
+            
+            <author><![CDATA[peterkos]]></author>
             
                 
             
@@ -130,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Quiver: A Modern Commutative Diagram Editor]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=42520151 target=_blank>27 comments</a>]]></description>
-            <pubDate>2024-12-27T05:27:41Z</pubDate>
-            <guid isPermaLink="false">https://github.com/varkor/quiver</guid>
-            <link>https://github.com/varkor/quiver</link>
+            <title><![CDATA[The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something]]></title>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=42518562 target=_blank>20 comments</a>]]></description>
+            <pubDate>2024-12-26T23:04:17Z</pubDate>
+            <guid isPermaLink="false">https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering</guid>
+            <link>https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering</link>
             
             
             
-            <author><![CDATA[peterkos]]></author>
+            <author><![CDATA[fagnerbrack]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=42518562 target=_blank>20 comments</a>]]></description>
-            <pubDate>2024-12-26T23:04:17Z</pubDate>
-            <guid isPermaLink="false">https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering</guid>
-            <link>https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering</link>
-            
-            
-            
-            <author><![CDATA[fagnerbrack]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Missiles Are Now the Biggest Killer of Airline Passengers]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=42521598 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=42521598 target=_blank>95 comments</a>]]></description>
             <pubDate>2024-12-27T12:21:53Z</pubDate>
             <guid isPermaLink="false">https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e</guid>
             <link>https://www.wsj.com/world/flight-deaths-shot-from-sky-rising-798fd31e</link>
