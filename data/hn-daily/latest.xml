@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Ghostty 1.0]]></title>
-            <description><![CDATA[1554 points | <a href=https://news.ycombinator.com/item?id=42517447 target=_blank>440 comments</a>]]></description>
+            <description><![CDATA[1568 points | <a href=https://news.ycombinator.com/item?id=42517447 target=_blank>441 comments</a>]]></description>
             <pubDate>2024-12-26T20:14:57Z</pubDate>
             <guid isPermaLink="false">https://ghostty.org/</guid>
             <link>https://ghostty.org/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Bill requiring US agencies to share source code with each other becomes law]]></title>
-            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=42518833 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=42518833 target=_blank>89 comments</a>]]></description>
             <pubDate>2024-12-26T23:57:52Z</pubDate>
             <guid isPermaLink="false">https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/</guid>
             <link>https://fedscoop.com/agencies-must-share-custom-source-code-under-new-share-it-act/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Lua Is So Underrated]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=42517102 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=42517102 target=_blank>247 comments</a>]]></description>
             <pubDate>2024-12-26T19:18:10Z</pubDate>
             <guid isPermaLink="false">https://nflatrea.bearblog.dev/lua-is-so-underrated/</guid>
             <link>https://nflatrea.bearblog.dev/lua-is-so-underrated/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Write Your Own Virtual Machine (2022)]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=42517164 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=42517164 target=_blank>49 comments</a>]]></description>
             <pubDate>2024-12-26T19:30:18Z</pubDate>
             <guid isPermaLink="false">https://www.jmeiners.com/lc3-vm/</guid>
             <link>https://www.jmeiners.com/lc3-vm/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[A Simple ELF]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=42516697 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=42516697 target=_blank>48 comments</a>]]></description>
             <pubDate>2024-12-26T18:10:23Z</pubDate>
             <guid isPermaLink="false">https://4zm.org/2024/12/25/a-simple-elf.html</guid>
             <link>https://4zm.org/2024/12/25/a-simple-elf.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Quiver: A Modern Commutative Diagram Editor]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=42520151 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=42520151 target=_blank>22 comments</a>]]></description>
             <pubDate>2024-12-27T05:27:41Z</pubDate>
             <guid isPermaLink="false">https://github.com/varkor/quiver</guid>
             <link>https://github.com/varkor/quiver</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Sub-pixel distance transform (2023)]]></title>
-            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=42517685 target=_blank>17 comments</a>]]></description>
+            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=42517685 target=_blank>17 comments</a>]]></description>
             <pubDate>2024-12-26T20:48:01Z</pubDate>
             <guid isPermaLink="false">https://acko.net/blog/subpixel-distance-transform/</guid>
             <link>https://acko.net/blog/subpixel-distance-transform/</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[ChadNauseam]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something]]></title>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=42518562 target=_blank>16 comments</a>]]></description>
+            <pubDate>2024-12-26T23:04:17Z</pubDate>
+            <guid isPermaLink="false">https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering</guid>
+            <link>https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering</link>
+            
+            
+            
+            <author><![CDATA[fagnerbrack]]></author>
             
                 
             
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The CAP theorem of Clustering: Why Every Algorithm Must Sacrifice Something]]></title>
-            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=42518562 target=_blank>16 comments</a>]]></description>
-            <pubDate>2024-12-26T23:04:17Z</pubDate>
-            <guid isPermaLink="false">https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering</guid>
-            <link>https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering</link>
-            
-            
-            
-            <author><![CDATA[fagnerbrack]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ask HN: Is ChatGPT down?]]></title>
-            <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=42516991 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[115 points | <a href=https://news.ycombinator.com/item?id=42516991 target=_blank>120 comments</a>]]></description>
             <pubDate>2024-12-26T18:58:12Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=42516991</guid>
             <link>https://news.ycombinator.com/item?id=42516991</link>
