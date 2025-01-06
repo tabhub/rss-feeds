@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[How NAT Traversal Works (2020)]]></title>
-            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=42600846 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=42600846 target=_blank>71 comments</a>]]></description>
             <pubDate>2025-01-05T10:15:58Z</pubDate>
             <guid isPermaLink="false">https://tailscale.com/blog/how-nat-traversal-works</guid>
             <link>https://tailscale.com/blog/how-nat-traversal-works</link>
@@ -43,6 +43,22 @@
             
             
             <author><![CDATA[hhthrowaway1230]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Extracting AI models from mobile apps]]></title>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=42601549 target=_blank>176 comments</a>]]></description>
+            <pubDate>2025-01-05T13:19:18Z</pubDate>
+            <guid isPermaLink="false">https://altayakkus.substack.com/p/you-wouldnt-download-an-ai</guid>
+            <link>https://altayakkus.substack.com/p/you-wouldnt-download-an-ai</link>
+            
+            
+            
+            <author><![CDATA[smoser]]></author>
             
                 
             
@@ -59,22 +75,6 @@
             
             
             <author><![CDATA[yoav_sbg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Extracting AI models from mobile apps]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=42601549 target=_blank>176 comments</a>]]></description>
-            <pubDate>2025-01-05T13:19:18Z</pubDate>
-            <guid isPermaLink="false">https://altayakkus.substack.com/p/you-wouldnt-download-an-ai</guid>
-            <link>https://altayakkus.substack.com/p/you-wouldnt-download-an-ai</link>
-            
-            
-            
-            <author><![CDATA[smoser]]></author>
             
                 
             
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[I made $100K from a dick joke]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=42600595 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=42600595 target=_blank>112 comments</a>]]></description>
             <pubDate>2025-01-05T09:03:28Z</pubDate>
             <guid isPermaLink="false">https://imgur.com/gallery/KZ4u3c4</guid>
             <link>https://imgur.com/gallery/KZ4u3c4</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Remote code execution via MIDI messages]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=42600349 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=42600349 target=_blank>33 comments</a>]]></description>
             <pubDate>2025-01-05T07:40:48Z</pubDate>
             <guid isPermaLink="false">https://psi3.ru/blog/swl01u/</guid>
             <link>https://psi3.ru/blog/swl01u/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Back to basics: Why we chose long-polling over websockets]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=42600276 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=42600276 target=_blank>141 comments</a>]]></description>
             <pubDate>2025-01-05T07:14:30Z</pubDate>
             <guid isPermaLink="false">https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx</guid>
             <link>https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Ads chew through half of mobile data]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=42602673 target=_blank>221 comments</a>]]></description>
-            <pubDate>2025-01-05T16:06:06Z</pubDate>
-            <guid isPermaLink="false">https://www.nextpit.com/ads-consume-half-of-your-mobile-data</guid>
-            <link>https://www.nextpit.com/ads-consume-half-of-your-mobile-data</link>
-            
-            
-            
-            <author><![CDATA[mahirsaid]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[A story on home server security]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=42601374 target=_blank>253 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=42601374 target=_blank>253 comments</a>]]></description>
             <pubDate>2025-01-05T12:36:33Z</pubDate>
             <guid isPermaLink="false">https://raniseth.com/blog/2025-01-04-Home-Server-Security.html</guid>
             <link>https://raniseth.com/blog/2025-01-04-Home-Server-Security.html</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Ads chew through half of mobile data]]></title>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=42602673 target=_blank>222 comments</a>]]></description>
+            <pubDate>2025-01-05T16:06:06Z</pubDate>
+            <guid isPermaLink="false">https://www.nextpit.com/ads-consume-half-of-your-mobile-data</guid>
+            <link>https://www.nextpit.com/ads-consume-half-of-your-mobile-data</link>
+            
+            
+            
+            <author><![CDATA[mahirsaid]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=42599971 target=_blank>28 comments</a>]]></description>
+            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=42599971 target=_blank>28 comments</a>]]></description>
             <pubDate>2025-01-05T05:24:25Z</pubDate>
             <guid isPermaLink="false">https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging</guid>
             <link>https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging</link>
