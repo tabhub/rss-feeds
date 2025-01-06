@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #701]]></title>
+        <title><![CDATA[Perl Weekly #702]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,91 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Day 25: PDL and the James Webb Space Telescope (broadcasting and dimension tricks)]]></title>
-            <description><![CDATA[Day 25: PDL and the James Webb Space Telescope (broadcasting and dimension tricks)]]></description>
-            <pubDate>2024.12.25</pubDate>
-            <guid isPermaLink="false">https://pdl.perl.org/advent/blog/2024/12/25/jwst/</guid>
-            <link>https://pdl.perl.org/advent/blog/2024/12/25/jwst/</link>
+            <title><![CDATA[Getopt::Type::Tiny]]></title>
+            <description><![CDATA[One more cool contribution by <strong>Curt</strong> not on <strong>CPAN</strong> yet though. Please do give it a try and share your feedbacks.]]></description>
+            <pubDate>2025.01.03</pubDate>
+            <guid isPermaLink="false">https://github.com/Ovid/getopt-type-tiny</guid>
+            <link>https://github.com/Ovid/getopt-type-tiny</link>
+            
+            
+            
+            <author><![CDATA[curtis_ovid_poe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App::Codit]]></title>
+            <description><![CDATA[A new IDE for and in Perl. You must try this and share with others.]]></description>
+            <pubDate>2025.01.05</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/pod/App::Codit</guid>
+            <link>https://metacpan.org/pod/App::Codit</link>
+            
+            
+            
+            <author><![CDATA[hans_jeuken]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Habemus Perl Logo!]]></title>
+            <description><![CDATA[A colorful variations of new <strong>Perl Camel</strong>.]]></description>
+            <pubDate>2025.01.04</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/habemus-perl-logo-cd3</guid>
+            <link>https://dev.to/thibaultduponchelle/habemus-perl-logo-cd3</link>
+            
+            
+            
+            <author><![CDATA[thibault_duponchelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[London Perl Mongers on GitHub Pages]]></title>
+            <description><![CDATA[A great real story how to give fresh life to a historical LondonPM site. It made the process looks so easy that anyone can do it with little help.]]></description>
+            <pubDate>2025.01.04</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/01/london-perl-mongers-on-github-pages</guid>
+            <link>https://perlhacks.com/2025/01/london-perl-mongers-on-github-pages</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Advent of Code 2024 – 25 Languages]]></title>
+            <description><![CDATA[Perl made it to the list and got 5 stars too by the contributor.]]></description>
+            <pubDate>2025.01.02</pubDate>
+            <guid isPermaLink="false">https://blog.aschoch.ch/posts/aoc-2024#19</guid>
+            <link>https://blog.aschoch.ch/posts/aoc-2024#19</link>
+            
+            
+            
+            <author><![CDATA[alexander_schoch]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Exporting to PNG with Codit]]></title>
+            <description><![CDATA[If you have used Codit before then you are going to love this.]]></description>
+            <pubDate>2025.01.01</pubDate>
+            <guid isPermaLink="false">https://www.perlgui.org/appcodit/exporting-to-png-width-codit</guid>
+            <link>https://www.perlgui.org/appcodit/exporting-to-png-width-codit</link>
             
             
             
@@ -34,79 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Merry Christmas, bless us, everyone]]></title>
-            <description><![CDATA[Merry Christmas, bless us, everyone]]></description>
-            <pubDate>2024.12.24</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2024/2024-12-24.html</guid>
-            <link>https://perladvent.org/2024/2024-12-24.html</link>
+            <title><![CDATA[2024.53 Mutant Pirate Rings]]></title>
+            <description><![CDATA[2024.53 Mutant Pirate Rings]]></description>
+            <pubDate>2024.12.30</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2024/12/30/2024-53-mutant-pirate-rings/</guid>
+            <link>https://rakudoweekly.blog/2024/12/30/2024-53-mutant-pirate-rings/</link>
             
             
             
-            <author><![CDATA[mark_fowler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[TPRC 2025 Papercall ]]></title>
-            <description><![CDATA[The first deadline for the 2025 TPRC papercall is on January 15th! Get those papers in! Go to <a href="https://tprc.us/tprc-2025-gsp/">tprc.us</a> for more information!]]></description>
-            <pubDate>2024.12.29</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc25papercall</guid>
-            <link>https://news.perlfoundation.org/post/tprc25papercall</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Day 24: Perl Data Language reflections]]></title>
-            <description><![CDATA[Day 24: Perl Data Language reflections]]></description>
-            <pubDate>2024.12.24</pubDate>
-            <guid isPermaLink="false">https://pdl.perl.org/advent/blog/2024/12/24/reflections/</guid>
-            <link>https://pdl.perl.org/advent/blog/2024/12/24/reflections/</link>
-            
-            
-            
-            <author><![CDATA[ed_j]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Day 23: Generic, general random number simulation using the Inverse CDF method in PDL]]></title>
-            <description><![CDATA[Day 23: Generic, general random number simulation using the Inverse CDF method in PDL]]></description>
-            <pubDate>2024.12.23</pubDate>
-            <guid isPermaLink="false">https://pdl.perl.org/advent/blog/2024/12/23/random/</guid>
-            <link>https://pdl.perl.org/advent/blog/2024/12/23/random/</link>
-            
-            
-            
-            <author><![CDATA[chrisarg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A New Logo for Perl]]></title>
-            <description><![CDATA[A New Logo for Perl]]></description>
-            <pubDate>2024.12.23</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2024/2024-12-23.html</guid>
-            <link>https://perladvent.org/2024/2024-12-23.html</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2024/12/dxxviii-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2024/12/dxcvi-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>;<br><a href="https://niceperl.blogspot.com/2024/12/dcxxii-stackoverflow-perl-report.html">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2024.12.29</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/01/dxxix-20-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/01/dxcvii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.01.04</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -135,6 +151,22 @@
             
             <guid isPermaLink="false">https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers</guid>
             <link>https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Code Maven live]]></title>
+            <description><![CDATA[Live virtual presentations about Perl, Python, and Rust hosted by Gabor Szabo. Looking for more speakers.]]></description>
+            
+            <guid isPermaLink="false">https://live.code-maven.com/</guid>
+            <link>https://live.code-maven.com/</link>
             
             
             
