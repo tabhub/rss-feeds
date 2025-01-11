@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Be Aware of the Makefile Effect]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=42663231 target=_blank>205 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=42663231 target=_blank>208 comments</a>]]></description>
             <pubDate>2025-01-11T04:13:12Z</pubDate>
             <guid isPermaLink="false">https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect</guid>
             <link>https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Phi-4 Bug Fixes]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=42660335 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=42660335 target=_blank>50 comments</a>]]></description>
             <pubDate>2025-01-10T21:17:21Z</pubDate>
             <guid isPermaLink="false">https://unsloth.ai/blog/phi4</guid>
             <link>https://unsloth.ai/blog/phi4</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Very Wrong Math]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=42661432 target=_blank>91 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=42661432 target=_blank>91 comments</a>]]></description>
             <pubDate>2025-01-10T23:10:56Z</pubDate>
             <guid isPermaLink="false">https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html</guid>
             <link>https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Track your devices via Apple FindMy network in Go/TinyGo]]></title>
+            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=42665367 target=_blank>32 comments</a>]]></description>
+            <pubDate>2025-01-11T12:14:34Z</pubDate>
+            <guid isPermaLink="false">https://github.com/hybridgroup/go-haystack</guid>
+            <link>https://github.com/hybridgroup/go-haystack</link>
+            
+            
+            
+            <author><![CDATA[deadprogram]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Nearly all binary searches and mergesorts are broken (2006)]]></title>
-            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=42664400 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=42664400 target=_blank>142 comments</a>]]></description>
             <pubDate>2025-01-11T08:46:45Z</pubDate>
             <guid isPermaLink="false">https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/</guid>
             <link>https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/</link>
@@ -130,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Track your devices via Apple FindMy network in Go/TinyGo]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=42665367 target=_blank>33 comments</a>]]></description>
-            <pubDate>2025-01-11T12:14:34Z</pubDate>
-            <guid isPermaLink="false">https://github.com/hybridgroup/go-haystack</guid>
-            <link>https://github.com/hybridgroup/go-haystack</link>
+            <title><![CDATA[Flattening ASTs and other compiler data structures (2023)]]></title>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=42659061 target=_blank>36 comments</a>]]></description>
+            <pubDate>2025-01-10T19:23:50Z</pubDate>
+            <guid isPermaLink="false">https://www.cs.cornell.edu/~asampson/blog/flattening.html</guid>
+            <link>https://www.cs.cornell.edu/~asampson/blog/flattening.html</link>
             
             
             
-            <author><![CDATA[deadprogram]]></author>
+            <author><![CDATA[aw1621107]]></author>
             
                 
             
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Flattening ASTs and other compiler data structures (2023)]]></title>
-            <description><![CDATA[137 points | <a href=https://news.ycombinator.com/item?id=42659061 target=_blank>36 comments</a>]]></description>
-            <pubDate>2025-01-10T19:23:50Z</pubDate>
-            <guid isPermaLink="false">https://www.cs.cornell.edu/~asampson/blog/flattening.html</guid>
-            <link>https://www.cs.cornell.edu/~asampson/blog/flattening.html</link>
-            
-            
-            
-            <author><![CDATA[aw1621107]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[De-smarting the Marshall Uxbridge Bluetooth speaker]]></title>
-            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=42666572 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=42666572 target=_blank>34 comments</a>]]></description>
             <pubDate>2025-01-11T15:42:02Z</pubDate>
             <guid isPermaLink="false">https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge</guid>
             <link>https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge</link>
