@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Matt Mullenweg deactivates WordPress accounts of contributors planning a fork]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=42667766 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=42667766 target=_blank>143 comments</a>]]></description>
             <pubDate>2025-01-11T18:14:17Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/</guid>
             <link>https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Stop Trying to Schedule a Call with Me]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=42669754 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=42669754 target=_blank>105 comments</a>]]></description>
             <pubDate>2025-01-11T23:20:10Z</pubDate>
             <guid isPermaLink="false">https://matduggan.com/stop-trying-to-schedule-a-call-with-me/</guid>
             <link>https://matduggan.com/stop-trying-to-schedule-a-call-with-me/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Track your devices via Apple FindMy network in Go/TinyGo]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=42665367 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=42665367 target=_blank>89 comments</a>]]></description>
             <pubDate>2025-01-11T12:14:34Z</pubDate>
             <guid isPermaLink="false">https://github.com/hybridgroup/go-haystack</guid>
             <link>https://github.com/hybridgroup/go-haystack</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=42666492 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=42666492 target=_blank>50 comments</a>]]></description>
             <pubDate>2025-01-11T15:31:03Z</pubDate>
             <guid isPermaLink="false">https://github.com/mathuo/dockview</guid>
             <link>https://github.com/mathuo/dockview</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[De-smarting the Marshall Uxbridge]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=42666572 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=42666572 target=_blank>75 comments</a>]]></description>
             <pubDate>2025-01-11T15:42:02Z</pubDate>
             <guid isPermaLink="false">https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge</guid>
             <link>https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Obvious things C should do]]></title>
-            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=42669637 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=42669637 target=_blank>146 comments</a>]]></description>
             <pubDate>2025-01-11T22:58:22Z</pubDate>
             <guid isPermaLink="false">https://www.digitalmars.com/articles/Cobvious.html</guid>
             <link>https://www.digitalmars.com/articles/Cobvious.html</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Nearly all binary searches and mergesorts are broken (2006)]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=42664400 target=_blank>171 comments</a>]]></description>
-            <pubDate>2025-01-11T08:46:45Z</pubDate>
-            <guid isPermaLink="false">https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/</guid>
-            <link>https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[PrivTracker – Private BitTorrent tracker for everyone]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=42664409 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=42664409 target=_blank>33 comments</a>]]></description>
             <pubDate>2025-01-11T08:49:55Z</pubDate>
             <guid isPermaLink="false">https://privtracker.com/</guid>
             <link>https://privtracker.com/</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[prvt]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Nearly all binary searches and mergesorts are broken (2006)]]></title>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=42664400 target=_blank>172 comments</a>]]></description>
+            <pubDate>2025-01-11T08:46:45Z</pubDate>
+            <guid isPermaLink="false">https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/</guid>
+            <link>https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
