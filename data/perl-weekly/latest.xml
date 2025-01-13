@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #702]]></title>
+        <title><![CDATA[Perl Weekly #703]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,59 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Getopt::Type::Tiny]]></title>
-            <description><![CDATA[One more cool contribution by <strong>Curt</strong> not on <strong>CPAN</strong> yet though. Please do give it a try and share your feedbacks.]]></description>
-            <pubDate>2025.01.03</pubDate>
-            <guid isPermaLink="false">https://github.com/Ovid/getopt-type-tiny</guid>
-            <link>https://github.com/Ovid/getopt-type-tiny</link>
-            
-            
-            
-            <author><![CDATA[curtis_ovid_poe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[App::Codit]]></title>
-            <description><![CDATA[A new IDE for and in Perl. You must try this and share with others.]]></description>
-            <pubDate>2025.01.05</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/pod/App::Codit</guid>
-            <link>https://metacpan.org/pod/App::Codit</link>
-            
-            
-            
-            <author><![CDATA[hans_jeuken]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Habemus Perl Logo!]]></title>
-            <description><![CDATA[A colorful variations of new <strong>Perl Camel</strong>.]]></description>
-            <pubDate>2025.01.04</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/habemus-perl-logo-cd3</guid>
-            <link>https://dev.to/thibaultduponchelle/habemus-perl-logo-cd3</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[London Perl Mongers on GitHub Pages]]></title>
-            <description><![CDATA[A great real story how to give fresh life to a historical LondonPM site. It made the process looks so easy that anyone can do it with little help.]]></description>
-            <pubDate>2025.01.04</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/01/london-perl-mongers-on-github-pages</guid>
-            <link>https://perlhacks.com/2025/01/london-perl-mongers-on-github-pages</link>
+            <title><![CDATA[Adding structured data with Perl]]></title>
+            <description><![CDATA[Structured data on your web pages are said to help the search engines (aka. Google) to index your site, rank it higher and then display informative snippets to the people searching.]]></description>
+            <pubDate>2025.01.12</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/01/adding-structured-data-with-perl/</guid>
+            <link>https://perlhacks.com/2025/01/adding-structured-data-with-perl/</link>
             
             
             
@@ -82,63 +34,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Advent of Code 2024 – 25 Languages]]></title>
-            <description><![CDATA[Perl made it to the list and got 5 stars too by the contributor.]]></description>
-            <pubDate>2025.01.02</pubDate>
-            <guid isPermaLink="false">https://blog.aschoch.ch/posts/aoc-2024#19</guid>
-            <link>https://blog.aschoch.ch/posts/aoc-2024#19</link>
-            
-            
-            
-            <author><![CDATA[alexander_schoch]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Exporting to PNG with Codit]]></title>
-            <description><![CDATA[If you have used Codit before then you are going to love this.]]></description>
-            <pubDate>2025.01.01</pubDate>
-            <guid isPermaLink="false">https://www.perlgui.org/appcodit/exporting-to-png-width-codit</guid>
-            <link>https://www.perlgui.org/appcodit/exporting-to-png-width-codit</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2024.53 Mutant Pirate Rings]]></title>
-            <description><![CDATA[2024.53 Mutant Pirate Rings]]></description>
-            <pubDate>2024.12.30</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2024/12/30/2024-53-mutant-pirate-rings/</guid>
-            <link>https://rakudoweekly.blog/2024/12/30/2024-53-mutant-pirate-rings/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/01/dxxix-20-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/01/dxcvii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.01.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.01.11</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston.pm monthly meeting]]></title>
+            <description><![CDATA[Virtual event]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/Boston-pm/</guid>
+            <link>https://www.meetup.com/Boston-pm/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -162,11 +82,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Code Maven live]]></title>
-            <description><![CDATA[Live virtual presentations about Perl, Python, and Rust hosted by Gabor Szabo. Looking for more speakers.]]></description>
+            <title><![CDATA[Boston.pm monthly meeting]]></title>
+            <description><![CDATA[Virtual event]]></description>
             
-            <guid isPermaLink="false">https://live.code-maven.com/</guid>
-            <link>https://live.code-maven.com/</link>
+            <guid isPermaLink="false">https://www.meetup.com/Boston-pm/</guid>
+            <link>https://www.meetup.com/Boston-pm/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Perl and Raku Conference 2025]]></title>
+            <description><![CDATA[Greenville, South Carolina, USA]]></description>
+            
+            <guid isPermaLink="false">https://tprc.us/tprc-2025-gsp/</guid>
+            <link>https://tprc.us/tprc-2025-gsp/</link>
             
             
             
