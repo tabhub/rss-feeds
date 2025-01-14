@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The Origins of Wokeness]]></title>
-            <description><![CDATA[569 points | <a href=https://news.ycombinator.com/item?id=42682305 target=_blank>1471 comments</a>]]></description>
+            <description><![CDATA[575 points | <a href=https://news.ycombinator.com/item?id=42682305 target=_blank>1481 comments</a>]]></description>
             <pubDate>2025-01-13T11:21:01Z</pubDate>
             <guid isPermaLink="false">https://paulgraham.com/woke.html</guid>
             <link>https://paulgraham.com/woke.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[WordPress Is in Trouble]]></title>
-            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=42687121 target=_blank>343 comments</a>]]></description>
+            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=42687121 target=_blank>347 comments</a>]]></description>
             <pubDate>2025-01-13T18:55:31Z</pubDate>
             <guid isPermaLink="false">https://anderegg.ca/2025/01/11/wordpress-is-in-trouble</guid>
             <link>https://anderegg.ca/2025/01/11/wordpress-is-in-trouble</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Debugging: Indispensable rules for finding even the most elusive problems (2004)]]></title>
-            <description><![CDATA[425 points | <a href=https://news.ycombinator.com/item?id=42682602 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[426 points | <a href=https://news.ycombinator.com/item?id=42682602 target=_blank>179 comments</a>]]></description>
             <pubDate>2025-01-13T12:07:42Z</pubDate>
             <guid isPermaLink="false">https://dwheeler.com/essays/debugging-agans.html</guid>
             <link>https://dwheeler.com/essays/debugging-agans.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[AI Engineer Reading List]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=42686457 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=42686457 target=_blank>40 comments</a>]]></description>
             <pubDate>2025-01-13T18:11:17Z</pubDate>
             <guid isPermaLink="false">https://www.latent.space/p/2025-papers</guid>
             <link>https://www.latent.space/p/2025-papers</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Sonos CEO steps down after app update debacle]]></title>
-            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=42687932 target=_blank>271 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=42687932 target=_blank>273 comments</a>]]></description>
             <pubDate>2025-01-13T19:42:48Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/</guid>
             <link>https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/</link>
@@ -91,6 +91,22 @@
             
             
             <author><![CDATA[saaaaaam]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GitHub Git Operations Are Down]]></title>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=42691184 target=_blank>166 comments</a>]]></description>
+            <pubDate>2025-01-13T23:47:31Z</pubDate>
+            <guid isPermaLink="false">https://www.githubstatus.com/incidents/qd96yfgvmcf9</guid>
+            <link>https://www.githubstatus.com/incidents/qd96yfgvmcf9</link>
+            
+            
+            
+            <author><![CDATA[hunkins]]></author>
             
                 
             
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[GitHub Git Operations Are Down]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=42691184 target=_blank>159 comments</a>]]></description>
-            <pubDate>2025-01-13T23:47:31Z</pubDate>
-            <guid isPermaLink="false">https://www.githubstatus.com/incidents/qd96yfgvmcf9</guid>
-            <link>https://www.githubstatus.com/incidents/qd96yfgvmcf9</link>
-            
-            
-            
-            <author><![CDATA[hunkins]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Fluid Simulation Pendant]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=42683389 target=_blank>26 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=42683389 target=_blank>26 comments</a>]]></description>
             <pubDate>2025-01-13T13:50:46Z</pubDate>
             <guid isPermaLink="false">https://mitxela.com/projects/fluid-pendant</guid>
             <link>https://mitxela.com/projects/fluid-pendant</link>
