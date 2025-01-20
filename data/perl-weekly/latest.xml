@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #703]]></title>
+        <title><![CDATA[Perl Weekly #704]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,127 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Adding structured data with Perl]]></title>
-            <description><![CDATA[Structured data on your web pages are said to help the search engines (aka. Google) to index your site, rank it higher and then display informative snippets to the people searching.]]></description>
-            <pubDate>2025.01.12</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/01/adding-structured-data-with-perl/</guid>
-            <link>https://perlhacks.com/2025/01/adding-structured-data-with-perl/</link>
+            <title><![CDATA[Introducing DateTime::Format::RelativeTime]]></title>
+            <description><![CDATA[Announcement of the new Perl module DateTime::Format::RelativeTime, which is designed to mirror its equivalent Web API Intl.RelativeTimeFormat]]></description>
+            <pubDate>2025.01.14</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/release-of-new-module-datetime-format-relativetime/</guid>
+            <link>https://www.perl.com/article/release-of-new-module-datetime-format-relativetime/</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[jacques_deguest]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Premium XS Integration, Pt 1]]></title>
+            <description><![CDATA[Here is the guide how to write safe, fast, convenient, and powerful XS libraries.]]></description>
+            <pubDate>2025.01.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html</guid>
+            <link>https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html</link>
+            
+            
+            
+            <author><![CDATA[nerdvana]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Announce Perl Wiki v1.22]]></title>
+            <description><![CDATA[Please explore the latest release.]]></description>
+            <pubDate>2025.01.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/01/announce-perlwikihtml-v-122.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2025/01/announce-perlwikihtml-v-122.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Creating MIDI Music with Perl]]></title>
+            <description><![CDATA[For all music lovers, here is your opportunity to use Perl for fun. Really cool tool, you must try.]]></description>
+            <pubDate>2025.01.15</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/creating-midi-music-with-perl/</guid>
+            <link>https://www.perl.com/article/creating-midi-music-with-perl/</link>
+            
+            
+            
+            <author><![CDATA[gene_boggs]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Yet Another Perl-Powered Company: Geolytica]]></title>
+            <description><![CDATA[Imagine you want to parse free-form address input and match it against a database representing the road network. At Geolytica, Perl is used to manage and enhance vast geo-location datasets and build the application logic of the geocoding engines.]]></description>
+            <pubDate>2025.01.16</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/geolytica-powered-by-perl/</guid>
+            <link>https://www.perl.com/geolytica-powered-by-perl/</link>
+            
+            
+            
+            <author><![CDATA[ervin_ruci]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Profiling Peak DRAM Use in R With Perl - Part 1]]></title>
+            <description><![CDATA[Serious profiling discussed in 2 part series post.]]></description>
+            <pubDate>2025.01.18</pubDate>
+            <guid isPermaLink="false">https://chrisarg.github.io/Killing-It-with-PERL/2025/01/18/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-1.html</guid>
+            <link>https://chrisarg.github.io/Killing-It-with-PERL/2025/01/18/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-1.html</link>
+            
+            
+            
+            <author><![CDATA[chrisarg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Profiling Peak DRAM Use in R With Perl - Part 2]]></title>
+            <description><![CDATA[Continued the discussion of profiling Peak DRAM in this second post of the series.]]></description>
+            <pubDate>2025.01.19</pubDate>
+            <guid isPermaLink="false">https://chrisarg.github.io/Killing-It-with-PERL/2025/01/19/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-2.html</guid>
+            <link>https://chrisarg.github.io/Killing-It-with-PERL/2025/01/19/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-2.html</link>
+            
+            
+            
+            <author><![CDATA[chrisarg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.02 Ditana]]></title>
+            <description><![CDATA[2025.02 Ditana]]></description>
+            <pubDate>2025.01.13</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/01/13/2025-02-ditana/</guid>
+            <link>https://rakudoweekly.blog/2025/01/13/2025-02-ditana/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -35,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.01.11</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/01/dxxxi-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/01/dxcviii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.01.18</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -50,59 +162,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Boston.pm monthly meeting]]></title>
-            <description><![CDATA[Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/Boston-pm/</guid>
-            <link>https://www.meetup.com/Boston-pm/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[GitLab pipelines and CI for Perl developers]]></title>
-            <description><![CDATA[January 20, 2025, Virtual event in Zoom]]></description>
+            <description><![CDATA[This Virtual event is going to take place today, January 20, 2025, in Zoom. We will take a look at the GitLab pipelines and will bring a few examples to so who to use it in various situations. Including GitLab pages for building a front-end only web site.]]></description>
             
-            <guid isPermaLink="false">https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers</guid>
-            <link>https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boston.pm monthly meeting]]></title>
-            <description><![CDATA[Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/Boston-pm/</guid>
-            <link>https://www.meetup.com/Boston-pm/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl and Raku Conference 2025]]></title>
-            <description><![CDATA[Greenville, South Carolina, USA]]></description>
-            
-            <guid isPermaLink="false">https://tprc.us/tprc-2025-gsp/</guid>
-            <link>https://tprc.us/tprc-2025-gsp/</link>
+            <guid isPermaLink="false">https://www.meetup.com/code-mavens/events/304874972/</guid>
+            <link>https://www.meetup.com/code-mavens/events/304874972/</link>
             
             
             
