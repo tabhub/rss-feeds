@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Thank HN: My bootstrapped startup got acquired today]]></title>
-            <description><![CDATA[987 points | <a href=https://news.ycombinator.com/item?id=42806247 target=_blank>150 comments</a>]]></description>
+            <description><![CDATA[1016 points | <a href=https://news.ycombinator.com/item?id=42806247 target=_blank>153 comments</a>]]></description>
             <pubDate>2025-01-23T17:58:05Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=42806247</guid>
             <link>https://news.ycombinator.com/item?id=42806247</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel]]></title>
-            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=42803279 target=_blank>203 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=42803279 target=_blank>204 comments</a>]]></description>
             <pubDate>2025-01-23T12:22:19Z</pubDate>
             <guid isPermaLink="false">https://samcurry.net/hacking-subaru</guid>
             <link>https://samcurry.net/hacking-subaru</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Show HN: I built an active community of trans people online]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=42800893 target=_blank>153 comments</a>]]></description>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=42800893 target=_blank>156 comments</a>]]></description>
             <pubDate>2025-01-23T05:07:35Z</pubDate>
             <guid isPermaLink="false">https://t4t.social/</guid>
             <link>https://t4t.social/</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Llama.vim – Local LLM-assisted text completion]]></title>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=42806328 target=_blank>66 comments</a>]]></description>
+            <pubDate>2025-01-23T18:06:42Z</pubDate>
+            <guid isPermaLink="false">https://github.com/ggml-org/llama.vim</guid>
+            <link>https://github.com/ggml-org/llama.vim</link>
+            
+            
+            
+            <author><![CDATA[kgwgk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Introducing Operator]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=42806301 target=_blank>232 comments</a>]]></description>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=42806301 target=_blank>234 comments</a>]]></description>
             <pubDate>2025-01-23T18:03:40Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/introducing-operator/</guid>
             <link>https://openai.com/index/introducing-operator/</link>
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Llama.vim – Local LLM-assisted text completion]]></title>
-            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=42806328 target=_blank>66 comments</a>]]></description>
-            <pubDate>2025-01-23T18:06:42Z</pubDate>
-            <guid isPermaLink="false">https://github.com/ggml-org/llama.vim</guid>
-            <link>https://github.com/ggml-org/llama.vim</link>
-            
-            
-            
-            <author><![CDATA[kgwgk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Bun 1.2 Is Released]]></title>
-            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=42801370 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=42801370 target=_blank>166 comments</a>]]></description>
             <pubDate>2025-01-23T06:50:28Z</pubDate>
             <guid isPermaLink="false">https://bun.sh/blog/bun-v1.2</guid>
             <link>https://bun.sh/blog/bun-v1.2</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Tech takes the Pareto principle too far]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=42800557 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=42800557 target=_blank>99 comments</a>]]></description>
             <pubDate>2025-01-23T03:53:08Z</pubDate>
             <guid isPermaLink="false">https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/</guid>
             <link>https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Trae: An AI-powered IDE by ByteDance]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=42799540 target=_blank>368 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=42799540 target=_blank>369 comments</a>]]></description>
             <pubDate>2025-01-23T01:21:37Z</pubDate>
             <guid isPermaLink="false">https://www.trae.ai/home</guid>
             <link>https://www.trae.ai/home</link>
