@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: I made an open-source laptop from scratch]]></title>
-            <description><![CDATA[2039 points | <a href=https://news.ycombinator.com/item?id=42797260 target=_blank>254 comments</a>]]></description>
+            <description><![CDATA[2062 points | <a href=https://news.ycombinator.com/item?id=42797260 target=_blank>257 comments</a>]]></description>
             <pubDate>2025-01-22T20:41:52Z</pubDate>
             <guid isPermaLink="false">https://www.byran.ee/posts/creation/</guid>
             <link>https://www.byran.ee/posts/creation/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[TabBoo – add random jumpscares to websites you're trying to avoid]]></title>
-            <description><![CDATA[637 points | <a href=https://news.ycombinator.com/item?id=42795237 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[639 points | <a href=https://news.ycombinator.com/item?id=42795237 target=_blank>117 comments</a>]]></description>
             <pubDate>2025-01-22T17:27:14Z</pubDate>
             <guid isPermaLink="false">https://tabboo.xyz/</guid>
             <link>https://tabboo.xyz/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[How to improve your WFH lighting to reduce eye strain]]></title>
-            <description><![CDATA[535 points | <a href=https://news.ycombinator.com/item?id=42796950 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[538 points | <a href=https://news.ycombinator.com/item?id=42796950 target=_blank>248 comments</a>]]></description>
             <pubDate>2025-01-22T20:08:57Z</pubDate>
             <guid isPermaLink="false">https://rustle.ca/posts/articles/work-from-home-lighting</guid>
             <link>https://rustle.ca/posts/articles/work-from-home-lighting</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Tailwind CSS v4.0]]></title>
-            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=42799136 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=42799136 target=_blank>219 comments</a>]]></description>
             <pubDate>2025-01-23T00:33:02Z</pubDate>
             <guid isPermaLink="false">https://tailwindcss.com/blog/tailwindcss-v4</guid>
             <link>https://tailwindcss.com/blog/tailwindcss-v4</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Most Influential Papers in Computer Science History]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=42799103 target=_blank>104 comments</a>]]></description>
-            <pubDate>2025-01-23T00:29:09Z</pubDate>
-            <guid isPermaLink="false">https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/</guid>
-            <link>https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/</link>
-            
-            
-            
-            <author><![CDATA[jonbaer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=42797756 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=42797756 target=_blank>56 comments</a>]]></description>
             <pubDate>2025-01-22T21:32:03Z</pubDate>
             <guid isPermaLink="false">https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional</guid>
             <link>https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Most Influential Papers in Computer Science History]]></title>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=42799103 target=_blank>104 comments</a>]]></description>
+            <pubDate>2025-01-23T00:29:09Z</pubDate>
+            <guid isPermaLink="false">https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/</guid>
+            <link>https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/</link>
+            
+            
+            
+            <author><![CDATA[jonbaer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[F-Droid's Progress and What's Coming in 2025]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=42798108 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=42798108 target=_blank>82 comments</a>]]></description>
             <pubDate>2025-01-22T22:18:07Z</pubDate>
             <guid isPermaLink="false">https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html</guid>
             <link>https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Understanding gRPC, OpenAPI and REST and when to use them in API design (2020)]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=42799245 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=42799245 target=_blank>219 comments</a>]]></description>
             <pubDate>2025-01-23T00:47:42Z</pubDate>
             <guid isPermaLink="false">https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them</guid>
             <link>https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[C stdlib isn't threadsafe and even safe Rust didn't save us]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=42796058 target=_blank>278 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=42796058 target=_blank>283 comments</a>]]></description>
             <pubDate>2025-01-22T18:38:47Z</pubDate>
             <guid isPermaLink="false">https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us</guid>
             <link>https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Tech takes the Pareto principle too far]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=42800557 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=42800557 target=_blank>85 comments</a>]]></description>
             <pubDate>2025-01-23T03:53:08Z</pubDate>
             <guid isPermaLink="false">https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/</guid>
             <link>https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Bun 1.2 Is Released]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=42801370 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=42801370 target=_blank>130 comments</a>]]></description>
             <pubDate>2025-01-23T06:50:28Z</pubDate>
             <guid isPermaLink="false">https://bun.sh/blog/bun-v1.2</guid>
             <link>https://bun.sh/blog/bun-v1.2</link>
