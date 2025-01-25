@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: Lightpanda, an open-source headless browser in Zig]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=42817439 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=42817439 target=_blank>131 comments</a>]]></description>
             <pubDate>2025-01-24T22:15:32Z</pubDate>
             <guid isPermaLink="false">https://github.com/lightpanda-io/browser</guid>
             <link>https://github.com/lightpanda-io/browser</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[File Explorer is merged to Helix editor]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=42818278 target=_blank>29 comments</a>]]></description>
-            <pubDate>2025-01-25T00:28:20Z</pubDate>
-            <guid isPermaLink="false">https://github.com/helix-editor/helix/pull/11285</guid>
-            <link>https://github.com/helix-editor/helix/pull/11285</link>
-            
-            
-            
-            <author><![CDATA[manusachi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Pixelfed Hit 500K Users]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=42821519 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=42821519 target=_blank>56 comments</a>]]></description>
             <pubDate>2025-01-25T13:29:05Z</pubDate>
             <guid isPermaLink="false">https://fedidb.org/software/pixelfed</guid>
             <link>https://fedidb.org/software/pixelfed</link>
@@ -82,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Trying out Zed after more than a decade of Vim/Neovim]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=42817277 target=_blank>135 comments</a>]]></description>
-            <pubDate>2025-01-24T21:53:00Z</pubDate>
-            <guid isPermaLink="false">https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/</guid>
-            <link>https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/</link>
+            <title><![CDATA[File Explorer is merged to Helix editor]]></title>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=42818278 target=_blank>31 comments</a>]]></description>
+            <pubDate>2025-01-25T00:28:20Z</pubDate>
+            <guid isPermaLink="false">https://github.com/helix-editor/helix/pull/11285</guid>
+            <link>https://github.com/helix-editor/helix/pull/11285</link>
             
             
             
-            <author><![CDATA[siddhant]]></author>
+            <author><![CDATA[manusachi]]></author>
             
                 
             
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[TinyZero]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=42819262 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=42819262 target=_blank>26 comments</a>]]></description>
             <pubDate>2025-01-25T03:38:52Z</pubDate>
             <guid isPermaLink="false">https://github.com/Jiayi-Pan/TinyZero</guid>
             <link>https://github.com/Jiayi-Pan/TinyZero</link>
@@ -114,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The hidden complexity of scaling WebSockets]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=42816359 target=_blank>62 comments</a>]]></description>
-            <pubDate>2025-01-24T19:48:51Z</pubDate>
-            <guid isPermaLink="false">https://composehq.com/blog/scaling-websockets-1-23-25</guid>
-            <link>https://composehq.com/blog/scaling-websockets-1-23-25</link>
+            <title><![CDATA[Trying out Zed after more than a decade of Vim/Neovim]]></title>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=42817277 target=_blank>136 comments</a>]]></description>
+            <pubDate>2025-01-24T21:53:00Z</pubDate>
+            <guid isPermaLink="false">https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/</guid>
+            <link>https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/</link>
             
             
             
-            <author><![CDATA[atul-jalan]]></author>
+            <author><![CDATA[siddhant]]></author>
             
                 
             
@@ -146,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL]]></title>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=42823568 target=_blank>118 comments</a>]]></description>
+            <pubDate>2025-01-25T18:39:49Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2501.12948</guid>
+            <link>https://arxiv.org/abs/2501.12948</link>
+            
+            
+            
+            <author><![CDATA[gradus_ad]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[French police free kidnapped Ledger executive]]></title>
             <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=42819018 target=_blank>129 comments</a>]]></description>
             <pubDate>2025-01-25T02:48:48Z</pubDate>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=42823568 target=_blank>100 comments</a>]]></description>
-            <pubDate>2025-01-25T18:39:49Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2501.12948</guid>
-            <link>https://arxiv.org/abs/2501.12948</link>
-            
-            
-            
-            <author><![CDATA[gradus_ad]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[A very Chicago gamble]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=42816418 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=42816418 target=_blank>82 comments</a>]]></description>
             <pubDate>2025-01-24T19:56:31Z</pubDate>
             <guid isPermaLink="false">https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/</guid>
             <link>https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[The Mythical IO-Bound Rails App]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=42820419 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=42820419 target=_blank>43 comments</a>]]></description>
             <pubDate>2025-01-25T08:47:31Z</pubDate>
             <guid isPermaLink="false">https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html</guid>
             <link>https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hacker infects 18,000 "script kiddies" with fake malware builder]]></title>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=42821611 target=_blank>65 comments</a>]]></description>
+            <pubDate>2025-01-25T13:47:52Z</pubDate>
+            <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/</guid>
+            <link>https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/</link>
+            
+            
+            
+            <author><![CDATA[emschwartz]]></author>
             
                 
             
