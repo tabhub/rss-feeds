@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI]]></title>
-            <description><![CDATA[538 points | <a href=https://news.ycombinator.com/item?id=42814110 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[547 points | <a href=https://news.ycombinator.com/item?id=42814110 target=_blank>107 comments</a>]]></description>
             <pubDate>2025-01-24T15:37:07Z</pubDate>
             <guid isPermaLink="false">https://cs16.samke.me</guid>
             <link>https://cs16.samke.me</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Wild – A fast linker for Linux]]></title>
-            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=42814683 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=42814683 target=_blank>131 comments</a>]]></description>
             <pubDate>2025-01-24T16:25:53Z</pubDate>
             <guid isPermaLink="false">https://github.com/davidlattimore/wild</guid>
             <link>https://github.com/davidlattimore/wild</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Why buy domains and 301 redirect them to me?]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=42812779 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=42812779 target=_blank>90 comments</a>]]></description>
             <pubDate>2025-01-24T13:20:56Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=42812779</guid>
             <link>https://news.ycombinator.com/item?id=42812779</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Build It Yourself]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=42812641 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=42812641 target=_blank>201 comments</a>]]></description>
             <pubDate>2025-01-24T12:55:35Z</pubDate>
             <guid isPermaLink="false">https://lucumr.pocoo.org/2025/1/24/build-it-yourself/</guid>
             <link>https://lucumr.pocoo.org/2025/1/24/build-it-yourself/</link>
@@ -82,40 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[PhysicsForums and the Dead Internet Theory]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=42816284 target=_blank>131 comments</a>]]></description>
-            <pubDate>2025-01-24T19:38:38Z</pubDate>
-            <guid isPermaLink="false">https://hallofdreams.org/posts/physicsforums/</guid>
-            <link>https://hallofdreams.org/posts/physicsforums/</link>
-            
-            
-            
-            <author><![CDATA[TheCog]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Snowdrop OS – a homebrew operating system from scratch, in assembly language]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=42814820 target=_blank>46 comments</a>]]></description>
-            <pubDate>2025-01-24T16:40:11Z</pubDate>
-            <guid isPermaLink="false">http://sebastianmihai.com/snowdrop/</guid>
-            <link>http://sebastianmihai.com/snowdrop/</link>
-            
-            
-            
-            <author><![CDATA[ksec]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Caltrain's electric fleet more efficient than expected]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=42818692 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=42818692 target=_blank>158 comments</a>]]></description>
             <pubDate>2025-01-25T01:53:11Z</pubDate>
             <guid isPermaLink="false">https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected</guid>
             <link>https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected</link>
@@ -130,8 +98,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Snowdrop OS – a homebrew operating system from scratch, in assembly language]]></title>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=42814820 target=_blank>47 comments</a>]]></description>
+            <pubDate>2025-01-24T16:40:11Z</pubDate>
+            <guid isPermaLink="false">http://sebastianmihai.com/snowdrop/</guid>
+            <link>http://sebastianmihai.com/snowdrop/</link>
+            
+            
+            
+            <author><![CDATA[ksec]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PhysicsForums and the Dead Internet Theory]]></title>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=42816284 target=_blank>132 comments</a>]]></description>
+            <pubDate>2025-01-24T19:38:38Z</pubDate>
+            <guid isPermaLink="false">https://hallofdreams.org/posts/physicsforums/</guid>
+            <link>https://hallofdreams.org/posts/physicsforums/</link>
+            
+            
+            
+            <author><![CDATA[TheCog]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Subpixel Snake [video]]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=42815288 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=42815288 target=_blank>43 comments</a>]]></description>
             <pubDate>2025-01-24T17:21:44Z</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=iDwganLjpW0</guid>
             <link>https://www.youtube.com/watch?v=iDwganLjpW0</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[New book-sorting algorithm almost reaches perfection]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=42814275 target=_blank>41 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=42814275 target=_blank>41 comments</a>]]></description>
             <pubDate>2025-01-24T15:50:23Z</pubDate>
             <guid isPermaLink="false">https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/</guid>
             <link>https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[How I Use Home Assistant in 2025]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=42813513 target=_blank>197 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=42813513 target=_blank>197 comments</a>]]></description>
             <pubDate>2025-01-24T14:51:33Z</pubDate>
             <guid isPermaLink="false">https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html</guid>
             <link>https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Every System is a Log: Avoiding coordination in distributed applications]]></title>
-            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=42813049 target=_blank>125 comments</a>]]></description>
+            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=42813049 target=_blank>125 comments</a>]]></description>
             <pubDate>2025-01-24T13:57:10Z</pubDate>
             <guid isPermaLink="false">https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/</guid>
             <link>https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/</link>
