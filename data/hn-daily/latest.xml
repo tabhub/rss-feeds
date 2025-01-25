@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Caltrain's electric fleet more efficient than expected]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=42818692 target=_blank>260 comments</a>]]></description>
+            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=42818692 target=_blank>261 comments</a>]]></description>
             <pubDate>2025-01-25T01:53:11Z</pubDate>
             <guid isPermaLink="false">https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected</guid>
             <link>https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: Lightpanda, an open-source headless browser in Zig]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=42817439 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=42817439 target=_blank>130 comments</a>]]></description>
             <pubDate>2025-01-24T22:15:32Z</pubDate>
             <guid isPermaLink="false">https://github.com/lightpanda-io/browser</guid>
             <link>https://github.com/lightpanda-io/browser</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Pixelfed Hit 500K Users]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=42821519 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=42821519 target=_blank>50 comments</a>]]></description>
             <pubDate>2025-01-25T13:29:05Z</pubDate>
             <guid isPermaLink="false">https://fedidb.org/software/pixelfed</guid>
             <link>https://fedidb.org/software/pixelfed</link>
@@ -114,6 +114,22 @@
         </item>
         
         <item>
+            <title><![CDATA[The hidden complexity of scaling WebSockets]]></title>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=42816359 target=_blank>62 comments</a>]]></description>
+            <pubDate>2025-01-24T19:48:51Z</pubDate>
+            <guid isPermaLink="false">https://composehq.com/blog/scaling-websockets-1-23-25</guid>
+            <link>https://composehq.com/blog/scaling-websockets-1-23-25</link>
+            
+            
+            
+            <author><![CDATA[atul-jalan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[TinyZero]]></title>
             <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=42819262 target=_blank>24 comments</a>]]></description>
             <pubDate>2025-01-25T03:38:52Z</pubDate>
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The hidden complexity of scaling WebSockets]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=42816359 target=_blank>62 comments</a>]]></description>
-            <pubDate>2025-01-24T19:48:51Z</pubDate>
-            <guid isPermaLink="false">https://composehq.com/blog/scaling-websockets-1-23-25</guid>
-            <link>https://composehq.com/blog/scaling-websockets-1-23-25</link>
-            
-            
-            
-            <author><![CDATA[atul-jalan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=42820053 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=42820053 target=_blank>114 comments</a>]]></description>
             <pubDate>2025-01-25T07:07:11Z</pubDate>
             <guid isPermaLink="false">https://wedistribute.org/2024/11/loops-early-look/</guid>
             <link>https://wedistribute.org/2024/11/loops-early-look/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA['Never seen anything like this' – NIH meetings and travel halted abruptly]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=42817910 target=_blank>100 comments</a>]]></description>
-            <pubDate>2025-01-24T23:21:25Z</pubDate>
-            <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-00231-y</guid>
-            <link>https://www.nature.com/articles/d41586-025-00231-y</link>
+            <title><![CDATA[The Mythical IO-Bound Rails App]]></title>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=42820419 target=_blank>32 comments</a>]]></description>
+            <pubDate>2025-01-25T08:47:31Z</pubDate>
+            <guid isPermaLink="false">https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html</guid>
+            <link>https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html</link>
             
             
             
-            <author><![CDATA[anigbrowl]]></author>
+            <author><![CDATA[thunderbong]]></author>
             
                 
             
