@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #705]]></title>
+        <title><![CDATA[Perl Weekly #706]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Board announces D Ruth Holloway as Community Engagement Chair]]></title>
-            <description><![CDATA[The Perl and Raku Foundation board is pleased. Please welcome Ruth!]]></description>
-            <pubDate>2025.01.21</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/new-community-engagement-chair</guid>
-            <link>https://news.perlfoundation.org/post/new-community-engagement-chair</link>
+            <title><![CDATA[Resigning from the TPF and TPRF board]]></title>
+            <description><![CDATA[Makoto-san resigning from the board position at TPF (The Perl Foundation) also known as TPRF (The Perl and Raku Foundation).]]></description>
+            <pubDate>2025.02.02</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/makoto_nozaki/2025/02/resigning-from-the-tpf-and-tprf-board.html</guid>
+            <link>https://blogs.perl.org/users/makoto_nozaki/2025/02/resigning-from-the-tpf-and-tprf-board.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Join the Perl and Raku Communities at FOSDEM 2025!]]></title>
-            <description><![CDATA[FOSDEM, taking place on February 1–2, 2025, in Brussels, will have a Perl and Raku booth.]]></description>
-            <pubDate>2025.01.22</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/osdem25</guid>
-            <link>https://news.perlfoundation.org/post/osdem25</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[makoto_nozaki]]></author>
             
                 
             
@@ -50,75 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[New Public Matrix Channel #perl:nerdch.at]]></title>
-            <description><![CDATA[Join the Matrix channel now!]]></description>
-            <pubDate>2025.01.22</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/new-public-matrix-channel</guid>
-            <link>https://news.perlfoundation.org/post/new-public-matrix-channel</link>
-            
-            
-            
-            <author><![CDATA[ruth_bavousett]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Premium XS Integration, Pt 1]]></title>
-            <description><![CDATA[Have you embedded a C library in your Perl code recently?]]></description>
-            <pubDate>2025.01.19</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html</guid>
-            <link>https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[OTOBO supports the German Perl Workshop]]></title>
-            <description><![CDATA[OTOBO supports the German Perl Workshop]]></description>
-            <pubDate>2025.01.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2025/01/otobo-supports-the-german-perl-workshop.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2025/01/otobo-supports-the-german-perl-workshop.html</link>
-            
-            
-            
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Installing DBD::mysql in GitHub Actions]]></title>
-            <description><![CDATA[Installing DBD::mysql in GitHub Actions]]></description>
-            <pubDate>2025.01.26</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1i9yl7h/installing_dbdmysql_in_github_actions/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1i9yl7h/installing_dbdmysql_in_github_actions/</link>
-            
-            
-            
-            <author><![CDATA[brian_d_foy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Major Release 2 of the Perl Distribution Workflow]]></title>
-            <description><![CDATA[Perl Workflow is a simple, flexible system to implement workflows]]></description>
-            <pubDate>2025.01.26</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/major-release-2-of-the-perl-distribution-workflow-40e1</guid>
-            <link>https://dev.to/jonasbn/major-release-2-of-the-perl-distribution-workflow-40e1</link>
+            <title><![CDATA[Perl Workflow v2.05]]></title>
+            <description><![CDATA[Latest release of Perl Workflow v2.05 is shared with public.]]></description>
+            <pubDate>2025.02.01</pubDate>
+            <guid isPermaLink="false">https://github.com/perl-workflow/perl-workflow/releases/tag/2.05</guid>
+            <link>https://github.com/perl-workflow/perl-workflow/releases/tag/2.05</link>
             
             
             
@@ -130,15 +50,111 @@
         </item>
         
         <item>
-            <title><![CDATA[Orientação a Objeto com Corinna (Perl)]]></title>
-            <description><![CDATA[Perl in Portuguese]]></description>
-            <pubDate>2025.01.24</pubDate>
-            <guid isPermaLink="false">https://dev.to/victoriabispo/orientacao-a-objeto-com-corinna-perl-478i</guid>
-            <link>https://dev.to/victoriabispo/orientacao-a-objeto-com-corinna-perl-478i</link>
+            <title><![CDATA[A deep dive into the Perl type systems]]></title>
+            <description><![CDATA[There are exactly 7 types, all variables/values are exactly one of them, and they can never change into another type. Though only 5 of them are directly accessible so one could argue there are only 5 true types.]]></description>
+            <pubDate>2025.02.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/leon_timmermans/2025/02/a-deep-dive-into-the-perl-type-systems.html</guid>
+            <link>https://blogs.perl.org/users/leon_timmermans/2025/02/a-deep-dive-into-the-perl-type-systems.html</link>
             
             
             
-            <author><![CDATA[victoria_beserra]]></author>
+            <author><![CDATA[leon_timmermans]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Proposed Perl Changes (part 1)]]></title>
+            <description><![CDATA[A thorough process to build PPC web portal shared in the post, with detailed story around it.]]></description>
+            <pubDate>2025.01.26</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/01/proposed-perl-changes/</guid>
+            <link>https://perlhacks.com/2025/01/proposed-perl-changes/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Proposed Perl Changes (part 2)]]></title>
+            <description><![CDATA[Continued from part 1, this goes further into the story.]]></description>
+            <pubDate>2025.02.02</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/02/proposed-perl-changes-part-2/</guid>
+            <link>https://perlhacks.com/2025/02/proposed-perl-changes-part-2/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How I used a named pipe to save memory and prevent crashes (in Perl)]]></title>
+            <description><![CDATA[An interesting realworld use case showing the power of named pipe. You must check it out.]]></description>
+            <pubDate>2025.01.15</pubDate>
+            <guid isPermaLink="false">https://dev.to/nicholasbhubbard/how-i-used-a-named-pipe-to-save-memory-and-prevent-crashes-in-perl-41g9</guid>
+            <link>https://dev.to/nicholasbhubbard/how-i-used-a-named-pipe-to-save-memory-and-prevent-crashes-in-perl-41g9</link>
+            
+            
+            
+            <author><![CDATA[nicholas_hubbard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Enhancing your MIDI devices with Perl]]></title>
+            <description><![CDATA[This post will walk through the implementation of a pair of features to augment those found in a MIDI keyboard — a M-Audio Oxygen Pro 61 in this case, though the principle should apply to any device.]]></description>
+            <pubDate>2025.01.29</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/enhancing-midi-hardware-with-perl/</guid>
+            <link>https://www.perl.com/article/enhancing-midi-hardware-with-perl/</link>
+            
+            
+            
+            <author><![CDATA[john_barrett]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Building a Simple Web Scraper with Perl]]></title>
+            <description><![CDATA[Here is fun post about web scraper using Perl.]]></description>
+            <pubDate>2025.02.01</pubDate>
+            <guid isPermaLink="false">https://medium.com/@mayurkoshti12/building-a-simple-web-scraper-with-perl-84ff906be4bc</guid>
+            <link>https://medium.com/@mayurkoshti12/building-a-simple-web-scraper-with-perl-84ff906be4bc</link>
+            
+            
+            
+            <author><![CDATA[mayur_koshti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.04 The First]]></title>
+            <description><![CDATA[2025.04 The First]]></description>
+            <pubDate>2025.01.27</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/01/27/2025-04-the-first/</guid>
+            <link>https://rakudoweekly.blog/2025/01/27/2025-04-the-first/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -147,8 +163,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/01/dxxxii-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/01/dxcix-metacpan-weekly-report.html">MetaCPAN weekly report</a>;]]></description>
-            <pubDate>2025.01.25</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/02/dxxxiii-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.02.01</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -162,11 +178,43 @@
         </item>
         
         <item>
+            <title><![CDATA[Live online presentations]]></title>
+            <description><![CDATA[I organize live online presentation with guest speakers about Rust and Python. I'd also include presentations about Perl if there were volunteers to give such presentations. So if you have something that you think might be interesting to others and if you are ready to give a 30-60 min presentation about it, let me (Gabor) know.]]></description>
+            <pubDate>2025.02.03</pubDate>
+            <guid isPermaLink="false">https://live.code-maven.com/</guid>
+            <link>https://live.code-maven.com/</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Boston.pm monthly meeting]]></title>
             <description><![CDATA[Virtual event]]></description>
             
             <guid isPermaLink="false">https://www.meetup.com/Boston-pm/</guid>
             <link>https://www.meetup.com/Boston-pm/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[Paris, France]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
             
             
             
