@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[VSCode’s SSH agent is bananas]]></title>
-            <description><![CDATA[578 points | <a href=https://news.ycombinator.com/item?id=42979467 target=_blank>393 comments</a>]]></description>
+            <description><![CDATA[580 points | <a href=https://news.ycombinator.com/item?id=42979467 target=_blank>395 comments</a>]]></description>
             <pubDate>2025-02-08T01:25:32Z</pubDate>
             <guid isPermaLink="false">https://fly.io/blog/vscode-ssh-wtf/</guid>
             <link>https://fly.io/blog/vscode-ssh-wtf/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A brief history of code signing at Mozilla]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=42975436 target=_blank>79 comments</a>]]></description>
-            <pubDate>2025-02-07T17:51:49Z</pubDate>
-            <guid isPermaLink="false">https://hearsum.ca/posts/history-of-code-signing-at-mozilla/</guid>
-            <link>https://hearsum.ca/posts/history-of-code-signing-at-mozilla/</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Do-nothing scripting: the key to gradual automation (2019)]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=42976698 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=42976698 target=_blank>54 comments</a>]]></description>
             <pubDate>2025-02-07T19:48:16Z</pubDate>
             <guid isPermaLink="false">https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/</guid>
             <link>https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: ExpenseOwl – Simple, self-hosted expense tracker]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=42977388 target=_blank>75 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=42977388 target=_blank>75 comments</a>]]></description>
             <pubDate>2025-02-07T20:56:58Z</pubDate>
             <guid isPermaLink="false">https://github.com/Tanq16/ExpenseOwl</guid>
             <link>https://github.com/Tanq16/ExpenseOwl</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Ghostwriter – use the reMarkable2 as an interface to vision-LLMs]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=42979986 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=42979986 target=_blank>68 comments</a>]]></description>
             <pubDate>2025-02-08T03:02:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/awwaiid/ghostwriter</guid>
             <link>https://github.com/awwaiid/ghostwriter</link>
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Obscure islands I find interesting]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=42978199 target=_blank>16 comments</a>]]></description>
-            <pubDate>2025-02-07T22:23:31Z</pubDate>
-            <guid isPermaLink="false">https://amanvir.com/obscure-islands</guid>
-            <link>https://amanvir.com/obscure-islands</link>
-            
-            
-            
-            <author><![CDATA[venusgirdle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[We are destroying software]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=42983275 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=42983275 target=_blank>96 comments</a>]]></description>
             <pubDate>2025-02-08T14:48:25Z</pubDate>
             <guid isPermaLink="false">https://antirez.com/news/145</guid>
             <link>https://antirez.com/news/145</link>
@@ -146,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Obscure islands I find interesting]]></title>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=42978199 target=_blank>17 comments</a>]]></description>
+            <pubDate>2025-02-07T22:23:31Z</pubDate>
+            <guid isPermaLink="false">https://amanvir.com/obscure-islands</guid>
+            <link>https://amanvir.com/obscure-islands</link>
+            
+            
+            
+            <author><![CDATA[venusgirdle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)]]></title>
-            <description><![CDATA[129 points | <a href=https://news.ycombinator.com/item?id=42982015 target=_blank>13 comments</a>]]></description>
+            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=42982015 target=_blank>13 comments</a>]]></description>
             <pubDate>2025-02-08T10:41:17Z</pubDate>
             <guid isPermaLink="false">https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html</guid>
             <link>https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Starlink in the Falkland Islands – A national emergency situation?]]></title>
-            <description><![CDATA[123 points | <a href=https://news.ycombinator.com/item?id=42979869 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[126 points | <a href=https://news.ycombinator.com/item?id=42979869 target=_blank>150 comments</a>]]></description>
             <pubDate>2025-02-08T02:41:35Z</pubDate>
             <guid isPermaLink="false">https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/</guid>
             <link>https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[The Deck: An open-source cross-platform multiplayer card game engine in Flutter]]></title>
+            <description><![CDATA[111 points | <a href=https://news.ycombinator.com/item?id=42983699 target=_blank>21 comments</a>]]></description>
+            <pubDate>2025-02-08T15:47:36Z</pubDate>
+            <guid isPermaLink="false">https://github.com/xajik/thedeck</guid>
+            <link>https://github.com/xajik/thedeck</link>
+            
+            
+            
+            <author><![CDATA[igor_st]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LINUX is obsolete (1992)]]></title>
-            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=42980283 target=_blank>127 comments</a>]]></description>
+            <description><![CDATA[109 points | <a href=https://news.ycombinator.com/item?id=42980283 target=_blank>129 comments</a>]]></description>
             <pubDate>2025-02-08T04:05:28Z</pubDate>
             <guid isPermaLink="false">https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI</guid>
             <link>https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Deck: An open-source cross-platform multiplayer card game engine in Flutter]]></title>
-            <description><![CDATA[107 points | <a href=https://news.ycombinator.com/item?id=42983699 target=_blank>21 comments</a>]]></description>
-            <pubDate>2025-02-08T15:47:36Z</pubDate>
-            <guid isPermaLink="false">https://github.com/xajik/thedeck</guid>
-            <link>https://github.com/xajik/thedeck</link>
+            <title><![CDATA[DOGE member previously fired by cybersecurity firm for leaking company secrets]]></title>
+            <description><![CDATA[88 points | <a href=https://news.ycombinator.com/item?id=42976761 target=_blank>57 comments</a>]]></description>
+            <pubDate>2025-02-07T19:54:48Z</pubDate>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-teen-was-fired-by-cybersecurity-firm-for-leaking-company-secrets</guid>
+            <link>https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-teen-was-fired-by-cybersecurity-firm-for-leaking-company-secrets</link>
             
             
             
-            <author><![CDATA[igor_st]]></author>
+            <author><![CDATA[strangeloops85]]></author>
             
                 
             
