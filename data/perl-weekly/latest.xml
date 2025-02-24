@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #708]]></title>
+        <title><![CDATA[Perl Weekly #709]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[nicsell supports the German Perl Workshop]]></title>
-            <description><![CDATA[nicsell is now supporting German Perl Workshop. nicsell is a domain backorder service, also known as a dropcatcher, which allows you to bid on a large number of domains that are currently being deleted.]]></description>
-            <pubDate>2025.02.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2025/02/nicsell-supports-the-german-perl-workshop.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2025/02/nicsell-supports-the-german-perl-workshop.html</link>
+            <title><![CDATA[Announcing the Perl Toolchain Summit 2025!]]></title>
+            <description><![CDATA[The 15th Perl Toolchain Summit will be held in Leipzig, Germany, from Thursday May 1st till Sunday May 4th, 2025.]]></description>
+            <pubDate>2025.02.24</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/book/2025/02/announcing-the-perl-toolchain-summit-2025.html</guid>
+            <link>https://blogs.perl.org/users/book/2025/02/announcing-the-perl-toolchain-summit-2025.html</link>
             
             
             
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Premium XS Integration, Pt 2]]></title>
-            <description><![CDATA[This is a continuation of a series of articles about how to write XS libraries that are more convenient and foolproof for the Perl users, while not blocking them from using the actual C API.]]></description>
-            <pubDate>2025.02.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/nerdvana/2025/02/premium-xs-integration-pt-2.html</guid>
-            <link>https://blogs.perl.org/users/nerdvana/2025/02/premium-xs-integration-pt-2.html</link>
-            
-            
-            
-            <author><![CDATA[nerdvana]]></author>
+            <author><![CDATA[philippe_bruhat]]></author>
             
                 
             
@@ -50,15 +34,95 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.06 It’s A Bot!]]></title>
-            <description><![CDATA[2025.06 It’s A Bot!]]></description>
+            <title><![CDATA[PEL - Part of a Emacs-specific project]]></title>
+            <description><![CDATA[PEL - Part of a Emacs-specific project]]></description>
+            <pubDate>2025.02.17</pubDate>
+            <guid isPermaLink="false">https://github.com/pierre-rouleau/pel</guid>
+            <link>https://github.com/pierre-rouleau/pel</link>
+            
+            
+            
+            <author><![CDATA[pierre_rouleau]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl topics in PDF]]></title>
+            <description><![CDATA[Perl topics in PDF]]></description>
+            <pubDate>2025.02.17</pubDate>
+            <guid isPermaLink="false">https://raw.githubusercontent.com/pierre-rouleau/pel/master/doc/pdf/lang/perl5.pdf</guid>
+            <link>https://raw.githubusercontent.com/pierre-rouleau/pel/master/doc/pdf/lang/perl5.pdf</link>
+            
+            
+            
+            <author><![CDATA[pierre_rouleau]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[zeroperl: Sandboxing Perl with WebAssembly]]></title>
+            <description><![CDATA[zeroperl: Sandboxing Perl with WebAssembly]]></description>
             <pubDate>2025.02.10</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/02/10/2025-06-its-a-bot/</guid>
-            <link>https://rakudoweekly.blog/2025/02/10/2025-06-its-a-bot/</link>
+            <guid isPermaLink="false">https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly</guid>
+            <link>https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[andrew_sampson]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Get in loser. We're rewinding the stack. Sandboxing Perl with WebAssembly - Part 2.]]></title>
+            <description><![CDATA[Isn't it super-exciting that perl can be run in a browser these days?]]></description>
+            <pubDate>2025.02.11</pubDate>
+            <guid isPermaLink="false">https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack</guid>
+            <link>https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack</link>
+            
+            
+            
+            <author><![CDATA[andrew_sampson]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Polishing the T-urtle]]></title>
+            <description><![CDATA[<a href="https://metacpan.org/pod/App::GUI::Cellgraph">Cellgraph 0.7</a> is out. (App::GUI::Cellgraph - draw pattern by cellular automata)]]></description>
+            <pubDate>2025.02.20</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2025/02/polishing-thr-t-urtle.html</guid>
+            <link>https://blogs.perl.org/users/lichtkind/2025/02/polishing-thr-t-urtle.html</link>
+            
+            
+            
+            <author><![CDATA[herbert_breunung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Programmable Parametric 3D Modelling Using Perl and OpenSCAD]]></title>
+            <description><![CDATA[Programmable Parametric 3D Modelling Using Perl and OpenSCAD]]></description>
+            <pubDate>2025.02.23</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1iw7jfg/programmable_parametric_3d_modelling_using_perl/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1iw7jfg/programmable_parametric_3d_modelling_using_perl/</link>
+            
+            
+            
+            <author><![CDATA[saif_ahmed]]></author>
             
                 
             
@@ -67,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/02/dxxxv-2-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.02.15</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/02/dxxxvi-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/02/dci-metacpan-weekly-report-minilla.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.02</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
