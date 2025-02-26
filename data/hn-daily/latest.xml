@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I Went to SQL Injection Court]]></title>
-            <description><![CDATA[983 points | <a href=https://news.ycombinator.com/item?id=43175628 target=_blank>370 comments</a>]]></description>
+            <description><![CDATA[989 points | <a href=https://news.ycombinator.com/item?id=43175628 target=_blank>370 comments</a>]]></description>
             <pubDate>2025-02-25T18:39:10Z</pubDate>
             <guid isPermaLink="false">https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/</guid>
             <link>https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Hyperspace]]></title>
-            <description><![CDATA[751 points | <a href=https://news.ycombinator.com/item?id=43173462 target=_blank>387 comments</a>]]></description>
+            <description><![CDATA[751 points | <a href=https://news.ycombinator.com/item?id=43173462 target=_blank>389 comments</a>]]></description>
             <pubDate>2025-02-25T15:51:54Z</pubDate>
             <guid isPermaLink="false">https://hypercritical.co/2025/02/25/hyperspace</guid>
             <link>https://hypercritical.co/2025/02/25/hyperspace</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling]]></title>
-            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=43179478 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=43179478 target=_blank>60 comments</a>]]></description>
             <pubDate>2025-02-26T01:02:24Z</pubDate>
             <guid isPermaLink="false">https://github.com/deepseek-ai/DeepGEMM</guid>
             <link>https://github.com/deepseek-ai/DeepGEMM</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Material Theme has been pulled from VS Code's marketplace]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=43178831 target=_blank>217 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=43178831 target=_blank>223 comments</a>]]></description>
             <pubDate>2025-02-25T23:24:40Z</pubDate>
             <guid isPermaLink="false">https://github.com/material-theme/vsc-material-theme/discussions/1313</guid>
             <link>https://github.com/material-theme/vsc-material-theme/discussions/1313</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Hard problems that reduce to document ranking]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=43174910 target=_blank>36 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=43174910 target=_blank>36 comments</a>]]></description>
             <pubDate>2025-02-25T17:37:07Z</pubDate>
             <guid isPermaLink="false">https://noperator.dev/posts/document-ranking-for-complex-problems/</guid>
             <link>https://noperator.dev/posts/document-ranking-for-complex-problems/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Launch HN: Browser Use (YC W25) – open-source web agents]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=43173378 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=43173378 target=_blank>82 comments</a>]]></description>
             <pubDate>2025-02-25T15:45:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/browser-use/browser-use</guid>
             <link>https://github.com/browser-use/browser-use</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[DeepSearcher: A local open-source Deep Research]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=43172338 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=43172338 target=_blank>25 comments</a>]]></description>
             <pubDate>2025-02-25T14:33:42Z</pubDate>
             <guid isPermaLink="false">https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md</guid>
             <link>https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[stephen37]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The FFT Strikes Back: An Efficient Alternative to Self-Attention]]></title>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=43182325 target=_blank>62 comments</a>]]></description>
+            <pubDate>2025-02-26T09:57:23Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2502.18394</guid>
+            <link>https://arxiv.org/abs/2502.18394</link>
+            
+            
+            
+            <author><![CDATA[iNic]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The FFT Strikes Back: An Efficient Alternative to Self-Attention]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=43182325 target=_blank>57 comments</a>]]></description>
-            <pubDate>2025-02-26T09:57:23Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2502.18394</guid>
-            <link>https://arxiv.org/abs/2502.18394</link>
-            
-            
-            
-            <author><![CDATA[iNic]]></author>
             
                 
             
