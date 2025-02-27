@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Show HN: I got laid off from Meta and created a minor hit on Steam]]></title>
-            <description><![CDATA[1420 points | <a href=https://news.ycombinator.com/item?id=43186406 target=_blank>320 comments</a>]]></description>
-            <pubDate>2025-02-26T18:19:05Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=43186406</guid>
-            <link>https://news.ycombinator.com/item?id=43186406</link>
-            
-            
-            
-            <author><![CDATA[newobj]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[iMac G4(K)]]></title>
-            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=43188971 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=43188971 target=_blank>155 comments</a>]]></description>
             <pubDate>2025-02-26T22:25:10Z</pubDate>
             <guid isPermaLink="false">https://jcs.org/2025/02/26/imacg4k</guid>
             <link>https://jcs.org/2025/02/26/imacg4k</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Replace OCR with Vision Language Models]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=43187209 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=43187209 target=_blank>114 comments</a>]]></description>
             <pubDate>2025-02-26T19:29:37Z</pubDate>
             <guid isPermaLink="false">https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb</guid>
             <link>https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb</link>
@@ -82,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Fish 4]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=43194024 target=_blank>88 comments</a>]]></description>
-            <pubDate>2025-02-27T13:06:40Z</pubDate>
-            <guid isPermaLink="false">https://github.com/fish-shell/fish-shell/releases/tag/4.0.0</guid>
-            <link>https://github.com/fish-shell/fish-shell/releases/tag/4.0.0</link>
-            
-            
-            
-            <author><![CDATA[SteveHawk27]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Solitaire]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=43195516 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=43195516 target=_blank>74 comments</a>]]></description>
             <pubDate>2025-02-27T15:54:36Z</pubDate>
             <guid isPermaLink="false">https://localthunk.com/blog/solitaire</guid>
             <link>https://localthunk.com/blog/solitaire</link>
@@ -114,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Fish 4]]></title>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=43194024 target=_blank>91 comments</a>]]></description>
+            <pubDate>2025-02-27T13:06:40Z</pubDate>
+            <guid isPermaLink="false">https://github.com/fish-shell/fish-shell/releases/tag/4.0.0</guid>
+            <link>https://github.com/fish-shell/fish-shell/releases/tag/4.0.0</link>
+            
+            
+            
+            <author><![CDATA[SteveHawk27]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Geometric Algebra]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=43189703 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=43189703 target=_blank>44 comments</a>]]></description>
             <pubDate>2025-02-26T23:54:17Z</pubDate>
             <guid isPermaLink="false">https://bivector.net/</guid>
             <link>https://bivector.net/</link>
@@ -130,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Cross Views]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=43186413 target=_blank>115 comments</a>]]></description>
-            <pubDate>2025-02-26T18:19:28Z</pubDate>
-            <guid isPermaLink="false">https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/</guid>
-            <link>https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/</link>
+            <title><![CDATA[Turning a Bluetooth device into an Apple AirTag without root privileges]]></title>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=43196207 target=_blank>31 comments</a>]]></description>
+            <pubDate>2025-02-27T17:03:39Z</pubDate>
+            <guid isPermaLink="false">https://nroottag.github.io/</guid>
+            <link>https://nroottag.github.io/</link>
             
             
             
-            <author><![CDATA[moultano]]></author>
+            <author><![CDATA[layer8]]></author>
             
                 
             
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Show HN: LLM plays Pokémon (open sourced)]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=43187231 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=43187231 target=_blank>56 comments</a>]]></description>
             <pubDate>2025-02-26T19:31:25Z</pubDate>
             <guid isPermaLink="false">https://github.com/adenta/fire_red_agent</guid>
             <link>https://github.com/adenta/fire_red_agent</link>
@@ -178,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Turning a Bluetooth device into an Apple AirTag without root privileges]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=43196207 target=_blank>29 comments</a>]]></description>
-            <pubDate>2025-02-27T17:03:39Z</pubDate>
-            <guid isPermaLink="false">https://nroottag.github.io/</guid>
-            <link>https://nroottag.github.io/</link>
-            
-            
-            
-            <author><![CDATA[layer8]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Teslas monitor everything – including you [video] from WIRED]]></title>
             <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=43192079 target=_blank>168 comments</a>]]></description>
             <pubDate>2025-02-27T07:12:22Z</pubDate>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[mdhb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[US Forest Service firings decimate: entire generation of talent and passion lost]]></title>
+            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=43193366 target=_blank>111 comments</a>]]></description>
+            <pubDate>2025-02-27T11:24:51Z</pubDate>
+            <guid isPermaLink="false">https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/</guid>
+            <link>https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/</link>
+            
+            
+            
+            <author><![CDATA[rntn]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[EA Open Sources Command and Conquer: Red Alert]]></title>
+            <description><![CDATA[128 points | <a href=https://news.ycombinator.com/item?id=43197131 target=_blank>42 comments</a>]]></description>
+            <pubDate>2025-02-27T18:42:01Z</pubDate>
+            <guid isPermaLink="false">https://github.com/electronicarts/CnC_Red_Alert</guid>
+            <link>https://github.com/electronicarts/CnC_Red_Alert</link>
+            
+            
+            
+            <author><![CDATA[Klaster_1]]></author>
             
                 
             
