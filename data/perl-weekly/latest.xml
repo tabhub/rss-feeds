@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #709]]></title>
+        <title><![CDATA[Perl Weekly #710]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,63 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Announcing the Perl Toolchain Summit 2025!]]></title>
-            <description><![CDATA[The 15th Perl Toolchain Summit will be held in Leipzig, Germany, from Thursday May 1st till Sunday May 4th, 2025.]]></description>
+            <title><![CDATA[From Code to Community: Sponsoring TPRC 2025]]></title>
+            <description><![CDATA[The North American Perl and Raku Conference will soon be upon us, and that means now is a great time to show your support for this very special event. This year there are many available sponsorship tiers and lots of opportunities for your organization to support the conference.]]></description>
+            <pubDate>2025.03.02</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/from-code-to-community-sponsoring-tprc-2025</guid>
+            <link>https://www.perl.com/article/from-code-to-community-sponsoring-tprc-2025</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Announce Perl.Wiki.html V 1.24]]></title>
+            <description><![CDATA[For Perl Wiki fan, this is for you.]]></description>
+            <pubDate>2025.03.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/03/announce-perlwikihtml-v-124.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2025/03/announce-perlwikihtml-v-124.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (181) | 2025-02-26]]></title>
+            <description><![CDATA[This week in PSC (181) | 2025-02-26]]></description>
+            <pubDate>2025.02.26</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/02/this-week-in-psc-181-2025-02-26.html</guid>
+            <link>https://blogs.perl.org/users/psc/2025/02/this-week-in-psc-181-2025-02-26.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (179) | 2025-02-14]]></title>
+            <description><![CDATA[Looks like a busy meet, nice to see things are moving quickly.]]></description>
             <pubDate>2025.02.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/book/2025/02/announcing-the-perl-toolchain-summit-2025.html</guid>
-            <link>https://blogs.perl.org/users/book/2025/02/announcing-the-perl-toolchain-summit-2025.html</link>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/02/this-week-in-psc-179-2025-02-14.html</guid>
+            <link>https://blogs.perl.org/users/psc/2025/02/this-week-in-psc-179-2025-02-14.html</link>
             
             
             
-            <author><![CDATA[philippe_bruhat]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PEL - Part of a Emacs-specific project]]></title>
-            <description><![CDATA[PEL - Part of a Emacs-specific project]]></description>
-            <pubDate>2025.02.17</pubDate>
-            <guid isPermaLink="false">https://github.com/pierre-rouleau/pel</guid>
-            <link>https://github.com/pierre-rouleau/pel</link>
-            
-            
-            
-            <author><![CDATA[pierre_rouleau]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -50,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl topics in PDF]]></title>
-            <description><![CDATA[Perl topics in PDF]]></description>
-            <pubDate>2025.02.17</pubDate>
-            <guid isPermaLink="false">https://raw.githubusercontent.com/pierre-rouleau/pel/master/doc/pdf/lang/perl5.pdf</guid>
-            <link>https://raw.githubusercontent.com/pierre-rouleau/pel/master/doc/pdf/lang/perl5.pdf</link>
+            <title><![CDATA[Learning Perl in 2025]]></title>
+            <description><![CDATA[Nice collections, new to Perl then this is for you.]]></description>
+            <pubDate>2025.02.26</pubDate>
+            <guid isPermaLink="false">https://dev.to/zaphoddont/learning-perl-in-2025-3od3</guid>
+            <link>https://dev.to/zaphoddont/learning-perl-in-2025-3od3</link>
             
             
             
-            <author><![CDATA[pierre_rouleau]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[zeroperl: Sandboxing Perl with WebAssembly]]></title>
-            <description><![CDATA[zeroperl: Sandboxing Perl with WebAssembly]]></description>
-            <pubDate>2025.02.10</pubDate>
-            <guid isPermaLink="false">https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly</guid>
-            <link>https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly</link>
-            
-            
-            
-            <author><![CDATA[andrew_sampson]]></author>
+            <author><![CDATA[will_sheppard]]></author>
             
                 
             
@@ -82,31 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Get in loser. We're rewinding the stack. Sandboxing Perl with WebAssembly - Part 2.]]></title>
-            <description><![CDATA[Isn't it super-exciting that perl can be run in a browser these days?]]></description>
-            <pubDate>2025.02.11</pubDate>
-            <guid isPermaLink="false">https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack</guid>
-            <link>https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack</link>
-            
-            
-            
-            <author><![CDATA[andrew_sampson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Polishing the T-urtle]]></title>
-            <description><![CDATA[<a href="https://metacpan.org/pod/App::GUI::Cellgraph">Cellgraph 0.7</a> is out. (App::GUI::Cellgraph - draw pattern by cellular automata)]]></description>
+            <title><![CDATA[Step-by-Step Guide to Learning PERL Programming: From Novice to Expert]]></title>
+            <description><![CDATA[Worth reading even if you already know the language.]]></description>
             <pubDate>2025.02.20</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2025/02/polishing-thr-t-urtle.html</guid>
-            <link>https://blogs.perl.org/users/lichtkind/2025/02/polishing-thr-t-urtle.html</link>
+            <guid isPermaLink="false">https://medium.com/@chandantechie/step-by-step-guide-to-learning-perl-programming-from-novice-to-expert-56eaa0fce54b</guid>
+            <link>https://medium.com/@chandantechie/step-by-step-guide-to-learning-perl-programming-from-novice-to-expert-56eaa0fce54b</link>
             
             
             
-            <author><![CDATA[herbert_breunung]]></author>
+            <author><![CDATA[chandan_kumar]]></author>
             
                 
             
@@ -114,11 +114,107 @@
         </item>
         
         <item>
-            <title><![CDATA[Programmable Parametric 3D Modelling Using Perl and OpenSCAD]]></title>
-            <description><![CDATA[Programmable Parametric 3D Modelling Using Perl and OpenSCAD]]></description>
-            <pubDate>2025.02.23</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1iw7jfg/programmable_parametric_3d_modelling_using_perl/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1iw7jfg/programmable_parametric_3d_modelling_using_perl/</link>
+            <title><![CDATA[Hosting a Secure Static Website with S3 and CloudFront: Part I]]></title>
+            <description><![CDATA[Nice blog series sharing behind the scene secrets. If you are into cloud tech then you must checkout.]]></description>
+            <pubDate>2025.02.18</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2025-02-18-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2025-02-18-post.html</link>
+            
+            
+            
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hosting a Secure Static Website with S3 and CloudFront: Part IIa]]></title>
+            <description><![CDATA[Part II of the series carried forward.]]></description>
+            <pubDate>2025.02.19</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2025-02-19-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2025-02-19-post.html</link>
+            
+            
+            
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hosting a Secure Static Website with S3 and CloudFront: Part IIb]]></title>
+            <description><![CDATA[Third installment of the series for you.]]></description>
+            <pubDate>2025.02.20</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2025-02-20-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2025-02-20-post.html</link>
+            
+            
+            
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hosting a Secure Static Website with S3 and CloundFront: Part III]]></title>
+            <description><![CDATA[Time for the final word on the series. Highly recommended.]]></description>
+            <pubDate>2025.02.17</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2025-02-17-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2025-02-17-post.html</link>
+            
+            
+            
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Slurp in Perl]]></title>
+            <description><![CDATA[Refresh the newly added command line flag '-g' in Perl v5.36.]]></description>
+            <pubDate>2025.03.01</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/slurp-in-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/slurp-in-perl/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MCE - How to?]]></title>
+            <description><![CDATA[A gentle introduction to MCE (Many-Core Engine) about parallel processing.]]></description>
+            <pubDate>2025.03.02</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/mce-how-to/</guid>
+            <link>https://theweeklychallenge.org/blog/mce-how-to/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[3D Object Scripting using OpenSCAD and Perl]]></title>
+            <description><![CDATA[Fun story telling skill with plenty of tech talk in between. I also liked the use of Object::Pad.]]></description>
+            <pubDate>2025.03.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2025/03/3d-object-scripting-in-openscad-and-perl.html</guid>
+            <link>https://blogs.perl.org/users/saif/2025/03/3d-object-scripting-in-openscad-and-perl.html</link>
             
             
             
@@ -130,9 +226,41 @@
         </item>
         
         <item>
+            <title><![CDATA[Mid-life upgrade for the MailBox suite]]></title>
+            <description><![CDATA[Are you a user of MailBox? If yes then please hekp Mark during the test phase of the rework.]]></description>
+            <pubDate>2025.02.26</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/markov/2025/02/mid-life-upgrade-for-the-mailbox-suite.html</guid>
+            <link>https://blogs.perl.org/users/markov/2025/02/mid-life-upgrade-for-the-mailbox-suite.html</link>
+            
+            
+            
+            <author><![CDATA[mark_overmeer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.08 Starting An Avalanche]]></title>
+            <description><![CDATA[2025.08 Starting An Avalanche]]></description>
+            <pubDate>2025.02.24</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/02/24/2025-08-starting-an-avalanche/</guid>
+            <link>https://rakudoweekly.blog/2025/02/24/2025-08-starting-an-avalanche/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/02/dxxxvi-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/02/dci-metacpan-weekly-report-minilla.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.02</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/03/dxxxvii-5-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.03.01</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -167,6 +295,22 @@
             
             <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
             <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dave Cross: Still Munging Data with Perl]]></title>
+            <description><![CDATA[Virtual Event]]></description>
+            
+            <guid isPermaLink="false">https://lu.ma/3b8ekn8y</guid>
+            <link>https://lu.ma/3b8ekn8y</link>
             
             
             
