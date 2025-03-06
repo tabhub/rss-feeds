@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Tailscale is pretty useful]]></title>
-            <description><![CDATA[755 points | <a href=https://news.ycombinator.com/item?id=43270835 target=_blank>377 comments</a>]]></description>
-            <pubDate>2025-03-05T19:09:19Z</pubDate>
-            <guid isPermaLink="false">https://blog.6nok.org/tailscale-is-pretty-useful/</guid>
-            <link>https://blog.6nok.org/tailscale-is-pretty-useful/</link>
-            
-            
-            
-            <author><![CDATA[marban]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The US stops sharing air quality data from embassies worldwide]]></title>
             <description><![CDATA[595 points | <a href=https://news.ycombinator.com/item?id=43274821 target=_blank>380 comments</a>]]></description>
             <pubDate>2025-03-06T00:53:32Z</pubDate>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Revolt: Open-Source Alternative to Discord]]></title>
-            <description><![CDATA[509 points | <a href=https://news.ycombinator.com/item?id=43277918 target=_blank>382 comments</a>]]></description>
+            <description><![CDATA[516 points | <a href=https://news.ycombinator.com/item?id=43277918 target=_blank>389 comments</a>]]></description>
             <pubDate>2025-03-06T08:47:32Z</pubDate>
             <guid isPermaLink="false">https://revolt.chat</guid>
             <link>https://revolt.chat</link>
@@ -66,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Age and cognitive skills: Use it or lose it]]></title>
-            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=43279494 target=_blank>281 comments</a>]]></description>
-            <pubDate>2025-03-06T12:33:27Z</pubDate>
-            <guid isPermaLink="false">https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R</guid>
-            <link>https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R</link>
-            
-            
-            
-            <author><![CDATA[nabla9]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Mistral OCR]]></title>
-            <description><![CDATA[453 points | <a href=https://news.ycombinator.com/item?id=43282905 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[512 points | <a href=https://news.ycombinator.com/item?id=43282905 target=_blank>178 comments</a>]]></description>
             <pubDate>2025-03-06T17:39:39Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/fr/news/mistral-ocr</guid>
             <link>https://mistral.ai/fr/news/mistral-ocr</link>
@@ -91,6 +59,22 @@
             
             
             <author><![CDATA[littlemerman]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Age and cognitive skills: Use it or lose it]]></title>
+            <description><![CDATA[508 points | <a href=https://news.ycombinator.com/item?id=43279494 target=_blank>286 comments</a>]]></description>
+            <pubDate>2025-03-06T12:33:27Z</pubDate>
+            <guid isPermaLink="false">https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R</guid>
+            <link>https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R</link>
+            
+            
+            
+            <author><![CDATA[nabla9]]></author>
             
                 
             
@@ -107,22 +91,6 @@
             
             
             <author><![CDATA[doener]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[QwQ-32B: Embracing the Power of Reinforcement Learning]]></title>
-            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=43270843 target=_blank>133 comments</a>]]></description>
-            <pubDate>2025-03-05T19:09:39Z</pubDate>
-            <guid isPermaLink="false">https://qwenlm.github.io/blog/qwq-32b/</guid>
-            <link>https://qwenlm.github.io/blog/qwq-32b/</link>
-            
-            
-            
-            <author><![CDATA[nwjsmith]]></author>
             
                 
             
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=43271177 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=43271177 target=_blank>150 comments</a>]]></description>
             <pubDate>2025-03-05T19:34:23Z</pubDate>
             <guid isPermaLink="false">https://alecmuffett.com/article/112522</guid>
             <link>https://alecmuffett.com/article/112522</link>
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[Cognitive Behaviors That Enable Self-Improving Reasoners]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=43275193 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=43275193 target=_blank>79 comments</a>]]></description>
             <pubDate>2025-03-06T01:33:14Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2503.01307</guid>
             <link>https://arxiv.org/abs/2503.01307</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[delifue]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Exploring the Paramilitary Leaks]]></title>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=43273034 target=_blank>164 comments</a>]]></description>
+            <pubDate>2025-03-05T21:48:39Z</pubDate>
+            <guid isPermaLink="false">https://micahflee.com/exploring-the-paramilitary-leaks/</guid>
+            <link>https://micahflee.com/exploring-the-paramilitary-leaks/</link>
+            
+            
+            
+            <author><![CDATA[namenumber]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust]]></title>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=43280615 target=_blank>39 comments</a>]]></description>
+            <pubDate>2025-03-06T14:30:10Z</pubDate>
+            <guid isPermaLink="false">https://github.com/metacraft-labs/codetracer</guid>
+            <link>https://github.com/metacraft-labs/codetracer</link>
+            
+            
+            
+            <author><![CDATA[alehander42]]></author>
             
                 
             
