@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The Startup CTO's Handbook]]></title>
-            <description><![CDATA[481 points | <a href=https://news.ycombinator.com/item?id=43337703 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=43337703 target=_blank>164 comments</a>]]></description>
             <pubDate>2025-03-11T22:18:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md</guid>
             <link>https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The DuckDB Local UI]]></title>
-            <description><![CDATA[425 points | <a href=https://news.ycombinator.com/item?id=43342712 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=43342712 target=_blank>107 comments</a>]]></description>
             <pubDate>2025-03-12T12:56:01Z</pubDate>
             <guid isPermaLink="false">https://duckdb.org/2025/03/12/duckdb-ui.html</guid>
             <link>https://duckdb.org/2025/03/12/duckdb-ui.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Gemma 3 Technical Report [pdf]]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=43340491 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=43340491 target=_blank>195 comments</a>]]></description>
             <pubDate>2025-03-12T06:39:17Z</pubDate>
             <guid isPermaLink="false">https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf</guid>
             <link>https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Peer-to-peer file transfers in the browser]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=43342361 target=_blank>167 comments</a>]]></description>
-            <pubDate>2025-03-12T12:08:43Z</pubDate>
-            <guid isPermaLink="false">https://github.com/kern/filepizza</guid>
-            <link>https://github.com/kern/filepizza</link>
-            
-            
-            
-            <author><![CDATA[keepamovin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Gemini Robotics brings AI into the physical world]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=43344082 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=43344082 target=_blank>192 comments</a>]]></description>
             <pubDate>2025-03-12T15:09:09Z</pubDate>
             <guid isPermaLink="false">https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</guid>
             <link>https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</link>
@@ -91,6 +75,22 @@
             
             
             <author><![CDATA[meetpateltech]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Peer-to-peer file transfers in the browser]]></title>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=43342361 target=_blank>170 comments</a>]]></description>
+            <pubDate>2025-03-12T12:08:43Z</pubDate>
+            <guid isPermaLink="false">https://github.com/kern/filepizza</guid>
+            <link>https://github.com/kern/filepizza</link>
+            
+            
+            
+            <author><![CDATA[keepamovin]]></author>
             
                 
             
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[The Future Is Niri]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=43342178 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=43342178 target=_blank>100 comments</a>]]></description>
             <pubDate>2025-03-12T11:42:16Z</pubDate>
             <guid isPermaLink="false">https://ersei.net/en/blog/niri</guid>
             <link>https://ersei.net/en/blog/niri</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[The Insecurity of Telecom Stacks in the Wake of Salt Typhoon]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=43340196 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=43340196 target=_blank>109 comments</a>]]></description>
             <pubDate>2025-03-12T05:21:33Z</pubDate>
             <guid isPermaLink="false">https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/</guid>
             <link>https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Beyond Diffusion: Inductive Moment Matching]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=43339563 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=43339563 target=_blank>29 comments</a>]]></description>
             <pubDate>2025-03-12T03:05:47Z</pubDate>
             <guid isPermaLink="false">https://lumalabs.ai/news/inductive-moment-matching</guid>
             <link>https://lumalabs.ai/news/inductive-moment-matching</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[The 2005 Sony Bravia ad]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=43344129 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=43344129 target=_blank>106 comments</a>]]></description>
             <pubDate>2025-03-12T15:12:44Z</pubDate>
             <guid isPermaLink="false">https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php</guid>
             <link>https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[A look at the creative process behind Bluey and Cocomelon (2024)]]></title>
-            <description><![CDATA[154 points | <a href=https://news.ycombinator.com/item?id=43339206 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=43339206 target=_blank>179 comments</a>]]></description>
             <pubDate>2025-03-12T01:54:35Z</pubDate>
             <guid isPermaLink="false">https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon</guid>
             <link>https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon</link>
