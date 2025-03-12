@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The Startup CTO's Handbook]]></title>
-            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=43337703 target=_blank>151 comments</a>]]></description>
+            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=43337703 target=_blank>151 comments</a>]]></description>
             <pubDate>2025-03-11T22:18:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md</guid>
             <link>https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md</link>
@@ -27,22 +27,6 @@
             
             
             <author><![CDATA[simonebrunozzi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Fastplotlib: GPU-accelerated, fast, and interactive plotting library]]></title>
-            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=43334190 target=_blank>173 comments</a>]]></description>
-            <pubDate>2025-03-11T16:33:24Z</pubDate>
-            <guid isPermaLink="false">https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c</guid>
-            <link>https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c</link>
-            
-            
-            
-            <author><![CDATA[rossant]]></author>
             
                 
             
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[The DuckDB Local UI]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=43342712 target=_blank>91 comments</a>]]></description>
+            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=43342712 target=_blank>91 comments</a>]]></description>
             <pubDate>2025-03-12T12:56:01Z</pubDate>
             <guid isPermaLink="false">https://duckdb.org/2025/03/12/duckdb-ui.html</guid>
             <link>https://duckdb.org/2025/03/12/duckdb-ui.html</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Gemma 3 Technical Report [pdf]]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=43340491 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=43340491 target=_blank>185 comments</a>]]></description>
             <pubDate>2025-03-12T06:39:17Z</pubDate>
             <guid isPermaLink="false">https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf</guid>
             <link>https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Peer-to-peer file transfers in the browser]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=43342361 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=43342361 target=_blank>159 comments</a>]]></description>
             <pubDate>2025-03-12T12:08:43Z</pubDate>
             <guid isPermaLink="false">https://github.com/kern/filepizza</guid>
             <link>https://github.com/kern/filepizza</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[The Insecurity of Telecom Stacks in the Wake of Salt Typhoon]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=43340196 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=43340196 target=_blank>94 comments</a>]]></description>
             <pubDate>2025-03-12T05:21:33Z</pubDate>
             <guid isPermaLink="false">https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/</guid>
             <link>https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[The Future Is Niri]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=43342178 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=43342178 target=_blank>79 comments</a>]]></description>
             <pubDate>2025-03-12T11:42:16Z</pubDate>
             <guid isPermaLink="false">https://ersei.net/en/blog/niri</guid>
             <link>https://ersei.net/en/blog/niri</link>
@@ -171,6 +155,22 @@
             
             
             <author><![CDATA[mattjhall]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Gemini Robotics brings AI into the physical world]]></title>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43344082 target=_blank>77 comments</a>]]></description>
+            <pubDate>2025-03-12T15:09:09Z</pubDate>
+            <guid isPermaLink="false">https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</guid>
+            <link>https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</link>
+            
+            
+            
+            <author><![CDATA[meetpateltech]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Gemini Robotics brings AI into the physical world]]></title>
-            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=43344082 target=_blank>69 comments</a>]]></description>
-            <pubDate>2025-03-12T15:09:09Z</pubDate>
-            <guid isPermaLink="false">https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</guid>
-            <link>https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</link>
+            <title><![CDATA[A look at the creative process behind Bluey and Cocomelon (2024)]]></title>
+            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=43339206 target=_blank>159 comments</a>]]></description>
+            <pubDate>2025-03-12T01:54:35Z</pubDate>
+            <guid isPermaLink="false">https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon</guid>
+            <link>https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon</link>
             
             
             
-            <author><![CDATA[meetpateltech]]></author>
+            <author><![CDATA[gmays]]></author>
             
                 
             
