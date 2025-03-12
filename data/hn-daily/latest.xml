@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The Startup CTO's Handbook]]></title>
-            <description><![CDATA[491 points | <a href=https://news.ycombinator.com/item?id=43337703 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[497 points | <a href=https://news.ycombinator.com/item?id=43337703 target=_blank>167 comments</a>]]></description>
             <pubDate>2025-03-11T22:18:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md</guid>
             <link>https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The DuckDB Local UI]]></title>
-            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=43342712 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=43342712 target=_blank>110 comments</a>]]></description>
             <pubDate>2025-03-12T12:56:01Z</pubDate>
             <guid isPermaLink="false">https://duckdb.org/2025/03/12/duckdb-ui.html</guid>
             <link>https://duckdb.org/2025/03/12/duckdb-ui.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Gemma 3 Technical Report [pdf]]]></title>
-            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=43340491 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=43340491 target=_blank>197 comments</a>]]></description>
             <pubDate>2025-03-12T06:39:17Z</pubDate>
             <guid isPermaLink="false">https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf</guid>
             <link>https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Gemini Robotics brings AI into the physical world]]></title>
-            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=43344082 target=_blank>203 comments</a>]]></description>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=43344082 target=_blank>208 comments</a>]]></description>
             <pubDate>2025-03-12T15:09:09Z</pubDate>
             <guid isPermaLink="false">https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</guid>
             <link>https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Peer-to-peer file transfers in the browser]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=43342361 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=43342361 target=_blank>173 comments</a>]]></description>
             <pubDate>2025-03-12T12:08:43Z</pubDate>
             <guid isPermaLink="false">https://github.com/kern/filepizza</guid>
             <link>https://github.com/kern/filepizza</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Gemma3 – The current strongest model that fits on a single GPU]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=43340785 target=_blank>128 comments</a>]]></description>
-            <pubDate>2025-03-12T07:48:15Z</pubDate>
-            <guid isPermaLink="false">https://ollama.com/library/gemma3</guid>
-            <link>https://ollama.com/library/gemma3</link>
-            
-            
-            
-            <author><![CDATA[brylie]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The Future Is Niri]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=43342178 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=43342178 target=_blank>105 comments</a>]]></description>
             <pubDate>2025-03-12T11:42:16Z</pubDate>
             <guid isPermaLink="false">https://ersei.net/en/blog/niri</guid>
             <link>https://ersei.net/en/blog/niri</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Gemma3 – The current strongest model that fits on a single GPU]]></title>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=43340785 target=_blank>129 comments</a>]]></description>
+            <pubDate>2025-03-12T07:48:15Z</pubDate>
+            <guid isPermaLink="false">https://ollama.com/library/gemma3</guid>
+            <link>https://ollama.com/library/gemma3</link>
+            
+            
+            
+            <author><![CDATA[brylie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The Insecurity of Telecom Stacks in the Wake of Salt Typhoon]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=43340196 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=43340196 target=_blank>110 comments</a>]]></description>
             <pubDate>2025-03-12T05:21:33Z</pubDate>
             <guid isPermaLink="false">https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/</guid>
             <link>https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Australian man survives 100 days with artificial heart]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=43338596 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=43338596 target=_blank>96 comments</a>]]></description>
             <pubDate>2025-03-12T00:17:34Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success</guid>
             <link>https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[The 2005 Sony Bravia ad]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43344129 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=43344129 target=_blank>112 comments</a>]]></description>
             <pubDate>2025-03-12T15:12:44Z</pubDate>
             <guid isPermaLink="false">https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php</guid>
             <link>https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Beyond Diffusion: Inductive Moment Matching]]></title>
-            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=43339563 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=43339563 target=_blank>29 comments</a>]]></description>
             <pubDate>2025-03-12T03:05:47Z</pubDate>
             <guid isPermaLink="false">https://lumalabs.ai/news/inductive-moment-matching</guid>
             <link>https://lumalabs.ai/news/inductive-moment-matching</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[A look at the creative process behind Bluey and Cocomelon (2024)]]></title>
-            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=43339206 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=43339206 target=_blank>180 comments</a>]]></description>
             <pubDate>2025-03-12T01:54:35Z</pubDate>
             <guid isPermaLink="false">https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon</guid>
             <link>https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon</link>
