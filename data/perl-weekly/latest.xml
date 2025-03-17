@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #711]]></title>
+        <title><![CDATA[Perl Weekly #712]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[obfuscating Perl for fun and profit]]></title>
-            <description><![CDATA[Oh Oh]]></description>
-            <pubDate>2025.03.06</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/scott_lanning/2025/03/obfuscating-perl-for-fun-and-profit.html</guid>
-            <link>https://blogs.perl.org/users/scott_lanning/2025/03/obfuscating-perl-for-fun-and-profit.html</link>
+            <title><![CDATA[Why Deriv Supports the Perl Ecosystem]]></title>
+            <description><![CDATA[Head of Engineering at Deriv sharing the reasons of support to <strong>Perl</strong> Ecosystem.]]></description>
+            <pubDate>2025.03.14</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/why-deriv-supports-the-perl-ecosystem/</guid>
+            <link>https://www.perl.com/article/why-deriv-supports-the-perl-ecosystem/</link>
             
             
             
-            <author><![CDATA[scott_lanning]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Class data for cheapskates]]></title>
-            <description><![CDATA[A one-liner]]></description>
-            <pubDate>2025.03.04</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/aristotle/2025/03/class-data-for-cheapskates.html</guid>
-            <link>https://blogs.perl.org/users/aristotle/2025/03/class-data-for-cheapskates.html</link>
-            
-            
-            
-            <author><![CDATA[aristotle_pagaltzis]]></author>
+            <author><![CDATA[chris_horn]]></author>
             
                 
             
@@ -50,15 +34,127 @@
         </item>
         
         <item>
-            <title><![CDATA[Once more unto the Wide character (U+XXXX) in substitution (s///)]]></title>
-            <description><![CDATA[As brian d foy puts it: Fake loading locale to get around a wide character warning]]></description>
-            <pubDate>2025.03.04</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/aristotle/2025/03/once-more-subst-widechar-warning.html</guid>
-            <link>https://blogs.perl.org/users/aristotle/2025/03/once-more-subst-widechar-warning.html</link>
+            <title><![CDATA[Slurp in Perl]]></title>
+            <description><![CDATA[This is nothing new but take you to a trip that you will definitely enjoy, promise.]]></description>
+            <pubDate>2025.03.01</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/slurp-in-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/slurp-in-perl/</link>
             
             
             
-            <author><![CDATA[aristotle_pagaltzis]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Future in Perl]]></title>
+            <description><![CDATA[If you deal with async task then this is worth reading as it shows how you deal with it using <strong>CPAN</strong> modules <a href="https://metacpan.org/pod/Future">Future</a> and <a href="https://metacpan.org/pod/IO::Async::Loop">IO::Async::Loop</a>.]]></description>
+            <pubDate>2025.03.12</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/future-in-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/future-in-perl/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Promise in Perl]]></title>
+            <description><![CDATA[<strong>Perl</strong> being a torch bearer of <strong>TMTOWTDI</strong>, here is another attempt to deal with async task using <strong>CPAN</strong> modules <a href="https://metacpan.org/pod/Promise::ES6">Promise::ES6</a> and <a href="https://metacpan.org/pod/AE">AnyEvent</a>.]]></description>
+            <pubDate>2025.03.15</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/promise-in-perl</guid>
+            <link>https://theweeklychallenge.org/blog/promise-in-perl</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Scientist in Perl]]></title>
+            <description><![CDATA[This is a gentle introduction to <strong>CPAN</strong> module <a href="https://metacpan.org/dist/Scientist">Scientist</a>, shich is adapted from the <a href="https://github.com/github/scientist">library in Ruby</a> by the same name. All credit goes to <strong>Lance Wicks</strong>.]]></description>
+            <pubDate>2025.03.15</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/scientist-in-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/scientist-in-perl/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Text Extraction in Perl]]></title>
+            <description><![CDATA[This is the fun project I started long time ago but only managed to finish it successfully now. I am sure you will find it interesting.]]></description>
+            <pubDate>2025.03.14</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/extraction-in-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/extraction-in-perl/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How I build websites in 2025]]></title>
+            <description><![CDATA[This is very handy if you are planning to build a website. You get all practical tips to get the job done effectively.]]></description>
+            <pubDate>2025.03.15</pubDate>
+            <guid isPermaLink="false">https://blog.dave.org.uk/2025/03/how-i-build-websites-in-2025.html</guid>
+            <link>https://blog.dave.org.uk/2025/03/how-i-build-websites-in-2025.html</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[git bisect ...]]></title>
+            <description><![CDATA[This is for all git fans. It is one of the many git magics, worth checking out.]]></description>
+            <pubDate>2025.03.16</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/git-bisect/</guid>
+            <link>https://theweeklychallenge.org/blog/git-bisect/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.10 Final CFP Week]]></title>
+            <description><![CDATA[2025.10 Final CFP Week]]></description>
+            <pubDate>2025.03.10</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/03/10/2025-10-final-cfp-week/</guid>
+            <link>https://rakudoweekly.blog/2025/03/10/2025-10-final-cfp-week/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -67,46 +163,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/03/dxxxviii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/03/dcii-metacpan-weekly-report-dbi.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.03.08</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/03/dxxxix-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.03.16</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boston.pm monthly meeting]]></title>
-            <description><![CDATA[Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://boston.pm.org/index.html#schedule</guid>
-            <link>https://boston.pm.org/index.html#schedule</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[Paris, France]]></description>
-            
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
