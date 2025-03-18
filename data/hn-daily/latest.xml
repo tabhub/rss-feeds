@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[GIMP 3.0]]></title>
-            <description><![CDATA[1172 points | <a href=https://news.ycombinator.com/item?id=43393822 target=_blank>412 comments</a>]]></description>
+            <description><![CDATA[1174 points | <a href=https://news.ycombinator.com/item?id=43393822 target=_blank>423 comments</a>]]></description>
             <pubDate>2025-03-17T23:25:53Z</pubDate>
             <guid isPermaLink="false">https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/</guid>
             <link>https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Moving away from US cloud services]]></title>
-            <description><![CDATA[482 points | <a href=https://news.ycombinator.com/item?id=43396795 target=_blank>282 comments</a>]]></description>
+            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=43396795 target=_blank>296 comments</a>]]></description>
             <pubDate>2025-03-18T08:09:37Z</pubDate>
             <guid isPermaLink="false">https://martijnhols.nl/blog/moving-away-from-us-cloud-services</guid>
             <link>https://martijnhols.nl/blog/moving-away-from-us-cloud-services</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Deep Learning Is Not So Mysterious or Different]]></title>
-            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=43390400 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[406 points | <a href=https://news.ycombinator.com/item?id=43390400 target=_blank>104 comments</a>]]></description>
             <pubDate>2025-03-17T16:47:02Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2503.02113</guid>
             <link>https://arxiv.org/abs/2503.02113</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Archival Storage]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=43391459 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=43391459 target=_blank>147 comments</a>]]></description>
             <pubDate>2025-03-17T18:36:21Z</pubDate>
             <guid isPermaLink="false">https://blog.dshr.org/2025/03/archival-storage.html</guid>
             <link>https://blog.dshr.org/2025/03/archival-storage.html</link>
@@ -98,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=43393079 target=_blank>235 comments</a>]]></description>
-            <pubDate>2025-03-17T21:50:22Z</pubDate>
-            <guid isPermaLink="false">https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/</guid>
-            <link>https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/</link>
+            <title><![CDATA[Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf]]></title>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=43396735 target=_blank>117 comments</a>]]></description>
+            <pubDate>2025-03-18T07:59:50Z</pubDate>
+            <guid isPermaLink="false">https://ericdraken.com/pfsense-decrypt-ad-traffic/</guid>
+            <link>https://ericdraken.com/pfsense-decrypt-ad-traffic/</link>
             
             
             
-            <author><![CDATA[05bmckay]]></author>
+            <author><![CDATA[udev4096]]></author>
             
                 
             
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Rippling sues Deel over spying]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=43388133 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=43388133 target=_blank>37 comments</a>]]></description>
             <pubDate>2025-03-17T13:03:52Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/parkerconrad/status/1901615179718406276</guid>
             <link>https://twitter.com/parkerconrad/status/1901615179718406276</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly]]></title>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=43393079 target=_blank>235 comments</a>]]></description>
+            <pubDate>2025-03-17T21:50:22Z</pubDate>
+            <guid isPermaLink="false">https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/</guid>
+            <link>https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/</link>
+            
+            
+            
+            <author><![CDATA[05bmckay]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Alphabet spins out Taara – Internet over lasers]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=43390467 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=43390467 target=_blank>226 comments</a>]]></description>
             <pubDate>2025-03-17T16:55:17Z</pubDate>
             <guid isPermaLink="false">https://x.company/blog/posts/taara-graduation/</guid>
             <link>https://x.company/blog/posts/taara-graduation/</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[The High Heel Problem]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=43392549 target=_blank>25 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=43392549 target=_blank>26 comments</a>]]></description>
             <pubDate>2025-03-17T20:43:35Z</pubDate>
             <guid isPermaLink="false">https://simonschreibt.de/gat/the-high-heel-problem/</guid>
             <link>https://simonschreibt.de/gat/the-high-heel-problem/</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Dataminr tracked Gaza-related protests]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=43390747 target=_blank>178 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=43390747 target=_blank>181 comments</a>]]></description>
             <pubDate>2025-03-17T17:25:35Z</pubDate>
             <guid isPermaLink="false">https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/</guid>
             <link>https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[jbegley]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=43396735 target=_blank>66 comments</a>]]></description>
-            <pubDate>2025-03-18T07:59:50Z</pubDate>
-            <guid isPermaLink="false">https://ericdraken.com/pfsense-decrypt-ad-traffic/</guid>
-            <link>https://ericdraken.com/pfsense-decrypt-ad-traffic/</link>
-            
-            
-            
-            <author><![CDATA[udev4096]]></author>
             
                 
             
