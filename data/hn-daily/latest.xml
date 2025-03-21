@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The Burnout Machine]]></title>
-            <description><![CDATA[705 points | <a href=https://news.ycombinator.com/item?id=43427002 target=_blank>556 comments</a>]]></description>
+            <description><![CDATA[710 points | <a href=https://news.ycombinator.com/item?id=43427002 target=_blank>558 comments</a>]]></description>
             <pubDate>2025-03-20T18:24:17Z</pubDate>
             <guid isPermaLink="false">https://unionize.fyi</guid>
             <link>https://unionize.fyi</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Boycott IETF 127]]></title>
-            <description><![CDATA[518 points | <a href=https://news.ycombinator.com/item?id=43431780 target=_blank>320 comments</a>]]></description>
+            <description><![CDATA[519 points | <a href=https://news.ycombinator.com/item?id=43431780 target=_blank>322 comments</a>]]></description>
             <pubDate>2025-03-21T04:16:32Z</pubDate>
             <guid isPermaLink="false">https://boycott-ietf127.org/</guid>
             <link>https://boycott-ietf127.org/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Career Development: What It Means to Be a Manager, Director, or VP (2015)]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=43434093 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=43434093 target=_blank>159 comments</a>]]></description>
             <pubDate>2025-03-21T10:49:41Z</pubDate>
             <guid isPermaLink="false">https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/</guid>
             <link>https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Retro Boy: simple Game Boy emulator written in Rust, can be played on the web]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=43429417 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=43429417 target=_blank>94 comments</a>]]></description>
             <pubDate>2025-03-20T21:54:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/smparsons/retroboy</guid>
             <link>https://github.com/smparsons/retroboy</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[The indieweb doesn't need to “take off”]]></title>
-            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=43431068 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=43431068 target=_blank>153 comments</a>]]></description>
             <pubDate>2025-03-21T01:46:31Z</pubDate>
             <guid isPermaLink="false">https://susam.net/indieweb-does-not-need-to-take-off.html</guid>
             <link>https://susam.net/indieweb-does-not-need-to-take-off.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Calibre 8.0]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=43432890 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=43432890 target=_blank>132 comments</a>]]></description>
             <pubDate>2025-03-21T07:56:29Z</pubDate>
             <guid isPermaLink="false">https://calibre-ebook.com/whats-new</guid>
             <link>https://calibre-ebook.com/whats-new</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Apple shuffles AI executive ranks in bid to turn around Siri]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=43431675 target=_blank>419 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=43431675 target=_blank>430 comments</a>]]></description>
             <pubDate>2025-03-21T04:01:00Z</pubDate>
             <guid isPermaLink="false">https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html</guid>
             <link>https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[The FBI Seized This Woman's Life Savings–Without Telling Her Why]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=43433694 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=43433694 target=_blank>105 comments</a>]]></description>
             <pubDate>2025-03-21T09:50:57Z</pubDate>
             <guid isPermaLink="false">https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/</guid>
             <link>https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[IronRDP: a Rust implementation of Microsoft's RDP protocol]]></title>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=43436894 target=_blank>101 comments</a>]]></description>
+            <pubDate>2025-03-21T15:35:27Z</pubDate>
+            <guid isPermaLink="false">https://github.com/Devolutions/IronRDP</guid>
+            <link>https://github.com/Devolutions/IronRDP</link>
+            
+            
+            
+            <author><![CDATA[mikece]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[London's Heathrow Airport announces complete shutdown due to power outage]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=43431567 target=_blank>184 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=43431567 target=_blank>192 comments</a>]]></description>
             <pubDate>2025-03-21T03:31:06Z</pubDate>
             <guid isPermaLink="false">https://www.cnn.com/2025/03/20/travel/london-heathrow-airport-shut-intl-hnk/index.html</guid>
             <link>https://www.cnn.com/2025/03/20/travel/london-heathrow-airport-shut-intl-hnk/index.html</link>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[IronRDP: a Rust implementation of Microsoft's RDP protocol]]></title>
-            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=43436894 target=_blank>90 comments</a>]]></description>
-            <pubDate>2025-03-21T15:35:27Z</pubDate>
-            <guid isPermaLink="false">https://github.com/Devolutions/IronRDP</guid>
-            <link>https://github.com/Devolutions/IronRDP</link>
-            
-            
-            
-            <author><![CDATA[mikece]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Notetime: Minimalistic notes where everything is timestamped]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=43434152 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=43434152 target=_blank>110 comments</a>]]></description>
             <pubDate>2025-03-21T10:58:28Z</pubDate>
             <guid isPermaLink="false">https://www.notetimeapp.com</guid>
             <link>https://www.notetimeapp.com</link>
