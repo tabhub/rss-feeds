@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #712]]></title>
+        <title><![CDATA[Perl Weekly #713]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,43 +18,43 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Why Deriv Supports the Perl Ecosystem]]></title>
-            <description><![CDATA[Head of Engineering at Deriv sharing the reasons of support to <strong>Perl</strong> Ecosystem.]]></description>
-            <pubDate>2025.03.14</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/why-deriv-supports-the-perl-ecosystem/</guid>
-            <link>https://www.perl.com/article/why-deriv-supports-the-perl-ecosystem/</link>
-            
-            
-            
-            <author><![CDATA[chris_horn]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Slurp in Perl]]></title>
-            <description><![CDATA[This is nothing new but take you to a trip that you will definitely enjoy, promise.]]></description>
-            <pubDate>2025.03.01</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/slurp-in-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/slurp-in-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Future in Perl]]></title>
-            <description><![CDATA[If you deal with async task then this is worth reading as it shows how you deal with it using <strong>CPAN</strong> modules <a href="https://metacpan.org/pod/Future">Future</a> and <a href="https://metacpan.org/pod/IO::Async::Loop">IO::Async::Loop</a>.]]></description>
+            <title><![CDATA[CPANSec retrospective 2024]]></title>
+            <description><![CDATA[Listing achievements of the CPANSec group all along 2024.]]></description>
             <pubDate>2025.03.12</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/future-in-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/future-in-perl/</link>
+            <guid isPermaLink="false">https://security.metacpan.org/cpansec/update/2025/03/12/CPANSec-Retrospective-2024.html</guid>
+            <link>https://security.metacpan.org/cpansec/update/2025/03/12/CPANSec-Retrospective-2024.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Create a static mirror of your DEV blog]]></title>
+            <description><![CDATA[An interesting direction. As far as I know DEV.to has a feature to automatically create articles from an RSS feed on your blog. So one could write the original on her own blog site and then easily post it on DEV.to as well even setting the <b>canonical_url</b> on DEV to point to the original article.]]></description>
+            <pubDate>2025.03.24</pubDate>
+            <guid isPermaLink="false">https://dev.to/dkechag/create-a-static-mirror-of-your-dev-blog-d6a</guid>
+            <link>https://dev.to/dkechag/create-a-static-mirror-of-your-dev-blog-d6a</link>
+            
+            
+            
+            <author><![CDATA[dimitrios_kechagias]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Learning GitHub Actions]]></title>
+            <description><![CDATA[GitHub Actions meets Map::Tube]]></description>
+            <pubDate>2025.03.22</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/github-actions/</guid>
+            <link>https://theweeklychallenge.org/blog/github-actions/</link>
             
             
             
@@ -66,11 +66,59 @@
         </item>
         
         <item>
-            <title><![CDATA[Promise in Perl]]></title>
-            <description><![CDATA[<strong>Perl</strong> being a torch bearer of <strong>TMTOWTDI</strong>, here is another attempt to deal with async task using <strong>CPAN</strong> modules <a href="https://metacpan.org/pod/Promise::ES6">Promise::ES6</a> and <a href="https://metacpan.org/pod/AE">AnyEvent</a>.]]></description>
+            <title><![CDATA[Minimum Viable Rex]]></title>
+            <description><![CDATA[Read the article and then <a href="https://www.reddit.com/r/perl/comments/1jh5lqr/minimum_viable_rex/">comment on Reddit</a>.]]></description>
+            <pubDate>2025.03.22</pubDate>
+            <guid isPermaLink="false">https://blog.ferki.it/2025/03/21/minimum-viable-rex/</guid>
+            <link>https://blog.ferki.it/2025/03/21/minimum-viable-rex/</link>
+            
+            
+            
+            <author><![CDATA[ferenc_erki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[END Block Hijacking]]></title>
+            <description><![CDATA[END blocks are one of the 'magic' features of Perl. It effectively allows you to execute more code even after <b>exit()</b> was called or even after your program has <b>die</b>ed. Rob has a lot more to say about it.]]></description>
             <pubDate>2025.03.15</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/promise-in-perl</guid>
-            <link>https://theweeklychallenge.org/blog/promise-in-perl</link>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2025-03-15-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2025-03-15-post.html</link>
+            
+            
+            
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Programming as text creation]]></title>
+            <description><![CDATA[Generating Perl code using ChatGPT.]]></description>
+            <pubDate>2025.03.20</pubDate>
+            <guid isPermaLink="false">https://dev.to/nevmenandr/programming-as-text-creation-48nk</guid>
+            <link>https://dev.to/nevmenandr/programming-as-text-creation-48nk</link>
+            
+            
+            
+            <author><![CDATA[boris_orekhov]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Read Large File]]></title>
+            <description><![CDATA[Follow the discussion on <a href="https://www.reddit.com/r/perl/comments/1jgenwp/read_large_file/">reddit</a>]]></description>
+            <pubDate>2025.03.18</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/read-large-file/</guid>
+            <link>https://theweeklychallenge.org/blog/read-large-file/</link>
             
             
             
@@ -82,79 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Scientist in Perl]]></title>
-            <description><![CDATA[This is a gentle introduction to <strong>CPAN</strong> module <a href="https://metacpan.org/dist/Scientist">Scientist</a>, shich is adapted from the <a href="https://github.com/github/scientist">library in Ruby</a> by the same name. All credit goes to <strong>Lance Wicks</strong>.]]></description>
-            <pubDate>2025.03.15</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/scientist-in-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/scientist-in-perl/</link>
+            <title><![CDATA[An introduction to App::ModuleBuildTiny part 2: authoring]]></title>
+            <description><![CDATA[An introduction to App::ModuleBuildTiny part 2: authoring]]></description>
+            <pubDate>2025.03.21</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/leon_timmermans/2025/03/an-introduction-to-appmodulebuildtiny-part-2-authoring.html</guid>
+            <link>https://blogs.perl.org/users/leon_timmermans/2025/03/an-introduction-to-appmodulebuildtiny-part-2-authoring.html</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Text Extraction in Perl]]></title>
-            <description><![CDATA[This is the fun project I started long time ago but only managed to finish it successfully now. I am sure you will find it interesting.]]></description>
-            <pubDate>2025.03.14</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/extraction-in-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/extraction-in-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How I build websites in 2025]]></title>
-            <description><![CDATA[This is very handy if you are planning to build a website. You get all practical tips to get the job done effectively.]]></description>
-            <pubDate>2025.03.15</pubDate>
-            <guid isPermaLink="false">https://blog.dave.org.uk/2025/03/how-i-build-websites-in-2025.html</guid>
-            <link>https://blog.dave.org.uk/2025/03/how-i-build-websites-in-2025.html</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[git bisect ...]]></title>
-            <description><![CDATA[This is for all git fans. It is one of the many git magics, worth checking out.]]></description>
-            <pubDate>2025.03.16</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/git-bisect/</guid>
-            <link>https://theweeklychallenge.org/blog/git-bisect/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2025.10 Final CFP Week]]></title>
-            <description><![CDATA[2025.10 Final CFP Week]]></description>
-            <pubDate>2025.03.10</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/03/10/2025-10-final-cfp-week/</guid>
-            <link>https://rakudoweekly.blog/2025/03/10/2025-10-final-cfp-week/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[leon_timmermans]]></author>
             
                 
             
@@ -163,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/03/dxxxix-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.03.16</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/03/dxl-13-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/03/dciii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.03.23</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -210,11 +194,59 @@
         </item>
         
         <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[Paris, France]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[German Perl/Raku Workshop Conference 2025]]></title>
             <description><![CDATA[Munich, Germany]]></description>
             
             <guid isPermaLink="false">https://act.yapc.eu/gpw2025/</guid>
             <link>https://act.yapc.eu/gpw2025/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[Paris, France]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[Paris, France]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
             
             
             
