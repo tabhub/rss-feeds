@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #713]]></title>
+        <title><![CDATA[Perl Weekly #714]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,59 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[CPANSec retrospective 2024]]></title>
-            <description><![CDATA[Listing achievements of the CPANSec group all along 2024.]]></description>
-            <pubDate>2025.03.12</pubDate>
-            <guid isPermaLink="false">https://security.metacpan.org/cpansec/update/2025/03/12/CPANSec-Retrospective-2024.html</guid>
-            <link>https://security.metacpan.org/cpansec/update/2025/03/12/CPANSec-Retrospective-2024.html</link>
+            <title><![CDATA[Announcing the Perl Toolchain Summit 2025!]]></title>
+            <description><![CDATA[This announcement comes a bit late in the year, but the preparations for the next Perl Toolchain Summit have been going on for several months now. Today I am proud to announce that the 15th Perl Toolchain Summit will be held in Leipzig, Germany, from Thursday May 1st till Sunday May 4th, 2025.]]></description>
+            <pubDate>2025.03.24</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/book/2025/02/announcing-the-perl-toolchain-summit-2025.html</guid>
+            <link>https://blogs.perl.org/users/book/2025/02/announcing-the-perl-toolchain-summit-2025.html</link>
+            
+            
+            
+            <author><![CDATA[philippe_bruhat]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My participation to the Perl Toolchain Summit 2025]]></title>
+            <description><![CDATA[Welcome to PTS 2025. I wish you all the very best.]]></description>
+            <pubDate>2025.03.27</pubDate>
+            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/my-participation-to-the-perl-toolchain-summit-2025-41j2</guid>
+            <link>https://dev.to/thibaultduponchelle/my-participation-to-the-perl-toolchain-summit-2025-41j2</link>
+            
+            
+            
+            <author><![CDATA[thibault_duponchelle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (183) | 2025-03-20]]></title>
+            <description><![CDATA[Discussion about numify function. Work in good progress for next big release v5.42. Thank you team.]]></description>
+            <pubDate>2025.03.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/03/this-week-in-psc-183-2025-03-20.html</guid>
+            <link>https://blogs.perl.org/users/psc/2025/03/this-week-in-psc-183-2025-03-20.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (184) | 2025-03-27]]></title>
+            <description><![CDATA[Good news, things are moving in the right direction.]]></description>
+            <pubDate>2025.03.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/03/this-week-in-psc-184-2025-03-27.html</guid>
+            <link>https://blogs.perl.org/users/psc/2025/03/this-week-in-psc-184-2025-03-27.html</link>
             
             
             
@@ -35,10 +83,10 @@
         
         <item>
             <title><![CDATA[Create a static mirror of your DEV blog]]></title>
-            <description><![CDATA[An interesting direction. As far as I know DEV.to has a feature to automatically create articles from an RSS feed on your blog. So one could write the original on her own blog site and then easily post it on DEV.to as well even setting the <b>canonical_url</b> on DEV to point to the original article.]]></description>
+            <description><![CDATA[Great success story of Perl. This must be shared with everyone. Kudos for the effort.]]></description>
             <pubDate>2025.03.24</pubDate>
-            <guid isPermaLink="false">https://dev.to/dkechag/create-a-static-mirror-of-your-dev-blog-d6a</guid>
-            <link>https://dev.to/dkechag/create-a-static-mirror-of-your-dev-blog-d6a</link>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dimitrios_kechagias/2025/03/create-a-static-mirror-of-your-dev-blog.html</guid>
+            <link>https://blogs.perl.org/users/dimitrios_kechagias/2025/03/create-a-static-mirror-of-your-dev-blog.html</link>
             
             
             
@@ -50,11 +98,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Learning GitHub Actions]]></title>
-            <description><![CDATA[GitHub Actions meets Map::Tube]]></description>
-            <pubDate>2025.03.22</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/github-actions/</guid>
-            <link>https://theweeklychallenge.org/blog/github-actions/</link>
+            <title><![CDATA[Welcome to Perl]]></title>
+            <description><![CDATA[This post is dedicated to all newbie in Perl. Just a refresher how things work in Perl.]]></description>
+            <pubDate>2025.03.28</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/welcome-to-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/welcome-to-perl/</link>
             
             
             
@@ -66,31 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Minimum Viable Rex]]></title>
-            <description><![CDATA[Read the article and then <a href="https://www.reddit.com/r/perl/comments/1jh5lqr/minimum_viable_rex/">comment on Reddit</a>.]]></description>
-            <pubDate>2025.03.22</pubDate>
-            <guid isPermaLink="false">https://blog.ferki.it/2025/03/21/minimum-viable-rex/</guid>
-            <link>https://blog.ferki.it/2025/03/21/minimum-viable-rex/</link>
+            <title><![CDATA[Benchmark CPUs Easily with the dkbench Docker image]]></title>
+            <description><![CDATA[Recently I started playing with Docker and this post caught my eyes. Cool little toy, you must check it out.]]></description>
+            <pubDate>2025.03.27</pubDate>
+            <guid isPermaLink="false">https://dev.to/dkechag/benchmark-cpus-easily-with-the-dkbench-docker-image-462k</guid>
+            <link>https://dev.to/dkechag/benchmark-cpus-easily-with-the-dkbench-docker-image-462k</link>
             
             
             
-            <author><![CDATA[ferenc_erki]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[END Block Hijacking]]></title>
-            <description><![CDATA[END blocks are one of the 'magic' features of Perl. It effectively allows you to execute more code even after <b>exit()</b> was called or even after your program has <b>die</b>ed. Rob has a lot more to say about it.]]></description>
-            <pubDate>2025.03.15</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2025-03-15-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2025-03-15-post.html</link>
-            
-            
-            
-            <author><![CDATA[rob_lauer]]></author>
+            <author><![CDATA[dimitrios_kechagias]]></author>
             
                 
             
@@ -98,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Programming as text creation]]></title>
-            <description><![CDATA[Generating Perl code using ChatGPT.]]></description>
-            <pubDate>2025.03.20</pubDate>
-            <guid isPermaLink="false">https://dev.to/nevmenandr/programming-as-text-creation-48nk</guid>
-            <link>https://dev.to/nevmenandr/programming-as-text-creation-48nk</link>
+            <title><![CDATA[Using Perl to Write CNC GCode]]></title>
+            <description><![CDATA[Ever Wondered How to Write Software to Control a CNC for a Common Task Like Flattening Wood? Find the answer in this incredible post.]]></description>
+            <pubDate>2025.03.25</pubDate>
+            <guid isPermaLink="false">https://www.customvisuals.com/blog/?id=using-perl-to-write-cnc-gcode</guid>
+            <link>https://www.customvisuals.com/blog/?id=using-perl-to-write-cnc-gcode</link>
             
             
             
-            <author><![CDATA[boris_orekhov]]></author>
+            <author><![CDATA[mike_schienle]]></author>
             
                 
             
@@ -114,11 +146,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Read Large File]]></title>
-            <description><![CDATA[Follow the discussion on <a href="https://www.reddit.com/r/perl/comments/1jgenwp/read_large_file/">reddit</a>]]></description>
-            <pubDate>2025.03.18</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/read-large-file/</guid>
-            <link>https://theweeklychallenge.org/blog/read-large-file/</link>
+            <title><![CDATA[Web Access Errors not What I Suspected]]></title>
+            <description><![CDATA[Interesting problem and then cool solution. Keep sharing such stories.]]></description>
+            <pubDate>2025.03.27</pubDate>
+            <guid isPermaLink="false">https://www.customvisuals.com/blog/?id=web-access-errors-not-what-i-suspected-</guid>
+            <link>https://www.customvisuals.com/blog/?id=web-access-errors-not-what-i-suspected-</link>
+            
+            
+            
+            <author><![CDATA[mike_schienle]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Subroutine Signatures in Perl]]></title>
+            <description><![CDATA[It's about the how you deal with default parameter values when it is undef or false in Perl v5.38 or above.]]></description>
+            <pubDate>2025.03.26</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/subroutine-signatures/</guid>
+            <link>https://theweeklychallenge.org/blog/subroutine-signatures/</link>
             
             
             
@@ -130,15 +178,47 @@
         </item>
         
         <item>
-            <title><![CDATA[An introduction to App::ModuleBuildTiny part 2: authoring]]></title>
-            <description><![CDATA[An introduction to App::ModuleBuildTiny part 2: authoring]]></description>
-            <pubDate>2025.03.21</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/leon_timmermans/2025/03/an-introduction-to-appmodulebuildtiny-part-2-authoring.html</guid>
-            <link>https://blogs.perl.org/users/leon_timmermans/2025/03/an-introduction-to-appmodulebuildtiny-part-2-authoring.html</link>
+            <title><![CDATA[Random in Perl]]></title>
+            <description><![CDATA[Environment variable PERL_RAND_SEED in Perl v5.38 and how this gives you power in your own hand.]]></description>
+            <pubDate>2025.03.25</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/random-in-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/random-in-perl/</link>
             
             
             
-            <author><![CDATA[leon_timmermans]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Regex]]></title>
+            <description><![CDATA[Special variable ${^LAST_SUCCESSFUL_PATTERN} in Perl v5.38. Find out more how this can be really useful.]]></description>
+            <pubDate>2025.03.24</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/perl-regex/</guid>
+            <link>https://theweeklychallenge.org/blog/perl-regex/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.12 Red on RakuAST]]></title>
+            <description><![CDATA[2025.12 Red on RakuAST]]></description>
+            <pubDate>2025.03.25</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/03/25/2025-12-red-on-rakuast/</guid>
+            <link>https://rakudoweekly.blog/2025/03/25/2025-12-red-on-rakuast/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -147,30 +227,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/03/dxl-13-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/03/dciii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.03.23</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/03/dxli-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/03/dciv-metacpan-weekly-report-argvjson.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.03.29</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dave Cross: Still Munging Data with Perl]]></title>
-            <description><![CDATA[Virtual Event]]></description>
-            
-            <guid isPermaLink="false">https://lu.ma/3b8ekn8y</guid>
-            <link>https://lu.ma/3b8ekn8y</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
