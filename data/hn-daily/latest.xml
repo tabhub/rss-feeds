@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Standard Ebooks: liberated ebooks, carefully produced for the true book lover]]></title>
-            <description><![CDATA[920 points | <a href=https://news.ycombinator.com/item?id=43599637 target=_blank>191 comments</a>]]></description>
+            <description><![CDATA[968 points | <a href=https://news.ycombinator.com/item?id=43599637 target=_blank>201 comments</a>]]></description>
             <pubDate>2025-04-06T07:36:12Z</pubDate>
             <guid isPermaLink="false">https://standardebooks.org</guid>
             <link>https://standardebooks.org</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The “S” in MCP Stands for Security]]></title>
-            <description><![CDATA[514 points | <a href=https://news.ycombinator.com/item?id=43600192 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[534 points | <a href=https://news.ycombinator.com/item?id=43600192 target=_blank>145 comments</a>]]></description>
             <pubDate>2025-04-06T09:42:28Z</pubDate>
             <guid isPermaLink="false">https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b</guid>
             <link>https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple’s Darwin OS and XNU Kernel Deep Dive]]></title>
-            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=43597778 target=_blank>143 comments</a>]]></description>
-            <pubDate>2025-04-05T23:46:19Z</pubDate>
-            <guid isPermaLink="false">https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/</guid>
-            <link>https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/</link>
-            
-            
-            
-            <author><![CDATA[tansanrao]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=43601421 target=_blank>371 comments</a>]]></description>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=43601421 target=_blank>376 comments</a>]]></description>
             <pubDate>2025-04-06T13:51:13Z</pubDate>
             <guid isPermaLink="false">https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/</guid>
             <link>https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/</link>
@@ -82,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Gumroad's Interestingly Timed "Open-Source" Play]]></title>
-            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=43603999 target=_blank>67 comments</a>]]></description>
-            <pubDate>2025-04-06T19:01:32Z</pubDate>
-            <guid isPermaLink="false">https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/</guid>
-            <link>https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/</link>
-            
-            
-            
-            <author><![CDATA[pier25]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Recent AI model progress feels mostly like bullshit]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=43603453 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=43603453 target=_blank>206 comments</a>]]></description>
             <pubDate>2025-04-06T18:01:59Z</pubDate>
             <guid isPermaLink="false">https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit</guid>
             <link>https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit</link>
@@ -114,8 +82,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Gumroad's Interestingly Timed "Open-Source" Play]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=43603999 target=_blank>75 comments</a>]]></description>
+            <pubDate>2025-04-06T19:01:32Z</pubDate>
+            <guid isPermaLink="false">https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/</guid>
+            <link>https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/</link>
+            
+            
+            
+            <author><![CDATA[pier25]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rsync replaced with openrsync on macOS Sequoia]]></title>
+            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=43605003 target=_blank>127 comments</a>]]></description>
+            <pubDate>2025-04-06T21:14:09Z</pubDate>
+            <guid isPermaLink="false">https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/</guid>
+            <link>https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/</link>
+            
+            
+            
+            <author><![CDATA[zdw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Gmail E2E is as terrible as expected]]></title>
-            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=43604308 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=43604308 target=_blank>57 comments</a>]]></description>
             <pubDate>2025-04-06T19:42:21Z</pubDate>
             <guid isPermaLink="false">https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/</guid>
             <link>https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=43599967 target=_blank>36 comments</a>]]></description>
-            <pubDate>2025-04-06T08:53:41Z</pubDate>
-            <guid isPermaLink="false">https://machinelearning.apple.com/research/seedlm-compressing</guid>
-            <link>https://machinelearning.apple.com/research/seedlm-compressing</link>
-            
-            
-            
-            <author><![CDATA[pizza]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Video footage appears to contradict Israeli account of Gaza medic killings]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=43599864 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=43599864 target=_blank>69 comments</a>]]></description>
             <pubDate>2025-04-06T08:32:35Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g2z103nqxo</guid>
             <link>https://www.bbc.com/news/articles/c4g2z103nqxo</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators]]></title>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=43599967 target=_blank>36 comments</a>]]></description>
+            <pubDate>2025-04-06T08:53:41Z</pubDate>
+            <guid isPermaLink="false">https://machinelearning.apple.com/research/seedlm-compressing</guid>
+            <link>https://machinelearning.apple.com/research/seedlm-compressing</link>
+            
+            
+            
+            <author><![CDATA[pizza]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Federal cuts disrupt repairs to iconic U.S. trails]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=43603111 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[152 points | <a href=https://news.ycombinator.com/item?id=43603111 target=_blank>139 comments</a>]]></description>
             <pubDate>2025-04-06T17:24:08Z</pubDate>
             <guid isPermaLink="false">https://apnews.com/article/pacific-crest-appalachian-trail-federal-layoffs-934a5526570569b625f5d854ec339a04</guid>
             <link>https://apnews.com/article/pacific-crest-appalachian-trail-federal-layoffs-934a5526570569b625f5d854ec339a04</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How the Atlantic's Jeffrey Goldberg Got Added to the White House Signal Chat]]></title>
-            <description><![CDATA[123 points | <a href=https://news.ycombinator.com/item?id=43601213 target=_blank>105 comments</a>]]></description>
-            <pubDate>2025-04-06T13:12:59Z</pubDate>
-            <guid isPermaLink="false">https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened</guid>
-            <link>https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened</link>
+            <title><![CDATA[Let's Ban Billboards]]></title>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=43606371 target=_blank>83 comments</a>]]></description>
+            <pubDate>2025-04-07T00:54:10Z</pubDate>
+            <guid isPermaLink="false">https://iambateman.com/articles/billboards</guid>
+            <link>https://iambateman.com/articles/billboards</link>
             
             
             
-            <author><![CDATA[howard941]]></author>
+            <author><![CDATA[iambateman]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Peter Navarro Invented an Expert for His Books, Based on Himself (2019)]]></title>
-            <description><![CDATA[123 points | <a href=https://news.ycombinator.com/item?id=43602777 target=_blank>90 comments</a>]]></description>
-            <pubDate>2025-04-06T16:39:06Z</pubDate>
-            <guid isPermaLink="false">https://www.nytimes.com/2019/10/16/us/politics/peter-navarro-ron-vara.html</guid>
-            <link>https://www.nytimes.com/2019/10/16/us/politics/peter-navarro-ron-vara.html</link>
+            <title><![CDATA[U.S. stock futures tumble indicating another plummet on Wall Street]]></title>
+            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=43605670 target=_blank>176 comments</a>]]></description>
+            <pubDate>2025-04-06T22:52:20Z</pubDate>
+            <guid isPermaLink="false">https://www.reuters.com/markets/us/us-investors-braced-more-volatility-bumps-ahead-monday-trading-open-2025-04-06/</guid>
+            <link>https://www.reuters.com/markets/us/us-investors-braced-more-volatility-bumps-ahead-monday-trading-open-2025-04-06/</link>
             
             
             
-            <author><![CDATA[amarcheschi]]></author>
+            <author><![CDATA[pmags]]></author>
             
                 
             
