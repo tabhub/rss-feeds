@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #714]]></title>
+        <title><![CDATA[Perl Weekly #716]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,43 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Announcing the Perl Toolchain Summit 2025!]]></title>
-            <description><![CDATA[This announcement comes a bit late in the year, but the preparations for the next Perl Toolchain Summit have been going on for several months now. Today I am proud to announce that the 15th Perl Toolchain Summit will be held in Leipzig, Germany, from Thursday May 1st till Sunday May 4th, 2025.]]></description>
-            <pubDate>2025.03.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/book/2025/02/announcing-the-perl-toolchain-summit-2025.html</guid>
-            <link>https://blogs.perl.org/users/book/2025/02/announcing-the-perl-toolchain-summit-2025.html</link>
-            
-            
-            
-            <author><![CDATA[philippe_bruhat]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[My participation to the Perl Toolchain Summit 2025]]></title>
-            <description><![CDATA[Welcome to PTS 2025. I wish you all the very best.]]></description>
-            <pubDate>2025.03.27</pubDate>
-            <guid isPermaLink="false">https://dev.to/thibaultduponchelle/my-participation-to-the-perl-toolchain-summit-2025-41j2</guid>
-            <link>https://dev.to/thibaultduponchelle/my-participation-to-the-perl-toolchain-summit-2025-41j2</link>
-            
-            
-            
-            <author><![CDATA[thibault_duponchelle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (183) | 2025-03-20]]></title>
-            <description><![CDATA[Discussion about numify function. Work in good progress for next big release v5.42. Thank you team.]]></description>
-            <pubDate>2025.03.28</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/03/this-week-in-psc-183-2025-03-20.html</guid>
-            <link>https://blogs.perl.org/users/psc/2025/03/this-week-in-psc-183-2025-03-20.html</link>
+            <title><![CDATA[This week in PSC (186) | 2025-04-10]]></title>
+            <description><![CDATA[Preparation of next big release is on the track. Perl logo is also discussed.]]></description>
+            <pubDate>2025.04.10</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/04/this-week-in-psc-186-2025-04-10.html</guid>
+            <link>https://blogs.perl.org/users/psc/2025/04/this-week-in-psc-186-2025-04-10.html</link>
             
             
             
@@ -66,11 +34,43 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (184) | 2025-03-27]]></title>
-            <description><![CDATA[Good news, things are moving in the right direction.]]></description>
-            <pubDate>2025.03.28</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/03/this-week-in-psc-184-2025-03-27.html</guid>
-            <link>https://blogs.perl.org/users/psc/2025/03/this-week-in-psc-184-2025-03-27.html</link>
+            <title><![CDATA[Reaching 1.0]]></title>
+            <description><![CDATA[With the Harmonograph you can create beautiful and individual images within a few clicks. It's painting by pendulum.]]></description>
+            <pubDate>2025.04.09</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2025/04/count-harmony-is-back.html</guid>
+            <link>https://blogs.perl.org/users/lichtkind/2025/04/count-harmony-is-back.html</link>
+            
+            
+            
+            <author><![CDATA[herbert_breunung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CVE in Perl]]></title>
+            <description><![CDATA[What is CVE? Well the post answers some of the most commonly asked questions with regard to CVE and in particular from Perl point of view.]]></description>
+            <pubDate>2025.04.11</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/cve-in-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/cve-in-perl/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CPAN Scan]]></title>
+            <description><![CDATA[Nice colourful website showing recent released Perl modules with a short abstracts.]]></description>
+            <pubDate>2025.04.12</pubDate>
+            <guid isPermaLink="false">https://cpanscan.com/</guid>
+            <link>https://cpanscan.com/</link>
             
             
             
@@ -82,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Create a static mirror of your DEV blog]]></title>
-            <description><![CDATA[Great success story of Perl. This must be shared with everyone. Kudos for the effort.]]></description>
-            <pubDate>2025.03.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dimitrios_kechagias/2025/03/create-a-static-mirror-of-your-dev-blog.html</guid>
-            <link>https://blogs.perl.org/users/dimitrios_kechagias/2025/03/create-a-static-mirror-of-your-dev-blog.html</link>
+            <title><![CDATA[Start Earning Big with Perlin $PERL Staking Rewards]]></title>
+            <description><![CDATA[I am not into Crypto, so don't know enough to judge this. It sounds too good to be true, though.]]></description>
+            <pubDate>2025.04.11</pubDate>
+            <guid isPermaLink="false">https://medium.com/@ialbinalarionova47/maximize-your-passive-income-with-perlin-perl-1474fd8370b1</guid>
+            <link>https://medium.com/@ialbinalarionova47/maximize-your-passive-income-with-perlin-perl-1474fd8370b1</link>
             
             
             
-            <author><![CDATA[dimitrios_kechagias]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Welcome to Perl]]></title>
-            <description><![CDATA[This post is dedicated to all newbie in Perl. Just a refresher how things work in Perl.]]></description>
-            <pubDate>2025.03.28</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/welcome-to-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/welcome-to-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -114,31 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Benchmark CPUs Easily with the dkbench Docker image]]></title>
-            <description><![CDATA[Recently I started playing with Docker and this post caught my eyes. Cool little toy, you must check it out.]]></description>
-            <pubDate>2025.03.27</pubDate>
-            <guid isPermaLink="false">https://dev.to/dkechag/benchmark-cpus-easily-with-the-dkbench-docker-image-462k</guid>
-            <link>https://dev.to/dkechag/benchmark-cpus-easily-with-the-dkbench-docker-image-462k</link>
+            <title><![CDATA[Multiple embedded Perl instances in multithreaded environment]]></title>
+            <description><![CDATA[Currently I am developing an ASP.NET application that for legacy reasons needs to execute some Perl scripts. For this I wrote a small C++ library that uses the embedded Perl API.]]></description>
+            <pubDate>2025.04.11</pubDate>
+            <guid isPermaLink="false">https://medium.com/@fixitblog/solved-multiple-embedded-perl-instances-in-multithreaded-environment-484e2163afc8</guid>
+            <link>https://medium.com/@fixitblog/solved-multiple-embedded-perl-instances-in-multithreaded-environment-484e2163afc8</link>
             
             
             
-            <author><![CDATA[dimitrios_kechagias]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Using Perl to Write CNC GCode]]></title>
-            <description><![CDATA[Ever Wondered How to Write Software to Control a CNC for a Common Task Like Flattening Wood? Find the answer in this incredible post.]]></description>
-            <pubDate>2025.03.25</pubDate>
-            <guid isPermaLink="false">https://www.customvisuals.com/blog/?id=using-perl-to-write-cnc-gcode</guid>
-            <link>https://www.customvisuals.com/blog/?id=using-perl-to-write-cnc-gcode</link>
-            
-            
-            
-            <author><![CDATA[mike_schienle]]></author>
+            <author><![CDATA[ted_james]]></author>
             
                 
             
@@ -146,31 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Web Access Errors not What I Suspected]]></title>
-            <description><![CDATA[Interesting problem and then cool solution. Keep sharing such stories.]]></description>
-            <pubDate>2025.03.27</pubDate>
-            <guid isPermaLink="false">https://www.customvisuals.com/blog/?id=web-access-errors-not-what-i-suspected-</guid>
-            <link>https://www.customvisuals.com/blog/?id=web-access-errors-not-what-i-suspected-</link>
+            <title><![CDATA[Enhancing Your MIDI Devices: Round II]]></title>
+            <description><![CDATA[The second post in the series talking about MIDI devices that can be enhanced to function in different ways besides just triggering a single note per key (or pad) press.]]></description>
+            <pubDate>2025.04.09</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/enhancing-your-midi-devices-round-ii/</guid>
+            <link>https://www.perl.com/article/enhancing-your-midi-devices-round-ii/</link>
             
             
             
-            <author><![CDATA[mike_schienle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Subroutine Signatures in Perl]]></title>
-            <description><![CDATA[It's about the how you deal with default parameter values when it is undef or false in Perl v5.38 or above.]]></description>
-            <pubDate>2025.03.26</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/subroutine-signatures/</guid>
-            <link>https://theweeklychallenge.org/blog/subroutine-signatures/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[gene_boggs]]></author>
             
                 
             
@@ -178,31 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Random in Perl]]></title>
-            <description><![CDATA[Environment variable PERL_RAND_SEED in Perl v5.38 and how this gives you power in your own hand.]]></description>
-            <pubDate>2025.03.25</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/random-in-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/random-in-perl/</link>
+            <title><![CDATA[Writing a 1GB file in perl]]></title>
+            <description><![CDATA[C is stranger to me now. This wws a refresher, peeking inside C.]]></description>
+            <pubDate>2025.04.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/kanliot/2025/04/writing-1-gib-file-in-perl.html</guid>
+            <link>https://blogs.perl.org/users/kanliot/2025/04/writing-1-gib-file-in-perl.html</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Regex]]></title>
-            <description><![CDATA[Special variable ${^LAST_SUCCESSFUL_PATTERN} in Perl v5.38. Find out more how this can be really useful.]]></description>
-            <pubDate>2025.03.24</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/perl-regex/</guid>
-            <link>https://theweeklychallenge.org/blog/perl-regex/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[kanliot]]></author>
             
                 
             
@@ -210,11 +146,11 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.12 Red on RakuAST]]></title>
-            <description><![CDATA[2025.12 Red on RakuAST]]></description>
-            <pubDate>2025.03.25</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/03/25/2025-12-red-on-rakuast/</guid>
-            <link>https://rakudoweekly.blog/2025/03/25/2025-12-red-on-rakuast/</link>
+            <title><![CDATA[2025.14 Diving]]></title>
+            <description><![CDATA[2025.14 Diving]]></description>
+            <pubDate>2025.03.08</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/04/08/2025-14-diving/</guid>
+            <link>https://rakudoweekly.blog/2025/04/08/2025-14-diving/</link>
             
             
             
@@ -227,46 +163,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/03/dxli-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/03/dciv-metacpan-weekly-report-argvjson.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.03.29</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/04/dxliii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.04.12</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boston.pm monthly meeting]]></title>
-            <description><![CDATA[Virtual event]]></description>
-            
-            <guid isPermaLink="false">https://boston.pm.org/index.html#schedule</guid>
-            <link>https://boston.pm.org/index.html#schedule</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[Paris, France]]></description>
-            
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
