@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Open guide to equity compensation]]></title>
-            <description><![CDATA[588 points | <a href=https://news.ycombinator.com/item?id=43675126 target=_blank>263 comments</a>]]></description>
+            <description><![CDATA[589 points | <a href=https://news.ycombinator.com/item?id=43675126 target=_blank>264 comments</a>]]></description>
             <pubDate>2025-04-13T19:13:37Z</pubDate>
             <guid isPermaLink="false">https://github.com/jlevy/og-equity-compensation</guid>
             <link>https://github.com/jlevy/og-equity-compensation</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Everything wrong with MCP]]></title>
-            <description><![CDATA[425 points | <a href=https://news.ycombinator.com/item?id=43676771 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=43676771 target=_blank>197 comments</a>]]></description>
             <pubDate>2025-04-13T23:53:35Z</pubDate>
             <guid isPermaLink="false">https://blog.sshh.io/p/everything-wrong-with-mcp</guid>
             <link>https://blog.sshh.io/p/everything-wrong-with-mcp</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A hackable AI assistant using a single SQLite table and a handful of cron jobs]]></title>
-            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=43681287 target=_blank>79 comments</a>]]></description>
-            <pubDate>2025-04-14T13:52:58Z</pubDate>
-            <guid isPermaLink="false">https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs</guid>
-            <link>https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs</link>
-            
-            
-            
-            <author><![CDATA[stevekrouse]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Harvard's response to federal government letter demanding changes]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=43684536 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=43684536 target=_blank>152 comments</a>]]></description>
             <pubDate>2025-04-14T18:28:50Z</pubDate>
             <guid isPermaLink="false">https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/</guid>
             <link>https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/</link>
@@ -75,6 +59,22 @@
             
             
             <author><![CDATA[impish9208]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A hackable AI assistant using a single SQLite table and a handful of cron jobs]]></title>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=43681287 target=_blank>81 comments</a>]]></description>
+            <pubDate>2025-04-14T13:52:58Z</pubDate>
+            <guid isPermaLink="false">https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs</guid>
+            <link>https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs</link>
+            
+            
+            
+            <author><![CDATA[stevekrouse]]></author>
             
                 
             
@@ -98,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[GPT-4.1 in the API]]></title>
+            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=43683410 target=_blank>211 comments</a>]]></description>
+            <pubDate>2025-04-14T17:01:45Z</pubDate>
+            <guid isPermaLink="false">https://openai.com/index/gpt-4-1/</guid>
+            <link>https://openai.com/index/gpt-4-1/</link>
+            
+            
+            
+            <author><![CDATA[maheshrijal]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Kezurou-Kai #39]]></title>
             <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=43679004 target=_blank>22 comments</a>]]></description>
             <pubDate>2025-04-14T07:47:18Z</pubDate>
@@ -114,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[GPT-4.1 in the API]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=43683410 target=_blank>206 comments</a>]]></description>
-            <pubDate>2025-04-14T17:01:45Z</pubDate>
-            <guid isPermaLink="false">https://openai.com/index/gpt-4-1/</guid>
-            <link>https://openai.com/index/gpt-4-1/</link>
+            <title><![CDATA[The path to open-sourcing the DeepSeek inference engine]]></title>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=43682088 target=_blank>13 comments</a>]]></description>
+            <pubDate>2025-04-14T15:03:10Z</pubDate>
+            <guid isPermaLink="false">https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine</guid>
+            <link>https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine</link>
             
             
             
-            <author><![CDATA[maheshrijal]]></author>
+            <author><![CDATA[Palmik]]></author>
             
                 
             
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[I bought a Mac]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=43677165 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=43677165 target=_blank>121 comments</a>]]></description>
             <pubDate>2025-04-14T01:11:19Z</pubDate>
             <guid isPermaLink="false">https://loganius.org/2025/04/i-bought-a-mac/</guid>
             <link>https://loganius.org/2025/04/i-bought-a-mac/</link>
@@ -139,22 +155,6 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The path to open-sourcing the DeepSeek inference engine]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=43682088 target=_blank>12 comments</a>]]></description>
-            <pubDate>2025-04-14T15:03:10Z</pubDate>
-            <guid isPermaLink="false">https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine</guid>
-            <link>https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine</link>
-            
-            
-            
-            <author><![CDATA[Palmik]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Mario Vargas Llosa has died]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=43677917 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=43677917 target=_blank>68 comments</a>]]></description>
             <pubDate>2025-04-14T03:52:56Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html</guid>
             <link>https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[New Vulnerability in GitHub Copilot, Cursor: Hackers Can Weaponize Code Agents]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=43677067 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=43677067 target=_blank>115 comments</a>]]></description>
             <pubDate>2025-04-14T00:51:42Z</pubDate>
             <guid isPermaLink="false">https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents</guid>
             <link>https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents</link>
