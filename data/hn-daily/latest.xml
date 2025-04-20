@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: I built an AI that turns GitHub codebases into easy tutorials]]></title>
-            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=43739456 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[546 points | <a href=https://news.ycombinator.com/item?id=43739456 target=_blank>120 comments</a>]]></description>
             <pubDate>2025-04-19T21:04:41Z</pubDate>
             <guid isPermaLink="false">https://github.com/The-Pocket/Tutorial-Codebase-Knowledge</guid>
             <link>https://github.com/The-Pocket/Tutorial-Codebase-Knowledge</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Gemma 3 QAT Models: Bringing AI to Consumer GPUs]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=43743337 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=43743337 target=_blank>150 comments</a>]]></description>
             <pubDate>2025-04-20T12:22:06Z</pubDate>
             <guid isPermaLink="false">https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</guid>
             <link>https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[100 Years to Solve an Integral (2020)]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=43741273 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=43741273 target=_blank>55 comments</a>]]></description>
             <pubDate>2025-04-20T03:16:42Z</pubDate>
             <guid isPermaLink="false">https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html</guid>
             <link>https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[A unique sound alleviates motion sickness]]></title>
-            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=43740021 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=43740021 target=_blank>81 comments</a>]]></description>
             <pubDate>2025-04-19T22:35:30Z</pubDate>
             <guid isPermaLink="false">https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html</guid>
             <link>https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Things Zig comptime won't do]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=43744591 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=43744591 target=_blank>58 comments</a>]]></description>
             <pubDate>2025-04-20T15:57:37Z</pubDate>
             <guid isPermaLink="false">https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</guid>
             <link>https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Novel color via stimulation of individual photoreceptors at population scale]]></title>
-            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=43741013 target=_blank>73 comments</a>]]></description>
-            <pubDate>2025-04-20T02:03:09Z</pubDate>
-            <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adu1052</guid>
-            <link>https://www.science.org/doi/10.1126/sciadv.adu1052</link>
-            
-            
-            
-            <author><![CDATA[radeeyate]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The Movie Mistake Mystery from "Revenge of the Sith"]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=43745141 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43745141 target=_blank>39 comments</a>]]></description>
             <pubDate>2025-04-20T17:29:28Z</pubDate>
             <guid isPermaLink="false">https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html</guid>
             <link>https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Novel color via stimulation of individual photoreceptors at population scale]]></title>
+            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=43741013 target=_blank>73 comments</a>]]></description>
+            <pubDate>2025-04-20T02:03:09Z</pubDate>
+            <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adu1052</guid>
+            <link>https://www.science.org/doi/10.1126/sciadv.adu1052</link>
+            
+            
+            
+            <author><![CDATA[radeeyate]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Why is OpenAI buying Windsurf?]]></title>
-            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=43743993 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=43743993 target=_blank>146 comments</a>]]></description>
             <pubDate>2025-04-20T14:28:20Z</pubDate>
             <guid isPermaLink="false">https://theahura.substack.com/p/tech-things-openai-buys-windsurf</guid>
             <link>https://theahura.substack.com/p/tech-things-openai-buys-windsurf</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[U.S. citizen in Arizona detained by immigration officials for 10 days]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=43745469 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=43745469 target=_blank>49 comments</a>]]></description>
             <pubDate>2025-04-20T18:20:50Z</pubDate>
             <guid isPermaLink="false">https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/</guid>
             <link>https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[The skill of the future is not 'AI', but 'Focus']]></title>
-            <description><![CDATA[125 points | <a href=https://news.ycombinator.com/item?id=43744394 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=43744394 target=_blank>53 comments</a>]]></description>
             <pubDate>2025-04-20T15:28:06Z</pubDate>
             <guid isPermaLink="false">https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/</guid>
             <link>https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/</link>
