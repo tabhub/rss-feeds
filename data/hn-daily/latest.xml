@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Raspberry Pi Lidar Scanner]]></title>
-            <description><![CDATA[588 points | <a href=https://news.ycombinator.com/item?id=43738561 target=_blank>177 comments</a>]]></description>
-            <pubDate>2025-04-19T18:53:32Z</pubDate>
-            <guid isPermaLink="false">https://github.com/PiLiDAR/PiLiDAR</guid>
-            <link>https://github.com/PiLiDAR/PiLiDAR</link>
-            
-            
-            
-            <author><![CDATA[Venn1]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: I built an AI that turns GitHub codebases into easy tutorials]]></title>
-            <description><![CDATA[537 points | <a href=https://news.ycombinator.com/item?id=43739456 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=43739456 target=_blank>120 comments</a>]]></description>
             <pubDate>2025-04-19T21:04:41Z</pubDate>
             <guid isPermaLink="false">https://github.com/The-Pocket/Tutorial-Codebase-Knowledge</guid>
             <link>https://github.com/The-Pocket/Tutorial-Codebase-Knowledge</link>
@@ -50,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Web Is Broken – Botnet Part 2]]></title>
-            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=43738603 target=_blank>241 comments</a>]]></description>
-            <pubDate>2025-04-19T18:59:56Z</pubDate>
-            <guid isPermaLink="false">https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/</guid>
-            <link>https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Gemma 3 QAT Models: Bringing AI to Consumer GPUs]]></title>
-            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=43743337 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=43743337 target=_blank>145 comments</a>]]></description>
             <pubDate>2025-04-20T12:22:06Z</pubDate>
             <guid isPermaLink="false">https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</guid>
             <link>https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</link>
@@ -130,6 +98,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Things Zig comptime won't do]]></title>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=43744591 target=_blank>54 comments</a>]]></description>
+            <pubDate>2025-04-20T15:57:37Z</pubDate>
+            <guid isPermaLink="false">https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</guid>
+            <link>https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</link>
+            
+            
+            
+            <author><![CDATA[JadedBlueEyes]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Novel color via stimulation of individual photoreceptors at population scale]]></title>
             <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=43741013 target=_blank>73 comments</a>]]></description>
             <pubDate>2025-04-20T02:03:09Z</pubDate>
@@ -146,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Things Zig comptime won't do]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=43744591 target=_blank>52 comments</a>]]></description>
-            <pubDate>2025-04-20T15:57:37Z</pubDate>
-            <guid isPermaLink="false">https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</guid>
-            <link>https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</link>
+            <title><![CDATA[The Movie Mistake Mystery from "Revenge of the Sith"]]></title>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=43745141 target=_blank>29 comments</a>]]></description>
+            <pubDate>2025-04-20T17:29:28Z</pubDate>
+            <guid isPermaLink="false">https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html</guid>
+            <link>https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html</link>
             
             
             
-            <author><![CDATA[JadedBlueEyes]]></author>
+            <author><![CDATA[CharlesW]]></author>
             
                 
             
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Why is OpenAI buying Windsurf?]]></title>
-            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=43743993 target=_blank>137 comments</a>]]></description>
+            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=43743993 target=_blank>143 comments</a>]]></description>
             <pubDate>2025-04-20T14:28:20Z</pubDate>
             <guid isPermaLink="false">https://theahura.substack.com/p/tech-things-openai-buys-windsurf</guid>
             <link>https://theahura.substack.com/p/tech-things-openai-buys-windsurf</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[U.S. citizen in Arizona detained by immigration officials for 10 days]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=43745469 target=_blank>41 comments</a>]]></description>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=43745469 target=_blank>46 comments</a>]]></description>
             <pubDate>2025-04-20T18:20:50Z</pubDate>
             <guid isPermaLink="false">https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/</guid>
             <link>https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[andyjohnson0]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The skill of the future is not 'AI', but 'Focus']]></title>
+            <description><![CDATA[125 points | <a href=https://news.ycombinator.com/item?id=43744394 target=_blank>50 comments</a>]]></description>
+            <pubDate>2025-04-20T15:28:06Z</pubDate>
+            <guid isPermaLink="false">https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/</guid>
+            <link>https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/</link>
+            
+            
+            
+            <author><![CDATA[weird_trousers]]></author>
             
                 
             
