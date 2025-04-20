@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Raspberry Pi Lidar Scanner]]></title>
-            <description><![CDATA[579 points | <a href=https://news.ycombinator.com/item?id=43738561 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[582 points | <a href=https://news.ycombinator.com/item?id=43738561 target=_blank>174 comments</a>]]></description>
             <pubDate>2025-04-19T18:53:32Z</pubDate>
             <guid isPermaLink="false">https://github.com/PiLiDAR/PiLiDAR</guid>
             <link>https://github.com/PiLiDAR/PiLiDAR</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: I built an AI that turns GitHub codebases into easy tutorials]]></title>
-            <description><![CDATA[520 points | <a href=https://news.ycombinator.com/item?id=43739456 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[524 points | <a href=https://news.ycombinator.com/item?id=43739456 target=_blank>118 comments</a>]]></description>
             <pubDate>2025-04-19T21:04:41Z</pubDate>
             <guid isPermaLink="false">https://github.com/The-Pocket/Tutorial-Codebase-Knowledge</guid>
             <link>https://github.com/The-Pocket/Tutorial-Codebase-Knowledge</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The Web Is Broken – Botnet Part 2]]></title>
-            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=43738603 target=_blank>239 comments</a>]]></description>
+            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=43738603 target=_blank>241 comments</a>]]></description>
             <pubDate>2025-04-19T18:59:56Z</pubDate>
             <guid isPermaLink="false">https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/</guid>
             <link>https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Gemma 3 QAT Models: Bringing AI to Consumer GPUs]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=43743337 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=43743337 target=_blank>138 comments</a>]]></description>
             <pubDate>2025-04-20T12:22:06Z</pubDate>
             <guid isPermaLink="false">https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</guid>
             <link>https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Don't force your kids to do math]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=43738195 target=_blank>329 comments</a>]]></description>
-            <pubDate>2025-04-19T18:08:42Z</pubDate>
-            <guid isPermaLink="false">https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/</guid>
-            <link>https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/</link>
-            
-            
-            
-            <author><![CDATA[happycats]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ssl.com: DCV bypass and issue fake certificates for any MX hostname]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=43738485 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=43738485 target=_blank>60 comments</a>]]></description>
             <pubDate>2025-04-19T18:44:17Z</pubDate>
             <guid isPermaLink="false">https://bugzilla.mozilla.org/show_bug.cgi?id=1961406</guid>
             <link>https://bugzilla.mozilla.org/show_bug.cgi?id=1961406</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Novel color via stimulation of individual photoreceptors at population scale]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=43741013 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=43741013 target=_blank>72 comments</a>]]></description>
             <pubDate>2025-04-20T02:03:09Z</pubDate>
             <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adu1052</guid>
             <link>https://www.science.org/doi/10.1126/sciadv.adu1052</link>
@@ -171,6 +155,22 @@
             
             
             <author><![CDATA[radeeyate]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Things Zig comptime won't do]]></title>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=43744591 target=_blank>40 comments</a>]]></description>
+            <pubDate>2025-04-20T15:57:37Z</pubDate>
+            <guid isPermaLink="false">https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</guid>
+            <link>https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</link>
+            
+            
+            
+            <author><![CDATA[JadedBlueEyes]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Things Zig comptime won't do]]></title>
-            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=43744591 target=_blank>28 comments</a>]]></description>
-            <pubDate>2025-04-20T15:57:37Z</pubDate>
-            <guid isPermaLink="false">https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</guid>
-            <link>https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html</link>
+            <title><![CDATA[Why is OpenAI buying Windsurf?]]></title>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=43743993 target=_blank>132 comments</a>]]></description>
+            <pubDate>2025-04-20T14:28:20Z</pubDate>
+            <guid isPermaLink="false">https://theahura.substack.com/p/tech-things-openai-buys-windsurf</guid>
+            <link>https://theahura.substack.com/p/tech-things-openai-buys-windsurf</link>
             
             
             
-            <author><![CDATA[JadedBlueEyes]]></author>
+            <author><![CDATA[theahura]]></author>
             
                 
             
