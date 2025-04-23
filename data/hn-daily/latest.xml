@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Atuin Desktop: Runbooks That Run]]></title>
-            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=43766200 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=43766200 target=_blank>114 comments</a>]]></description>
             <pubDate>2025-04-22T20:54:52Z</pubDate>
             <guid isPermaLink="false">https://blog.atuin.sh/atuin-desktop-runbooks-that-run/</guid>
             <link>https://blog.atuin.sh/atuin-desktop-runbooks-that-run/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Sapphire: Rust based package manager for macOS (Homebrew replacement)]]></title>
-            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=43765011 target=_blank>246 comments</a>]]></description>
+            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=43765011 target=_blank>247 comments</a>]]></description>
             <pubDate>2025-04-22T18:39:20Z</pubDate>
             <guid isPermaLink="false">https://github.com/alexykn/sapphire</guid>
             <link>https://github.com/alexykn/sapphire</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Supabase raises $200M Series D at $2B valuation]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=43763225 target=_blank>312 comments</a>]]></description>
-            <pubDate>2025-04-22T15:17:23Z</pubDate>
-            <guid isPermaLink="false">https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html</guid>
-            <link>https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html</link>
-            
-            
-            
-            <author><![CDATA[baristaGeek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[ClickHouse gets lazier and faster: Introducing lazy materialization]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=43763688 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=43763688 target=_blank>106 comments</a>]]></description>
             <pubDate>2025-04-22T16:03:32Z</pubDate>
             <guid isPermaLink="false">https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization</guid>
             <link>https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Supabase raises $200M Series D at $2B valuation]]></title>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=43763225 target=_blank>313 comments</a>]]></description>
+            <pubDate>2025-04-22T15:17:23Z</pubDate>
+            <guid isPermaLink="false">https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html</guid>
+            <link>https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html</link>
+            
+            
+            
+            <author><![CDATA[baristaGeek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Open Source Projects Receive Funding to Reclaim the Public Internet]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=43769482 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=43769482 target=_blank>137 comments</a>]]></description>
             <pubDate>2025-04-23T07:20:33Z</pubDate>
             <guid isPermaLink="false">https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html</guid>
             <link>https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Advanced Python Features]]></title>
-            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=43769486 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=43769486 target=_blank>121 comments</a>]]></description>
             <pubDate>2025-04-23T07:21:44Z</pubDate>
             <guid isPermaLink="false">https://blog.edward-li.com/tech/advanced-python-features/</guid>
             <link>https://blog.edward-li.com/tech/advanced-python-features/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Native visionOS platform support]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=43768421 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=43768421 target=_blank>174 comments</a>]]></description>
             <pubDate>2025-04-23T03:37:05Z</pubDate>
             <guid isPermaLink="false">https://github.com/godotengine/godot/pull/105628</guid>
             <link>https://github.com/godotengine/godot/pull/105628</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[whalee]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[America's cyber defenses are being dismantled from the inside]]></title>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=43770382 target=_blank>114 comments</a>]]></description>
+            <pubDate>2025-04-23T10:10:28Z</pubDate>
+            <guid isPermaLink="false">https://www.theregister.com/2025/04/23/trump_us_security/</guid>
+            <link>https://www.theregister.com/2025/04/23/trump_us_security/</link>
+            
+            
+            
+            <author><![CDATA[rntn]]></author>
             
                 
             
@@ -139,22 +155,6 @@
             
             
             <author><![CDATA[nehal96]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[America's cyber defenses are being dismantled from the inside]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=43770382 target=_blank>102 comments</a>]]></description>
-            <pubDate>2025-04-23T10:10:28Z</pubDate>
-            <guid isPermaLink="false">https://www.theregister.com/2025/04/23/trump_us_security/</guid>
-            <link>https://www.theregister.com/2025/04/23/trump_us_security/</link>
-            
-            
-            
-            <author><![CDATA[rntn]]></author>
             
                 
             
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[How long does it take to create a new habit? (2015)]]></title>
-            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=43765084 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=43765084 target=_blank>121 comments</a>]]></description>
             <pubDate>2025-04-22T18:47:05Z</pubDate>
             <guid isPermaLink="false">https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/</guid>
             <link>https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/</link>
