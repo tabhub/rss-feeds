@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I wrote to the address in the GPLv2 license notice (2022)]]></title>
-            <description><![CDATA[680 points | <a href=https://news.ycombinator.com/item?id=43781888 target=_blank>500 comments</a>]]></description>
+            <description><![CDATA[682 points | <a href=https://news.ycombinator.com/item?id=43781888 target=_blank>500 comments</a>]]></description>
             <pubDate>2025-04-24T12:26:38Z</pubDate>
             <guid isPermaLink="false">https://code.mendhak.com/gpl-v2-address-letter/</guid>
             <link>https://code.mendhak.com/gpl-v2-address-letter/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[OpenAI releases image generation in the API]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=43786506 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=43786506 target=_blank>231 comments</a>]]></description>
             <pubDate>2025-04-24T19:27:51Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/image-generation-api/</guid>
             <link>https://openai.com/index/image-generation-api/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Instant SQL for results as you type in DuckDB UI]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=43782406 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=43782406 target=_blank>104 comments</a>]]></description>
             <pubDate>2025-04-24T13:23:26Z</pubDate>
             <guid isPermaLink="false">https://motherduck.com/blog/introducing-instant-sql/</guid>
             <link>https://motherduck.com/blog/introducing-instant-sql/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Share your AI prompt that stumps every model]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=43782299 target=_blank>480 comments</a>]]></description>
+            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=43782299 target=_blank>483 comments</a>]]></description>
             <pubDate>2025-04-24T13:11:22Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=43782299</guid>
             <link>https://news.ycombinator.com/item?id=43782299</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[DeepMind releases Lyria 2 music generation model]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=43790093 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=43790093 target=_blank>280 comments</a>]]></description>
             <pubDate>2025-04-25T04:25:15Z</pubDate>
             <guid isPermaLink="false">https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/</guid>
             <link>https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/</link>
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Microsoft subtracts C/C++ extension from VS Code forks]]></title>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43788125 target=_blank>212 comments</a>]]></description>
+            <pubDate>2025-04-24T22:18:49Z</pubDate>
+            <guid isPermaLink="false">https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/</guid>
+            <link>https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/</link>
+            
+            
+            
+            <author><![CDATA[Dotnaught]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[You Can Be a Great Designer and Be Completely Unknown]]></title>
             <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43787676 target=_blank>82 comments</a>]]></description>
             <pubDate>2025-04-24T21:24:58Z</pubDate>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Microsoft subtracts C/C++ extension from VS Code forks]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=43788125 target=_blank>211 comments</a>]]></description>
-            <pubDate>2025-04-24T22:18:49Z</pubDate>
-            <guid isPermaLink="false">https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/</guid>
-            <link>https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/</link>
-            
-            
-            
-            <author><![CDATA[Dotnaught]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[National Airspace System Status]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=43787730 target=_blank>22 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=43787730 target=_blank>22 comments</a>]]></description>
             <pubDate>2025-04-24T21:31:09Z</pubDate>
             <guid isPermaLink="false">https://nasstatus.faa.gov/</guid>
             <link>https://nasstatus.faa.gov/</link>
