@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #717]]></title>
+        <title><![CDATA[Perl Weekly #718]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[PostgreSQL SCRAM-SHA-256 authentication]]></title>
-            <description><![CDATA[PostgreSQL SCRAM-SHA-256 authentication]]></description>
-            <pubDate>2024.12.05</pubDate>
-            <guid isPermaLink="false">https://www.leader.it/Blog/PostgreSQL_SCRAM-SHA-256_authentication</guid>
-            <link>https://www.leader.it/Blog/PostgreSQL_SCRAM-SHA-256_authentication</link>
+            <title><![CDATA[Tech stack at booking.com]]></title>
+            <description><![CDATA[There was a time, <strong>Perl</strong> was ruling booking.com. It has changed now, checkout the discussion to find out the current state of affairs.]]></description>
+            <pubDate>2025.04.22</pubDate>
+            <guid isPermaLink="false">https://www.teamblind.com/post/Tech-stack-at-bookingcom-F5d5wyZz</guid>
+            <link>https://www.teamblind.com/post/Tech-stack-at-bookingcom-F5d5wyZz</link>
             
             
             
-            <author><![CDATA[guido_brugnara]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -34,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Julia in cruiser mode]]></title>
-            <description><![CDATA[Pretty Mandelbrot fractal with Juliagraph in Perl.]]></description>
+            <title><![CDATA[Generate Fixtures for Rose::DB ORM]]></title>
+            <description><![CDATA[For all Rose::DB fans, this is for you, a very handy when it comes to generating fixtures for unit test.]]></description>
             <pubDate>2025.04.21</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2025/04/julia-in-cruiser-mode.html</guid>
-            <link>https://blogs.perl.org/users/lichtkind/2025/04/julia-in-cruiser-mode.html</link>
+            <guid isPermaLink="false">https://dev.to/dragostrif/generate-fixtures-for-rosedb-orm-4mng</guid>
+            <link>https://dev.to/dragostrif/generate-fixtures-for-rosedb-orm-4mng</link>
             
             
             
-            <author><![CDATA[herbert_breunung]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Bump Your Semantic Version]]></title>
-            <description><![CDATA[A cute one-liner in Perl with explanation.]]></description>
-            <pubDate>2025.04.20</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2025-04-20-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2025-04-20-post.html</link>
-            
-            
-            
-            <author><![CDATA[rob_lauer]]></author>
+            <author><![CDATA[dragos_trif]]></author>
             
                 
             
@@ -66,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Map::Tube - experimental]]></title>
-            <description><![CDATA[Couple of experimental features added to Map::Tube.]]></description>
-            <pubDate>2025.04.18</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/map-tube-experimental/</guid>
-            <link>https://theweeklychallenge.org/blog/map-tube-experimental/</link>
+            <title><![CDATA[Map::Tube Unicode]]></title>
+            <description><![CDATA[Map::Tube finally supports Unicode character in station and line names officially. Please give it a try.]]></description>
+            <pubDate>2025.04.21</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/map-tube-unicode/</guid>
+            <link>https://theweeklychallenge.org/blog/map-tube-unicode/</link>
             
             
             
@@ -82,15 +66,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Building `Map::Tube::<*>` maps, a HOWTO: first steps]]></title>
-            <description><![CDATA[Building a map for the tram network in Hannover, Germany.]]></description>
-            <pubDate>2025.04.17</pubDate>
-            <guid isPermaLink="false">https://dev.to/peateasea/building-maptube-maps-a-howto-first-steps-40gg</guid>
-            <link>https://dev.to/peateasea/building-maptube-maps-a-howto-first-steps-40gg</link>
+            <title><![CDATA[Mojolicious and Docker]]></title>
+            <description><![CDATA[Learn how to build and dockerize Mojolicious application.]]></description>
+            <pubDate>2025.04.27</pubDate>
+            <guid isPermaLink="false">https://dev.to/dragostrif/mojolicious-and-docker-939</guid>
+            <link>https://dev.to/dragostrif/mojolicious-and-docker-939</link>
             
             
             
-            <author><![CDATA[paul_cochrane]]></author>
+            <author><![CDATA[dragos_trif]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (188) | 2025-04-24]]></title>
+            <description><![CDATA[Release blockers discussed and merged few PRs. Getting ready for the next release?]]></description>
+            <pubDate>2025.04.24</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/04/this-week-in-psc-188-2025-04-24.html</guid>
+            <link>https://blogs.perl.org/users/psc/2025/04/this-week-in-psc-188-2025-04-24.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.16 Grant Completion]]></title>
+            <description><![CDATA[2025.16 Grant Completion]]></description>
+            <pubDate>2025.04.22</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/04/22/2025-16-grant-completion/</guid>
+            <link>https://rakudoweekly.blog/2025/04/22/2025-16-grant-completion/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -99,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/04/dxliv-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/04/dcvi-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/04/dxlv-5-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.04.26</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
