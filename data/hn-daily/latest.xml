@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Show HN: I built a hardware processor that runs Python]]></title>
-            <description><![CDATA[923 points | <a href=https://news.ycombinator.com/item?id=43820228 target=_blank>241 comments</a>]]></description>
-            <pubDate>2025-04-28T11:44:54Z</pubDate>
-            <guid isPermaLink="false">https://www.runpyxl.com/gpio</guid>
-            <link>https://www.runpyxl.com/gpio</link>
-            
-            
-            
-            <author><![CDATA[hwpythonner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Qwen3: Think deeper, act faster]]></title>
-            <description><![CDATA[688 points | <a href=https://news.ycombinator.com/item?id=43825900 target=_blank>293 comments</a>]]></description>
+            <description><![CDATA[707 points | <a href=https://news.ycombinator.com/item?id=43825900 target=_blank>304 comments</a>]]></description>
             <pubDate>2025-04-28T20:44:25Z</pubDate>
             <guid isPermaLink="false">https://qwenlm.github.io/blog/qwen3/</guid>
             <link>https://qwenlm.github.io/blog/qwen3/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Migrating away from Rust]]></title>
-            <description><![CDATA[607 points | <a href=https://news.ycombinator.com/item?id=43824640 target=_blank>594 comments</a>]]></description>
+            <description><![CDATA[619 points | <a href=https://news.ycombinator.com/item?id=43824640 target=_blank>609 comments</a>]]></description>
             <pubDate>2025-04-28T18:47:36Z</pubDate>
             <guid isPermaLink="false">https://deadmoney.gg/news/articles/migrating-away-from-rust</guid>
             <link>https://deadmoney.gg/news/articles/migrating-away-from-rust</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[LibreLingo – FOSS Alternative to Duolingo]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=43829035 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=43829035 target=_blank>157 comments</a>]]></description>
             <pubDate>2025-04-29T05:45:53Z</pubDate>
             <guid isPermaLink="false">https://librelingo.app</guid>
             <link>https://librelingo.app</link>
@@ -82,40 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Reports of widespread power cuts in Spain and Portugal]]></title>
-            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=43820043 target=_blank>22 comments</a>]]></description>
-            <pubDate>2025-04-28T11:26:34Z</pubDate>
-            <guid isPermaLink="false">https://www.bbc.com/news/live/c9wpq8xrvd9t</guid>
-            <link>https://www.bbc.com/news/live/c9wpq8xrvd9t</link>
-            
-            
-            
-            <author><![CDATA[ksec]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The side hustle from hell]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=43823620 target=_blank>126 comments</a>]]></description>
-            <pubDate>2025-04-28T17:05:29Z</pubDate>
-            <guid isPermaLink="false">https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell</guid>
-            <link>https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell</link>
-            
-            
-            
-            <author><![CDATA[jakey_bakey]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Why did Windows 7 log on slower for months if you had a solid color background?]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=43827214 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=43827214 target=_blank>145 comments</a>]]></description>
             <pubDate>2025-04-28T23:27:11Z</pubDate>
             <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121</guid>
             <link>https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121</link>
@@ -130,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[The side hustle from hell]]></title>
+            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=43823620 target=_blank>127 comments</a>]]></description>
+            <pubDate>2025-04-28T17:05:29Z</pubDate>
+            <guid isPermaLink="false">https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell</guid>
+            <link>https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell</link>
+            
+            
+            
+            <author><![CDATA[jakey_bakey]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Knowledge-based society, my ass]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=43828713 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=43828713 target=_blank>70 comments</a>]]></description>
             <pubDate>2025-04-29T04:33:03Z</pubDate>
             <guid isPermaLink="false">https://mihaiolteanu.me/knowledge-based-society-my-ass</guid>
             <link>https://mihaiolteanu.me/knowledge-based-society-my-ass</link>
@@ -147,7 +115,7 @@
         
         <item>
             <title><![CDATA[The 12-bit rainbow palette]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=43827108 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=43827108 target=_blank>69 comments</a>]]></description>
             <pubDate>2025-04-28T23:12:28Z</pubDate>
             <guid isPermaLink="false">https://iamkate.com/data/12-bit-rainbow/</guid>
             <link>https://iamkate.com/data/12-bit-rainbow/</link>
@@ -162,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=43820022 target=_blank>29 comments</a>]]></description>
-            <pubDate>2025-04-28T11:24:41Z</pubDate>
-            <guid isPermaLink="false">https://github.com/skyzh/tiny-llm</guid>
-            <link>https://github.com/skyzh/tiny-llm</link>
-            
-            
-            
-            <author><![CDATA[sarkory]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[One Million Chessboards]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=43825336 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=43825336 target=_blank>50 comments</a>]]></description>
             <pubDate>2025-04-28T19:52:02Z</pubDate>
             <guid isPermaLink="false">https://onemillionchessboards.com/#199,276</guid>
             <link>https://onemillionchessboards.com/#199,276</link>
@@ -194,15 +146,63 @@
         </item>
         
         <item>
-            <title><![CDATA[Uncovering the mechanics of The Games: Winter Challenge]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=43820076 target=_blank>103 comments</a>]]></description>
-            <pubDate>2025-04-28T11:29:39Z</pubDate>
-            <guid isPermaLink="false">https://mrwint.github.io/winter/writeup/writeup.html</guid>
-            <link>https://mrwint.github.io/winter/writeup/writeup.html</link>
+            <title><![CDATA[The One-Person Framework in Practice]]></title>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=43826584 target=_blank>98 comments</a>]]></description>
+            <pubDate>2025-04-28T21:58:52Z</pubDate>
+            <guid isPermaLink="false">https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o</guid>
+            <link>https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o</link>
             
             
             
-            <author><![CDATA[abra0]]></author>
+            <author><![CDATA[frans]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Amazon to display tariff costs for consumers]]></title>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=43831027 target=_blank>108 comments</a>]]></description>
+            <pubDate>2025-04-29T11:17:24Z</pubDate>
+            <guid isPermaLink="false">https://punchbowl.news/article/tech/amazon-display-tariff-costs/</guid>
+            <link>https://punchbowl.news/article/tech/amazon-display-tariff-costs/</link>
+            
+            
+            
+            <author><![CDATA[donohoe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: A pure WebGL image editor with filters, crop and perspective correction]]></title>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=43823044 target=_blank>71 comments</a>]]></description>
+            <pubDate>2025-04-28T16:10:21Z</pubDate>
+            <guid isPermaLink="false">https://github.com/xdadda/mini-photo-editor</guid>
+            <link>https://github.com/xdadda/mini-photo-editor</link>
+            
+            
+            
+            <author><![CDATA[axelMI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Reports of the death of California High-Speed Rail have been greatly exaggerated]]></title>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=43824544 target=_blank>380 comments</a>]]></description>
+            <pubDate>2025-04-28T18:38:46Z</pubDate>
+            <guid isPermaLink="false">https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated</guid>
+            <link>https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated</link>
+            
+            
+            
+            <author><![CDATA[surprisetalk]]></author>
             
                 
             
