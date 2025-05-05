@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #718]]></title>
+        <title><![CDATA[Perl Weekly #719]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,27 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Tech stack at booking.com]]></title>
-            <description><![CDATA[There was a time, <strong>Perl</strong> was ruling booking.com. It has changed now, checkout the discussion to find out the current state of affairs.]]></description>
-            <pubDate>2025.04.22</pubDate>
-            <guid isPermaLink="false">https://www.teamblind.com/post/Tech-stack-at-bookingcom-F5d5wyZz</guid>
-            <link>https://www.teamblind.com/post/Tech-stack-at-bookingcom-F5d5wyZz</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Generate Fixtures for Rose::DB ORM]]></title>
-            <description><![CDATA[For all Rose::DB fans, this is for you, a very handy when it comes to generating fixtures for unit test.]]></description>
-            <pubDate>2025.04.21</pubDate>
-            <guid isPermaLink="false">https://dev.to/dragostrif/generate-fixtures-for-rosedb-orm-4mng</guid>
-            <link>https://dev.to/dragostrif/generate-fixtures-for-rosedb-orm-4mng</link>
+            <title><![CDATA[Mojolicious and Docker part 2]]></title>
+            <description><![CDATA[Add an data base image to the docker compose file. Create an network between the and the app. Create and persists your db. Start the Docker in the containers in the correct order.]]></description>
+            <pubDate>2025.04.30</pubDate>
+            <guid isPermaLink="false">https://dev.to/dragostrif/mojolicious-and-docker-part-2-4gei</guid>
+            <link>https://dev.to/dragostrif/mojolicious-and-docker-part-2-4gei</link>
             
             
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Map::Tube Unicode]]></title>
-            <description><![CDATA[Map::Tube finally supports Unicode character in station and line names officially. Please give it a try.]]></description>
-            <pubDate>2025.04.21</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/map-tube-unicode/</guid>
-            <link>https://theweeklychallenge.org/blog/map-tube-unicode/</link>
+            <title><![CDATA[Announce: Perl Wiki V 1.26]]></title>
+            <description><![CDATA[Announce: Perl Wiki V 1.26]]></description>
+            <pubDate>2025.05.02</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/05/announce-perl-wiki-v-126.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2025/05/announce-perl-wiki-v-126.html</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mojolicious and Docker]]></title>
-            <description><![CDATA[Learn how to build and dockerize Mojolicious application.]]></description>
-            <pubDate>2025.04.27</pubDate>
-            <guid isPermaLink="false">https://dev.to/dragostrif/mojolicious-and-docker-939</guid>
-            <link>https://dev.to/dragostrif/mojolicious-and-docker-939</link>
-            
-            
-            
-            <author><![CDATA[dragos_trif]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -82,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (188) | 2025-04-24]]></title>
-            <description><![CDATA[Release blockers discussed and merged few PRs. Getting ready for the next release?]]></description>
-            <pubDate>2025.04.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/04/this-week-in-psc-188-2025-04-24.html</guid>
-            <link>https://blogs.perl.org/users/psc/2025/04/this-week-in-psc-188-2025-04-24.html</link>
+            <title><![CDATA[Building `Map::Tube::<*>` maps, a HOWTO: weaving a web]]></title>
+            <description><![CDATA[A real tram network is more like a web of interconnecting lines. Although more lines mean more complexity, they allow Map::Tube to better reflect reality and thus be more useful and interesting.]]></description>
+            <pubDate>2025.05.02</pubDate>
+            <guid isPermaLink="false">https://dev.to/peateasea/building-maptube-maps-a-howto-weaving-a-web-209c</guid>
+            <link>https://dev.to/peateasea/building-maptube-maps-a-howto-weaving-a-web-209c</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[paul_cochrane]]></author>
             
                 
             
@@ -98,15 +66,47 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.16 Grant Completion]]></title>
-            <description><![CDATA[2025.16 Grant Completion]]></description>
-            <pubDate>2025.04.22</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/04/22/2025-16-grant-completion/</guid>
-            <link>https://rakudoweekly.blog/2025/04/22/2025-16-grant-completion/</link>
+            <title><![CDATA[Building Map::Tube::<*> maps, a HOWTO: extending the network]]></title>
+            <description><![CDATA[Building Map::Tube::<*> maps, a HOWTO: extending the network]]></description>
+            <pubDate>2025.04.30</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/building-map-tube-maps-a-howto-extending-the-network/</guid>
+            <link>https://www.perl.com/article/building-map-tube-maps-a-howto-extending-the-network/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[paul_cochrane]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Handling text encoding in Perl]]></title>
+            <description><![CDATA[When we are dealing with legacy applications, it’s very possible that the code we are looking at does not deal with Unicode characters, instead assuming all text is ASCII. This will cause a myriad of glitches and visual errors.<br>In 2025, after more than 30 years since Unicode was born, how is that possible that old applications still survive while ignoring or working around the whole issue?]]></description>
+            <pubDate>2025.04.29</pubDate>
+            <guid isPermaLink="false">https://www.endpointdev.com/blog/2025/04/encoding-in-perl/</guid>
+            <link>https://www.endpointdev.com/blog/2025/04/encoding-in-perl/</link>
+            
+            
+            
+            <author><![CDATA[melmothx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tree::DAG_Node V 1.34 uploaded to CPAN]]></title>
+            <description><![CDATA[Tree::DAG_Node V 1.34 uploaded to CPAN]]></description>
+            <pubDate>2025.04.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/04/treedag-node-v-134-uploaded-to-cpan.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2025/04/treedag-node-v-134-uploaded-to-cpan.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -115,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/04/dxlv-5-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.04.26</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/05/dxlvi-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
+            <pubDate>2025.05.03</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
