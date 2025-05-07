@@ -18,40 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Claude's system prompt is over 24k tokens with tools]]></title>
-            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=43909409 target=_blank>292 comments</a>]]></description>
-            <pubDate>2025-05-06T20:39:35Z</pubDate>
-            <guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt</guid>
-            <link>https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt</link>
-            
-            
-            
-            <author><![CDATA[mike210]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CLion Is Now Free for Non-Commercial Use]]></title>
-            <description><![CDATA[474 points | <a href=https://news.ycombinator.com/item?id=43914705 target=_blank>300 comments</a>]]></description>
-            <pubDate>2025-05-07T12:18:38Z</pubDate>
-            <guid isPermaLink="false">https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</guid>
-            <link>https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</link>
-            
-            
-            
-            <author><![CDATA[AlexeyBrin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Zed: High-performance AI Code Editor]]></title>
-            <description><![CDATA[473 points | <a href=https://news.ycombinator.com/item?id=43912844 target=_blank>313 comments</a>]]></description>
+            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=43912844 target=_blank>316 comments</a>]]></description>
             <pubDate>2025-05-07T06:38:40Z</pubDate>
             <guid isPermaLink="false">https://zed.dev/blog/fastest-ai-code-editor</guid>
             <link>https://zed.dev/blog/fastest-ai-code-editor</link>
@@ -66,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir]]></title>
-            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=43909430 target=_blank>553 comments</a>]]></description>
-            <pubDate>2025-05-06T20:41:47Z</pubDate>
-            <guid isPermaLink="false">https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/</guid>
-            <link>https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/</link>
+            <title><![CDATA[CLion Is Now Free for Non-Commercial Use]]></title>
+            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=43914705 target=_blank>302 comments</a>]]></description>
+            <pubDate>2025-05-07T12:18:38Z</pubDate>
+            <guid isPermaLink="false">https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</guid>
+            <link>https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</link>
             
             
             
-            <author><![CDATA[alephnerd]]></author>
+            <author><![CDATA[AlexeyBrin]]></author>
             
                 
             
@@ -83,7 +51,7 @@
         
         <item>
             <title><![CDATA[Unity’s Open-Source Double Standard: the ban of VLC]]></title>
-            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=43914832 target=_blank>117 comments</a>]]></description>
+            <description><![CDATA[444 points | <a href=https://news.ycombinator.com/item?id=43914832 target=_blank>120 comments</a>]]></description>
             <pubDate>2025-05-07T12:33:40Z</pubDate>
             <guid isPermaLink="false">https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html</guid>
             <link>https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html</link>
@@ -115,7 +83,7 @@
         
         <item>
             <title><![CDATA[Ty: A fast Python type checker and language server]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=43918484 target=_blank>91 comments</a>]]></description>
+            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=43918484 target=_blank>97 comments</a>]]></description>
             <pubDate>2025-05-07T17:32:26Z</pubDate>
             <guid isPermaLink="false">https://github.com/astral-sh/ty</guid>
             <link>https://github.com/astral-sh/ty</link>
@@ -131,7 +99,7 @@
         
         <item>
             <title><![CDATA[Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=43916577 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=43916577 target=_blank>85 comments</a>]]></description>
             <pubDate>2025-05-07T14:57:03Z</pubDate>
             <guid isPermaLink="false">https://pganalyze.com/blog/postgres-18-async-io</guid>
             <link>https://pganalyze.com/blog/postgres-18-async-io</link>
@@ -147,7 +115,7 @@
         
         <item>
             <title><![CDATA[So Much Blood]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=43913751 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=43913751 target=_blank>120 comments</a>]]></description>
             <pubDate>2025-05-07T09:41:13Z</pubDate>
             <guid isPermaLink="false">https://dynomight.net/blood/</guid>
             <link>https://dynomight.net/blood/</link>
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[Bloat is still software's biggest vulnerability (2024)]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=43910745 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=43910745 target=_blank>170 comments</a>]]></description>
             <pubDate>2025-05-06T23:33:54Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/lean-software-development</guid>
             <link>https://spectrum.ieee.org/lean-software-development</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[Bender]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[My quest to make motorcycle riding that tad bit safer]]></title>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=43914235 target=_blank>212 comments</a>]]></description>
+            <pubDate>2025-05-07T11:06:17Z</pubDate>
+            <guid isPermaLink="false">https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/</guid>
+            <link>https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/</link>
+            
+            
+            
+            <author><![CDATA[mygnu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FTC bans hidden fees for live events and short-term rentals, effective May 12]]></title>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=43910794 target=_blank>4 comments</a>]]></description>
+            <pubDate>2025-05-06T23:41:13Z</pubDate>
+            <guid isPermaLink="false">https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/</guid>
+            <link>https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/</link>
+            
+            
+            
+            <author><![CDATA[toomuchtodo]]></author>
             
                 
             
