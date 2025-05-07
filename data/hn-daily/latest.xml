@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Matt Godbolt sold me on Rust by showing me C++]]></title>
-            <description><![CDATA[534 points | <a href=https://news.ycombinator.com/item?id=43907820 target=_blank>503 comments</a>]]></description>
+            <description><![CDATA[534 points | <a href=https://news.ycombinator.com/item?id=43907820 target=_blank>506 comments</a>]]></description>
             <pubDate>2025-05-06T17:51:03Z</pubDate>
             <guid isPermaLink="false">https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/</guid>
             <link>https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Claude's system prompt is over 24k tokens with tools]]></title>
-            <description><![CDATA[519 points | <a href=https://news.ycombinator.com/item?id=43909409 target=_blank>262 comments</a>]]></description>
+            <description><![CDATA[521 points | <a href=https://news.ycombinator.com/item?id=43909409 target=_blank>266 comments</a>]]></description>
             <pubDate>2025-05-06T20:39:35Z</pubDate>
             <guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt</guid>
             <link>https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir]]></title>
-            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=43909430 target=_blank>537 comments</a>]]></description>
+            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=43909430 target=_blank>537 comments</a>]]></description>
             <pubDate>2025-05-06T20:41:47Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/</guid>
             <link>https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[CLion Is Now Free for Non-Commercial Use]]></title>
-            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=43914705 target=_blank>263 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=43914705 target=_blank>269 comments</a>]]></description>
             <pubDate>2025-05-07T12:18:38Z</pubDate>
             <guid isPermaLink="false">https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</guid>
             <link>https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Unity’s Open-Source Double Standard: the ban of VLC]]></title>
-            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=43914832 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[386 points | <a href=https://news.ycombinator.com/item?id=43914832 target=_blank>110 comments</a>]]></description>
             <pubDate>2025-05-07T12:33:40Z</pubDate>
             <guid isPermaLink="false">https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html</guid>
             <link>https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Zed: High-performance AI Code Editor]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=43912844 target=_blank>262 comments</a>]]></description>
+            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=43912844 target=_blank>266 comments</a>]]></description>
             <pubDate>2025-05-07T06:38:40Z</pubDate>
             <guid isPermaLink="false">https://zed.dev/blog/fastest-ai-code-editor</guid>
             <link>https://zed.dev/blog/fastest-ai-code-editor</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=43916577 target=_blank>64 comments</a>]]></description>
+            <pubDate>2025-05-07T14:57:03Z</pubDate>
+            <guid isPermaLink="false">https://pganalyze.com/blog/postgres-18-async-io</guid>
+            <link>https://pganalyze.com/blog/postgres-18-async-io</link>
+            
+            
+            
+            <author><![CDATA[lfittl]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Bloat is still software's biggest vulnerability (2024)]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=43910745 target=_blank>161 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=43910745 target=_blank>162 comments</a>]]></description>
             <pubDate>2025-05-06T23:33:54Z</pubDate>
             <guid isPermaLink="false">https://spectrum.ieee.org/lean-software-development</guid>
             <link>https://spectrum.ieee.org/lean-software-development</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[EPA Plans to Shut Down the Energy Star Program]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=43911252 target=_blank>252 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=43911252 target=_blank>256 comments</a>]]></description>
             <pubDate>2025-05-07T01:11:10Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html</guid>
             <link>https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html</link>
@@ -178,24 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=43916577 target=_blank>64 comments</a>]]></description>
-            <pubDate>2025-05-07T14:57:03Z</pubDate>
-            <guid isPermaLink="false">https://pganalyze.com/blog/postgres-18-async-io</guid>
-            <link>https://pganalyze.com/blog/postgres-18-async-io</link>
-            
-            
-            
-            <author><![CDATA[lfittl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[So Much Blood]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=43913751 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=43913751 target=_blank>94 comments</a>]]></description>
             <pubDate>2025-05-07T09:41:13Z</pubDate>
             <guid isPermaLink="false">https://dynomight.net/blood/</guid>
             <link>https://dynomight.net/blood/</link>
