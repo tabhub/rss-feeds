@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Zed: High-performance AI Code Editor]]></title>
-            <description><![CDATA[533 points | <a href=https://news.ycombinator.com/item?id=43912844 target=_blank>347 comments</a>]]></description>
+            <description><![CDATA[556 points | <a href=https://news.ycombinator.com/item?id=43912844 target=_blank>350 comments</a>]]></description>
             <pubDate>2025-05-07T06:38:40Z</pubDate>
             <guid isPermaLink="false">https://zed.dev/blog/fastest-ai-code-editor</guid>
             <link>https://zed.dev/blog/fastest-ai-code-editor</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[CLion Is Now Free for Non-Commercial Use]]></title>
-            <description><![CDATA[506 points | <a href=https://news.ycombinator.com/item?id=43914705 target=_blank>317 comments</a>]]></description>
-            <pubDate>2025-05-07T12:18:38Z</pubDate>
-            <guid isPermaLink="false">https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</guid>
-            <link>https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</link>
-            
-            
-            
-            <author><![CDATA[AlexeyBrin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ty: A fast Python type checker and language server]]></title>
-            <description><![CDATA[477 points | <a href=https://news.ycombinator.com/item?id=43918484 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[520 points | <a href=https://news.ycombinator.com/item?id=43918484 target=_blank>151 comments</a>]]></description>
             <pubDate>2025-05-07T17:32:26Z</pubDate>
             <guid isPermaLink="false">https://github.com/astral-sh/ty</guid>
             <link>https://github.com/astral-sh/ty</link>
@@ -66,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[CLion Is Now Free for Non-Commercial Use]]></title>
+            <description><![CDATA[519 points | <a href=https://news.ycombinator.com/item?id=43914705 target=_blank>321 comments</a>]]></description>
+            <pubDate>2025-05-07T12:18:38Z</pubDate>
+            <guid isPermaLink="false">https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</guid>
+            <link>https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/</link>
+            
+            
+            
+            <author><![CDATA[AlexeyBrin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Unity’s Open-Source Double Standard: the ban of VLC]]></title>
-            <description><![CDATA[461 points | <a href=https://news.ycombinator.com/item?id=43914832 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=43914832 target=_blank>132 comments</a>]]></description>
             <pubDate>2025-05-07T12:33:40Z</pubDate>
             <guid isPermaLink="false">https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html</guid>
             <link>https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[VVVVVV Source Code]]></title>
-            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=43910681 target=_blank>81 comments</a>]]></description>
-            <pubDate>2025-05-06T23:22:08Z</pubDate>
-            <guid isPermaLink="false">https://github.com/TerryCavanagh/VVVVVV</guid>
-            <link>https://github.com/TerryCavanagh/VVVVVV</link>
-            
-            
-            
-            <author><![CDATA[radeeyate]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=43916577 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=43916577 target=_blank>97 comments</a>]]></description>
             <pubDate>2025-05-07T14:57:03Z</pubDate>
             <guid isPermaLink="false">https://pganalyze.com/blog/postgres-18-async-io</guid>
             <link>https://pganalyze.com/blog/postgres-18-async-io</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[So Much Blood]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=43913751 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=43913751 target=_blank>148 comments</a>]]></description>
             <pubDate>2025-05-07T09:41:13Z</pubDate>
             <guid isPermaLink="false">https://dynomight.net/blood/</guid>
             <link>https://dynomight.net/blood/</link>
@@ -130,40 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Bloat is still software's biggest vulnerability (2024)]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=43910745 target=_blank>178 comments</a>]]></description>
-            <pubDate>2025-05-06T23:33:54Z</pubDate>
-            <guid isPermaLink="false">https://spectrum.ieee.org/lean-software-development</guid>
-            <link>https://spectrum.ieee.org/lean-software-development</link>
-            
-            
-            
-            <author><![CDATA[kristianp]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[EPA Plans to Shut Down the Energy Star Program]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=43911252 target=_blank>265 comments</a>]]></description>
-            <pubDate>2025-05-07T01:11:10Z</pubDate>
-            <guid isPermaLink="false">https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html</guid>
-            <link>https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html</link>
-            
-            
-            
-            <author><![CDATA[danso]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Mistral ships le chat – enterprise AI assistant that can run on prem]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=43916098 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=43916098 target=_blank>78 comments</a>]]></description>
             <pubDate>2025-05-07T14:24:09Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/news/le-chat-enterprise</guid>
             <link>https://mistral.ai/news/le-chat-enterprise</link>
@@ -178,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[EPA Plans to Shut Down the Energy Star Program]]></title>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=43911252 target=_blank>265 comments</a>]]></description>
+            <pubDate>2025-05-07T01:11:10Z</pubDate>
+            <guid isPermaLink="false">https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html</guid>
+            <link>https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html</link>
+            
+            
+            
+            <author><![CDATA[danso]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Jury orders NSO to pay $167M for hacking WhatsApp users]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=43911167 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=43911167 target=_blank>125 comments</a>]]></description>
             <pubDate>2025-05-07T00:54:19Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/</guid>
             <link>https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/</link>
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[My quest to make motorcycle riding that tad bit safer]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=43914235 target=_blank>232 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=43914235 target=_blank>247 comments</a>]]></description>
             <pubDate>2025-05-07T11:06:17Z</pubDate>
             <guid isPermaLink="false">https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/</guid>
             <link>https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[mygnu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)]]></title>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=43916956 target=_blank>39 comments</a>]]></description>
+            <pubDate>2025-05-07T15:26:43Z</pubDate>
+            <guid isPermaLink="false">https://github.com/ciromattia/kcc</guid>
+            <link>https://github.com/ciromattia/kcc</link>
+            
+            
+            
+            <author><![CDATA[seam_carver]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Open source Google Analytics replacement]]></title>
+            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=43918620 target=_blank>83 comments</a>]]></description>
+            <pubDate>2025-05-07T17:45:33Z</pubDate>
+            <guid isPermaLink="false">https://github.com/rybbit-io/rybbit</guid>
+            <link>https://github.com/rybbit-io/rybbit</link>
+            
+            
+            
+            <author><![CDATA[samdung]]></author>
             
                 
             
