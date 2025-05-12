@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #719]]></title>
+        <title><![CDATA[Perl Weekly #720]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Mojolicious and Docker part 2]]></title>
-            <description><![CDATA[Add an data base image to the docker compose file. Create an network between the and the app. Create and persists your db. Start the Docker in the containers in the correct order.]]></description>
-            <pubDate>2025.04.30</pubDate>
-            <guid isPermaLink="false">https://dev.to/dragostrif/mojolicious-and-docker-part-2-4gei</guid>
-            <link>https://dev.to/dragostrif/mojolicious-and-docker-part-2-4gei</link>
+            <title><![CDATA[Call for Papers! - Perl Community Conference, Summer 2025]]></title>
+            <description><![CDATA[This is a hybrid (in-person and virtual) conference being held in Austin, TX on July 3rd-4th.]]></description>
+            <pubDate>2025.05.11</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2025/05/call-for-papers---perl-community-conference-summer-2025.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2025/05/call-for-papers---perl-community-conference-summer-2025.html</link>
             
             
             
-            <author><![CDATA[dragos_trif]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Announce: Perl Wiki V 1.26]]></title>
-            <description><![CDATA[Announce: Perl Wiki V 1.26]]></description>
-            <pubDate>2025.05.02</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/05/announce-perl-wiki-v-126.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2025/05/announce-perl-wiki-v-126.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[oodler]]></author>
             
                 
             
@@ -50,11 +34,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Building `Map::Tube::<*>` maps, a HOWTO: weaving a web]]></title>
-            <description><![CDATA[A real tram network is more like a web of interconnecting lines. Although more lines mean more complexity, they allow Map::Tube to better reflect reality and thus be more useful and interesting.]]></description>
-            <pubDate>2025.05.02</pubDate>
-            <guid isPermaLink="false">https://dev.to/peateasea/building-maptube-maps-a-howto-weaving-a-web-209c</guid>
-            <link>https://dev.to/peateasea/building-maptube-maps-a-howto-weaving-a-web-209c</link>
+            <title><![CDATA[The sculpture shapes the sculptor.]]></title>
+            <description><![CDATA[Checkout the power of OpenSCAD and Perl together,]]></description>
+            <pubDate>2025.05.05</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2025/05/the-sculpture-shapes-the-sculptor.html</guid>
+            <link>https://blogs.perl.org/users/saif/2025/05/the-sculpture-shapes-the-sculptor.html</link>
+            
+            
+            
+            <author><![CDATA[saif_ahmed]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Building Map::Tube::<*> maps, a HOWTO: routing relative reality]]></title>
+            <description><![CDATA[Continue with the blog series, in this post dealing with complexity of multilines routing.]]></description>
+            <pubDate>2025.05.08</pubDate>
+            <guid isPermaLink="false">https://peateasea.de/building-map-tube-whatever-maps-a-howto-routing-relative-reality/</guid>
+            <link>https://peateasea.de/building-map-tube-whatever-maps-a-howto-routing-relative-reality/</link>
             
             
             
@@ -66,47 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Building Map::Tube::<*> maps, a HOWTO: extending the network]]></title>
-            <description><![CDATA[Building Map::Tube::<*> maps, a HOWTO: extending the network]]></description>
-            <pubDate>2025.04.30</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/building-map-tube-maps-a-howto-extending-the-network/</guid>
-            <link>https://www.perl.com/article/building-map-tube-maps-a-howto-extending-the-network/</link>
+            <title><![CDATA[2025.17/18 Coordinated Dancing]]></title>
+            <description><![CDATA[2025.17/18 Coordinated Dancing]]></description>
+            <pubDate>2025.05.05</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/05/05/2025-17-18-coordinated-dancing/</guid>
+            <link>https://rakudoweekly.blog/2025/05/05/2025-17-18-coordinated-dancing/</link>
             
             
             
-            <author><![CDATA[paul_cochrane]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Handling text encoding in Perl]]></title>
-            <description><![CDATA[When we are dealing with legacy applications, it’s very possible that the code we are looking at does not deal with Unicode characters, instead assuming all text is ASCII. This will cause a myriad of glitches and visual errors.<br>In 2025, after more than 30 years since Unicode was born, how is that possible that old applications still survive while ignoring or working around the whole issue?]]></description>
-            <pubDate>2025.04.29</pubDate>
-            <guid isPermaLink="false">https://www.endpointdev.com/blog/2025/04/encoding-in-perl/</guid>
-            <link>https://www.endpointdev.com/blog/2025/04/encoding-in-perl/</link>
-            
-            
-            
-            <author><![CDATA[melmothx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Tree::DAG_Node V 1.34 uploaded to CPAN]]></title>
-            <description><![CDATA[Tree::DAG_Node V 1.34 uploaded to CPAN]]></description>
-            <pubDate>2025.04.28</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/04/treedag-node-v-134-uploaded-to-cpan.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2025/04/treedag-node-v-134-uploaded-to-cpan.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/05/dxlvi-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;]]></description>
-            <pubDate>2025.05.03</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/05/dxlvii-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/05/dcvii-metacpan-weekly-report-constxs.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.05.11</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
