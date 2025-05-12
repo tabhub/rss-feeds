@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Plain Vanilla Web]]></title>
-            <description><![CDATA[943 points | <a href=https://news.ycombinator.com/item?id=43954896 target=_blank>468 comments</a>]]></description>
+            <description><![CDATA[959 points | <a href=https://news.ycombinator.com/item?id=43954896 target=_blank>472 comments</a>]]></description>
             <pubDate>2025-05-11T16:31:58Z</pubDate>
             <guid isPermaLink="false">https://plainvanillaweb.com/index.html</guid>
             <link>https://plainvanillaweb.com/index.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[I built a native Windows Todo app in pure C (278 KB, no frameworks)]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=43954649 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=43954649 target=_blank>169 comments</a>]]></description>
             <pubDate>2025-05-11T15:57:39Z</pubDate>
             <guid isPermaLink="false">https://github.com/Efeckc17/simple-todo-c</guid>
             <link>https://github.com/Efeckc17/simple-todo-c</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Car companies are in a billion-dollar software war]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=43955525 target=_blank>484 comments</a>]]></description>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=43955525 target=_blank>488 comments</a>]]></description>
             <pubDate>2025-05-11T17:51:04Z</pubDate>
             <guid isPermaLink="false">https://insideevs.com/features/759153/car-companies-software-companies/</guid>
             <link>https://insideevs.com/features/759153/car-companies-software-companies/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[In 2025, venture capital can't pretend everything is fine any more]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=43953884 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=43953884 target=_blank>232 comments</a>]]></description>
             <pubDate>2025-05-11T14:02:12Z</pubDate>
             <guid isPermaLink="false">https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/</guid>
             <link>https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[High-school shop students attract skilled-trades job offers]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=43954488 target=_blank>270 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43954488 target=_blank>273 comments</a>]]></description>
             <pubDate>2025-05-11T15:31:39Z</pubDate>
             <guid isPermaLink="false">https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257</guid>
             <link>https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257</link>
@@ -146,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Why Bell Labs Worked]]></title>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43957010 target=_blank>139 comments</a>]]></description>
+            <pubDate>2025-05-11T20:47:20Z</pubDate>
+            <guid isPermaLink="false">https://1517.substack.com/p/why-bell-labs-worked</guid>
+            <link>https://1517.substack.com/p/why-bell-labs-worked</link>
+            
+            
+            
+            <author><![CDATA[areoform]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The Epochalypse Project]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=43952714 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=43952714 target=_blank>79 comments</a>]]></description>
             <pubDate>2025-05-11T10:08:53Z</pubDate>
             <guid isPermaLink="false">https://epochalypse-project.org/</guid>
             <link>https://epochalypse-project.org/</link>
@@ -162,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Why Bell Labs Worked]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=43957010 target=_blank>135 comments</a>]]></description>
-            <pubDate>2025-05-11T20:47:20Z</pubDate>
-            <guid isPermaLink="false">https://1517.substack.com/p/why-bell-labs-worked</guid>
-            <link>https://1517.substack.com/p/why-bell-labs-worked</link>
+            <title><![CDATA[Scraperr – A Self Hosted Webscraper]]></title>
+            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=43955842 target=_blank>54 comments</a>]]></description>
+            <pubDate>2025-05-11T18:29:18Z</pubDate>
+            <guid isPermaLink="false">https://github.com/jaypyles/Scraperr</guid>
+            <link>https://github.com/jaypyles/Scraperr</link>
             
             
             
-            <author><![CDATA[areoform]]></author>
+            <author><![CDATA[jpyles]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[DanAtC]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Scraperr – A Self Hosted Webscraper]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=43955842 target=_blank>53 comments</a>]]></description>
-            <pubDate>2025-05-11T18:29:18Z</pubDate>
-            <guid isPermaLink="false">https://github.com/jaypyles/Scraperr</guid>
-            <link>https://github.com/jaypyles/Scraperr</link>
-            
-            
-            
-            <author><![CDATA[jpyles]]></author>
             
                 
             
