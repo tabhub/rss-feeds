@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The world could run on older hardware if software optimization was a priority]]></title>
-            <description><![CDATA[725 points | <a href=https://news.ycombinator.com/item?id=43971464 target=_blank>663 comments</a>]]></description>
-            <pubDate>2025-05-13T10:31:09Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/ID_AA_Carmack/status/1922100771392520710</guid>
-            <link>https://twitter.com/ID_AA_Carmack/status/1922100771392520710</link>
-            
-            
-            
-            <author><![CDATA[turrini]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Multiple security issues in GNU Screen]]></title>
             <description><![CDATA[386 points | <a href=https://news.ycombinator.com/item?id=43971716 target=_blank>234 comments</a>]]></description>
             <pubDate>2025-05-13T11:28:49Z</pubDate>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Branch Privilege Injection: Exploiting branch predictor race conditions]]></title>
-            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=43974891 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=43974891 target=_blank>161 comments</a>]]></description>
             <pubDate>2025-05-13T16:44:51Z</pubDate>
             <guid isPermaLink="false">https://comsec.ethz.ch/research/microarch/branch-privilege-injection/</guid>
             <link>https://comsec.ethz.ch/research/microarch/branch-privilege-injection/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Google is building its own DeX: First look at Android's Desktop Mode]]></title>
-            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=43973395 target=_blank>259 comments</a>]]></description>
+            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=43973395 target=_blank>263 comments</a>]]></description>
             <pubDate>2025-05-13T14:30:35Z</pubDate>
             <guid isPermaLink="false">https://www.androidauthority.com/android-desktop-mode-leak-3550321/</guid>
             <link>https://www.androidauthority.com/android-desktop-mode-leak-3550321/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[PDF to Text, a challenging problem]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=43973721 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=43973721 target=_blank>168 comments</a>]]></description>
             <pubDate>2025-05-13T15:01:09Z</pubDate>
             <guid isPermaLink="false">https://www.marginalia.nu/log/a_119_pdf/</guid>
             <link>https://www.marginalia.nu/log/a_119_pdf/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Flattening Rust’s learning curve]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=43978435 target=_blank>207 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=43978435 target=_blank>211 comments</a>]]></description>
             <pubDate>2025-05-13T22:25:29Z</pubDate>
             <guid isPermaLink="false">https://corrode.dev/blog/flattening-rusts-learning-curve/</guid>
             <link>https://corrode.dev/blog/flattening-rusts-learning-curve/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Bus stops here: Shanghai lets riders design their own routes]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=43980845 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=43980845 target=_blank>187 comments</a>]]></description>
             <pubDate>2025-05-14T04:33:21Z</pubDate>
             <guid isPermaLink="false">https://www.sixthtone.com/news/1017072</guid>
             <link>https://www.sixthtone.com/news/1017072</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Type-constrained code generation with language models]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=43978357 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=43978357 target=_blank>87 comments</a>]]></description>
             <pubDate>2025-05-13T22:15:30Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2504.09246</guid>
             <link>https://arxiv.org/abs/2504.09246</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[I failed a take-home assignment from Kagi Search]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=43980036 target=_blank>189 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=43980036 target=_blank>191 comments</a>]]></description>
             <pubDate>2025-05-14T02:17:33Z</pubDate>
             <guid isPermaLink="false">https://bloggeroo.dev/articles/202504031434</guid>
             <link>https://bloggeroo.dev/articles/202504031434</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[josecodea]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses]]></title>
+            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=43972425 target=_blank>101 comments</a>]]></description>
+            <pubDate>2025-05-13T12:56:42Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=43972425</guid>
+            <link>https://news.ycombinator.com/item?id=43972425</link>
+            
+            
+            
+            <author><![CDATA[bestwillcui]]></author>
             
                 
             
