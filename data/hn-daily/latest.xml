@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Branch Privilege Injection: Exploiting branch predictor race conditions]]></title>
-            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=43974891 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=43974891 target=_blank>165 comments</a>]]></description>
             <pubDate>2025-05-13T16:44:51Z</pubDate>
             <guid isPermaLink="false">https://comsec.ethz.ch/research/microarch/branch-privilege-injection/</guid>
             <link>https://comsec.ethz.ch/research/microarch/branch-privilege-injection/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Google is building its own DeX: First look at Android's Desktop Mode]]></title>
-            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=43973395 target=_blank>294 comments</a>]]></description>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=43973395 target=_blank>310 comments</a>]]></description>
             <pubDate>2025-05-13T14:30:35Z</pubDate>
             <guid isPermaLink="false">https://www.androidauthority.com/android-desktop-mode-leak-3550321/</guid>
             <link>https://www.androidauthority.com/android-desktop-mode-leak-3550321/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[In a high-stress work environment, prioritize relationships]]></title>
-            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=43972535 target=_blank>202 comments</a>]]></description>
-            <pubDate>2025-05-13T13:08:52Z</pubDate>
-            <guid isPermaLink="false">https://wqtz.bearblog.dev/high-stress-job-relationships/</guid>
-            <link>https://wqtz.bearblog.dev/high-stress-job-relationships/</link>
-            
-            
-            
-            <author><![CDATA[wqtz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Flattening Rust’s learning curve]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=43978435 target=_blank>242 comments</a>]]></description>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=43978435 target=_blank>251 comments</a>]]></description>
             <pubDate>2025-05-13T22:25:29Z</pubDate>
             <guid isPermaLink="false">https://corrode.dev/blog/flattening-rusts-learning-curve/</guid>
             <link>https://corrode.dev/blog/flattening-rusts-learning-curve/</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[In a high-stress work environment, prioritize relationships]]></title>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=43972535 target=_blank>202 comments</a>]]></description>
+            <pubDate>2025-05-13T13:08:52Z</pubDate>
+            <guid isPermaLink="false">https://wqtz.bearblog.dev/high-stress-job-relationships/</guid>
+            <link>https://wqtz.bearblog.dev/high-stress-job-relationships/</link>
+            
+            
+            
+            <author><![CDATA[wqtz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[PDF to Text, a challenging problem]]></title>
-            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=43973721 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=43973721 target=_blank>175 comments</a>]]></description>
             <pubDate>2025-05-13T15:01:09Z</pubDate>
             <guid isPermaLink="false">https://www.marginalia.nu/log/a_119_pdf/</guid>
             <link>https://www.marginalia.nu/log/a_119_pdf/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Bus stops here: Shanghai lets riders design their own routes]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=43980845 target=_blank>203 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=43980845 target=_blank>217 comments</a>]]></description>
             <pubDate>2025-05-14T04:33:21Z</pubDate>
             <guid isPermaLink="false">https://www.sixthtone.com/news/1017072</guid>
             <link>https://www.sixthtone.com/news/1017072</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Why are banks still getting authentication so wrong?]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=43976359 target=_blank>343 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=43976359 target=_blank>344 comments</a>]]></description>
             <pubDate>2025-05-13T18:56:11Z</pubDate>
             <guid isPermaLink="false">https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/</guid>
             <link>https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Writing that changed how I think about programming languages]]></title>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=43980760 target=_blank>24 comments</a>]]></description>
+            <pubDate>2025-05-14T04:19:00Z</pubDate>
+            <guid isPermaLink="false">https://bernsteinbear.com/blog/pl-writing/</guid>
+            <link>https://bernsteinbear.com/blog/pl-writing/</link>
+            
+            
+            
+            <author><![CDATA[r4um]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Why I'm resigning from the National Science Foundation]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=43973210 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=43973210 target=_blank>277 comments</a>]]></description>
             <pubDate>2025-05-13T14:13:32Z</pubDate>
             <guid isPermaLink="false">https://time.com/7285045/resigning-national-science-foundation-library-congress/</guid>
             <link>https://time.com/7285045/resigning-national-science-foundation-library-congress/</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Type-constrained code generation with language models]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=43978357 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=43978357 target=_blank>97 comments</a>]]></description>
             <pubDate>2025-05-13T22:15:30Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2504.09246</guid>
             <link>https://arxiv.org/abs/2504.09246</link>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Writing that changed how I think about programming languages]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=43980760 target=_blank>21 comments</a>]]></description>
-            <pubDate>2025-05-14T04:19:00Z</pubDate>
-            <guid isPermaLink="false">https://bernsteinbear.com/blog/pl-writing/</guid>
-            <link>https://bernsteinbear.com/blog/pl-writing/</link>
-            
-            
-            
-            <author><![CDATA[r4um]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I failed a take-home assignment from Kagi Search]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=43980036 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=43980036 target=_blank>199 comments</a>]]></description>
             <pubDate>2025-05-14T02:17:33Z</pubDate>
             <guid isPermaLink="false">https://bloggeroo.dev/articles/202504031434</guid>
             <link>https://bloggeroo.dev/articles/202504031434</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=43975423 target=_blank>82 comments</a>]]></description>
-            <pubDate>2025-05-13T17:26:38Z</pubDate>
-            <guid isPermaLink="false">https://github.com/HelixDB/helix-db/</guid>
-            <link>https://github.com/HelixDB/helix-db/</link>
+            <title><![CDATA[Airbnb is in midlife crisis mode]]></title>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=43976557 target=_blank>395 comments</a>]]></description>
+            <pubDate>2025-05-13T19:17:54Z</pubDate>
+            <guid isPermaLink="false">https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/</guid>
+            <link>https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/</link>
             
             
             
-            <author><![CDATA[GeorgeCurtis]]></author>
+            <author><![CDATA[thomasjudge]]></author>
             
                 
             
