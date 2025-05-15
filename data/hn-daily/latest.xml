@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms]]></title>
-            <description><![CDATA[791 points | <a href=https://news.ycombinator.com/item?id=43985489 target=_blank>212 comments</a>]]></description>
+            <description><![CDATA[798 points | <a href=https://news.ycombinator.com/item?id=43985489 target=_blank>219 comments</a>]]></description>
             <pubDate>2025-05-14T15:10:15Z</pubDate>
             <guid isPermaLink="false">https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</guid>
             <link>https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[What is HDR, anyway?]]></title>
-            <description><![CDATA[590 points | <a href=https://news.ycombinator.com/item?id=43983871 target=_blank>279 comments</a>]]></description>
+            <description><![CDATA[598 points | <a href=https://news.ycombinator.com/item?id=43983871 target=_blank>280 comments</a>]]></description>
             <pubDate>2025-05-14T12:46:39Z</pubDate>
             <guid isPermaLink="false">https://www.lux.camera/what-is-hdr/</guid>
             <link>https://www.lux.camera/what-is-hdr/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[SMS 2FA is not just insecure, it's also hostile to mountain people]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=43984297 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[366 points | <a href=https://news.ycombinator.com/item?id=43984297 target=_blank>285 comments</a>]]></description>
             <pubDate>2025-05-14T13:28:24Z</pubDate>
             <guid isPermaLink="false">https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people</guid>
             <link>https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Databricks acquires Neon]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=43982777 target=_blank>197 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=43982777 target=_blank>197 comments</a>]]></description>
             <pubDate>2025-05-14T10:10:00Z</pubDate>
             <guid isPermaLink="false">https://www.databricks.com/blog/databricks-neon</guid>
             <link>https://www.databricks.com/blog/databricks-neon</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[A server that wasn't meant to exist]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=43985971 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=43985971 target=_blank>88 comments</a>]]></description>
             <pubDate>2025-05-14T15:50:30Z</pubDate>
             <guid isPermaLink="false">https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/</guid>
             <link>https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[How to Build a Smartwatch: Picking a Chip]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=43981680 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=43981680 target=_blank>106 comments</a>]]></description>
             <pubDate>2025-05-14T07:02:54Z</pubDate>
             <guid isPermaLink="false">https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/</guid>
             <link>https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[The cryptography behind passkeys]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=43983159 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=43983159 target=_blank>174 comments</a>]]></description>
             <pubDate>2025-05-14T11:22:39Z</pubDate>
             <guid isPermaLink="false">https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/</guid>
             <link>https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[LLMs get lost in multi-turn conversation]]></title>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=43991256 target=_blank>110 comments</a>]]></description>
+            <pubDate>2025-05-15T02:28:42Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2505.06120</guid>
+            <link>https://arxiv.org/abs/2505.06120</link>
+            
+            
+            
+            <author><![CDATA[simonpure]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Perverse incentives of vibe coding]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43988315 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=43988315 target=_blank>190 comments</a>]]></description>
             <pubDate>2025-05-14T19:29:38Z</pubDate>
             <guid isPermaLink="false">https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee</guid>
             <link>https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Wise refuses to let us access our $60k AUD]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=43981582 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=43981582 target=_blank>140 comments</a>]]></description>
             <pubDate>2025-05-14T06:46:08Z</pubDate>
             <guid isPermaLink="false">https://hey.paris/posts/wise/</guid>
             <link>https://hey.paris/posts/wise/</link>
@@ -162,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Human]]></title>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=43991396 target=_blank>73 comments</a>]]></description>
+            <pubDate>2025-05-15T02:57:19Z</pubDate>
+            <guid isPermaLink="false">https://quarter--mile.com/Human</guid>
+            <link>https://quarter--mile.com/Human</link>
+            
+            
+            
+            <author><![CDATA[surprisetalk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Show HN: Muscle-Mem, a behavior cache for AI agents]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=43988381 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=43988381 target=_blank>40 comments</a>]]></description>
             <pubDate>2025-05-14T19:38:26Z</pubDate>
             <guid isPermaLink="false">https://github.com/pig-dot-dev/muscle-mem</guid>
             <link>https://github.com/pig-dot-dev/muscle-mem</link>
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[edunteman]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LLMs get lost in multi-turn conversation]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=43991256 target=_blank>104 comments</a>]]></description>
-            <pubDate>2025-05-15T02:28:42Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2505.06120</guid>
-            <link>https://arxiv.org/abs/2505.06120</link>
-            
-            
-            
-            <author><![CDATA[simonpure]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Copaganda: How Police and the Media Manipulate Our News]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=43990333 target=_blank>53 comments</a>]]></description>
-            <pubDate>2025-05-14T23:39:09Z</pubDate>
-            <guid isPermaLink="false">https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news</guid>
-            <link>https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news</link>
-            
-            
-            
-            <author><![CDATA[pavel_lishin]]></author>
             
                 
             
