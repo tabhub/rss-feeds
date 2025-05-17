@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Thoughts on thinking]]></title>
-            <description><![CDATA[560 points | <a href=https://news.ycombinator.com/item?id=44008843 target=_blank>361 comments</a>]]></description>
+            <description><![CDATA[561 points | <a href=https://news.ycombinator.com/item?id=44008843 target=_blank>361 comments</a>]]></description>
             <pubDate>2025-05-16T19:09:55Z</pubDate>
             <guid isPermaLink="false">https://dcurt.is/thinking</guid>
             <link>https://dcurt.is/thinking</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Getting AI to write good SQL]]></title>
-            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=44009848 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=44009848 target=_blank>282 comments</a>]]></description>
             <pubDate>2025-05-16T21:10:12Z</pubDate>
             <guid isPermaLink="false">https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql</guid>
             <link>https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=44006381 target=_blank>429 comments</a>]]></description>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=44006381 target=_blank>429 comments</a>]]></description>
             <pubDate>2025-05-16T15:05:32Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44006381</guid>
             <link>https://news.ycombinator.com/item?id=44006381</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Visual flow-based programming for Erlang, inspired by Node-RED]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=44006231 target=_blank>96 comments</a>]]></description>
-            <pubDate>2025-05-16T14:54:13Z</pubDate>
-            <guid isPermaLink="false">https://github.com/gorenje/erlang-red</guid>
-            <link>https://github.com/gorenje/erlang-red</link>
-            
-            
-            
-            <author><![CDATA[Towaway69]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[JavaScript's New Superpower: Explicit Resource Management]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=44012227 target=_blank>129 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=44012227 target=_blank>131 comments</a>]]></description>
             <pubDate>2025-05-17T05:23:20Z</pubDate>
             <guid isPermaLink="false">https://v8.dev/features/explicit-resource-management</guid>
             <link>https://v8.dev/features/explicit-resource-management</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[ClojureScript 1.12.42]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=44009464 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=44009464 target=_blank>36 comments</a>]]></description>
             <pubDate>2025-05-16T20:20:20Z</pubDate>
             <guid isPermaLink="false">https://clojurescript.org/news/2025-05-16-release</guid>
             <link>https://clojurescript.org/news/2025-05-16-release</link>
@@ -187,6 +171,22 @@
             
             
             <author><![CDATA[Borkdude]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[XTool – Cross-platform Xcode replacement]]></title>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=44011515 target=_blank>46 comments</a>]]></description>
+            <pubDate>2025-05-17T02:10:36Z</pubDate>
+            <guid isPermaLink="false">https://github.com/xtool-org/xtool</guid>
+            <link>https://github.com/xtool-org/xtool</link>
+            
+            
+            
+            <author><![CDATA[TheWiggles]]></author>
             
                 
             
