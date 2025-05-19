@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #720]]></title>
+        <title><![CDATA[Perl Weekly #721]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -34,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The sculpture shapes the sculptor.]]></title>
-            <description><![CDATA[Checkout the power of OpenSCAD and Perl together,]]></description>
-            <pubDate>2025.05.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2025/05/the-sculpture-shapes-the-sculptor.html</guid>
-            <link>https://blogs.perl.org/users/saif/2025/05/the-sculpture-shapes-the-sculptor.html</link>
+            <title><![CDATA[Sustainability, Resilience and Fun: Impressions from the German Perl/Raku Workshop 2025]]></title>
+            <description><![CDATA[Sustainability, Resilience and Fun: Impressions from the German Perl/Raku Workshop 2025]]></description>
+            <pubDate>2025.05.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/martin/2025/05/sustainability-resilience-and-fun-impressions-from-german-perlraku-workshop-2025.html</guid>
+            <link>https://blogs.perl.org/users/martin/2025/05/sustainability-resilience-and-fun-impressions-from-german-perlraku-workshop-2025.html</link>
             
             
             
-            <author><![CDATA[saif_ahmed]]></author>
+            <author><![CDATA[martin]]></author>
             
                 
             
@@ -50,11 +50,59 @@
         </item>
         
         <item>
-            <title><![CDATA[Building Map::Tube::<*> maps, a HOWTO: routing relative reality]]></title>
-            <description><![CDATA[Continue with the blog series, in this post dealing with complexity of multilines routing.]]></description>
-            <pubDate>2025.05.08</pubDate>
-            <guid isPermaLink="false">https://peateasea.de/building-map-tube-whatever-maps-a-howto-routing-relative-reality/</guid>
-            <link>https://peateasea.de/building-map-tube-whatever-maps-a-howto-routing-relative-reality/</link>
+            <title><![CDATA[CVE-2024-56406]]></title>
+            <description><![CDATA[CVE-2024-56406]]></description>
+            <pubDate>2025.05.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mohammad_s_anwar/2025/05/cve-2024-56406.html</guid>
+            <link>https://blogs.perl.org/users/mohammad_s_anwar/2025/05/cve-2024-56406.html</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Monitoring a Plack Application with SlapbirdAPM]]></title>
+            <description><![CDATA[SlapbirdAPM is a free and open-source application performance monitoring (APM) platform specifically designed for Perl web applications.]]></description>
+            <pubDate>2025.05.16</pubDate>
+            <guid isPermaLink="false">https://dev.to/rawleyfowler/monitoring-a-plack-application-with-slapbirdapm-1mh</guid>
+            <link>https://dev.to/rawleyfowler/monitoring-a-plack-application-with-slapbirdapm-1mh</link>
+            
+            
+            
+            <author><![CDATA[rawley_fowler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Turning AI into a Developer Superpower: The PERL5LIB Auto-Setter]]></title>
+            <description><![CDATA[Dave is using ChatGPT to build small tools. It is like having a superpowered pair programmer.]]></description>
+            <pubDate>2025.05.14</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/05/turning-ai-into-a-developer-superpower-the-perl5lib-auto-setter/</guid>
+            <link>https://perlhacks.com/2025/05/turning-ai-into-a-developer-superpower-the-perl5lib-auto-setter/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Building Map::Tube::<*> maps, a HOWTO: weaving a web]]></title>
+            <description><![CDATA[A real tram network is more like a web of interconnecting lines. Although more lines mean more complexity, they allow Map::Tube to better reflect reality and thus be more useful and interesting.]]></description>
+            <pubDate>2025.05.18</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/building-map-tube-maps-a-howto-weaving-a-web/</guid>
+            <link>https://www.perl.com/article/building-map-tube-maps-a-howto-weaving-a-web/</link>
             
             
             
@@ -66,63 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.17/18 Coordinated Dancing]]></title>
-            <description><![CDATA[2025.17/18 Coordinated Dancing]]></description>
-            <pubDate>2025.05.05</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/05/05/2025-17-18-coordinated-dancing/</guid>
-            <link>https://rakudoweekly.blog/2025/05/05/2025-17-18-coordinated-dancing/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/05/dxlvii-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/05/dcvii-metacpan-weekly-report-constxs.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.05.11</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/05/dxlviii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.05.17</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[German Perl/Raku Workshop Conference 2025]]></title>
-            <description><![CDATA[Munich, Germany]]></description>
-            
-            <guid isPermaLink="false">https://act.yapc.eu/gpw2025/</guid>
-            <link>https://act.yapc.eu/gpw2025/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[Paris, France]]></description>
-            
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
