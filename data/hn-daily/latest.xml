@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[OpenAI to buy AI startup from Jony Ive]]></title>
-            <description><![CDATA[792 points | <a href=https://news.ycombinator.com/item?id=44053518 target=_blank>1077 comments</a>]]></description>
+            <description><![CDATA[792 points | <a href=https://news.ycombinator.com/item?id=44053518 target=_blank>1078 comments</a>]]></description>
             <pubDate>2025-05-21T17:01:35Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal</guid>
             <link>https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Gemini Diffusion]]></title>
-            <description><![CDATA[764 points | <a href=https://news.ycombinator.com/item?id=44057820 target=_blank>202 comments</a>]]></description>
+            <description><![CDATA[772 points | <a href=https://news.ycombinator.com/item?id=44057820 target=_blank>203 comments</a>]]></description>
             <pubDate>2025-05-22T01:13:50Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2025/May/21/gemini-diffusion/</guid>
             <link>https://simonwillison.net/2025/May/21/gemini-diffusion/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[By default, Signal doesn't recall]]></title>
-            <description><![CDATA[534 points | <a href=https://news.ycombinator.com/item?id=44053364 target=_blank>445 comments</a>]]></description>
+            <description><![CDATA[535 points | <a href=https://news.ycombinator.com/item?id=44053364 target=_blank>446 comments</a>]]></description>
             <pubDate>2025-05-21T16:46:53Z</pubDate>
             <guid isPermaLink="false">https://signal.org/blog/signal-doesnt-recall/</guid>
             <link>https://signal.org/blog/signal-doesnt-recall/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[The scientific “unit” we call the decibel]]></title>
-            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=44058778 target=_blank>384 comments</a>]]></description>
+            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=44058778 target=_blank>390 comments</a>]]></description>
             <pubDate>2025-05-22T04:24:33Z</pubDate>
             <guid isPermaLink="false">https://lcamtuf.substack.com/p/decibels-are-ridiculous</guid>
             <link>https://lcamtuf.substack.com/p/decibels-are-ridiculous</link>
@@ -82,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Claude 4]]></title>
+            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=44063703 target=_blank>159 comments</a>]]></description>
+            <pubDate>2025-05-22T16:34:42Z</pubDate>
+            <guid isPermaLink="false">https://www.anthropic.com/news/claude-4</guid>
+            <link>https://www.anthropic.com/news/claude-4</link>
+            
+            
+            
+            <author><![CDATA[meetpateltech]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[For algorithms, a little memory outweighs a lot of time]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=44055347 target=_blank>107 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=44055347 target=_blank>108 comments</a>]]></description>
             <pubDate>2025-05-21T19:34:20Z</pubDate>
             <guid isPermaLink="false">https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/</guid>
             <link>https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/</link>
@@ -98,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Claude 4]]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=44063703 target=_blank>93 comments</a>]]></description>
-            <pubDate>2025-05-22T16:34:42Z</pubDate>
-            <guid isPermaLink="false">https://www.anthropic.com/news/claude-4</guid>
-            <link>https://www.anthropic.com/news/claude-4</link>
+            <title><![CDATA[Collaborative Text Editing Without CRDTs or OT]]></title>
+            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=44053560 target=_blank>70 comments</a>]]></description>
+            <pubDate>2025-05-21T17:05:45Z</pubDate>
+            <guid isPermaLink="false">https://mattweidner.com/2025/05/21/text-without-crdts.html</guid>
+            <link>https://mattweidner.com/2025/05/21/text-without-crdts.html</link>
             
             
             
-            <author><![CDATA[meetpateltech]]></author>
+            <author><![CDATA[samwillis]]></author>
             
                 
             
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Collaborative Text Editing Without CRDTs or OT]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=44053560 target=_blank>70 comments</a>]]></description>
-            <pubDate>2025-05-21T17:05:45Z</pubDate>
-            <guid isPermaLink="false">https://mattweidner.com/2025/05/21/text-without-crdts.html</guid>
-            <link>https://mattweidner.com/2025/05/21/text-without-crdts.html</link>
-            
-            
-            
-            <author><![CDATA[samwillis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Why does Debian change software?]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=44059411 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=44059411 target=_blank>171 comments</a>]]></description>
             <pubDate>2025-05-22T06:50:28Z</pubDate>
             <guid isPermaLink="false">https://blog.liw.fi/posts/2025/why-debian-changes/</guid>
             <link>https://blog.liw.fi/posts/2025/why-debian-changes/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Planetfall]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=44060305 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=44060305 target=_blank>50 comments</a>]]></description>
             <pubDate>2025-05-22T09:17:57Z</pubDate>
             <guid isPermaLink="false">https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/</guid>
             <link>https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Display any CSV file as a searchable, filterable, pretty HTML table]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=44057612 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=44057612 target=_blank>59 comments</a>]]></description>
             <pubDate>2025-05-22T00:31:01Z</pubDate>
             <guid isPermaLink="false">https://github.com/derekeder/csv-to-html-table</guid>
             <link>https://github.com/derekeder/csv-to-html-table</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Improving performance of rav1d video decoder]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=44061160 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=44061160 target=_blank>63 comments</a>]]></description>
             <pubDate>2025-05-22T11:59:03Z</pubDate>
             <guid isPermaLink="false">https://ohadravid.github.io/posts/2025-05-rav1d-faster/</guid>
             <link>https://ohadravid.github.io/posts/2025-05-rav1d-faster/</link>
