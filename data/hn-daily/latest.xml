@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Trump administration halts Harvard's ability to enroll international students]]></title>
-            <description><![CDATA[835 points | <a href=https://news.ycombinator.com/item?id=44064631 target=_blank>921 comments</a>]]></description>
-            <pubDate>2025-05-22T17:48:05Z</pubDate>
-            <guid isPermaLink="false">https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html</guid>
-            <link>https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html</link>
-            
-            
-            
-            <author><![CDATA[S0y]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[John Carmack talk at Upper Bound 2025]]></title>
-            <description><![CDATA[395 points | <a href=https://news.ycombinator.com/item?id=44070042 target=_blank>258 comments</a>]]></description>
+            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=44070042 target=_blank>262 comments</a>]]></description>
             <pubDate>2025-05-23T05:14:16Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/ID_AA_Carmack/status/1925710474366034326</guid>
             <link>https://twitter.com/ID_AA_Carmack/status/1925710474366034326</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: Defuddle, an HTML-to-Markdown alternative to Readability]]></title>
-            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=44067409 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=44067409 target=_blank>61 comments</a>]]></description>
             <pubDate>2025-05-22T21:40:54Z</pubDate>
             <guid isPermaLink="false">https://github.com/kepano/defuddle</guid>
             <link>https://github.com/kepano/defuddle</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Postgres IDE in VS Code]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=44073588 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=44073588 target=_blank>154 comments</a>]]></description>
             <pubDate>2025-05-23T15:12:44Z</pubDate>
             <guid isPermaLink="false">https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648</guid>
             <link>https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Does Earth have two high-tide bulges on opposite sides? (2014)]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=44065458 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=44065458 target=_blank>84 comments</a>]]></description>
             <pubDate>2025-05-22T18:58:25Z</pubDate>
             <guid isPermaLink="false">http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides</guid>
             <link>http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[The copilot delusion]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=44068525 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=44068525 target=_blank>174 comments</a>]]></description>
             <pubDate>2025-05-23T00:15:56Z</pubDate>
             <guid isPermaLink="false">https://deplet.ing/the-copilot-delusion/</guid>
             <link>https://deplet.ing/the-copilot-delusion/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[OpenAI: Scaling PostgreSQL to the Next Level]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=44071418 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=44071418 target=_blank>112 comments</a>]]></description>
             <pubDate>2025-05-23T09:54:38Z</pubDate>
             <guid isPermaLink="false">https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level</guid>
             <link>https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level</link>
@@ -139,6 +123,22 @@
             
             
             <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Why I no longer have an old-school cert on my HTTPS site]]></title>
+            <description><![CDATA[144 points | <a href=https://news.ycombinator.com/item?id=44071690 target=_blank>125 comments</a>]]></description>
+            <pubDate>2025-05-23T10:56:12Z</pubDate>
+            <guid isPermaLink="false">https://rachelbythebay.com/w/2025/05/22/ssl/</guid>
+            <link>https://rachelbythebay.com/w/2025/05/22/ssl/</link>
+            
+            
+            
+            <author><![CDATA[mcbain]]></author>
             
                 
             
@@ -162,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Why I no longer have an old-school cert on my HTTPS site]]></title>
-            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=44071690 target=_blank>115 comments</a>]]></description>
-            <pubDate>2025-05-23T10:56:12Z</pubDate>
-            <guid isPermaLink="false">https://rachelbythebay.com/w/2025/05/22/ssl/</guid>
-            <link>https://rachelbythebay.com/w/2025/05/22/ssl/</link>
-            
-            
-            
-            <author><![CDATA[mcbain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Sketchy Calendar]]></title>
             <description><![CDATA[136 points | <a href=https://news.ycombinator.com/item?id=44068204 target=_blank>35 comments</a>]]></description>
             <pubDate>2025-05-22T23:19:36Z</pubDate>
@@ -194,15 +178,31 @@
         </item>
         
         <item>
-            <title><![CDATA[The "AI 2027" Scenario: How realistic is it?]]></title>
-            <description><![CDATA[124 points | <a href=https://news.ycombinator.com/item?id=44064504 target=_blank>199 comments</a>]]></description>
-            <pubDate>2025-05-22T17:37:50Z</pubDate>
-            <guid isPermaLink="false">https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic</guid>
-            <link>https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic</link>
+            <title><![CDATA[Find Your People]]></title>
+            <description><![CDATA[127 points | <a href=https://news.ycombinator.com/item?id=44074017 target=_blank>55 comments</a>]]></description>
+            <pubDate>2025-05-23T16:02:02Z</pubDate>
+            <guid isPermaLink="false">https://foundersatwork.posthaven.com/find-your-people</guid>
+            <link>https://foundersatwork.posthaven.com/find-your-people</link>
             
             
             
-            <author><![CDATA[NotInOurNames]]></author>
+            <author><![CDATA[jl]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Loading Pydantic models from JSON without running out of memory]]></title>
+            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=44064875 target=_blank>43 comments</a>]]></description>
+            <pubDate>2025-05-22T18:06:37Z</pubDate>
+            <guid isPermaLink="false">https://pythonspeed.com/articles/pydantic-json-memory/</guid>
+            <link>https://pythonspeed.com/articles/pydantic-json-memory/</link>
+            
+            
+            
+            <author><![CDATA[itamarst]]></author>
             
                 
             
