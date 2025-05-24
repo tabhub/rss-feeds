@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Root for your friends]]></title>
-            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=44077533 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=44077533 target=_blank>140 comments</a>]]></description>
             <pubDate>2025-05-23T23:28:11Z</pubDate>
             <guid isPermaLink="false">https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</guid>
             <link>https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Why Algebraic Effects?]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=44078434 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=44078434 target=_blank>160 comments</a>]]></description>
             <pubDate>2025-05-24T03:00:53Z</pubDate>
             <guid isPermaLink="false">https://antelang.org/blog/why_effects/</guid>
             <link>https://antelang.org/blog/why_effects/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Show HN: Rotary Phone Dial Linux Kernel Driver]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=44080803 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=44080803 target=_blank>34 comments</a>]]></description>
             <pubDate>2025-05-24T13:02:00Z</pubDate>
             <guid isPermaLink="false">https://gitlab.com/sephalon/rotary_dial_kmod</guid>
             <link>https://gitlab.com/sephalon/rotary_dial_kmod</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[I used o3 to find a remote zeroday in the Linux SMB implementation]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=44081338 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=44081338 target=_blank>70 comments</a>]]></description>
             <pubDate>2025-05-24T14:25:45Z</pubDate>
             <guid isPermaLink="false">https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/</guid>
             <link>https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[You're a little company, now act like one]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=44081494 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=44081494 target=_blank>30 comments</a>]]></description>
             <pubDate>2025-05-24T14:49:02Z</pubDate>
             <guid isPermaLink="false">https://longform.asmartbear.com/little-company/</guid>
             <link>https://longform.asmartbear.com/little-company/</link>
@@ -130,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2]]></title>
+            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=44080533 target=_blank>59 comments</a>]]></description>
+            <pubDate>2025-05-24T12:06:06Z</pubDate>
+            <guid isPermaLink="false">https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/</guid>
+            <link>https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/</link>
+            
+            
+            
+            <author><![CDATA[DamonHD]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ask HN: Go deep into AI/LLMs or just use them as tools?]]></title>
             <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=44079303 target=_blank>121 comments</a>]]></description>
             <pubDate>2025-05-24T07:05:46Z</pubDate>
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2]]></title>
-            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=44080533 target=_blank>59 comments</a>]]></description>
-            <pubDate>2025-05-24T12:06:06Z</pubDate>
-            <guid isPermaLink="false">https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/</guid>
-            <link>https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/</link>
-            
-            
-            
-            <author><![CDATA[DamonHD]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)]]></title>
-            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=44080549 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=44080549 target=_blank>33 comments</a>]]></description>
             <pubDate>2025-05-24T12:08:15Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html</guid>
             <link>https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html</link>
