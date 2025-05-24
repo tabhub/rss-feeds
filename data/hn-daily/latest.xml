@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Postgres IDE in VS Code]]></title>
-            <description><![CDATA[803 points | <a href=https://news.ycombinator.com/item?id=44073588 target=_blank>323 comments</a>]]></description>
+            <description><![CDATA[810 points | <a href=https://news.ycombinator.com/item?id=44073588 target=_blank>323 comments</a>]]></description>
             <pubDate>2025-05-23T15:12:44Z</pubDate>
             <guid isPermaLink="false">https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648</guid>
             <link>https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Find Your People]]></title>
-            <description><![CDATA[510 points | <a href=https://news.ycombinator.com/item?id=44074017 target=_blank>194 comments</a>]]></description>
+            <description><![CDATA[517 points | <a href=https://news.ycombinator.com/item?id=44074017 target=_blank>194 comments</a>]]></description>
             <pubDate>2025-05-23T16:02:02Z</pubDate>
             <guid isPermaLink="false">https://foundersatwork.posthaven.com/find-your-people</guid>
             <link>https://foundersatwork.posthaven.com/find-your-people</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Why I no longer have an old-school cert on my HTTPS site]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=44071690 target=_blank>287 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=44071690 target=_blank>291 comments</a>]]></description>
             <pubDate>2025-05-23T10:56:12Z</pubDate>
             <guid isPermaLink="false">https://rachelbythebay.com/w/2025/05/22/ssl/</guid>
             <link>https://rachelbythebay.com/w/2025/05/22/ssl/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[How to live on $432 a month in America]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=44074340 target=_blank>432 comments</a>]]></description>
+            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=44074340 target=_blank>435 comments</a>]]></description>
             <pubDate>2025-05-23T16:40:55Z</pubDate>
             <guid isPermaLink="false">https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america</guid>
             <link>https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[MCP is the coming of Web 2.0 2.0]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=44073785 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=44073785 target=_blank>169 comments</a>]]></description>
             <pubDate>2025-05-23T15:33:00Z</pubDate>
             <guid isPermaLink="false">https://www.anildash.com//2025/05/20/mcp-web20-20/</guid>
             <link>https://www.anildash.com//2025/05/20/mcp-web20-20/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenAI: Scaling PostgreSQL to the Next Level]]></title>
-            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=44071418 target=_blank>129 comments</a>]]></description>
-            <pubDate>2025-05-23T09:54:38Z</pubDate>
-            <guid isPermaLink="false">https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level</guid>
-            <link>https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Root for your friends]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=44077533 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=44077533 target=_blank>54 comments</a>]]></description>
             <pubDate>2025-05-23T23:28:11Z</pubDate>
             <guid isPermaLink="false">https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</guid>
             <link>https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[OpenAI: Scaling PostgreSQL to the Next Level]]></title>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=44071418 target=_blank>129 comments</a>]]></description>
+            <pubDate>2025-05-23T09:54:38Z</pubDate>
+            <guid isPermaLink="false">https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level</guid>
+            <link>https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=44077850 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=44077850 target=_blank>101 comments</a>]]></description>
             <pubDate>2025-05-24T00:29:28Z</pubDate>
             <guid isPermaLink="false">https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/</guid>
             <link>https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=44075353 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=44075353 target=_blank>69 comments</a>]]></description>
             <pubDate>2025-05-23T18:44:31Z</pubDate>
             <guid isPermaLink="false">https://hcker.news</guid>
             <link>https://hcker.news</link>
