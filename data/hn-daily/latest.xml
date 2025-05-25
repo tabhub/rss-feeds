@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I used o3 to find a remote zeroday in the Linux SMB implementation]]></title>
-            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=44081338 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=44081338 target=_blank>116 comments</a>]]></description>
             <pubDate>2025-05-24T14:25:45Z</pubDate>
             <guid isPermaLink="false">https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/</guid>
             <link>https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Why Algebraic Effects?]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=44078434 target=_blank>177 comments</a>]]></description>
-            <pubDate>2025-05-24T03:00:53Z</pubDate>
-            <guid isPermaLink="false">https://antelang.org/blog/why_effects/</guid>
-            <link>https://antelang.org/blog/why_effects/</link>
-            
-            
-            
-            <author><![CDATA[jiggawatts]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Reinvent the Wheel]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=44083467 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=44083467 target=_blank>128 comments</a>]]></description>
             <pubDate>2025-05-24T20:05:12Z</pubDate>
             <guid isPermaLink="false">https://endler.dev/2025/reinvent-the-wheel/</guid>
             <link>https://endler.dev/2025/reinvent-the-wheel/</link>
@@ -75,6 +59,38 @@
             
             
             <author><![CDATA[zdw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Scientific conferences are leaving the US amid border fears]]></title>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=44084017 target=_blank>107 comments</a>]]></description>
+            <pubDate>2025-05-24T21:53:47Z</pubDate>
+            <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-01636-5</guid>
+            <link>https://www.nature.com/articles/d41586-025-01636-5</link>
+            
+            
+            
+            <author><![CDATA[mdhb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Good Writing]]></title>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=44081586 target=_blank>203 comments</a>]]></description>
+            <pubDate>2025-05-24T15:03:37Z</pubDate>
+            <guid isPermaLink="false">https://paulgraham.com/goodwriting.html</guid>
+            <link>https://paulgraham.com/goodwriting.html</link>
+            
+            
+            
+            <author><![CDATA[oli5679]]></author>
             
                 
             
@@ -98,40 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Scientific conferences are leaving the US amid border fears]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=44084017 target=_blank>94 comments</a>]]></description>
-            <pubDate>2025-05-24T21:53:47Z</pubDate>
-            <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-01636-5</guid>
-            <link>https://www.nature.com/articles/d41586-025-01636-5</link>
-            
-            
-            
-            <author><![CDATA[mdhb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Good Writing]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=44081586 target=_blank>198 comments</a>]]></description>
-            <pubDate>2025-05-24T15:03:37Z</pubDate>
-            <guid isPermaLink="false">https://paulgraham.com/goodwriting.html</guid>
-            <link>https://paulgraham.com/goodwriting.html</link>
-            
-            
-            
-            <author><![CDATA[oli5679]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=44080533 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=44080533 target=_blank>68 comments</a>]]></description>
             <pubDate>2025-05-24T12:06:06Z</pubDate>
             <guid isPermaLink="false">https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/</guid>
             <link>https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Tachy0n: The Last 0day Jailbreak]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=44083388 target=_blank>24 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=44083388 target=_blank>25 comments</a>]]></description>
             <pubDate>2025-05-24T19:50:41Z</pubDate>
             <guid isPermaLink="false">https://blog.siguza.net/tachy0n/</guid>
             <link>https://blog.siguza.net/tachy0n/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[How to Make a Living as a Writer]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=44078813 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=44078813 target=_blank>102 comments</a>]]></description>
             <pubDate>2025-05-24T04:36:31Z</pubDate>
             <guid isPermaLink="false">https://thewalrus.ca/how-to-make-a-living-as-a-writer/</guid>
             <link>https://thewalrus.ca/how-to-make-a-living-as-a-writer/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Go deep into AI/LLMs or just use them as tools?]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=44079303 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=44079303 target=_blank>127 comments</a>]]></description>
             <pubDate>2025-05-24T07:05:46Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44079303</guid>
             <link>https://news.ycombinator.com/item?id=44079303</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[perihelions]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DumPy: NumPy except it's OK if you're dum]]></title>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=44080181 target=_blank>45 comments</a>]]></description>
+            <pubDate>2025-05-24T10:49:47Z</pubDate>
+            <guid isPermaLink="false">https://dynomight.net/dumpy/</guid>
+            <link>https://dynomight.net/dumpy/</link>
+            
+            
+            
+            <author><![CDATA[RebelPotato]]></author>
             
                 
             
