@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Square Theory]]></title>
-            <description><![CDATA[647 points | <a href=https://news.ycombinator.com/item?id=44107942 target=_blank>125 comments</a>]]></description>
-            <pubDate>2025-05-27T15:33:55Z</pubDate>
-            <guid isPermaLink="false">https://aaronson.org/blog/square-theory</guid>
-            <link>https://aaronson.org/blog/square-theory</link>
-            
-            
-            
-            <author><![CDATA[aaaronson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: My LLM CLI tool can run tools now, from Python code or plugins]]></title>
-            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=44110584 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[450 points | <a href=https://news.ycombinator.com/item?id=44110584 target=_blank>152 comments</a>]]></description>
             <pubDate>2025-05-27T20:53:03Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2025/May/27/llm-tools/</guid>
             <link>https://simonwillison.net/2025/May/27/llm-tools/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning]]></title>
-            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=44112326 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=44112326 target=_blank>56 comments</a>]]></description>
             <pubDate>2025-05-28T02:39:11Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44112326</guid>
             <link>https://news.ycombinator.com/item?id=44112326</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[The Who Cares Era]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=44115620 target=_blank>252 comments</a>]]></description>
+            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=44115620 target=_blank>293 comments</a>]]></description>
             <pubDate>2025-05-28T13:07:57Z</pubDate>
             <guid isPermaLink="false">https://dansinker.com/posts/2025-05-23-who-cares/</guid>
             <link>https://dansinker.com/posts/2025-05-23-who-cares/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[AI: Accelerated Incompetence]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=44114631 target=_blank>220 comments</a>]]></description>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=44114631 target=_blank>225 comments</a>]]></description>
             <pubDate>2025-05-28T10:50:23Z</pubDate>
             <guid isPermaLink="false">https://www.slater.dev/accelerated-incompetence/</guid>
             <link>https://www.slater.dev/accelerated-incompetence/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Look Ma, No Bubbles: Designing a Low-Latency Megakernel for Llama-1B]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=44111673 target=_blank>28 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=44111673 target=_blank>28 comments</a>]]></description>
             <pubDate>2025-05-28T00:01:20Z</pubDate>
             <guid isPermaLink="false">https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles</guid>
             <link>https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Negotiating PoE+ Power in the Pre‑Boot Environment]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=44111609 target=_blank>52 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=44111609 target=_blank>52 comments</a>]]></description>
             <pubDate>2025-05-27T23:45:02Z</pubDate>
             <guid isPermaLink="false">https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution</guid>
             <link>https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Mullvad Leta]]></title>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=44116503 target=_blank>81 comments</a>]]></description>
+            <pubDate>2025-05-28T14:38:52Z</pubDate>
+            <guid isPermaLink="false">https://leta.mullvad.net</guid>
+            <link>https://leta.mullvad.net</link>
+            
+            
+            
+            <author><![CDATA[microflash]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[As a developer, my most important tools are a pen and a notebook]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=44113210 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=44113210 target=_blank>171 comments</a>]]></description>
             <pubDate>2025-05-28T06:27:11Z</pubDate>
             <guid isPermaLink="false">https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/</guid>
             <link>https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Why the original Macintosh had a screen resolution of 512×324]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=44110219 target=_blank>123 comments</a>]]></description>
+            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=44110219 target=_blank>124 comments</a>]]></description>
             <pubDate>2025-05-27T20:02:50Z</pubDate>
             <guid isPermaLink="false">https://512pixels.net/2025/05/original-macintosh-resolution/</guid>
             <link>https://512pixels.net/2025/05/original-macintosh-resolution/</link>
@@ -171,22 +171,6 @@
             
             
             <author><![CDATA[ingve]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mullvad Leta]]></title>
-            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=44116503 target=_blank>70 comments</a>]]></description>
-            <pubDate>2025-05-28T14:38:52Z</pubDate>
-            <guid isPermaLink="false">https://leta.mullvad.net</guid>
-            <link>https://leta.mullvad.net</link>
-            
-            
-            
-            <author><![CDATA[microflash]]></author>
             
                 
             
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[walterbell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming]]></title>
+            <description><![CDATA[140 points | <a href=https://news.ycombinator.com/item?id=44109257 target=_blank>38 comments</a>]]></description>
+            <pubDate>2025-05-27T18:02:51Z</pubDate>
+            <guid isPermaLink="false">https://nathan.rs/posts/gpu-shader-programming/</guid>
+            <link>https://nathan.rs/posts/gpu-shader-programming/</link>
+            
+            
+            
+            <author><![CDATA[nathan-barry]]></author>
             
                 
             
