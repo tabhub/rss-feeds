@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[WeatherStar 4000+: Weather Channel Simulator]]></title>
-            <description><![CDATA[669 points | <a href=https://news.ycombinator.com/item?id=44127109 target=_blank>126 comments</a>]]></description>
-            <pubDate>2025-05-29T15:38:45Z</pubDate>
-            <guid isPermaLink="false">https://weatherstar.netbymatt.com/</guid>
-            <link>https://weatherstar.netbymatt.com/</link>
-            
-            
-            
-            <author><![CDATA[adam_gyroscope]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Human coders are still better than LLMs]]></title>
-            <description><![CDATA[556 points | <a href=https://news.ycombinator.com/item?id=44127739 target=_blank>661 comments</a>]]></description>
+            <description><![CDATA[557 points | <a href=https://news.ycombinator.com/item?id=44127739 target=_blank>664 comments</a>]]></description>
             <pubDate>2025-05-29T16:41:04Z</pubDate>
             <guid isPermaLink="false">https://antirez.com/news/153</guid>
             <link>https://antirez.com/news/153</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[FLUX.1 Kontext]]></title>
-            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=44128322 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=44128322 target=_blank>107 comments</a>]]></description>
             <pubDate>2025-05-29T17:40:35Z</pubDate>
             <guid isPermaLink="false">https://bfl.ai/models/flux-kontext</guid>
             <link>https://bfl.ai/models/flux-kontext</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[The radix 2^51 trick (2017)]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=44132673 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=44132673 target=_blank>55 comments</a>]]></description>
             <pubDate>2025-05-30T03:55:37Z</pubDate>
             <guid isPermaLink="false">https://www.chosenplaintext.ca/articles/radix-2-51-trick.html</guid>
             <link>https://www.chosenplaintext.ca/articles/radix-2-51-trick.html</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Airlines are charging solo passengers higher fares than groups]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=44128901 target=_blank>436 comments</a>]]></description>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=44128901 target=_blank>438 comments</a>]]></description>
             <pubDate>2025-05-29T18:39:22Z</pubDate>
             <guid isPermaLink="false">https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/</guid>
             <link>https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[I'm starting a social club to solve the male loneliness epidemic]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=44131513 target=_blank>518 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=44131513 target=_blank>525 comments</a>]]></description>
             <pubDate>2025-05-29T23:57:11Z</pubDate>
             <guid isPermaLink="false">https://wave3.social</guid>
             <link>https://wave3.social</link>
@@ -107,6 +91,22 @@
             
             
             <author><![CDATA[nswizzle31]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Practical SDR: Getting started with software-defined radio]]></title>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=44131984 target=_blank>63 comments</a>]]></description>
+            <pubDate>2025-05-30T01:34:23Z</pubDate>
+            <guid isPermaLink="false">https://nostarch.com/practical-sdr</guid>
+            <link>https://nostarch.com/practical-sdr</link>
+            
+            
+            
+            <author><![CDATA[teleforce]]></author>
             
                 
             
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Practical SDR: Getting started with software-defined radio]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=44131984 target=_blank>62 comments</a>]]></description>
-            <pubDate>2025-05-30T01:34:23Z</pubDate>
-            <guid isPermaLink="false">https://nostarch.com/practical-sdr</guid>
-            <link>https://nostarch.com/practical-sdr</link>
-            
-            
-            
-            <author><![CDATA[teleforce]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[AI is not our future]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=44134798 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=44134798 target=_blank>142 comments</a>]]></description>
             <pubDate>2025-05-30T10:45:03Z</pubDate>
             <guid isPermaLink="false">https://procreate.com/ai</guid>
             <link>https://procreate.com/ai</link>
@@ -162,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[White House releases health report written by LLM, with hallucinated citations]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=44132873 target=_blank>48 comments</a>]]></description>
-            <pubDate>2025-05-30T04:31:37Z</pubDate>
-            <guid isPermaLink="false">https://www.nytimes.com/2025/05/29/well/maha-report-citations.html</guid>
-            <link>https://www.nytimes.com/2025/05/29/well/maha-report-citations.html</link>
-            
-            
-            
-            <author><![CDATA[riffraff]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Systems Correctness Practices at Amazon Web Services]]></title>
-            <description><![CDATA[168 points | <a href=https://news.ycombinator.com/item?id=44135638 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=44135638 target=_blank>52 comments</a>]]></description>
             <pubDate>2025-05-30T12:43:13Z</pubDate>
             <guid isPermaLink="false">https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/</guid>
             <link>https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/</link>
@@ -194,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[White House releases health report written by LLM, with hallucinated citations]]></title>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=44132873 target=_blank>48 comments</a>]]></description>
+            <pubDate>2025-05-30T04:31:37Z</pubDate>
+            <guid isPermaLink="false">https://www.nytimes.com/2025/05/29/well/maha-report-citations.html</guid>
+            <link>https://www.nytimes.com/2025/05/29/well/maha-report-citations.html</link>
+            
+            
+            
+            <author><![CDATA[riffraff]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RFK Jr's 'Maha' report found to contain citations to nonexistent studies]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=44133962 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=44133962 target=_blank>70 comments</a>]]></description>
             <pubDate>2025-05-30T07:54:21Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies</guid>
             <link>https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[KnuthIsGod]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Open-sourcing circuit tracing tools]]></title>
+            <description><![CDATA[142 points | <a href=https://news.ycombinator.com/item?id=44128101 target=_blank>20 comments</a>]]></description>
+            <pubDate>2025-05-29T17:16:54Z</pubDate>
+            <guid isPermaLink="false">https://www.anthropic.com/research/open-source-circuit-tracing</guid>
+            <link>https://www.anthropic.com/research/open-source-circuit-tracing</link>
+            
+            
+            
+            <author><![CDATA[jlaneve]]></author>
             
                 
             
