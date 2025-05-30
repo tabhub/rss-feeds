@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[US Trade Court finds Trump tariffs illegal]]></title>
-            <description><![CDATA[551 points | <a href=https://news.ycombinator.com/item?id=44121732 target=_blank>477 comments</a>]]></description>
-            <pubDate>2025-05-29T00:06:19Z</pubDate>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court</guid>
-            <link>https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court</link>
-            
-            
-            
-            <author><![CDATA[master_crab]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[WeatherStar 4000+: Weather Channel Simulator]]></title>
-            <description><![CDATA[443 points | <a href=https://news.ycombinator.com/item?id=44127109 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[497 points | <a href=https://news.ycombinator.com/item?id=44127109 target=_blank>89 comments</a>]]></description>
             <pubDate>2025-05-29T15:38:45Z</pubDate>
             <guid isPermaLink="false">https://weatherstar.netbymatt.com/</guid>
             <link>https://weatherstar.netbymatt.com/</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Human coders are still better than LLMs]]></title>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=44127739 target=_blank>435 comments</a>]]></description>
+            <pubDate>2025-05-29T16:41:04Z</pubDate>
+            <guid isPermaLink="false">https://antirez.com/news/153</guid>
+            <link>https://antirez.com/news/153</link>
+            
+            
+            
+            <author><![CDATA[longwave]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Gurus of 90s Web Design: Zeldman, Siegel, Nielsen]]></title>
-            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=44123852 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=44123852 target=_blank>164 comments</a>]]></description>
             <pubDate>2025-05-29T07:33:02Z</pubDate>
             <guid isPermaLink="false">https://cybercultural.com/p/web-design-1997/</guid>
             <link>https://cybercultural.com/p/web-design-1997/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Run a C# file directly using dotnet run app.cs]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=44122582 target=_blank>270 comments</a>]]></description>
+            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=44122582 target=_blank>281 comments</a>]]></description>
             <pubDate>2025-05-29T02:30:28Z</pubDate>
             <guid isPermaLink="false">https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/</guid>
             <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Human coders are still better than LLMs]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=44127739 target=_blank>359 comments</a>]]></description>
-            <pubDate>2025-05-29T16:41:04Z</pubDate>
-            <guid isPermaLink="false">https://antirez.com/news/153</guid>
-            <link>https://antirez.com/news/153</link>
-            
-            
-            
-            <author><![CDATA[longwave]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=44123098 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=44123098 target=_blank>32 comments</a>]]></description>
             <pubDate>2025-05-29T04:23:11Z</pubDate>
             <guid isPermaLink="false">https://github.com/livingbio/typed-ffmpeg</guid>
             <link>https://github.com/livingbio/typed-ffmpeg</link>
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: I wrote a modern Command Line Handbook]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=44126612 target=_blank>55 comments</a>]]></description>
-            <pubDate>2025-05-29T14:44:33Z</pubDate>
-            <guid isPermaLink="false">https://commandline.stribny.name/</guid>
-            <link>https://commandline.stribny.name/</link>
-            
-            
-            
-            <author><![CDATA[petr25102018]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[FLUX.1 Kontext]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=44128322 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=44128322 target=_blank>82 comments</a>]]></description>
             <pubDate>2025-05-29T17:40:35Z</pubDate>
             <guid isPermaLink="false">https://bfl.ai/models/flux-kontext</guid>
             <link>https://bfl.ai/models/flux-kontext</link>
@@ -146,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: I wrote a modern Command Line Handbook]]></title>
+            <description><![CDATA[255 points | <a href=https://news.ycombinator.com/item?id=44126612 target=_blank>65 comments</a>]]></description>
+            <pubDate>2025-05-29T14:44:33Z</pubDate>
+            <guid isPermaLink="false">https://commandline.stribny.name/</guid>
+            <link>https://commandline.stribny.name/</link>
+            
+            
+            
+            <author><![CDATA[petr25102018]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Airlines are charging solo passengers higher fares than groups]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=44128901 target=_blank>314 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=44128901 target=_blank>361 comments</a>]]></description>
             <pubDate>2025-05-29T18:39:22Z</pubDate>
             <guid isPermaLink="false">https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/</guid>
             <link>https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Learning C3]]></title>
-            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=44125966 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=44125966 target=_blank>126 comments</a>]]></description>
             <pubDate>2025-05-29T13:33:31Z</pubDate>
             <guid isPermaLink="false">https://alloc.dev/2025/05/29/learning_c3</guid>
             <link>https://alloc.dev/2025/05/29/learning_c3</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Google is using AI to censor independent websites like mine]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=44124820 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=44124820 target=_blank>159 comments</a>]]></description>
             <pubDate>2025-05-29T11:05:43Z</pubDate>
             <guid isPermaLink="false">https://travellemming.com/perspectives/ftc-letter-google-censors-indie-publishers-with-ai/</guid>
             <link>https://travellemming.com/perspectives/ftc-letter-google-censors-indie-publishers-with-ai/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Nova: A JavaScript and WebAssembly engine written in Rust]]></title>
-            <description><![CDATA[134 points | <a href=https://news.ycombinator.com/item?id=44126264 target=_blank>38 comments</a>]]></description>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=44126264 target=_blank>42 comments</a>]]></description>
             <pubDate>2025-05-29T14:05:27Z</pubDate>
             <guid isPermaLink="false">https://trynova.dev/</guid>
             <link>https://trynova.dev/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[AbuAssar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Edamagit: Magit for VSCode]]></title>
+            <description><![CDATA[119 points | <a href=https://news.ycombinator.com/item?id=44123953 target=_blank>80 comments</a>]]></description>
+            <pubDate>2025-05-29T07:58:55Z</pubDate>
+            <guid isPermaLink="false">https://github.com/kahole/edamagit</guid>
+            <link>https://github.com/kahole/edamagit</link>
+            
+            
+            
+            <author><![CDATA[tosh]]></author>
             
                 
             
