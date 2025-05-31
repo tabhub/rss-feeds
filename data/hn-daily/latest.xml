@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The radix 2^51 trick (2017)]]></title>
-            <description><![CDATA[394 points | <a href=https://news.ycombinator.com/item?id=44132673 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=44132673 target=_blank>78 comments</a>]]></description>
             <pubDate>2025-05-30T03:55:37Z</pubDate>
             <guid isPermaLink="false">https://www.chosenplaintext.ca/articles/radix-2-51-trick.html</guid>
             <link>https://www.chosenplaintext.ca/articles/radix-2-51-trick.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Photos taken inside musical instruments]]></title>
-            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=44139626 target=_blank>21 comments</a>]]></description>
+            <description><![CDATA[379 points | <a href=https://news.ycombinator.com/item?id=44139626 target=_blank>22 comments</a>]]></description>
             <pubDate>2025-05-30T20:32:19Z</pubDate>
             <guid isPermaLink="false">https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</guid>
             <link>https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Systems Correctness Practices at Amazon Web Services]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=44135638 target=_blank>107 comments</a>]]></description>
-            <pubDate>2025-05-30T12:43:13Z</pubDate>
-            <guid isPermaLink="false">https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/</guid>
-            <link>https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/</link>
-            
-            
-            
-            <author><![CDATA[tanelpoder]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The 'white-collar bloodbath' is all part of the AI hype machine]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=44136117 target=_blank>475 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=44136117 target=_blank>504 comments</a>]]></description>
             <pubDate>2025-05-30T13:38:21Z</pubDate>
             <guid isPermaLink="false">https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap</guid>
             <link>https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Systems Correctness Practices at Amazon Web Services]]></title>
+            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=44135638 target=_blank>110 comments</a>]]></description>
+            <pubDate>2025-05-30T12:43:13Z</pubDate>
+            <guid isPermaLink="false">https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/</guid>
+            <link>https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/</link>
+            
+            
+            
+            <author><![CDATA[tanelpoder]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Microsandbox: Virtual Machines that feel and perform like containers]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=44135977 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=44135977 target=_blank>122 comments</a>]]></description>
             <pubDate>2025-05-30T13:20:04Z</pubDate>
             <guid isPermaLink="false">https://github.com/microsandbox/microsandbox</guid>
             <link>https://github.com/microsandbox/microsandbox</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Beating Google's kernelCTF PoW using AVX512]]></title>
-            <description><![CDATA[257 points | <a href=https://news.ycombinator.com/item?id=44137715 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=44137715 target=_blank>79 comments</a>]]></description>
             <pubDate>2025-05-30T16:19:50Z</pubDate>
             <guid isPermaLink="false">https://anemato.de/blog/kctf-vdf</guid>
             <link>https://anemato.de/blog/kctf-vdf</link>
@@ -130,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Surprisingly fast AI-generated kernels we didn't mean to publish yet]]></title>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=44139454 target=_blank>54 comments</a>]]></description>
+            <pubDate>2025-05-30T20:03:12Z</pubDate>
+            <guid isPermaLink="false">https://crfm.stanford.edu/2025/05/28/fast-kernels.html</guid>
+            <link>https://crfm.stanford.edu/2025/05/28/fast-kernels.html</link>
+            
+            
+            
+            <author><![CDATA[mfiguiere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[AI is not our future]]></title>
             <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=44134798 target=_blank>158 comments</a>]]></description>
             <pubDate>2025-05-30T10:45:03Z</pubDate>
@@ -139,22 +155,6 @@
             
             
             <author><![CDATA[alexharri]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Surprisingly fast AI-generated kernels we didn't mean to publish yet]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=44139454 target=_blank>54 comments</a>]]></description>
-            <pubDate>2025-05-30T20:03:12Z</pubDate>
-            <guid isPermaLink="false">https://crfm.stanford.edu/2025/05/28/fast-kernels.html</guid>
-            <link>https://crfm.stanford.edu/2025/05/28/fast-kernels.html</link>
-            
-            
-            
-            <author><![CDATA[mfiguiere]]></author>
             
                 
             
