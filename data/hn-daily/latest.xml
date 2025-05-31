@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Photos taken inside musical instruments]]></title>
-            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=44139626 target=_blank>23 comments</a>]]></description>
+            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=44139626 target=_blank>23 comments</a>]]></description>
             <pubDate>2025-05-30T20:32:19Z</pubDate>
             <guid isPermaLink="false">https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</guid>
             <link>https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The radix 2^51 trick (2017)]]></title>
-            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=44132673 target=_blank>78 comments</a>]]></description>
-            <pubDate>2025-05-30T03:55:37Z</pubDate>
-            <guid isPermaLink="false">https://www.chosenplaintext.ca/articles/radix-2-51-trick.html</guid>
-            <link>https://www.chosenplaintext.ca/articles/radix-2-51-trick.html</link>
-            
-            
-            
-            <author><![CDATA[blobcode]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The 'white-collar bloodbath' is all part of the AI hype machine]]></title>
-            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=44136117 target=_blank>537 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=44136117 target=_blank>548 comments</a>]]></description>
             <pubDate>2025-05-30T13:38:21Z</pubDate>
             <guid isPermaLink="false">https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap</guid>
             <link>https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Systems Correctness Practices at Amazon Web Services]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=44135638 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=44135638 target=_blank>111 comments</a>]]></description>
             <pubDate>2025-05-30T12:43:13Z</pubDate>
             <guid isPermaLink="false">https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/</guid>
             <link>https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Microsandbox: Virtual Machines that feel and perform like containers]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=44135977 target=_blank>125 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=44135977 target=_blank>126 comments</a>]]></description>
             <pubDate>2025-05-30T13:20:04Z</pubDate>
             <guid isPermaLink="false">https://github.com/microsandbox/microsandbox</guid>
             <link>https://github.com/microsandbox/microsandbox</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Beating Google's kernelCTF PoW using AVX512]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=44137715 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=44137715 target=_blank>81 comments</a>]]></description>
             <pubDate>2025-05-30T16:19:50Z</pubDate>
             <guid isPermaLink="false">https://anemato.de/blog/kctf-vdf</guid>
             <link>https://anemato.de/blog/kctf-vdf</link>
@@ -107,6 +91,22 @@
             
             
             <author><![CDATA[anematode]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Surprisingly fast AI-generated kernels we didn't mean to publish yet]]></title>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=44139454 target=_blank>58 comments</a>]]></description>
+            <pubDate>2025-05-30T20:03:12Z</pubDate>
+            <guid isPermaLink="false">https://crfm.stanford.edu/2025/05/28/fast-kernels.html</guid>
+            <link>https://crfm.stanford.edu/2025/05/28/fast-kernels.html</link>
+            
+            
+            
+            <author><![CDATA[mfiguiere]]></author>
             
                 
             
@@ -123,22 +123,6 @@
             
             
             <author><![CDATA[surrTurr]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Surprisingly fast AI-generated kernels we didn't mean to publish yet]]></title>
-            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=44139454 target=_blank>56 comments</a>]]></description>
-            <pubDate>2025-05-30T20:03:12Z</pubDate>
-            <guid isPermaLink="false">https://crfm.stanford.edu/2025/05/28/fast-kernels.html</guid>
-            <link>https://crfm.stanford.edu/2025/05/28/fast-kernels.html</link>
-            
-            
-            
-            <author><![CDATA[mfiguiere]]></author>
             
                 
             
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Ask HN: What is the best LLM for consumer grade hardware?]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=44134896 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=44134896 target=_blank>158 comments</a>]]></description>
             <pubDate>2025-05-30T11:02:19Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44134896</guid>
             <link>https://news.ycombinator.com/item?id=44134896</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[White House releases health report written by LLM, with hallucinated citations]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=44132873 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=44132873 target=_blank>50 comments</a>]]></description>
             <pubDate>2025-05-30T04:31:37Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2025/05/29/well/maha-report-citations.html</guid>
             <link>https://www.nytimes.com/2025/05/29/well/maha-report-citations.html</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Silicon Valley finally has a big electronics retailer again: Micro Center opens]]></title>
-            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=44140378 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=44140378 target=_blank>100 comments</a>]]></description>
             <pubDate>2025-05-30T22:24:09Z</pubDate>
             <guid isPermaLink="false">https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx</guid>
             <link>https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[modeless]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RFK Jr's 'Maha' report found to contain citations to nonexistent studies]]></title>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=44133962 target=_blank>77 comments</a>]]></description>
+            <pubDate>2025-05-30T07:54:21Z</pubDate>
+            <guid isPermaLink="false">https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies</guid>
+            <link>https://www.theguardian.com/us-news/2025/may/29/rfk-jr-maha-health-report-studies</link>
+            
+            
+            
+            <author><![CDATA[KnuthIsGod]]></author>
             
                 
             
