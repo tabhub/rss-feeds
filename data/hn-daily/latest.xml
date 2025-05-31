@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Photos taken inside musical instruments]]></title>
-            <description><![CDATA[845 points | <a href=https://news.ycombinator.com/item?id=44139626 target=_blank>43 comments</a>]]></description>
+            <description><![CDATA[850 points | <a href=https://news.ycombinator.com/item?id=44139626 target=_blank>43 comments</a>]]></description>
             <pubDate>2025-05-30T20:32:19Z</pubDate>
             <guid isPermaLink="false">https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</guid>
             <link>https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Surprisingly fast AI-generated kernels we didn't mean to publish yet]]></title>
-            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=44139454 target=_blank>134 comments</a>]]></description>
+            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=44139454 target=_blank>135 comments</a>]]></description>
             <pubDate>2025-05-30T20:03:12Z</pubDate>
             <guid isPermaLink="false">https://crfm.stanford.edu/2025/05/28/fast-kernels.html</guid>
             <link>https://crfm.stanford.edu/2025/05/28/fast-kernels.html</link>
@@ -66,6 +66,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Beware of Fast-Math]]></title>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=44142472 target=_blank>152 comments</a>]]></description>
+            <pubDate>2025-05-31T07:05:57Z</pubDate>
+            <guid isPermaLink="false">https://simonbyrne.github.io/notes/fastmath/</guid>
+            <link>https://simonbyrne.github.io/notes/fastmath/</link>
+            
+            
+            
+            <author><![CDATA[blobcode]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Valkey Turns One: Community fork of Redis]]></title>
             <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=44140379 target=_blank>101 comments</a>]]></description>
             <pubDate>2025-05-30T22:24:22Z</pubDate>
@@ -75,22 +91,6 @@
             
             
             <author><![CDATA[cebert]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Beware of Fast-Math]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=44142472 target=_blank>149 comments</a>]]></description>
-            <pubDate>2025-05-31T07:05:57Z</pubDate>
-            <guid isPermaLink="false">https://simonbyrne.github.io/notes/fastmath/</guid>
-            <link>https://simonbyrne.github.io/notes/fastmath/</link>
-            
-            
-            
-            <author><![CDATA[blobcode]]></author>
             
                 
             
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=44137867 target=_blank>113 comments</a>]]></description>
-            <pubDate>2025-05-30T16:36:10Z</pubDate>
-            <guid isPermaLink="false">https://capjs.js.org/</guid>
-            <link>https://capjs.js.org/</link>
-            
-            
-            
-            <author><![CDATA[tiagorangel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[C++ to Rust Phrasebook]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=44140349 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=44140349 target=_blank>48 comments</a>]]></description>
             <pubDate>2025-05-30T22:18:48Z</pubDate>
             <guid isPermaLink="false">https://cel.cs.brown.edu/crp/</guid>
             <link>https://cel.cs.brown.edu/crp/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Precision Clock Mk IV]]></title>
-            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=44144750 target=_blank>23 comments</a>]]></description>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=44144750 target=_blank>28 comments</a>]]></description>
             <pubDate>2025-05-31T15:06:03Z</pubDate>
             <guid isPermaLink="false">https://mitxela.com/projects/precision_clock_mk_iv</guid>
             <link>https://mitxela.com/projects/precision_clock_mk_iv</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Simpler Backoff]]></title>
-            <description><![CDATA[105 points | <a href=https://news.ycombinator.com/item?id=44141887 target=_blank>40 comments</a>]]></description>
+            <description><![CDATA[107 points | <a href=https://news.ycombinator.com/item?id=44141887 target=_blank>40 comments</a>]]></description>
             <pubDate>2025-05-31T04:43:14Z</pubDate>
             <guid isPermaLink="false">https://commaok.xyz/post/simple-backoff/</guid>
             <link>https://commaok.xyz/post/simple-backoff/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Gradients Are the New Intervals]]></title>
+            <description><![CDATA[102 points | <a href=https://news.ycombinator.com/item?id=44142266 target=_blank>30 comments</a>]]></description>
+            <pubDate>2025-05-31T06:25:19Z</pubDate>
+            <guid isPermaLink="false">https://www.mattkeeter.com/blog/2025-05-14-gradients/</guid>
+            <link>https://www.mattkeeter.com/blog/2025-05-14-gradients/</link>
+            
+            
+            
+            <author><![CDATA[surprisetalk]]></author>
             
                 
             
