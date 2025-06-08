@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The last six months in LLMs, illustrated by pelicans on bicycles]]></title>
-            <description><![CDATA[560 points | <a href=https://news.ycombinator.com/item?id=44215352 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[572 points | <a href=https://news.ycombinator.com/item?id=44215352 target=_blank>164 comments</a>]]></description>
             <pubDate>2025-06-08T07:38:37Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2025/Jun/6/six-months-in-llms/</guid>
             <link>https://simonwillison.net/2025/Jun/6/six-months-in-llms/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Convert photos to Atkinson dithering]]></title>
-            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=44212446 target=_blank>47 comments</a>]]></description>
+            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=44212446 target=_blank>47 comments</a>]]></description>
             <pubDate>2025-06-07T20:33:18Z</pubDate>
             <guid isPermaLink="false">https://gazs.github.io/canvas-atkinson-dither/</guid>
             <link>https://gazs.github.io/canvas-atkinson-dither/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[<Blink> and <Marquee> (2020)]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=44214522 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=44214522 target=_blank>144 comments</a>]]></description>
             <pubDate>2025-06-08T04:17:43Z</pubDate>
             <guid isPermaLink="false">https://danq.me/2020/11/11/blink-and-marquee/</guid>
             <link>https://danq.me/2020/11/11/blink-and-marquee/</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[BorgBackup 2 has no server-side append-only anymore]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=44211612 target=_blank>100 comments</a>]]></description>
-            <pubDate>2025-06-07T18:39:21Z</pubDate>
-            <guid isPermaLink="false">https://github.com/borgbackup/borg/pull/8798</guid>
-            <link>https://github.com/borgbackup/borg/pull/8798</link>
-            
-            
-            
-            <author><![CDATA[jaegerma]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Coventry Very Light Rail]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=44212845 target=_blank>218 comments</a>]]></description>
+            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=44212845 target=_blank>221 comments</a>]]></description>
             <pubDate>2025-06-07T21:35:44Z</pubDate>
             <guid isPermaLink="false">https://www.coventry.gov.uk/coventry-light-rail</guid>
             <link>https://www.coventry.gov.uk/coventry-light-rail</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Ask HN: How to learn CUDA to professional level]]></title>
-            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=44216123 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=44216123 target=_blank>55 comments</a>]]></description>
             <pubDate>2025-06-08T10:52:35Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44216123</guid>
             <link>https://news.ycombinator.com/item?id=44216123</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Why not use DNS over HTTPS (DoH)?]]></title>
-            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=44215608 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[141 points | <a href=https://news.ycombinator.com/item?id=44215608 target=_blank>256 comments</a>]]></description>
             <pubDate>2025-06-08T08:36:56Z</pubDate>
             <guid isPermaLink="false">https://www.bsdhowto.ch/doh.html</guid>
             <link>https://www.bsdhowto.ch/doh.html</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray]]></title>
-            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=44211779 target=_blank>34 comments</a>]]></description>
+            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=44211779 target=_blank>35 comments</a>]]></description>
             <pubDate>2025-06-07T19:01:17Z</pubDate>
             <guid isPermaLink="false">https://aoli.al/blogs/jdk-bug/</guid>
             <link>https://aoli.al/blogs/jdk-bug/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[aoli-al]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Illusion of Thinking: Strengths and Limitations of Reasoning Models]]></title>
+            <description><![CDATA[118 points | <a href=https://news.ycombinator.com/item?id=44215273 target=_blank>4 comments</a>]]></description>
+            <pubDate>2025-06-08T07:24:59Z</pubDate>
+            <guid isPermaLink="false">https://machinelearning.apple.com/research/illusion-of-thinking</guid>
+            <link>https://machinelearning.apple.com/research/illusion-of-thinking</link>
+            
+            
+            
+            <author><![CDATA[sunshinerag]]></author>
             
                 
             
