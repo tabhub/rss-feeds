@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #722]]></title>
+        <title><![CDATA[Perl Weekly #724]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,27 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[This week in PSC (189) | 2025-05-01]]></title>
-            <description><![CDATA[This meet happened during the PTS2025 at Leipzig.]]></description>
-            <pubDate>2025.05.20</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/05/this-week-in-psc-189-2025-05-01.html</guid>
-            <link>https://blogs.perl.org/users/psc/2025/05/this-week-in-psc-189-2025-05-01.html</link>
+            <title><![CDATA[DBD::Oracle v1.91_2 released]]></title>
+            <description><![CDATA[With help from the community a development release of DBD::Oracle has been published to the CPAN.]]></description>
+            <pubDate>2025.06.07</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2025/06/dbdoracle-v191-2-released.html</guid>
+            <link>https://blogs.perl.org/users/dean/2025/06/dbdoracle-v191-2-released.html</link>
+            
+            
+            
+            <author><![CDATA[dean_hamstead]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Formally announcing Perl Magpie]]></title>
+            <description><![CDATA[Perl Magpie serves as a user frontend for the CPT database backend. It operates 100% using the CPT API to fetch test metadata and results.]]></description>
+            <pubDate>2025.06.06</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1l521dr/formally_announcing_perl_magpie/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1l521dr/formally_announcing_perl_magpie/</link>
             
             
             
@@ -34,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (190) | 2025-05-09]]></title>
-            <description><![CDATA[Discussion focussed for the new release.]]></description>
-            <pubDate>2025.05.21</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/05/this-week-in-psc-190-2025-05-09.html</guid>
-            <link>https://blogs.perl.org/users/psc/2025/05/this-week-in-psc-190-2025-05-09.html</link>
+            <title><![CDATA[Generating Content with ChatGPT]]></title>
+            <description><![CDATA[Yet another quality post that shows the power of ChatGPT.]]></description>
+            <pubDate>2025.06.08</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/06/generating-content-with-chatgpt/</guid>
+            <link>https://perlhacks.com/2025/06/generating-content-with-chatgpt/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (191) | 2025-05-15]]></title>
-            <description><![CDATA[Highlights upcoming priorities, including potential language refinements and ecosystem improvements.]]></description>
-            <pubDate>2025.05.22</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/05/this-week-in-psc-191-2025-05-15.html</guid>
-            <link>https://blogs.perl.org/users/psc/2025/05/this-week-in-psc-191-2025-05-15.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -66,27 +66,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Testing distributions for potentially malicious Unicode]]></title>
-            <description><![CDATA[Unicode itself is a complext subject and then when you have to deal with similar looking characters can be tricky.]]></description>
-            <pubDate>2025.05.20</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/robert_rothenberg/2025/05/testing-distributions-for-potentially-malicious-unicode.html</guid>
-            <link>https://blogs.perl.org/users/robert_rothenberg/2025/05/testing-distributions-for-potentially-malicious-unicode.html</link>
-            
-            
-            
-            <author><![CDATA[robert_rothenberg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Faster Readonly variables with Const::XS]]></title>
-            <description><![CDATA[Readonly variable in Perl always debatable topic as plenty of choices available on CPAN. Finding the right one is always difficult.]]></description>
-            <pubDate>2025.05.21</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/robert_acock/2025/05/faster-readonly-variables-with-constxs.html</guid>
-            <link>https://blogs.perl.org/users/robert_acock/2025/05/faster-readonly-variables-with-constxs.html</link>
+            <title><![CDATA[Learning XS]]></title>
+            <description><![CDATA[A blog series to learn XS ground up. ]]></description>
+            <pubDate>2025.05.30</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnation/learning-perl-xs-how-to-create-an-object-24lj</guid>
+            <link>https://dev.to/lnation/learning-perl-xs-how-to-create-an-object-24lj</link>
             
             
             
@@ -98,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Contract::Declare]]></title>
-            <description><![CDATA[Define runtime interfaces in Perl, validate args and return values.]]></description>
-            <pubDate>2025.05.21</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1krfrmu/contractdeclare_define_runtime_interfaces_in_perl/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1krfrmu/contractdeclare_define_runtime_interfaces_in_perl/</link>
+            <title><![CDATA[Learning Perl]]></title>
+            <description><![CDATA[A blog series to learn Perl.]]></description>
+            <pubDate>2025.06.06</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnation/learning-perl-introduction-3d1a</guid>
+            <link>https://dev.to/lnation/learning-perl-introduction-3d1a</link>
             
             
             
-            <author><![CDATA[alexander_ponomarev]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Welcome to the Perl Toolchain Summit 2025]]></title>
-            <description><![CDATA[Here we have event report by one of the organiser of PTS2025. A very thought provoking.]]></description>
-            <pubDate>2025.05.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/book/2025/05/welcome-to-the-perl-toolchain-summit-2025.html</guid>
-            <link>https://blogs.perl.org/users/book/2025/05/welcome-to-the-perl-toolchain-summit-2025.html</link>
-            
-            
-            
-            <author><![CDATA[philippe_bruhat]]></author>
+            <author><![CDATA[robert_acock]]></author>
             
                 
             
@@ -130,11 +98,27 @@
         </item>
         
         <item>
-            <title><![CDATA[LocalStack with AWS S3]]></title>
-            <description><![CDATA[Playing with AWS S3 using LocalStack platform. How? Well checkout this post.]]></description>
-            <pubDate>2025.05.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mohammad_s_anwar/2025/05/localstack-with-aws-s3.html</guid>
-            <link>https://blogs.perl.org/users/mohammad_s_anwar/2025/05/localstack-with-aws-s3.html</link>
+            <title><![CDATA[Analysing FIT data with Perl: basic beginnings]]></title>
+            <description><![CDATA[FIT files record the activities of people using devices such as sports watches and bike head units.]]></description>
+            <pubDate>2025.06.05</pubDate>
+            <guid isPermaLink="false">https://peateasea.de/analysing-fit-data-with-perl-basic-beginnings/</guid>
+            <link>https://peateasea.de/analysing-fit-data-with-perl-basic-beginnings/</link>
+            
+            
+            
+            <author><![CDATA[paul_cochrane]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AWS S3 Encryption]]></title>
+            <description><![CDATA[This is first post in the series about AWS S3 Encryption in general.]]></description>
+            <pubDate>2025.06.06</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/aws-s3-encryption/</guid>
+            <link>https://theweeklychallenge.org/blog/aws-s3-encryption/</link>
             
             
             
@@ -146,11 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.20 Less Is Mini]]></title>
-            <description><![CDATA[2025.20 Less Is Mini]]></description>
-            <pubDate>2025.05.19</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/05/19/2025-20-less-is-mini</guid>
-            <link>https://rakudoweekly.blog/2025/05/19/2025-20-less-is-mini</link>
+            <title><![CDATA[2025.22 SurveyOverflow]]></title>
+            <description><![CDATA[2025.22 SurveyOverflow]]></description>
+            <pubDate>2025.05.02</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/06/02/2025-22-surveyoverflow/</guid>
+            <link>https://rakudoweekly.blog/2025/06/02/2025-22-surveyoverflow/</link>
             
             
             
@@ -163,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/05/dxlix-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.05.24</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/06/dli-11-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/06/dcix-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.06.07</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
