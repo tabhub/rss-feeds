@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Frequent reauth doesn't make you more secure]]></title>
-            <description><![CDATA[959 points | <a href=https://news.ycombinator.com/item?id=44261777 target=_blank>416 comments</a>]]></description>
+            <description><![CDATA[968 points | <a href=https://news.ycombinator.com/item?id=44261777 target=_blank>416 comments</a>]]></description>
             <pubDate>2025-06-12T19:05:12Z</pubDate>
             <guid isPermaLink="false">https://tailscale.com/blog/frequent-reath-security</guid>
             <link>https://tailscale.com/blog/frequent-reath-security</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[US-backed Israeli company's spyware used to target European journalists]]></title>
-            <description><![CDATA[663 points | <a href=https://news.ycombinator.com/item?id=44259398 target=_blank>333 comments</a>]]></description>
+            <description><![CDATA[664 points | <a href=https://news.ycombinator.com/item?id=44259398 target=_blank>333 comments</a>]]></description>
             <pubDate>2025-06-12T16:12:45Z</pubDate>
             <guid isPermaLink="false">https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb</guid>
             <link>https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Jemalloc Postmortem]]></title>
-            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=44264958 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[547 points | <a href=https://news.ycombinator.com/item?id=44264958 target=_blank>153 comments</a>]]></description>
             <pubDate>2025-06-13T01:37:17Z</pubDate>
             <guid isPermaLink="false">https://jasone.github.io/2025/06/12/jemalloc-postmortem/</guid>
             <link>https://jasone.github.io/2025/06/12/jemalloc-postmortem/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cloudflare was down]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=44261064 target=_blank>84 comments</a>]]></description>
-            <pubDate>2025-06-12T18:24:01Z</pubDate>
-            <guid isPermaLink="false">https://www.cloudflarestatus.com/incidents/25r9t0vz99rp</guid>
-            <link>https://www.cloudflarestatus.com/incidents/25r9t0vz99rp</link>
-            
-            
-            
-            <author><![CDATA[datadrivenangel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[iPhone 11 emulation done in QEMU]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=44258670 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=44258670 target=_blank>29 comments</a>]]></description>
             <pubDate>2025-06-12T15:04:59Z</pubDate>
             <guid isPermaLink="false">https://github.com/ChefKissInc/QEMUAppleSilicon</guid>
             <link>https://github.com/ChefKissInc/QEMUAppleSilicon</link>
@@ -123,6 +107,22 @@
             
             
             <author><![CDATA[71bw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloudflare was down]]></title>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=44261064 target=_blank>85 comments</a>]]></description>
+            <pubDate>2025-06-12T18:24:01Z</pubDate>
+            <guid isPermaLink="false">https://www.cloudflarestatus.com/incidents/25r9t0vz99rp</guid>
+            <link>https://www.cloudflarestatus.com/incidents/25r9t0vz99rp</link>
+            
+            
+            
+            <author><![CDATA[datadrivenangel]]></author>
             
                 
             
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Rendering Crispy Text on the GPU]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=44265233 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=44265233 target=_blank>89 comments</a>]]></description>
             <pubDate>2025-06-13T02:27:24Z</pubDate>
             <guid isPermaLink="false">https://osor.io/text</guid>
             <link>https://osor.io/text</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[If the moon were only 1 pixel: A tediously accurate solar system model (2014)]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=44266828 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=44266828 target=_blank>80 comments</a>]]></description>
             <pubDate>2025-06-13T08:40:05Z</pubDate>
             <guid isPermaLink="false">https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html</guid>
             <link>https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Google Pixels are no longer the AOSP reference device]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44259921 target=_blank>124 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44259921 target=_blank>125 comments</a>]]></description>
             <pubDate>2025-06-12T16:53:08Z</pubDate>
             <guid isPermaLink="false">https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/</guid>
             <link>https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/</link>
