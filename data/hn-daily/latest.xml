@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch]]></title>
-            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=44276476 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=44276476 target=_blank>70 comments</a>]]></description>
             <pubDate>2025-06-14T13:56:46Z</pubDate>
             <guid isPermaLink="false">https://github.com/yousef-rafat/miniDiffusion</guid>
             <link>https://github.com/yousef-rafat/miniDiffusion</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Infinite Grid of Resistors]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=44279181 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=44279181 target=_blank>73 comments</a>]]></description>
             <pubDate>2025-06-14T22:12:12Z</pubDate>
             <guid isPermaLink="false">https://www.mathpages.com/home/kmath668/kmath668.htm</guid>
             <link>https://www.mathpages.com/home/kmath668/kmath668.htm</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Q-learning is not yet scalable]]></title>
-            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=44279850 target=_blank>23 comments</a>]]></description>
+            <description><![CDATA[145 points | <a href=https://news.ycombinator.com/item?id=44279850 target=_blank>24 comments</a>]]></description>
             <pubDate>2025-06-15T00:56:54Z</pubDate>
             <guid isPermaLink="false">https://seohong.me/blog/q-learning-is-not-yet-scalable/</guid>
             <link>https://seohong.me/blog/q-learning-is-not-yet-scalable/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[SSHTron: A multiplayer lightcycle game that runs through SSH]]></title>
-            <description><![CDATA[107 points | <a href=https://news.ycombinator.com/item?id=44277245 target=_blank>12 comments</a>]]></description>
+            <description><![CDATA[108 points | <a href=https://news.ycombinator.com/item?id=44277245 target=_blank>12 comments</a>]]></description>
             <pubDate>2025-06-14T16:22:41Z</pubDate>
             <guid isPermaLink="false">https://github.com/zachlatta/sshtron</guid>
             <link>https://github.com/zachlatta/sshtron</link>
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[AMD's AI Future Is Rack Scale 'Helios']]></title>
+            <description><![CDATA[89 points | <a href=https://news.ycombinator.com/item?id=44278746 target=_blank>45 comments</a>]]></description>
+            <pubDate>2025-06-14T20:51:11Z</pubDate>
+            <guid isPermaLink="false">https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios</guid>
+            <link>https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios</link>
+            
+            
+            
+            <author><![CDATA[rbanffy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Clinical knowledge in LLMs does not translate to human interactions]]></title>
             <description><![CDATA[89 points | <a href=https://news.ycombinator.com/item?id=44279209 target=_blank>34 comments</a>]]></description>
             <pubDate>2025-06-14T22:18:46Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[insistent]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How to Build Conscious Machines]]></title>
-            <description><![CDATA[88 points | <a href=https://news.ycombinator.com/item?id=44275559 target=_blank>101 comments</a>]]></description>
-            <pubDate>2025-06-14T10:53:13Z</pubDate>
-            <guid isPermaLink="false">https://osf.io/preprints/thesiscommons/wehmg_v1</guid>
-            <link>https://osf.io/preprints/thesiscommons/wehmg_v1</link>
-            
-            
-            
-            <author><![CDATA[hardmaru]]></author>
             
                 
             
