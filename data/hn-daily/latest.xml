@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Working on databases from prison]]></title>
-            <description><![CDATA[614 points | <a href=https://news.ycombinator.com/item?id=44288937 target=_blank>396 comments</a>]]></description>
+            <description><![CDATA[622 points | <a href=https://news.ycombinator.com/item?id=44288937 target=_blank>402 comments</a>]]></description>
             <pubDate>2025-06-16T12:32:02Z</pubDate>
             <guid isPermaLink="false">https://turso.tech/blog/working-on-databases-from-prison</guid>
             <link>https://turso.tech/blog/working-on-databases-from-prison</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Start your own Internet Resiliency Club]]></title>
-            <description><![CDATA[499 points | <a href=https://news.ycombinator.com/item?id=44287395 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[502 points | <a href=https://news.ycombinator.com/item?id=44287395 target=_blank>276 comments</a>]]></description>
             <pubDate>2025-06-16T07:38:17Z</pubDate>
             <guid isPermaLink="false">https://bowshock.nl/irc/</guid>
             <link>https://bowshock.nl/irc/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Jokes and Humour in the Public Android API]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=44285781 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=44285781 target=_blank>146 comments</a>]]></description>
             <pubDate>2025-06-16T00:14:55Z</pubDate>
             <guid isPermaLink="false">https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/</guid>
             <link>https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Nanonets-OCR-s – OCR model that transforms documents into structured markdown]]></title>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=44287043 target=_blank>58 comments</a>]]></description>
+            <pubDate>2025-06-16T06:14:56Z</pubDate>
+            <guid isPermaLink="false">https://huggingface.co/nanonets/Nanonets-OCR-s</guid>
+            <link>https://huggingface.co/nanonets/Nanonets-OCR-s</link>
+            
+            
+            
+            <author><![CDATA[PixelPanda]]></author>
             
                 
             
@@ -82,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Nanonets-OCR-s – OCR model that transforms documents into structured markdown]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=44287043 target=_blank>58 comments</a>]]></description>
-            <pubDate>2025-06-16T06:14:56Z</pubDate>
-            <guid isPermaLink="false">https://huggingface.co/nanonets/Nanonets-OCR-s</guid>
-            <link>https://huggingface.co/nanonets/Nanonets-OCR-s</link>
-            
-            
-            
-            <author><![CDATA[PixelPanda]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[David Attenborough at 99: 'I will not see how the story ends']]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=44285054 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=44285054 target=_blank>167 comments</a>]]></description>
             <pubDate>2025-06-15T21:21:28Z</pubDate>
             <guid isPermaLink="false">https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7</guid>
             <link>https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Is gravity just entropy rising? Long-shot idea gets another look]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=44285874 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=44285874 target=_blank>201 comments</a>]]></description>
             <pubDate>2025-06-16T00:36:41Z</pubDate>
             <guid isPermaLink="false">https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/</guid>
             <link>https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=44284871 target=_blank>28 comments</a>]]></description>
-            <pubDate>2025-06-15T20:49:18Z</pubDate>
-            <guid isPermaLink="false">https://github.com/rorosen/zeekstd</guid>
-            <link>https://github.com/rorosen/zeekstd</link>
-            
-            
-            
-            <author><![CDATA[rorosen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Benzene at 200]]></title>
-            <description><![CDATA[150 points | <a href=https://news.ycombinator.com/item?id=44290413 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[153 points | <a href=https://news.ycombinator.com/item?id=44290413 target=_blank>85 comments</a>]]></description>
             <pubDate>2025-06-16T15:16:47Z</pubDate>
             <guid isPermaLink="false">https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article</guid>
             <link>https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[WhatsApp introduces ads in its app]]></title>
+            <description><![CDATA[133 points | <a href=https://news.ycombinator.com/item?id=44289412 target=_blank>193 comments</a>]]></description>
+            <pubDate>2025-06-16T13:38:59Z</pubDate>
+            <guid isPermaLink="false">https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html</guid>
+            <link>https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html</link>
+            
+            
+            
+            <author><![CDATA[greenburger]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Darklang Goes Open Source]]></title>
-            <description><![CDATA[130 points | <a href=https://news.ycombinator.com/item?id=44290653 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[131 points | <a href=https://news.ycombinator.com/item?id=44290653 target=_blank>57 comments</a>]]></description>
             <pubDate>2025-06-16T15:41:44Z</pubDate>
             <guid isPermaLink="false">https://blog.darklang.com/darklang-goes-open-source/</guid>
             <link>https://blog.darklang.com/darklang-goes-open-source/</link>
