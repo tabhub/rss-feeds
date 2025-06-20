@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Guess I'm a Rationalist Now]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=44317180 target=_blank>789 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=44317180 target=_blank>800 comments</a>]]></description>
             <pubDate>2025-06-19T10:22:06Z</pubDate>
             <guid isPermaLink="false">https://scottaaronson.blog/?p=8908</guid>
             <link>https://scottaaronson.blog/?p=8908</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Show HN: I wrote a new BitTorrent tracker in Elixir]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=44323253 target=_blank>38 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=44323253 target=_blank>41 comments</a>]]></description>
             <pubDate>2025-06-19T22:49:49Z</pubDate>
             <guid isPermaLink="false">https://github.com/Dahrkael/ExTracker</guid>
             <link>https://github.com/Dahrkael/ExTracker</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[End of 10: Upgrade your old Windows 10 computer to Linux]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=44318420 target=_blank>222 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=44318420 target=_blank>225 comments</a>]]></description>
             <pubDate>2025-06-19T13:14:32Z</pubDate>
             <guid isPermaLink="false">https://endof10.org/</guid>
             <link>https://endof10.org/</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[doener]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Compiling LLMs into a MegaKernel: A path to low-latency inference]]></title>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=44321672 target=_blank>65 comments</a>]]></description>
+            <pubDate>2025-06-19T19:20:54Z</pubDate>
+            <guid isPermaLink="false">https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17</guid>
+            <link>https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17</link>
+            
+            
+            
+            <author><![CDATA[matt_d]]></author>
             
                 
             
@@ -82,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Compiling LLMs into a MegaKernel: A path to low-latency inference]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=44321672 target=_blank>64 comments</a>]]></description>
-            <pubDate>2025-06-19T19:20:54Z</pubDate>
-            <guid isPermaLink="false">https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17</guid>
-            <link>https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17</link>
+            <title><![CDATA[What would a Kubernetes 2.0 look like]]></title>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=44317825 target=_blank>308 comments</a>]]></description>
+            <pubDate>2025-06-19T12:00:54Z</pubDate>
+            <guid isPermaLink="false">https://matduggan.com/what-would-a-kubernetes-2-0-look-like/</guid>
+            <link>https://matduggan.com/what-would-a-kubernetes-2-0-look-like/</link>
             
             
             
-            <author><![CDATA[matt_d]]></author>
+            <author><![CDATA[Bogdanp]]></author>
             
                 
             
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[What would a Kubernetes 2.0 look like]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=44317825 target=_blank>302 comments</a>]]></description>
-            <pubDate>2025-06-19T12:00:54Z</pubDate>
-            <guid isPermaLink="false">https://matduggan.com/what-would-a-kubernetes-2-0-look-like/</guid>
-            <link>https://matduggan.com/what-would-a-kubernetes-2-0-look-like/</link>
-            
-            
-            
-            <author><![CDATA[Bogdanp]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Infinite Mac OS X]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=44323719 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=44323719 target=_blank>67 comments</a>]]></description>
             <pubDate>2025-06-20T00:16:57Z</pubDate>
             <guid isPermaLink="false">https://blog.persistent.info/2025/03/infinite-mac-os-x.html</guid>
             <link>https://blog.persistent.info/2025/03/infinite-mac-os-x.html</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Show HN: A DOS-like hobby OS written in Rust and x86 assembly]]></title>
-            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=44318588 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=44318588 target=_blank>47 comments</a>]]></description>
             <pubDate>2025-06-19T13:38:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/krustowski/rou2exOS</guid>
             <link>https://github.com/krustowski/rou2exOS</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Curved-Crease Sculpture]]></title>
-            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=44318874 target=_blank>29 comments</a>]]></description>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=44318874 target=_blank>30 comments</a>]]></description>
             <pubDate>2025-06-19T14:13:15Z</pubDate>
             <guid isPermaLink="false">https://erikdemaine.org/curved/</guid>
             <link>https://erikdemaine.org/curved/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Hurl: Run and test HTTP requests with plain text]]></title>
-            <description><![CDATA[155 points | <a href=https://news.ycombinator.com/item?id=44324592 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=44324592 target=_blank>47 comments</a>]]></description>
             <pubDate>2025-06-20T03:55:03Z</pubDate>
             <guid isPermaLink="false">https://github.com/Orange-OpenSource/hurl</guid>
             <link>https://github.com/Orange-OpenSource/hurl</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Estrogen: A Trip Report]]></title>
-            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=44322153 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[149 points | <a href=https://news.ycombinator.com/item?id=44322153 target=_blank>143 comments</a>]]></description>
             <pubDate>2025-06-19T20:15:15Z</pubDate>
             <guid isPermaLink="false">https://smoothbrains.net/posts/2025-06-15-estrogen.html</guid>
             <link>https://smoothbrains.net/posts/2025-06-15-estrogen.html</link>
