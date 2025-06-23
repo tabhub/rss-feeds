@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #725]]></title>
+        <title><![CDATA[Perl Weekly #726]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl in the driving seat]]></title>
-            <description><![CDATA[How Bartosz created a control center with Perl. <a href="https://www.reddit.com/r/perl/comments/1lcakfn/perl_in_the_driving_seat_bbrtj/">discuss</a>]]></description>
-            <pubDate>2025.06.16</pubDate>
-            <guid isPermaLink="false">https://bbrtj.eu/blog/article/perl-in-the-driving-seat</guid>
-            <link>https://bbrtj.eu/blog/article/perl-in-the-driving-seat</link>
+            <title><![CDATA[Upcoming Dancer2 2.0.0 release]]></title>
+            <description><![CDATA[The Dancer Core Team is excitedly preparing a major release of Dancer2, 2.0.0. In advance of this, I'd like to give you all a preview of what to expect.]]></description>
+            <pubDate>2025.06.18</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2025/06/upcoming-dancer2-200-release.html</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/2025/06/upcoming-dancer2-200-release.html</link>
             
             
             
-            <author><![CDATA[bartosz_jarzyna]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A Slice of Perl]]></title>
-            <description><![CDATA[Earlier this week, Dave read a post from someone who failed a job interview because they used a hash slice in some sample code and the interviewer didn't believe it would work.]]></description>
-            <pubDate>2025.06.15</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/06/a-slice-of-perl/</guid>
-            <link>https://perlhacks.com/2025/06/a-slice-of-perl/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[jason_crome]]></author>
             
                 
             
@@ -50,11 +34,27 @@
         </item>
         
         <item>
-            <title><![CDATA[AWS Customer Key Encryption]]></title>
-            <description><![CDATA[Continuing the blog series on AWS encryption, this post focuses on Server-Side Encryption using Customer-Provided Keys.]]></description>
-            <pubDate>2025.06.15</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/aws-customer-key-encryption/</guid>
-            <link>https://theweeklychallenge.org/blog/aws-customer-key-encryption/</link>
+            <title><![CDATA[Analysing FIT data with Perl: interactive data analysis]]></title>
+            <description><![CDATA[For more fine-grained analysis of FIT file data, it’d be great to be able to investigate it interactively.]]></description>
+            <pubDate>2025.06.20</pubDate>
+            <guid isPermaLink="false">https://peateasea.de/analysing-fit-data-with-perl-interactive-data-analysis/</guid>
+            <link>https://peateasea.de/analysing-fit-data-with-perl-interactive-data-analysis/</link>
+            
+            
+            
+            <author><![CDATA[paul_cochrane]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Array vs List]]></title>
+            <description><![CDATA[Find out the subtle difference between Array and List in <strong>Perl</strong>.]]></description>
+            <pubDate>2025.06.18</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/array-vs-list</guid>
+            <link>https://theweeklychallenge.org/blog/array-vs-list</link>
             
             
             
@@ -66,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Toolchain Summit 2025 in Leipzig]]></title>
-            <description><![CDATA[The question was: how long would it take to merge the next big thing, multifactor authentication for PAUSE? Two years, three years, or maybe four years this time?]]></description>
-            <pubDate>2025.06.15</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/kenichi_ishigaki/2025/06/perl-toolchain-summit-2025-in-leipzig.html</guid>
-            <link>https://blogs.perl.org/users/kenichi_ishigaki/2025/06/perl-toolchain-summit-2025-in-leipzig.html</link>
+            <title><![CDATA[Object Oriented Programming - OOP in Perl]]></title>
+            <description><![CDATA[The first page of my new OOP booklet.]]></description>
+            <pubDate>2025.06.22</pubDate>
+            <guid isPermaLink="false">https://slides.code-maven.com/perl-oop/index.html</guid>
+            <link>https://slides.code-maven.com/perl-oop/index.html</link>
             
             
             
-            <author><![CDATA[kenichi_ishigaki]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -82,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Generating Content with ChatGPT]]></title>
-            <description><![CDATA[Using Perl.]]></description>
-            <pubDate>2025.06.08</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/06/generating-content-with-chatgpt/</guid>
-            <link>https://perlhacks.com/2025/06/generating-content-with-chatgpt/</link>
+            <title><![CDATA[2025.23/24 Vibe codified]]></title>
+            <description><![CDATA[2025.23/24 Vibe codified]]></description>
+            <pubDate>2025.06.16</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/06/16/2025-23-24-vibe-codified/</guid>
+            <link>https://rakudoweekly.blog/2025/06/16/2025-23-24-vibe-codified/</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -99,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/06/dlii-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.06.15</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/06/dliii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.06.21</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -114,11 +114,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Publishing in Arabic, Hebrew, or Persian?]]></title>
-            <description><![CDATA[A quick post encouraging people to use mdbook.]]></description>
-            <pubDate>2025.06.16</pubDate>
-            <guid isPermaLink="false">https://dev.to/szabgab/publishing-in-arabic-hebrew-or-persian-2od5</guid>
-            <link>https://dev.to/szabgab/publishing-in-arabic-hebrew-or-persian-2od5</link>
+            <title><![CDATA[Follow me on LinkedIn]]></title>
+            <description><![CDATA[If you use LinkedIn I'd like to invite you to follow me on that platform or if you like, send me a connect request. In that case, please include a note that you are are reader of the Perl Weekly newsletter.]]></description>
+            <pubDate>2025.06.23</pubDate>
+            <guid isPermaLink="false">https://www.linkedin.com/in/szabgab/</guid>
+            <link>https://www.linkedin.com/in/szabgab/</link>
             
             
             
