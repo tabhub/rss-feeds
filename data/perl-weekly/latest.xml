@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #726]]></title>
+        <title><![CDATA[Perl Weekly #727]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Upcoming Dancer2 2.0.0 release]]></title>
-            <description><![CDATA[The Dancer Core Team is excitedly preparing a major release of Dancer2, 2.0.0. In advance of this, I'd like to give you all a preview of what to expect.]]></description>
-            <pubDate>2025.06.18</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2025/06/upcoming-dancer2-200-release.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2025/06/upcoming-dancer2-200-release.html</link>
+            <title><![CDATA[Stop using your system Perl]]></title>
+            <description><![CDATA[For years Dave has been telling us to use our own version of Perl and not to rely on the one that comes with our version of the Operating System. There is a lot of merit in what he is say and what he is writing in this article. I personally would go to the most extreme and use a Docker container for better separation and to make the development, testing, and production environments as similar as possible. With that said I am not 100% sold on the idea. I do understand the value in using the perl that comes with the OS and the perl modules that can be installed with the package-management system of the operating system. (e.g. apt/yum). See an <a href="https://www.reddit.com/r/perl/comments/1lltfvp/stop_using_your_system_perl/">extensive discussion</a> on the topic.]]></description>
+            <pubDate>2025.06.27</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/06/stop-using-your-system-perl/</guid>
+            <link>https://perlhacks.com/2025/06/stop-using-your-system-perl/</link>
             
             
             
-            <author><![CDATA[jason_crome]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -34,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Analysing FIT data with Perl: interactive data analysis]]></title>
-            <description><![CDATA[For more fine-grained analysis of FIT file data, it’d be great to be able to investigate it interactively.]]></description>
-            <pubDate>2025.06.20</pubDate>
-            <guid isPermaLink="false">https://peateasea.de/analysing-fit-data-with-perl-interactive-data-analysis/</guid>
-            <link>https://peateasea.de/analysing-fit-data-with-perl-interactive-data-analysis/</link>
+            <title><![CDATA[Analysing FIT data with Perl: producing PNG plots]]></title>
+            <description><![CDATA[FIT files record the activities of people using devices such as sports watches and bike head units.]]></description>
+            <pubDate>2025.06.25</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/analysing-fit-data-with-perl-producing-png-plots/</guid>
+            <link>https://www.perl.com/article/analysing-fit-data-with-perl-producing-png-plots/</link>
             
             
             
@@ -50,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Array vs List]]></title>
-            <description><![CDATA[Find out the subtle difference between Array and List in <strong>Perl</strong>.]]></description>
-            <pubDate>2025.06.18</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/array-vs-list</guid>
-            <link>https://theweeklychallenge.org/blog/array-vs-list</link>
+            <title><![CDATA[Lexical Method in Perl v5.42]]></title>
+            <description><![CDATA[There are all kinds of new and nice ways to write Perl code. Reading this article you'll learn about the new, experimental 'class' feature a bit more.]]></description>
+            <pubDate>2025.06.26</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/lexical-method-v542/</guid>
+            <link>https://theweeklychallenge.org/blog/lexical-method-v542/</link>
             
             
             
@@ -66,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Object Oriented Programming - OOP in Perl]]></title>
-            <description><![CDATA[The first page of my new OOP booklet.]]></description>
-            <pubDate>2025.06.22</pubDate>
-            <guid isPermaLink="false">https://slides.code-maven.com/perl-oop/index.html</guid>
-            <link>https://slides.code-maven.com/perl-oop/index.html</link>
+            <title><![CDATA[AWS DynamoDB]]></title>
+            <description><![CDATA[AWS DynamoDB is a fully managed NoSQL database service provided by AWS.]]></description>
+            <pubDate>2025.06.25</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/aws-dynamodb/</guid>
+            <link>https://theweeklychallenge.org/blog/aws-dynamodb/</link>
             
             
             
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2025.23/24 Vibe codified]]></title>
-            <description><![CDATA[2025.23/24 Vibe codified]]></description>
-            <pubDate>2025.06.16</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/06/16/2025-23-24-vibe-codified/</guid>
-            <link>https://rakudoweekly.blog/2025/06/16/2025-23-24-vibe-codified/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -99,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/06/dliii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.06.21</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/06/dliv-4-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.06.28</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -114,27 +98,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Follow me on LinkedIn]]></title>
-            <description><![CDATA[If you use LinkedIn I'd like to invite you to follow me on that platform or if you like, send me a connect request. In that case, please include a note that you are are reader of the Perl Weekly newsletter.]]></description>
-            <pubDate>2025.06.23</pubDate>
-            <guid isPermaLink="false">https://www.linkedin.com/in/szabgab/</guid>
-            <link>https://www.linkedin.com/in/szabgab/</link>
+            <title><![CDATA[Purdue Perl Mongers - TBA]]></title>
+            <description><![CDATA[July 9, 2025]]></description>
             
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl and Raku Conference 2025]]></title>
-            <description><![CDATA[Greenville, South Carolina, USA]]></description>
-            
-            <guid isPermaLink="false">https://tprc.us/tprc-2025-gsp/</guid>
-            <link>https://tprc.us/tprc-2025-gsp/</link>
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/308504621/</guid>
+            <link>https://www.meetup.com/hacklafayette/events/308504621/</link>
             
             
             
