@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[The new skill in AI is not prompting, it's context engineering]]></title>
-            <description><![CDATA[476 points | <a href=https://news.ycombinator.com/item?id=44427757 target=_blank>256 comments</a>]]></description>
+            <description><![CDATA[489 points | <a href=https://news.ycombinator.com/item?id=44427757 target=_blank>264 comments</a>]]></description>
             <pubDate>2025-06-30T20:53:55Z</pubDate>
             <guid isPermaLink="false">https://www.philschmid.de/context-engineering</guid>
             <link>https://www.philschmid.de/context-engineering</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Xfinity using WiFi signals in your house to detect motion]]></title>
-            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=44426726 target=_blank>300 comments</a>]]></description>
+            <description><![CDATA[482 points | <a href=https://news.ycombinator.com/item?id=44426726 target=_blank>314 comments</a>]]></description>
             <pubDate>2025-06-30T19:03:50Z</pubDate>
             <guid isPermaLink="false">https://www.xfinity.com/support/articles/wifi-motion</guid>
             <link>https://www.xfinity.com/support/articles/wifi-motion</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[There are no new ideas in AI only new datasets]]></title>
-            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=44423983 target=_blank>173 comments</a>]]></description>
+            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=44423983 target=_blank>178 comments</a>]]></description>
             <pubDate>2025-06-30T14:43:46Z</pubDate>
             <guid isPermaLink="false">https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only</guid>
             <link>https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Proton joins suit against Apple for practices that harm developers and consumers]]></title>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=44426128 target=_blank>293 comments</a>]]></description>
+            <pubDate>2025-06-30T17:58:38Z</pubDate>
+            <guid isPermaLink="false">https://proton.me/blog/apple-lawsuit</guid>
+            <link>https://proton.me/blog/apple-lawsuit</link>
+            
+            
+            
+            <author><![CDATA[moose44]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=44422480 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=44422480 target=_blank>70 comments</a>]]></description>
             <pubDate>2025-06-30T12:33:58Z</pubDate>
             <guid isPermaLink="false">https://github.com/M4THYOU/TokenDagger</guid>
             <link>https://github.com/M4THYOU/TokenDagger</link>
@@ -83,7 +99,7 @@
         
         <item>
             <title><![CDATA[I write type-safe generic data structures in C]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=44425461 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=44425461 target=_blank>92 comments</a>]]></description>
             <pubDate>2025-06-30T16:55:20Z</pubDate>
             <guid isPermaLink="false">https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/</guid>
             <link>https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/</link>
@@ -98,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Proton joins suit against Apple for practices that harm developers and consumers]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=44426128 target=_blank>266 comments</a>]]></description>
-            <pubDate>2025-06-30T17:58:38Z</pubDate>
-            <guid isPermaLink="false">https://proton.me/blog/apple-lawsuit</guid>
-            <link>https://proton.me/blog/apple-lawsuit</link>
-            
-            
-            
-            <author><![CDATA[moose44]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: New Ensō – first public beta]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=44421776 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=44421776 target=_blank>81 comments</a>]]></description>
             <pubDate>2025-06-30T11:02:55Z</pubDate>
             <guid isPermaLink="false">https://untested.sonnet.io/notes/new-enso-first-public-beta/</guid>
             <link>https://untested.sonnet.io/notes/new-enso-first-public-beta/</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The provenance memory model for C]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=44421185 target=_blank>111 comments</a>]]></description>
-            <pubDate>2025-06-30T09:25:14Z</pubDate>
-            <guid isPermaLink="false">https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/</guid>
-            <link>https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/</link>
-            
-            
-            
-            <author><![CDATA[HexDecOctBin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Donkey Kong Country 2 and Open Bus]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=44424194 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44424194 target=_blank>52 comments</a>]]></description>
             <pubDate>2025-06-30T15:01:12Z</pubDate>
             <guid isPermaLink="false">https://jsgroth.dev/blog/posts/dkc2-open-bus/</guid>
             <link>https://jsgroth.dev/blog/posts/dkc2-open-bus/</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[colejohnson66]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The provenance memory model for C]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=44421185 target=_blank>113 comments</a>]]></description>
+            <pubDate>2025-06-30T09:25:14Z</pubDate>
+            <guid isPermaLink="false">https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/</guid>
+            <link>https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/</link>
+            
+            
+            
+            <author><![CDATA[HexDecOctBin]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Want to meet people, try charging them for it?]]></title>
-            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=44419986 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=44419986 target=_blank>86 comments</a>]]></description>
             <pubDate>2025-06-30T06:13:10Z</pubDate>
             <guid isPermaLink="false">https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html</guid>
             <link>https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Ask HN: What's the 2025 stack for a self-hosted photo library with local AI?]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=44426233 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=44426233 target=_blank>81 comments</a>]]></description>
             <pubDate>2025-06-30T18:10:50Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44426233</guid>
             <link>https://news.ycombinator.com/item?id=44426233</link>
