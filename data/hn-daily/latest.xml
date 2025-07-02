@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Fed says this is a cube of $1M. They're off by half a million]]></title>
-            <description><![CDATA[1386 points | <a href=https://news.ycombinator.com/item?id=44435484 target=_blank>518 comments</a>]]></description>
-            <pubDate>2025-07-01T16:22:55Z</pubDate>
-            <guid isPermaLink="false">https://calvin.sh/blog/fed-lie/</guid>
-            <link>https://calvin.sh/blog/fed-lie/</link>
-            
-            
-            
-            <author><![CDATA[c249709]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Figma files for proposed IPO]]></title>
-            <description><![CDATA[463 points | <a href=https://news.ycombinator.com/item?id=44437316 target=_blank>210 comments</a>]]></description>
+            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=44437316 target=_blank>210 comments</a>]]></description>
             <pubDate>2025-07-01T19:39:14Z</pubDate>
             <guid isPermaLink="false">https://www.figma.com/blog/s1-public/</guid>
             <link>https://www.figma.com/blog/s1-public/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Fakespot shuts down today after 9 years of detecting fake product reviews]]></title>
-            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=44437712 target=_blank>241 comments</a>]]></description>
+            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=44437712 target=_blank>242 comments</a>]]></description>
             <pubDate>2025-07-01T20:26:35Z</pubDate>
             <guid isPermaLink="false">https://blog.truestar.pro/fakespot-shuts-down/</guid>
             <link>https://blog.truestar.pro/fakespot-shuts-down/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Sam Altman Slams Meta’s AI Talent Poaching: 'Missionaries Will Beat Mercenaries']]></title>
-            <description><![CDATA[295 points | <a href=https://news.ycombinator.com/item?id=44436579 target=_blank>605 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=44436579 target=_blank>613 comments</a>]]></description>
             <pubDate>2025-07-01T18:08:38Z</pubDate>
             <guid isPermaLink="false">https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/</guid>
             <link>https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Don’t use “click here” as link text (2001)]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=44442473 target=_blank>214 comments</a>]]></description>
+            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=44442473 target=_blank>218 comments</a>]]></description>
             <pubDate>2025-07-02T11:39:12Z</pubDate>
             <guid isPermaLink="false">https://www.w3.org/QA/Tips/noClickHere</guid>
             <link>https://www.w3.org/QA/Tips/noClickHere</link>
@@ -98,40 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Building a Personal AI Factory]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=44438065 target=_blank>145 comments</a>]]></description>
-            <pubDate>2025-07-01T21:14:29Z</pubDate>
-            <guid isPermaLink="false">https://www.john-rush.com/posts/ai-20250701.html</guid>
-            <link>https://www.john-rush.com/posts/ai-20250701.html</link>
-            
-            
-            
-            <author><![CDATA[derek]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Huawei releases an open weight model trained on Huawei Ascend GPUs]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=44441089 target=_blank>242 comments</a>]]></description>
-            <pubDate>2025-07-02T07:36:41Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2505.21411</guid>
-            <link>https://arxiv.org/abs/2505.21411</link>
-            
-            
-            
-            <author><![CDATA[buyucu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Exploiting the IKKO Activebuds "AI powered" earbuds]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=44443919 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=44443919 target=_blank>82 comments</a>]]></description>
             <pubDate>2025-07-02T14:06:43Z</pubDate>
             <guid isPermaLink="false">https://blog.mgdproductions.com/ikko-activebuds/</guid>
             <link>https://blog.mgdproductions.com/ikko-activebuds/</link>
@@ -146,8 +98,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Huawei releases an open weight model trained on Huawei Ascend GPUs]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=44441089 target=_blank>249 comments</a>]]></description>
+            <pubDate>2025-07-02T07:36:41Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2505.21411</guid>
+            <link>https://arxiv.org/abs/2505.21411</link>
+            
+            
+            
+            <author><![CDATA[buyucu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Building a Personal AI Factory]]></title>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=44438065 target=_blank>146 comments</a>]]></description>
+            <pubDate>2025-07-01T21:14:29Z</pubDate>
+            <guid isPermaLink="false">https://www.john-rush.com/posts/ai-20250701.html</guid>
+            <link>https://www.john-rush.com/posts/ai-20250701.html</link>
+            
+            
+            
+            <author><![CDATA[derek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Code-GUI bidirectional editing via LSP]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=44435716 target=_blank>58 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=44435716 target=_blank>58 comments</a>]]></description>
             <pubDate>2025-07-01T16:43:19Z</pubDate>
             <guid isPermaLink="false">https://jamesbvaughan.com/bidirectional-editing/</guid>
             <link>https://jamesbvaughan.com/bidirectional-editing/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[I'm dialing back my LLM usage]]></title>
-            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=44443109 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=44443109 target=_blank>125 comments</a>]]></description>
             <pubDate>2025-07-02T12:48:22Z</pubDate>
             <guid isPermaLink="false">https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin</guid>
             <link>https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[ICEBlock climbs to the top of the App Store charts after officials slam it]]></title>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44445180 target=_blank>150 comments</a>]]></description>
+            <pubDate>2025-07-02T15:47:32Z</pubDate>
+            <guid isPermaLink="false">https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html</guid>
+            <link>https://www.engadget.com/social-media/iceblock-climbs-to-the-top-of-the-app-store-charts-after-officials-slam-it-004319963.html</link>
+            
+            
+            
+            <author><![CDATA[doener]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Cloudflare Introduces Default Blocking of A.I. Data Scrapers]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=44443480 target=_blank>106 comments</a>]]></description>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=44443480 target=_blank>114 comments</a>]]></description>
             <pubDate>2025-07-02T13:28:56Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html</guid>
             <link>https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=44437948 target=_blank>128 comments</a>]]></description>
-            <pubDate>2025-07-01T20:59:05Z</pubDate>
-            <guid isPermaLink="false">https://iopscience.iop.org/article/10.1088/2752-5295/ade17d</guid>
-            <link>https://iopscience.iop.org/article/10.1088/2752-5295/ade17d</link>
+            <title><![CDATA[Private sector lost 33k jobs, badly missing expectations of 100k increase]]></title>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=44443622 target=_blank>92 comments</a>]]></description>
+            <pubDate>2025-07-02T13:40:33Z</pubDate>
+            <guid isPermaLink="false">https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html</guid>
+            <link>https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html</link>
             
             
             
-            <author><![CDATA[PaulHoule]]></author>
+            <author><![CDATA[ceejayoz]]></author>
             
                 
             
