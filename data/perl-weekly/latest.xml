@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #727]]></title>
+        <title><![CDATA[Perl Weekly #728]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Stop using your system Perl]]></title>
-            <description><![CDATA[For years Dave has been telling us to use our own version of Perl and not to rely on the one that comes with our version of the Operating System. There is a lot of merit in what he is say and what he is writing in this article. I personally would go to the most extreme and use a Docker container for better separation and to make the development, testing, and production environments as similar as possible. With that said I am not 100% sold on the idea. I do understand the value in using the perl that comes with the OS and the perl modules that can be installed with the package-management system of the operating system. (e.g. apt/yum). See an <a href="https://www.reddit.com/r/perl/comments/1lltfvp/stop_using_your_system_perl/">extensive discussion</a> on the topic.]]></description>
-            <pubDate>2025.06.27</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/06/stop-using-your-system-perl/</guid>
-            <link>https://perlhacks.com/2025/06/stop-using-your-system-perl/</link>
+            <title><![CDATA[Perl 5.42.0 Released: Performance Gains, Feature Refinements, and Key Security Fixes]]></title>
+            <description><![CDATA[The Perl development team has officially released Perl v5.42.0, introducing a blend of modern language features, thoughtful refinements to long-standing behavior, and a round of performance and security enhancements.]]></description>
+            <pubDate>2025.07.05</pubDate>
+            <guid isPermaLink="false">https://medium.com/@Re-News/perl-5-42-0-released-performance-gains-feature-refinements-and-key-security-fixes-1976628bc763</guid>
+            <link>https://medium.com/@Re-News/perl-5-42-0-released-performance-gains-feature-refinements-and-key-security-fixes-1976628bc763</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Analysing FIT data with Perl: producing PNG plots]]></title>
-            <description><![CDATA[FIT files record the activities of people using devices such as sports watches and bike head units.]]></description>
-            <pubDate>2025.06.25</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/analysing-fit-data-with-perl-producing-png-plots/</guid>
-            <link>https://www.perl.com/article/analysing-fit-data-with-perl-producing-png-plots/</link>
-            
-            
-            
-            <author><![CDATA[paul_cochrane]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Lexical Method in Perl v5.42]]></title>
-            <description><![CDATA[There are all kinds of new and nice ways to write Perl code. Reading this article you'll learn about the new, experimental 'class' feature a bit more.]]></description>
-            <pubDate>2025.06.26</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/lexical-method-v542/</guid>
-            <link>https://theweeklychallenge.org/blog/lexical-method-v542/</link>
+            <title><![CDATA[This week in PSC (197) | 2025-06-26]]></title>
+            <description><![CDATA[Another quick update from Perl Steering Council.]]></description>
+            <pubDate>2025.07.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/07/this-week-in-psc-197-2025-06-26.html</guid>
+            <link>https://blogs.perl.org/users/psc/2025/07/this-week-in-psc-197-2025-06-26.html</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -66,15 +50,111 @@
         </item>
         
         <item>
-            <title><![CDATA[AWS DynamoDB]]></title>
-            <description><![CDATA[AWS DynamoDB is a fully managed NoSQL database service provided by AWS.]]></description>
-            <pubDate>2025.06.25</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/aws-dynamodb/</guid>
-            <link>https://theweeklychallenge.org/blog/aws-dynamodb/</link>
+            <title><![CDATA[Neural Networks and Perl]]></title>
+            <description><![CDATA[Stands out by exploring neural networks in Perl, a less common but intriguing combination. It provides a hands-on implementation.]]></description>
+            <pubDate>2025.06.30</pubDate>
+            <guid isPermaLink="false">ihttps://dev.to/duffee/neural-networks-and-perl-4oek</guid>
+            <link>ihttps://dev.to/duffee/neural-networks-and-perl-4oek</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[boyd_duffee]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Keep on Mocking with a Key, Girrrrl]]></title>
+            <description><![CDATA[A fun, practical guide to mocking in Perl that balances humor with solid technical content. Ideal for Perl developers looking to improve their testing skills with minimal jargon.]]></description>
+            <pubDate>2025.05.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/duffee/keep-on-mocking-with-a-key-girrrrl-53oj</guid>
+            <link>https://dev.to/duffee/keep-on-mocking-with-a-key-girrrrl-53oj</link>
+            
+            
+            
+            <author><![CDATA[boyd_duffee]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TPRC Greenville 2025]]></title>
+            <description><![CDATA[A short and effective event report for TPRC 2025. If you missed the event then you must read this.]]></description>
+            <pubDate>2025.07.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/makoto_nozaki/2025/07/tprc-greenville-2025.html</guid>
+            <link>https://blogs.perl.org/users/makoto_nozaki/2025/07/tprc-greenville-2025.html</link>
+            
+            
+            
+            <author><![CDATA[makoto_nozaki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Vibe Coding a Perl interface to a C library]]></title>
+            <description><![CDATA[An excellent technical walkthrough for intermediate-to-advanced Perl programmers needing to interface with C libraries. It presents practical code with useful explanations of the binding process.]]></description>
+            <pubDate>2025.07.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/chrisarg/2025/07/vibe-coding-a-perl-interface-to-a-c-library.html</guid>
+            <link>https://blogs.perl.org/users/chrisarg/2025/07/vibe-coding-a-perl-interface-to-a-c-library.html</link>
+            
+            
+            
+            <author><![CDATA[chrisarg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Vibe coding a Perl interface to a foreign library - Part 2]]></title>
+            <description><![CDATA[An excellent resource for Perl developers needing to create robust, production-ready C library bindings. It has deep technical knowledge with practical implementation advice.]]></description>
+            <pubDate>2025.07.04</pubDate>
+            <guid isPermaLink="false">https://chrisarg.github.io/Killing-It-with-PERL/2025/07/04/Vibe-coding-a-Perl-interface-to-a-foreign-library-Part-2.html</guid>
+            <link>https://chrisarg.github.io/Killing-It-with-PERL/2025/07/04/Vibe-coding-a-Perl-interface-to-a-foreign-library-Part-2.html</link>
+            
+            
+            
+            <author><![CDATA[chrisarg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Attending the Perl Community Conference (Hybrid) July 3-4]]></title>
+            <description><![CDATA[Attending the Perl Community Conference (Hybrid) July 3-4]]></description>
+            <pubDate>2025.07.02</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2025/07/attending-the-perl-community-conference-hybrid-july-3-4.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2025/07/attending-the-perl-community-conference-hybrid-july-3-4.html</link>
+            
+            
+            
+            <author><![CDATA[oodler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.26 Release #184]]></title>
+            <description><![CDATA[2025.26 Release #184]]></description>
+            <pubDate>2025.06.30</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/06/30/2025-06-released/</guid>
+            <link>https://rakudoweekly.blog/2025/06/30/2025-06-released/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -83,8 +163,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/06/dliv-4-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.06.28</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/07/dlv-13-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.07.05</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -98,11 +178,75 @@
         </item>
         
         <item>
+            <title><![CDATA[Object Oriented Programming - OOP in Perl]]></title>
+            <description><![CDATA[You can read the book free of charge on this web site, or if you feel like supporting the writing of this book you can <a href="https://leanpub.com/perl-oop/">buy it</a> and get a pdf and epub version of it.]]></description>
+            <pubDate>2025.07.07</pubDate>
+            <guid isPermaLink="false">https://slides.code-maven.com/perl-oop/</guid>
+            <link>https://slides.code-maven.com/perl-oop/</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Purdue Perl Mongers - TBA]]></title>
             <description><![CDATA[July 9, 2025]]></description>
             
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/events/308504621/</guid>
             <link>https://www.meetup.com/hacklafayette/events/308504621/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[July 9, 2025]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[August 13, 2025]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[September 10, 2025]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
             
             
             
