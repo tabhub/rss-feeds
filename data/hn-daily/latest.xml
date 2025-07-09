@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Supabase MCP can leak your entire SQL database]]></title>
-            <description><![CDATA[779 points | <a href=https://news.ycombinator.com/item?id=44502318 target=_blank>421 comments</a>]]></description>
+            <description><![CDATA[784 points | <a href=https://news.ycombinator.com/item?id=44502318 target=_blank>421 comments</a>]]></description>
             <pubDate>2025-07-08T17:46:55Z</pubDate>
             <guid isPermaLink="false">https://www.generalanalysis.com/blog/supabase-mcp-blog</guid>
             <link>https://www.generalanalysis.com/blog/supabase-mcp-blog</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Google can now read your WhatsApp messages]]></title>
-            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=44501379 target=_blank>309 comments</a>]]></description>
+            <description><![CDATA[448 points | <a href=https://news.ycombinator.com/item?id=44501379 target=_blank>309 comments</a>]]></description>
             <pubDate>2025-07-08T16:11:20Z</pubDate>
             <guid isPermaLink="false">https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/</guid>
             <link>https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/</link>
@@ -50,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[US Court nullifies FTC requirement for click-to-cancel]]></title>
+            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=44504699 target=_blank>331 comments</a>]]></description>
+            <pubDate>2025-07-08T22:42:39Z</pubDate>
+            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/</guid>
+            <link>https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/</link>
+            
+            
+            
+            <author><![CDATA[gausswho]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Breaking Git with a carriage return and cloning RCE]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=44502330 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=44502330 target=_blank>140 comments</a>]]></description>
             <pubDate>2025-07-08T17:48:29Z</pubDate>
             <guid isPermaLink="false">https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384</guid>
             <link>https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384</link>
@@ -67,7 +83,7 @@
         
         <item>
             <title><![CDATA[Smollm3: Smol, multilingual, long-context reasoner LLM]]></title>
-            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=44501413 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=44501413 target=_blank>70 comments</a>]]></description>
             <pubDate>2025-07-08T16:13:40Z</pubDate>
             <guid isPermaLink="false">https://huggingface.co/blog/smollm3</guid>
             <link>https://huggingface.co/blog/smollm3</link>
@@ -75,22 +91,6 @@
             
             
             <author><![CDATA[kashifr]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[US Court nullifies FTC requirement for click-to-cancel]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=44504699 target=_blank>322 comments</a>]]></description>
-            <pubDate>2025-07-08T22:42:39Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/</guid>
-            <link>https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/</link>
-            
-            
-            
-            <author><![CDATA[gausswho]]></author>
             
                 
             
@@ -130,6 +130,22 @@
         </item>
         
         <item>
+            <title><![CDATA[IKEA ditches Zigbee for Thread going all in on Matter smart homes]]></title>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=44507971 target=_blank>131 comments</a>]]></description>
+            <pubDate>2025-07-09T09:42:17Z</pubDate>
+            <guid isPermaLink="false">https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy</guid>
+            <link>https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy</link>
+            
+            
+            
+            <author><![CDATA[thunderbong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[GlobalFoundries to Acquire MIPS]]></title>
             <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=44501821 target=_blank>142 comments</a>]]></description>
             <pubDate>2025-07-08T16:57:18Z</pubDate>
@@ -139,22 +155,6 @@
             
             
             <author><![CDATA[mshockwave]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[IKEA ditches Zigbee for Thread going all in on Matter smart homes]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=44507971 target=_blank>115 comments</a>]]></description>
-            <pubDate>2025-07-09T09:42:17Z</pubDate>
-            <guid isPermaLink="false">https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy</guid>
-            <link>https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy</link>
-            
-            
-            
-            <author><![CDATA[thunderbong]]></author>
             
                 
             
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[RapidRAW: A non-destructive and GPU-accelerated RAW image editor]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=44505876 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44505876 target=_blank>92 comments</a>]]></description>
             <pubDate>2025-07-09T02:37:28Z</pubDate>
             <guid isPermaLink="false">https://github.com/CyberTimon/RapidRAW</guid>
             <link>https://github.com/CyberTimon/RapidRAW</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Astro is a return to the fundamentals of the web]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=44507854 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=44507854 target=_blank>173 comments</a>]]></description>
             <pubDate>2025-07-09T09:18:06Z</pubDate>
             <guid isPermaLink="false">https://websmith.studio/blog/astro-is-a-developers-dream/</guid>
             <link>https://websmith.studio/blog/astro-is-a-developers-dream/</link>
