@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Supabase MCP can leak your entire SQL database]]></title>
-            <description><![CDATA[717 points | <a href=https://news.ycombinator.com/item?id=44502318 target=_blank>376 comments</a>]]></description>
+            <description><![CDATA[722 points | <a href=https://news.ycombinator.com/item?id=44502318 target=_blank>380 comments</a>]]></description>
             <pubDate>2025-07-08T17:46:55Z</pubDate>
             <guid isPermaLink="false">https://www.generalanalysis.com/blog/supabase-mcp-blog</guid>
             <link>https://www.generalanalysis.com/blog/supabase-mcp-blog</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Breaking Git with a carriage return and cloning RCE]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=44502330 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=44502330 target=_blank>119 comments</a>]]></description>
             <pubDate>2025-07-08T17:48:29Z</pubDate>
             <guid isPermaLink="false">https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384</guid>
             <link>https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Smollm3: Smol, multilingual, long-context reasoner LLM]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=44501413 target=_blank>58 comments</a>]]></description>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=44501413 target=_blank>58 comments</a>]]></description>
             <pubDate>2025-07-08T16:13:40Z</pubDate>
             <guid isPermaLink="false">https://huggingface.co/blog/smollm3</guid>
             <link>https://huggingface.co/blog/smollm3</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Firefox is fine. The people running it are not]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=44499057 target=_blank>206 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=44499057 target=_blank>206 comments</a>]]></description>
             <pubDate>2025-07-08T11:35:27Z</pubDate>
             <guid isPermaLink="false">https://www.theregister.com/2025/07/08/firefox_isnt_dead/</guid>
             <link>https://www.theregister.com/2025/07/08/firefox_isnt_dead/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Bulgaria to join euro area on 1 January 2026]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=44505308 target=_blank>262 comments</a>]]></description>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=44505308 target=_blank>265 comments</a>]]></description>
             <pubDate>2025-07-09T00:44:51Z</pubDate>
             <guid isPermaLink="false">https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html</guid>
             <link>https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[GlobalFoundries to Acquire MIPS]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=44501821 target=_blank>128 comments</a>]]></description>
-            <pubDate>2025-07-08T16:57:18Z</pubDate>
-            <guid isPermaLink="false">https://mips.com/press-releases/gf-mips/</guid>
-            <link>https://mips.com/press-releases/gf-mips/</link>
-            
-            
-            
-            <author><![CDATA[mshockwave]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Radium Music Editor]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=44502298 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44502298 target=_blank>45 comments</a>]]></description>
             <pubDate>2025-07-08T17:44:35Z</pubDate>
             <guid isPermaLink="false">http://users.notam02.no/~kjetism/radium/</guid>
             <link>http://users.notam02.no/~kjetism/radium/</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[GlobalFoundries to Acquire MIPS]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=44501821 target=_blank>130 comments</a>]]></description>
+            <pubDate>2025-07-08T16:57:18Z</pubDate>
+            <guid isPermaLink="false">https://mips.com/press-releases/gf-mips/</guid>
+            <link>https://mips.com/press-releases/gf-mips/</link>
+            
+            
+            
+            <author><![CDATA[mshockwave]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Brut: A New Web Framework for Ruby]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=44502463 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=44502463 target=_blank>62 comments</a>]]></description>
             <pubDate>2025-07-08T18:03:20Z</pubDate>
             <guid isPermaLink="false">https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html</guid>
             <link>https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[RapidRAW: A non-destructive and GPU-accelerated RAW image editor]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=44505876 target=_blank>68 comments</a>]]></description>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=44505876 target=_blank>71 comments</a>]]></description>
             <pubDate>2025-07-09T02:37:28Z</pubDate>
             <guid isPermaLink="false">https://github.com/CyberTimon/RapidRAW</guid>
             <link>https://github.com/CyberTimon/RapidRAW</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Blind to Disruption – The CEOs Who Missed the Future]]></title>
-            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=44499873 target=_blank>136 comments</a>]]></description>
-            <pubDate>2025-07-08T13:41:43Z</pubDate>
-            <guid isPermaLink="false">https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/</guid>
-            <link>https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/</link>
+            <title><![CDATA[US Court nullifies FTC requirement for click-to-cancel]]></title>
+            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=44504699 target=_blank>145 comments</a>]]></description>
+            <pubDate>2025-07-08T22:42:39Z</pubDate>
+            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/</guid>
+            <link>https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/</link>
             
             
             
-            <author><![CDATA[ArmageddonIt]]></author>
+            <author><![CDATA[gausswho]]></author>
             
                 
             
