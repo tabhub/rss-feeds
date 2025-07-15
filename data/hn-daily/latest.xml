@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[LLM Inevitabilism]]></title>
-            <description><![CDATA[1299 points | <a href=https://news.ycombinator.com/item?id=44567857 target=_blank>1173 comments</a>]]></description>
+            <description><![CDATA[1327 points | <a href=https://news.ycombinator.com/item?id=44567857 target=_blank>1216 comments</a>]]></description>
             <pubDate>2025-07-15T04:35:35Z</pubDate>
             <guid isPermaLink="false">https://tomrenner.com/posts/llm-inevitabilism/</guid>
             <link>https://tomrenner.com/posts/llm-inevitabilism/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Apple's MLX adding CUDA support]]></title>
-            <description><![CDATA[496 points | <a href=https://news.ycombinator.com/item?id=44565668 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[500 points | <a href=https://news.ycombinator.com/item?id=44565668 target=_blank>176 comments</a>]]></description>
             <pubDate>2025-07-14T21:40:30Z</pubDate>
             <guid isPermaLink="false">https://github.com/ml-explore/mlx/pull/1983</guid>
             <link>https://github.com/ml-explore/mlx/pull/1983</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Cognition (Devin AI) to Acquire Windsurf]]></title>
-            <description><![CDATA[474 points | <a href=https://news.ycombinator.com/item?id=44563324 target=_blank>391 comments</a>]]></description>
+            <description><![CDATA[477 points | <a href=https://news.ycombinator.com/item?id=44563324 target=_blank>393 comments</a>]]></description>
             <pubDate>2025-07-14T18:07:15Z</pubDate>
             <guid isPermaLink="false">https://cognition.ai/blog/windsurf</guid>
             <link>https://cognition.ai/blog/windsurf</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[LIGO detects most massive black hole merger to date]]></title>
-            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=44564656 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=44564656 target=_blank>176 comments</a>]]></description>
             <pubDate>2025-07-14T20:06:51Z</pubDate>
             <guid isPermaLink="false">https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date</guid>
             <link>https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Dog Walk: Blender Studio's official game project]]></title>
-            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=44565603 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=44565603 target=_blank>53 comments</a>]]></description>
             <pubDate>2025-07-14T21:33:16Z</pubDate>
             <guid isPermaLink="false">https://blenderstudio.itch.io/dogwalk</guid>
             <link>https://blenderstudio.itch.io/dogwalk</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[RFC: PHP license update]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=44565647 target=_blank>74 comments</a>]]></description>
-            <pubDate>2025-07-14T21:37:27Z</pubDate>
-            <guid isPermaLink="false">https://wiki.php.net/rfc/php_license_update</guid>
-            <link>https://wiki.php.net/rfc/php_license_update</link>
-            
-            
-            
-            <author><![CDATA[josephwegner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ask HN: Is it time to fork HN into AI/LLM and "Everything else/other?"]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=44571740 target=_blank>170 comments</a>]]></description>
+            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=44571740 target=_blank>198 comments</a>]]></description>
             <pubDate>2025-07-15T14:51:17Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44571740</guid>
             <link>https://news.ycombinator.com/item?id=44571740</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[RFC: PHP license update]]></title>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=44565647 target=_blank>74 comments</a>]]></description>
+            <pubDate>2025-07-14T21:37:27Z</pubDate>
+            <guid isPermaLink="false">https://wiki.php.net/rfc/php_license_update</guid>
+            <link>https://wiki.php.net/rfc/php_license_update</link>
+            
+            
+            
+            <author><![CDATA[josephwegner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Context Rot: How increasing input tokens impacts LLM performance]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=44564248 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=44564248 target=_blank>57 comments</a>]]></description>
             <pubDate>2025-07-14T19:25:15Z</pubDate>
             <guid isPermaLink="false">https://research.trychroma.com/context-rot</guid>
             <link>https://research.trychroma.com/context-rot</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=44565416 target=_blank>126 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=44565416 target=_blank>126 comments</a>]]></description>
             <pubDate>2025-07-14T21:16:19Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html</guid>
             <link>https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[The Collapse of the FDA]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=44566714 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=44566714 target=_blank>171 comments</a>]]></description>
             <pubDate>2025-07-15T00:27:21Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html</guid>
             <link>https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[NeuralOS: An operating system powered by neural networks]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=44564531 target=_blank>50 comments</a>]]></description>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=44564531 target=_blank>51 comments</a>]]></description>
             <pubDate>2025-07-14T19:54:26Z</pubDate>
             <guid isPermaLink="false">https://neural-os.com/</guid>
             <link>https://neural-os.com/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Literalism plaguing today’s movies]]></title>
-            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=44567683 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=44567683 target=_blank>284 comments</a>]]></description>
             <pubDate>2025-07-15T03:52:38Z</pubDate>
             <guid isPermaLink="false">https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies</guid>
             <link>https://www.newyorker.com/culture/critics-notebook/the-new-literalism-plaguing-todays-biggest-movies</link>
