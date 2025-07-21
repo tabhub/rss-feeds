@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Staying cool without refrigerants: Next-generation Peltier cooling]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=44628930 target=_blank>288 comments</a>]]></description>
+            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=44628930 target=_blank>290 comments</a>]]></description>
             <pubDate>2025-07-20T20:18:54Z</pubDate>
             <guid isPermaLink="false">https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling</guid>
             <link>https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[FFmpeg devs boast of another 100x leap thanks to handwritten assembly code]]></title>
-            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=44629206 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[371 points | <a href=https://news.ycombinator.com/item?id=44629206 target=_blank>113 comments</a>]]></description>
             <pubDate>2025-07-20T20:51:41Z</pubDate>
             <guid isPermaLink="false">https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code</guid>
             <link>https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Tough news for our UK users]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=44629134 target=_blank>274 comments</a>]]></description>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=44629134 target=_blank>276 comments</a>]]></description>
             <pubDate>2025-07-20T20:43:16Z</pubDate>
             <guid isPermaLink="false">https://blog.janitorai.com/posts/3/</guid>
             <link>https://blog.janitorai.com/posts/3/</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Speeding up my ZSH shell]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=44626363 target=_blank>110 comments</a>]]></description>
-            <pubDate>2025-07-20T15:51:44Z</pubDate>
-            <guid isPermaLink="false">https://scottspence.com/posts/speeding-up-my-zsh-shell</guid>
-            <link>https://scottspence.com/posts/speeding-up-my-zsh-shell</link>
-            
-            
-            
-            <author><![CDATA[saikatsg]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Log by time, not by count]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=44630927 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=44630927 target=_blank>87 comments</a>]]></description>
             <pubDate>2025-07-21T01:15:55Z</pubDate>
             <guid isPermaLink="false">https://johnscolaro.xyz/blog/log-by-time-not-by-count</guid>
             <link>https://johnscolaro.xyz/blog/log-by-time-not-by-count</link>
@@ -98,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[UK backing down on Apple encryption backdoor after pressure from US]]></title>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=44635745 target=_blank>99 comments</a>]]></description>
+            <pubDate>2025-07-21T14:46:40Z</pubDate>
+            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/</guid>
+            <link>https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/</link>
+            
+            
+            
+            <author><![CDATA[azalemeth]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Show HN: X11 desktop widget that shows location of your network peers on a map]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=44630648 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=44630648 target=_blank>80 comments</a>]]></description>
             <pubDate>2025-07-21T00:16:25Z</pubDate>
             <guid isPermaLink="false">https://github.com/h2337/connmap</guid>
             <link>https://github.com/h2337/connmap</link>
@@ -107,6 +107,22 @@
             
             
             <author><![CDATA[h2337]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Using MacBook's trackpad as digital weighing scale]]></title>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=44635808 target=_blank>40 comments</a>]]></description>
+            <pubDate>2025-07-21T14:51:13Z</pubDate>
+            <guid isPermaLink="false">https://github.com/KrishKrosh/TrackWeight</guid>
+            <link>https://github.com/KrishKrosh/TrackWeight</link>
+            
+            
+            
+            <author><![CDATA[wtcactus]]></author>
             
                 
             
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Peep Show is the most realistic portrayal of evil I have seen (2020)]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=44629299 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=44629299 target=_blank>85 comments</a>]]></description>
             <pubDate>2025-07-20T21:05:19Z</pubDate>
             <guid isPermaLink="false">https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/</guid>
             <link>https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/</link>
@@ -146,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[UK backing down on Apple encryption backdoor after pressure from US]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=44635745 target=_blank>82 comments</a>]]></description>
-            <pubDate>2025-07-21T14:46:40Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/</guid>
-            <link>https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/</link>
+            <title><![CDATA[Agents built from alloys]]></title>
+            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=44630724 target=_blank>75 comments</a>]]></description>
+            <pubDate>2025-07-21T00:33:04Z</pubDate>
+            <guid isPermaLink="false">https://xbow.com/blog/alloy-agents/</guid>
+            <link>https://xbow.com/blog/alloy-agents/</link>
             
             
             
-            <author><![CDATA[azalemeth]]></author>
+            <author><![CDATA[summarity]]></author>
             
                 
             
@@ -178,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Agents built from alloys]]></title>
-            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=44630724 target=_blank>75 comments</a>]]></description>
-            <pubDate>2025-07-21T00:33:04Z</pubDate>
-            <guid isPermaLink="false">https://xbow.com/blog/alloy-agents/</guid>
-            <link>https://xbow.com/blog/alloy-agents/</link>
+            <title><![CDATA[EU commissioner shocked by dangers of some goods sold by Shein and Temu]]></title>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=44629074 target=_blank>165 comments</a>]]></description>
+            <pubDate>2025-07-20T20:35:36Z</pubDate>
+            <guid isPermaLink="false">https://www.theguardian.com/business/2025/jul/20/eu-commissioner-shocked-dangerous-goods-sold-shein-temu</guid>
+            <link>https://www.theguardian.com/business/2025/jul/20/eu-commissioner-shocked-dangerous-goods-sold-shein-temu</link>
             
             
             
-            <author><![CDATA[summarity]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Using MacBook's trackpad as digital weighing scale]]></title>
-            <description><![CDATA[156 points | <a href=https://news.ycombinator.com/item?id=44635808 target=_blank>30 comments</a>]]></description>
-            <pubDate>2025-07-21T14:51:13Z</pubDate>
-            <guid isPermaLink="false">https://github.com/KrishKrosh/TrackWeight</guid>
-            <link>https://github.com/KrishKrosh/TrackWeight</link>
-            
-            
-            
-            <author><![CDATA[wtcactus]]></author>
+            <author><![CDATA[Michelangelo11]]></author>
             
                 
             
