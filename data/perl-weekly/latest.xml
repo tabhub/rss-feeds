@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #730]]></title>
+        <title><![CDATA[Perl Weekly #731]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[MetaCPAN running really well. Thanks!]]></title>
-            <description><![CDATA[MetaCPAN is running smoothly now, thanks to the hardwork of the core team.]]></description>
-            <pubDate>2025.07.08</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2025/07/metacpan-running-really-well-thanks.html</guid>
-            <link>https://blogs.perl.org/users/dean/2025/07/metacpan-running-really-well-thanks.html</link>
+            <title><![CDATA[Announcing wxPerl 3.006]]></title>
+            <description><![CDATA[Major change in 3.006 is a vast overhaul of most of the code to eliminate depending on wxWidgets 2.8 and 3.0 compatibility hacks. The code is much cleaner now, and builds without problems with 3.2, 3.3.0 and 3.3.1 (at this time latest wxWidgets release).<p> This makes wxPerl better prepared for the future! Future releases of wxWidgets should no longer impose substantial porting problems.<p>When building wxPerl, all tests should succeed. If you are missing features please issue a request on the issue tracker. <p> A good showcase is Wx::Demo, also available on GitHub.  For best results, remove all installed Alien::wxWidgets packages and install the latest from GitHub.]]></description>
+            <pubDate>2025.07.25</pubDate>
+            <guid isPermaLink="false">https://github.com/sciurius/wxPerl/releases/</guid>
+            <link>https://github.com/sciurius/wxPerl/releases/</link>
             
             
             
-            <author><![CDATA[dean_hamstead]]></author>
+            <author><![CDATA[johan_vromans]]></author>
             
                 
             
@@ -34,15 +34,63 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.28 Wayland’s Smithy]]></title>
-            <description><![CDATA[2025.28 Wayland’s Smithy]]></description>
-            <pubDate>2025.07.14</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/07/14/2025-28/</guid>
-            <link>https://rakudoweekly.blog/2025/07/14/2025-28/</link>
+            <title><![CDATA[Proxmox Donates €10,000 to The Perl and Raku Foundation]]></title>
+            <description><![CDATA[TPF is looking for more similar-sized donations. See also the <a href="https://news.ycombinator.com/item?id=44659822">discussion</a>.]]></description>
+            <pubDate>2025.07.23</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/proxmox-donates-to-tprf/</guid>
+            <link>https://www.perl.com/article/proxmox-donates-to-tprf/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ANN: Perl.Wiki V 1.29. jsTree version V 1.00. CPAN::MetaCurator V 1.00]]></title>
+            <description><![CDATA[ANN: Perl.Wiki V 1.29. jsTree version V 1.00. CPAN::MetaCurator V 1.00]]></description>
+            <pubDate>2025.07.24</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/07/ann-perlwiki-v-129-jstree-version-v-100-cpanmetacurator-v-100.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2025/07/ann-perlwiki-v-129-jstree-version-v-100-cpanmetacurator-v-100.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Analysing FIT data with Perl: interactive data analysis]]></title>
+            <description><![CDATA[Printing statistics to the terminal or plotting data extracted from FIT files is all well and good. One problem is that the feedback loops are long. Sometimes questions are better answered by playing with the data directly. Enter the Perl Data Language.]]></description>
+            <pubDate>2025.07.27</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/analysing-fit-data-with-perl-interactive-data-analysis/</guid>
+            <link>https://www.perl.com/article/analysing-fit-data-with-perl-interactive-data-analysis/</link>
+            
+            
+            
+            <author><![CDATA[paul_cochrane]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A Quick Update on Dancer2 2.0.0]]></title>
+            <description><![CDATA[A Quick Update on Dancer2 2.0.0]]></description>
+            <pubDate>2025.07.21</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2025/07/a-quick-update-on-dancer2-200.html</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/2025/07/a-quick-update-on-dancer2-200.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -51,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/07/dlvii-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.07.20</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/07/dlviii-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/07/dcx-metacpan-weekly-report-mojolicious.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.07.27</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
