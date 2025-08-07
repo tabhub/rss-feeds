@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I gave the AI arms and legs then it rejected me]]></title>
-            <description><![CDATA[743 points | <a href=https://news.ycombinator.com/item?id=44808794 target=_blank>366 comments</a>]]></description>
+            <description><![CDATA[744 points | <a href=https://news.ycombinator.com/item?id=44808794 target=_blank>367 comments</a>]]></description>
             <pubDate>2025-08-06T07:25:43Z</pubDate>
             <guid isPermaLink="false">https://grell.dev/blog/ai_rejection</guid>
             <link>https://grell.dev/blog/ai_rejection</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Claude Code IDE integration for Emacs]]></title>
-            <description><![CDATA[634 points | <a href=https://news.ycombinator.com/item?id=44811567 target=_blank>208 comments</a>]]></description>
+            <description><![CDATA[638 points | <a href=https://news.ycombinator.com/item?id=44811567 target=_blank>208 comments</a>]]></description>
             <pubDate>2025-08-06T13:17:38Z</pubDate>
             <guid isPermaLink="false">https://github.com/manzaltu/claude-code-ide.el</guid>
             <link>https://github.com/manzaltu/claude-code-ide.el</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Japan: Apple Must Lift Browser Engine Ban by December]]></title>
-            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=44810061 target=_blank>329 comments</a>]]></description>
+            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=44810061 target=_blank>329 comments</a>]]></description>
             <pubDate>2025-08-06T10:07:40Z</pubDate>
             <guid isPermaLink="false">https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/</guid>
             <link>https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Jules, our asynchronous coding agent]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=44813854 target=_blank>177 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=44813854 target=_blank>180 comments</a>]]></description>
             <pubDate>2025-08-06T16:05:39Z</pubDate>
             <guid isPermaLink="false">https://blog.google/technology/google-labs/jules-now-available/</guid>
             <link>https://blog.google/technology/google-labs/jules-now-available/</link>
@@ -75,6 +75,38 @@
             
             
             <author><![CDATA[meetpateltech]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Litestar is worth a look]]></title>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=44816755 target=_blank>59 comments</a>]]></description>
+            <pubDate>2025-08-06T19:43:01Z</pubDate>
+            <guid isPermaLink="false">https://www.b-list.org/weblog/2025/aug/06/litestar/</guid>
+            <link>https://www.b-list.org/weblog/2025/aug/06/litestar/</link>
+            
+            
+            
+            <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=44813789 target=_blank>31 comments</a>]]></description>
+            <pubDate>2025-08-06T16:00:54Z</pubDate>
+            <guid isPermaLink="false">https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/</guid>
+            <link>https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/</link>
+            
+            
+            
+            <author><![CDATA[losgehts]]></author>
             
                 
             
@@ -98,40 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=44813789 target=_blank>31 comments</a>]]></description>
-            <pubDate>2025-08-06T16:00:54Z</pubDate>
-            <guid isPermaLink="false">https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/</guid>
-            <link>https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/</link>
-            
-            
-            
-            <author><![CDATA[losgehts]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Litestar is worth a look]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=44816755 target=_blank>58 comments</a>]]></description>
-            <pubDate>2025-08-06T19:43:01Z</pubDate>
-            <guid isPermaLink="false">https://www.b-list.org/weblog/2025/aug/06/litestar/</guid>
-            <link>https://www.b-list.org/weblog/2025/aug/06/litestar/</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Python performance myths and fairy tales]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=44809387 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=44809387 target=_blank>190 comments</a>]]></description>
             <pubDate>2025-08-06T08:36:28Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/</guid>
             <link>https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[EU proposal to scan all private messages gains momentum]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=44811564 target=_blank>183 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=44811564 target=_blank>184 comments</a>]]></description>
             <pubDate>2025-08-06T13:17:30Z</pubDate>
             <guid isPermaLink="false">https://cointelegraph.com/news/eu-chat-control-plan-gains-support-threatens-encryption</guid>
             <link>https://cointelegraph.com/news/eu-chat-control-plan-gains-support-threatens-encryption</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Project Hyperion: Interstellar ship design competition]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44817539 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=44817539 target=_blank>171 comments</a>]]></description>
             <pubDate>2025-08-06T20:40:17Z</pubDate>
             <guid isPermaLink="false">https://www.projecthyperion.org</guid>
             <link>https://www.projecthyperion.org</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Rethinking DOM from first principles]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=44808542 target=_blank>193 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44808542 target=_blank>194 comments</a>]]></description>
             <pubDate>2025-08-06T06:51:13Z</pubDate>
             <guid isPermaLink="false">https://acko.net/blog/html-is-dead-long-live-html/</guid>
             <link>https://acko.net/blog/html-is-dead-long-live-html/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Google suffers data breach in ongoing Salesforce data theft attacks]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=44812198 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=44812198 target=_blank>87 comments</a>]]></description>
             <pubDate>2025-08-06T14:04:13Z</pubDate>
             <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/</guid>
             <link>https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/</link>
