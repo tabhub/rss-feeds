@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[GPT-5]]></title>
-            <description><![CDATA[788 points | <a href=https://news.ycombinator.com/item?id=44826997 target=_blank>848 comments</a>]]></description>
+            <description><![CDATA[838 points | <a href=https://news.ycombinator.com/item?id=44826997 target=_blank>921 comments</a>]]></description>
             <pubDate>2025-08-07T17:00:21Z</pubDate>
             <guid isPermaLink="false">https://openai.com/gpt-5/</guid>
             <link>https://openai.com/gpt-5/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Emailing a one-time code is worse than passwords]]></title>
-            <description><![CDATA[778 points | <a href=https://news.ycombinator.com/item?id=44819917 target=_blank>629 comments</a>]]></description>
+            <description><![CDATA[789 points | <a href=https://news.ycombinator.com/item?id=44819917 target=_blank>634 comments</a>]]></description>
             <pubDate>2025-08-07T02:19:25Z</pubDate>
             <guid isPermaLink="false">https://blog.danielh.cc/blog/passwords</guid>
             <link>https://blog.danielh.cc/blog/passwords</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Project Hyperion: Interstellar ship design competition]]></title>
-            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=44817539 target=_blank>301 comments</a>]]></description>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=44817539 target=_blank>302 comments</a>]]></description>
             <pubDate>2025-08-06T20:40:17Z</pubDate>
             <guid isPermaLink="false">https://www.projecthyperion.org</guid>
             <link>https://www.projecthyperion.org</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=44819968 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=44819968 target=_blank>157 comments</a>]]></description>
             <pubDate>2025-08-07T02:28:47Z</pubDate>
             <guid isPermaLink="false">https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/</guid>
             <link>https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/</link>
@@ -114,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A fast, growable array with stable pointers in C]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=44815702 target=_blank>79 comments</a>]]></description>
-            <pubDate>2025-08-06T18:21:28Z</pubDate>
-            <guid isPermaLink="false">https://danielchasehooper.com/posts/segment_array/</guid>
-            <link>https://danielchasehooper.com/posts/segment_array/</link>
+            <title><![CDATA[GPT-5 for Developers]]></title>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44827101 target=_blank>81 comments</a>]]></description>
+            <pubDate>2025-08-07T17:06:39Z</pubDate>
+            <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-for-developers</guid>
+            <link>https://openai.com/index/introducing-gpt-5-for-developers</link>
             
             
             
-            <author><![CDATA[ibobev]]></author>
+            <author><![CDATA[6thbit]]></author>
             
                 
             
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Gemini CLI GitHub Actions]]></title>
-            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=44822389 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=44822389 target=_blank>84 comments</a>]]></description>
             <pubDate>2025-08-07T09:28:46Z</pubDate>
             <guid isPermaLink="false">https://blog.google/technology/developers/introducing-gemini-cli-github-actions/</guid>
             <link>https://blog.google/technology/developers/introducing-gemini-cli-github-actions/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Zero-day flaws in authentication, identity, authorization in HashiCorp Vault]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=44821434 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=44821434 target=_blank>86 comments</a>]]></description>
             <pubDate>2025-08-07T07:01:42Z</pubDate>
             <guid isPermaLink="false">https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/</guid>
             <link>https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Leonardo Chiariglione: “I closed MPEG on 2 June 2020”]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=44822637 target=_blank>177 comments</a>]]></description>
-            <pubDate>2025-08-07T10:09:41Z</pubDate>
-            <guid isPermaLink="false">https://leonardo.chiariglione.org/</guid>
-            <link>https://leonardo.chiariglione.org/</link>
-            
-            
-            
-            <author><![CDATA[eggspurt]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Infinite Pixels]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=44824056 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=44824056 target=_blank>44 comments</a>]]></description>
             <pubDate>2025-08-07T13:12:42Z</pubDate>
             <guid isPermaLink="false">https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/</guid>
             <link>https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[OuterVale]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Leonardo Chiariglione: “I closed MPEG on 2 June 2020”]]></title>
+            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=44822637 target=_blank>178 comments</a>]]></description>
+            <pubDate>2025-08-07T10:09:41Z</pubDate>
+            <guid isPermaLink="false">https://leonardo.chiariglione.org/</guid>
+            <link>https://leonardo.chiariglione.org/</link>
+            
+            
+            
+            <author><![CDATA[eggspurt]]></author>
             
                 
             
