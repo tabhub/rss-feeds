@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Fight Chat Control]]></title>
-            <description><![CDATA[1069 points | <a href=https://news.ycombinator.com/item?id=44856426 target=_blank>312 comments</a>]]></description>
+            <description><![CDATA[1084 points | <a href=https://news.ycombinator.com/item?id=44856426 target=_blank>317 comments</a>]]></description>
             <pubDate>2025-08-10T16:50:34Z</pubDate>
             <guid isPermaLink="false">https://fightchatcontrol.eu/</guid>
             <link>https://fightchatcontrol.eu/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Try and]]></title>
-            <description><![CDATA[532 points | <a href=https://news.ycombinator.com/item?id=44855079 target=_blank>262 comments</a>]]></description>
+            <description><![CDATA[535 points | <a href=https://news.ycombinator.com/item?id=44855079 target=_blank>263 comments</a>]]></description>
             <pubDate>2025-08-10T13:32:13Z</pubDate>
             <guid isPermaLink="false">https://ygdp.yale.edu/phenomena/try-and</guid>
             <link>https://ygdp.yale.edu/phenomena/try-and</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2]]></title>
-            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=44855690 target=_blank>82 comments</a>]]></description>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=44855690 target=_blank>82 comments</a>]]></description>
             <pubDate>2025-08-10T15:06:07Z</pubDate>
             <guid isPermaLink="false">https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the</guid>
             <link>https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Engineering.fyi – Search across tech engineering blogs in one place]]></title>
-            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=44855157 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[378 points | <a href=https://news.ycombinator.com/item?id=44855157 target=_blank>102 comments</a>]]></description>
             <pubDate>2025-08-10T13:44:05Z</pubDate>
             <guid isPermaLink="false">https://engineering.fyi/</guid>
             <link>https://engineering.fyi/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[1910: The year the modern world lost its mind]]></title>
-            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=44858154 target=_blank>223 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=44858154 target=_blank>227 comments</a>]]></description>
             <pubDate>2025-08-10T20:48:46Z</pubDate>
             <guid isPermaLink="false">https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost</guid>
             <link>https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Writing simple tab-completions for Bash and Zsh]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=44854035 target=_blank>79 comments</a>]]></description>
-            <pubDate>2025-08-10T09:50:25Z</pubDate>
-            <guid isPermaLink="false">https://mill-build.org/blog/14-bash-zsh-completion.html</guid>
-            <link>https://mill-build.org/blog/14-bash-zsh-completion.html</link>
-            
-            
-            
-            <author><![CDATA[lihaoyi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google paid a $250K reward for a bug]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=44861106 target=_blank>92 comments</a>]]></description>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=44861106 target=_blank>101 comments</a>]]></description>
             <pubDate>2025-08-11T05:56:33Z</pubDate>
             <guid isPermaLink="false">https://issues.chromium.org/issues/412578726</guid>
             <link>https://issues.chromium.org/issues/412578726</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Vanishing from Hyundai’s data network]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=44860139 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=44860139 target=_blank>91 comments</a>]]></description>
             <pubDate>2025-08-11T01:55:26Z</pubDate>
             <guid isPermaLink="false">http://techno-fandom.org/~hobbit/cars/ev/offnet.html</guid>
             <link>http://techno-fandom.org/~hobbit/cars/ev/offnet.html</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Writing simple tab-completions for Bash and Zsh]]></title>
+            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=44854035 target=_blank>79 comments</a>]]></description>
+            <pubDate>2025-08-10T09:50:25Z</pubDate>
+            <guid isPermaLink="false">https://mill-build.org/blog/14-bash-zsh-completion.html</guid>
+            <link>https://mill-build.org/blog/14-bash-zsh-completion.html</link>
+            
+            
+            
+            <author><![CDATA[lihaoyi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Zig's Lovely Syntax]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=44855881 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=44855881 target=_blank>215 comments</a>]]></description>
             <pubDate>2025-08-10T15:33:06Z</pubDate>
             <guid isPermaLink="false">https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html</guid>
             <link>https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Show HN: Bolt – A super-fast, statically-typed scripting language written in C]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=44856935 target=_blank>63 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=44856935 target=_blank>63 comments</a>]]></description>
             <pubDate>2025-08-10T17:53:09Z</pubDate>
             <guid isPermaLink="false">https://github.com/Beariish/bolt</guid>
             <link>https://github.com/Beariish/bolt</link>
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[One Million Screenshots]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=44858067 target=_blank>74 comments</a>]]></description>
-            <pubDate>2025-08-10T20:30:34Z</pubDate>
-            <guid isPermaLink="false">https://onemillionscreenshots.com/?q=random</guid>
-            <link>https://onemillionscreenshots.com/?q=random</link>
-            
-            
-            
-            <author><![CDATA[gaws]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Tesla remotely deactivates rapper's vehicle for singing about the Cybertruck?]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=44859807 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=44859807 target=_blank>131 comments</a>]]></description>
             <pubDate>2025-08-11T00:56:37Z</pubDate>
             <guid isPermaLink="false">https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk</guid>
             <link>https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[Analemma_]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[One Million Screenshots]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=44858067 target=_blank>74 comments</a>]]></description>
+            <pubDate>2025-08-10T20:30:34Z</pubDate>
+            <guid isPermaLink="false">https://onemillionscreenshots.com/?q=random</guid>
+            <link>https://onemillionscreenshots.com/?q=random</link>
+            
+            
+            
+            <author><![CDATA[gaws]]></author>
             
                 
             
