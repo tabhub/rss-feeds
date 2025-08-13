@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[FFmpeg 8.0 adds Whisper support]]></title>
-            <description><![CDATA[665 points | <a href=https://news.ycombinator.com/item?id=44886647 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[669 points | <a href=https://news.ycombinator.com/item?id=44886647 target=_blank>251 comments</a>]]></description>
             <pubDate>2025-08-13T10:19:35Z</pubDate>
             <guid isPermaLink="false">https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b</guid>
             <link>https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Claude says “You're absolutely right!” about everything]]></title>
-            <description><![CDATA[518 points | <a href=https://news.ycombinator.com/item?id=44885398 target=_blank>407 comments</a>]]></description>
+            <description><![CDATA[524 points | <a href=https://news.ycombinator.com/item?id=44885398 target=_blank>410 comments</a>]]></description>
             <pubDate>2025-08-13T06:59:35Z</pubDate>
             <guid isPermaLink="false">https://github.com/anthropics/claude-code/issues/3382</guid>
             <link>https://github.com/anthropics/claude-code/issues/3382</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[F-Droid build servers can't build modern Android apps due to outdated CPUs]]></title>
-            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=44884709 target=_blank>245 comments</a>]]></description>
+            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=44884709 target=_blank>246 comments</a>]]></description>
             <pubDate>2025-08-13T04:43:39Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44884709</guid>
             <link>https://news.ycombinator.com/item?id=44884709</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[This website is for humans]]></title>
-            <description><![CDATA[348 points | <a href=https://news.ycombinator.com/item?id=44889627 target=_blank>168 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=44889627 target=_blank>171 comments</a>]]></description>
             <pubDate>2025-08-13T15:19:53Z</pubDate>
             <guid isPermaLink="false">https://localghost.dev/blog/this-website-is-for-humans/</guid>
             <link>https://localghost.dev/blog/this-website-is-for-humans/</link>
@@ -91,6 +91,22 @@
             
             
             <author><![CDATA[charles_f]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Nginx introduces native support for ACME protocol]]></title>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=44889941 target=_blank>115 comments</a>]]></description>
+            <pubDate>2025-08-13T15:41:55Z</pubDate>
+            <guid isPermaLink="false">https://blog.nginx.org/blog/native-support-for-acme-protocol</guid>
+            <link>https://blog.nginx.org/blog/native-support-for-acme-protocol</link>
+            
+            
+            
+            <author><![CDATA[phickey]]></author>
             
                 
             
@@ -107,22 +123,6 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Nginx introduces native support for ACME protocol]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=44889941 target=_blank>112 comments</a>]]></description>
-            <pubDate>2025-08-13T15:41:55Z</pubDate>
-            <guid isPermaLink="false">https://blog.nginx.org/blog/native-support-for-acme-protocol</guid>
-            <link>https://blog.nginx.org/blog/native-support-for-acme-protocol</link>
-            
-            
-            
-            <author><![CDATA[phickey]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[We caught companies making it harder to delete your personal data online]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=44888445 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=44888445 target=_blank>50 comments</a>]]></description>
             <pubDate>2025-08-13T13:50:35Z</pubDate>
             <guid isPermaLink="false">https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data</guid>
             <link>https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[New treatment eliminates bladder cancer in 82% of patients]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=44889580 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=44889580 target=_blank>81 comments</a>]]></description>
             <pubDate>2025-08-13T15:16:59Z</pubDate>
             <guid isPermaLink="false">https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/</guid>
             <link>https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Nearly 1 in 3 Starlink satellites detected within the SKA-Low frequency band]]></title>
-            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=44885821 target=_blank>148 comments</a>]]></description>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=44885821 target=_blank>148 comments</a>]]></description>
             <pubDate>2025-08-13T08:12:48Z</pubDate>
             <guid isPermaLink="false">https://astrobites.org/2025/08/12/starlink-ska-low/</guid>
             <link>https://astrobites.org/2025/08/12/starlink-ska-low/</link>
