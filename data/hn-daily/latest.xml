@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Anna's Archive: An Update from the Team]]></title>
-            <description><![CDATA[670 points | <a href=https://news.ycombinator.com/item?id=44942501 target=_blank>312 comments</a>]]></description>
+            <description><![CDATA[684 points | <a href=https://news.ycombinator.com/item?id=44942501 target=_blank>316 comments</a>]]></description>
             <pubDate>2025-08-18T16:31:48Z</pubDate>
             <guid isPermaLink="false">https://annas-archive.org/blog/an-update-from-the-team.html</guid>
             <link>https://annas-archive.org/blog/an-update-from-the-team.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Web apps in a single, portable, self-updating, vanilla HTML file]]></title>
-            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=44937991 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[566 points | <a href=https://news.ycombinator.com/item?id=44937991 target=_blank>201 comments</a>]]></description>
             <pubDate>2025-08-18T06:38:11Z</pubDate>
             <guid isPermaLink="false">https://hyperclay.com/</guid>
             <link>https://hyperclay.com/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[FFmpeg Assembly Language Lessons]]></title>
-            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=44940485 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=44940485 target=_blank>82 comments</a>]]></description>
             <pubDate>2025-08-18T13:39:53Z</pubDate>
             <guid isPermaLink="false">https://github.com/FFmpeg/asm-lessons</guid>
             <link>https://github.com/FFmpeg/asm-lessons</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[SystemD Service Hardening]]></title>
-            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=44937550 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=44937550 target=_blank>86 comments</a>]]></description>
             <pubDate>2025-08-18T04:57:47Z</pubDate>
             <guid isPermaLink="false">https://roguesecurity.dev/blog/systemd-hardening</guid>
             <link>https://roguesecurity.dev/blog/systemd-hardening</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Electromechanical reshaping,  an alternative to laser eye surgery]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=44938818 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=44938818 target=_blank>84 comments</a>]]></description>
             <pubDate>2025-08-18T09:35:17Z</pubDate>
             <guid isPermaLink="false">https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html</guid>
             <link>https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Clojure Async Flow Guide]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=44936309 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=44936309 target=_blank>80 comments</a>]]></description>
             <pubDate>2025-08-18T00:52:03Z</pubDate>
             <guid isPermaLink="false">https://clojure.github.io/core.async/flow-guide.html</guid>
             <link>https://clojure.github.io/core.async/flow-guide.html</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[MCP doesn't need tools, it needs code]]></title>
-            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=44938920 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=44938920 target=_blank>116 comments</a>]]></description>
             <pubDate>2025-08-18T09:53:03Z</pubDate>
             <guid isPermaLink="false">https://lucumr.pocoo.org/2025/8/18/code-mcps/</guid>
             <link>https://lucumr.pocoo.org/2025/8/18/code-mcps/</link>
@@ -162,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: Whispering – Open-source, local-first dictation you can trust]]></title>
+            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=44942731 target=_blank>39 comments</a>]]></description>
+            <pubDate>2025-08-18T16:52:29Z</pubDate>
+            <guid isPermaLink="false">https://github.com/epicenter-so/epicenter/tree/main/apps/whispering</guid>
+            <link>https://github.com/epicenter-so/epicenter/tree/main/apps/whispering</link>
+            
+            
+            
+            <author><![CDATA[braden-w]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LLMs and coding agents are a security nightmare]]></title>
-            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=44939331 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[172 points | <a href=https://news.ycombinator.com/item?id=44939331 target=_blank>89 comments</a>]]></description>
             <pubDate>2025-08-18T11:04:34Z</pubDate>
             <guid isPermaLink="false">https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare</guid>
             <link>https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Vibe coding tips and tricks]]></title>
-            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=44940089 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=44940089 target=_blank>80 comments</a>]]></description>
             <pubDate>2025-08-18T12:57:28Z</pubDate>
             <guid isPermaLink="false">https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md</guid>
             <link>https://github.com/awslabs/mcp/blob/main/VIBE_CODING_TIPS_TRICKS.md</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[mooreds]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: Whispering – Open-source, local-first dictation you can trust]]></title>
-            <description><![CDATA[164 points | <a href=https://news.ycombinator.com/item?id=44942731 target=_blank>38 comments</a>]]></description>
-            <pubDate>2025-08-18T16:52:29Z</pubDate>
-            <guid isPermaLink="false">https://github.com/epicenter-so/epicenter/tree/main/apps/whispering</guid>
-            <link>https://github.com/epicenter-so/epicenter/tree/main/apps/whispering</link>
-            
-            
-            
-            <author><![CDATA[braden-w]]></author>
             
                 
             
