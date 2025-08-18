@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #733]]></title>
+        <title><![CDATA[Perl Weekly #734]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[I started to develop SPVM::Mojolicious]]></title>
-            <description><![CDATA[I started to develop SPVM::Mojolicious]]></description>
-            <pubDate>2025.08.09</pubDate>
-            <guid isPermaLink="false">https://dev.to/yukikimoto/i-started-to-develope-spvmmojolicious-4hif</guid>
-            <link>https://dev.to/yukikimoto/i-started-to-develope-spvmmojolicious-4hif</link>
+            <title><![CDATA[PCC Videos Now Being Released]]></title>
+            <description><![CDATA[The 2024 Perl Community Conference videos are being sent out now.]]></description>
+            <pubDate>2025.08.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2025/08/pcc-videos-now-being-released.html</guid>
+            <link>https://blogs.perl.org/users/oodler_577/2025/08/pcc-videos-now-being-released.html</link>
             
             
             
-            <author><![CDATA[yuki_kimoto]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Caching in Perl]]></title>
-            <description><![CDATA[Redis / Valkey]]></description>
-            <pubDate>2025.08.07</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/caching-in-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/caching-in-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[oodler]]></author>
             
                 
             
@@ -50,59 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[A Rusty Web? An Excursion of a Perl Guy into Rust Land]]></title>
-            <description><![CDATA[A Rusty Web? An Excursion of a Perl Guy into Rust Land]]></description>
-            <pubDate>2025.08.05</pubDate>
-            <guid isPermaLink="false">https://www.endpointdev.com/blog/2025/08/a-rusty-web/</guid>
-            <link>https://www.endpointdev.com/blog/2025/08/a-rusty-web/</link>
-            
-            
-            
-            <author><![CDATA[melmothx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AWS Lambda]]></title>
-            <description><![CDATA[AWS Lambda is a serverless compute service that allows you to run code without having to manage servers.]]></description>
-            <pubDate>2025.08.05</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/aws-lambda/</guid>
-            <link>https://theweeklychallenge.org/blog/aws-lambda/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Serialisation in Perl]]></title>
-            <description><![CDATA[Storable vs Sereal]]></description>
-            <pubDate>2025.08.06</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/serialisation-in-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/serialisation-in-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GPT5 , Perl and PDL]]></title>
-            <description><![CDATA[Seems #ChatGPT5 uses Perl along with PDL for the agentic coding step - What does that mean?]]></description>
-            <pubDate>2025.08.10</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1mm5dna/gpt5_perl_and_pdl/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1mm5dna/gpt5_perl_and_pdl/</link>
+            <title><![CDATA[Python Surges in Popularity. And So Does Perl]]></title>
+            <description><![CDATA[Perl takes a big jump in TIOBE's Programming Community Index.]]></description>
+            <pubDate>2025.08.16</pubDate>
+            <guid isPermaLink="false">https://developers.slashdot.org/story/25/08/16/0658254/python-surges-in-popularity-and-so-does-perl</guid>
+            <link>https://developers.slashdot.org/story/25/08/16/0658254/python-surges-in-popularity-and-so-does-perl</link>
             
             
             
@@ -114,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[GPT5 and Perl]]></title>
-            <description><![CDATA[Apparently GPT5 are trained in datasets that overrepresent Perl. Heh?]]></description>
-            <pubDate>2025.08</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1mlz8xv/gpt5_and_perl/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1mlz8xv/gpt5_and_perl/</link>
+            <title><![CDATA[Kaiju Boss Battle: A Dist::Zilla Journey from Chaos to Co-Op]]></title>
+            <description><![CDATA[Interesting take on Dist::Zilla along with few other alternatives.]]></description>
+            <pubDate>2025.08.17</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2025/08/17/kaiju-boss-battle-a-distzilla-journey-from-chaos-to-co-op</guid>
+            <link>https://phoenixtrap.com/2025/08/17/kaiju-boss-battle-a-distzilla-journey-from-chaos-to-co-op</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Tiobe index for August 2025 puts Perl in the top 10 above PHP]]></title>
-            <description><![CDATA[For year the Perl community was say how TIOBE is flawed. Now what?]]></description>
-            <pubDate>2025.08.10</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1mmsr19/tiobe_index_for_august_2025_puts_perl_in_the_top/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1mmsr19/tiobe_index_for_august_2025_puts_perl_in_the_top/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[mark_gardner]]></author>
             
                 
             
@@ -146,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[CVE-2025-40909]]></title>
-            <description><![CDATA[CVE-2025-40909]]></description>
-            <pubDate>2025.08.07</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/cve-2025-40909/</guid>
-            <link>https://theweeklychallenge.org/blog/cve-2025-40909/</link>
+            <title><![CDATA[2025.32 Cyber Resilience]]></title>
+            <description><![CDATA[2025.32 Cyber Resilience]]></description>
+            <pubDate>2025.08.11</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/08/11/2025-32-cyber-resilience/</guid>
+            <link>https://rakudoweekly.blog/2025/08/11/2025-32-cyber-resilience/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -163,30 +83,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/08/dlx-12-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/08/dcxi-metacpan-weekly-report-mcp.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.08.09</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/08/dlxi-6-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/08/dcxii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.08.15</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[August 13, 2025]]></description>
-            
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
