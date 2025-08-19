@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[OpenMower – An open source lawn mower]]></title>
-            <description><![CDATA[551 points | <a href=https://news.ycombinator.com/item?id=44946996 target=_blank>177 comments</a>]]></description>
+            <description><![CDATA[552 points | <a href=https://news.ycombinator.com/item?id=44946996 target=_blank>177 comments</a>]]></description>
             <pubDate>2025-08-19T00:35:08Z</pubDate>
             <guid isPermaLink="false">https://github.com/ClemensElflein/OpenMower</guid>
             <link>https://github.com/ClemensElflein/OpenMower</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos]]></title>
-            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=44953032 target=_blank>153 comments</a>]]></description>
+            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=44953032 target=_blank>156 comments</a>]]></description>
             <pubDate>2025-08-19T15:55:15Z</pubDate>
             <guid isPermaLink="false">https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/</guid>
             <link>https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA["Remove mentions of XSLT from the html spec"]]></title>
-            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=44952185 target=_blank>396 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=44952185 target=_blank>396 comments</a>]]></description>
             <pubDate>2025-08-19T14:48:54Z</pubDate>
             <guid isPermaLink="false">https://github.com/whatwg/html/pull/11563</guid>
             <link>https://github.com/whatwg/html/pull/11563</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Prime Number Grid]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=44949162 target=_blank>90 comments</a>]]></description>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=44949162 target=_blank>90 comments</a>]]></description>
             <pubDate>2025-08-19T07:33:09Z</pubDate>
             <guid isPermaLink="false">https://susam.net/primegrid.html</guid>
             <link>https://susam.net/primegrid.html</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[UK drops demand for backdoor into Apple encryption]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=44950600 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=44950600 target=_blank>98 comments</a>]]></description>
             <pubDate>2025-08-19T11:58:34Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped</guid>
             <link>https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Custom telescope mount using harmonic drives and ESP32]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=44949895 target=_blank>91 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=44949895 target=_blank>93 comments</a>]]></description>
             <pubDate>2025-08-19T09:46:27Z</pubDate>
             <guid isPermaLink="false">https://www.svendewaerhert.com/blog/telescope-mount/</guid>
             <link>https://www.svendewaerhert.com/blog/telescope-mount/</link>
@@ -146,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Shamelessness as a strategy (2019)]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=44945943 target=_blank>147 comments</a>]]></description>
-            <pubDate>2025-08-18T22:27:01Z</pubDate>
-            <guid isPermaLink="false">https://nadia.xyz/shameless</guid>
-            <link>https://nadia.xyz/shameless</link>
+            <title><![CDATA[Without the futex, it's futile]]></title>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=44951563 target=_blank>107 comments</a>]]></description>
+            <pubDate>2025-08-19T13:53:42Z</pubDate>
+            <guid isPermaLink="false">https://h4x0r.org/futex/</guid>
+            <link>https://h4x0r.org/futex/</link>
             
             
             
-            <author><![CDATA[wdaher]]></author>
+            <author><![CDATA[eatonphil]]></author>
             
                 
             
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Without the futex, it's futile]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=44951563 target=_blank>105 comments</a>]]></description>
-            <pubDate>2025-08-19T13:53:42Z</pubDate>
-            <guid isPermaLink="false">https://h4x0r.org/futex/</guid>
-            <link>https://h4x0r.org/futex/</link>
-            
-            
-            
-            <author><![CDATA[eatonphil]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Vendors that treat single sign-on as a luxury feature]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=44955457 target=_blank>125 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=44955457 target=_blank>128 comments</a>]]></description>
             <pubDate>2025-08-19T19:38:38Z</pubDate>
             <guid isPermaLink="false">https://sso.tax/</guid>
             <link>https://sso.tax/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[vinnyglennon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[D2 (text to diagram tool) now supports ASCII renders]]></title>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=44954524 target=_blank>25 comments</a>]]></description>
+            <pubDate>2025-08-19T18:14:41Z</pubDate>
+            <guid isPermaLink="false">https://d2lang.com/blog/ascii/</guid>
+            <link>https://d2lang.com/blog/ascii/</link>
+            
+            
+            
+            <author><![CDATA[alixanderwang]]></author>
             
                 
             
