@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[AGENTS.md – Open format for guiding coding agents]]></title>
-            <description><![CDATA[750 points | <a href=https://news.ycombinator.com/item?id=44957443 target=_blank>357 comments</a>]]></description>
+            <description><![CDATA[753 points | <a href=https://news.ycombinator.com/item?id=44957443 target=_blank>357 comments</a>]]></description>
             <pubDate>2025-08-20T00:15:03Z</pubDate>
             <guid isPermaLink="false">https://agents.md/</guid>
             <link>https://agents.md/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Copilot broke audit logs, but Microsoft won't tell customers]]></title>
-            <description><![CDATA[729 points | <a href=https://news.ycombinator.com/item?id=44957454 target=_blank>270 comments</a>]]></description>
+            <description><![CDATA[730 points | <a href=https://news.ycombinator.com/item?id=44957454 target=_blank>270 comments</a>]]></description>
             <pubDate>2025-08-20T00:18:00Z</pubDate>
             <guid isPermaLink="false">https://pistachioapp.com/blog/copilot-broke-your-audit-log</guid>
             <link>https://pistachioapp.com/blog/copilot-broke-your-audit-log</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Ask HN: Why does the US Visa application website do a port-scan of my network?]]></title>
-            <description><![CDATA[463 points | <a href=https://news.ycombinator.com/item?id=44959073 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=44959073 target=_blank>213 comments</a>]]></description>
             <pubDate>2025-08-20T06:03:03Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=44959073</guid>
             <link>https://news.ycombinator.com/item?id=44959073</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Show HN: I was curious about spherical helix, ended up making this visualization]]></title>
-            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=44962066 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=44962066 target=_blank>85 comments</a>]]></description>
             <pubDate>2025-08-20T14:02:47Z</pubDate>
             <guid isPermaLink="false">https://visualrambling.space/moving-objects-in-3d/</guid>
             <link>https://visualrambling.space/moving-objects-in-3d/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Tidewave Web: in-browser coding agent for Rails and Phoenix]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=44960316 target=_blank>42 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=44960316 target=_blank>43 comments</a>]]></description>
             <pubDate>2025-08-20T09:43:04Z</pubDate>
             <guid isPermaLink="false">https://tidewave.ai/blog/tidewave-web-phoenix-rails</guid>
             <link>https://tidewave.ai/blog/tidewave-web-phoenix-rails</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Notion releases offline mode]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=44954665 target=_blank>171 comments</a>]]></description>
-            <pubDate>2025-08-19T18:27:34Z</pubDate>
-            <guid isPermaLink="false">https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know</guid>
-            <link>https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know</link>
-            
-            
-            
-            <author><![CDATA[ericzawo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Gemma 3 270M re-implemented in pure PyTorch for local tinkering]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=44962059 target=_blank>32 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=44962059 target=_blank>33 comments</a>]]></description>
             <pubDate>2025-08-20T14:01:26Z</pubDate>
             <guid isPermaLink="false">https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3</guid>
             <link>https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Sequoia backs Zed]]></title>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=44961172 target=_blank>102 comments</a>]]></description>
+            <pubDate>2025-08-20T12:13:16Z</pubDate>
+            <guid isPermaLink="false">https://zed.dev/blog/sequoia-backs-zed</guid>
+            <link>https://zed.dev/blog/sequoia-backs-zed</link>
+            
+            
+            
+            <author><![CDATA[vquemener]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Modern CI is too complex and misdirected (2021)]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=44958400 target=_blank>169 comments</a>]]></description>
+            <description><![CDATA[179 points | <a href=https://news.ycombinator.com/item?id=44958400 target=_blank>169 comments</a>]]></description>
             <pubDate>2025-08-20T03:30:06Z</pubDate>
             <guid isPermaLink="false">https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/</guid>
             <link>https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Sequoia backs Zed]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=44961172 target=_blank>98 comments</a>]]></description>
-            <pubDate>2025-08-20T12:13:16Z</pubDate>
-            <guid isPermaLink="false">https://zed.dev/blog/sequoia-backs-zed</guid>
-            <link>https://zed.dev/blog/sequoia-backs-zed</link>
+            <title><![CDATA[Pixel 10 Phones]]></title>
+            <description><![CDATA[175 points | <a href=https://news.ycombinator.com/item?id=44963939 target=_blank>274 comments</a>]]></description>
+            <pubDate>2025-08-20T17:24:10Z</pubDate>
+            <guid isPermaLink="false">https://blog.google/products/pixel/google-pixel-10-pro-xl/</guid>
+            <link>https://blog.google/products/pixel/google-pixel-10-pro-xl/</link>
             
             
             
-            <author><![CDATA[vquemener]]></author>
+            <author><![CDATA[gotmedium]]></author>
             
                 
             
