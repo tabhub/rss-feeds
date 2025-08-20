@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos]]></title>
-            <description><![CDATA[574 points | <a href=https://news.ycombinator.com/item?id=44953032 target=_blank>192 comments</a>]]></description>
+            <description><![CDATA[578 points | <a href=https://news.ycombinator.com/item?id=44953032 target=_blank>196 comments</a>]]></description>
             <pubDate>2025-08-19T15:55:15Z</pubDate>
             <guid isPermaLink="false">https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/</guid>
             <link>https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Copilot broke audit logs, but Microsoft won't tell customers]]></title>
-            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=44957454 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=44957454 target=_blank>157 comments</a>]]></description>
             <pubDate>2025-08-20T00:18:00Z</pubDate>
             <guid isPermaLink="false">https://pistachioapp.com/blog/copilot-broke-your-audit-log</guid>
             <link>https://pistachioapp.com/blog/copilot-broke-your-audit-log</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[AGENTS.md – Open format for guiding coding agents]]></title>
-            <description><![CDATA[443 points | <a href=https://news.ycombinator.com/item?id=44957443 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[454 points | <a href=https://news.ycombinator.com/item?id=44957443 target=_blank>202 comments</a>]]></description>
             <pubDate>2025-08-20T00:15:03Z</pubDate>
             <guid isPermaLink="false">https://agents.md/</guid>
             <link>https://agents.md/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA["Remove mentions of XSLT from the html spec"]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=44952185 target=_blank>454 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=44952185 target=_blank>456 comments</a>]]></description>
             <pubDate>2025-08-19T14:48:54Z</pubDate>
             <guid isPermaLink="false">https://github.com/whatwg/html/pull/11563</guid>
             <link>https://github.com/whatwg/html/pull/11563</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[D2 (text to diagram tool) now supports ASCII renders]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=44954524 target=_blank>48 comments</a>]]></description>
+            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=44954524 target=_blank>50 comments</a>]]></description>
             <pubDate>2025-08-19T18:14:41Z</pubDate>
             <guid isPermaLink="false">https://d2lang.com/blog/ascii/</guid>
             <link>https://d2lang.com/blog/ascii/</link>
@@ -98,40 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Custom telescope mount using harmonic drives and ESP32]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=44949895 target=_blank>104 comments</a>]]></description>
-            <pubDate>2025-08-19T09:46:27Z</pubDate>
-            <guid isPermaLink="false">https://www.svendewaerhert.com/blog/telescope-mount/</guid>
-            <link>https://www.svendewaerhert.com/blog/telescope-mount/</link>
-            
-            
-            
-            <author><![CDATA[waerhert]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Prime Number Grid]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=44949162 target=_blank>93 comments</a>]]></description>
-            <pubDate>2025-08-19T07:33:09Z</pubDate>
-            <guid isPermaLink="false">https://susam.net/primegrid.html</guid>
-            <link>https://susam.net/primegrid.html</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[How to Draw a Space Invader]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=44956915 target=_blank>26 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=44956915 target=_blank>27 comments</a>]]></description>
             <pubDate>2025-08-19T22:41:16Z</pubDate>
             <guid isPermaLink="false">https://muffinman.io/blog/invaders/</guid>
             <link>https://muffinman.io/blog/invaders/</link>
@@ -139,6 +107,22 @@
             
             
             <author><![CDATA[abdusco]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Custom telescope mount using harmonic drives and ESP32]]></title>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=44949895 target=_blank>105 comments</a>]]></description>
+            <pubDate>2025-08-19T09:46:27Z</pubDate>
+            <guid isPermaLink="false">https://www.svendewaerhert.com/blog/telescope-mount/</guid>
+            <link>https://www.svendewaerhert.com/blog/telescope-mount/</link>
+            
+            
+            
+            <author><![CDATA[waerhert]]></author>
             
                 
             
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Without the futex, it's futile]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=44951563 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=44951563 target=_blank>122 comments</a>]]></description>
             <pubDate>2025-08-19T13:53:42Z</pubDate>
             <guid isPermaLink="false">https://h4x0r.org/futex/</guid>
             <link>https://h4x0r.org/futex/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Vendors that treat single sign-on as a luxury feature]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=44955457 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=44955457 target=_blank>166 comments</a>]]></description>
             <pubDate>2025-08-19T19:38:38Z</pubDate>
             <guid isPermaLink="false">https://sso.tax/</guid>
             <link>https://sso.tax/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Emacs as your video-trimming tool]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=44953316 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=44953316 target=_blank>120 comments</a>]]></description>
             <pubDate>2025-08-19T16:22:01Z</pubDate>
             <guid isPermaLink="false">https://xenodium.com/emacs-as-your-video-trimming-tool</guid>
             <link>https://xenodium.com/emacs-as-your-video-trimming-tool</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[xenodium]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Notion releases offline mode]]></title>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=44954665 target=_blank>153 comments</a>]]></description>
+            <pubDate>2025-08-19T18:27:34Z</pubDate>
+            <guid isPermaLink="false">https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know</guid>
+            <link>https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know</link>
+            
+            
+            
+            <author><![CDATA[ericzawo]]></author>
             
                 
             
