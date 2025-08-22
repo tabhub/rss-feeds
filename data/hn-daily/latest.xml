@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard']]></title>
-            <description><![CDATA[1395 points | <a href=https://news.ycombinator.com/item?id=44972151 target=_blank>589 comments</a>]]></description>
+            <description><![CDATA[1406 points | <a href=https://news.ycombinator.com/item?id=44972151 target=_blank>592 comments</a>]]></description>
             <pubDate>2025-08-21T12:53:16Z</pubDate>
             <guid isPermaLink="false">https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/</guid>
             <link>https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mark Zuckerberg freezes AI hiring amid bubble fears]]></title>
-            <description><![CDATA[749 points | <a href=https://news.ycombinator.com/item?id=44971273 target=_blank>793 comments</a>]]></description>
+            <description><![CDATA[750 points | <a href=https://news.ycombinator.com/item?id=44971273 target=_blank>795 comments</a>]]></description>
             <pubDate>2025-08-21T11:04:08Z</pubDate>
             <guid isPermaLink="false">https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/</guid>
             <link>https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[AI tooling must be disclosed for contributions]]></title>
-            <description><![CDATA[639 points | <a href=https://news.ycombinator.com/item?id=44976568 target=_blank>374 comments</a>]]></description>
+            <description><![CDATA[640 points | <a href=https://news.ycombinator.com/item?id=44976568 target=_blank>379 comments</a>]]></description>
             <pubDate>2025-08-21T18:49:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/ghostty-org/ghostty/pull/8289</guid>
             <link>https://github.com/ghostty-org/ghostty/pull/8289</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[DeepSeek-v3.1]]></title>
-            <description><![CDATA[548 points | <a href=https://news.ycombinator.com/item?id=44976764 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[554 points | <a href=https://news.ycombinator.com/item?id=44976764 target=_blank>147 comments</a>]]></description>
             <pubDate>2025-08-21T19:06:09Z</pubDate>
             <guid isPermaLink="false">https://api-docs.deepseek.com/news/news250821</guid>
             <link>https://api-docs.deepseek.com/news/news250821</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Weaponizing image scaling against production AI systems]]></title>
-            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=44971845 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=44971845 target=_blank>114 comments</a>]]></description>
             <pubDate>2025-08-21T12:20:53Z</pubDate>
             <guid isPermaLink="false">https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/</guid>
             <link>https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[I forced every engineer to take sales calls and they rewrote our platform]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=44974230 target=_blank>193 comments</a>]]></description>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=44974230 target=_blank>193 comments</a>]]></description>
             <pubDate>2025-08-21T15:46:16Z</pubDate>
             <guid isPermaLink="false">https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/</guid>
             <link>https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/</link>
@@ -146,6 +146,22 @@
         </item>
         
         <item>
+            <title><![CDATA[Code formatting comes to uv experimentally]]></title>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=44977645 target=_blank>159 comments</a>]]></description>
+            <pubDate>2025-08-21T20:26:44Z</pubDate>
+            <guid isPermaLink="false">https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/</guid>
+            <link>https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/</link>
+            
+            
+            
+            <author><![CDATA[tanelpoder]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Using Podman, Compose and BuildKit]]></title>
             <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=44971212 target=_blank>100 comments</a>]]></description>
             <pubDate>2025-08-21T10:54:13Z</pubDate>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Code formatting comes to uv experimentally]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=44977645 target=_blank>159 comments</a>]]></description>
-            <pubDate>2025-08-21T20:26:44Z</pubDate>
-            <guid isPermaLink="false">https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/</guid>
-            <link>https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/</link>
-            
-            
-            
-            <author><![CDATA[tanelpoder]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Io_uring, kTLS and Rust for zero syscall HTTPS server]]></title>
-            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=44980865 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=44980865 target=_blank>40 comments</a>]]></description>
             <pubDate>2025-08-22T03:51:44Z</pubDate>
             <guid isPermaLink="false">https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html</guid>
             <link>https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[How well does the money laundering control system work?]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=44972213 target=_blank>266 comments</a>]]></description>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=44972213 target=_blank>268 comments</a>]]></description>
             <pubDate>2025-08-21T12:58:17Z</pubDate>
             <guid isPermaLink="false">https://www.journals.uchicago.edu/doi/10.1086/735665</guid>
             <link>https://www.journals.uchicago.edu/doi/10.1086/735665</link>
