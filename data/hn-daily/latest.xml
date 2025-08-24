@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Manim: Animation engine for explanatory math videos]]></title>
-            <description><![CDATA[396 points | <a href=https://news.ycombinator.com/item?id=44994071 target=_blank>66 comments</a>]]></description>
-            <pubDate>2025-08-23T07:35:49Z</pubDate>
-            <guid isPermaLink="false">https://github.com/3b1b/manim</guid>
-            <link>https://github.com/3b1b/manim</link>
-            
-            
-            
-            <author><![CDATA[pykello]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[What makes Claude Code so damn good]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=44998295 target=_blank>216 comments</a>]]></description>
+            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=44998295 target=_blank>219 comments</a>]]></description>
             <pubDate>2025-08-23T19:07:42Z</pubDate>
             <guid isPermaLink="false">https://minusx.ai/blog/decoding-claude-code/</guid>
             <link>https://minusx.ai/blog/decoding-claude-code/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Line scan camera image processing for train photography]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=44996938 target=_blank>56 comments</a>]]></description>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=44996938 target=_blank>56 comments</a>]]></description>
             <pubDate>2025-08-23T16:09:21Z</pubDate>
             <guid isPermaLink="false">https://daniel.lawrence.lu/blog/y2025m09d21/</guid>
             <link>https://daniel.lawrence.lu/blog/y2025m09d21/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Librebox: An open source, Roblox-compatible game engine]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=44995147 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=44995147 target=_blank>83 comments</a>]]></description>
             <pubDate>2025-08-23T11:22:15Z</pubDate>
             <guid isPermaLink="false">https://github.com/librebox-devs/librebox-demo</guid>
             <link>https://github.com/librebox-devs/librebox-demo</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[RFC 9839 and Bad Unicode]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=44995640 target=_blank>119 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=44995640 target=_blank>119 comments</a>]]></description>
             <pubDate>2025-08-23T12:54:01Z</pubDate>
             <guid isPermaLink="false">https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839</guid>
             <link>https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[I made a floppy disk from scratch]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=44994918 target=_blank>72 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=44994918 target=_blank>72 comments</a>]]></description>
             <pubDate>2025-08-23T10:32:43Z</pubDate>
             <guid isPermaLink="false">https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch</guid>
             <link>https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch</link>
@@ -146,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[How to build a coding agent]]></title>
+            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=45001051 target=_blank>45 comments</a>]]></description>
+            <pubDate>2025-08-24T03:21:14Z</pubDate>
+            <guid isPermaLink="false">https://ghuntley.com/agent/</guid>
+            <link>https://ghuntley.com/agent/</link>
+            
+            
+            
+            <author><![CDATA[ghuntley]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The cost of interrupted work (2023)]]></title>
-            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=44999373 target=_blank>104 comments</a>]]></description>
+            <description><![CDATA[171 points | <a href=https://news.ycombinator.com/item?id=44999373 target=_blank>105 comments</a>]]></description>
             <pubDate>2025-08-23T21:45:06Z</pubDate>
             <guid isPermaLink="false">https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html</guid>
             <link>https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html</link>
@@ -162,15 +162,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How to build a coding agent]]></title>
-            <description><![CDATA[158 points | <a href=https://news.ycombinator.com/item?id=45001051 target=_blank>40 comments</a>]]></description>
-            <pubDate>2025-08-24T03:21:14Z</pubDate>
-            <guid isPermaLink="false">https://ghuntley.com/agent/</guid>
-            <link>https://ghuntley.com/agent/</link>
+            <title><![CDATA[Writing Speed-of-Light Flash Attention for 5090 in CUDA C++]]></title>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=44995508 target=_blank>33 comments</a>]]></description>
+            <pubDate>2025-08-23T12:29:02Z</pubDate>
+            <guid isPermaLink="false">https://gau-nernst.github.io/fa-5090/</guid>
+            <link>https://gau-nernst.github.io/fa-5090/</link>
             
             
             
-            <author><![CDATA[ghuntley]]></author>
+            <author><![CDATA[dsr12]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Writing Speed-of-Light Flash Attention for 5090 in CUDA C++]]></title>
-            <description><![CDATA[146 points | <a href=https://news.ycombinator.com/item?id=44995508 target=_blank>33 comments</a>]]></description>
-            <pubDate>2025-08-23T12:29:02Z</pubDate>
-            <guid isPermaLink="false">https://gau-nernst.github.io/fa-5090/</guid>
-            <link>https://gau-nernst.github.io/fa-5090/</link>
+            <title><![CDATA[AGI is an engineering problem, not a model training problem]]></title>
+            <description><![CDATA[143 points | <a href=https://news.ycombinator.com/item?id=45000176 target=_blank>282 comments</a>]]></description>
+            <pubDate>2025-08-24T00:18:52Z</pubDate>
+            <guid isPermaLink="false">https://www.vincirufus.com/posts/agi-is-engineering-problem/</guid>
+            <link>https://www.vincirufus.com/posts/agi-is-engineering-problem/</link>
             
             
             
-            <author><![CDATA[dsr12]]></author>
+            <author><![CDATA[vincirufus]]></author>
             
                 
             
