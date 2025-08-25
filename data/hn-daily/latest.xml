@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[A German ISP changed their DNS to block my website]]></title>
-            <description><![CDATA[749 points | <a href=https://news.ycombinator.com/item?id=45003033 target=_blank>397 comments</a>]]></description>
-            <pubDate>2025-08-24T10:27:19Z</pubDate>
-            <guid isPermaLink="false">https://lina.sh/blog/telefonica-sabotages-me</guid>
-            <link>https://lina.sh/blog/telefonica-sabotages-me</link>
-            
-            
-            
-            <author><![CDATA[shaunpud]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Comet AI browser can get prompt injected from any site, drain your bank account]]></title>
             <description><![CDATA[558 points | <a href=https://news.ycombinator.com/item?id=45004846 target=_blank>190 comments</a>]]></description>
             <pubDate>2025-08-24T15:14:34Z</pubDate>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Ban me at the IP level if you don't like me]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=45010183 target=_blank>204 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=45010183 target=_blank>214 comments</a>]]></description>
             <pubDate>2025-08-25T04:23:29Z</pubDate>
             <guid isPermaLink="false">https://boston.conman.org/2025/08/21.1</guid>
             <link>https://boston.conman.org/2025/08/21.1</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Everything I know about good API design]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=45006801 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=45006801 target=_blank>110 comments</a>]]></description>
             <pubDate>2025-08-24T19:10:09Z</pubDate>
             <guid isPermaLink="false">https://www.seangoedecke.com/good-api-design/</guid>
             <link>https://www.seangoedecke.com/good-api-design/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Making games in Go: 3 months without LLMs vs. 3 days with LLMs]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=45004728 target=_blank>204 comments</a>]]></description>
+            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=45004728 target=_blank>204 comments</a>]]></description>
             <pubDate>2025-08-24T15:01:24Z</pubDate>
             <guid isPermaLink="false">https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/</guid>
             <link>https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/</link>
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=45005545 target=_blank>419 comments</a>]]></description>
-            <pubDate>2025-08-24T16:30:18Z</pubDate>
-            <guid isPermaLink="false">https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/</guid>
-            <link>https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/</link>
-            
-            
-            
-            <author><![CDATA[gloxkiqcza]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[What are OKLCH colors?]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=45010876 target=_blank>59 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=45010876 target=_blank>63 comments</a>]]></description>
             <pubDate>2025-08-25T06:32:04Z</pubDate>
             <guid isPermaLink="false">https://jakub.kr/components/oklch-colors</guid>
             <link>https://jakub.kr/components/oklch-colors</link>
@@ -146,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?]]></title>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=45005545 target=_blank>432 comments</a>]]></description>
+            <pubDate>2025-08-24T16:30:18Z</pubDate>
+            <guid isPermaLink="false">https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/</guid>
+            <link>https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/</link>
+            
+            
+            
+            <author><![CDATA[gloxkiqcza]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[We put a coding agent in a while loop]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=45005434 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=45005434 target=_blank>180 comments</a>]]></description>
             <pubDate>2025-08-24T16:18:53Z</pubDate>
             <guid isPermaLink="false">https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md</guid>
             <link>https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Uncle Sam shouldn't own Intel stock]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=45008056 target=_blank>187 comments</a>]]></description>
+            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=45008056 target=_blank>188 comments</a>]]></description>
             <pubDate>2025-08-24T21:40:35Z</pubDate>
             <guid isPermaLink="false">https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d</guid>
             <link>https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Show HN: Clearcam – Add AI object detection to your IP CCTV cameras]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=45003420 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=45003420 target=_blank>52 comments</a>]]></description>
             <pubDate>2025-08-24T11:34:15Z</pubDate>
             <guid isPermaLink="false">https://github.com/roryclear/clearcam</guid>
             <link>https://github.com/roryclear/clearcam</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[roryclear]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paracetamol disrupts early embryogenesis by cell cycle inhibition]]></title>
+            <description><![CDATA[170 points | <a href=https://news.ycombinator.com/item?id=45006296 target=_blank>173 comments</a>]]></description>
+            <pubDate>2025-08-24T18:02:55Z</pubDate>
+            <guid isPermaLink="false">https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396</guid>
+            <link>https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396</link>
+            
+            
+            
+            <author><![CDATA[XzetaU8]]></author>
             
                 
             
