@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Stripe Launches L1 Blockchain: Tempo]]></title>
-            <description><![CDATA[709 points | <a href=https://news.ycombinator.com/item?id=45129085 target=_blank>884 comments</a>]]></description>
+            <description><![CDATA[711 points | <a href=https://news.ycombinator.com/item?id=45129085 target=_blank>889 comments</a>]]></description>
             <pubDate>2025-09-04T16:32:24Z</pubDate>
             <guid isPermaLink="false">https://tempo.xyz</guid>
             <link>https://tempo.xyz</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[LLM Visualization]]></title>
-            <description><![CDATA[484 points | <a href=https://news.ycombinator.com/item?id=45130260 target=_blank>31 comments</a>]]></description>
-            <pubDate>2025-09-04T18:06:05Z</pubDate>
-            <guid isPermaLink="false">https://bbycroft.net/llm</guid>
-            <link>https://bbycroft.net/llm</link>
-            
-            
-            
-            <author><![CDATA[gmays]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Fil's Unbelievable Garbage Collector]]></title>
-            <description><![CDATA[483 points | <a href=https://news.ycombinator.com/item?id=45133938 target=_blank>189 comments</a>]]></description>
+            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=45133938 target=_blank>195 comments</a>]]></description>
             <pubDate>2025-09-05T00:55:52Z</pubDate>
             <guid isPermaLink="false">https://fil-c.org/fugc</guid>
             <link>https://fil-c.org/fugc</link>
@@ -66,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[LLM Visualization]]></title>
+            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=45130260 target=_blank>33 comments</a>]]></description>
+            <pubDate>2025-09-04T18:06:05Z</pubDate>
+            <guid isPermaLink="false">https://bbycroft.net/llm</guid>
+            <link>https://bbycroft.net/llm</link>
+            
+            
+            
+            <author><![CDATA[gmays]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Wikipedia survives while the rest of the internet breaks]]></title>
-            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=45128391 target=_blank>330 comments</a>]]></description>
+            <description><![CDATA[463 points | <a href=https://news.ycombinator.com/item?id=45128391 target=_blank>336 comments</a>]]></description>
             <pubDate>2025-09-04T15:30:20Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales</guid>
             <link>https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[WiFi signals can measure heart rate]]></title>
-            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=45127983 target=_blank>217 comments</a>]]></description>
+            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=45127983 target=_blank>217 comments</a>]]></description>
             <pubDate>2025-09-04T14:53:50Z</pubDate>
             <guid isPermaLink="false">https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/</guid>
             <link>https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[What Is the Fourier Transform?]]></title>
-            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=45132810 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=45132810 target=_blank>151 comments</a>]]></description>
             <pubDate>2025-09-04T22:11:09Z</pubDate>
             <guid isPermaLink="false">https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/</guid>
             <link>https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[io_uring is faster than mmap]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=45132710 target=_blank>87 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=45132710 target=_blank>89 comments</a>]]></description>
             <pubDate>2025-09-04T22:01:11Z</pubDate>
             <guid isPermaLink="false">https://www.bitflux.ai/blog/memory-is-slow-part2/</guid>
             <link>https://www.bitflux.ai/blog/memory-is-slow-part2/</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[ghuntley]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[I Ditched Docker for Podman (and You Should Too)]]></title>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=45137525 target=_blank>138 comments</a>]]></description>
+            <pubDate>2025-09-05T11:56:59Z</pubDate>
+            <guid isPermaLink="false">https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too</guid>
+            <link>https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too</link>
+            
+            
+            
+            <author><![CDATA[codesmash]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[AndrewDucker]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[What If OpenDocument Used SQLite?]]></title>
-            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=45132498 target=_blank>82 comments</a>]]></description>
-            <pubDate>2025-09-04T21:36:50Z</pubDate>
-            <guid isPermaLink="false">https://www.sqlite.org/affcase1.html</guid>
-            <link>https://www.sqlite.org/affcase1.html</link>
-            
-            
-            
-            <author><![CDATA[whatisabcdefgh]]></author>
             
                 
             
