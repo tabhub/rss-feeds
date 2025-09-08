@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Using Claude Code to modernize a 25-year-old kernel driver]]></title>
-            <description><![CDATA[828 points | <a href=https://news.ycombinator.com/item?id=45163362 target=_blank>270 comments</a>]]></description>
+            <description><![CDATA[830 points | <a href=https://news.ycombinator.com/item?id=45163362 target=_blank>272 comments</a>]]></description>
             <pubDate>2025-09-07T23:53:47Z</pubDate>
             <guid isPermaLink="false">https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver</guid>
             <link>https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[NPM debug and chalk packages compromised]]></title>
-            <description><![CDATA[637 points | <a href=https://news.ycombinator.com/item?id=45169657 target=_blank>325 comments</a>]]></description>
+            <description><![CDATA[668 points | <a href=https://news.ycombinator.com/item?id=45169657 target=_blank>340 comments</a>]]></description>
             <pubDate>2025-09-08T15:37:57Z</pubDate>
             <guid isPermaLink="false">https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised</guid>
             <link>https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[14 Killed in anti-government protests in Nepal]]></title>
-            <description><![CDATA[519 points | <a href=https://news.ycombinator.com/item?id=45166972 target=_blank>364 comments</a>]]></description>
+            <description><![CDATA[521 points | <a href=https://news.ycombinator.com/item?id=45166972 target=_blank>368 comments</a>]]></description>
             <pubDate>2025-09-08T11:24:42Z</pubDate>
             <guid isPermaLink="false">https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/</guid>
             <link>https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Meta suppressed research on child safety, employees say]]></title>
-            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=45167705 target=_blank>245 comments</a>]]></description>
+            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=45167705 target=_blank>259 comments</a>]]></description>
             <pubDate>2025-09-08T12:59:28Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/</guid>
             <link>https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Pico CSS – Minimal CSS Framework for Semantic HTML]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=45161855 target=_blank>105 comments</a>]]></description>
+            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=45161855 target=_blank>105 comments</a>]]></description>
             <pubDate>2025-09-07T20:31:38Z</pubDate>
             <guid isPermaLink="false">https://picocss.com</guid>
             <link>https://picocss.com</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
-            <title><![CDATA[Immich – High performance self-hosted photo and video management solution]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=45165684 target=_blank>109 comments</a>]]></description>
+            <title><![CDATA[Signal Secure Backups]]></title>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=45170515 target=_blank>196 comments</a>]]></description>
+            <pubDate>2025-09-08T16:43:39Z</pubDate>
+            <guid isPermaLink="false">https://signal.org/blog/introducing-secure-backups/</guid>
+            <link>https://signal.org/blog/introducing-secure-backups/</link>
+            
+            
+            
+            <author><![CDATA[keyboardJones]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Immich – High performance self-hosted photo and video management]]></title>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=45165684 target=_blank>120 comments</a>]]></description>
             <pubDate>2025-09-08T07:58:38Z</pubDate>
             <guid isPermaLink="false">https://github.com/immich-app/immich</guid>
             <link>https://github.com/immich-app/immich</link>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Formatting code should be unnecessary]]></title>
-            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=45163043 target=_blank>428 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=45163043 target=_blank>431 comments</a>]]></description>
             <pubDate>2025-09-07T23:08:42Z</pubDate>
             <guid isPermaLink="false">https://maxleiter.com/blog/formatting</guid>
             <link>https://maxleiter.com/blog/formatting</link>
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Signal Secure Backups]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=45170515 target=_blank>178 comments</a>]]></description>
-            <pubDate>2025-09-08T16:43:39Z</pubDate>
-            <guid isPermaLink="false">https://signal.org/blog/introducing-secure-backups/</guid>
-            <link>https://signal.org/blog/introducing-secure-backups/</link>
-            
-            
-            
-            <author><![CDATA[keyboardJones]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The demo scene is dying, but that's alright]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=45162803 target=_blank>115 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=45162803 target=_blank>116 comments</a>]]></description>
             <pubDate>2025-09-07T22:34:23Z</pubDate>
             <guid isPermaLink="false">https://www.datagubbe.se/sceneherit/</guid>
             <link>https://www.datagubbe.se/sceneherit/</link>
@@ -162,8 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The story of how RSS beat Microsoft]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=45166750 target=_blank>143 comments</a>]]></description>
+            <title><![CDATA[How RSS beat Microsoft]]></title>
+            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=45166750 target=_blank>145 comments</a>]]></description>
             <pubDate>2025-09-08T10:50:01Z</pubDate>
             <guid isPermaLink="false">https://buttondown.com/blog/rss-vs-ice</guid>
             <link>https://buttondown.com/blog/rss-vs-ice</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[VMware's in court again. Customer relationships rarely go this wrong]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=45167239 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=45167239 target=_blank>164 comments</a>]]></description>
             <pubDate>2025-09-08T12:00:23Z</pubDate>
             <guid isPermaLink="false">https://www.theregister.com/2025/09/08/vmware_in_court_opinion/</guid>
             <link>https://www.theregister.com/2025/09/08/vmware_in_court_opinion/</link>
