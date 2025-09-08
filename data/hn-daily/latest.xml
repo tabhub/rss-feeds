@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The MacBook has a sensor that knows the exact angle of the screen hinge]]></title>
-            <description><![CDATA[935 points | <a href=https://news.ycombinator.com/item?id=45158968 target=_blank>444 comments</a>]]></description>
-            <pubDate>2025-09-07T15:20:29Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/samhenrigold/status/1964428927159382261</guid>
-            <link>https://twitter.com/samhenrigold/status/1964428927159382261</link>
-            
-            
-            
-            <author><![CDATA[leephillips]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Using Claude Code to modernize a 25-year-old kernel driver]]></title>
-            <description><![CDATA[773 points | <a href=https://news.ycombinator.com/item?id=45163362 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[781 points | <a href=https://news.ycombinator.com/item?id=45163362 target=_blank>254 comments</a>]]></description>
             <pubDate>2025-09-07T23:53:47Z</pubDate>
             <guid isPermaLink="false">https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver</guid>
             <link>https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver</link>
@@ -50,8 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[14 Killed in protests in Nepal over social media ban]]></title>
-            <description><![CDATA[433 points | <a href=https://news.ycombinator.com/item?id=45166972 target=_blank>296 comments</a>]]></description>
+            <title><![CDATA[14 Killed in anti-government protests in Nepal]]></title>
+            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=45166972 target=_blank>304 comments</a>]]></description>
             <pubDate>2025-09-08T11:24:42Z</pubDate>
             <guid isPermaLink="false">https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/</guid>
             <link>https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Pico CSS – Minimal CSS Framework for Semantic HTML]]></title>
-            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=45161855 target=_blank>100 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=45161855 target=_blank>100 comments</a>]]></description>
             <pubDate>2025-09-07T20:31:38Z</pubDate>
             <guid isPermaLink="false">https://picocss.com</guid>
             <link>https://picocss.com</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Formatting code should be unnecessary]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=45163043 target=_blank>386 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=45163043 target=_blank>391 comments</a>]]></description>
             <pubDate>2025-09-07T23:08:42Z</pubDate>
             <guid isPermaLink="false">https://maxleiter.com/blog/formatting</guid>
             <link>https://maxleiter.com/blog/formatting</link>
@@ -98,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Keeping secrets out of logs (2024)]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=45160774 target=_blank>50 comments</a>]]></description>
-            <pubDate>2025-09-07T18:16:30Z</pubDate>
-            <guid isPermaLink="false">https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/</guid>
-            <link>https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/</link>
-            
-            
-            
-            <author><![CDATA[xk3]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Meta suppressed research on child safety, employees say]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=45167705 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=45167705 target=_blank>154 comments</a>]]></description>
             <pubDate>2025-09-08T12:59:28Z</pubDate>
             <guid isPermaLink="false">https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/</guid>
             <link>https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/</link>
@@ -130,8 +98,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Keeping secrets out of logs (2024)]]></title>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=45160774 target=_blank>51 comments</a>]]></description>
+            <pubDate>2025-09-07T18:16:30Z</pubDate>
+            <guid isPermaLink="false">https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/</guid>
+            <link>https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/</link>
+            
+            
+            
+            <author><![CDATA[xk3]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NPM debug and chalk packages compromised]]></title>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=45169657 target=_blank>107 comments</a>]]></description>
+            <pubDate>2025-09-08T15:37:57Z</pubDate>
+            <guid isPermaLink="false">https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised</guid>
+            <link>https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised</link>
+            
+            
+            
+            <author><![CDATA[universesquid]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The demo scene is dying, but that's alright]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=45162803 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=45162803 target=_blank>111 comments</a>]]></description>
             <pubDate>2025-09-07T22:34:23Z</pubDate>
             <guid isPermaLink="false">https://www.datagubbe.se/sceneherit/</guid>
             <link>https://www.datagubbe.se/sceneherit/</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Everything from 1991 Radio Shack ad I now do with my phone (2014)]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=45161816 target=_blank>150 comments</a>]]></description>
-            <pubDate>2025-09-07T20:26:30Z</pubDate>
-            <guid isPermaLink="false">https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/</guid>
-            <link>https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/</link>
-            
-            
-            
-            <author><![CDATA[vinnyglennon]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Immich – High performance self-hosted photo and video management solution]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=45165684 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=45165684 target=_blank>70 comments</a>]]></description>
             <pubDate>2025-09-08T07:58:38Z</pubDate>
             <guid isPermaLink="false">https://github.com/immich-app/immich</guid>
             <link>https://github.com/immich-app/immich</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Everything from 1991 Radio Shack ad I now do with my phone (2014)]]></title>
+            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=45161816 target=_blank>151 comments</a>]]></description>
+            <pubDate>2025-09-07T20:26:30Z</pubDate>
+            <guid isPermaLink="false">https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/</guid>
+            <link>https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/</link>
+            
+            
+            
+            <author><![CDATA[vinnyglennon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=45162626 target=_blank>214 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=45162626 target=_blank>217 comments</a>]]></description>
             <pubDate>2025-09-07T22:06:35Z</pubDate>
             <guid isPermaLink="false">https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/</guid>
             <link>https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[RSS Beat Microsoft]]></title>
-            <description><![CDATA[169 points | <a href=https://news.ycombinator.com/item?id=45166750 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=45166750 target=_blank>111 comments</a>]]></description>
             <pubDate>2025-09-08T10:50:01Z</pubDate>
             <guid isPermaLink="false">https://buttondown.com/blog/rss-vs-ice</guid>
             <link>https://buttondown.com/blog/rss-vs-ice</link>
