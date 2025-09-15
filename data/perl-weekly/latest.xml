@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #736]]></title>
+        <title><![CDATA[Perl Weekly #738]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[My Guilty Perl Obsession]]></title>
-            <description><![CDATA[The article beautifully captures what many in open-source communities know but sometimes forget: that our everyday tools represent labor and generosity. Bryan's earnest confession and commitment to reciprocate stands out as both humble and inspiring, a timely reminder that supporting the communities behind our tools is not just benevolent, but essential.]]></description>
-            <pubDate>2025.08.26</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/my-guilty-perl-obsession/</guid>
-            <link>https://www.perl.com/article/my-guilty-perl-obsession/</link>
+            <title><![CDATA[Strawberry Perl 5.42.0.1 64-bit UCRT]]></title>
+            <description><![CDATA[The release notes are in draft form only and need to be edited before being uploaded to the website. In particular, DBD::MySql is not part of the release.]]></description>
+            <pubDate>2025.08.06</pubDate>
+            <guid isPermaLink="false">https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/tag/SP_54201_64bit</guid>
+            <link>https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/tag/SP_54201_64bit</link>
             
             
             
-            <author><![CDATA[bryan_katz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[OpenAPI::Client::OpenAI]]></title>
-            <description><![CDATA[The changes appear well-considered and address several common developer pain points while positioning the platform for more sophisticated use cases.]]></description>
-            <pubDate>2025.08.22</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/dist/OpenAPI-Client-OpenAI/changes</guid>
-            <link>https://metacpan.org/dist/OpenAPI-Client-OpenAI/changes</link>
-            
-            
-            
-            <author><![CDATA[curtis_ovid_poe]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Call for Papers & Participation - Perl Community Conference, Winter 2025]]></title>
-            <description><![CDATA[The Winter 2025 Perl Community Conference is a hybrid in-person and online event.]]></description>
-            <pubDate>2025.08.27</pubDate>
-            <guid isPermaLink="false">https://science.perlcommunity.org/spj/announcement/view/9</guid>
-            <link>https://science.perlcommunity.org/spj/announcement/view/9</link>
+            <title><![CDATA[Caching using CHI]]></title>
+            <description><![CDATA[Here is piece of work that demonstrates the power of Perl's modern ecosystem by taking a common, real-world problem (caching) and showcasing a robust, modular solution (the CHI module).]]></description>
+            <pubDate>2025.09.08</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/caching-using-chi</guid>
+            <link>https://theweeklychallenge.org/blog/caching-using-chi</link>
             
             
             
-            <author><![CDATA[oodler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Testing a Perl Mojolicious web app]]></title>
-            <description><![CDATA[The post is a practical, hands-on tutorial demonstrating how to write tests for a web application built with the Mojolicious framework in Perl. It's aimed at developers who are familiar with the basics of Mojolicious and want to implement a test-driven development (TDD) workflow or simply add tests to their application.]]></description>
-            <pubDate>2025.08.25</pubDate>
-            <guid isPermaLink="false">https://dev.to/dragostrif/testing-an-perl-mojolicious-web-app-43j7</guid>
-            <link>https://dev.to/dragostrif/testing-an-perl-mojolicious-web-app-43j7</link>
-            
-            
-            
-            <author><![CDATA[dragos_trif]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Even lighter Perl modulinos with Util::H2O::More]]></title>
-            <description><![CDATA[This post is an advanced, in-depth tutorial that tackles a sophisticated Perl software design pattern: the Modulino. It explains how to transform a standalone script into a module-like entity that is both runnable directly and testable by external programs.]]></description>
-            <pubDate>2025.08.24</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2025/08/24/testable-perl-modulinos-h2o-more/</guid>
-            <link>https://phoenixtrap.com/2025/08/24/testable-perl-modulinos-h2o-more/</link>
+            <title><![CDATA[Design Pattern Factory]]></title>
+            <description><![CDATA[An educational article, it successfully demystifies the Factory Pattern by grounding it in a concrete, relatable example. The post is exceptionally well-structured moving from a real-world problem to a suboptimal solution and finally to an elegant implementation of the pattern.]]></description>
+            <pubDate>2025.09.11</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/design-pattern-factory/</guid>
+            <link>https://theweeklychallenge.org/blog/design-pattern-factory/</link>
             
             
             
-            <author><![CDATA[mark_gardner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Scraping the Dragon with Perl and Mojolicious]]></title>
-            <description><![CDATA[Scraping the Dragon with Perl and Mojolicious]]></description>
-            <pubDate>2025.08.31</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2025/08/31/dragoncon-perl-mojolicious/</guid>
-            <link>https://phoenixtrap.com/2025/08/31/dragoncon-perl-mojolicious/</link>
-            
-            
-            
-            <author><![CDATA[mark_gardner]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -114,11 +66,43 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.34 Computationally Irreducible]]></title>
-            <description><![CDATA[The title, "Computationally Irreducible", is a playful and clever reference to a core theme of the week: complex problems that can't be easily simplified or predicted without actually running the code.]]></description>
-            <pubDate>2025.08.25</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/08/25/2025-34-computationally-irreducible/</guid>
-            <link>https://rakudoweekly.blog/2025/08/25/2025-34-computationally-irreducible/</link>
+            <title><![CDATA[Migration direction has matter!]]></title>
+            <description><![CDATA[This is a highly technical, niche and opinionated post aimed at a very specific audience: system administrators or developers maintaining legacy Perl code that interacts with databases.]]></description>
+            <pubDate>2025.09.11</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/eugen_konkov/2025/09/migration-direction-has-matter.html</guid>
+            <link>https://blogs.perl.org/users/eugen_konkov/2025/09/migration-direction-has-matter.html</link>
+            
+            
+            
+            <author><![CDATA[eugen_konkov]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Rebounds In TIOBE Index - Why?]]></title>
+            <description><![CDATA[The article is valuable as a news brief. It informs readers that Perl is still active and may be experiencing a renewal of interest. It introduces valid, positive points about the language. It identifies a relevant trend, accurately describes Perl's strengths, positive and readable.]]></description>
+            <pubDate>2025.09.10</pubDate>
+            <guid isPermaLink="false">https://www.i-programmer.info/news/222-perl/18308-perl-rebounds-in-tiobe-index-why.html</guid>
+            <link>https://www.i-programmer.info/news/222-perl/18308-perl-rebounds-in-tiobe-index-why.html</link>
+            
+            
+            
+            <author><![CDATA[nikos_vaggalis]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.36 Raku.org Reboot]]></title>
+            <description><![CDATA[The reboot of raku.org is a masterclass in modern open-source pragmatism. It successfully transforms a stagnant, manually-curated webpage into a vibrant, automated showcase of the language it represents.]]></description>
+            <pubDate>2025.09.08</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/09/08/2025-36-raku-org-reboot/</guid>
+            <link>https://rakudoweekly.blog/2025/09/08/2025-36-raku-org-reboot/</link>
             
             
             
@@ -131,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/08/dlxiii-11-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/08/dcxiv-metacpan-weekly-report-timepiece.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.08.30</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/09/dlxv-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.09.13</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -146,59 +130,43 @@
         </item>
         
         <item>
-            <title><![CDATA[Why do Python programmers hate Perl?]]></title>
-            <description><![CDATA[Why do Python programmers hate Perl?]]></description>
-            <pubDate>2025.08</pubDate>
-            <guid isPermaLink="false">https://szabgab.com/why-do-python-programmers-hate-perl</guid>
-            <link>https://szabgab.com/why-do-python-programmers-hate-perl</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boston.pm - online - monthly meeting]]></title>
-            <description><![CDATA[September 9, 2025]]></description>
-            
-            <guid isPermaLink="false">https://boston-pm.github.io/</guid>
-            <link>https://boston-pm.github.io/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Paris.pm - Michelangelo - monthly meeting]]></title>
-            <description><![CDATA[September 10, 2025]]></description>
-            
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Toronto.pm - online - Lightning Talks 2025]]></title>
             <description><![CDATA[September 25, 2025]]></description>
             
             <guid isPermaLink="false">https://lu.ma/prfiewo4</guid>
             <link>https://lu.ma/prfiewo4</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Annual Russian Perl Conference 2025]]></title>
+            <description><![CDATA[September 27, 2025]]></description>
+            
+            <guid isPermaLink="false">https://perl-conf.ru/25</guid>
+            <link>https://perl-conf.ru/25</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston.pm - online - (2d Tuesday)]]></title>
+            <description><![CDATA[October 14, 2025]]></description>
+            
+            <guid isPermaLink="false">https://boston-pm.github.io/</guid>
+            <link>https://boston-pm.github.io/</link>
             
             
             
