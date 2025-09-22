@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #738]]></title>
+        <title><![CDATA[Perl Weekly #739]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,27 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Strawberry Perl 5.42.0.1 64-bit UCRT]]></title>
-            <description><![CDATA[The release notes are in draft form only and need to be edited before being uploaded to the website. In particular, DBD::MySql is not part of the release.]]></description>
-            <pubDate>2025.08.06</pubDate>
-            <guid isPermaLink="false">https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/tag/SP_54201_64bit</guid>
-            <link>https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/tag/SP_54201_64bit</link>
+            <title><![CDATA[Geizhals Preisvergleich Donates USD 10,000 to The Perl and Raku Foundation]]></title>
+            <description><![CDATA[Geizhals Preisvergleich Donates USD 10,000 to The Perl and Raku Foundation]]></description>
+            <pubDate>2025.09.18</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/geizhals-donates-to-tprf/</guid>
+            <link>https://www.perl.com/article/geizhals-donates-to-tprf/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toronto Perl Mongers Lightning Talks Needs You]]></title>
+            <description><![CDATA[The annual Toronto Perl Mongers lightning talks will be held (virtually) this <a href="https://luma.com/prfiewo4">Thursday</a>. (ps. It is also listed among all the other events at the bottomg of the newsletter.)]]></description>
+            <pubDate>2025.09.20</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1nld0z0/toronto_perl_mongers_lightning_talks_needs_you/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1nld0z0/toronto_perl_mongers_lightning_talks_needs_you/</link>
             
             
             
@@ -34,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Caching using CHI]]></title>
-            <description><![CDATA[Here is piece of work that demonstrates the power of Perl's modern ecosystem by taking a common, real-world problem (caching) and showcasing a robust, modular solution (the CHI module).]]></description>
-            <pubDate>2025.09.08</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/caching-using-chi</guid>
-            <link>https://theweeklychallenge.org/blog/caching-using-chi</link>
+            <title><![CDATA[Announcing Dancer2 2.0.0]]></title>
+            <description><![CDATA[New major release!]]></description>
+            <pubDate>2025.09.15</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/announcing-dancer2-2-0-0/</guid>
+            <link>https://www.perl.com/article/announcing-dancer2-2-0-0/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Design Pattern Factory]]></title>
-            <description><![CDATA[An educational article, it successfully demystifies the Factory Pattern by grounding it in a concrete, relatable example. The post is exceptionally well-structured moving from a real-world problem to a suboptimal solution and finally to an elegant implementation of the pattern.]]></description>
-            <pubDate>2025.09.11</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/design-pattern-factory/</guid>
-            <link>https://theweeklychallenge.org/blog/design-pattern-factory/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[jason_crome]]></author>
             
                 
             
@@ -66,47 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Migration direction has matter!]]></title>
-            <description><![CDATA[This is a highly technical, niche and opinionated post aimed at a very specific audience: system administrators or developers maintaining legacy Perl code that interacts with databases.]]></description>
-            <pubDate>2025.09.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/eugen_konkov/2025/09/migration-direction-has-matter.html</guid>
-            <link>https://blogs.perl.org/users/eugen_konkov/2025/09/migration-direction-has-matter.html</link>
+            <title><![CDATA[Released an Inertia.js Adapter for Mojolicious]]></title>
+            <description><![CDATA[Released an Inertia.js Adapter for Mojolicious]]></description>
+            <pubDate>2025.09.15</pubDate>
+            <guid isPermaLink="false">https://dev.to/kfly8/released-an-inertiajs-adapter-for-mojolicious-32ph</guid>
+            <link>https://dev.to/kfly8/released-an-inertiajs-adapter-for-mojolicious-32ph</link>
             
             
             
-            <author><![CDATA[eugen_konkov]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Rebounds In TIOBE Index - Why?]]></title>
-            <description><![CDATA[The article is valuable as a news brief. It informs readers that Perl is still active and may be experiencing a renewal of interest. It introduces valid, positive points about the language. It identifies a relevant trend, accurately describes Perl's strengths, positive and readable.]]></description>
-            <pubDate>2025.09.10</pubDate>
-            <guid isPermaLink="false">https://www.i-programmer.info/news/222-perl/18308-perl-rebounds-in-tiobe-index-why.html</guid>
-            <link>https://www.i-programmer.info/news/222-perl/18308-perl-rebounds-in-tiobe-index-why.html</link>
-            
-            
-            
-            <author><![CDATA[nikos_vaggalis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2025.36 Raku.org Reboot]]></title>
-            <description><![CDATA[The reboot of raku.org is a masterclass in modern open-source pragmatism. It successfully transforms a stagnant, manually-curated webpage into a vibrant, automated showcase of the language it represents.]]></description>
-            <pubDate>2025.09.08</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/09/08/2025-36-raku-org-reboot/</guid>
-            <link>https://rakudoweekly.blog/2025/09/08/2025-36-raku-org-reboot/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[kobaken]]></author>
             
                 
             
@@ -115,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/09/dlxv-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.09.13</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/09/dlxvi-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/09/dcxv-metacpan-weekly-report-xslog.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.09.20</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
