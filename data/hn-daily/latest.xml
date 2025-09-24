@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Delete FROM users WHERE location = 'Iran';]]></title>
-            <description><![CDATA[873 points | <a href=https://news.ycombinator.com/item?id=45343108 target=_blank>741 comments</a>]]></description>
+            <description><![CDATA[875 points | <a href=https://news.ycombinator.com/item?id=45343108 target=_blank>745 comments</a>]]></description>
             <pubDate>2025-09-23T05:30:28Z</pubDate>
             <guid isPermaLink="false">https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4</guid>
             <link>https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Always Invite Anna]]></title>
-            <description><![CDATA[724 points | <a href=https://news.ycombinator.com/item?id=45348495 target=_blank>83 comments</a>]]></description>
+            <description><![CDATA[734 points | <a href=https://news.ycombinator.com/item?id=45348495 target=_blank>84 comments</a>]]></description>
             <pubDate>2025-09-23T15:33:23Z</pubDate>
             <guid isPermaLink="false">https://sharif.io/anna-alexei</guid>
             <link>https://sharif.io/anna-alexei</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Find SF parking cops]]></title>
-            <description><![CDATA[605 points | <a href=https://news.ycombinator.com/item?id=45350690 target=_blank>358 comments</a>]]></description>
+            <description><![CDATA[613 points | <a href=https://news.ycombinator.com/item?id=45350690 target=_blank>359 comments</a>]]></description>
             <pubDate>2025-09-23T18:06:07Z</pubDate>
             <guid isPermaLink="false">https://walzr.com/sf-parking/</guid>
             <link>https://walzr.com/sf-parking/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Libghostty is coming]]></title>
-            <description><![CDATA[595 points | <a href=https://news.ycombinator.com/item?id=45347117 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[605 points | <a href=https://news.ycombinator.com/item?id=45347117 target=_blank>182 comments</a>]]></description>
             <pubDate>2025-09-23T13:56:28Z</pubDate>
             <guid isPermaLink="false">https://mitchellh.com/writing/libghostty-is-coming</guid>
             <link>https://mitchellh.com/writing/libghostty-is-coming</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[kingori]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover]]></title>
+            <description><![CDATA[497 points | <a href=https://news.ycombinator.com/item?id=45348390 target=_blank>313 comments</a>]]></description>
+            <pubDate>2025-09-23T15:25:29Z</pubDate>
+            <guid isPermaLink="false">https://joel.drapper.me/p/rubygems-takeover/</guid>
+            <link>https://joel.drapper.me/p/rubygems-takeover/</link>
+            
+            
+            
+            <author><![CDATA[bradgessler]]></author>
             
                 
             
@@ -91,22 +107,6 @@
             
             
             <author><![CDATA[cirelli94]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover]]></title>
-            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=45348390 target=_blank>310 comments</a>]]></description>
-            <pubDate>2025-09-23T15:25:29Z</pubDate>
-            <guid isPermaLink="false">https://joel.drapper.me/p/rubygems-takeover/</guid>
-            <link>https://joel.drapper.me/p/rubygems-takeover/</link>
-            
-            
-            
-            <author><![CDATA[bradgessler]]></author>
             
                 
             
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Restrictions on house sharing by unrelated roommates]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=45347043 target=_blank>369 comments</a>]]></description>
-            <pubDate>2025-09-23T13:51:56Z</pubDate>
-            <guid isPermaLink="false">https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html</guid>
-            <link>https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html</link>
-            
-            
-            
-            <author><![CDATA[surprisetalk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Getting AI to work in complex codebases]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=45347532 target=_blank>257 comments</a>]]></description>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=45347532 target=_blank>261 comments</a>]]></description>
             <pubDate>2025-09-23T14:27:36Z</pubDate>
             <guid isPermaLink="false">https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md</guid>
             <link>https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Restrictions on house sharing by unrelated roommates]]></title>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=45347043 target=_blank>369 comments</a>]]></description>
+            <pubDate>2025-09-23T13:51:56Z</pubDate>
+            <guid isPermaLink="false">https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html</guid>
+            <link>https://marginalrevolution.com/marginalrevolution/2025/08/the-war-on-roommates-why-is-sharing-a-house-illegal.html</link>
+            
+            
+            
+            <author><![CDATA[surprisetalk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[YouTube says it'll bring back creators banned for Covid and election content]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=45352213 target=_blank>612 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=45352213 target=_blank>632 comments</a>]]></description>
             <pubDate>2025-09-23T20:16:47Z</pubDate>
             <guid isPermaLink="false">https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9</guid>
             <link>https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Cache of devices capable of crashing cell network is found in NYC]]></title>
-            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=45345514 target=_blank>262 comments</a>]]></description>
+            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=45345514 target=_blank>262 comments</a>]]></description>
             <pubDate>2025-09-23T11:29:13Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html</guid>
             <link>https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html</link>
