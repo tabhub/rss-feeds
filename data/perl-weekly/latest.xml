@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #739]]></title>
+        <title><![CDATA[Perl Weekly #740]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,43 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Geizhals Preisvergleich Donates USD 10,000 to The Perl and Raku Foundation]]></title>
-            <description><![CDATA[Geizhals Preisvergleich Donates USD 10,000 to The Perl and Raku Foundation]]></description>
-            <pubDate>2025.09.18</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/geizhals-donates-to-tprf/</guid>
-            <link>https://www.perl.com/article/geizhals-donates-to-tprf/</link>
+            <title><![CDATA[The Underbar, episode 5]]></title>
+            <description><![CDATA[During the Perl Toolchain Summit 2025 in Leipzig, we interviewed Merijn Brand, Test::Smoke's founder, and Thibault Duponchelle, its new maintainer following the passing of Abe Timmerman, about the history of the project and how to contribute to it.]]></description>
+            <pubDate>2025.09.26</pubDate>
+            <guid isPermaLink="false">https://underbar.cpan.io/episodes/5/</guid>
+            <link>https://underbar.cpan.io/episodes/5/</link>
+            
+            
+            
+            <author><![CDATA[philippe_bruhat]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Development Release Perl v5.43.3]]></title>
+            <description><![CDATA[Unicode 17.0 is now supported in this release.]]></description>
+            <pubDate>2025.09.23</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/release/CONTRA/perl-5.43.3/view/pod/perldelta.pod</guid>
+            <link>https://metacpan.org/release/CONTRA/perl-5.43.3/view/pod/perldelta.pod</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Latest MetaCPAN sponsor mySociety]]></title>
+            <description><![CDATA[fixmystreet project of mySociety is primarily written in Perl.]]></description>
+            <pubDate>2025.09.27</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/about/sponsors</guid>
+            <link>https://metacpan.org/about/sponsors</link>
             
             
             
@@ -34,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Toronto Perl Mongers Lightning Talks Needs You]]></title>
-            <description><![CDATA[The annual Toronto Perl Mongers lightning talks will be held (virtually) this <a href="https://luma.com/prfiewo4">Thursday</a>. (ps. It is also listed among all the other events at the bottomg of the newsletter.)]]></description>
-            <pubDate>2025.09.20</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1nld0z0/toronto_perl_mongers_lightning_talks_needs_you/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1nld0z0/toronto_perl_mongers_lightning_talks_needs_you/</link>
+            <title><![CDATA[Unary Operator]]></title>
+            <description><![CDATA[Refresher about unary operator in Perl. In the post, I shared my recent encounter.]]></description>
+            <pubDate>2025.09.24</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/unary-operator</guid>
+            <link>https://theweeklychallenge.org/blog/unary-operator</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Announcing Dancer2 2.0.0]]></title>
-            <description><![CDATA[New major release!]]></description>
-            <pubDate>2025.09.15</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/announcing-dancer2-2-0-0/</guid>
-            <link>https://www.perl.com/article/announcing-dancer2-2-0-0/</link>
-            
-            
-            
-            <author><![CDATA[jason_crome]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -66,15 +82,63 @@
         </item>
         
         <item>
-            <title><![CDATA[Released an Inertia.js Adapter for Mojolicious]]></title>
-            <description><![CDATA[Released an Inertia.js Adapter for Mojolicious]]></description>
-            <pubDate>2025.09.15</pubDate>
-            <guid isPermaLink="false">https://dev.to/kfly8/released-an-inertiajs-adapter-for-mojolicious-32ph</guid>
-            <link>https://dev.to/kfly8/released-an-inertiajs-adapter-for-mojolicious-32ph</link>
+            <title><![CDATA[Roles in Perl]]></title>
+            <description><![CDATA[If you ever had to work with Roles in Perl then this is must read for you. In the post, I shared my understandings.]]></description>
+            <pubDate>2025.09.27</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/roles-in-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/roles-in-perl/</link>
             
             
             
-            <author><![CDATA[kobaken]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Easy SEO for lazy programmers]]></title>
+            <description><![CDATA[This blog post is practical, clearly organized and can be immediately useful as it provides what it promises: simple, automated SEO solutions developed for developers. Dave exhibits strong software engineering judgment by emphasizing automation, reproducibility and measurable results based on this automated SEO analysis tool, rather than abstract SEO theories.]]></description>
+            <pubDate>2025.09.24</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/09/easy-seo-for-lazy-programmers/</guid>
+            <link>https://perlhacks.com/2025/09/easy-seo-for-lazy-programmers/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LocalCode - A Perl-Based AI Coding Agent]]></title>
+            <description><![CDATA[This article is informative and is written in news article style. The post does a great job of informing a technical audience about a neat Perl-based AI project (which is technical), balancing enough technical details while still being accessible to both Perl lovers as well as the general programming community. It's also good advertising and exposure to an open-source project that helps to show how Perl is germane to today's AI ecosystem.]]></description>
+            <pubDate>2025.09.25</pubDate>
+            <guid isPermaLink="false">https://www.i-programmer.info/news/222-perl/18340-localcode-a-perl-based-ai-coding-agent.html</guid>
+            <link>https://www.i-programmer.info/news/222-perl/18340-localcode-a-perl-based-ai-coding-agent.html</link>
+            
+            
+            
+            <author><![CDATA[nikos_vaggalis]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.38 Cyclone Liz]]></title>
+            <description><![CDATA[This is an outstanding community newsletter that achieves its dual purpose of being a technical resource and a community update. It is well balanced in both technical aspects and engagement with the community as well as providing valuable news. It is also curated at a professional level, has a wide variety of content and has a welcoming tone.]]></description>
+            <pubDate>2025.09.22</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/09/22/2025-38-cyclone-liz/</guid>
+            <link>https://rakudoweekly.blog/2025/09/22/2025-38-cyclone-liz/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -83,46 +147,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/09/dlxvi-7-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/09/dcxv-metacpan-weekly-report-xslog.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.09.20</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/09/dlxvii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.09.27</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toronto.pm - online - Lightning Talks 2025]]></title>
-            <description><![CDATA[September 25, 2025]]></description>
-            
-            <guid isPermaLink="false">https://lu.ma/prfiewo4</guid>
-            <link>https://lu.ma/prfiewo4</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Annual Russian Perl Conference 2025]]></title>
-            <description><![CDATA[September 27, 2025]]></description>
-            
-            <guid isPermaLink="false">https://perl-conf.ru/25</guid>
-            <link>https://perl-conf.ru/25</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
