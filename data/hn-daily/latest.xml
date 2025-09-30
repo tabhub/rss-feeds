@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Kagi News]]></title>
-            <description><![CDATA[656 points | <a href=https://news.ycombinator.com/item?id=45426490 target=_blank>301 comments</a>]]></description>
+            <description><![CDATA[667 points | <a href=https://news.ycombinator.com/item?id=45426490 target=_blank>307 comments</a>]]></description>
             <pubDate>2025-09-30T15:09:00Z</pubDate>
             <guid isPermaLink="false">https://blog.kagi.com/kagi-news</guid>
             <link>https://blog.kagi.com/kagi-news</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Comprehension debt: A ticking time bomb of LLM-generated code]]></title>
-            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=45423917 target=_blank>293 comments</a>]]></description>
+            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=45423917 target=_blank>293 comments</a>]]></description>
             <pubDate>2025-09-30T10:37:39Z</pubDate>
             <guid isPermaLink="false">https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/</guid>
             <link>https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sora 2]]></title>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=45427982 target=_blank>396 comments</a>]]></description>
+            <pubDate>2025-09-30T16:55:01Z</pubDate>
+            <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
+            <link>https://openai.com/index/sora-2/</link>
+            
+            
+            
+            <author><![CDATA[skilled]]></author>
             
                 
             
@@ -75,22 +91,6 @@
             
             
             <author><![CDATA[raldi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Sora 2]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=45427982 target=_blank>384 comments</a>]]></description>
-            <pubDate>2025-09-30T16:55:01Z</pubDate>
-            <guid isPermaLink="false">https://openai.com/index/sora-2/</guid>
-            <link>https://openai.com/index/sora-2/</link>
-            
-            
-            
-            <author><![CDATA[skilled]]></author>
             
                 
             
@@ -130,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[iRobot Founder: Don't Believe the AI and Robotics Hype]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=45418261 target=_blank>170 comments</a>]]></description>
-            <pubDate>2025-09-29T20:19:08Z</pubDate>
-            <guid isPermaLink="false">https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/</guid>
-            <link>https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/</link>
+            <title><![CDATA[Imgur pulls out of UK as data watchdog threatens fine]]></title>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=45424888 target=_blank>232 comments</a>]]></description>
+            <pubDate>2025-09-30T13:01:05Z</pubDate>
+            <guid isPermaLink="false">https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out</guid>
+            <link>https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out</link>
             
             
             
-            <author><![CDATA[herbertl]]></author>
+            <author><![CDATA[ANewbury]]></author>
             
                 
             
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Bcachefs removed from the mainline kernel]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=45423004 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=45423004 target=_blank>165 comments</a>]]></description>
             <pubDate>2025-09-30T07:52:16Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/Articles/1040120/</guid>
             <link>https://lwn.net/Articles/1040120/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Imgur pulls out of UK as data watchdog threatens fine]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=45424888 target=_blank>220 comments</a>]]></description>
-            <pubDate>2025-09-30T13:01:05Z</pubDate>
-            <guid isPermaLink="false">https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out</guid>
-            <link>https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out</link>
+            <title><![CDATA[Safe zero-copy operations in C#]]></title>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=45420001 target=_blank>64 comments</a>]]></description>
+            <pubDate>2025-09-29T23:12:36Z</pubDate>
+            <guid isPermaLink="false">https://ssg.dev/safe-zero-copy-operations-in-c/</guid>
+            <link>https://ssg.dev/safe-zero-copy-operations-in-c/</link>
             
             
             
-            <author><![CDATA[ANewbury]]></author>
+            <author><![CDATA[sedatk]]></author>
             
                 
             
