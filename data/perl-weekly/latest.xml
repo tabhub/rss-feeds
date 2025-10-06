@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #740]]></title>
+        <title><![CDATA[Perl Weekly #741]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,27 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Underbar, episode 5]]></title>
-            <description><![CDATA[During the Perl Toolchain Summit 2025 in Leipzig, we interviewed Merijn Brand, Test::Smoke's founder, and Thibault Duponchelle, its new maintainer following the passing of Abe Timmerman, about the history of the project and how to contribute to it.]]></description>
-            <pubDate>2025.09.26</pubDate>
-            <guid isPermaLink="false">https://underbar.cpan.io/episodes/5/</guid>
-            <link>https://underbar.cpan.io/episodes/5/</link>
-            
-            
-            
-            <author><![CDATA[philippe_bruhat]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Development Release Perl v5.43.3]]></title>
-            <description><![CDATA[Unicode 17.0 is now supported in this release.]]></description>
-            <pubDate>2025.09.23</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/release/CONTRA/perl-5.43.3/view/pod/perldelta.pod</guid>
-            <link>https://metacpan.org/release/CONTRA/perl-5.43.3/view/pod/perldelta.pod</link>
+            <title><![CDATA[DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025]]></title>
+            <description><![CDATA[DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025]]></description>
+            <pubDate>2025.10.01</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/</guid>
+            <link>https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/</link>
             
             
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Latest MetaCPAN sponsor mySociety]]></title>
-            <description><![CDATA[fixmystreet project of mySociety is primarily written in Perl.]]></description>
-            <pubDate>2025.09.27</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/about/sponsors</guid>
-            <link>https://metacpan.org/about/sponsors</link>
+            <title><![CDATA[Patch-Perfect: Smarter Homebrew Upgrades on macOS 🍎]]></title>
+            <description><![CDATA[New blog post: updating just the patches of Homebrew packages with Perl, and more macOS logging.]]></description>
+            <pubDate>2025.09.28</pubDate>
+            <guid isPermaLink="false">https://phoenixtrap.com/2025/09/28/patch-perfect-homebrew/</guid>
+            <link>https://phoenixtrap.com/2025/09/28/patch-perfect-homebrew/</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
+            <author><![CDATA[mark_gardner]]></author>
             
                 
             
@@ -66,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Unary Operator]]></title>
-            <description><![CDATA[Refresher about unary operator in Perl. In the post, I shared my recent encounter.]]></description>
-            <pubDate>2025.09.24</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/unary-operator</guid>
-            <link>https://theweeklychallenge.org/blog/unary-operator</link>
+            <title><![CDATA[Class and Role]]></title>
+            <description><![CDATA[Class and Role]]></description>
+            <pubDate>2025.09</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/class-and-role/</guid>
+            <link>https://theweeklychallenge.org/blog/class-and-role/</link>
             
             
             
@@ -82,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Roles in Perl]]></title>
-            <description><![CDATA[If you ever had to work with Roles in Perl then this is must read for you. In the post, I shared my understandings.]]></description>
-            <pubDate>2025.09.27</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/roles-in-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/roles-in-perl/</link>
+            <title><![CDATA[Using AI 🤖 to Optimise the Calculation of Krippendorff’s Alpha]]></title>
+            <description><![CDATA[An excellent post on how to use (or not) AI to improve the speed of some code. I wonder though, and this is one of the biggest problems I have with AI:  How do I know that the lack of success by the AI was because AI is not good enough or because the prompt wasn't good enough? Maybe the selected model wasn't the right one for this task? In any case I'd reiterate the last sentence: I'd love to read your experience using AI. Both good and bad. Both with Perl and otherwise.]]></description>
+            <pubDate>2025.10.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/e_choroba/2025/10/using-ai-to-optimise-the-calculation-of-krippendorffs-alhpa.html</guid>
+            <link>https://blogs.perl.org/users/e_choroba/2025/10/using-ai-to-optimise-the-calculation-of-krippendorffs-alhpa.html</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[e_choroba]]></author>
             
                 
             
@@ -98,47 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Easy SEO for lazy programmers]]></title>
-            <description><![CDATA[This blog post is practical, clearly organized and can be immediately useful as it provides what it promises: simple, automated SEO solutions developed for developers. Dave exhibits strong software engineering judgment by emphasizing automation, reproducibility and measurable results based on this automated SEO analysis tool, rather than abstract SEO theories.]]></description>
+            <title><![CDATA[Workspace on Demand in i3wm 🪟]]></title>
+            <description><![CDATA[i3wm  is the i3 Window Manager - I admit I never understood what are Window Managers and which one I am using 😊, I also hardly cusomize anything on my computer.]]></description>
             <pubDate>2025.09.24</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/09/easy-seo-for-lazy-programmers/</guid>
-            <link>https://perlhacks.com/2025/09/easy-seo-for-lazy-programmers/</link>
+            <guid isPermaLink="false">https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki</guid>
+            <link>https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LocalCode - A Perl-Based AI Coding Agent]]></title>
-            <description><![CDATA[This article is informative and is written in news article style. The post does a great job of informing a technical audience about a neat Perl-based AI project (which is technical), balancing enough technical details while still being accessible to both Perl lovers as well as the general programming community. It's also good advertising and exposure to an open-source project that helps to show how Perl is germane to today's AI ecosystem.]]></description>
-            <pubDate>2025.09.25</pubDate>
-            <guid isPermaLink="false">https://www.i-programmer.info/news/222-perl/18340-localcode-a-perl-based-ai-coding-agent.html</guid>
-            <link>https://www.i-programmer.info/news/222-perl/18340-localcode-a-perl-based-ai-coding-agent.html</link>
-            
-            
-            
-            <author><![CDATA[nikos_vaggalis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2025.38 Cyclone Liz]]></title>
-            <description><![CDATA[This is an outstanding community newsletter that achieves its dual purpose of being a technical resource and a community update. It is well balanced in both technical aspects and engagement with the community as well as providing valuable news. It is also curated at a professional level, has a wide variety of content and has a welcoming tone.]]></description>
-            <pubDate>2025.09.22</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/09/22/2025-38-cyclone-liz/</guid>
-            <link>https://rakudoweekly.blog/2025/09/22/2025-38-cyclone-liz/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[wesley_schwengle]]></author>
             
                 
             
@@ -147,14 +99,30 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/09/dlxvii-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.09.27</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/10/dlxviii-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.10.04</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[October 8, 2025]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -178,11 +146,43 @@
         </item>
         
         <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[November 12, 2025]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Toronto.pm - online - How SUSE is using Perl]]></title>
             <description><![CDATA[December 6, 2025]]></description>
             
             <guid isPermaLink="false">https://lu.ma/v90mkqj5</guid>
             <link>https://lu.ma/v90mkqj5</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[December 10, 2025]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
             
             
             
