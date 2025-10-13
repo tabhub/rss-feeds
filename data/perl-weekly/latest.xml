@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #741]]></title>
+        <title><![CDATA[Perl Weekly #742]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025]]></title>
-            <description><![CDATA[DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2025]]></description>
-            <pubDate>2025.10.01</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/</guid>
-            <link>https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2025/</link>
+            <title><![CDATA[Episode 6 - CPAN Testers]]></title>
+            <description><![CDATA[During the Perl Toolchain Summit 2025 in Leipzig, we interviewed the CPAN Testers team. They told us about the history of the project, its recent problems, and how a new team formed around its (then) lone maintainer. They also told us about their plans for the future.]]></description>
+            <pubDate>2025.10.10</pubDate>
+            <guid isPermaLink="false">https://underbar.cpan.io/episodes/6/</guid>
+            <link>https://underbar.cpan.io/episodes/6/</link>
             
             
             
@@ -34,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Patch-Perfect: Smarter Homebrew Upgrades on macOS 🍎]]></title>
-            <description><![CDATA[New blog post: updating just the patches of Homebrew packages with Perl, and more macOS logging.]]></description>
-            <pubDate>2025.09.28</pubDate>
-            <guid isPermaLink="false">https://phoenixtrap.com/2025/09/28/patch-perfect-homebrew/</guid>
-            <link>https://phoenixtrap.com/2025/09/28/patch-perfect-homebrew/</link>
+            <title><![CDATA[ANNOUNCE: Wikis: Perl V 1.32 & Debian V 1.10 & Mojo V 1.07]]></title>
+            <description><![CDATA[ANNOUNCE: Wikis: Perl V 1.32 & Debian V 1.10 & Mojo V 1.07]]></description>
+            <pubDate>2025.10.07</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/10/announce-wikis-perl-v-132-debian-v-110-mojo-v-107.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2025/10/announce-wikis-perl-v-132-debian-v-110-mojo-v-107.html</link>
             
             
             
-            <author><![CDATA[mark_gardner]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -50,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Class and Role]]></title>
-            <description><![CDATA[Class and Role]]></description>
-            <pubDate>2025.09</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/class-and-role/</guid>
-            <link>https://theweeklychallenge.org/blog/class-and-role/</link>
+            <title><![CDATA[bless vs Class::Mite]]></title>
+            <description><![CDATA[The post shares the recent upgrade to Class::Mite and thorough comparative analysis.]]></description>
+            <pubDate>2025.10.09</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/bless-vs-class-mite/</guid>
+            <link>https://theweeklychallenge.org/blog/bless-vs-class-mite/</link>
             
             
             
@@ -66,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Using AI 🤖 to Optimise the Calculation of Krippendorff’s Alpha]]></title>
-            <description><![CDATA[An excellent post on how to use (or not) AI to improve the speed of some code. I wonder though, and this is one of the biggest problems I have with AI:  How do I know that the lack of success by the AI was because AI is not good enough or because the prompt wasn't good enough? Maybe the selected model wasn't the right one for this task? In any case I'd reiterate the last sentence: I'd love to read your experience using AI. Both good and bad. Both with Perl and otherwise.]]></description>
-            <pubDate>2025.10.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/e_choroba/2025/10/using-ai-to-optimise-the-calculation-of-krippendorffs-alhpa.html</guid>
-            <link>https://blogs.perl.org/users/e_choroba/2025/10/using-ai-to-optimise-the-calculation-of-krippendorffs-alhpa.html</link>
+            <title><![CDATA[Static Image Gallery]]></title>
+            <description><![CDATA[This is an excellent illustration of well-thought-out, useful personal software development. Instead of over-engineering or depending on bloated alternatives, "snig" exhibits excellent engineering judgment by using a focused, minimal tool to solve a real-world need. The project demonstrates a sophisticated approach to programming and efficient use of contemporary Perl.]]></description>
+            <pubDate>2025.10.06</pubDate>
+            <guid isPermaLink="false">https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html</guid>
+            <link>https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html</link>
             
             
             
-            <author><![CDATA[e_choroba]]></author>
+            <author><![CDATA[thomas_klausner]]></author>
             
                 
             
@@ -82,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Workspace on Demand in i3wm 🪟]]></title>
-            <description><![CDATA[i3wm  is the i3 Window Manager - I admit I never understood what are Window Managers and which one I am using 😊, I also hardly cusomize anything on my computer.]]></description>
-            <pubDate>2025.09.24</pubDate>
-            <guid isPermaLink="false">https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki</guid>
-            <link>https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki</link>
+            <title><![CDATA[2025.40 Fosdem Calls]]></title>
+            <description><![CDATA[Commits, version numbers and closed issues are frequently used to gauge progress in the open source community. That's exactly what the most recent Rakudo Weekly News offers: a concise summary of key advancements that demonstrate how smoothly the language's engine is operating. A deprecated trait was strengthened there and a memory leak was fixed here. It's the necessary, unsexy task of laying a solid foundation.]]></description>
+            <pubDate>2025.10.06</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/10/06/2025-40-fosdem-calls</guid>
+            <link>https://rakudoweekly.blog/2025/10/06/2025-40-fosdem-calls</link>
             
             
             
-            <author><![CDATA[wesley_schwengle]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -99,30 +99,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/10/dlxviii-6-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.10.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/10/dlxix-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/10/dcxvi-metacpan-weekly-report-perl.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.10.12</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[October 8, 2025]]></description>
-            
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
