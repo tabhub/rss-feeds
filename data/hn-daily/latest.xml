@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Space Elevator]]></title>
-            <description><![CDATA[1365 points | <a href=https://news.ycombinator.com/item?id=45640226 target=_blank>305 comments</a>]]></description>
+            <description><![CDATA[1382 points | <a href=https://news.ycombinator.com/item?id=45640226 target=_blank>308 comments</a>]]></description>
             <pubDate>2025-10-20T04:42:08Z</pubDate>
             <guid isPermaLink="false">https://neal.fun/space-elevator/</guid>
             <link>https://neal.fun/space-elevator/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[AWS Multiple Services Down in us-east-1]]></title>
-            <description><![CDATA[1330 points | <a href=https://news.ycombinator.com/item?id=45640838 target=_blank>1647 comments</a>]]></description>
+            <description><![CDATA[1339 points | <a href=https://news.ycombinator.com/item?id=45640838 target=_blank>1658 comments</a>]]></description>
             <pubDate>2025-10-20T07:22:28Z</pubDate>
             <guid isPermaLink="false">https://health.aws.amazon.com/health/status?ts=20251020</guid>
             <link>https://health.aws.amazon.com/health/status?ts=20251020</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[DeepSeek OCR]]></title>
-            <description><![CDATA[806 points | <a href=https://news.ycombinator.com/item?id=45640594 target=_blank>210 comments</a>]]></description>
+            <description><![CDATA[811 points | <a href=https://news.ycombinator.com/item?id=45640594 target=_blank>211 comments</a>]]></description>
             <pubDate>2025-10-20T06:26:33Z</pubDate>
             <guid isPermaLink="false">https://github.com/deepseek-ai/DeepSeek-OCR</guid>
             <link>https://github.com/deepseek-ai/DeepSeek-OCR</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Entire Linux Network stack diagram (2024)]]></title>
-            <description><![CDATA[533 points | <a href=https://news.ycombinator.com/item?id=45639995 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[534 points | <a href=https://news.ycombinator.com/item?id=45639995 target=_blank>45 comments</a>]]></description>
             <pubDate>2025-10-20T03:33:11Z</pubDate>
             <guid isPermaLink="false">https://zenodo.org/records/14179366</guid>
             <link>https://zenodo.org/records/14179366</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Novo Nordisk's Canadian Mistake]]></title>
-            <description><![CDATA[406 points | <a href=https://news.ycombinator.com/item?id=45637744 target=_blank>214 comments</a>]]></description>
-            <pubDate>2025-10-19T20:39:13Z</pubDate>
-            <guid isPermaLink="false">https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake</guid>
-            <link>https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake</link>
-            
-            
-            
-            <author><![CDATA[jbm]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Servo v0.0.1]]></title>
-            <description><![CDATA[406 points | <a href=https://news.ycombinator.com/item?id=45643357 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=45643357 target=_blank>114 comments</a>]]></description>
             <pubDate>2025-10-20T12:55:30Z</pubDate>
             <guid isPermaLink="false">https://github.com/servo/servo</guid>
             <link>https://github.com/servo/servo</link>
@@ -123,6 +107,22 @@
             
             
             <author><![CDATA[undeveloper]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Novo Nordisk's Canadian Mistake]]></title>
+            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=45637744 target=_blank>214 comments</a>]]></description>
+            <pubDate>2025-10-19T20:39:13Z</pubDate>
+            <guid isPermaLink="false">https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake</guid>
+            <link>https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake</link>
+            
+            
+            
+            <author><![CDATA[jbm]]></author>
             
                 
             
@@ -178,6 +178,22 @@
         </item>
         
         <item>
+            <title><![CDATA[BERT is just a single text diffusion step]]></title>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=45644328 target=_blank>71 comments</a>]]></description>
+            <pubDate>2025-10-20T14:31:16Z</pubDate>
+            <guid isPermaLink="false">https://nathan.rs/posts/roberta-diffusion/</guid>
+            <link>https://nathan.rs/posts/roberta-diffusion/</link>
+            
+            
+            
+            <author><![CDATA[nathan-barry]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[AWS Outage: A Single Cloud Region Shouldn't Take Down the World. But It Did]]></title>
             <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=45642951 target=_blank>13 comments</a>]]></description>
             <pubDate>2025-10-20T12:05:02Z</pubDate>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[eon01]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[BERT is just a single text diffusion step]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=45644328 target=_blank>70 comments</a>]]></description>
-            <pubDate>2025-10-20T14:31:16Z</pubDate>
-            <guid isPermaLink="false">https://nathan.rs/posts/roberta-diffusion/</guid>
-            <link>https://nathan.rs/posts/roberta-diffusion/</link>
-            
-            
-            
-            <author><![CDATA[nathan-barry]]></author>
             
                 
             
