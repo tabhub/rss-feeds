@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[You already have a Git server]]></title>
-            <description><![CDATA[530 points | <a href=https://news.ycombinator.com/item?id=45710721 target=_blank>363 comments</a>]]></description>
+            <description><![CDATA[531 points | <a href=https://news.ycombinator.com/item?id=45710721 target=_blank>364 comments</a>]]></description>
             <pubDate>2025-10-26T10:53:37Z</pubDate>
             <guid isPermaLink="false">https://maurycyz.com/misc/easy_git/</guid>
             <link>https://maurycyz.com/misc/easy_git/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Let's Help NetBSD Cross the Finish Line Before 2025 Ends]]></title>
-            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=45711279 target=_blank>220 comments</a>]]></description>
+            <description><![CDATA[388 points | <a href=https://news.ycombinator.com/item?id=45711279 target=_blank>220 comments</a>]]></description>
             <pubDate>2025-10-26T12:34:36Z</pubDate>
             <guid isPermaLink="false">https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html</guid>
             <link>https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[A definition of AGI]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=45713959 target=_blank>367 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=45713959 target=_blank>372 comments</a>]]></description>
             <pubDate>2025-10-26T18:09:37Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2510.18212</guid>
             <link>https://arxiv.org/abs/2510.18212</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[How I turned Zig into my favorite language to write network programs in]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=45716109 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=45716109 target=_blank>81 comments</a>]]></description>
             <pubDate>2025-10-27T00:01:17Z</pubDate>
             <guid isPermaLink="false">https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html</guid>
             <link>https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[ICE Will Use AI to Surveil Social Media]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=45716296 target=_blank>229 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=45716296 target=_blank>231 comments</a>]]></description>
             <pubDate>2025-10-27T00:43:32Z</pubDate>
             <guid isPermaLink="false">https://jacobin.com/2025/10/ice-zignal-surveillance-social-media</guid>
             <link>https://jacobin.com/2025/10/ice-zignal-surveillance-social-media</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Poison, Poison Everywhere]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=45715726 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=45715726 target=_blank>146 comments</a>]]></description>
             <pubDate>2025-10-26T22:36:34Z</pubDate>
             <guid isPermaLink="false">https://loeber.substack.com/p/29-poison-poison-everywhere</guid>
             <link>https://loeber.substack.com/p/29-poison-poison-everywhere</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Feed the bots]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=45711094 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=45711094 target=_blank>159 comments</a>]]></description>
             <pubDate>2025-10-26T12:09:02Z</pubDate>
             <guid isPermaLink="false">https://maurycyz.com/misc/the_cost_of_trash/</guid>
             <link>https://maurycyz.com/misc/the_cost_of_trash/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[We Saved $500k per Year by Rolling Our Own "S3"]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=45715204 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=45715204 target=_blank>165 comments</a>]]></description>
             <pubDate>2025-10-26T21:05:09Z</pubDate>
             <guid isPermaLink="false">https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143</guid>
             <link>https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[mpweiher]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)]]></title>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=45715055 target=_blank>41 comments</a>]]></description>
+            <pubDate>2025-10-26T20:43:40Z</pubDate>
+            <guid isPermaLink="false">https://github.com/dvir-biton/MyraOS</guid>
+            <link>https://github.com/dvir-biton/MyraOS</link>
+            
+            
+            
+            <author><![CDATA[dvirbt]]></author>
             
                 
             
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[gnabgib]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)]]></title>
-            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=45715055 target=_blank>40 comments</a>]]></description>
-            <pubDate>2025-10-26T20:43:40Z</pubDate>
-            <guid isPermaLink="false">https://github.com/dvir-biton/MyraOS</guid>
-            <link>https://github.com/dvir-biton/MyraOS</link>
-            
-            
-            
-            <author><![CDATA[dvirbt]]></author>
             
                 
             
