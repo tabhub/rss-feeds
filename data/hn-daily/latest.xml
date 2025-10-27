@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Recall for Linux]]></title>
-            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=45718231 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[446 points | <a href=https://news.ycombinator.com/item?id=45718231 target=_blank>181 comments</a>]]></description>
             <pubDate>2025-10-27T07:24:19Z</pubDate>
             <guid isPermaLink="false">https://github.com/rolflobker/recall-for-linux</guid>
             <link>https://github.com/rolflobker/recall-for-linux</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Rust cross-platform GPUI components]]></title>
-            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=45719004 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=45719004 target=_blank>133 comments</a>]]></description>
             <pubDate>2025-10-27T09:44:18Z</pubDate>
             <guid isPermaLink="false">https://github.com/longbridge/gpui-component</guid>
             <link>https://github.com/longbridge/gpui-component</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How I turned Zig into my favorite language to write network programs in]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=45716109 target=_blank>111 comments</a>]]></description>
-            <pubDate>2025-10-27T00:01:17Z</pubDate>
-            <guid isPermaLink="false">https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html</guid>
-            <link>https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html</link>
-            
-            
-            
-            <author><![CDATA[0x1997]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[What happened to running what you wanted on your own machine?]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=45718665 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=45718665 target=_blank>183 comments</a>]]></description>
             <pubDate>2025-10-27T08:50:10Z</pubDate>
             <guid isPermaLink="false">https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/</guid>
             <link>https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[How I turned Zig into my favorite language to write network programs in]]></title>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=45716109 target=_blank>112 comments</a>]]></description>
+            <pubDate>2025-10-27T00:01:17Z</pubDate>
+            <guid isPermaLink="false">https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html</guid>
+            <link>https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html</link>
+            
+            
+            
+            <author><![CDATA[0x1997]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[We saved $500k per year by rolling our own "S3"]]></title>
-            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=45715204 target=_blank>227 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=45715204 target=_blank>228 comments</a>]]></description>
             <pubDate>2025-10-26T21:05:09Z</pubDate>
             <guid isPermaLink="false">https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143</guid>
             <link>https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[A definition of AGI]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=45713959 target=_blank>458 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=45713959 target=_blank>460 comments</a>]]></description>
             <pubDate>2025-10-26T18:09:37Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2510.18212</guid>
             <link>https://arxiv.org/abs/2510.18212</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Poison, Poison Everywhere]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=45715726 target=_blank>190 comments</a>]]></description>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=45715726 target=_blank>190 comments</a>]]></description>
             <pubDate>2025-10-26T22:36:34Z</pubDate>
             <guid isPermaLink="false">https://loeber.substack.com/p/29-poison-poison-everywhere</guid>
             <link>https://loeber.substack.com/p/29-poison-poison-everywhere</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[ICE Will Use AI to Surveil Social Media]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=45716296 target=_blank>322 comments</a>]]></description>
+            <description><![CDATA[278 points | <a href=https://news.ycombinator.com/item?id=45716296 target=_blank>326 comments</a>]]></description>
             <pubDate>2025-10-27T00:43:32Z</pubDate>
             <guid isPermaLink="false">https://jacobin.com/2025/10/ice-zignal-surveillance-social-media</guid>
             <link>https://jacobin.com/2025/10/ice-zignal-surveillance-social-media</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Movie posters from Ghana in the 1980s and 90s]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=45712807 target=_blank>94 comments</a>]]></description>
-            <pubDate>2025-10-26T15:47:29Z</pubDate>
-            <guid isPermaLink="false">https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good</guid>
-            <link>https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good</link>
-            
-            
-            
-            <author><![CDATA[bookofjoe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Don't forget these tags to make HTML work like you expect]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=45719140 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=45719140 target=_blank>141 comments</a>]]></description>
             <pubDate>2025-10-27T10:01:12Z</pubDate>
             <guid isPermaLink="false">https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/</guid>
             <link>https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[You are how you act]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=45719788 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=45719788 target=_blank>152 comments</a>]]></description>
             <pubDate>2025-10-27T11:35:58Z</pubDate>
             <guid isPermaLink="false">https://boz.com/articles/you-are-how-you-act</guid>
             <link>https://boz.com/articles/you-are-how-you-act</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Ken Thompson recalls Unix's rowdy, lock-picking origins]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=45713359 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=45713359 target=_blank>51 comments</a>]]></description>
             <pubDate>2025-10-26T16:57:12Z</pubDate>
             <guid isPermaLink="false">https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/</guid>
             <link>https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[dxs]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)]]></title>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=45715055 target=_blank>47 comments</a>]]></description>
+            <pubDate>2025-10-26T20:43:40Z</pubDate>
+            <guid isPermaLink="false">https://github.com/dvir-biton/MyraOS</guid>
+            <link>https://github.com/dvir-biton/MyraOS</link>
+            
+            
+            
+            <author><![CDATA[dvirbt]]></author>
             
                 
             
