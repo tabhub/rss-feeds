@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #744]]></title>
+        <title><![CDATA[Perl Weekly #745]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,127 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Development release of Perl v5.43.4]]></title>
-            <description><![CDATA[This release focuses on Unicode handling improvements and internationalization support.]]></description>
-            <pubDate>2025.10.23</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/release/EHERMAN/perl-5.43.4/view/pod/perldelta.pod</guid>
-            <link>https://metacpan.org/release/EHERMAN/perl-5.43.4/view/pod/perldelta.pod</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[London Perl Workshop 2025]]></title>
-            <description><![CDATA[It's back again, please join us for an exciting informative one day event.]]></description>
-            <pubDate>2025.10.22</pubDate>
-            <guid isPermaLink="false">https://www.londonperlworkshop.com/</guid>
-            <link>https://www.londonperlworkshop.com/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2 2.0.1 Released]]></title>
-            <description><![CDATA[Dancer2 2.0.1 has been released. It's a small maintenance release that fixes a few broken documentation links.]]></description>
-            <pubDate>2025.10.22</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2025/10/dancer2-201-released.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2025/10/dancer2-201-released.html</link>
-            
-            
-            
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl IDE - Developer Survey 2025 is now live!]]></title>
-            <description><![CDATA[After 12 year hiatus, the Perl IDE Developer Survey has returned! Please do take part in the survey.]]></description>
-            <pubDate>2025.10.22</pubDate>
-            <guid isPermaLink="false">https://github.com/perl-ide/perl-ide-poll</guid>
-            <link>https://github.com/perl-ide/perl-ide-poll</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl in Jupyter Notebook: A Modern Look for a Classic Language]]></title>
-            <description><![CDATA[The article is valuable and motivational, especially for people in the Perl community who feel Perl has had less representation in data science / notebooks / ML. It shows convincingly that the building blocks exist and invites people to experiment.]]></description>
-            <pubDate>2025.10.25</pubDate>
-            <guid isPermaLink="false">https://medium.com/@marcontk/perl-in-jupyter-notebook-a-modern-look-for-a-classic-language-db2f3c0fd5e6</guid>
-            <link>https://medium.com/@marcontk/perl-in-jupyter-notebook-a-modern-look-for-a-classic-language-db2f3c0fd5e6</link>
-            
-            
-            
-            <author><![CDATA[marcontk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[0xblog — About “Perl”, in 2022]]></title>
-            <description><![CDATA[This article is inspiring and helpful, in my opinion. Anyone in the Perl community (or nearby) who wants to be reminded of Perl's modern capabilities and feel that it is still relevant should read it.]]></description>
-            <pubDate>2025.10.12</pubDate>
-            <guid isPermaLink="false">https://medium.com/@federico_cagliero/0xblog-about-perl-in-2022-06260317a64c</guid>
-            <link>https://medium.com/@federico_cagliero/0xblog-about-perl-in-2022-06260317a64c</link>
-            
-            
-            
-            <author><![CDATA[federico_cagliero]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A palindromic polyglot program in x86 machine code, Perl, shell, and make]]></title>
-            <description><![CDATA[Binary Golf Grand Prix is an annual small file format competition, currently in it's sixth year. The goal is to make the smallest possible file that fits the criteria of the challenge.]]></description>
+            <title><![CDATA[Perl IDE survey]]></title>
+            <description><![CDATA[After a long hiatus the Perl IDE Survey is back to another round. It will take you about 20 seconds to fill it.]]></description>
             <pubDate>2025.10.20</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mauke/2025/10/a-palindromic-polyglot-program-in-x86-machine-code-perl-shell-and-make.html</guid>
-            <link>https://blogs.perl.org/users/mauke/2025/10/a-palindromic-polyglot-program-in-x86-machine-code-perl-shell-and-make.html</link>
+            <guid isPermaLink="false">https://survey.perlide.org</guid>
+            <link>https://survey.perlide.org</link>
             
             
             
-            <author><![CDATA[lukas_mai]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Beware of Geeks bearing Grifts]]></title>
-            <description><![CDATA[Excellent technical writing - accessible deep knowledge, strong literary craft, authentic developer humor and clearly rooted in the Perl ecosystem.]]></description>
-            <pubDate>2025.10.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2025/10/beware-of-geeks-bearing-grifts.html</guid>
-            <link>https://blogs.perl.org/users/saif/2025/10/beware-of-geeks-bearing-grifts.html</link>
-            
-            
-            
-            <author><![CDATA[saif_ahmed]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -146,15 +34,127 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.42 Release #186 (2025.10)]]></title>
-            <description><![CDATA[2025.42 Release #186 (2025.10)]]></description>
-            <pubDate>2025.10.20</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/10/20/2025-42-release-186-2025-10/</guid>
-            <link>https://rakudoweekly.blog/2025/10/20/2025-42-release-186-2025-10/</link>
+            <title><![CDATA[6 Perl One-Liners to Replace Common Linux Utilities]]></title>
+            <description><![CDATA[6 Perl One-Liners to Replace Common Linux Utilities]]></description>
+            <pubDate>2025.10.26</pubDate>
+            <guid isPermaLink="false">https://www.howtogeek.com/perl-one-liners-to-replace-common-linux-utilities/</guid>
+            <link>https://www.howtogeek.com/perl-one-liners-to-replace-common-linux-utilities/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[david_delony]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[why for/foreach can't use existing vars?]]></title>
+            <description><![CDATA[A lesson in scoping?]]></description>
+            <pubDate>2025.11.02</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1omedz9/why_forforeach_cant_use_existing_vars/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1omedz9/why_forforeach_cant_use_existing_vars/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenAPI Linter]]></title>
+            <description><![CDATA[OpenAPI has become the standard for designing, building and documenting RESTful APIs. However, ensuring your OpenAPI specifications are both syntactically correct and follow best practices can be challenging. OpenAPI::Linter brings comprehensive validation and linting capabilities directly into your Perl applications and development workflow, helping you catch issues before they impact your API consumers.]]></description>
+            <pubDate>2025.11.02</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/openapi-linter/</guid>
+            <link>https://theweeklychallenge.org/blog/openapi-linter/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Increasing Code coverage with Gemini]]></title>
+            <description><![CDATA[Excellent, showing the prompts help a lot!]]></description>
+            <pubDate>2025.11.02</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/itcharlie/2025/11/increasing-code-coverage-with-gemini.html</guid>
+            <link>https://blogs.perl.org/users/itcharlie/2025/11/increasing-code-coverage-with-gemini.html</link>
+            
+            
+            
+            <author><![CDATA[charlie_gonzalez]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Enhance your Gemini code assistance with a PRD document]]></title>
+            <description><![CDATA[Enhance your Gemini code assistance with a PRD document]]></description>
+            <pubDate>2025.11.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/itcharlie/2025/11/enhance-your-gemini-code-assistance-with-a-prd-document.html</guid>
+            <link>https://blogs.perl.org/users/itcharlie/2025/11/enhance-your-gemini-code-assistance-with-a-prd-document.html</link>
+            
+            
+            
+            <author><![CDATA[charlie_gonzalez]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[I made a multiple-insert as well as other methods for Mojo::Pg]]></title>
+            <description><![CDATA[I made a multiple-insert as well as other methods for Mojo::Pg]]></description>
+            <pubDate>2025.10</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/karjala/2025/10/i-made-a-multiple-insert-as-well-as-other-methods-for-mojopg.html</guid>
+            <link>https://blogs.perl.org/users/karjala/2025/10/i-made-a-multiple-insert-as-well-as-other-methods-for-mojopg.html</link>
+            
+            
+            
+            <author><![CDATA[karjala]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.33 & Mojolicious.Wiki V 1.08]]></title>
+            <description><![CDATA[Ron moved to a retirement village and still coding at 75. Nice.]]></description>
+            <pubDate>2025.10.31</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/10/announce-perlwiki-v-133-mojoliciouswiki-v-108.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2025/10/announce-perlwiki-v-133-mojoliciouswiki-v-108.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[App::Test::Generator 0.12]]></title>
+            <description><![CDATA[<a href="https://metacpan.org/pod/App::Test::Generator">App::Test::Generator</a> - Generate fuzz and corpus-driven test harnesses. This module takes a formal input/output specification for a routine or method and automatically generates test cases.]]></description>
+            <pubDate>2025.11.02</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1on01dm/apptestgenerator_012/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1on01dm/apptestgenerator_012/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -163,14 +163,30 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/10/dlxxi-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.10.25</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/11/dlxxii-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.10</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Maven online: Adding tests to legacy Perl code]]></title>
+            <description><![CDATA[November 11, 2025]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
