@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #745]]></title>
+        <title><![CDATA[Perl Weekly #746]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl IDE survey]]></title>
-            <description><![CDATA[After a long hiatus the Perl IDE Survey is back to another round. It will take you about 20 seconds to fill it.]]></description>
-            <pubDate>2025.10.20</pubDate>
-            <guid isPermaLink="false">https://survey.perlide.org</guid>
-            <link>https://survey.perlide.org</link>
+            <title><![CDATA[YAPC::Fukuoka 2025]]></title>
+            <description><![CDATA[It's 2 days event, 14-15 Nov 2025. YAPC::Fukuoka 2025 will be the first time the event is held in Kyushu since YAPC::Fukuoka 2017 HAKATA.]]></description>
+            <pubDate>2025.11.10</pubDate>
+            <guid isPermaLink="false">https://yapcjapan.org/2025fukuoka/</guid>
+            <link>https://yapcjapan.org/2025fukuoka/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[6 Perl One-Liners to Replace Common Linux Utilities]]></title>
-            <description><![CDATA[6 Perl One-Liners to Replace Common Linux Utilities]]></description>
-            <pubDate>2025.10.26</pubDate>
-            <guid isPermaLink="false">https://www.howtogeek.com/perl-one-liners-to-replace-common-linux-utilities/</guid>
-            <link>https://www.howtogeek.com/perl-one-liners-to-replace-common-linux-utilities/</link>
-            
-            
-            
-            <author><![CDATA[david_delony]]></author>
+            <author><![CDATA[olaf_alders]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[why for/foreach can't use existing vars?]]></title>
-            <description><![CDATA[A lesson in scoping?]]></description>
-            <pubDate>2025.11.02</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1omedz9/why_forforeach_cant_use_existing_vars/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1omedz9/why_forforeach_cant_use_existing_vars/</link>
+            <title><![CDATA[Adding tests to legacy Perl code]]></title>
+            <description><![CDATA[Online live-coding event.]]></description>
+            <pubDate>2025.11.11</pubDate>
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -66,11 +50,43 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenAPI Linter]]></title>
-            <description><![CDATA[OpenAPI has become the standard for designing, building and documenting RESTful APIs. However, ensuring your OpenAPI specifications are both syntactically correct and follow best practices can be challenging. OpenAPI::Linter brings comprehensive validation and linting capabilities directly into your Perl applications and development workflow, helping you catch issues before they impact your API consumers.]]></description>
-            <pubDate>2025.11.02</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/openapi-linter/</guid>
-            <link>https://theweeklychallenge.org/blog/openapi-linter/</link>
+            <title><![CDATA[Implementing Bitcoin in a dead language]]></title>
+            <description><![CDATA[An exceptional piece of technical writing that balances satire, technical depth and human vulnerability while showcasing significant software engineering accomplishment. It now implements BIP340 (Schnorr signatures), BIP341 (spending rules) and BIP342 (script validation).]]></description>
+            <pubDate>2025.11.09</pubDate>
+            <guid isPermaLink="false">https://bbrtj.eu/blog/article/bitcoin-crypto-4-released</guid>
+            <link>https://bbrtj.eu/blog/article/bitcoin-crypto-4-released</link>
+            
+            
+            
+            <author><![CDATA[bartosz_jarzyna]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A polymorphic quine]]></title>
+            <description><![CDATA[An exceptional deep dive into esoteric programming concepts that demonstrates profound computer science knowledge and creative problem-solving.]]></description>
+            <pubDate>2025.11.08</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mauke/2025/11/a-polymorphic-quine.html</guid>
+            <link>https://blogs.perl.org/users/mauke/2025/11/a-polymorphic-quine.html</link>
+            
+            
+            
+            <author><![CDATA[lukas_mai]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AWS S3 Bucket Events]]></title>
+            <description><![CDATA[Back to my favourite topic: AWS. In this post, I am showing how to tackle S3 bucket events using AWS Lambda.]]></description>
+            <pubDate>2025.11.07</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/aws-s3-bucket-events</guid>
+            <link>https://theweeklychallenge.org/blog/aws-s3-bucket-events</link>
             
             
             
@@ -82,79 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Increasing Code coverage with Gemini]]></title>
-            <description><![CDATA[Excellent, showing the prompts help a lot!]]></description>
-            <pubDate>2025.11.02</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/itcharlie/2025/11/increasing-code-coverage-with-gemini.html</guid>
-            <link>https://blogs.perl.org/users/itcharlie/2025/11/increasing-code-coverage-with-gemini.html</link>
+            <title><![CDATA[2025.44 Jimmy Wales on Audrey Tang]]></title>
+            <description><![CDATA[This is a high-quality community newsletter that successfully serves both technical and social aspects of the Raku ecosystem. It demonstrates an active, thoughtful community with meaningful technical content and important community developments.]]></description>
+            <pubDate>2025.11.03</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/11/03/2025-44-jimmy-wales-on-audrey-tang/</guid>
+            <link>https://rakudoweekly.blog/2025/11/03/2025-44-jimmy-wales-on-audrey-tang/</link>
             
             
             
-            <author><![CDATA[charlie_gonzalez]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Enhance your Gemini code assistance with a PRD document]]></title>
-            <description><![CDATA[Enhance your Gemini code assistance with a PRD document]]></description>
-            <pubDate>2025.11.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/itcharlie/2025/11/enhance-your-gemini-code-assistance-with-a-prd-document.html</guid>
-            <link>https://blogs.perl.org/users/itcharlie/2025/11/enhance-your-gemini-code-assistance-with-a-prd-document.html</link>
-            
-            
-            
-            <author><![CDATA[charlie_gonzalez]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[I made a multiple-insert as well as other methods for Mojo::Pg]]></title>
-            <description><![CDATA[I made a multiple-insert as well as other methods for Mojo::Pg]]></description>
-            <pubDate>2025.10</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/karjala/2025/10/i-made-a-multiple-insert-as-well-as-other-methods-for-mojopg.html</guid>
-            <link>https://blogs.perl.org/users/karjala/2025/10/i-made-a-multiple-insert-as-well-as-other-methods-for-mojopg.html</link>
-            
-            
-            
-            <author><![CDATA[karjala]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.33 & Mojolicious.Wiki V 1.08]]></title>
-            <description><![CDATA[Ron moved to a retirement village and still coding at 75. Nice.]]></description>
-            <pubDate>2025.10.31</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/10/announce-perlwiki-v-133-mojoliciouswiki-v-108.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2025/10/announce-perlwiki-v-133-mojoliciouswiki-v-108.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[App::Test::Generator 0.12]]></title>
-            <description><![CDATA[<a href="https://metacpan.org/pod/App::Test::Generator">App::Test::Generator</a> - Generate fuzz and corpus-driven test harnesses. This module takes a formal input/output specification for a routine or method and automatically generates test cases.]]></description>
-            <pubDate>2025.11.02</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1on01dm/apptestgenerator_012/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1on01dm/apptestgenerator_012/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -163,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/11/dlxxii-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.10</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/11/dlxxiii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/11/dcxviii-metacpan-weekly-report-dbdduckdb.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.11.08</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -199,6 +151,22 @@
             
             <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
             <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[YAPC::Fukuoka 2025]]></title>
+            <description><![CDATA[November 14-15, 2025]]></description>
+            
+            <guid isPermaLink="false">https://yapcjapan.org/2025fukuoka/</guid>
+            <link>https://yapcjapan.org/2025fukuoka/</link>
             
             
             
