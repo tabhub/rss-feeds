@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Nano Banana Pro]]></title>
-            <description><![CDATA[1101 points | <a href=https://news.ycombinator.com/item?id=45993296 target=_blank>625 comments</a>]]></description>
+            <description><![CDATA[1105 points | <a href=https://news.ycombinator.com/item?id=45993296 target=_blank>628 comments</a>]]></description>
             <pubDate>2025-11-20T15:04:23Z</pubDate>
             <guid isPermaLink="false">https://blog.google/technology/ai/nano-banana-pro/</guid>
             <link>https://blog.google/technology/ai/nano-banana-pro/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[CBP is monitoring US drivers and detaining those with suspicious travel patterns]]></title>
-            <description><![CDATA[746 points | <a href=https://news.ycombinator.com/item?id=45996860 target=_blank>792 comments</a>]]></description>
+            <description><![CDATA[751 points | <a href=https://news.ycombinator.com/item?id=45996860 target=_blank>795 comments</a>]]></description>
             <pubDate>2025-11-20T19:52:55Z</pubDate>
             <guid isPermaLink="false">https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd</guid>
             <link>https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Android and iPhone users can now share files, starting with the Pixel 10]]></title>
-            <description><![CDATA[726 points | <a href=https://news.ycombinator.com/item?id=45994854 target=_blank>424 comments</a>]]></description>
+            <description><![CDATA[731 points | <a href=https://news.ycombinator.com/item?id=45994854 target=_blank>427 comments</a>]]></description>
             <pubDate>2025-11-20T17:04:34Z</pubDate>
             <guid isPermaLink="false">https://blog.google/products/android/quick-share-airdrop/</guid>
             <link>https://blog.google/products/android/quick-share-airdrop/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Microsoft makes Zork open-source]]></title>
-            <description><![CDATA[586 points | <a href=https://news.ycombinator.com/item?id=45995740 target=_blank>225 comments</a>]]></description>
+            <description><![CDATA[587 points | <a href=https://news.ycombinator.com/item?id=45995740 target=_blank>225 comments</a>]]></description>
             <pubDate>2025-11-20T18:13:39Z</pubDate>
             <guid isPermaLink="false">https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source</guid>
             <link>https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[New OS aims to provide (some) compatibility with macOS]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=45997212 target=_blank>122 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=45997212 target=_blank>125 comments</a>]]></description>
             <pubDate>2025-11-20T20:24:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/ravynsoft/ravynos</guid>
             <link>https://github.com/ravynsoft/ravynos</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Over-regulation is doubling the cost]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=45999038 target=_blank>433 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=45999038 target=_blank>439 comments</a>]]></description>
             <pubDate>2025-11-20T22:58:06Z</pubDate>
             <guid isPermaLink="false">https://rein.pk/over-regulation-is-doubling-the-cost</guid>
             <link>https://rein.pk/over-regulation-is-doubling-the-cost</link>
@@ -123,6 +123,38 @@
             
             
             <author><![CDATA[bilsbie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Data-at-Rest Encryption in DuckDB]]></title>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=45996585 target=_blank>21 comments</a>]]></description>
+            <pubDate>2025-11-20T19:26:12Z</pubDate>
+            <guid isPermaLink="false">https://duckdb.org/2025/11/19/encryption-in-duckdb</guid>
+            <link>https://duckdb.org/2025/11/19/encryption-in-duckdb</link>
+            
+            
+            
+            <author><![CDATA[chmaynard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Olmo 3: Charting a path through the model flow to lead open-source AI]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=46001889 target=_blank>35 comments</a>]]></description>
+            <pubDate>2025-11-21T06:50:14Z</pubDate>
+            <guid isPermaLink="false">https://allenai.org/blog/olmo3</guid>
+            <link>https://allenai.org/blog/olmo3</link>
+            
+            
+            
+            <author><![CDATA[mseri]]></author>
             
                 
             
@@ -146,40 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Data-at-Rest Encryption in DuckDB]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=45996585 target=_blank>21 comments</a>]]></description>
-            <pubDate>2025-11-20T19:26:12Z</pubDate>
-            <guid isPermaLink="false">https://duckdb.org/2025/11/19/encryption-in-duckdb</guid>
-            <link>https://duckdb.org/2025/11/19/encryption-in-duckdb</link>
-            
-            
-            
-            <author><![CDATA[chmaynard]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Olmo 3: Charting a path through the model flow to lead open-source AI]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=46001889 target=_blank>33 comments</a>]]></description>
-            <pubDate>2025-11-21T06:50:14Z</pubDate>
-            <guid isPermaLink="false">https://allenai.org/blog/olmo3</guid>
-            <link>https://allenai.org/blog/olmo3</link>
-            
-            
-            
-            <author><![CDATA[mseri]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=45995834 target=_blank>199 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=45995834 target=_blank>200 comments</a>]]></description>
             <pubDate>2025-11-20T18:20:59Z</pubDate>
             <guid isPermaLink="false">https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf</guid>
             <link>https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[The Lions Operating System]]></title>
-            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=45995816 target=_blank>51 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=45995816 target=_blank>52 comments</a>]]></description>
             <pubDate>2025-11-20T18:19:31Z</pubDate>
             <guid isPermaLink="false">https://lionsos.org</guid>
             <link>https://lionsos.org</link>
