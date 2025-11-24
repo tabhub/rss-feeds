@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #747]]></title>
+        <title><![CDATA[Perl Weekly #748]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[HeroDevs Launches $20 Million Sustainability Fund for Open Source Creators to Secure End-of-life Software]]></title>
-            <description><![CDATA[HeroDevs Launches $20 Million Sustainability Fund for Open Source Creators to Secure End-of-life Software]]></description>
-            <pubDate>2025.11</pubDate>
-            <guid isPermaLink="false">https://www.herodevs.com/blog-posts/herodevs-launches-20-million-sustainability-fund-for-open-source-creators-to-secure-end-of-life-software</guid>
-            <link>https://www.herodevs.com/blog-posts/herodevs-launches-20-million-sustainability-fund-for-open-source-creators-to-secure-end-of-life-software</link>
+            <title><![CDATA[You're invited: LPW 2025]]></title>
+            <description><![CDATA[You're welcome to attend this week's free London Perl and Raku Workshop 2025 on Saturday the 29th of November.]]></description>
+            <pubDate>2025.11.24</pubDate>
+            <guid isPermaLink="false">https://www.londonperlworkshop.com/news#News-2025-11-24</guid>
+            <link>https://www.londonperlworkshop.com/news#News-2025-11-24</link>
             
             
             
@@ -34,43 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[German Perl/Raku Workshop 2026 in Berlin]]></title>
-            <description><![CDATA[German Perl/Raku Workshop 2026 in Berlin]]></description>
-            <pubDate>2025.11.10</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2025/11/german-perlraku-workshop-2026-in-berlin---16032025-18032025.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2025/11/german-perlraku-workshop-2026-in-berlin---16032025-18032025.html</link>
-            
-            
-            
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Wiki Haven: Digital.Security V 1.20, Mojolicious V 1.09, Perl V 1.34]]></title>
-            <description><![CDATA[Wiki Haven: Digital.Security V 1.20, Mojolicious V 1.09, Perl V 1.34]]></description>
-            <pubDate>2025.11.16</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/11/wiki-haven-digitalsecurity-v-120-mojolicious-v-109-perl-v-134.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2025/11/wiki-haven-digitalsecurity-v-120-mojolicious-v-109-perl-v-134.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl and Raku Foundation Supports London Perl Workshop with Gold-level Sponsorship]]></title>
-            <description><![CDATA[The Perl and Raku Foundation Supports London Perl Workshop with Gold-level Sponsorship]]></description>
-            <pubDate>2025.11.16</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/lpw_2025_sponsorship</guid>
-            <link>https://news.perlfoundation.org/post/lpw_2025_sponsorship</link>
+            <title><![CDATA[This week in PSC (207) | 2025-11-17]]></title>
+            <description><![CDATA[Talking about changes in the latest development release.]]></description>
+            <pubDate>2025.11.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/11/this-week-in-psc-207-2025-11-17.html</guid>
+            <link>https://blogs.perl.org/users/psc/2025/11/this-week-in-psc-207-2025-11-17.html</link>
             
             
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Grafana + Prometheus]]></title>
-            <description><![CDATA[For all DevOps enthusiasts, here is a quick introduction to Grafana and Prometheus.]]></description>
-            <pubDate>2025.11.15</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/grafana-prometheus/</guid>
-            <link>https://theweeklychallenge.org/blog/grafana-prometheus/</link>
+            <title><![CDATA[When does February 29th next land on a Monday?]]></title>
+            <description><![CDATA[Just released Cron::Toolkit 0.09 to CPAN to help answer this and other puzzlers. Over 400 tests.]]></description>
+            <pubDate>2025.11.23</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/pod/Cron::Toolkit</guid>
+            <link>https://metacpan.org/pod/Cron::Toolkit</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[TypeScript x Perl]]></title>
-            <description><![CDATA[Sandboxing Perl with WebAssembly - Part 4.(<a href="https://www.reddit.com/r/perl/comments/1oxsx1e/typescript_x_perl/">discussion</a>)]]></description>
-            <pubDate>2025.11.15</pubDate>
-            <guid isPermaLink="false">https://andrews.substack.com/p/typescript-x-perl</guid>
-            <link>https://andrews.substack.com/p/typescript-x-perl</link>
-            
-            
-            
-            <author><![CDATA[andrew_sampson]]></author>
+            <author><![CDATA[nathaniel_graham]]></author>
             
                 
             
@@ -114,91 +66,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Announcing Dump::Krumo a fancy, colorful, human readable way to debug your variables]]></title>
-            <description><![CDATA[<a href="https://metacpan.org/pod/Dump::Krumo">Dump::Krumo</a>]]></description>
-            <pubDate>2025.11.15</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1oxjhbe/announcing_dumpkrumo_a_fancy_colorful_human/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1oxjhbe/announcing_dumpkrumo_a_fancy_colorful_human/</link>
-            
-            
-            
-            <author><![CDATA[scott_baker]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Go Ahead ‘make’ My Day (Part III)]]></title>
-            <description><![CDATA[This is the last in a 3 part series on Scriptlets. In this final part, we talk about restraint - the discipline that keeps a clever trick from turning into a maintenance hazard.]]></description>
-            <pubDate>2025.11.14</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2025-11-14-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2025-11-14-post.html</link>
-            
-            
-            
-            <author><![CDATA[rob_lauer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Shutter crashing]]></title>
-            <description><![CDATA[Why are there so many warnings and errors when running Shutter on Ubuntu?]]></description>
-            <pubDate>2025.11.13</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/shutter-crashing</guid>
-            <link>https://perlmaven.com/shutter-crashing</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Bug fix release 2.08 for the Perl Distribution Workflow]]></title>
-            <description><![CDATA[Bug fix release 2.08 for the Perl Distribution Workflow]]></description>
-            <pubDate>2025.11.12</pubDate>
-            <guid isPermaLink="false">https://dev.to/jonasbn/bug-fix-release-208-for-the-perl-distribution-workflow-172e</guid>
-            <link>https://dev.to/jonasbn/bug-fix-release-208-for-the-perl-distribution-workflow-172e</link>
-            
-            
-            
-            <author><![CDATA[jonas_bromso_nielsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Speakers Wanted! Dec. 17-18 PCC Winter 2025]]></title>
-            <description><![CDATA[Speakers Wanted! Dec. 17-18 PCC Winter 2025]]></description>
-            <pubDate>2025.11.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2025/11/speakers-wanted-dec-17-18-pcc-winter-2025.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2025/11/speakers-wanted-dec-17-18-pcc-winter-2025.html</link>
-            
-            
-            
-            <author><![CDATA[oodler]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancing in the Clouds: Moving Dancer2 Apps from a VPS to Cloud Run]]></title>
-            <description><![CDATA[And here I am thinking that a VPS is already in the cloud. I guess these are different <a href="https://en.wikipedia.org/wiki/List_of_cloud_types">types of clouds</a>.]]></description>
-            <pubDate>2025.11.13</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/11/dancing-in-the-clouds-moving-dancer2-apps-from-a-vps-to-cloud-run/</guid>
-            <link>https://perlhacks.com/2025/11/dancing-in-the-clouds-moving-dancer2-apps-from-a-vps-to-cloud-run/</link>
+            <title><![CDATA[Elderly Camels in the Cloud]]></title>
+            <description><![CDATA[Dave continues to share his recent work with <strong>Google Cloud</strong> and <strong>Google Run</strong>.]]></description>
+            <pubDate>2025.11.23</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/11/elderly-camels-in-the-cloud</guid>
+            <link>https://perlhacks.com/2025/11/elderly-camels-in-the-cloud</link>
             
             
             
@@ -210,9 +82,25 @@
         </item>
         
         <item>
-            <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/11/dlxxiv-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/11/dcxix-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <title><![CDATA[2025.46 Advent Alert & Release #187]]></title>
+            <description><![CDATA[2025.46 Advent Alert & Release #187]]></description>
             <pubDate>2025.11.17</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/11/17/2025-46-advent-alert-release-187/</guid>
+            <link>https://rakudoweekly.blog/2025/11/17/2025-46-advent-alert-release-187/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NICEPERL's lists]]></title>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/11/dlxxv-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.11.22</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -279,6 +167,22 @@
             
             <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
             <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[German Perl/Raku Workshop 2026 in Berlin]]></title>
+            <description><![CDATA[March 16-18, 2025]]></description>
+            
+            <guid isPermaLink="false">https://act.yapc.eu/gpw2026/</guid>
+            <link>https://act.yapc.eu/gpw2026/</link>
             
             
             
