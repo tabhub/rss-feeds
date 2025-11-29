@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[28M Hacker News comments as vector embedding search dataset]]></title>
-            <description><![CDATA[371 points | <a href=https://news.ycombinator.com/item?id=46081053 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[376 points | <a href=https://news.ycombinator.com/item?id=46081053 target=_blank>146 comments</a>]]></description>
             <pubDate>2025-11-28T18:02:04Z</pubDate>
             <guid isPermaLink="false">https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset</guid>
             <link>https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Bringing Sexy Back. Internet surveillance has killed eroticism]]></title>
-            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=46080473 target=_blank>249 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=46080473 target=_blank>249 comments</a>]]></description>
             <pubDate>2025-11-28T17:05:31Z</pubDate>
             <guid isPermaLink="false">https://lux-magazine.com/article/privacy-eroticism/</guid>
             <link>https://lux-magazine.com/article/privacy-eroticism/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Imgur geo-blocked the UK, so I geo-unblocked my network]]></title>
-            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=46081188 target=_blank>115 comments</a>]]></description>
+            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=46081188 target=_blank>116 comments</a>]]></description>
             <pubDate>2025-11-28T18:15:50Z</pubDate>
             <guid isPermaLink="false">https://blog.tymscar.com/posts/imgurukproxy/</guid>
             <link>https://blog.tymscar.com/posts/imgurukproxy/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Molly: An Improved Signal App]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=46080916 target=_blank>172 comments</a>]]></description>
+            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=46080916 target=_blank>172 comments</a>]]></description>
             <pubDate>2025-11-28T17:48:25Z</pubDate>
             <guid isPermaLink="false">https://molly.im/</guid>
             <link>https://molly.im/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Can Dutch universities do without Microsoft?]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=46079721 target=_blank>290 comments</a>]]></description>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=46079721 target=_blank>291 comments</a>]]></description>
             <pubDate>2025-11-28T15:53:39Z</pubDate>
             <guid isPermaLink="false">https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft</guid>
             <link>https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft</link>
@@ -171,6 +171,22 @@
             
             
             <author><![CDATA[robtherobber]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[So you wanna build a local RAG?]]></title>
+            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=46080364 target=_blank>56 comments</a>]]></description>
+            <pubDate>2025-11-28T16:54:56Z</pubDate>
+            <guid isPermaLink="false">https://blog.yakkomajuri.com/blog/local-rag</guid>
+            <link>https://blog.yakkomajuri.com/blog/local-rag</link>
+            
+            
+            
+            <author><![CDATA[pedriquepacheco]]></author>
             
                 
             
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[alecco]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[So you wanna build a local RAG?]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=46080364 target=_blank>55 comments</a>]]></description>
-            <pubDate>2025-11-28T16:54:56Z</pubDate>
-            <guid isPermaLink="false">https://blog.yakkomajuri.com/blog/local-rag</guid>
-            <link>https://blog.yakkomajuri.com/blog/local-rag</link>
-            
-            
-            
-            <author><![CDATA[pedriquepacheco]]></author>
             
                 
             
