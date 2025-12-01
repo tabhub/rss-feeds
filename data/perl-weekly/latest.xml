@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #748]]></title>
+        <title><![CDATA[Perl Weekly #749]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[You're invited: LPW 2025]]></title>
-            <description><![CDATA[You're welcome to attend this week's free London Perl and Raku Workshop 2025 on Saturday the 29th of November.]]></description>
-            <pubDate>2025.11.24</pubDate>
-            <guid isPermaLink="false">https://www.londonperlworkshop.com/news#News-2025-11-24</guid>
-            <link>https://www.londonperlworkshop.com/news#News-2025-11-24</link>
+            <title><![CDATA[Design Patterns in Modern Perl]]></title>
+            <description><![CDATA[Manwar, congratulations! Everyone else, go buy the book! (<a href="https://www.reddit.com/r/perl/comments/1p9snhr/design_patterns_in_modern_perl_perl_school/">comments</a>)]]></description>
+            <pubDate>2025.11.29</pubDate>
+            <guid isPermaLink="false">https://perlschool.com/books/design-patterns/</guid>
+            <link>https://perlschool.com/books/design-patterns/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (207) | 2025-11-17]]></title>
-            <description><![CDATA[Talking about changes in the latest development release.]]></description>
-            <pubDate>2025.11.17</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2025/11/this-week-in-psc-207-2025-11-17.html</guid>
-            <link>https://blogs.perl.org/users/psc/2025/11/this-week-in-psc-207-2025-11-17.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[When does February 29th next land on a Monday?]]></title>
-            <description><![CDATA[Just released Cron::Toolkit 0.09 to CPAN to help answer this and other puzzlers. Over 400 tests.]]></description>
-            <pubDate>2025.11.23</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/pod/Cron::Toolkit</guid>
-            <link>https://metacpan.org/pod/Cron::Toolkit</link>
+            <title><![CDATA[ANNOUNCE: Various updated wikis, including Perl.Wiki]]></title>
+            <description><![CDATA[ANNOUNCE: Various updated wikis, including Perl.Wiki]]></description>
+            <pubDate>2025.12.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/12/announce-various-updated-wikis-including-perlwiki.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2025/12/announce-various-updated-wikis-including-perlwiki.html</link>
             
             
             
-            <author><![CDATA[nathaniel_graham]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -66,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Elderly Camels in the Cloud]]></title>
-            <description><![CDATA[Dave continues to share his recent work with <strong>Google Cloud</strong> and <strong>Google Run</strong>.]]></description>
-            <pubDate>2025.11.23</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/11/elderly-camels-in-the-cloud</guid>
-            <link>https://perlhacks.com/2025/11/elderly-camels-in-the-cloud</link>
+            <title><![CDATA[Dotcom Survivor Syndrome – How Perl’s Early Success Created the Seeds of Its Downfall]]></title>
+            <description><![CDATA[I like the sentiment, but as one of the <a href="https://www.reddit.com/r/perl/comments/1pall6h/dotcom_survivor_syndrome_how_perls_early_success/">commenters</a> pointed out there was PHP as well.]]></description>
+            <pubDate>2025.11.30</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/11/dotcom-survivor-syndrome-how-perls-early-success-created-the-seeds-of-its-downfall/</guid>
+            <link>https://perlhacks.com/2025/11/dotcom-survivor-syndrome-how-perls-early-success-created-the-seeds-of-its-downfall/</link>
             
             
             
@@ -82,15 +66,47 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.46 Advent Alert & Release #187]]></title>
-            <description><![CDATA[2025.46 Advent Alert & Release #187]]></description>
-            <pubDate>2025.11.17</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/11/17/2025-46-advent-alert-release-187/</guid>
-            <link>https://rakudoweekly.blog/2025/11/17/2025-46-advent-alert-release-187/</link>
+            <title><![CDATA[GitHub and the Perl License]]></title>
+            <description><![CDATA[In a nutshell, if you'd like to use 'the Perl license' you probably should include two separate license files. (<a href="https://www.reddit.com/r/perl/comments/1p8toyz/github_and_the_perl_license_mikko_koivunalho/">comments</a>)]]></description>
+            <pubDate>2025.11.27</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2025/11/github-and-the-perl-license.html</guid>
+            <link>https://blogs.perl.org/users/mikko_koivunalho/2025/11/github-and-the-perl-license.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[mikko_koivunalho]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Showcase: Localised JSON Schema validation in Perl + JavaScript (CodePen demo included!)]]></title>
+            <description><![CDATA[A small project that might interest anyone in dealing with form validation, localisation, and JSON Schema in their Perl web applications / REST API.]]></description>
+            <pubDate>2025.11.27</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1p80dne/showcase_localised_json_schema_validation_in_perl/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1p80dne/showcase_localised_json_schema_validation_in_perl/</link>
+            
+            
+            
+            <author><![CDATA[jacques_deguest]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Catalyst::Request body issues with the file position pointer]]></title>
+            <description><![CDATA[For those using the Perl Catalyst web framework in ways involving structured request bodies (e.g. API POSTs)...]]></description>
+            <pubDate>2025.11.28</pubDate>
+            <guid isPermaLink="false">https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l</guid>
+            <link>https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l</link>
+            
+            
+            
+            <author><![CDATA[mike_whitaker]]></author>
             
                 
             
@@ -99,30 +115,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/11/dlxxv-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.11.22</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/11/dlxxvi-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.11.29</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[London Perl and Raku Workshop]]></title>
-            <description><![CDATA[November 29, 2025]]></description>
-            
-            <guid isPermaLink="false">https://www.londonperlworkshop.com/</guid>
-            <link>https://www.londonperlworkshop.com/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
