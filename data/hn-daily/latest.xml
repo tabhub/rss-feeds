@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Anthropic acquires Bun]]></title>
-            <description><![CDATA[1143 points | <a href=https://news.ycombinator.com/item?id=46124267 target=_blank>558 comments</a>]]></description>
+            <description><![CDATA[1162 points | <a href=https://news.ycombinator.com/item?id=46124267 target=_blank>565 comments</a>]]></description>
             <pubDate>2025-12-02T18:05:44Z</pubDate>
             <guid isPermaLink="false">https://bun.com/blog/bun-joins-anthropic</guid>
             <link>https://bun.com/blog/bun-joins-anthropic</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mistral 3 family of models released]]></title>
-            <description><![CDATA[602 points | <a href=https://news.ycombinator.com/item?id=46121889 target=_blank>181 comments</a>]]></description>
+            <description><![CDATA[609 points | <a href=https://news.ycombinator.com/item?id=46121889 target=_blank>181 comments</a>]]></description>
             <pubDate>2025-12-02T15:01:53Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/news/mistral-3</guid>
             <link>https://mistral.ai/news/mistral-3</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[What will enter the public domain in 2026?]]></title>
-            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=46117112 target=_blank>329 comments</a>]]></description>
+            <description><![CDATA[467 points | <a href=https://news.ycombinator.com/item?id=46117112 target=_blank>330 comments</a>]]></description>
             <pubDate>2025-12-02T03:23:10Z</pubDate>
             <guid isPermaLink="false">https://publicdomainreview.org/features/entering-the-public-domain/2026/</guid>
             <link>https://publicdomainreview.org/features/entering-the-public-domain/2026/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[OpenAI declares 'code red' as Google catches up in AI race]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=46121870 target=_blank>400 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=46121870 target=_blank>416 comments</a>]]></description>
             <pubDate>2025-12-02T15:00:16Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/news/836212/openai-code-red-chatgpt</guid>
             <link>https://www.theverge.com/news/836212/openai-code-red-chatgpt</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Advent of Compiler Optimisations 2025]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=46119500 target=_blank>53 comments</a>]]></description>
+            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=46119500 target=_blank>53 comments</a>]]></description>
             <pubDate>2025-12-02T09:51:42Z</pubDate>
             <guid isPermaLink="false">https://xania.org/202511/advent-of-compiler-optimisation</guid>
             <link>https://xania.org/202511/advent-of-compiler-optimisation</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Addressing the adding situation]]></title>
-            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=46120181 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=46120181 target=_blank>81 comments</a>]]></description>
             <pubDate>2025-12-02T11:30:29Z</pubDate>
             <guid isPermaLink="false">https://xania.org/202512/02-adding-integers</guid>
             <link>https://xania.org/202512/02-adding-integers</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[100k TPS over a billion rows: the unreasonable effectiveness of SQLite]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=46124205 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=46124205 target=_blank>87 comments</a>]]></description>
             <pubDate>2025-12-02T17:59:53Z</pubDate>
             <guid isPermaLink="false">https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html</guid>
             <link>https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html</link>
@@ -155,6 +155,22 @@
             
             
             <author><![CDATA[speckx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Claude 4.5 Opus' Soul Document]]></title>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=46125184 target=_blank>116 comments</a>]]></description>
+            <pubDate>2025-12-02T19:05:54Z</pubDate>
+            <guid isPermaLink="false">https://simonwillison.net/2025/Dec/2/claude-soul-document/</guid>
+            <link>https://simonwillison.net/2025/Dec/2/claude-soul-document/</link>
+            
+            
+            
+            <author><![CDATA[the-needful]]></author>
             
                 
             
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[bpierre]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Claude 4.5 Opus' Soul Document]]></title>
-            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=46125184 target=_blank>114 comments</a>]]></description>
-            <pubDate>2025-12-02T19:05:54Z</pubDate>
-            <guid isPermaLink="false">https://simonwillison.net/2025/Dec/2/claude-soul-document/</guid>
-            <link>https://simonwillison.net/2025/Dec/2/claude-soul-document/</link>
-            
-            
-            
-            <author><![CDATA[the-needful]]></author>
             
                 
             
