@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Zig quits GitHub, says Microsoft's AI obsession has ruined the service]]></title>
-            <description><![CDATA[894 points | <a href=https://news.ycombinator.com/item?id=46131406 target=_blank>509 comments</a>]]></description>
+            <description><![CDATA[899 points | <a href=https://news.ycombinator.com/item?id=46131406 target=_blank>513 comments</a>]]></description>
             <pubDate>2025-12-03T07:52:37Z</pubDate>
             <guid isPermaLink="false">https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/</guid>
             <link>https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Accepting US car standards would risk European lives]]></title>
-            <description><![CDATA[807 points | <a href=https://news.ycombinator.com/item?id=46131330 target=_blank>686 comments</a>]]></description>
+            <description><![CDATA[807 points | <a href=https://news.ycombinator.com/item?id=46131330 target=_blank>689 comments</a>]]></description>
             <pubDate>2025-12-03T07:41:51Z</pubDate>
             <guid isPermaLink="false">https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/</guid>
             <link>https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[“Captain Gains” on Capitol Hill]]></title>
-            <description><![CDATA[749 points | <a href=https://news.ycombinator.com/item?id=46134443 target=_blank>467 comments</a>]]></description>
+            <description><![CDATA[749 points | <a href=https://news.ycombinator.com/item?id=46134443 target=_blank>470 comments</a>]]></description>
             <pubDate>2025-12-03T13:50:10Z</pubDate>
             <guid isPermaLink="false">https://www.nber.org/papers/w34524</guid>
             <link>https://www.nber.org/papers/w34524</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Ghostty is now non-profit]]></title>
-            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=46138238 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=46138238 target=_blank>93 comments</a>]]></description>
             <pubDate>2025-12-03T18:40:06Z</pubDate>
             <guid isPermaLink="false">https://mitchellh.com/writing/ghostty-non-profit</guid>
             <link>https://mitchellh.com/writing/ghostty-non-profit</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Helldivers 2 devs slash install size from 154GB to 23GB]]></title>
-            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=46134178 target=_blank>220 comments</a>]]></description>
+            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=46134178 target=_blank>226 comments</a>]]></description>
             <pubDate>2025-12-03T13:20:58Z</pubDate>
             <guid isPermaLink="false">https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives</guid>
             <link>https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[MinIO is now in maintenance-mode]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=46136023 target=_blank>191 comments</a>]]></description>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=46136023 target=_blank>196 comments</a>]]></description>
             <pubDate>2025-12-03T16:00:19Z</pubDate>
             <guid isPermaLink="false">https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2</guid>
             <link>https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[hajtom]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files]]></title>
+            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=46137514 target=_blank>94 comments</a>]]></description>
+            <pubDate>2025-12-03T17:44:33Z</pubDate>
+            <guid isPermaLink="false">https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k</guid>
+            <link>https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k</link>
+            
+            
+            
+            <author><![CDATA[bearsyankees]]></author>
             
                 
             
@@ -146,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files]]></title>
-            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=46137514 target=_blank>92 comments</a>]]></description>
-            <pubDate>2025-12-03T17:44:33Z</pubDate>
-            <guid isPermaLink="false">https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k</guid>
-            <link>https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k</link>
-            
-            
-            
-            <author><![CDATA[bearsyankees]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Steam Deck lead reveals Valve is funding ARM compatibility of Windows games]]></title>
             <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=46136901 target=_blank>10 comments</a>]]></description>
             <pubDate>2025-12-03T17:00:13Z</pubDate>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[RCE Vulnerability in React and Next.js]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=46136026 target=_blank>79 comments</a>]]></description>
-            <pubDate>2025-12-03T16:00:23Z</pubDate>
-            <guid isPermaLink="false">https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp</guid>
-            <link>https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp</link>
+            <title><![CDATA[Everyone in Seattle hates AI]]></title>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=46138952 target=_blank>282 comments</a>]]></description>
+            <pubDate>2025-12-03T19:37:25Z</pubDate>
+            <guid isPermaLink="false">https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html</guid>
+            <link>https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html</link>
             
             
             
-            <author><![CDATA[rayhaanj]]></author>
+            <author><![CDATA[mips_avatar]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)]]></title>
-            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=46130335 target=_blank>50 comments</a>]]></description>
-            <pubDate>2025-12-03T04:32:16Z</pubDate>
-            <guid isPermaLink="false">https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13</guid>
-            <link>https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13</link>
+            <title><![CDATA[RCE Vulnerability in React and Next.js]]></title>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=46136026 target=_blank>82 comments</a>]]></description>
+            <pubDate>2025-12-03T16:00:23Z</pubDate>
+            <guid isPermaLink="false">https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp</guid>
+            <link>https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp</link>
             
             
             
-            <author><![CDATA[areoform]]></author>
+            <author><![CDATA[rayhaanj]]></author>
             
                 
             
