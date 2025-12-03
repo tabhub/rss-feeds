@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Anthropic acquires Bun]]></title>
-            <description><![CDATA[1609 points | <a href=https://news.ycombinator.com/item?id=46124267 target=_blank>770 comments</a>]]></description>
+            <description><![CDATA[1637 points | <a href=https://news.ycombinator.com/item?id=46124267 target=_blank>783 comments</a>]]></description>
             <pubDate>2025-12-02T18:05:44Z</pubDate>
             <guid isPermaLink="false">https://bun.com/blog/bun-joins-anthropic</guid>
             <link>https://bun.com/blog/bun-joins-anthropic</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mistral 3 family of models released]]></title>
-            <description><![CDATA[713 points | <a href=https://news.ycombinator.com/item?id=46121889 target=_blank>196 comments</a>]]></description>
+            <description><![CDATA[721 points | <a href=https://news.ycombinator.com/item?id=46121889 target=_blank>197 comments</a>]]></description>
             <pubDate>2025-12-02T15:01:53Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/news/mistral-3</guid>
             <link>https://mistral.ai/news/mistral-3</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[OpenAI declares 'code red' as Google catches up in AI race]]></title>
-            <description><![CDATA[549 points | <a href=https://news.ycombinator.com/item?id=46121870 target=_blank>632 comments</a>]]></description>
+            <description><![CDATA[572 points | <a href=https://news.ycombinator.com/item?id=46121870 target=_blank>641 comments</a>]]></description>
             <pubDate>2025-12-02T15:00:16Z</pubDate>
             <guid isPermaLink="false">https://www.theverge.com/news/836212/openai-code-red-chatgpt</guid>
             <link>https://www.theverge.com/news/836212/openai-code-red-chatgpt</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple Releases Open Weights Video Model]]></title>
-            <description><![CDATA[434 points | <a href=https://news.ycombinator.com/item?id=46117802 target=_blank>156 comments</a>]]></description>
-            <pubDate>2025-12-02T05:10:01Z</pubDate>
-            <guid isPermaLink="false">https://starflow-v.github.io</guid>
-            <link>https://starflow-v.github.io</link>
-            
-            
-            
-            <author><![CDATA[vessenes]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[IBM CEO says there is 'no way' spending on AI data centers will pay off]]></title>
-            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=46124324 target=_blank>461 comments</a>]]></description>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=46124324 target=_blank>486 comments</a>]]></description>
             <pubDate>2025-12-02T18:10:23Z</pubDate>
             <guid isPermaLink="false">https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12</guid>
             <link>https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12</link>
@@ -114,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[100k TPS over a billion rows: the unreasonable effectiveness of SQLite]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=46124205 target=_blank>109 comments</a>]]></description>
-            <pubDate>2025-12-02T17:59:53Z</pubDate>
-            <guid isPermaLink="false">https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html</guid>
-            <link>https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html</link>
-            
-            
-            
-            <author><![CDATA[speckx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Paged Out]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=46126217 target=_blank>33 comments</a>]]></description>
+            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=46126217 target=_blank>33 comments</a>]]></description>
             <pubDate>2025-12-02T20:14:20Z</pubDate>
             <guid isPermaLink="false">https://pagedout.institute</guid>
             <link>https://pagedout.institute</link>
@@ -146,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[100k TPS over a billion rows: the unreasonable effectiveness of SQLite]]></title>
+            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=46124205 target=_blank>113 comments</a>]]></description>
+            <pubDate>2025-12-02T17:59:53Z</pubDate>
+            <guid isPermaLink="false">https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html</guid>
+            <link>https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html</link>
+            
+            
+            
+            <author><![CDATA[speckx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Claude 4.5 Opus’ Soul Document]]></title>
-            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=46125184 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=46125184 target=_blank>176 comments</a>]]></description>
             <pubDate>2025-12-02T19:05:54Z</pubDate>
             <guid isPermaLink="false">https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document</guid>
             <link>https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document</link>
@@ -155,6 +139,38 @@
             
             
             <author><![CDATA[the-needful]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Zig's new plan for asynchronous programs]]></title>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=46121539 target=_blank>198 comments</a>]]></description>
+            <pubDate>2025-12-02T14:31:16Z</pubDate>
+            <guid isPermaLink="false">https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/</guid>
+            <link>https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/</link>
+            
+            
+            
+            <author><![CDATA[messe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Junior Hiring Crisis]]></title>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=46124063 target=_blank>385 comments</a>]]></description>
+            <pubDate>2025-12-02T17:48:33Z</pubDate>
+            <guid isPermaLink="false">https://people-work.io/blog/junior-hiring-crisis/</guid>
+            <link>https://people-work.io/blog/junior-hiring-crisis/</link>
+            
+            
+            
+            <author><![CDATA[mooreds]]></author>
             
                 
             
@@ -178,31 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Zig's new plan for asynchronous programs]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=46121539 target=_blank>196 comments</a>]]></description>
-            <pubDate>2025-12-02T14:31:16Z</pubDate>
-            <guid isPermaLink="false">https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/</guid>
-            <link>https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/</link>
+            <title><![CDATA[Python Data Science Handbook]]></title>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=46120611 target=_blank>45 comments</a>]]></description>
+            <pubDate>2025-12-02T12:38:28Z</pubDate>
+            <guid isPermaLink="false">https://jakevdp.github.io/PythonDataScienceHandbook/</guid>
+            <link>https://jakevdp.github.io/PythonDataScienceHandbook/</link>
             
             
             
-            <author><![CDATA[messe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Junior Hiring Crisis]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=46124063 target=_blank>381 comments</a>]]></description>
-            <pubDate>2025-12-02T17:48:33Z</pubDate>
-            <guid isPermaLink="false">https://people-work.io/blog/junior-hiring-crisis/</guid>
-            <link>https://people-work.io/blog/junior-hiring-crisis/</link>
-            
-            
-            
-            <author><![CDATA[mooreds]]></author>
+            <author><![CDATA[cl3misch]]></author>
             
                 
             
