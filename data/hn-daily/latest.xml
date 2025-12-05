@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[It’s time to free JavaScript (2024)]]></title>
-            <description><![CDATA[689 points | <a href=https://news.ycombinator.com/item?id=46145365 target=_blank>347 comments</a>]]></description>
-            <pubDate>2025-12-04T09:01:55Z</pubDate>
-            <guid isPermaLink="false">https://javascript.tm/letter</guid>
-            <link>https://javascript.tm/letter</link>
-            
-            
-            
-            <author><![CDATA[pavelai]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Cloudflare is down]]></title>
-            <description><![CDATA[661 points | <a href=https://news.ycombinator.com/item?id=46158191 target=_blank>394 comments</a>]]></description>
+            <description><![CDATA[690 points | <a href=https://news.ycombinator.com/item?id=46158191 target=_blank>430 comments</a>]]></description>
             <pubDate>2025-12-05T08:50:16Z</pubDate>
             <guid isPermaLink="false">https://www.cloudflare.com/</guid>
             <link>https://www.cloudflare.com/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Why are 38 percent of Stanford students saying they're disabled?]]></title>
-            <description><![CDATA[632 points | <a href=https://news.ycombinator.com/item?id=46150715 target=_blank>859 comments</a>]]></description>
+            <description><![CDATA[636 points | <a href=https://news.ycombinator.com/item?id=46150715 target=_blank>863 comments</a>]]></description>
             <pubDate>2025-12-04T18:04:07Z</pubDate>
             <guid isPermaLink="false">https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/</guid>
             <link>https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[PGlite – Embeddable Postgres]]></title>
-            <description><![CDATA[546 points | <a href=https://news.ycombinator.com/item?id=46146133 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[547 points | <a href=https://news.ycombinator.com/item?id=46146133 target=_blank>110 comments</a>]]></description>
             <pubDate>2025-12-04T10:52:42Z</pubDate>
             <guid isPermaLink="false">https://pglite.dev/</guid>
             <link>https://pglite.dev/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[I ignore the spotlight as a staff engineer]]></title>
-            <description><![CDATA[481 points | <a href=https://news.ycombinator.com/item?id=46146451 target=_blank>220 comments</a>]]></description>
+            <description><![CDATA[483 points | <a href=https://news.ycombinator.com/item?id=46146451 target=_blank>221 comments</a>]]></description>
             <pubDate>2025-12-04T11:36:36Z</pubDate>
             <guid isPermaLink="false">https://lalitm.com/software-engineering-outside-the-spotlight/</guid>
             <link>https://lalitm.com/software-engineering-outside-the-spotlight/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Transparent leadership beats servant leadership]]></title>
-            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=46147540 target=_blank>202 comments</a>]]></description>
+            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=46147540 target=_blank>203 comments</a>]]></description>
             <pubDate>2025-12-04T13:40:00Z</pubDate>
             <guid isPermaLink="false">https://entropicthoughts.com/transparent-leadership-beats-servant-leadership</guid>
             <link>https://entropicthoughts.com/transparent-leadership-beats-servant-leadership</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Microsoft drops AI sales targets in half after salespeople miss their quotas]]></title>
-            <description><![CDATA[405 points | <a href=https://news.ycombinator.com/item?id=46148748 target=_blank>304 comments</a>]]></description>
+            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=46148748 target=_blank>305 comments</a>]]></description>
             <pubDate>2025-12-04T15:31:52Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/</guid>
             <link>https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Netflix’s AV1 Journey: From Android to TVs and Beyond]]></title>
-            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=46155135 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[378 points | <a href=https://news.ycombinator.com/item?id=46155135 target=_blank>180 comments</a>]]></description>
             <pubDate>2025-12-05T00:09:57Z</pubDate>
             <guid isPermaLink="false">https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80</guid>
             <link>https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80</link>
@@ -171,6 +155,22 @@
             
             
             <author><![CDATA[CharlesW]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Thoughts on Go vs. Rust vs. Zig]]></title>
+            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=46153466 target=_blank>416 comments</a>]]></description>
+            <pubDate>2025-12-04T21:40:24Z</pubDate>
+            <guid isPermaLink="false">https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/</guid>
+            <link>https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/</link>
+            
+            
+            
+            <author><![CDATA[yurivish]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Thoughts on Go vs. Rust vs. Zig]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=46153466 target=_blank>411 comments</a>]]></description>
-            <pubDate>2025-12-04T21:40:24Z</pubDate>
-            <guid isPermaLink="false">https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/</guid>
-            <link>https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/</link>
+            <title><![CDATA[Django 6]]></title>
+            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=46153116 target=_blank>158 comments</a>]]></description>
+            <pubDate>2025-12-04T21:09:56Z</pubDate>
+            <guid isPermaLink="false">https://docs.djangoproject.com/en/6.0/releases/6.0/</guid>
+            <link>https://docs.djangoproject.com/en/6.0/releases/6.0/</link>
             
             
             
-            <author><![CDATA[yurivish]]></author>
+            <author><![CDATA[wilhelmklopp]]></author>
             
                 
             
