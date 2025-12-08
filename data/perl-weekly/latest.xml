@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #749]]></title>
+        <title><![CDATA[Perl Weekly #750]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Design Patterns in Modern Perl]]></title>
-            <description><![CDATA[Manwar, congratulations! Everyone else, go buy the book! (<a href="https://www.reddit.com/r/perl/comments/1p9snhr/design_patterns_in_modern_perl_perl_school/">comments</a>)]]></description>
-            <pubDate>2025.11.29</pubDate>
-            <guid isPermaLink="false">https://perlschool.com/books/design-patterns/</guid>
-            <link>https://perlschool.com/books/design-patterns/</link>
+            <title><![CDATA[PAGI: ASGI For Perl, or the Spiritual Successor to Plack]]></title>
+            <description><![CDATA[PAGI (Perl Asynchronous Gateway Interface) is a new specification for async Perl web applications, inspired by Python's ASGI. It supports HTTP, WebSockets, and Server-Sent Events natively, and can wrap existing PSGI applications for backward compatibility.]]></description>
+            <pubDate>2025.12.02</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/pagi-asgi-for-perl-or-the-spiritual-successor-to-plack-3kb9</guid>
+            <link>https://dev.to/jjn1056/pagi-asgi-for-perl-or-the-spiritual-successor-to-plack-3kb9</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Various updated wikis, including Perl.Wiki]]></title>
-            <description><![CDATA[ANNOUNCE: Various updated wikis, including Perl.Wiki]]></description>
-            <pubDate>2025.12.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2025/12/announce-various-updated-wikis-including-perlwiki.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2025/12/announce-various-updated-wikis-including-perlwiki.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
             
                 
             
@@ -50,27 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Dotcom Survivor Syndrome – How Perl’s Early Success Created the Seeds of Its Downfall]]></title>
-            <description><![CDATA[I like the sentiment, but as one of the <a href="https://www.reddit.com/r/perl/comments/1pall6h/dotcom_survivor_syndrome_how_perls_early_success/">commenters</a> pointed out there was PHP as well.]]></description>
-            <pubDate>2025.11.30</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/11/dotcom-survivor-syndrome-how-perls-early-success-created-the-seeds-of-its-downfall/</guid>
-            <link>https://perlhacks.com/2025/11/dotcom-survivor-syndrome-how-perls-early-success-created-the-seeds-of-its-downfall/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GitHub and the Perl License]]></title>
-            <description><![CDATA[In a nutshell, if you'd like to use 'the Perl license' you probably should include two separate license files. (<a href="https://www.reddit.com/r/perl/comments/1p8toyz/github_and_the_perl_license_mikko_koivunalho/">comments</a>)]]></description>
-            <pubDate>2025.11.27</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2025/11/github-and-the-perl-license.html</guid>
-            <link>https://blogs.perl.org/users/mikko_koivunalho/2025/11/github-and-the-perl-license.html</link>
+            <title><![CDATA[plenv-where]]></title>
+            <description><![CDATA[A plenv plugin to show which Perl versions have a particular module.]]></description>
+            <pubDate>2025.12.04</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2025/12/plenv-where.html</guid>
+            <link>https://blogs.perl.org/users/mikko_koivunalho/2025/12/plenv-where.html</link>
             
             
             
@@ -82,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Showcase: Localised JSON Schema validation in Perl + JavaScript (CodePen demo included!)]]></title>
-            <description><![CDATA[A small project that might interest anyone in dealing with form validation, localisation, and JSON Schema in their Perl web applications / REST API.]]></description>
-            <pubDate>2025.11.27</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1p80dne/showcase_localised_json_schema_validation_in_perl/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1p80dne/showcase_localised_json_schema_validation_in_perl/</link>
+            <title><![CDATA[LPW 2025 - Event Report]]></title>
+            <description><![CDATA[Here is my detailed report of LPW 2025 that includes the slides of my presentation.]]></description>
+            <pubDate>2025.12.01</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/lpw-2025/</guid>
+            <link>https://theweeklychallenge.org/blog/lpw-2025/</link>
             
             
             
-            <author><![CDATA[jacques_deguest]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -98,15 +66,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Catalyst::Request body issues with the file position pointer]]></title>
-            <description><![CDATA[For those using the Perl Catalyst web framework in ways involving structured request bodies (e.g. API POSTs)...]]></description>
-            <pubDate>2025.11.28</pubDate>
-            <guid isPermaLink="false">https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l</guid>
-            <link>https://dev.to/fleetfootmike/catalystrequest-body-issues-with-the-file-position-pointer-2k7l</link>
+            <title><![CDATA[Living Perl: Building a CNN Image Classifier with AI::MXNet]]></title>
+            <description><![CDATA[This article demonstrates Perl's continued relevance in cutting-edge fields by showcasing integration with MXNet, a major deep learning framework. The ability to build convolutional neural networks (CNNs) in Perl for image classification represents significant technical sophistication.]]></description>
+            <pubDate>2025.12.02</pubDate>
+            <guid isPermaLink="false">https://medium.com/@marcontk/living-perl-building-a-cnn-image-classifier-with-ai-mxnet-d38a0cbebdc6</guid>
+            <link>https://medium.com/@marcontk/living-perl-building-a-cnn-image-classifier-with-ai-mxnet-d38a0cbebdc6</link>
             
             
             
-            <author><![CDATA[mike_whitaker]]></author>
+            <author><![CDATA[marcontk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.48 Advent is Here]]></title>
+            <description><![CDATA[2025.48 Advent is Here]]></description>
+            <pubDate>2025.12.01</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/12/01/2025-48-advent-is-here/</guid>
+            <link>https://rakudoweekly.blog/2025/12/01/2025-48-advent-is-here/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,46 +99,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/11/dlxxvi-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.11.29</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/12/dlxxvii-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/12/dcxx-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.12.06</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Maven online: Code-reading and testing]]></title>
-            <description><![CDATA[December 1, 2025]]></description>
-            
-            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
-            <link>https://luma.com/perl-maven</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Toronto.pm - online - How SUSE is using Perl]]></title>
-            <description><![CDATA[December 6, 2025]]></description>
-            
-            <guid isPermaLink="false">https://lu.ma/v90mkqj5</guid>
-            <link>https://lu.ma/v90mkqj5</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
