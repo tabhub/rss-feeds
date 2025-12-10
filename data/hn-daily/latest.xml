@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Rust in the kernel is no longer experimental]]></title>
-            <description><![CDATA[850 points | <a href=https://news.ycombinator.com/item?id=46213585 target=_blank>621 comments</a>]]></description>
+            <description><![CDATA[863 points | <a href=https://news.ycombinator.com/item?id=46213585 target=_blank>632 comments</a>]]></description>
             <pubDate>2025-12-10T03:15:24Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/Articles/1049831/</guid>
             <link>https://lwn.net/Articles/1049831/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[10 Years of Let's Encrypt]]></title>
-            <description><![CDATA[776 points | <a href=https://news.ycombinator.com/item?id=46208962 target=_blank>322 comments</a>]]></description>
+            <description><![CDATA[778 points | <a href=https://news.ycombinator.com/item?id=46208962 target=_blank>324 comments</a>]]></description>
             <pubDate>2025-12-09T18:54:55Z</pubDate>
             <guid isPermaLink="false">https://letsencrypt.org/2025/12/09/10-years</guid>
             <link>https://letsencrypt.org/2025/12/09/10-years</link>
@@ -50,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[PeerTube is recognized as a digital public good by Digital Public Goods Alliance]]></title>
-            <description><![CDATA[645 points | <a href=https://news.ycombinator.com/item?id=46207464 target=_blank>136 comments</a>]]></description>
-            <pubDate>2025-12-09T17:08:37Z</pubDate>
-            <guid isPermaLink="false">https://www.digitalpublicgoods.net/r/peertube</guid>
-            <link>https://www.digitalpublicgoods.net/r/peertube</link>
+            <title><![CDATA[Size of Life]]></title>
+            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=46219346 target=_blank>75 comments</a>]]></description>
+            <pubDate>2025-12-10T16:02:57Z</pubDate>
+            <guid isPermaLink="false">https://neal.fun/size-of-life/</guid>
+            <link>https://neal.fun/size-of-life/</link>
             
             
             
-            <author><![CDATA[fsflover]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[If you're going to vibe code, why not do it in C?]]></title>
-            <description><![CDATA[589 points | <a href=https://news.ycombinator.com/item?id=46207505 target=_blank>554 comments</a>]]></description>
-            <pubDate>2025-12-09T17:11:09Z</pubDate>
-            <guid isPermaLink="false">https://stephenramsay.net/posts/vibe-coding.html</guid>
-            <link>https://stephenramsay.net/posts/vibe-coding.html</link>
-            
-            
-            
-            <author><![CDATA[sramsay]]></author>
+            <author><![CDATA[eatonphil]]></author>
             
                 
             
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Django: what’s new in 6.0]]></title>
-            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=46210240 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=46210240 target=_blank>118 comments</a>]]></description>
             <pubDate>2025-12-09T20:33:14Z</pubDate>
             <guid isPermaLink="false">https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/</guid>
             <link>https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[In New York City, congestion pricing leads to marked drop in pollution]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=46218725 target=_blank>293 comments</a>]]></description>
+            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=46218725 target=_blank>324 comments</a>]]></description>
             <pubDate>2025-12-10T15:25:05Z</pubDate>
             <guid isPermaLink="false">https://e360.yale.edu/digest/new-york-congestion-pricing-pollution</guid>
             <link>https://e360.yale.edu/digest/new-york-congestion-pricing-pollution</link>
@@ -107,38 +91,6 @@
             
             
             <author><![CDATA[Brajeshwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Size of Life]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=46219346 target=_blank>66 comments</a>]]></description>
-            <pubDate>2025-12-10T16:02:57Z</pubDate>
-            <guid isPermaLink="false">https://neal.fun/size-of-life/</guid>
-            <link>https://neal.fun/size-of-life/</link>
-            
-            
-            
-            <author><![CDATA[eatonphil]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Donating the Model Context Protocol and establishing the Agentic AI Foundation]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=46207425 target=_blank>125 comments</a>]]></description>
-            <pubDate>2025-12-09T17:05:42Z</pubDate>
-            <guid isPermaLink="false">https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation</guid>
-            <link>https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation</link>
-            
-            
-            
-            <author><![CDATA[meetpateltech]]></author>
             
                 
             
@@ -163,7 +115,7 @@
         
         <item>
             <title><![CDATA[Revisiting "Let's Build a Compiler"]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=46214693 target=_blank>35 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=46214693 target=_blank>35 comments</a>]]></description>
             <pubDate>2025-12-10T06:22:19Z</pubDate>
             <guid isPermaLink="false">https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/</guid>
             <link>https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/</link>
@@ -203,6 +155,54 @@
             
             
             <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The stack circuitry of the Intel 8087 floating point chip, reverse-engineered]]></title>
+            <description><![CDATA[132 points | <a href=https://news.ycombinator.com/item?id=46208409 target=_blank>57 comments</a>]]></description>
+            <pubDate>2025-12-09T18:16:44Z</pubDate>
+            <guid isPermaLink="false">https://www.righto.com/2025/12/8087-stack-circuitry.html</guid>
+            <link>https://www.righto.com/2025/12/8087-stack-circuitry.html</link>
+            
+            
+            
+            <author><![CDATA[elpocko]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA['Source available' is not open source, and that's okay]]></title>
+            <description><![CDATA[121 points | <a href=https://news.ycombinator.com/item?id=46213709 target=_blank>137 comments</a>]]></description>
+            <pubDate>2025-12-10T03:33:14Z</pubDate>
+            <guid isPermaLink="false">https://dri.es/source-available-is-not-open-source-and-that-is-okay</guid>
+            <link>https://dri.es/source-available-is-not-open-source-and-that-is-okay</link>
+            
+            
+            
+            <author><![CDATA[geerlingguy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Agentic AI Foundation]]></title>
+            <description><![CDATA[117 points | <a href=https://news.ycombinator.com/item?id=46209846 target=_blank>24 comments</a>]]></description>
+            <pubDate>2025-12-09T20:00:39Z</pubDate>
+            <guid isPermaLink="false">https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation</guid>
+            <link>https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation</link>
+            
+            
+            
+            <author><![CDATA[thinkingkong]]></author>
             
                 
             
