@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Epic celebrates "the end of the Apple Tax" after court win in iOS payments case]]></title>
-            <description><![CDATA[386 points | <a href=https://news.ycombinator.com/item?id=46245398 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=46245398 target=_blank>280 comments</a>]]></description>
             <pubDate>2025-12-12T16:04:16Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/</guid>
             <link>https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[SQLite JSON at full index speed using generated columns]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=46243904 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=46243904 target=_blank>102 comments</a>]]></description>
             <pubDate>2025-12-12T13:25:19Z</pubDate>
             <guid isPermaLink="false">https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</guid>
             <link>https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Tor Project is switching to Rust]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=46243543 target=_blank>236 comments</a>]]></description>
-            <pubDate>2025-12-12T12:35:57Z</pubDate>
-            <guid isPermaLink="false">https://itsfoss.com/news/tor-rust-rewrite-progress/</guid>
-            <link>https://itsfoss.com/news/tor-rust-rewrite-progress/</link>
-            
-            
-            
-            <author><![CDATA[giuliomagnifico]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt]]></title>
-            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=46248644 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=46248644 target=_blank>184 comments</a>]]></description>
             <pubDate>2025-12-12T20:41:38Z</pubDate>
             <guid isPermaLink="false">https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</guid>
             <link>https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</link>
@@ -75,6 +59,22 @@
             
             
             <author><![CDATA[guiand]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Tor Project is switching to Rust]]></title>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=46243543 target=_blank>236 comments</a>]]></description>
+            <pubDate>2025-12-12T12:35:57Z</pubDate>
+            <guid isPermaLink="false">https://itsfoss.com/news/tor-rust-rewrite-progress/</guid>
+            <link>https://itsfoss.com/news/tor-rust-rewrite-progress/</link>
+            
+            
+            
+            <author><![CDATA[giuliomagnifico]]></author>
             
                 
             
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[The tiniest yet real telescope I've built]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=46241763 target=_blank>66 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=46241763 target=_blank>66 comments</a>]]></description>
             <pubDate>2025-12-12T07:35:49Z</pubDate>
             <guid isPermaLink="false">https://lucassifoni.info/blog/miniscope-tiny-telescope/</guid>
             <link>https://lucassifoni.info/blog/miniscope-tiny-telescope/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Rats Play DOOM]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=46248323 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=46248323 target=_blank>87 comments</a>]]></description>
             <pubDate>2025-12-12T20:15:58Z</pubDate>
             <guid isPermaLink="false">https://ratsplaydoom.com/</guid>
             <link>https://ratsplaydoom.com/</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Home Depot GitHub token exposed for a year, granted access to internal systems]]></title>
-            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=46247000 target=_blank>129 comments</a>]]></description>
-            <pubDate>2025-12-12T18:23:21Z</pubDate>
-            <guid isPermaLink="false">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/</guid>
-            <link>https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/</link>
-            
-            
-            
-            <author><![CDATA[kernelrocks]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=46250332 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=46250332 target=_blank>146 comments</a>]]></description>
             <pubDate>2025-12-12T23:30:19Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2025/Dec/12/openai-skills/</guid>
             <link>https://simonwillison.net/2025/Dec/12/openai-skills/</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Home Depot GitHub token exposed for a year, granted access to internal systems]]></title>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=46247000 target=_blank>130 comments</a>]]></description>
+            <pubDate>2025-12-12T18:23:21Z</pubDate>
+            <guid isPermaLink="false">https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/</guid>
+            <link>https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/</link>
+            
+            
+            
+            <author><![CDATA[kernelrocks]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Framework Raises DDR5 Memory Prices by 50% for DIY Laptops]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=46245331 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=46245331 target=_blank>182 comments</a>]]></description>
             <pubDate>2025-12-12T15:58:10Z</pubDate>
             <guid isPermaLink="false">https://www.phoronix.com/news/Framework-50p-DDR5-Memory</guid>
             <link>https://www.phoronix.com/news/Framework-50p-DDR5-Memory</link>
