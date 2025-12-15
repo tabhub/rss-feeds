@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #750]]></title>
+        <title><![CDATA[Perl Weekly #751]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,27 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[PAGI: ASGI For Perl, or the Spiritual Successor to Plack]]></title>
-            <description><![CDATA[PAGI (Perl Asynchronous Gateway Interface) is a new specification for async Perl web applications, inspired by Python's ASGI. It supports HTTP, WebSockets, and Server-Sent Events natively, and can wrap existing PSGI applications for backward compatibility.]]></description>
-            <pubDate>2025.12.02</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/pagi-asgi-for-perl-or-the-spiritual-successor-to-plack-3kb9</guid>
-            <link>https://dev.to/jjn1056/pagi-asgi-for-perl-or-the-spiritual-successor-to-plack-3kb9</link>
+            <title><![CDATA[Teaching Art to Computers the Hard Way]]></title>
+            <description><![CDATA[How many of you were told that "You shouldn't do art" by some teacher? Was Mondrian told the same? Here Ruth breaks the spell using Moo, SVG::Simple, and Imager.]]></description>
+            <pubDate>2025.12.11</pubDate>
+            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-11.html</guid>
+            <link>https://perladvent.org/2025/2025-12-11.html</link>
+            
+            
+            
+            <author><![CDATA[ruth_bavousett]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Ghost of Web Frameworks Future]]></title>
+            <description><![CDATA[PAGI, Perl Asynchronous Gateway Interface: The Spiritual Successor to PSGI. <a href="https://www.reddit.com/r/perl/comments/1pj8rty/perl_advent_2025_day_10_the_ghost_of_web/">discuss</a>]]></description>
+            <pubDate>2025.12.10</pubDate>
+            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-10.html</guid>
+            <link>https://perladvent.org/2025/2025-12-10.html</link>
             
             
             
@@ -34,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[plenv-where]]></title>
-            <description><![CDATA[A plenv plugin to show which Perl versions have a particular module.]]></description>
-            <pubDate>2025.12.04</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2025/12/plenv-where.html</guid>
-            <link>https://blogs.perl.org/users/mikko_koivunalho/2025/12/plenv-where.html</link>
+            <title><![CDATA[Layout strategy for a script with supporting functions]]></title>
+            <description><![CDATA[Talking about your in-house solution, getting feedback, getting suggestions how to pick a name for it, where is your public repo?]]></description>
+            <pubDate>2025.12.10</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1pixqrf/layout_strategy_for_a_script_with_supporting/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1pixqrf/layout_strategy_for_a_script_with_supporting/</link>
             
             
             
-            <author><![CDATA[mikko_koivunalho]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LPW 2025 - Event Report]]></title>
-            <description><![CDATA[Here is my detailed report of LPW 2025 that includes the slides of my presentation.]]></description>
-            <pubDate>2025.12.01</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/lpw-2025/</guid>
-            <link>https://theweeklychallenge.org/blog/lpw-2025/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[vogelke]]></author>
             
                 
             
@@ -66,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Living Perl: Building a CNN Image Classifier with AI::MXNet]]></title>
-            <description><![CDATA[This article demonstrates Perl's continued relevance in cutting-edge fields by showcasing integration with MXNet, a major deep learning framework. The ability to build convolutional neural networks (CNNs) in Perl for image classification represents significant technical sophistication.]]></description>
-            <pubDate>2025.12.02</pubDate>
-            <guid isPermaLink="false">https://medium.com/@marcontk/living-perl-building-a-cnn-image-classifier-with-ai-mxnet-d38a0cbebdc6</guid>
-            <link>https://medium.com/@marcontk/living-perl-building-a-cnn-image-classifier-with-ai-mxnet-d38a0cbebdc6</link>
+            <title><![CDATA[A Pod plugin for VSCode]]></title>
+            <description><![CDATA[A Pod plugin for VSCode]]></description>
+            <pubDate>2025.12.</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1pii0h5/a_pod_plugin_for_vscode/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1pii0h5/a_pod_plugin_for_vscode/</link>
             
             
             
-            <author><![CDATA[marcontk]]></author>
+            <author><![CDATA[stefan_adams]]></author>
             
                 
             
@@ -82,15 +82,63 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.48 Advent is Here]]></title>
-            <description><![CDATA[2025.48 Advent is Here]]></description>
-            <pubDate>2025.12.01</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/12/01/2025-48-advent-is-here/</guid>
-            <link>https://rakudoweekly.blog/2025/12/01/2025-48-advent-is-here/</link>
+            <title><![CDATA[The Night Before Deployment: How Melian Saved Christmas (and How It Can Speed Up Your App Too)]]></title>
+            <description><![CDATA[December 23rd is the annual Mega Load Test for the Christmas Eve delivery system. Every service (the Toy Inventory API, the Naughty-or-Nice Scoring Engine, the Elf Logistics Portal) suddenly wakes up to millions of requests. And every year, something new falls over. This year, it was the <b>Toy Service</b>.]]></description>
+            <pubDate>2025.12.12</pubDate>
+            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-12.html</guid>
+            <link>https://perladvent.org/2025/2025-12-12.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[sawyer_x]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Thirty Slices, Twenty-Four Days: How Christmas Was Saved By Abandoning Estimation]]></title>
+            <description><![CDATA[Thirty Slices, Twenty-Four Days: How Christmas Was Saved By Abandoning Estimation]]></description>
+            <pubDate>2025.12.13</pubDate>
+            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-13.html</guid>
+            <link>https://perladvent.org/2025/2025-12-13.html</link>
+            
+            
+            
+            <author><![CDATA[chris_prather]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Twelve Slices Of Christmas: How Vasco Chained the Chaos]]></title>
+            <description><![CDATA[The Twelve Slices Of Christmas: How Vasco Chained the Chaos]]></description>
+            <pubDate>2025.12.14</pubDate>
+            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-14.html</guid>
+            <link>https://perladvent.org/2025/2025-12-14.html</link>
+            
+            
+            
+            <author><![CDATA[chris_prather]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Behind the scenes at Perl School Publishing]]></title>
+            <description><![CDATA[Behind the scenes at Perl School Publishing]]></description>
+            <pubDate>2025.12.14</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2025/12/behind-the-scenes-at-perl-school-publishing/</guid>
+            <link>https://perlhacks.com/2025/12/behind-the-scenes-at-perl-school-publishing/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -99,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/12/dlxxvii-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/12/dcxx-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.12.06</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/12/dlxxviii-19-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2025.12.1.13</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -114,11 +162,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[December 10, 2025]]></description>
+            <title><![CDATA[Perl Maven online: Live Open Source contribution]]></title>
+            <description><![CDATA[December 26, 2025]]></description>
             
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston.pm - online ]]></title>
+            <description><![CDATA[January 13, 2025]]></description>
+            
+            <guid isPermaLink="false">https://mobilizon.us/search?search=Boston+Perl</guid>
+            <link>https://mobilizon.us/search?search=Boston+Perl</link>
             
             
             
