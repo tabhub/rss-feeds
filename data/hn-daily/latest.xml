@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[alpr.watch]]></title>
-            <description><![CDATA[701 points | <a href=https://news.ycombinator.com/item?id=46290916 target=_blank>343 comments</a>]]></description>
+            <description><![CDATA[712 points | <a href=https://news.ycombinator.com/item?id=46290916 target=_blank>348 comments</a>]]></description>
             <pubDate>2025-12-16T16:54:19Z</pubDate>
             <guid isPermaLink="false">https://alpr.watch/</guid>
             <link>https://alpr.watch/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[This is not the future]]></title>
-            <description><![CDATA[672 points | <a href=https://news.ycombinator.com/item?id=46288371 target=_blank>389 comments</a>]]></description>
+            <description><![CDATA[676 points | <a href=https://news.ycombinator.com/item?id=46288371 target=_blank>389 comments</a>]]></description>
             <pubDate>2025-12-16T13:42:24Z</pubDate>
             <guid isPermaLink="false">https://blog.mathieui.net/this-is-not-the-future.html</guid>
             <link>https://blog.mathieui.net/this-is-not-the-future.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Pricing Changes for GitHub Actions]]></title>
-            <description><![CDATA[567 points | <a href=https://news.ycombinator.com/item?id=46291156 target=_blank>639 comments</a>]]></description>
+            <description><![CDATA[589 points | <a href=https://news.ycombinator.com/item?id=46291156 target=_blank>651 comments</a>]]></description>
             <pubDate>2025-12-16T17:12:02Z</pubDate>
             <guid isPermaLink="false">https://resources.github.com/actions/2026-pricing-changes-for-github-actions/</guid>
             <link>https://resources.github.com/actions/2026-pricing-changes-for-github-actions/</link>
@@ -59,6 +59,22 @@
             
             
             <author><![CDATA[kevin-david]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[No Graphics API]]></title>
+            <description><![CDATA[537 points | <a href=https://news.ycombinator.com/item?id=46293062 target=_blank>96 comments</a>]]></description>
+            <pubDate>2025-12-16T19:20:17Z</pubDate>
+            <guid isPermaLink="false">https://www.sebastianaaltonen.com/blog/no-graphics-api</guid>
+            <link>https://www.sebastianaaltonen.com/blog/no-graphics-api</link>
+            
+            
+            
+            <author><![CDATA[ryandrake]]></author>
             
                 
             
@@ -82,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[No Graphics API]]></title>
-            <description><![CDATA[514 points | <a href=https://news.ycombinator.com/item?id=46293062 target=_blank>94 comments</a>]]></description>
-            <pubDate>2025-12-16T19:20:17Z</pubDate>
-            <guid isPermaLink="false">https://www.sebastianaaltonen.com/blog/no-graphics-api</guid>
-            <link>https://www.sebastianaaltonen.com/blog/no-graphics-api</link>
+            <title><![CDATA[AI will make formal verification go mainstream]]></title>
+            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=46294574 target=_blank>240 comments</a>]]></description>
+            <pubDate>2025-12-16T21:14:49Z</pubDate>
+            <guid isPermaLink="false">https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html</guid>
+            <link>https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html</link>
             
             
             
-            <author><![CDATA[ryandrake]]></author>
+            <author><![CDATA[evankhoury]]></author>
             
                 
             
@@ -99,7 +115,7 @@
         
         <item>
             <title><![CDATA[Mozilla appoints new CEO Anthony Enzor-Demeo]]></title>
-            <description><![CDATA[466 points | <a href=https://news.ycombinator.com/item?id=46288491 target=_blank>720 comments</a>]]></description>
+            <description><![CDATA[473 points | <a href=https://news.ycombinator.com/item?id=46288491 target=_blank>723 comments</a>]]></description>
             <pubDate>2025-12-16T13:53:14Z</pubDate>
             <guid isPermaLink="false">https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/</guid>
             <link>https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/</link>
@@ -114,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AI will make formal verification go mainstream]]></title>
-            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=46294574 target=_blank>223 comments</a>]]></description>
-            <pubDate>2025-12-16T21:14:49Z</pubDate>
-            <guid isPermaLink="false">https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html</guid>
-            <link>https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html</link>
+            <title><![CDATA[Announcing the Beta release of ty]]></title>
+            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=46294289 target=_blank>88 comments</a>]]></description>
+            <pubDate>2025-12-16T20:52:45Z</pubDate>
+            <guid isPermaLink="false">https://astral.sh/blog/ty</guid>
+            <link>https://astral.sh/blog/ty</link>
             
             
             
-            <author><![CDATA[evankhoury]]></author>
+            <author><![CDATA[gavide]]></author>
             
                 
             
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Announcing the Beta release of ty]]></title>
-            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=46294289 target=_blank>86 comments</a>]]></description>
-            <pubDate>2025-12-16T20:52:45Z</pubDate>
-            <guid isPermaLink="false">https://astral.sh/blog/ty</guid>
-            <link>https://astral.sh/blog/ty</link>
-            
-            
-            
-            <author><![CDATA[gavide]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[40 percent of fMRI signals do not correspond to actual brain activity]]></title>
-            <description><![CDATA[420 points | <a href=https://news.ycombinator.com/item?id=46288415 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=46288415 target=_blank>179 comments</a>]]></description>
             <pubDate>2025-12-16T13:46:57Z</pubDate>
             <guid isPermaLink="false">https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity</guid>
             <link>https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[GPT Image 1.5]]></title>
-            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=46291941 target=_blank>184 comments</a>]]></description>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=46291941 target=_blank>186 comments</a>]]></description>
             <pubDate>2025-12-16T18:07:07Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/new-chatgpt-images-is-here/</guid>
             <link>https://openai.com/index/new-chatgpt-images-is-here/</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Sega Channel: VGHF Recovers over 100 Sega Channel ROMs (and More)]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=46288024 target=_blank>39 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=46288024 target=_blank>39 comments</a>]]></description>
             <pubDate>2025-12-16T13:07:14Z</pubDate>
             <guid isPermaLink="false">https://gamehistory.org/segachannel/</guid>
             <link>https://gamehistory.org/segachannel/</link>
