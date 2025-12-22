@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #751]]></title>
+        <title><![CDATA[Perl Weekly #752]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Teaching Art to Computers the Hard Way]]></title>
-            <description><![CDATA[How many of you were told that "You shouldn't do art" by some teacher? Was Mondrian told the same? Here Ruth breaks the spell using Moo, SVG::Simple, and Imager.]]></description>
-            <pubDate>2025.12.11</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-11.html</guid>
-            <link>https://perladvent.org/2025/2025-12-11.html</link>
+            <title><![CDATA[Introducing Marlin]]></title>
+            <description><![CDATA[Yet another OOP framework, where most of your constructors and accessors will be implemented in XS.]]></description>
+            <pubDate>2025.12.18</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/toby_inkster/2025/12/introducing-marlin.html</guid>
+            <link>https://blogs.perl.org/users/toby_inkster/2025/12/introducing-marlin.html</link>
             
             
             
-            <author><![CDATA[ruth_bavousett]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Ghost of Web Frameworks Future]]></title>
-            <description><![CDATA[PAGI, Perl Asynchronous Gateway Interface: The Spiritual Successor to PSGI. <a href="https://www.reddit.com/r/perl/comments/1pj8rty/perl_advent_2025_day_10_the_ghost_of_web/">discuss</a>]]></description>
-            <pubDate>2025.12.10</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-10.html</guid>
-            <link>https://perladvent.org/2025/2025-12-10.html</link>
-            
-            
-            
-            <author><![CDATA[john_napiorkowski]]></author>
+            <author><![CDATA[toby_inkster]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Layout strategy for a script with supporting functions]]></title>
-            <description><![CDATA[Talking about your in-house solution, getting feedback, getting suggestions how to pick a name for it, where is your public repo?]]></description>
-            <pubDate>2025.12.10</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1pixqrf/layout_strategy_for_a_script_with_supporting/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1pixqrf/layout_strategy_for_a_script_with_supporting/</link>
+            <title><![CDATA[Funky - The PSPWA Framework]]></title>
+            <description><![CDATA[A comprehensive guide to building modern, secure, real-time web applications with Perl and vanilla JavaScript.]]></description>
+            <pubDate>2025.12.21</pubDate>
+            <guid isPermaLink="false">https://funkyfra.me/about</guid>
+            <link>https://funkyfra.me/about</link>
             
             
             
-            <author><![CDATA[vogelke]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A Pod plugin for VSCode]]></title>
-            <description><![CDATA[A Pod plugin for VSCode]]></description>
-            <pubDate>2025.12.</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1pii0h5/a_pod_plugin_for_vscode/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1pii0h5/a_pod_plugin_for_vscode/</link>
-            
-            
-            
-            <author><![CDATA[stefan_adams]]></author>
+            <author><![CDATA[robert_acock]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Night Before Deployment: How Melian Saved Christmas (and How It Can Speed Up Your App Too)]]></title>
-            <description><![CDATA[December 23rd is the annual Mega Load Test for the Christmas Eve delivery system. Every service (the Toy Inventory API, the Naughty-or-Nice Scoring Engine, the Elf Logistics Portal) suddenly wakes up to millions of requests. And every year, something new falls over. This year, it was the <b>Toy Service</b>.]]></description>
-            <pubDate>2025.12.12</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-12.html</guid>
-            <link>https://perladvent.org/2025/2025-12-12.html</link>
+            <title><![CDATA[Foswi­ki 2.1.10 is re­leased]]></title>
+            <description><![CDATA[We are delighted to announce the new release, which includes 57 significant bug fixes compared to the previous 2.1.8 version. This update addresses a range of important issues and enhances the overall stability and performance.]]></description>
+            <pubDate>2025.12.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/nuddlegg/2025/12/foswiki-2110-is-released.html</guid>
+            <link>https://blogs.perl.org/users/nuddlegg/2025/12/foswiki-2110-is-released.html</link>
             
             
             
-            <author><![CDATA[sawyer_x]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Thirty Slices, Twenty-Four Days: How Christmas Was Saved By Abandoning Estimation]]></title>
-            <description><![CDATA[Thirty Slices, Twenty-Four Days: How Christmas Was Saved By Abandoning Estimation]]></description>
-            <pubDate>2025.12.13</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-13.html</guid>
-            <link>https://perladvent.org/2025/2025-12-13.html</link>
-            
-            
-            
-            <author><![CDATA[chris_prather]]></author>
+            <author><![CDATA[michael_daum]]></author>
             
                 
             
@@ -114,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Twelve Slices Of Christmas: How Vasco Chained the Chaos]]></title>
-            <description><![CDATA[The Twelve Slices Of Christmas: How Vasco Chained the Chaos]]></description>
-            <pubDate>2025.12.14</pubDate>
-            <guid isPermaLink="false">https://perladvent.org/2025/2025-12-14.html</guid>
-            <link>https://perladvent.org/2025/2025-12-14.html</link>
+            <title><![CDATA[Perl Maven online: Live Open Source contribution]]></title>
+            <description><![CDATA[During the holidays, on December 26, there is still an online Perl event to encourage more people to contribute to open source Perl projects. You are invited!]]></description>
+            <pubDate>2025.12.26</pubDate>
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
             
             
             
-            <author><![CDATA[chris_prather]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
@@ -130,15 +82,63 @@
         </item>
         
         <item>
-            <title><![CDATA[Behind the scenes at Perl School Publishing]]></title>
-            <description><![CDATA[Behind the scenes at Perl School Publishing]]></description>
-            <pubDate>2025.12.14</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2025/12/behind-the-scenes-at-perl-school-publishing/</guid>
-            <link>https://perlhacks.com/2025/12/behind-the-scenes-at-perl-school-publishing/</link>
+            <title><![CDATA[Masters of Destiny]]></title>
+            <description><![CDATA[This post is primarily a philosophical essay. Saif uses a fictional dialogue to express skepticism about over-reliance on AI and "dispassionate algorithms," particularly in fields like medicine that traditionally value human judgment and compassion.]]></description>
+            <pubDate>2025.12.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2025/12/masters-of-destiny.html</guid>
+            <link>https://blogs.perl.org/users/saif/2025/12/masters-of-destiny.html</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[saif_ahmed]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mid-life upgrade to the MailBox suite completed]]></title>
+            <description><![CDATA[This is a high-quality project maintenance post from Mark. It provides valuable insight into the pragmatic considerations of modernising a massive, real-world Perl codebase—decisions about language versions, exception frameworks, and managing breaking changes.]]></description>
+            <pubDate>2025.12.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/markov/2025/12/mid-life-upgrade-to-the-mailbox-suite-completed.html</guid>
+            <link>https://blogs.perl.org/users/markov/2025/12/mid-life-upgrade-to-the-mailbox-suite-completed.html</link>
+            
+            
+            
+            <author><![CDATA[mark_overmeer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TIOBE Index for December 2025]]></title>
+            <description><![CDATA[This is fun index and not to be taken seriously. Perl has <strong>+1.33%</strong> increase and currently ranked <strong>#9</strong>.]]></description>
+            <pubDate>2025.12.20</pubDate>
+            <guid isPermaLink="false">https://www.tiobe.com/tiobe-index/</guid>
+            <link>https://www.tiobe.com/tiobe-index/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.50 Exemplar Poll]]></title>
+            <description><![CDATA[2025.50 Exemplar Poll]]></description>
+            <pubDate>2025.12.15</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/12/15/2025-50-exemplar-poll/</guid>
+            <link>https://rakudoweekly.blog/2025/12/15/2025-50-exemplar-poll/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -147,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/12/dlxxviii-19-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2025.12.1.13</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/12/dlxxix-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/12/dcxxi-metacpan-weekly-report-mcp.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2025.12.21</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
