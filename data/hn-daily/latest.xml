@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Inside CECOT – 60 Minutes [video]]]></title>
-            <description><![CDATA[1398 points | <a href=https://news.ycombinator.com/item?id=46361024 target=_blank>411 comments</a>]]></description>
+            <description><![CDATA[1409 points | <a href=https://news.ycombinator.com/item?id=46361024 target=_blank>415 comments</a>]]></description>
             <pubDate>2025-12-23T00:36:27Z</pubDate>
             <guid isPermaLink="false">https://archive.org/details/insidececot</guid>
             <link>https://archive.org/details/insidececot</link>
@@ -34,40 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[US blocks all offshore wind construction, says reason is classified]]></title>
-            <description><![CDATA[586 points | <a href=https://news.ycombinator.com/item?id=46357881 target=_blank>507 comments</a>]]></description>
-            <pubDate>2025-12-22T19:31:11Z</pubDate>
-            <guid isPermaLink="false">https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/</guid>
-            <link>https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/</link>
-            
-            
-            
-            <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[It's Always TCP_NODELAY]]></title>
-            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=46359120 target=_blank>159 comments</a>]]></description>
-            <pubDate>2025-12-22T21:09:59Z</pubDate>
-            <guid isPermaLink="false">https://brooker.co.za/blog/2024/05/09/nagle.html</guid>
-            <link>https://brooker.co.za/blog/2024/05/09/nagle.html</link>
-            
-            
-            
-            <author><![CDATA[eieio]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Fabrice Bellard Releases MicroQuickJS]]></title>
-            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=46367224 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=46367224 target=_blank>154 comments</a>]]></description>
             <pubDate>2025-12-23T17:33:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/bellard/mquickjs/blob/main/README.md</guid>
             <link>https://github.com/bellard/mquickjs/blob/main/README.md</link>
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Ultrasound Cancer Treatment: Sound Waves Fight Tumors]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=46357945 target=_blank>91 comments</a>]]></description>
-            <pubDate>2025-12-22T19:37:34Z</pubDate>
-            <guid isPermaLink="false">https://spectrum.ieee.org/ultrasound-cancer-treatment</guid>
-            <link>https://spectrum.ieee.org/ultrasound-cancer-treatment</link>
+            <title><![CDATA[It's Always TCP_NODELAY]]></title>
+            <description><![CDATA[439 points | <a href=https://news.ycombinator.com/item?id=46359120 target=_blank>159 comments</a>]]></description>
+            <pubDate>2025-12-22T21:09:59Z</pubDate>
+            <guid isPermaLink="false">https://brooker.co.za/blog/2024/05/09/nagle.html</guid>
+            <link>https://brooker.co.za/blog/2024/05/09/nagle.html</link>
             
             
             
-            <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Instant database clones with PostgreSQL 18]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=46363360 target=_blank>131 comments</a>]]></description>
-            <pubDate>2025-12-23T07:58:25Z</pubDate>
-            <guid isPermaLink="false">https://boringsql.com/posts/instant-database-clones/</guid>
-            <link>https://boringsql.com/posts/instant-database-clones/</link>
-            
-            
-            
-            <author><![CDATA[radimm]]></author>
+            <author><![CDATA[eieio]]></author>
             
                 
             
@@ -115,7 +67,7 @@
         
         <item>
             <title><![CDATA[Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=46366998 target=_blank>152 comments</a>]]></description>
+            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=46366998 target=_blank>160 comments</a>]]></description>
             <pubDate>2025-12-23T17:08:34Z</pubDate>
             <guid isPermaLink="false">https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</guid>
             <link>https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</link>
@@ -130,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Instant database clones with PostgreSQL 18]]></title>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=46363360 target=_blank>134 comments</a>]]></description>
+            <pubDate>2025-12-23T07:58:25Z</pubDate>
+            <guid isPermaLink="false">https://boringsql.com/posts/instant-database-clones/</guid>
+            <link>https://boringsql.com/posts/instant-database-clones/</link>
+            
+            
+            
+            <author><![CDATA[radimm]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ask HN: What are the best engineering blogs with real-world depth?]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=46363921 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[320 points | <a href=https://news.ycombinator.com/item?id=46363921 target=_blank>102 comments</a>]]></description>
             <pubDate>2025-12-23T09:50:31Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=46363921</guid>
             <link>https://news.ycombinator.com/item?id=46363921</link>
@@ -147,7 +115,7 @@
         
         <item>
             <title><![CDATA[Lotusbail npm package found to be harvesting WhatsApp messages and contacts]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=46359996 target=_blank>199 comments</a>]]></description>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=46359996 target=_blank>201 comments</a>]]></description>
             <pubDate>2025-12-22T22:35:45Z</pubDate>
             <guid isPermaLink="false">https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</guid>
             <link>https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</link>
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[Snitch – A friendlier ss/netstat]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=46361229 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=46361229 target=_blank>93 comments</a>]]></description>
             <pubDate>2025-12-23T01:03:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/karol-broda/snitch</guid>
             <link>https://github.com/karol-broda/snitch</link>
@@ -179,7 +147,7 @@
         
         <item>
             <title><![CDATA[Show HN: CineCLI – Browse and torrent movies directly from your terminal]]></title>
-            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=46362655 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=46362655 target=_blank>97 comments</a>]]></description>
             <pubDate>2025-12-23T05:17:50Z</pubDate>
             <guid isPermaLink="false">https://github.com/eyeblech/cinecli</guid>
             <link>https://github.com/eyeblech/cinecli</link>
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[10 years bootstrapped: €6.5M revenue with a team of 13]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=46363319 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=46363319 target=_blank>90 comments</a>]]></description>
             <pubDate>2025-12-23T07:50:03Z</pubDate>
             <guid isPermaLink="false">https://www.datocms.com/blog/a-look-back-at-2025</guid>
             <link>https://www.datocms.com/blog/a-look-back-at-2025</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[steffoz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Archivists posted the 60 minutes CECOT segment Bari Weiss killed]]></title>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=46362214 target=_blank>9 comments</a>]]></description>
+            <pubDate>2025-12-23T03:44:22Z</pubDate>
+            <guid isPermaLink="false">https://www.404media.co/archivists-posted-the-60-minutes-cecot-segment-bari-weiss-killed/</guid>
+            <link>https://www.404media.co/archivists-posted-the-60-minutes-cecot-segment-bari-weiss-killed/</link>
+            
+            
+            
+            <author><![CDATA[m-hodges]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Pulled 60 Minutes segment on CECOT]]></title>
+            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=46361571 target=_blank>11 comments</a>]]></description>
+            <pubDate>2025-12-23T01:59:06Z</pubDate>
+            <guid isPermaLink="false">https://archive.org/details/60minutes-cecotsegment</guid>
+            <link>https://archive.org/details/60minutes-cecotsegment</link>
+            
+            
+            
+            <author><![CDATA[DustinEchoes]]></author>
             
                 
             
