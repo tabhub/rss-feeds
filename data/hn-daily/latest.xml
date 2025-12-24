@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Inside CECOT – 60 Minutes [video]]]></title>
-            <description><![CDATA[1468 points | <a href=https://news.ycombinator.com/item?id=46361024 target=_blank>463 comments</a>]]></description>
+            <description><![CDATA[1484 points | <a href=https://news.ycombinator.com/item?id=46361024 target=_blank>478 comments</a>]]></description>
             <pubDate>2025-12-23T00:36:27Z</pubDate>
             <guid isPermaLink="false">https://archive.org/details/insidececot</guid>
             <link>https://archive.org/details/insidececot</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Fabrice Bellard Releases MicroQuickJS]]></title>
-            <description><![CDATA[686 points | <a href=https://news.ycombinator.com/item?id=46367224 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[761 points | <a href=https://news.ycombinator.com/item?id=46367224 target=_blank>300 comments</a>]]></description>
             <pubDate>2025-12-23T17:33:42Z</pubDate>
             <guid isPermaLink="false">https://github.com/bellard/mquickjs/blob/main/README.md</guid>
             <link>https://github.com/bellard/mquickjs/blob/main/README.md</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers]]></title>
-            <description><![CDATA[495 points | <a href=https://news.ycombinator.com/item?id=46366998 target=_blank>265 comments</a>]]></description>
+            <description><![CDATA[539 points | <a href=https://news.ycombinator.com/item?id=46366998 target=_blank>290 comments</a>]]></description>
             <pubDate>2025-12-23T17:08:34Z</pubDate>
             <guid isPermaLink="false">https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</guid>
             <link>https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Instant database clones with PostgreSQL 18]]></title>
-            <description><![CDATA[365 points | <a href=https://news.ycombinator.com/item?id=46363360 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[378 points | <a href=https://news.ycombinator.com/item?id=46363360 target=_blank>147 comments</a>]]></description>
             <pubDate>2025-12-23T07:58:25Z</pubDate>
             <guid isPermaLink="false">https://boringsql.com/posts/instant-database-clones/</guid>
             <link>https://boringsql.com/posts/instant-database-clones/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Ask HN: What are the best engineering blogs with real-world depth?]]></title>
-            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=46363921 target=_blank>110 comments</a>]]></description>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=46363921 target=_blank>114 comments</a>]]></description>
             <pubDate>2025-12-23T09:50:31Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=46363921</guid>
             <link>https://news.ycombinator.com/item?id=46363921</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[We replaced H.264 streaming with JPEG screenshots (and it worked better)]]></title>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=46367475 target=_blank>196 comments</a>]]></description>
+            <pubDate>2025-12-23T18:00:31Z</pubDate>
+            <guid isPermaLink="false">https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</guid>
+            <link>https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</link>
+            
+            
+            
+            <author><![CDATA[quesobob]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Snitch – A friendlier ss/netstat]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=46361229 target=_blank>94 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=46361229 target=_blank>94 comments</a>]]></description>
             <pubDate>2025-12-23T01:03:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/karol-broda/snitch</guid>
             <link>https://github.com/karol-broda/snitch</link>
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[Show HN: CineCLI – Browse and torrent movies directly from your terminal]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=46362655 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=46362655 target=_blank>99 comments</a>]]></description>
             <pubDate>2025-12-23T05:17:50Z</pubDate>
             <guid isPermaLink="false">https://github.com/eyeblech/cinecli</guid>
             <link>https://github.com/eyeblech/cinecli</link>
@@ -130,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[We replaced H.264 streaming with JPEG screenshots (and it worked better)]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=46367475 target=_blank>179 comments</a>]]></description>
-            <pubDate>2025-12-23T18:00:31Z</pubDate>
-            <guid isPermaLink="false">https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</guid>
-            <link>https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</link>
-            
-            
-            
-            <author><![CDATA[quesobob]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[10 years bootstrapped: €6.5M revenue with a team of 13]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=46363319 target=_blank>103 comments</a>]]></description>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=46363319 target=_blank>108 comments</a>]]></description>
             <pubDate>2025-12-23T07:50:03Z</pubDate>
             <guid isPermaLink="false">https://www.datocms.com/blog/a-look-back-at-2025</guid>
             <link>https://www.datocms.com/blog/a-look-back-at-2025</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=46364272 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=46364272 target=_blank>249 comments</a>]]></description>
             <pubDate>2025-12-23T10:53:07Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota</guid>
             <link>https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Pulled 60 Minutes segment on CECOT]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=46361571 target=_blank>13 comments</a>]]></description>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=46361571 target=_blank>14 comments</a>]]></description>
             <pubDate>2025-12-23T01:59:06Z</pubDate>
             <guid isPermaLink="false">https://archive.org/details/60minutes-cecotsegment</guid>
             <link>https://archive.org/details/60minutes-cecotsegment</link>
