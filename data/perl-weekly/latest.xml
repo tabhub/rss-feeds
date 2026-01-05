@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #752]]></title>
+        <title><![CDATA[Perl Weekly #754]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Introducing Marlin]]></title>
-            <description><![CDATA[Yet another OOP framework, where most of your constructors and accessors will be implemented in XS.]]></description>
-            <pubDate>2025.12.18</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/toby_inkster/2025/12/introducing-marlin.html</guid>
-            <link>https://blogs.perl.org/users/toby_inkster/2025/12/introducing-marlin.html</link>
+            <title><![CDATA[The Underbar, episode 8]]></title>
+            <description><![CDATA[As preparations are underway for the Perl Toolchain Summit 2026, this short episode is the last excerpt recorded during PTS 2025 (as a tangent during the CPAN Testers interview, published as episode 6). BooK starts by explaining the selection process for the Perl Toolchain Summit and some of the history, and then Doug, Ruth, Breno and Ferki reminisce about what makes the event so special.]]></description>
+            <pubDate>2025.12.29</pubDate>
+            <guid isPermaLink="false">https://underbar.cpan.io/episodes/8/</guid>
+            <link>https://underbar.cpan.io/episodes/8/</link>
             
             
             
-            <author><![CDATA[toby_inkster]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Funky - The PSPWA Framework]]></title>
-            <description><![CDATA[A comprehensive guide to building modern, secure, real-time web applications with Perl and vanilla JavaScript.]]></description>
-            <pubDate>2025.12.21</pubDate>
-            <guid isPermaLink="false">https://funkyfra.me/about</guid>
-            <link>https://funkyfra.me/about</link>
-            
-            
-            
-            <author><![CDATA[robert_acock]]></author>
+            <author><![CDATA[philippe_bruhat]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Foswi­ki 2.1.10 is re­leased]]></title>
-            <description><![CDATA[We are delighted to announce the new release, which includes 57 significant bug fixes compared to the previous 2.1.8 version. This update addresses a range of important issues and enhances the overall stability and performance.]]></description>
-            <pubDate>2025.12.19</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/nuddlegg/2025/12/foswiki-2110-is-released.html</guid>
-            <link>https://blogs.perl.org/users/nuddlegg/2025/12/foswiki-2110-is-released.html</link>
+            <title><![CDATA[App::HTTPThis: the tiny web server I keep reaching for]]></title>
+            <description><![CDATA[Dave shares his long-time favorite tool for static site work: App::HTTPThis. This Perl module is a friction-free command-line web server that instantly serves any directory over HTTP, perfect for testing links, assets, and real browser behavior without the overhead of Apache or nginx.]]></description>
+            <pubDate>2026.01.04</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2026/01/apphttpthis-the-tiny-web-server-i-keep-reaching-for/</guid>
+            <link>https://perlhacks.com/2026/01/apphttpthis-the-tiny-web-server-i-keep-reaching-for/</link>
             
             
             
-            <author><![CDATA[michael_daum]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Maven online: Live Open Source contribution]]></title>
-            <description><![CDATA[During the holidays, on December 26, there is still an online Perl event to encourage more people to contribute to open source Perl projects. You are invited!]]></description>
-            <pubDate>2025.12.26</pubDate>
-            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
-            <link>https://luma.com/perl-maven</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Masters of Destiny]]></title>
-            <description><![CDATA[This post is primarily a philosophical essay. Saif uses a fictional dialogue to express skepticism about over-reliance on AI and "dispassionate algorithms," particularly in fields like medicine that traditionally value human judgment and compassion.]]></description>
-            <pubDate>2025.12.17</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2025/12/masters-of-destiny.html</guid>
-            <link>https://blogs.perl.org/users/saif/2025/12/masters-of-destiny.html</link>
+            <title><![CDATA[DBIx::Class::Async]]></title>
+            <description><![CDATA[A gentle tntroduction to DBIx::Class::Async. Please share your suggestions.]]></description>
+            <pubDate>2026.01.01</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dbix-class-async</guid>
+            <link>https://theweeklychallenge.org/blog/dbix-class-async</link>
             
             
             
-            <author><![CDATA[saif_ahmed]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mid-life upgrade to the MailBox suite completed]]></title>
-            <description><![CDATA[This is a high-quality project maintenance post from Mark. It provides valuable insight into the pragmatic considerations of modernising a massive, real-world Perl codebase—decisions about language versions, exception frameworks, and managing breaking changes.]]></description>
-            <pubDate>2025.12.17</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/markov/2025/12/mid-life-upgrade-to-the-mailbox-suite-completed.html</guid>
-            <link>https://blogs.perl.org/users/markov/2025/12/mid-life-upgrade-to-the-mailbox-suite-completed.html</link>
-            
-            
-            
-            <author><![CDATA[mark_overmeer]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -114,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[TIOBE Index for December 2025]]></title>
-            <description><![CDATA[This is fun index and not to be taken seriously. Perl has <strong>+1.33%</strong> increase and currently ranked <strong>#9</strong>.]]></description>
-            <pubDate>2025.12.20</pubDate>
-            <guid isPermaLink="false">https://www.tiobe.com/tiobe-index/</guid>
-            <link>https://www.tiobe.com/tiobe-index/</link>
+            <title><![CDATA[Episode 9: Perl, the Language That Refuses to Die (And Honestly, Good for It)]]></title>
+            <description><![CDATA[A very interesting read, unfortunately it is behind Medium's paywall, marked as members only.]]></description>
+            <pubDate>2026.01.04</pubDate>
+            <guid isPermaLink="false">https://medium.com/@DaveLumAI/episode-9-perl-the-language-that-refuses-to-die-and-honestly-good-for-it-f3b8b5d193e0</guid>
+            <link>https://medium.com/@DaveLumAI/episode-9-perl-the-language-that-refuses-to-die-and-honestly-good-for-it-f3b8b5d193e0</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[dave_lumai]]></author>
             
                 
             
@@ -130,11 +82,27 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.50 Exemplar Poll]]></title>
-            <description><![CDATA[2025.50 Exemplar Poll]]></description>
-            <pubDate>2025.12.15</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/12/15/2025-50-exemplar-poll/</guid>
-            <link>https://rakudoweekly.blog/2025/12/15/2025-50-exemplar-poll/</link>
+            <title><![CDATA[jq-lite: A jq Alternative for Legacy and Restricted Systems]]></title>
+            <description><![CDATA[jq-lite is a jq-compatible JSON processor written in pure Perl. It is designed for legacy, restricted, and minimal environments where installing jq is not possible.]]></description>
+            <pubDate>2026.01.04</pubDate>
+            <guid isPermaLink="false">https://medium.com/@pannakoota/jq-lite-a-jq-alternative-for-legacy-and-restricted-systems-223d29db69a6</guid>
+            <link>https://medium.com/@pannakoota/jq-lite-a-jq-alternative-for-legacy-and-restricted-systems-223d29db69a6</link>
+            
+            
+            
+            <author><![CDATA[shingo_kawamura]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2025.52 Release #188 & State of the Onion]]></title>
+            <description><![CDATA[2025.52 Release #188 & State of the Onion]]></description>
+            <pubDate>2025.12.29</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2025/12/29/2025-52-release-188-state-of-the-onion/</guid>
+            <link>https://rakudoweekly.blog/2025/12/29/2025-52-release-188-state-of-the-onion/</link>
             
             
             
@@ -147,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2025/12/dlxxix-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2025/12/dcxxi-metacpan-weekly-report-mcp.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2025.12.21</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/01/dlxxxi-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.01.03</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -162,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[The new pull-request challenge (club)]]></title>
+            <description><![CDATA[Recently I saw that the <a href="https://pullrequest.club/">PullRequest.Club</a> closed on January 1st. It's a pity as it was a good idea. But don't worry, the new PRC is here. Less organized but here. The challenge is to send a PR to <b>any</b> CPAN module once a week and share the link to it on <a href="https://github.com/szabgab/perlweekly/issues/633">this issue</a>. (see my first comments on that issue). If you have never contributed to an open source project or if you have never sent a PR, don't worry. I organize live online sessions where I demonstrate the whole process as I am working on a project. You can watch. You can ask question. You can learn. Then you can implement and send your own PRs. Check the events <a href="https://luma.com/perl-maven">here</a>!]]></description>
+            <pubDate>2026.01.05</pubDate>
+            <guid isPermaLink="false">https://osdc.code-maven.com/perl</guid>
+            <link>https://osdc.code-maven.com/perl</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Perl Maven online: Live Open Source contribution]]></title>
-            <description><![CDATA[December 26, 2025]]></description>
+            <description><![CDATA[January 08, 2025]]></description>
             
             <guid isPermaLink="false">https://luma.com/perl-maven</guid>
             <link>https://luma.com/perl-maven</link>
@@ -183,6 +167,22 @@
             
             <guid isPermaLink="false">https://mobilizon.us/search?search=Boston+Perl</guid>
             <link>https://mobilizon.us/search?search=Boston+Perl</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Maven online: Live Open Source contribution]]></title>
+            <description><![CDATA[January 24, 2025]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
             
             
             
