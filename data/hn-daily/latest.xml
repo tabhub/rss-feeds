@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Google AI Studio is now sponsoring Tailwind CSS]]></title>
-            <description><![CDATA[734 points | <a href=https://news.ycombinator.com/item?id=46545077 target=_blank>277 comments</a>]]></description>
+            <description><![CDATA[734 points | <a href=https://news.ycombinator.com/item?id=46545077 target=_blank>278 comments</a>]]></description>
             <pubDate>2026-01-08T19:09:23Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/OfficialLoganK/status/2009339263251566902</guid>
             <link>https://twitter.com/OfficialLoganK/status/2009339263251566902</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[How to Code Claude Code in 200 Lines of Code]]></title>
-            <description><![CDATA[676 points | <a href=https://news.ycombinator.com/item?id=46545620 target=_blank>212 comments</a>]]></description>
+            <description><![CDATA[677 points | <a href=https://news.ycombinator.com/item?id=46545620 target=_blank>212 comments</a>]]></description>
             <pubDate>2026-01-08T19:54:26Z</pubDate>
             <guid isPermaLink="false">https://www.mihaileric.com/The-Emperor-Has-No-Clothes/</guid>
             <link>https://www.mihaileric.com/The-Emperor-Has-No-Clothes/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Anthropic blocks third-party use of Claude Code subscriptions]]></title>
-            <description><![CDATA[536 points | <a href=https://news.ycombinator.com/item?id=46549823 target=_blank>450 comments</a>]]></description>
+            <description><![CDATA[538 points | <a href=https://news.ycombinator.com/item?id=46549823 target=_blank>450 comments</a>]]></description>
             <pubDate>2026-01-09T03:44:35Z</pubDate>
             <guid isPermaLink="false">https://github.com/anomalyco/opencode/issues/7410</guid>
             <link>https://github.com/anomalyco/opencode/issues/7410</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[European Commission issues call for evidence on open source]]></title>
-            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=46550912 target=_blank>304 comments</a>]]></description>
+            <description><![CDATA[388 points | <a href=https://news.ycombinator.com/item?id=46550912 target=_blank>306 comments</a>]]></description>
             <pubDate>2026-01-09T07:09:39Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/Articles/1053107/</guid>
             <link>https://lwn.net/Articles/1053107/</link>
@@ -75,6 +75,22 @@
             
             
             <author><![CDATA[pabs3]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mathematics for Computer Science (2018) [pdf]]]></title>
+            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=46550895 target=_blank>57 comments</a>]]></description>
+            <pubDate>2026-01-09T07:06:41Z</pubDate>
+            <guid isPermaLink="false">https://courses.csail.mit.edu/6.042/spring18/mcs.pdf</guid>
+            <link>https://courses.csail.mit.edu/6.042/spring18/mcs.pdf</link>
+            
+            
+            
+            <author><![CDATA[vismit2000]]></author>
             
                 
             
@@ -98,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Mathematics for Computer Science (2018) [pdf]]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=46550895 target=_blank>57 comments</a>]]></description>
-            <pubDate>2026-01-09T07:06:41Z</pubDate>
-            <guid isPermaLink="false">https://courses.csail.mit.edu/6.042/spring18/mcs.pdf</guid>
-            <link>https://courses.csail.mit.edu/6.042/spring18/mcs.pdf</link>
-            
-            
-            
-            <author><![CDATA[vismit2000]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[What happened to WebAssembly]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=46551044 target=_blank>285 comments</a>]]></description>
+            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=46551044 target=_blank>285 comments</a>]]></description>
             <pubDate>2026-01-09T07:38:30Z</pubDate>
             <guid isPermaLink="false">https://emnudge.dev/blog/what-happened-to-webassembly/</guid>
             <link>https://emnudge.dev/blog/what-happened-to-webassembly/</link>
@@ -123,6 +123,22 @@
             
             
             <author><![CDATA[enz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Embassy: Modern embedded framework, using Rust and async]]></title>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=46547740 target=_blank>133 comments</a>]]></description>
+            <pubDate>2026-01-08T23:00:45Z</pubDate>
+            <guid isPermaLink="false">https://github.com/embassy-rs/embassy</guid>
+            <link>https://github.com/embassy-rs/embassy</link>
+            
+            
+            
+            <author><![CDATA[birdculture]]></author>
             
                 
             
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Embassy: Modern embedded framework, using Rust and async]]></title>
-            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=46547740 target=_blank>133 comments</a>]]></description>
-            <pubDate>2026-01-08T23:00:45Z</pubDate>
-            <guid isPermaLink="false">https://github.com/embassy-rs/embassy</guid>
-            <link>https://github.com/embassy-rs/embassy</link>
-            
-            
-            
-            <author><![CDATA[birdculture]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Kagi releases alpha version of Orion for Linux]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=46553343 target=_blank>216 comments</a>]]></description>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=46553343 target=_blank>217 comments</a>]]></description>
             <pubDate>2026-01-09T12:54:48Z</pubDate>
             <guid isPermaLink="false">https://help.kagi.com/orion/misc/linux-status.html</guid>
             <link>https://help.kagi.com/orion/misc/linux-status.html</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Let's call a murder a murder]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=46547612 target=_blank>89 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=46547612 target=_blank>92 comments</a>]]></description>
             <pubDate>2026-01-08T22:47:56Z</pubDate>
             <guid isPermaLink="false">https://daringfireball.net/2026/01/lets_call_a_murder_a_murder</guid>
             <link>https://daringfireball.net/2026/01/lets_call_a_murder_a_murder</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[London–Calcutta Bus Service]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=46554462 target=_blank>140 comments</a>]]></description>
-            <pubDate>2026-01-09T14:50:48Z</pubDate>
-            <guid isPermaLink="false">https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service</guid>
-            <link>https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service</link>
+            <title><![CDATA[The Vietnam government has banned rooted phones from using any banking app]]></title>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=46555963 target=_blank>325 comments</a>]]></description>
+            <pubDate>2026-01-09T17:00:11Z</pubDate>
+            <guid isPermaLink="false">https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118</guid>
+            <link>https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118</link>
             
             
             
-            <author><![CDATA[thunderbong]]></author>
+            <author><![CDATA[Magnusmaster]]></author>
             
                 
             
