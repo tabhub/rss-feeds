@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #754]]></title>
+        <title><![CDATA[Perl Weekly #755]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Underbar, episode 8]]></title>
-            <description><![CDATA[As preparations are underway for the Perl Toolchain Summit 2026, this short episode is the last excerpt recorded during PTS 2025 (as a tangent during the CPAN Testers interview, published as episode 6). BooK starts by explaining the selection process for the Perl Toolchain Summit and some of the history, and then Doug, Ruth, Breno and Ferki reminisce about what makes the event so special.]]></description>
-            <pubDate>2025.12.29</pubDate>
-            <guid isPermaLink="false">https://underbar.cpan.io/episodes/8/</guid>
-            <link>https://underbar.cpan.io/episodes/8/</link>
+            <title><![CDATA[New York Perlmongers (NY.PM)]]></title>
+            <description><![CDATA[New York Perlmongers (<a href="https://ny.pm.org/">NY.PM</a>) has a <a href="https://groups.google.com/g/new-york-perlmongers">new mailing-list</a> organized as a Google Group. Sign up <a href="https://groups.google.com/g/new-york-perlmongers">here</a>.  (Note: we are not doing unrequested transfers from our previous mailing list.) NY.PM social event:  Thursday, January 15, 6:00 pm EST at Barcade, 148 West 24 St, Manhattan: send-off for a long-time member returning to the U.K.]]></description>
+            <pubDate>2026.01.11</pubDate>
+            <guid isPermaLink="false">https://ny.pm.org/</guid>
+            <link>https://ny.pm.org/</link>
             
             
             
-            <author><![CDATA[philippe_bruhat]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[App::HTTPThis: the tiny web server I keep reaching for]]></title>
-            <description><![CDATA[Dave shares his long-time favorite tool for static site work: App::HTTPThis. This Perl module is a friction-free command-line web server that instantly serves any directory over HTTP, perfect for testing links, assets, and real browser behavior without the overhead of Apache or nginx.]]></description>
-            <pubDate>2026.01.04</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2026/01/apphttpthis-the-tiny-web-server-i-keep-reaching-for/</guid>
-            <link>https://perlhacks.com/2026/01/apphttpthis-the-tiny-web-server-i-keep-reaching-for/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[james_keenan]]></author>
             
                 
             
@@ -50,11 +34,59 @@
         </item>
         
         <item>
-            <title><![CDATA[DBIx::Class::Async]]></title>
-            <description><![CDATA[A gentle tntroduction to DBIx::Class::Async. Please share your suggestions.]]></description>
-            <pubDate>2026.01.01</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dbix-class-async</guid>
-            <link>https://theweeklychallenge.org/blog/dbix-class-async</link>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.37]]></title>
+            <description><![CDATA[Get it, as usual, from his <a href="https://savage.net.au/">Wiki Haven</a>.]]></description>
+            <pubDate>2026.01.10</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/01/announce-perlwiki-v-137.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/01/announce-perlwiki-v-137.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Marlin Racing]]></title>
+            <description><![CDATA[Which of the 7 OOP frameworks of Perl is the fastest?]]></description>
+            <pubDate>2026.01.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/tobyink/marlin-racing-3b0h</guid>
+            <link>https://dev.to/tobyink/marlin-racing-3b0h</link>
+            
+            
+            
+            <author><![CDATA[toby_inkster]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Perl Claude Agent]]></title>
+            <description><![CDATA[It's a library that brings the agentic capabilities of Claude Code into your Perl applications.]]></description>
+            <pubDate>2026.01.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnationorg/the-perl-claude-agent-1ipk</guid>
+            <link>https://dev.to/lnationorg/the-perl-claude-agent-1ipk</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Manwar sending a Pull-Request to JQ::Lite]]></title>
+            <description><![CDATA[This video was recorded during the most recent <a href="https://luma.com/perl-maven">Perl code reading and open source contribution</a> event. For links check out the <a href="https://osdc.code-maven.com/perl">OSDC Perl</a> page and join us at our next event!]]></description>
+            <pubDate>2026.01.10</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=dAXMM7dGk5s</guid>
+            <link>https://www.youtube.com/watch?v=dAXMM7dGk5s</link>
             
             
             
@@ -66,31 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Episode 9: Perl, the Language That Refuses to Die (And Honestly, Good for It)]]></title>
-            <description><![CDATA[A very interesting read, unfortunately it is behind Medium's paywall, marked as members only.]]></description>
-            <pubDate>2026.01.04</pubDate>
-            <guid isPermaLink="false">https://medium.com/@DaveLumAI/episode-9-perl-the-language-that-refuses-to-die-and-honestly-good-for-it-f3b8b5d193e0</guid>
-            <link>https://medium.com/@DaveLumAI/episode-9-perl-the-language-that-refuses-to-die-and-honestly-good-for-it-f3b8b5d193e0</link>
+            <title><![CDATA[Perl in the TIOBE Index]]></title>
+            <description><![CDATA[See also the <a href="https://www.reddit.com/r/perl/comments/1q8cniu/perl_in_the_tiobe_index_a_partial_history/">discussion</a>.]]></description>
+            <pubDate>2026.01</pubDate>
+            <guid isPermaLink="false">https://tiobe.perlhacks.com/</guid>
+            <link>https://tiobe.perlhacks.com/</link>
             
             
             
-            <author><![CDATA[dave_lumai]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[jq-lite: A jq Alternative for Legacy and Restricted Systems]]></title>
-            <description><![CDATA[jq-lite is a jq-compatible JSON processor written in pure Perl. It is designed for legacy, restricted, and minimal environments where installing jq is not possible.]]></description>
-            <pubDate>2026.01.04</pubDate>
-            <guid isPermaLink="false">https://medium.com/@pannakoota/jq-lite-a-jq-alternative-for-legacy-and-restricted-systems-223d29db69a6</guid>
-            <link>https://medium.com/@pannakoota/jq-lite-a-jq-alternative-for-legacy-and-restricted-systems-223d29db69a6</link>
-            
-            
-            
-            <author><![CDATA[shingo_kawamura]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -98,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2025.52 Release #188 & State of the Onion]]></title>
-            <description><![CDATA[2025.52 Release #188 & State of the Onion]]></description>
-            <pubDate>2025.12.29</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2025/12/29/2025-52-release-188-state-of-the-onion/</guid>
-            <link>https://rakudoweekly.blog/2025/12/29/2025-52-release-188-state-of-the-onion/</link>
+            <title><![CDATA[DBIx::Class::Async - UPDATE]]></title>
+            <description><![CDATA[DBIx::Class::Async - UPDATE]]></description>
+            <pubDate>2026.01.06</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/mohammad_s_anwar/2026/01/dbixclassasync---update.html</guid>
+            <link>https://blogs.perl.org/users/mohammad_s_anwar/2026/01/dbixclassasync---update.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -115,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/01/dlxxxi-8-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.01.03</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/01/dlxxxii-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.01.11</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -130,59 +146,27 @@
         </item>
         
         <item>
-            <title><![CDATA[The new pull-request challenge (club)]]></title>
-            <description><![CDATA[Recently I saw that the <a href="https://pullrequest.club/">PullRequest.Club</a> closed on January 1st. It's a pity as it was a good idea. But don't worry, the new PRC is here. Less organized but here. The challenge is to send a PR to <b>any</b> CPAN module once a week and share the link to it on <a href="https://github.com/szabgab/perlweekly/issues/633">this issue</a>. (see my first comments on that issue). If you have never contributed to an open source project or if you have never sent a PR, don't worry. I organize live online sessions where I demonstrate the whole process as I am working on a project. You can watch. You can ask question. You can learn. Then you can implement and send your own PRs. Check the events <a href="https://luma.com/perl-maven">here</a>!]]></description>
-            <pubDate>2026.01.05</pubDate>
-            <guid isPermaLink="false">https://osdc.code-maven.com/perl</guid>
-            <link>https://osdc.code-maven.com/perl</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl Maven online: Live Open Source contribution]]></title>
-            <description><![CDATA[January 08, 2025]]></description>
-            
-            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
-            <link>https://luma.com/perl-maven</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boston.pm - online ]]></title>
-            <description><![CDATA[January 13, 2025]]></description>
-            
-            <guid isPermaLink="false">https://mobilizon.us/search?search=Boston+Perl</guid>
-            <link>https://mobilizon.us/search?search=Boston+Perl</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Perl Maven online: Live Open Source contribution]]></title>
             <description><![CDATA[January 24, 2025]]></description>
             
             <guid isPermaLink="false">https://luma.com/perl-maven</guid>
             <link>https://luma.com/perl-maven</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston.pm - online]]></title>
+            <description><![CDATA[February 10, 2025]]></description>
+            
+            <guid isPermaLink="false">https://mobilizon.us/search?search=Boston+Perl</guid>
+            <link>https://mobilizon.us/search?search=Boston+Perl</link>
             
             
             
