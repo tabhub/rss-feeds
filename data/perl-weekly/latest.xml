@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #755]]></title>
+        <title><![CDATA[Perl Weekly #756]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[New York Perlmongers (NY.PM)]]></title>
-            <description><![CDATA[New York Perlmongers (<a href="https://ny.pm.org/">NY.PM</a>) has a <a href="https://groups.google.com/g/new-york-perlmongers">new mailing-list</a> organized as a Google Group. Sign up <a href="https://groups.google.com/g/new-york-perlmongers">here</a>.  (Note: we are not doing unrequested transfers from our previous mailing list.) NY.PM social event:  Thursday, January 15, 6:00 pm EST at Barcade, 148 West 24 St, Manhattan: send-off for a long-time member returning to the U.K.]]></description>
-            <pubDate>2026.01.11</pubDate>
-            <guid isPermaLink="false">https://ny.pm.org/</guid>
-            <link>https://ny.pm.org/</link>
+            <title><![CDATA[This week in PSC (211) | 2026-01-12]]></title>
+            <description><![CDATA[We mostly discussed the experimental refaliasing and declared_refs features to see if we can find a path towards declaring at least the latter non-experimental.]]></description>
+            <pubDate>2026.01.15</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/01/this-week-in-psc-211-2026-01-12.html</guid>
+            <link>https://blogs.perl.org/users/psc/2026/01/this-week-in-psc-211-2026-01-12.html</link>
             
             
             
-            <author><![CDATA[james_keenan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.37]]></title>
-            <description><![CDATA[Get it, as usual, from his <a href="https://savage.net.au/">Wiki Haven</a>.]]></description>
-            <pubDate>2026.01.10</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/01/announce-perlwiki-v-137.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/01/announce-perlwiki-v-137.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Marlin Racing]]></title>
-            <description><![CDATA[Which of the 7 OOP frameworks of Perl is the fastest?]]></description>
-            <pubDate>2026.01.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/tobyink/marlin-racing-3b0h</guid>
-            <link>https://dev.to/tobyink/marlin-racing-3b0h</link>
+            <title><![CDATA[Cosmoshop supports the German Perl Workshop 2026]]></title>
+            <description><![CDATA[Max Maischein announces that CosmoShop, one of the world’s largest pure‑Perl shop systems, is once again sponsoring the German Perl Workshop in 2026, strengthening community support for this key Perl/Raku conference. This continued backing highlights the vibrant ecosystem and industry engagement around Perl events.]]></description>
+            <pubDate>2026.01.18</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2026/01/cosmoshop-supports-the-german-perl-workshop-2026.html</guid>
+            <link>https://blogs.perl.org/users/max_maischein/2026/01/cosmoshop-supports-the-german-perl-workshop-2026.html</link>
             
             
             
-            <author><![CDATA[toby_inkster]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Perl Claude Agent]]></title>
-            <description><![CDATA[It's a library that brings the agentic capabilities of Claude Code into your Perl applications.]]></description>
-            <pubDate>2026.01.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/lnationorg/the-perl-claude-agent-1ipk</guid>
-            <link>https://dev.to/lnationorg/the-perl-claude-agent-1ipk</link>
-            
-            
-            
-            <author><![CDATA[robert_acock]]></author>
+            <author><![CDATA[max_maischein]]></author>
             
                 
             
@@ -82,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Manwar sending a Pull-Request to JQ::Lite]]></title>
-            <description><![CDATA[This video was recorded during the most recent <a href="https://luma.com/perl-maven">Perl code reading and open source contribution</a> event. For links check out the <a href="https://osdc.code-maven.com/perl">OSDC Perl</a> page and join us at our next event!]]></description>
-            <pubDate>2026.01.10</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=dAXMM7dGk5s</guid>
-            <link>https://www.youtube.com/watch?v=dAXMM7dGk5s</link>
+            <title><![CDATA[Thunderhorse Beta released!]]></title>
+            <description><![CDATA[The blog announces the beta release of Thunderhorse, a new Perl web framework drawing on lessons from Kelp and built natively on PAGI, with real‑time features like WebSocket and SSE support and a focus on extensibility and high code quality.]]></description>
+            <pubDate>2026.01.18</pubDate>
+            <guid isPermaLink="false">https://bbrtj.eu/blog/article/thunderhorse-beta-released</guid>
+            <link>https://bbrtj.eu/blog/article/thunderhorse-beta-released</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[bartosz_jarzyna]]></author>
             
                 
             
@@ -98,11 +66,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl in the TIOBE Index]]></title>
-            <description><![CDATA[See also the <a href="https://www.reddit.com/r/perl/comments/1q8cniu/perl_in_the_tiobe_index_a_partial_history/">discussion</a>.]]></description>
-            <pubDate>2026.01</pubDate>
-            <guid isPermaLink="false">https://tiobe.perlhacks.com/</guid>
-            <link>https://tiobe.perlhacks.com/</link>
+            <title><![CDATA[Slide archive: Learn with Dave Cross]]></title>
+            <description><![CDATA[Dave Cross has published an archive of slides from his long‑running technical training courses on Perl and other developer topics, going back many years and available for free download. These slide decks offer a valuable resource for anyone wanting concise, well‑structured material from experienced instruction.]]></description>
+            <pubDate>2026.01.14</pubDate>
+            <guid isPermaLink="false">https://learn.davecross.co.uk/slides/</guid>
+            <link>https://learn.davecross.co.uk/slides/</link>
             
             
             
@@ -114,15 +82,143 @@
         </item>
         
         <item>
-            <title><![CDATA[DBIx::Class::Async - UPDATE]]></title>
-            <description><![CDATA[DBIx::Class::Async - UPDATE]]></description>
-            <pubDate>2026.01.06</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mohammad_s_anwar/2026/01/dbixclassasync---update.html</guid>
-            <link>https://blogs.perl.org/users/mohammad_s_anwar/2026/01/dbixclassasync---update.html</link>
+            <title><![CDATA[Perl code reading and open source contribution]]></title>
+            <description><![CDATA[One of the best ways to learn is by reading other people's code, making small contributions and getting feedback. That's exactly what we do at these online sessions. The next one taking place on January 24 in a Zoom near you. <a href="https://luma.com/perl-maven">Join us!</a>]]></description>
+            <pubDate>2026.01.19</pubDate>
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What I released in 2025]]></title>
+            <description><![CDATA[In his year‑in‑review post, Corion reflects on a productive 2025 by highlighting several useful Perl modules he published, including Text::HTML::Turndown for converting HTML to Markdown and Date::Find for extracting dates from filenames. He also shares a paranoid Mojo::UserAgent extension and contributions to core modules, giving readers insight into both his releases and ongoing development work.]]></description>
+            <pubDate>2026.01.18</pubDate>
+            <guid isPermaLink="false">https://corion.net/blog/2026/01/18/what-i-released-in-2025/</guid>
+            <link>https://corion.net/blog/2026/01/18/what-i-released-in-2025/</link>
+            
+            
+            
+            <author><![CDATA[max_maischein]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[How can we make this Moose faster?]]></title>
+            <description><![CDATA[Toby Inkster introduces performance‑boosting extensions to Moose with MooseX::XSAccessor and the new MooseX::XSConstructor, showing significant speedups in object creation and method access. His benchmarks suggest up to ~76 % faster performance using XS‑based accessors and constructors, offering a practical way to accelerate Moose‑based Perl code.]]></description>
+            <pubDate>2026.01.17</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/toby_inkster/2026/01/how-can-we-make-this-moose-faster.html</guid>
+            <link>https://blogs.perl.org/users/toby_inkster/2026/01/how-can-we-make-this-moose-faster.html</link>
+            
+            
+            
+            <author><![CDATA[toby_inkster]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Understanding TPRF's Finance, 2026 Edition]]></title>
+            <description><![CDATA[Makoto Nozaki takes a clear, numbers‑driven look at The Perl and Raku Foundation’s 2024 financials, showing a significant increase in revenue but expenses that far exceeded income and halved its assets. His breakdown highlights both positive trends in donations and a strong call for greater transparency to ensure the foundation’s long‑term sustainability.]]></description>
+            <pubDate>2026.01.13</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/makoto_nozaki/2026/01/understanding-tprfs-finance-2025-edition.html</guid>
+            <link>https://blogs.perl.org/users/makoto_nozaki/2026/01/understanding-tprfs-finance-2025-edition.html</link>
+            
+            
+            
+            <author><![CDATA[makoto_nozaki]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Taking the Win - Perl in the TIOBE Index]]></title>
+            <description><![CDATA[Dean celebrates Perl’s improved position in the TIOBE Index during 2025 and highlights the ongoing momentum in the Perl community, from steady releases to vibrant events and tooling support. While acknowledging healthy skepticism about popularity metrics, he encourages readers to "take the win" and appreciate the positive signals for Perl’s ecosystem.]]></description>
+            <pubDate>2026.01.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2026/01/taking-the-win---perl-in-the-tiobe-index.html#comments</guid>
+            <link>https://blogs.perl.org/users/dean/2026/01/taking-the-win---perl-in-the-tiobe-index.html#comments</link>
+            
+            
+            
+            <author><![CDATA[dean_hamstead]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Firestore MCP Development with Perl, Cloud Run, and Gemini CLI]]></title>
+            <description><![CDATA[William McLean walks through building a minimal Perl‑based MCP (Model Context Protocol) server backed by Firestore, showing how to validate it locally and deploy it to Google Cloud Run using the Gemini CLI. The article highlights practical steps for integrating Perl with modern AI‑oriented workflows beyond the usual Python ecosystem and gives clear pointers for developers looking to experiment with MCP and Cloud Run deployments.]]></description>
+            <pubDate>2026.01.18</pubDate>
+            <guid isPermaLink="false">https://medium.com/@xbill999/firestore-mcp-development-with-perl-cloud-run-and-gemini-cli-9dee6f0f1b4e</guid>
+            <link>https://medium.com/@xbill999/firestore-mcp-development-with-perl-cloud-run-and-gemini-cli-9dee6f0f1b4e</link>
+            
+            
+            
+            <author><![CDATA[xbill]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Doubly: Why Arrays Aren't Always Enough]]></title>
+            <description><![CDATA[Robert explores when traditional arrays fall short and makes a compelling case for using doubly linked lists instead, especially for operations like O(1) insertions and intuitive cursor navigation. Through Perl examples and performance trade‑offs across multiple implementations, from pure Perl to thread‑safe C registries, the article highlights practical data‑structure choices and when they pay off.]]></description>
+            <pubDate>2026.01.18</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnationorg/doubly-why-arrays-arent-always-enough-ji6</guid>
+            <link>https://dev.to/lnationorg/doubly-why-arrays-arent-always-enough-ji6</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Ad Server]]></title>
+            <description><![CDATA[The Perl Ad Server makes it easy to promote Perl‑related announcements, from events and podcasts to jobs and newsletters, by embedding a tiny JavaScript snippet that displays rotating banners on your website. It’s simple to style and control, and contributions are welcomed via GitHub for anyone who wants to add or manage ads for the community.]]></description>
+            <pubDate>2026.01.18</pubDate>
+            <guid isPermaLink="false">https://perl-ads.perlhacks.com/</guid>
+            <link>https://perl-ads.perlhacks.com/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.02 Resolutions]]></title>
+            <description><![CDATA[2026.02 Resolutions]]></description>
+            <pubDate>2026.01.12</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/01/12/2026-02-resolutions/</guid>
+            <link>https://rakudoweekly.blog/2026/01/12/2026-02-resolutions/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -131,8 +227,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/01/dlxxxii-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.01.11</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/01/dlxxxiii-9-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/01/dcxxii-metacpan-weekly-report-marlin.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2026.01.18</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
