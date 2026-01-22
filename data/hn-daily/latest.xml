@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)]]></title>
-            <description><![CDATA[632 points | <a href=https://news.ycombinator.com/item?id=46706528 target=_blank>196 comments</a>]]></description>
-            <pubDate>2026-01-21T14:54:56Z</pubDate>
-            <guid isPermaLink="false">https://github.com/ChartGPU/ChartGPU</guid>
-            <link>https://github.com/ChartGPU/ChartGPU</link>
-            
-            
-            
-            <author><![CDATA[huntergemmer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[We will ban you and ridicule you in public if you waste our time on crap reports]]></title>
-            <description><![CDATA[611 points | <a href=https://news.ycombinator.com/item?id=46717556 target=_blank>361 comments</a>]]></description>
+            <description><![CDATA[646 points | <a href=https://news.ycombinator.com/item?id=46717556 target=_blank>382 comments</a>]]></description>
             <pubDate>2026-01-22T10:48:27Z</pubDate>
             <guid isPermaLink="false">https://curl.se/.well-known/security.txt</guid>
             <link>https://curl.se/.well-known/security.txt</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Claude's new constitution]]></title>
-            <description><![CDATA[504 points | <a href=https://news.ycombinator.com/item?id=46707572 target=_blank>598 comments</a>]]></description>
+            <description><![CDATA[510 points | <a href=https://news.ycombinator.com/item?id=46707572 target=_blank>606 comments</a>]]></description>
             <pubDate>2026-01-21T16:04:49Z</pubDate>
             <guid isPermaLink="false">https://www.anthropic.com/news/claude-new-constitution</guid>
             <link>https://www.anthropic.com/news/claude-new-constitution</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Skip is now free and open source]]></title>
-            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=46706906 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=46706906 target=_blank>212 comments</a>]]></description>
             <pubDate>2026-01-21T15:20:53Z</pubDate>
             <guid isPermaLink="false">https://skip.dev/blog/skip-is-free/</guid>
             <link>https://skip.dev/blog/skip-is-free/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete]]></title>
-            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=46713106 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[444 points | <a href=https://news.ycombinator.com/item?id=46713106 target=_blank>87 comments</a>]]></description>
             <pubDate>2026-01-21T23:22:40Z</pubDate>
             <guid isPermaLink="false">https://huggingface.co/sweepai/sweep-next-edit-1.5B</guid>
             <link>https://huggingface.co/sweepai/sweep-next-edit-1.5B</link>
@@ -98,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Internet voting is insecure and should not be used in public elections]]></title>
-            <description><![CDATA[420 points | <a href=https://news.ycombinator.com/item?id=46713924 target=_blank>443 comments</a>]]></description>
-            <pubDate>2026-01-22T01:11:13Z</pubDate>
-            <guid isPermaLink="false">https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/</guid>
-            <link>https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/</link>
-            
-            
-            
-            <author><![CDATA[WaitWaitWha]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant]]></title>
-            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=46712678 target=_blank>278 comments</a>]]></description>
+            <description><![CDATA[425 points | <a href=https://news.ycombinator.com/item?id=46712678 target=_blank>294 comments</a>]]></description>
             <pubDate>2026-01-21T22:41:45Z</pubDate>
             <guid isPermaLink="false">https://www.media.mit.edu/publications/your-brain-on-chatgpt/</guid>
             <link>https://www.media.mit.edu/publications/your-brain-on-chatgpt/</link>
@@ -130,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Internet voting is insecure and should not be used in public elections]]></title>
+            <description><![CDATA[421 points | <a href=https://news.ycombinator.com/item?id=46713924 target=_blank>447 comments</a>]]></description>
+            <pubDate>2026-01-22T01:11:13Z</pubDate>
+            <guid isPermaLink="false">https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/</guid>
+            <link>https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/</link>
+            
+            
+            
+            <author><![CDATA[WaitWaitWha]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday]]></title>
-            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=46707699 target=_blank>465 comments</a>]]></description>
+            <description><![CDATA[412 points | <a href=https://news.ycombinator.com/item?id=46707699 target=_blank>466 comments</a>]]></description>
             <pubDate>2026-01-21T16:14:39Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=46707699</guid>
             <link>https://news.ycombinator.com/item?id=46707699</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Waiting for dawn in search: Search index, Google rulings and impact on Kagi]]></title>
-            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=46708678 target=_blank>217 comments</a>]]></description>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=46708678 target=_blank>218 comments</a>]]></description>
             <pubDate>2026-01-21T17:28:03Z</pubDate>
             <guid isPermaLink="false">https://blog.kagi.com/waiting-dawn-search</guid>
             <link>https://blog.kagi.com/waiting-dawn-search</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Linux from Scratch]]></title>
-            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=46709727 target=_blank>99 comments</a>]]></description>
+            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=46709727 target=_blank>99 comments</a>]]></description>
             <pubDate>2026-01-21T18:44:40Z</pubDate>
             <guid isPermaLink="false">https://www.linuxfromscratch.org/lfs/view/stable/</guid>
             <link>https://www.linuxfromscratch.org/lfs/view/stable/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Significant US farm losses persist, despite federal assistance]]></title>
-            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=46713929 target=_blank>319 comments</a>]]></description>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=46713929 target=_blank>327 comments</a>]]></description>
             <pubDate>2026-01-22T01:11:36Z</pubDate>
             <guid isPermaLink="false">https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance</guid>
             <link>https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[toomuchtodo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Threat actors expand abuse of Microsoft Visual Studio Code]]></title>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=46713526 target=_blank>223 comments</a>]]></description>
+            <pubDate>2026-01-22T00:12:00Z</pubDate>
+            <guid isPermaLink="false">https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/</guid>
+            <link>https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/</link>
+            
+            
+            
+            <author><![CDATA[vinnyglennon]]></author>
             
                 
             
