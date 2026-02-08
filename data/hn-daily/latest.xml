@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[We mourn our craft]]></title>
-            <description><![CDATA[506 points | <a href=https://news.ycombinator.com/item?id=46926245 target=_blank>651 comments</a>]]></description>
+            <description><![CDATA[513 points | <a href=https://news.ycombinator.com/item?id=46926245 target=_blank>656 comments</a>]]></description>
             <pubDate>2026-02-07T18:32:27Z</pubDate>
             <guid isPermaLink="false">https://nolanlawson.com/2026/02/07/we-mourn-our-craft/</guid>
             <link>https://nolanlawson.com/2026/02/07/we-mourn-our-craft/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[SectorC: A C Compiler in 512 bytes (2023)]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=46925741 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=46925741 target=_blank>71 comments</a>]]></description>
             <pubDate>2026-02-07T17:39:53Z</pubDate>
             <guid isPermaLink="false">https://xorvoid.com/sectorc.html</guid>
             <link>https://xorvoid.com/sectorc.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[DoNotNotify is now Open Source]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=46932192 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=46932192 target=_blank>47 comments</a>]]></description>
             <pubDate>2026-02-08T07:39:49Z</pubDate>
             <guid isPermaLink="false">https://donotnotify.com/opensource.html</guid>
             <link>https://donotnotify.com/opensource.html</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=46930391 target=_blank>139 comments</a>]]></description>
-            <pubDate>2026-02-08T01:26:38Z</pubDate>
-            <guid isPermaLink="false">https://github.com/localgpt-app/localgpt</guid>
-            <link>https://github.com/localgpt-app/localgpt</link>
-            
-            
-            
-            <author><![CDATA[yi_wang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AI fatigue Is real and nobody talks about it]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=46934404 target=_blank>204 comments</a>]]></description>
+            <title><![CDATA[AI fatigue is real and nobody talks about it]]></title>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=46934404 target=_blank>235 comments</a>]]></description>
             <pubDate>2026-02-08T14:19:32Z</pubDate>
             <guid isPermaLink="false">https://siddhantkhare.com/writing/ai-fatigue-is-real</guid>
             <link>https://siddhantkhare.com/writing/ai-fatigue-is-real</link>
@@ -114,8 +98,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory]]></title>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=46930391 target=_blank>139 comments</a>]]></description>
+            <pubDate>2026-02-08T01:26:38Z</pubDate>
+            <guid isPermaLink="false">https://github.com/localgpt-app/localgpt</guid>
+            <link>https://github.com/localgpt-app/localgpt</link>
+            
+            
+            
+            <author><![CDATA[yi_wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[I am happier writing code by hand]]></title>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=46934344 target=_blank>176 comments</a>]]></description>
+            <pubDate>2026-02-08T14:12:18Z</pubDate>
+            <guid isPermaLink="false">https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</guid>
+            <link>https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</link>
+            
+            
+            
+            <author><![CDATA[lazyfolder]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I write games in C (yes, C) (2016)]]></title>
-            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=46925808 target=_blank>243 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=46925808 target=_blank>246 comments</a>]]></description>
             <pubDate>2026-02-07T17:45:25Z</pubDate>
             <guid isPermaLink="false">https://jonathanwhiting.com/writing/blog/games_in_c/</guid>
             <link>https://jonathanwhiting.com/writing/blog/games_in_c/</link>
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Speed up responses with fast mode]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=46926043 target=_blank>219 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=46926043 target=_blank>220 comments</a>]]></description>
             <pubDate>2026-02-07T18:08:23Z</pubDate>
             <guid isPermaLink="false">https://code.claude.com/docs/en/fast-mode</guid>
             <link>https://code.claude.com/docs/en/fast-mode</link>
@@ -146,40 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I am happier writing code by hand]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=46934344 target=_blank>145 comments</a>]]></description>
-            <pubDate>2026-02-08T14:12:18Z</pubDate>
-            <guid isPermaLink="false">https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</guid>
-            <link>https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</link>
-            
-            
-            
-            <author><![CDATA[lazyfolder]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[British drivers over 70 to face eye tests every three years]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=46924813 target=_blank>219 comments</a>]]></description>
-            <pubDate>2026-02-07T15:55:54Z</pubDate>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c205nxy0p31o</guid>
-            <link>https://www.bbc.com/news/articles/c205nxy0p31o</link>
-            
-            
-            
-            <author><![CDATA[bookofjoe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The world heard JD Vance being booed at the Olympics. Except for viewers in USA]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=46931948 target=_blank>81 comments</a>]]></description>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=46931948 target=_blank>82 comments</a>]]></description>
             <pubDate>2026-02-08T07:00:40Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics</guid>
             <link>https://www.theguardian.com/sport/2026/feb/07/jd-vance-boos-winter-olympics</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Beyond agentic coding]]></title>
-            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=46930565 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=46930565 target=_blank>77 comments</a>]]></description>
             <pubDate>2026-02-08T01:55:09Z</pubDate>
             <guid isPermaLink="false">https://haskellforall.com/2026/02/beyond-agentic-coding</guid>
             <link>https://haskellforall.com/2026/02/beyond-agentic-coding</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[RebelPotato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Slop Terrifies Me]]></title>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=46933067 target=_blank>170 comments</a>]]></description>
+            <pubDate>2026-02-08T10:31:35Z</pubDate>
+            <guid isPermaLink="false">https://ezhik.jp/ai-slop-terrifies-me/</guid>
+            <link>https://ezhik.jp/ai-slop-terrifies-me/</link>
+            
+            
+            
+            <author><![CDATA[Ezhik]]></author>
             
                 
             
