@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #758]]></title>
+        <title><![CDATA[Perl Weekly #759]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Sydney February Meeting! 2025]]></title>
-            <description><![CDATA[Sydney Perl continues regular meetings with our next in February]]></description>
-            <pubDate>2026.02.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2026/02/sydney-february-meeting-2025.html</guid>
-            <link>https://blogs.perl.org/users/dean/2026/02/sydney-february-meeting-2025.html</link>
+            <title><![CDATA[Mojo with WebSocket]]></title>
+            <description><![CDATA[Known for its real‑time web capabilities, Mojo seemed like the perfect framework to experiment with WebSockets. What better way to test it than building a live chat room?]]></description>
+            <pubDate>2026.02.07</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/mojo-with-websocket/</guid>
+            <link>https://theweeklychallenge.org/blog/mojo-with-websocket/</link>
             
             
             
-            <author><![CDATA[dean_hamstead]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -34,11 +34,59 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (213) | 2026-01-26]]></title>
-            <description><![CDATA[Perl Steering Council, discussing topics like improvements to Perl's random number generator and integrating TLS functionality into the core.]]></description>
-            <pubDate>2026.01.26</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/01/this-week-in-psc-213-2026-01-26.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/01/this-week-in-psc-213-2026-01-26.html</link>
+            <title><![CDATA[Beautiful Perl feature: BLOCKs]]></title>
+            <description><![CDATA[BLOCK : sequence of statements;  Lexical scope; Lexical scopes in Python are not like Perl; Lexical variables; Shadowing variables from higher scopes; Lexical pragmata]]></description>
+            <pubDate>2026.02.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/damil/beautiful-perl-feature-blocks-2o4</guid>
+            <link>https://dev.to/damil/beautiful-perl-feature-blocks-2o4</link>
+            
+            
+            
+            <author><![CDATA[laurent_dami]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Beautiful Perl features - introduction to the series]]></title>
+            <description><![CDATA[Expressiveness of the Perl programming language. Perl vs other languages : Compare facts, not opinions.]]></description>
+            <pubDate>2026.02.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/damil/beautiful-perl-features-introduction-to-the-series-b6a</guid>
+            <link>https://dev.to/damil/beautiful-perl-features-introduction-to-the-series-b6a</link>
+            
+            
+            
+            <author><![CDATA[laurent_dami]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2 + Dancer2::Plugin::DBIC::Async + HTMX]]></title>
+            <description><![CDATA[Dancer2 + Dancer2::Plugin::DBIC::Async + HTMX]]></description>
+            <pubDate>2026.02.05</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dancer2-dbic-async-htmx/</guid>
+            <link>https://theweeklychallenge.org/blog/dancer2-dbic-async-htmx/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Building a Solana Telemetry Engine with Perl 5.42 (AnyEvent, SQLite WAL)]]></title>
+            <description><![CDATA[Building a Solana Telemetry Engine with Perl 5.42 (AnyEvent, SQLite WAL)]]></description>
+            <pubDate>2026.02.05</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1qwzhc6/building_a_solana_telemetry_engine_with_perl_542/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1qwzhc6/building_a_solana_telemetry_engine_with_perl_542/</link>
             
             
             
@@ -50,31 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A new sponsorship model]]></title>
-            <description><![CDATA[A new sponsorship model for the 2026 Perl Toolchain Summit. It encourages employers sending staff to the event to "pay it forward" by also providing monetary sponsorship to help cover costs for other attendees.]]></description>
-            <pubDate>2026.01.31</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/book/2026/01/a-new-sponsorship-model.html</guid>
-            <link>https://blogs.perl.org/users/book/2026/01/a-new-sponsorship-model.html</link>
+            <title><![CDATA[Fastmail Donates USD 10,000 to The Perl and Raku Foundation]]></title>
+            <description><![CDATA[Fastmail Donates USD 10,000 to The Perl and Raku Foundation]]></description>
+            <pubDate>2026.02</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/fastmail-donates-usd-10-000-to-the-perl-and-raku-foundation/</guid>
+            <link>https://www.perl.com/article/fastmail-donates-usd-10-000-to-the-perl-and-raku-foundation/</link>
             
             
             
-            <author><![CDATA[philippe_bruhat]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.39 & Mojolicious.Wiki V 1.13]]></title>
-            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.39 & Mojolicious.Wiki V 1.13]]></description>
-            <pubDate>2026.02.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/02/announce-perlwiki-v-139-mojoliciouswiki-v-113.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/02/announce-perlwiki-v-139-mojoliciouswiki-v-113.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[olaf_alders]]></author>
             
                 
             
@@ -82,63 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[What I learned from being an editor/reviewer for the 2025 Perl Advent Calendar]]></title>
-            <description><![CDATA[Marc contemplates on having a wonderful experience reviewing for the Perl Advent Calendar 2025. He noted that through writing and editing articles about other peoples' articles and writing with CPAN, he learned about many new things (CPAN modules) as well as found renewed interest in various community activities such as The Weekly Perl Challenge.]]></description>
-            <pubDate>2026.01.30</pubDate>
-            <guid isPermaLink="false">https://dev.to/marc_perry_be3c8ed5989a1b/what-i-learned-from-being-an-editorreviewer-for-the-2025-perl-advent-calendar-2bk9</guid>
-            <link>https://dev.to/marc_perry_be3c8ed5989a1b/what-i-learned-from-being-an-editorreviewer-for-the-2025-perl-advent-calendar-2bk9</link>
+            <title><![CDATA[Cast-Iron Community: Your Chance to Sponsor TPRC 2026]]></title>
+            <description><![CDATA['Perl is my cast-iron pan - reliable, versatile, durable, and continues to be ever so useful.']]></description>
+            <pubDate>2026.02.</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/cast-iron-community-your-chance-to-sponsor-tprc-2026/</guid>
+            <link>https://www.perl.com/article/cast-iron-community-your-chance-to-sponsor-tprc-2026/</link>
             
             
             
-            <author><![CDATA[marc_perry]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Lock and unlock hash using Hash::Util]]></title>
-            <description><![CDATA[The post demonstrates how to use the Hash::Util module's lock_hash function in Perl to prevent accidental modifications to a hash, protecting it from changes, deletions, or new key additions. By unlocking the hash with unlock_hash, the program regains the ability to modify its structure, which is shown with practical code examples.]]></description>
-            <pubDate>2026.01.28</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/lock-and-unlock-hash</guid>
-            <link>https://perlmaven.com/lock-and-unlock-hash</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Podlite comes to Perl: a lightweight block-based markup language for everyday use]]></title>
-            <description><![CDATA[The article introduces Podlite, a new lightweight, block-based markup language that brings the readability and structure of Raku's documentation format (Pod) to the Perl ecosystem. It highlights how Podlite offers three interchangeable block styles for writing documentation within Perl code and announces its arrival via a CPAN module, positioning it as a modern tool for everyday use.]]></description>
-            <pubDate>2026.01.27</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/podlite-comes-to-perl-a-lightweight-block-based-markup-language-for-everyday-use/</guid>
-            <link>https://www.perl.com/article/podlite-comes-to-perl-a-lightweight-block-based-markup-language-for-everyday-use/</link>
-            
-            
-            
-            <author><![CDATA[aliaksandr_zahatski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2026.04 Hello, Goodbye]]></title>
-            <description><![CDATA[2026.04 Hello, Goodbye]]></description>
-            <pubDate>2026.01.26</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/01/26/2026-04-hello-goodbye/</guid>
-            <link>https://rakudoweekly.blog/2026/01/26/2026-04-hello-goodbye/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[olaf_alders]]></author>
             
                 
             
@@ -147,78 +131,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/01/dlxxxv-14-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.01.31</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/02/dlxxxvi-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/02/dcxxiv-metacpan-weekly-report-xsjit.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2026.02.07</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Add META data, .gitignore and GitHub Actions to Common::CodingTools]]></title>
-            <description><![CDATA[This is the video recording from December 2025. It includes some explanation on how to find a Perl module to contribute to and we also make some small contributions. For similar events check out the <a href="https://osdc.code-maven.com/perl">OSDC Perl</a> page.]]></description>
-            <pubDate>2026.02.01</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/meta-data-and-github-actions-for-common-codingtools-video</guid>
-            <link>https://perlmaven.com/meta-data-and-github-actions-for-common-codingtools-video</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl-related GitHub organizations]]></title>
-            <description><![CDATA[There are now some 40 organization listed, thanks in no small part to the people in the Perl community who suggested them.]]></description>
-            <pubDate>2026.02.01</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/github-organizations</guid>
-            <link>https://perlmaven.com/github-organizations</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[WhatsApp]]></title>
-            <description><![CDATA[Join the Perl Maven chat group on WhatsApp!]]></description>
-            <pubDate>2026.02.02</pubDate>
-            <guid isPermaLink="false">https://chat.whatsapp.com/LRrkZsSRDvGLLwppyLnKHy</guid>
-            <link>https://chat.whatsapp.com/LRrkZsSRDvGLLwppyLnKHy</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Telegram]]></title>
-            <description><![CDATA[Join the Perl Maven chat group on Telegram!]]></description>
-            <pubDate>2026.02.02</pubDate>
-            <guid isPermaLink="false">https://t.me/PerlMaven</guid>
-            <link>https://t.me/PerlMaven</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -295,6 +215,22 @@
             
             <guid isPermaLink="false">https://act.yapc.eu/gpw2026/</guid>
             <link>https://act.yapc.eu/gpw2026/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Perl and Raku Conference 2026]]></title>
+            <description><![CDATA[June 26-29, 2026, Greenville, SC, USA]]></description>
+            
+            <guid isPermaLink="false">https://tprc.us/tprc-2026-gsp/</guid>
+            <link>https://tprc.us/tprc-2026-gsp/</link>
             
             
             
