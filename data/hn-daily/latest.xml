@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number]]></title>
-            <description><![CDATA[767 points | <a href=https://news.ycombinator.com/item?id=46963804 target=_blank>321 comments</a>]]></description>
-            <pubDate>2026-02-10T17:48:05Z</pubDate>
-            <guid isPermaLink="false">https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/</guid>
-            <link>https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/</link>
-            
-            
-            
-            <author><![CDATA[lehi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Windows Notepad App Remote Code Execution Vulnerability]]></title>
-            <description><![CDATA[652 points | <a href=https://news.ycombinator.com/item?id=46971516 target=_blank>407 comments</a>]]></description>
+            <description><![CDATA[674 points | <a href=https://news.ycombinator.com/item?id=46971516 target=_blank>421 comments</a>]]></description>
             <pubDate>2026-02-11T06:15:33Z</pubDate>
             <guid isPermaLink="false">https://www.cve.org/CVERecord?id=CVE-2026-20841</guid>
             <link>https://www.cve.org/CVERecord?id=CVE-2026-20841</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[The Day the Telnet Died]]></title>
-            <description><![CDATA[462 points | <a href=https://news.ycombinator.com/item?id=46967772 target=_blank>337 comments</a>]]></description>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=46967772 target=_blank>345 comments</a>]]></description>
             <pubDate>2026-02-10T22:20:40Z</pubDate>
             <guid isPermaLink="false">https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/</guid>
             <link>https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Chrome extensions spying on users' browsing data]]></title>
-            <description><![CDATA[395 points | <a href=https://news.ycombinator.com/item?id=46973083 target=_blank>161 comments</a>]]></description>
+            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=46973083 target=_blank>169 comments</a>]]></description>
             <pubDate>2026-02-11T10:00:56Z</pubDate>
             <guid isPermaLink="false">https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495</guid>
             <link>https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights]]></title>
-            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=46973647 target=_blank>6 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=46973647 target=_blank>6 comments</a>]]></description>
             <pubDate>2026-02-11T11:27:38Z</pubDate>
             <guid isPermaLink="false">https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa</guid>
             <link>https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[FAA halts all flights at El Paso airport for 10 days]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=46972610 target=_blank>421 comments</a>]]></description>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=46972610 target=_blank>446 comments</a>]]></description>
             <pubDate>2026-02-11T09:04:00Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html</guid>
             <link>https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html</link>
@@ -114,8 +98,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Claude Code Is Being Dumbed Down]]></title>
+            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=46978710 target=_blank>184 comments</a>]]></description>
+            <pubDate>2026-02-11T18:23:39Z</pubDate>
+            <guid isPermaLink="false">https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</guid>
+            <link>https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</link>
+            
+            
+            
+            <author><![CDATA[WXLCKNO]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GLM-5: From Vibe Coding to Agentic Engineering]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=46977210 target=_blank>119 comments</a>]]></description>
+            <pubDate>2026-02-11T16:41:33Z</pubDate>
+            <guid isPermaLink="false">https://z.ai/blog/glm-5</guid>
+            <link>https://z.ai/blog/glm-5</link>
+            
+            
+            
+            <author><![CDATA[meetpateltech]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[GLM5 Released on Z.ai Platform]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=46974853 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=46974853 target=_blank>179 comments</a>]]></description>
             <pubDate>2026-02-11T13:42:16Z</pubDate>
             <guid isPermaLink="false">https://chat.z.ai/</guid>
             <link>https://chat.z.ai/</link>
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[How did Windows 95 get permission to put Weezer video 'Buddy Holly' on the CD?]]></title>
-            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=46965440 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=46965440 target=_blank>155 comments</a>]]></description>
             <pubDate>2026-02-10T19:25:55Z</pubDate>
             <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052</guid>
             <link>https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052</link>
@@ -146,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Why Vampires Live Forever]]></title>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=46976443 target=_blank>89 comments</a>]]></description>
+            <pubDate>2026-02-11T15:50:04Z</pubDate>
+            <guid isPermaLink="false">https://machielreyneke.com/blog/vampires-longevity/</guid>
+            <link>https://machielreyneke.com/blog/vampires-longevity/</link>
+            
+            
+            
+            <author><![CDATA[machielrey]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[End of an era for me: no more self-hosted git]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=46969751 target=_blank>115 comments</a>]]></description>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=46969751 target=_blank>122 comments</a>]]></description>
             <pubDate>2026-02-11T01:50:44Z</pubDate>
             <guid isPermaLink="false">https://www.kraxel.org/blog/2026/01/thank-you-ai/</guid>
             <link>https://www.kraxel.org/blog/2026/01/thank-you-ai/</link>
@@ -163,7 +195,7 @@
         
         <item>
             <title><![CDATA[Do not apologize for replying late to my email]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=46973355 target=_blank>149 comments</a>]]></description>
+            <description><![CDATA[181 points | <a href=https://news.ycombinator.com/item?id=46973355 target=_blank>156 comments</a>]]></description>
             <pubDate>2026-02-11T10:38:55Z</pubDate>
             <guid isPermaLink="false">https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html</guid>
             <link>https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html</link>
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[validatori]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GLM-5: From Vibe Coding to Agentic Engineering]]></title>
-            <description><![CDATA[166 points | <a href=https://news.ycombinator.com/item?id=46977210 target=_blank>95 comments</a>]]></description>
-            <pubDate>2026-02-11T16:41:33Z</pubDate>
-            <guid isPermaLink="false">https://z.ai/blog/glm-5</guid>
-            <link>https://z.ai/blog/glm-5</link>
-            
-            
-            
-            <author><![CDATA[meetpateltech]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Communities are not fungible]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=46972056 target=_blank>72 comments</a>]]></description>
-            <pubDate>2026-02-11T07:42:57Z</pubDate>
-            <guid isPermaLink="false">https://www.joanwestenberg.com/communities-are-not-fungible/</guid>
-            <link>https://www.joanwestenberg.com/communities-are-not-fungible/</link>
-            
-            
-            
-            <author><![CDATA[tardibear]]></author>
             
                 
             
