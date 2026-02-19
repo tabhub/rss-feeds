@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Sizing chaos]]></title>
-            <description><![CDATA[788 points | <a href=https://news.ycombinator.com/item?id=47066552 target=_blank>411 comments</a>]]></description>
-            <pubDate>2026-02-18T21:18:20Z</pubDate>
-            <guid isPermaLink="false">https://pudding.cool/2026/02/womens-sizing/</guid>
-            <link>https://pudding.cool/2026/02/womens-sizing/</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Gemini 3.1 Pro]]></title>
             <description><![CDATA[596 points | <a href=https://news.ycombinator.com/item?id=47075318 target=_blank>8 comments</a>]]></description>
             <pubDate>2026-02-19T16:14:07Z</pubDate>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Anthropic officially bans using subscription auth for third party use]]></title>
-            <description><![CDATA[592 points | <a href=https://news.ycombinator.com/item?id=47069299 target=_blank>731 comments</a>]]></description>
+            <description><![CDATA[595 points | <a href=https://news.ycombinator.com/item?id=47069299 target=_blank>732 comments</a>]]></description>
             <pubDate>2026-02-19T02:52:26Z</pubDate>
             <guid isPermaLink="false">https://code.claude.com/docs/en/legal-and-compliance</guid>
             <link>https://code.claude.com/docs/en/legal-and-compliance</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[AI makes you boring]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=47076966 target=_blank>261 comments</a>]]></description>
+            <description><![CDATA[465 points | <a href=https://news.ycombinator.com/item?id=47076966 target=_blank>266 comments</a>]]></description>
             <pubDate>2026-02-19T18:12:16Z</pubDate>
             <guid isPermaLink="false">https://www.marginalia.nu/log/a_132_ai_bores/</guid>
             <link>https://www.marginalia.nu/log/a_132_ai_bores/</link>
@@ -82,56 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=47067759 target=_blank>211 comments</a>]]></description>
-            <pubDate>2026-02-18T23:19:29Z</pubDate>
-            <guid isPermaLink="false">https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/</guid>
-            <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/</link>
-            
-            
-            
-            <author><![CDATA[anonymous908213]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: Micasa – track your house from the terminal]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=47075124 target=_blank>100 comments</a>]]></description>
-            <pubDate>2026-02-19T15:54:14Z</pubDate>
-            <guid isPermaLink="false">https://micasa.dev</guid>
-            <link>https://micasa.dev</link>
-            
-            
-            
-            <author><![CDATA[cpcloud]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DOGE Track]]></title>
-            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=47072967 target=_blank>175 comments</a>]]></description>
-            <pubDate>2026-02-19T12:13:39Z</pubDate>
-            <guid isPermaLink="false">https://dogetrack.info/</guid>
-            <link>https://dogetrack.info/</link>
-            
-            
-            
-            <author><![CDATA[donohoe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Gemini 3.1 Pro]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=47074735 target=_blank>569 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=47074735 target=_blank>620 comments</a>]]></description>
             <pubDate>2026-02-19T15:19:57Z</pubDate>
             <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/</guid>
             <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/</link>
@@ -146,8 +82,56 @@
         </item>
         
         <item>
+            <title><![CDATA[Show HN: Micasa – track your house from the terminal]]></title>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=47075124 target=_blank>110 comments</a>]]></description>
+            <pubDate>2026-02-19T15:54:14Z</pubDate>
+            <guid isPermaLink="false">https://micasa.dev</guid>
+            <link>https://micasa.dev</link>
+            
+            
+            
+            <author><![CDATA[cpcloud]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]]]></title>
+            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=47067759 target=_blank>214 comments</a>]]></description>
+            <pubDate>2026-02-18T23:19:29Z</pubDate>
+            <guid isPermaLink="false">https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/</guid>
+            <link>https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/</link>
+            
+            
+            
+            <author><![CDATA[anonymous908213]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DOGE Track]]></title>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=47072967 target=_blank>175 comments</a>]]></description>
+            <pubDate>2026-02-19T12:13:39Z</pubDate>
+            <guid isPermaLink="false">https://dogetrack.info/</guid>
+            <link>https://dogetrack.info/</link>
+            
+            
+            
+            <author><![CDATA[donohoe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Closing this as we are no longer pursuing Swift adoption]]></title>
-            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=47067678 target=_blank>270 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=47067678 target=_blank>271 comments</a>]]></description>
             <pubDate>2026-02-18T23:08:38Z</pubDate>
             <guid isPermaLink="false">https://github.com/LadybirdBrowser/ladybird/issues/933</guid>
             <link>https://github.com/LadybirdBrowser/ladybird/issues/933</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Paged Out Issue #8 [pdf]]]></title>
-            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=47072968 target=_blank>46 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=47072968 target=_blank>46 comments</a>]]></description>
             <pubDate>2026-02-19T12:13:44Z</pubDate>
             <guid isPermaLink="false">https://pagedout.institute/download/PagedOut_008.pdf</guid>
             <link>https://pagedout.institute/download/PagedOut_008.pdf</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Minecraft Java is switching from OpenGL to Vulkan]]></title>
-            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=47068948 target=_blank>158 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=47068948 target=_blank>159 comments</a>]]></description>
             <pubDate>2026-02-19T01:55:33Z</pubDate>
             <guid isPermaLink="false">https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/</guid>
             <link>https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[European Tech Alternatives]]></title>
-            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=47070142 target=_blank>163 comments</a>]]></description>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=47070142 target=_blank>164 comments</a>]]></description>
             <pubDate>2026-02-19T05:07:37Z</pubDate>
             <guid isPermaLink="false">https://eutechmap.com/map</guid>
             <link>https://eutechmap.com/map</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[puppion]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Pebble Production: February Update]]></title>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=47073112 target=_blank>116 comments</a>]]></description>
+            <pubDate>2026-02-19T12:36:00Z</pubDate>
+            <guid isPermaLink="false">https://repebble.com/blog/february-pebble-production-and-software-updates</guid>
+            <link>https://repebble.com/blog/february-pebble-production-and-software-updates</link>
+            
+            
+            
+            <author><![CDATA[smig0]]></author>
             
                 
             
