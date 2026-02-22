@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How I use Claude Code: Separation of planning and execution]]></title>
-            <description><![CDATA[668 points | <a href=https://news.ycombinator.com/item?id=47106686 target=_blank>417 comments</a>]]></description>
+            <description><![CDATA[687 points | <a href=https://news.ycombinator.com/item?id=47106686 target=_blank>431 comments</a>]]></description>
             <pubDate>2026-02-22T00:29:05Z</pubDate>
             <guid isPermaLink="false">https://boristane.com/blog/how-i-use-claude-code/</guid>
             <link>https://boristane.com/blog/how-i-use-claude-code/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[What not to write on your security clearance form (1988)]]></title>
-            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=47102576 target=_blank>206 comments</a>]]></description>
+            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=47102576 target=_blank>206 comments</a>]]></description>
             <pubDate>2026-02-21T17:08:12Z</pubDate>
             <guid isPermaLink="false">https://milk.com/wall-o-shame/security_clearance.html</guid>
             <link>https://milk.com/wall-o-shame/security_clearance.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Why is Claude an Electron app?]]></title>
-            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=47104973 target=_blank>392 comments</a>]]></description>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=47104973 target=_blank>393 comments</a>]]></description>
             <pubDate>2026-02-21T21:28:13Z</pubDate>
             <guid isPermaLink="false">https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</guid>
             <link>https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=47104667 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[291 points | <a href=https://news.ycombinator.com/item?id=47104667 target=_blank>67 comments</a>]]></description>
             <pubDate>2026-02-21T20:57:30Z</pubDate>
             <guid isPermaLink="false">https://github.com/xaskasdf/ntransformer</guid>
             <link>https://github.com/xaskasdf/ntransformer</link>
@@ -82,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[How Taalas “prints” LLM onto a chip?]]></title>
+            <description><![CDATA[237 points | <a href=https://news.ycombinator.com/item?id=47103661 target=_blank>116 comments</a>]]></description>
+            <pubDate>2026-02-21T19:07:20Z</pubDate>
+            <guid isPermaLink="false">https://www.anuragk.com/blog/posts/Taalas.html</guid>
+            <link>https://www.anuragk.com/blog/posts/Taalas.html</link>
+            
+            
+            
+            <author><![CDATA[beAroundHere]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Personal Statement of a CIA Analyst]]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=47102975 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[223 points | <a href=https://news.ycombinator.com/item?id=47102975 target=_blank>149 comments</a>]]></description>
             <pubDate>2026-02-21T17:49:02Z</pubDate>
             <guid isPermaLink="false">https://antipolygraph.org/statements/statement-038.shtml</guid>
             <link>https://antipolygraph.org/statements/statement-038.shtml</link>
@@ -99,7 +115,7 @@
         
         <item>
             <title><![CDATA[CXMT has been offering DDR4 chips at about half the prevailing market rate]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=47101171 target=_blank>208 comments</a>]]></description>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=47101171 target=_blank>213 comments</a>]]></description>
             <pubDate>2026-02-21T14:32:16Z</pubDate>
             <guid isPermaLink="false">https://www.koreaherald.com/article/10679206</guid>
             <link>https://www.koreaherald.com/article/10679206</link>
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How Taalas “prints” LLM onto a chip?]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=47103661 target=_blank>113 comments</a>]]></description>
-            <pubDate>2026-02-21T19:07:20Z</pubDate>
-            <guid isPermaLink="false">https://www.anuragk.com/blog/posts/Taalas.html</guid>
-            <link>https://www.anuragk.com/blog/posts/Taalas.html</link>
-            
-            
-            
-            <author><![CDATA[beAroundHere]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Parse, Don't Validate and Type-Driven Design in Rust]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=47103931 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=47103931 target=_blank>55 comments</a>]]></description>
             <pubDate>2026-02-21T19:40:06Z</pubDate>
             <guid isPermaLink="false">https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</guid>
             <link>https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[EDuke32 – Duke Nukem 3D (Open-Source)]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=47104185 target=_blank>70 comments</a>]]></description>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=47104185 target=_blank>70 comments</a>]]></description>
             <pubDate>2026-02-21T20:10:13Z</pubDate>
             <guid isPermaLink="false">https://www.eduke32.com/</guid>
             <link>https://www.eduke32.com/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Toyota’s hydrogen-powered Mirai has experienced rapid depreciation]]></title>
-            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=47103136 target=_blank>369 comments</a>]]></description>
-            <pubDate>2026-02-21T18:09:24Z</pubDate>
-            <guid isPermaLink="false">https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/</guid>
-            <link>https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/</link>
+            <title><![CDATA[Evidence of the bouba-kiki effect in naïve baby chicks]]></title>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=47105198 target=_blank>48 comments</a>]]></description>
+            <pubDate>2026-02-21T21:51:58Z</pubDate>
+            <guid isPermaLink="false">https://www.science.org/doi/10.1126/science.adq7188</guid>
+            <link>https://www.science.org/doi/10.1126/science.adq7188</link>
             
             
             
-            <author><![CDATA[iancmceachern]]></author>
+            <author><![CDATA[suddenlybananas]]></author>
             
                 
             
