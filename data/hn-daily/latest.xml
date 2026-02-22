@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[How I use Claude Code: Separation of planning and execution]]></title>
-            <description><![CDATA[638 points | <a href=https://news.ycombinator.com/item?id=47106686 target=_blank>401 comments</a>]]></description>
+            <description><![CDATA[668 points | <a href=https://news.ycombinator.com/item?id=47106686 target=_blank>417 comments</a>]]></description>
             <pubDate>2026-02-22T00:29:05Z</pubDate>
             <guid isPermaLink="false">https://boristane.com/blog/how-i-use-claude-code/</guid>
             <link>https://boristane.com/blog/how-i-use-claude-code/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[What not to write on your security clearance form (1988)]]></title>
-            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=47102576 target=_blank>204 comments</a>]]></description>
+            <description><![CDATA[458 points | <a href=https://news.ycombinator.com/item?id=47102576 target=_blank>206 comments</a>]]></description>
             <pubDate>2026-02-21T17:08:12Z</pubDate>
             <guid isPermaLink="false">https://milk.com/wall-o-shame/security_clearance.html</guid>
             <link>https://milk.com/wall-o-shame/security_clearance.html</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Why is Claude an Electron app?]]></title>
-            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=47104973 target=_blank>387 comments</a>]]></description>
+            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=47104973 target=_blank>392 comments</a>]]></description>
             <pubDate>2026-02-21T21:28:13Z</pubDate>
             <guid isPermaLink="false">https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</guid>
             <link>https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=47104667 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=47104667 target=_blank>67 comments</a>]]></description>
             <pubDate>2026-02-21T20:57:30Z</pubDate>
             <guid isPermaLink="false">https://github.com/xaskasdf/ntransformer</guid>
             <link>https://github.com/xaskasdf/ntransformer</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Personal Statement of a CIA Analyst]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=47102975 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=47102975 target=_blank>146 comments</a>]]></description>
             <pubDate>2026-02-21T17:49:02Z</pubDate>
             <guid isPermaLink="false">https://antipolygraph.org/statements/statement-038.shtml</guid>
             <link>https://antipolygraph.org/statements/statement-038.shtml</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[CXMT has been offering DDR4 chips at about half the prevailing market rate]]></title>
-            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=47101171 target=_blank>198 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=47101171 target=_blank>208 comments</a>]]></description>
             <pubDate>2026-02-21T14:32:16Z</pubDate>
             <guid isPermaLink="false">https://www.koreaherald.com/article/10679206</guid>
             <link>https://www.koreaherald.com/article/10679206</link>
@@ -114,40 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[macOS's Little-Known Command-Line Sandboxing Tool (2025)]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=47101200 target=_blank>81 comments</a>]]></description>
-            <pubDate>2026-02-21T14:34:45Z</pubDate>
-            <guid isPermaLink="false">https://igorstechnoclub.com/sandbox-exec/</guid>
-            <link>https://igorstechnoclub.com/sandbox-exec/</link>
-            
-            
-            
-            <author><![CDATA[Igor_Wiwi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Parse, Don't Validate and Type-Driven Design in Rust]]></title>
-            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=47103931 target=_blank>50 comments</a>]]></description>
-            <pubDate>2026-02-21T19:40:06Z</pubDate>
-            <guid isPermaLink="false">https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</guid>
-            <link>https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[How Taalas “prints” LLM onto a chip?]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=47103661 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=47103661 target=_blank>113 comments</a>]]></description>
             <pubDate>2026-02-21T19:07:20Z</pubDate>
             <guid isPermaLink="false">https://www.anuragk.com/blog/posts/Taalas.html</guid>
             <link>https://www.anuragk.com/blog/posts/Taalas.html</link>
@@ -162,15 +130,31 @@
         </item>
         
         <item>
-            <title><![CDATA[zclaw: personal AI assistant in under 888 KB, running on an ESP32]]></title>
-            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=47100232 target=_blank>112 comments</a>]]></description>
-            <pubDate>2026-02-21T12:37:52Z</pubDate>
-            <guid isPermaLink="false">https://github.com/tnm/zclaw</guid>
-            <link>https://github.com/tnm/zclaw</link>
+            <title><![CDATA[Parse, Don't Validate and Type-Driven Design in Rust]]></title>
+            <description><![CDATA[216 points | <a href=https://news.ycombinator.com/item?id=47103931 target=_blank>54 comments</a>]]></description>
+            <pubDate>2026-02-21T19:40:06Z</pubDate>
+            <guid isPermaLink="false">https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</guid>
+            <link>https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</link>
             
             
             
-            <author><![CDATA[tosh]]></author>
+            <author><![CDATA[todsacerdoti]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[macOS's Little-Known Command-Line Sandboxing Tool (2025)]]></title>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=47101200 target=_blank>81 comments</a>]]></description>
+            <pubDate>2026-02-21T14:34:45Z</pubDate>
+            <guid isPermaLink="false">https://igorstechnoclub.com/sandbox-exec/</guid>
+            <link>https://igorstechnoclub.com/sandbox-exec/</link>
+            
+            
+            
+            <author><![CDATA[Igor_Wiwi]]></author>
             
                 
             
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[EDuke32 – Duke Nukem 3D (Open-Source)]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=47104185 target=_blank>69 comments</a>]]></description>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=47104185 target=_blank>70 comments</a>]]></description>
             <pubDate>2026-02-21T20:10:13Z</pubDate>
             <guid isPermaLink="false">https://www.eduke32.com/</guid>
             <link>https://www.eduke32.com/</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Cloudflare outage on February 20, 2026]]></title>
-            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=47103649 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=47103649 target=_blank>118 comments</a>]]></description>
             <pubDate>2026-02-21T19:05:31Z</pubDate>
             <guid isPermaLink="false">https://blog.cloudflare.com/cloudflare-outage-february-20-2026/</guid>
             <link>https://blog.cloudflare.com/cloudflare-outage-february-20-2026/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[nomaxx117]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toyota’s hydrogen-powered Mirai has experienced rapid depreciation]]></title>
+            <description><![CDATA[157 points | <a href=https://news.ycombinator.com/item?id=47103136 target=_blank>369 comments</a>]]></description>
+            <pubDate>2026-02-21T18:09:24Z</pubDate>
+            <guid isPermaLink="false">https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/</guid>
+            <link>https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/</link>
+            
+            
+            
+            <author><![CDATA[iancmceachern]]></author>
             
                 
             
