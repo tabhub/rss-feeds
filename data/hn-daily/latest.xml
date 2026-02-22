@@ -66,22 +66,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Parse, Don't Validate and Type-Driven Design in Rust]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=47103931 target=_blank>59 comments</a>]]></description>
-            <pubDate>2026-02-21T19:40:06Z</pubDate>
-            <guid isPermaLink="false">https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</guid>
-            <link>https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</link>
-            
-            
-            
-            <author><![CDATA[todsacerdoti]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[EDuke32 – Duke Nukem 3D (Open-Source)]]></title>
             <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=47104185 target=_blank>71 comments</a>]]></description>
             <pubDate>2026-02-21T20:10:13Z</pubDate>
@@ -178,22 +162,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Inputlag.science – Repository of knowledge about input lag in gaming]]></title>
-            <description><![CDATA[99 points | <a href=https://news.ycombinator.com/item?id=47103945 target=_blank>32 comments</a>]]></description>
-            <pubDate>2026-02-21T19:41:52Z</pubDate>
-            <guid isPermaLink="false">https://inputlag.science</guid>
-            <link>https://inputlag.science</link>
-            
-            
-            
-            <author><![CDATA[akyuu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Password managers less secure than promised]]></title>
             <description><![CDATA[76 points | <a href=https://news.ycombinator.com/item?id=47105052 target=_blank>73 comments</a>]]></description>
             <pubDate>2026-02-21T21:35:33Z</pubDate>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[mono-bob]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive]]></title>
+            <description><![CDATA[76 points | <a href=https://news.ycombinator.com/item?id=47107512 target=_blank>47 comments</a>]]></description>
+            <pubDate>2026-02-22T02:29:06Z</pubDate>
+            <guid isPermaLink="false">https://github.com/Leading-AI-IO/palantir-ontology-strategy</guid>
+            <link>https://github.com/Leading-AI-IO/palantir-ontology-strategy</link>
+            
+            
+            
+            <author><![CDATA[leading-AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What Is a Database Transaction?]]></title>
+            <description><![CDATA[68 points | <a href=https://news.ycombinator.com/item?id=47110473 target=_blank>12 comments</a>]]></description>
+            <pubDate>2026-02-22T12:28:41Z</pubDate>
+            <guid isPermaLink="false">https://planetscale.com/blog/database-transactions</guid>
+            <link>https://planetscale.com/blog/database-transactions</link>
+            
+            
+            
+            <author><![CDATA[0x54MUR41]]></author>
             
                 
             
