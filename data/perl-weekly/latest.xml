@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #760]]></title>
+        <title><![CDATA[Perl Weekly #761]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Join us for TPRC 2026 in Greenville, SC!]]></title>
-            <description><![CDATA[It’s great to see the announcement for The Perl and Raku Conference 2026 (TPRC) taking shape, with registration opening and plans underway for a vibrant community gathering in Greenville, SC this June. The post reinforces the value of bringing Perl and Raku developers together for talks, workshops, and networking. A highlight on the opensource calendar that strengthens the ecosystem and connects contributors across projects.]]></description>
-            <pubDate>2026.02.13</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc-2026-gsp-announce</guid>
-            <link>https://news.perlfoundation.org/post/tprc-2026-gsp-announce</link>
+            <title><![CDATA[ANN: CPAN::MetaCurator V 1.08, Perl.Wiki V 1.40 etc]]></title>
+            <description><![CDATA[ANN: CPAN::MetaCurator V 1.08, Perl.Wiki V 1.40 etc]]></description>
+            <pubDate>2026.02.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/02/ann-cpanmetacurator-v-108-perlwiki-v-140-etc.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/02/ann-cpanmetacurator-v-108-perlwiki-v-140-etc.html</link>
             
             
             
-            <author><![CDATA[ruth_bavousett]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (215) | 2026-02-11]]></title>
-            <description><![CDATA[In This week in PSC 215, the Perl Steering Council covered a deep discussion around legal identifier name restrictions for security without reaching consensus and planning to broaden the conversation beyond p5p, tackled the challenge of an absent maintainer for the dual‑life Encode module, and decided to hold off on merging larger PRs like magic v2 and attributes v2 due to the upcoming freeze in this release cycle. These updates give a clear snapshot of ongoing governance and core maintenance decisions within the Perl project.]]></description>
-            <pubDate>2026.02.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/02/this-week-in-psc-215-2026-02-11.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/02/this-week-in-psc-215-2026-02-11.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Poplar Decisions]]></title>
-            <description><![CDATA[The post reflects on the challenge of rational decision‑making with a quirky, human‑centred anecdote, weaving in the idea that structured data models, like decision trees, can help bring objectivity to complex choices. The post’s blend of storytelling and commentary on data structures adds a thoughtful and entertaining perspective for programmers thinking about reasoning and modeling in code.]]></description>
-            <pubDate>2026.02.08</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/saif/2026/02/poplar-decisions.html</guid>
-            <link>https://blogs.perl.org/users/saif/2026/02/poplar-decisions.html</link>
+            <title><![CDATA[Treating GitHub Copilot as a Contributor]]></title>
+            <description><![CDATA[Dave Cross just posted this article explaining how to use Github co-pilot as a contributor to your project. We will give it a try next meeting, but you can already try it yourself on one of the TODO items in our list.]]></description>
+            <pubDate>2026.02.22</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2026/02/treating-github-copilot-as-a-contributor/</guid>
+            <link>https://perlhacks.com/2026/02/treating-github-copilot-as-a-contributor/</link>
             
             
             
-            <author><![CDATA[saif_ahmed]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mojo with WebSocket]]></title>
-            <description><![CDATA[A practical real‑world example of using Mojolicious’ built‑in WebSocket support to build an interactive online chat app in Perl, complete with multiple server variants and integration options like Redis or PostgreSQL. The repository showcases how easily Mojolicious can handle real‑time bidirectional communication with WebSockets, making it a solid reference for Perl developers exploring event‑driven web apps.]]></description>
-            <pubDate>2026.02.13</pubDate>
-            <guid isPermaLink="false">https://github.com/manwar/Mojo-with-WebSocket</guid>
-            <link>https://github.com/manwar/Mojo-with-WebSocket</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -82,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Coding Agents using Anthropic and z.ai - presentation at the German Perl Workshop 2026]]></title>
-            <description><![CDATA[The post previews Max's talk at the German Perl Workshop 2026, exploring how modern AI coding agents from Anthropic and z.ai can assist with Perl development, what differences exist between the models, and tips for getting them to write good code. It’s an engaging look at practical uses of agentic AI in real world programming contexts, a timely topic for anyone curious about AI‑assisted development.]]></description>
+            <title><![CDATA[Perl/Plack Middleware for Emulating An Apache HTTP Server]]></title>
+            <description><![CDATA[Keith released a couple of new Plack middleware modules that he uses as a test web server for pages that will ultimately be under Apache httpd.]]></description>
             <pubDate>2026.02.12</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2026/02/coding-agents-using-anthropic-and-zai---presentation-at-the-german-perl-workshop-2026.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2026/02/coding-agents-using-anthropic-and-zai---presentation-at-the-german-perl-workshop-2026.html</link>
+            <guid isPermaLink="false">https://www.kcaran.com/posts/perl-plack-middleware-for-emulating-an-apache-http-server.html</guid>
+            <link>https://www.kcaran.com/posts/perl-plack-middleware-for-emulating-an-apache-http-server.html</link>
             
             
             
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Beautiful Perl feature: 'local', for temporary changes to global variables]]></title>
-            <description><![CDATA[This article highlights one of Perl’s unique strengths, the local keyword, showing how it enables temporary, dynamic changes to global variables without permanent side effects. With clear examples manipulating %ENV, special Perl variables and even symbol table entries, it makes a compelling case for using local judiciously to solve real world problems that lexical scoping alone can’t.]]></description>
-            <pubDate>2026.02.15</pubDate>
-            <guid isPermaLink="false">https://dev.to/damil/beautiful-perl-feature-local-for-temporary-changes-to-global-variables-4ejk</guid>
-            <link>https://dev.to/damil/beautiful-perl-feature-local-for-temporary-changes-to-global-variables-4ejk</link>
-            
-            
-            
-            <author><![CDATA[laurent_dami]]></author>
+            <author><![CDATA[keith_carangelo]]></author>
             
                 
             
@@ -114,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2026.06 CÔD YN GYMRAEG]]></title>
-            <description><![CDATA[2026.06 CÔD YN GYMRAEG]]></description>
-            <pubDate>2026.02.09</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/02/09/2026-06-cod-yn-gymraeg/</guid>
-            <link>https://rakudoweekly.blog/2026/02/09/2026-06-cod-yn-gymraeg/</link>
+            <title><![CDATA[Websockets in Catalyst]]></title>
+            <description><![CDATA[A detailed example with explanation and use-case.]]></description>
+            <pubDate>2026.02.20</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/nerdvana/2026/02/websockets-in-catalyst.html</guid>
+            <link>https://blogs.perl.org/users/nerdvana/2026/02/websockets-in-catalyst.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[nerdvana]]></author>
             
                 
             
@@ -131,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/02/dlxxxvii-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.02.14</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/02/dlxxxviii-17-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/02/dcxxv-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2026.02.22</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -146,11 +98,11 @@
         </item>
         
         <item>
-            <title><![CDATA[WhatsApp]]></title>
-            <description><![CDATA[Do you use WhatsApp? Join the Perl Maven chat group!]]></description>
-            <pubDate>2026.02.02</pubDate>
-            <guid isPermaLink="false">https://chat.whatsapp.com/LRrkZsSRDvGLLwppyLnKHy</guid>
-            <link>https://chat.whatsapp.com/LRrkZsSRDvGLLwppyLnKHy</link>
+            <title><![CDATA[Perl Maven online: Code-reading and Open Source contribution]]></title>
+            <description><![CDATA[March 3, 2026]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
             
             
             
@@ -163,7 +115,7 @@
         
         <item>
             <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[March 11, 2025]]></description>
+            <description><![CDATA[March 11, 2026]]></description>
             
             <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
             <link>https://paris.mongueurs.net/</link>
@@ -179,10 +131,26 @@
         
         <item>
             <title><![CDATA[German Perl/Raku Workshop 2026 in Berlin]]></title>
-            <description><![CDATA[March 16-18, 2025]]></description>
+            <description><![CDATA[March 16-18, 2026]]></description>
             
             <guid isPermaLink="false">https://act.yapc.eu/gpw2026/</guid>
             <link>https://act.yapc.eu/gpw2026/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Toolchain Summit 2026]]></title>
+            <description><![CDATA[April 23-26, 2026]]></description>
+            
+            <guid isPermaLink="false">https://www.perl.com/article/announcing-the-perl-toolchain-summit-2026/</guid>
+            <link>https://www.perl.com/article/announcing-the-perl-toolchain-summit-2026/</link>
             
             
             
