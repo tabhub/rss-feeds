@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #761]]></title>
+        <title><![CDATA[Perl Weekly #762]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[ANN: CPAN::MetaCurator V 1.08, Perl.Wiki V 1.40 etc]]></title>
-            <description><![CDATA[ANN: CPAN::MetaCurator V 1.08, Perl.Wiki V 1.40 etc]]></description>
-            <pubDate>2026.02.16</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/02/ann-cpanmetacurator-v-108-perlwiki-v-140-etc.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/02/ann-cpanmetacurator-v-108-perlwiki-v-140-etc.html</link>
+            <title><![CDATA[TPRC call for presentations is open!]]></title>
+            <description><![CDATA[The Perl & Raku Foundation has opened its call for presentations for TPRC 2026, inviting submissions of 20 or 50 minute talks on topics of interest to the Perl and Raku communities. Accepted speakers will receive complimentary conference tickets, with sessions scheduled for June 26–28 in Greenville, SC—an excellent opportunity to share insights and help shape this year's technical programme.]]></description>
+            <pubDate>2026.02.27</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc-2026-call-for-sessions</guid>
+            <link>https://news.perlfoundation.org/post/tprc-2026-call-for-sessions</link>
             
             
             
-            <author><![CDATA[ron_savage]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Treating GitHub Copilot as a Contributor]]></title>
-            <description><![CDATA[Dave Cross just posted this article explaining how to use Github co-pilot as a contributor to your project. We will give it a try next meeting, but you can already try it yourself on one of the TODO items in our list.]]></description>
-            <pubDate>2026.02.22</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2026/02/treating-github-copilot-as-a-contributor/</guid>
-            <link>https://perlhacks.com/2026/02/treating-github-copilot-as-a-contributor/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[sarah_gray]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl/Plack Middleware for Emulating An Apache HTTP Server]]></title>
-            <description><![CDATA[Keith released a couple of new Plack middleware modules that he uses as a test web server for pages that will ultimately be under Apache httpd.]]></description>
-            <pubDate>2026.02.12</pubDate>
-            <guid isPermaLink="false">https://www.kcaran.com/posts/perl-plack-middleware-for-emulating-an-apache-http-server.html</guid>
-            <link>https://www.kcaran.com/posts/perl-plack-middleware-for-emulating-an-apache-http-server.html</link>
+            <title><![CDATA[Board Proposes Chris Prather (perigrin) for Membership]]></title>
+            <description><![CDATA[The Perl Foundation's board has put forward Chris Prather (perigrin) as a candidate for board membership, highlighting his decades of professional Perl experience and long‑standing community contributions. His vision emphasises strengthening the Foundation's role in uniting Perl and Raku projects, supporting maintainers, and fostering sustainable ecosystem growth.]]></description>
+            <pubDate>2026.02.23</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/board_proposes_chris_prather</guid>
+            <link>https://news.perlfoundation.org/post/board_proposes_chris_prather</link>
             
             
             
-            <author><![CDATA[keith_carangelo]]></author>
+            <author><![CDATA[ruth_bavousett]]></author>
             
                 
             
@@ -66,15 +50,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Websockets in Catalyst]]></title>
-            <description><![CDATA[A detailed example with explanation and use-case.]]></description>
-            <pubDate>2026.02.20</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/nerdvana/2026/02/websockets-in-catalyst.html</guid>
-            <link>https://blogs.perl.org/users/nerdvana/2026/02/websockets-in-catalyst.html</link>
+            <title><![CDATA[Cloud VM Performance / Price comparison 2026]]></title>
+            <description><![CDATA[This post offers a timely, data‑driven benchmark of CPU performance versus cost across 7 major cloud providers and 44 VM families, using Perl‑based tooling for reproducible results. The concise summary and practical Docker‑ready benchmark suite make it a valuable reference for developers and architects seeking real‑world insights into cloud compute value.]]></description>
+            <pubDate>2026.03.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dimitrios_kechagias/2026/03/cloud-vm-performance-price-comparison-2026.html</guid>
+            <link>https://blogs.perl.org/users/dimitrios_kechagias/2026/03/cloud-vm-performance-price-comparison-2026.html</link>
             
             
             
-            <author><![CDATA[nerdvana]]></author>
+            <author><![CDATA[dimitrios_kechagias]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Automatic cross-platform testing: part 7: 32 bit, again]]></title>
+            <description><![CDATA[David Cantrell's latest on automatic cross‑platform testing tackles the perennial challenge of running CI on 32‑bit environments using modern GitHub Actions, showing how to assemble a unified workflow across Unix‑like systems while handling 32‑bit builds. He walks through clever tricks for downloading artifacts and even building a 32‑bit Perl with 32‑bit integers for more thorough testing. It’s a practical, hands‑on guide for anyone keen to broaden test coverage beyond the usual 64‑bit platforms.]]></description>
+            <pubDate>2026.02.27</pubDate>
+            <guid isPermaLink="false">https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf</guid>
+            <link>https://dev.to/drhyde/automatic-cross-platform-testing-part-7-32-bit-again-1ipf</link>
+            
+            
+            
+            <author><![CDATA[david_cantrell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.08 Positional Adverbs]]></title>
+            <description><![CDATA[2026.08 Positional Adverbs]]></description>
+            <pubDate>2026.02.23</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/02/23/2026-08-positional-adverbs/</guid>
+            <link>https://rakudoweekly.blog/2026/02/23/2026-08-positional-adverbs/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -83,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/02/dlxxxviii-17-great-cpan-modules.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/02/dcxxv-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2026.02.22</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/02/dlxxxix-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.02.28</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -99,7 +115,7 @@
         
         <item>
             <title><![CDATA[Perl Maven online: Code-reading and Open Source contribution]]></title>
-            <description><![CDATA[March 3, 2026]]></description>
+            <description><![CDATA[March 10, 2026]]></description>
             
             <guid isPermaLink="false">https://luma.com/perl-maven</guid>
             <link>https://luma.com/perl-maven</link>
