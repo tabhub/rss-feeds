@@ -18,8 +18,24 @@
         <ttl></ttl>
         
         <item>
+            <title><![CDATA[Tony Hoare has died]]></title>
+            <description><![CDATA[569 points | <a href=https://news.ycombinator.com/item?id=47324054 target=_blank>59 comments</a>]]></description>
+            <pubDate>2026-03-10T14:50:16Z</pubDate>
+            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html</guid>
+            <link>https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html</link>
+            
+            
+            
+            <author><![CDATA[speckx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Building a Procedural Hex Map with Wave Function Collapse]]></title>
-            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=47311815 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[549 points | <a href=https://news.ycombinator.com/item?id=47311815 target=_blank>84 comments</a>]]></description>
             <pubDate>2026-03-09T17:02:22Z</pubDate>
             <guid isPermaLink="false">https://felixturner.github.io/hex-map-wfc/article/</guid>
             <link>https://felixturner.github.io/hex-map-wfc/article/</link>
@@ -35,7 +51,7 @@
         
         <item>
             <title><![CDATA[Florida judge rules red light camera tickets are unconstitutional]]></title>
-            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=47312090 target=_blank>606 comments</a>]]></description>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=47312090 target=_blank>620 comments</a>]]></description>
             <pubDate>2026-03-09T17:20:29Z</pubDate>
             <guid isPermaLink="false">https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional</guid>
             <link>https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional</link>
@@ -51,7 +67,7 @@
         
         <item>
             <title><![CDATA[OpenAI is walking away from expanding its Stargate data center with Oracle]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=47315128 target=_blank>233 comments</a>]]></description>
+            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=47315128 target=_blank>236 comments</a>]]></description>
             <pubDate>2026-03-09T20:36:43Z</pubDate>
             <guid isPermaLink="false">https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html</guid>
             <link>https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html</link>
@@ -66,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Bluesky CEO Jay Graber is stepping down]]></title>
-            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=47313884 target=_blank>349 comments</a>]]></description>
-            <pubDate>2026-03-09T19:09:03Z</pubDate>
-            <guid isPermaLink="false">https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky</guid>
-            <link>https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky</link>
-            
-            
-            
-            <author><![CDATA[minimaxir]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[No, it doesn't cost Anthropic $5k per Claude Code user]]></title>
-            <description><![CDATA[378 points | <a href=https://news.ycombinator.com/item?id=47317132 target=_blank>269 comments</a>]]></description>
+            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=47317132 target=_blank>284 comments</a>]]></description>
             <pubDate>2026-03-09T23:22:06Z</pubDate>
             <guid isPermaLink="false">https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/</guid>
             <link>https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/</link>
@@ -98,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Bluesky CEO Jay Graber is stepping down]]></title>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=47313884 target=_blank>353 comments</a>]]></description>
+            <pubDate>2026-03-09T19:09:03Z</pubDate>
+            <guid isPermaLink="false">https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky</guid>
+            <link>https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky</link>
+            
+            
+            
+            <author><![CDATA[minimaxir]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[JSLinux Now Supports x86_64]]></title>
-            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=47311484 target=_blank>116 comments</a>]]></description>
+            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=47311484 target=_blank>118 comments</a>]]></description>
             <pubDate>2026-03-09T16:43:39Z</pubDate>
             <guid isPermaLink="false">https://bellard.org/jslinux/</guid>
             <link>https://bellard.org/jslinux/</link>
@@ -114,40 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Tony Hoare has died]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=47324054 target=_blank>26 comments</a>]]></description>
-            <pubDate>2026-03-10T14:50:16Z</pubDate>
-            <guid isPermaLink="false">https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html</guid>
-            <link>https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html</link>
-            
-            
-            
-            <author><![CDATA[speckx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Two Years of Emacs Solo]]></title>
-            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=47317616 target=_blank>120 comments</a>]]></description>
-            <pubDate>2026-03-10T00:16:44Z</pubDate>
-            <guid isPermaLink="false">https://www.rahuljuliato.com/posts/emacs-solo-two-years</guid>
-            <link>https://www.rahuljuliato.com/posts/emacs-solo-two-years</link>
-            
-            
-            
-            <author><![CDATA[celadevra_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Yann LeCun's AI startup raises $1B in Europe's largest ever seed round]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=47321533 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=47321533 target=_blank>184 comments</a>]]></description>
             <pubDate>2026-03-10T10:50:30Z</pubDate>
             <guid isPermaLink="false">https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1</guid>
             <link>https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1</link>
@@ -162,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Two Years of Emacs Solo]]></title>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=47317616 target=_blank>122 comments</a>]]></description>
+            <pubDate>2026-03-10T00:16:44Z</pubDate>
+            <guid isPermaLink="false">https://www.rahuljuliato.com/posts/emacs-solo-two-years</guid>
+            <link>https://www.rahuljuliato.com/posts/emacs-solo-two-years</link>
+            
+            
+            
+            <author><![CDATA[celadevra_]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I put my whole life into a single database]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=47321233 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=47321233 target=_blank>148 comments</a>]]></description>
             <pubDate>2026-03-10T10:07:48Z</pubDate>
             <guid isPermaLink="false">https://howisfelix.today/</guid>
             <link>https://howisfelix.today/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=47320661 target=_blank>287 comments</a>]]></description>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=47320661 target=_blank>313 comments</a>]]></description>
             <pubDate>2026-03-10T08:54:53Z</pubDate>
             <guid isPermaLink="false">https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md</guid>
             <link>https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Tony Hoare has died]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=47316880 target=_blank>63 comments</a>]]></description>
-            <pubDate>2026-03-09T22:55:09Z</pubDate>
-            <guid isPermaLink="false">http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html</guid>
-            <link>http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html</link>
+            <title><![CDATA[Online age-verification tools for child safety are surveilling adults]]></title>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=47322635 target=_blank>159 comments</a>]]></description>
+            <pubDate>2026-03-10T12:55:42Z</pubDate>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html</guid>
+            <link>https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html</link>
             
             
             
-            <author><![CDATA[nextos]]></author>
+            <author><![CDATA[bilsbie]]></author>
             
                 
             
