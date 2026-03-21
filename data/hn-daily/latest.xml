@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[OpenCode – Open source AI coding agent]]></title>
-            <description><![CDATA[1148 points | <a href=https://news.ycombinator.com/item?id=47460525 target=_blank>562 comments</a>]]></description>
+            <description><![CDATA[1161 points | <a href=https://news.ycombinator.com/item?id=47460525 target=_blank>569 comments</a>]]></description>
             <pubDate>2026-03-20T21:03:52Z</pubDate>
             <guid isPermaLink="false">https://opencode.ai/</guid>
             <link>https://opencode.ai/</link>
@@ -34,40 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Our commitment to Windows quality]]></title>
-            <description><![CDATA[596 points | <a href=https://news.ycombinator.com/item?id=47459296 target=_blank>1116 comments</a>]]></description>
-            <pubDate>2026-03-20T19:16:13Z</pubDate>
-            <guid isPermaLink="false">https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</guid>
-            <link>https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</link>
-            
-            
-            
-            <author><![CDATA[hadrien01]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A Japanese glossary of chopsticks faux pas (2022)]]></title>
-            <description><![CDATA[409 points | <a href=https://news.ycombinator.com/item?id=47460452 target=_blank>329 comments</a>]]></description>
-            <pubDate>2026-03-20T20:54:57Z</pubDate>
-            <guid isPermaLink="false">https://www.nippon.com/en/japan-data/h01362/</guid>
-            <link>https://www.nippon.com/en/japan-data/h01362/</link>
-            
-            
-            
-            <author><![CDATA[cainxinth]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record]]></title>
-            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=47464818 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=47464818 target=_blank>122 comments</a>]]></description>
             <pubDate>2026-03-21T07:30:16Z</pubDate>
             <guid isPermaLink="false">https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record</guid>
             <link>https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record</link>
@@ -82,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Ghostling]]></title>
-            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=47461378 target=_blank>61 comments</a>]]></description>
-            <pubDate>2026-03-20T22:11:37Z</pubDate>
-            <guid isPermaLink="false">https://github.com/ghostty-org/ghostling</guid>
-            <link>https://github.com/ghostty-org/ghostling</link>
+            <title><![CDATA[A Japanese glossary of chopsticks faux pas (2022)]]></title>
+            <description><![CDATA[421 points | <a href=https://news.ycombinator.com/item?id=47460452 target=_blank>333 comments</a>]]></description>
+            <pubDate>2026-03-20T20:54:57Z</pubDate>
+            <guid isPermaLink="false">https://www.nippon.com/en/japan-data/h01362/</guid>
+            <link>https://www.nippon.com/en/japan-data/h01362/</link>
             
             
             
-            <author><![CDATA[bjornroberg]]></author>
+            <author><![CDATA[cainxinth]]></author>
             
                 
             
@@ -99,7 +67,7 @@
         
         <item>
             <title><![CDATA[Some things just take time]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=47467537 target=_blank>109 comments</a>]]></description>
+            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=47467537 target=_blank>117 comments</a>]]></description>
             <pubDate>2026-03-21T14:46:56Z</pubDate>
             <guid isPermaLink="false">https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</guid>
             <link>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</link>
@@ -114,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Ghostling]]></title>
+            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=47461378 target=_blank>61 comments</a>]]></description>
+            <pubDate>2026-03-20T22:11:37Z</pubDate>
+            <guid isPermaLink="false">https://github.com/ghostty-org/ghostling</guid>
+            <link>https://github.com/ghostty-org/ghostling</link>
+            
+            
+            
+            <author><![CDATA[bjornroberg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[We rewrote our Rust WASM parser in TypeScript and it got faster]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=47461094 target=_blank>179 comments</a>]]></description>
+            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=47461094 target=_blank>181 comments</a>]]></description>
             <pubDate>2026-03-20T21:48:06Z</pubDate>
             <guid isPermaLink="false">https://www.openui.com/blog/rust-wasm-parser</guid>
             <link>https://www.openui.com/blog/rust-wasm-parser</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords]]></title>
-            <description><![CDATA[212 points | <a href=https://news.ycombinator.com/item?id=47464134 target=_blank>247 comments</a>]]></description>
+            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=47464134 target=_blank>259 comments</a>]]></description>
             <pubDate>2026-03-21T05:06:11Z</pubDate>
             <guid isPermaLink="false">https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/</guid>
             <link>https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[404 Deno CEO not found]]></title>
-            <description><![CDATA[207 points | <a href=https://news.ycombinator.com/item?id=47467746 target=_blank>143 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=47467746 target=_blank>151 comments</a>]]></description>
             <pubDate>2026-03-21T15:10:54Z</pubDate>
             <guid isPermaLink="false">https://dbushell.com/2026/03/20/denos-decline-and-layoffs/</guid>
             <link>https://dbushell.com/2026/03/20/denos-decline-and-layoffs/</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[FFmpeg 101 (2024)]]></title>
-            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=47463547 target=_blank>7 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=47463547 target=_blank>7 comments</a>]]></description>
             <pubDate>2026-03-21T02:47:13Z</pubDate>
             <guid isPermaLink="false">https://blogs.igalia.com/llepage/ffmpeg-101/</guid>
             <link>https://blogs.igalia.com/llepage/ffmpeg-101/</link>
@@ -178,8 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Mayor of Paris removed parking spaces, "drastically" reduced the number of cars]]></title>
-            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=47466697 target=_blank>241 comments</a>]]></description>
+            <title><![CDATA[Mayor of Paris removed parking spaces, reduced the number of cars]]></title>
+            <description><![CDATA[178 points | <a href=https://news.ycombinator.com/item?id=47466697 target=_blank>260 comments</a>]]></description>
             <pubDate>2026-03-21T13:12:10Z</pubDate>
             <guid isPermaLink="false">https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor</guid>
             <link>https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Passengers who refuse to use headphones can now be kicked off United flights]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=47469417 target=_blank>165 comments</a>]]></description>
+            <description><![CDATA[165 points | <a href=https://news.ycombinator.com/item?id=47469417 target=_blank>187 comments</a>]]></description>
             <pubDate>2026-03-21T17:52:51Z</pubDate>
             <guid isPermaLink="false">https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries</guid>
             <link>https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[edward]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)]]></title>
+            <description><![CDATA[151 points | <a href=https://news.ycombinator.com/item?id=47462483 target=_blank>19 comments</a>]]></description>
+            <pubDate>2026-03-20T23:57:22Z</pubDate>
+            <guid isPermaLink="false">https://github.com/arnoldrobbins/LinuxByExample-2e</guid>
+            <link>https://github.com/arnoldrobbins/LinuxByExample-2e</link>
+            
+            
+            
+            <author><![CDATA[teleforce]]></author>
             
                 
             
