@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Some things just take time]]></title>
-            <description><![CDATA[776 points | <a href=https://news.ycombinator.com/item?id=47467537 target=_blank>249 comments</a>]]></description>
-            <pubDate>2026-03-21T14:46:56Z</pubDate>
-            <guid isPermaLink="false">https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</guid>
-            <link>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</link>
-            
-            
-            
-            <author><![CDATA[vaylian]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Do Not Turn Child Protection into Internet Access Control]]></title>
-            <description><![CDATA[770 points | <a href=https://news.ycombinator.com/item?id=47470991 target=_blank>402 comments</a>]]></description>
+            <description><![CDATA[773 points | <a href=https://news.ycombinator.com/item?id=47470991 target=_blank>404 comments</a>]]></description>
             <pubDate>2026-03-21T20:32:20Z</pubDate>
             <guid isPermaLink="false">https://news.dyne.org/child-protection-is-not-access-control/</guid>
             <link>https://news.dyne.org/child-protection-is-not-access-control/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Tinybox – A powerful computer for deep learning]]></title>
-            <description><![CDATA[542 points | <a href=https://news.ycombinator.com/item?id=47470773 target=_blank>315 comments</a>]]></description>
+            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=47470773 target=_blank>318 comments</a>]]></description>
             <pubDate>2026-03-21T20:08:37Z</pubDate>
             <guid isPermaLink="false">https://tinygrad.org/#tinybox</guid>
             <link>https://tinygrad.org/#tinybox</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Hormuz Minesweeper – Are you tired of winning?]]></title>
-            <description><![CDATA[493 points | <a href=https://news.ycombinator.com/item?id=47475686 target=_blank>331 comments</a>]]></description>
+            <description><![CDATA[513 points | <a href=https://news.ycombinator.com/item?id=47475686 target=_blank>341 comments</a>]]></description>
             <pubDate>2026-03-22T09:00:37Z</pubDate>
             <guid isPermaLink="false">https://hormuz.pythonic.ninja/</guid>
             <link>https://hormuz.pythonic.ninja/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[The three pillars of JavaScript bloat]]></title>
-            <description><![CDATA[403 points | <a href=https://news.ycombinator.com/item?id=47473718 target=_blank>237 comments</a>]]></description>
+            <description><![CDATA[404 points | <a href=https://news.ycombinator.com/item?id=47473718 target=_blank>238 comments</a>]]></description>
             <pubDate>2026-03-22T02:04:31Z</pubDate>
             <guid isPermaLink="false">https://43081j.com/2026/03/three-pillars-of-javascript-bloat</guid>
             <link>https://43081j.com/2026/03/three-pillars-of-javascript-bloat</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Professional video editing, right in the browser with WebGPU and WASM]]></title>
-            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=47471601 target=_blank>115 comments</a>]]></description>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=47471601 target=_blank>116 comments</a>]]></description>
             <pubDate>2026-03-21T21:27:50Z</pubDate>
             <guid isPermaLink="false">https://tooscut.app/</guid>
             <link>https://tooscut.app/</link>
@@ -131,7 +115,7 @@
         
         <item>
             <title><![CDATA[Hide macOS Tahoe's Menu Icons]]></title>
-            <description><![CDATA[246 points | <a href=https://news.ycombinator.com/item?id=47469331 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=47469331 target=_blank>102 comments</a>]]></description>
             <pubDate>2026-03-21T17:46:00Z</pubDate>
             <guid isPermaLink="false">https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/</guid>
             <link>https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Floci – A free, open-source local AWS emulator]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=47471801 target=_blank>80 comments</a>]]></description>
+            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=47471801 target=_blank>84 comments</a>]]></description>
             <pubDate>2026-03-21T21:49:15Z</pubDate>
             <guid isPermaLink="false">https://github.com/hectorvent/floci</guid>
             <link>https://github.com/hectorvent/floci</link>
@@ -162,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Grafeo – A fast, lean, embeddable graph database built in Rust]]></title>
-            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=47467567 target=_blank>85 comments</a>]]></description>
-            <pubDate>2026-03-21T14:50:18Z</pubDate>
-            <guid isPermaLink="false">https://grafeo.dev/</guid>
-            <link>https://grafeo.dev/</link>
-            
-            
-            
-            <author><![CDATA[0x1997]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=47474255 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=47474255 target=_blank>181 comments</a>]]></description>
             <pubDate>2026-03-22T03:43:51Z</pubDate>
             <guid isPermaLink="false">https://radar.cloudflare.com/domains/domain/archive.today</guid>
             <link>https://radar.cloudflare.com/domains/domain/archive.today</link>
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[Study finds no evidence cannabis helps anxiety, depression, or PTSD]]></title>
-            <description><![CDATA[214 points | <a href=https://news.ycombinator.com/item?id=47470750 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=47470750 target=_blank>213 comments</a>]]></description>
             <pubDate>2026-03-21T20:05:58Z</pubDate>
             <guid isPermaLink="false">https://www.sciencedaily.com/releases/2026/03/260319044656.htm</guid>
             <link>https://www.sciencedaily.com/releases/2026/03/260319044656.htm</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[nothrowaways]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Passengers who refuse to use headphones can now be kicked off United flights]]></title>
+            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=47469417 target=_blank>230 comments</a>]]></description>
+            <pubDate>2026-03-21T17:52:51Z</pubDate>
+            <guid isPermaLink="false">https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries</guid>
+            <link>https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries</link>
+            
+            
+            
+            <author><![CDATA[edward]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Bored of eating your own dogfood? Try smelling your own farts]]></title>
+            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=47477158 target=_blank>92 comments</a>]]></description>
+            <pubDate>2026-03-22T13:12:31Z</pubDate>
+            <guid isPermaLink="false">https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</guid>
+            <link>https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</link>
+            
+            
+            
+            <author><![CDATA[ColinWright]]></author>
             
                 
             
