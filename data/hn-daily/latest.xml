@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Hormuz Minesweeper – Are you tired of winning?]]></title>
-            <description><![CDATA[622 points | <a href=https://news.ycombinator.com/item?id=47475686 target=_blank>425 comments</a>]]></description>
+            <description><![CDATA[623 points | <a href=https://news.ycombinator.com/item?id=47475686 target=_blank>425 comments</a>]]></description>
             <pubDate>2026-03-22T09:00:37Z</pubDate>
             <guid isPermaLink="false">https://hormuz.pythonic.ninja/</guid>
             <link>https://hormuz.pythonic.ninja/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[The future of version control]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=47478401 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=47478401 target=_blank>263 comments</a>]]></description>
             <pubDate>2026-03-22T15:16:28Z</pubDate>
             <guid isPermaLink="false">https://bramcohen.com/p/manyana</guid>
             <link>https://bramcohen.com/p/manyana</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[PC Gamer recommends RSS readers in a 37mb article that just keeps downloading]]></title>
-            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=47480507 target=_blank>184 comments</a>]]></description>
+            <description><![CDATA[444 points | <a href=https://news.ycombinator.com/item?id=47480507 target=_blank>227 comments</a>]]></description>
             <pubDate>2026-03-22T18:23:40Z</pubDate>
             <guid isPermaLink="false">https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</guid>
             <link>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2]]></title>
-            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=47474255 target=_blank>267 comments</a>]]></description>
-            <pubDate>2026-03-22T03:43:51Z</pubDate>
-            <guid isPermaLink="false">https://radar.cloudflare.com/domains/domain/archive.today</guid>
-            <link>https://radar.cloudflare.com/domains/domain/archive.today</link>
-            
-            
-            
-            <author><![CDATA[winkelmann]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Project Nomad – Knowledge That Never Goes Offline]]></title>
-            <description><![CDATA[377 points | <a href=https://news.ycombinator.com/item?id=47476821 target=_blank>114 comments</a>]]></description>
+            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=47476821 target=_blank>126 comments</a>]]></description>
             <pubDate>2026-03-22T12:28:38Z</pubDate>
             <guid isPermaLink="false">https://www.projectnomad.us</guid>
             <link>https://www.projectnomad.us</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Windows native app development is a mess]]></title>
-            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=47475938 target=_blank>357 comments</a>]]></description>
+            <description><![CDATA[375 points | <a href=https://news.ycombinator.com/item?id=47475938 target=_blank>368 comments</a>]]></description>
             <pubDate>2026-03-22T09:57:31Z</pubDate>
             <guid isPermaLink="false">https://domenic.me/windows-native-dev/</guid>
             <link>https://domenic.me/windows-native-dev/</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[Flash-MoE: Running a 397B Parameter Model on a Laptop]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=47476422 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=47476422 target=_blank>110 comments</a>]]></description>
             <pubDate>2026-03-22T11:30:03Z</pubDate>
             <guid isPermaLink="false">https://github.com/danveloper/flash-moe</guid>
             <link>https://github.com/danveloper/flash-moe</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Reports of code's death are greatly exaggerated]]></title>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=47476315 target=_blank>245 comments</a>]]></description>
+            <pubDate>2026-03-22T11:09:34Z</pubDate>
+            <guid isPermaLink="false">https://stevekrouse.com/precision</guid>
+            <link>https://stevekrouse.com/precision</link>
+            
+            
+            
+            <author><![CDATA[stevekrouse]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[OpenClaw is a security nightmare dressed up as a daydream]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=47479962 target=_blank>216 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=47479962 target=_blank>222 comments</a>]]></description>
             <pubDate>2026-03-22T17:35:28Z</pubDate>
             <guid isPermaLink="false">https://composio.dev/content/openclaw-security-and-vulnerabilities</guid>
             <link>https://composio.dev/content/openclaw-security-and-vulnerabilities</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Bored of eating your own dogfood? Try smelling your own farts]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=47477158 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=47477158 target=_blank>189 comments</a>]]></description>
             <pubDate>2026-03-22T13:12:31Z</pubDate>
             <guid isPermaLink="false">https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</guid>
             <link>https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Reports of code's death are greatly exaggerated]]></title>
-            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=47476315 target=_blank>227 comments</a>]]></description>
-            <pubDate>2026-03-22T11:09:34Z</pubDate>
-            <guid isPermaLink="false">https://stevekrouse.com/precision</guid>
-            <link>https://stevekrouse.com/precision</link>
-            
-            
-            
-            <author><![CDATA[stevekrouse]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[GrapheneOS will remain usable by anyone without requiring personal information]]></title>
-            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=47482217 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=47482217 target=_blank>80 comments</a>]]></description>
             <pubDate>2026-03-22T21:14:11Z</pubDate>
             <guid isPermaLink="false">https://grapheneos.social/@GrapheneOS/116261301913660830</guid>
             <link>https://grapheneos.social/@GrapheneOS/116261301913660830</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[The gold standard of optimization: A look under the hood of RollerCoaster Tycoon]]></title>
-            <description><![CDATA[240 points | <a href=https://news.ycombinator.com/item?id=47480886 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[290 points | <a href=https://news.ycombinator.com/item?id=47480886 target=_blank>88 comments</a>]]></description>
             <pubDate>2026-03-22T19:02:43Z</pubDate>
             <guid isPermaLink="false">https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/</guid>
             <link>https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[mariuz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Why I love NixOS]]></title>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=47479751 target=_blank>166 comments</a>]]></description>
+            <pubDate>2026-03-22T17:17:06Z</pubDate>
+            <guid isPermaLink="false">https://www.birkey.co/2026-03-22-why-i-love-nixos.html</guid>
+            <link>https://www.birkey.co/2026-03-22-why-i-love-nixos.html</link>
+            
+            
+            
+            <author><![CDATA[birkey]]></author>
             
                 
             
