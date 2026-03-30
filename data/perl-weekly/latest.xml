@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #764]]></title>
+        <title><![CDATA[Perl Weekly #766]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Dancer 2.1.0 Released]]></title>
-            <description><![CDATA[In this short announcement, <strong>Jason A. Crome</strong> shares the release of <strong>Dancer 2.10</strong>, a new version of the popular Perl web framework Dancer. The post is brief and to the point, informing the community that the new version is now available on CPAN and ready for use. It highlights the continued maintenance and progress of the framework, which has long been valued for making web development in Perl simple and enjoyable.]]></description>
-            <pubDate>2026.03.12</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/03/dancer-210-released.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2026/03/dancer-210-released.html</link>
+            <title><![CDATA[TPRF Board Announces the 2025 Annual Report]]></title>
+            <description><![CDATA[The Board is pleased to share the 2025 Annual Report from the The Perl and Raku Foundation.]]></description>
+            <pubDate>2026.03.29</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/foundation-board-releases-2025-annual-report</guid>
+            <link>https://news.perlfoundation.org/post/foundation-board-releases-2025-annual-report</link>
             
             
             
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (217) | 2026-03-09]]></title>
-            <description><![CDATA[The Perl Steering Council shares a short summary of their latest meeting and the topics currently on their radar. The meeting itself was brief, but it still covered a few important administrative and planning items related to the Perl core project. One of the main points discussed was the ongoing outreach to potential new members of the Perl core team. The council mentioned that they have contacted several people and are waiting for responses before holding a vote. Expanding or refreshing the group of contributors is an important step in keeping the Perl core development active and sustainable.]]></description>
-            <pubDate>2026.03.09</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/03/this-week-in-psc-217-2026-03-09.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/03/this-week-in-psc-217-2026-03-09.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[ruth_bavousett]]></author>
             
                 
             
@@ -50,27 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Mastering Perl Prima: A Step-by-Step Guide for Beginners]]></title>
-            <description><![CDATA[The article explains that Prima provides a rich set of widgets and tools for creating graphical interfaces such as windows, buttons, and other interactive elements. With relatively small pieces of code, developers can create a working GUI application and run it through Prima's event loop. This makes it possible to build desktop programs in Perl without relying only on command-line interfaces or web frameworks.]]></description>
-            <pubDate>2026.03.12</pubDate>
-            <guid isPermaLink="false">https://www.reiniermaliepaard.nl/prima</guid>
-            <link>https://www.reiniermaliepaard.nl/prima</link>
-            
-            
-            
-            <author><![CDATA[reinier_maliepaard]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Beautiful Perl feature : two-sided constructs, in list or in scalar context]]></title>
-            <description><![CDATA[In this article, Laurent Dami explores an interesting Perl concept: two-sided constructs that behave differently depending on list or scalar context. The post explains how certain Perl expressions can adapt their behavior based on what the surrounding code expects, which is one of the language's distinctive and powerful features.]]></description>
-            <pubDate>2026.03.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/damil/beautiful-perl-feature-two-sided-constructs-in-list-or-in-scalar-context-4fhd</guid>
-            <link>https://dev.to/damil/beautiful-perl-feature-two-sided-constructs-in-list-or-in-scalar-context-4fhd</link>
+            <title><![CDATA[Beautiful Perl feature: "heredocs", multi-line strings embedded in source code]]></title>
+            <description><![CDATA[This article on the Beautiful Perl Feature - Heredocs and MultiLine Strings provides a nice introductory overview of how to use Perl's heredoc syntax to create readable, maintainable multiline text. It provides practical examples combined with a simple explanation which allows experienced programmers and novices alike to have a fresh look at an item that has been around for many years.]]></description>
+            <pubDate>2026.03.28</pubDate>
+            <guid isPermaLink="false">https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863</guid>
+            <link>https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863</link>
             
             
             
@@ -82,11 +50,75 @@
         </item>
         
         <item>
-            <title><![CDATA[2026.10 Climbing CragCLI]]></title>
-            <description><![CDATA[2026.10 Climbing CragCLI]]></description>
-            <pubDate>2026.03.10</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/03/10/2026-10-climbing-cragcli</guid>
-            <link>https://rakudoweekly.blog/2026/03/10/2026-10-climbing-cragcli</link>
+            <title><![CDATA[Perl, the Strange Language That Built the Early Web]]></title>
+            <description><![CDATA[The unusual language that made the early web; a glimpse at the history of Perl less than truly alien to the average user; The original dynamic/interactive media for the internet; with its contribution to automation processes (primarily text); through CGI scripting - both technically and culturally; In terms of practicality or versatility; play a significant role in creating and supporting how the first wave of web interactivity was created and how it became an integral part of the early days of the world wide web.]]></description>
+            <pubDate>2026.03.29</pubDate>
+            <guid isPermaLink="false">https://linuxexpert.org/perl-the-strange-language-that-built-the-early-web/</guid>
+            <link>https://linuxexpert.org/perl-the-strange-language-that-built-the-early-web/</link>
+            
+            
+            
+            <author><![CDATA[john_coffey]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Horus, Apophis, and Sekhmet: An C/XS Identifier Stack for Perl]]></title>
+            <description><![CDATA[This post focuses on three related XS modules for efficient and high speed unique identifier creation (UUID, ULID and deterministic) and content-addressable storage in Perl. It provides a comprehensive overview of how to use these tools in conjunction with each other to create an efficient and scalable unique ID workflow. It also demonstrates how they can be used together.]]></description>
+            <pubDate>2026.03.29</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnationorg/horus-apophis-and-sekhmet-an-cxs-identifier-stack-for-perl-1ac3</guid>
+            <link>https://dev.to/lnationorg/horus-apophis-and-sekhmet-an-cxs-identifier-stack-for-perl-1ac3</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Eshu: Indentation Fixer for Eight Languages, Written in C]]></title>
+            <description><![CDATA[This article discusses a portable C-based program that formats code and will uniformly line up the indentation across eight different programming languages. It describes examples to show you how Eshu can help you make the indentation to your programming code consistent with very little effort and no extra heavy duty tools required. For Developers who choose to use other than traditional language-specific formattors, this document presents an overview of how Eshu creates a lightweight formatting solution that developers may find useful.]]></description>
+            <pubDate>2026.03.29</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnationorg/eshu-indentation-fixer-for-eight-languages-written-in-c-3fm6</guid>
+            <link>https://dev.to/lnationorg/eshu-indentation-fixer-for-eight-languages-written-in-c-3fm6</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Writing a TOON Module for Perl]]></title>
+            <description><![CDATA[The article presents TOON (Token-Oriented Object Notation) which aims to be simple for both people and LMs to construct and understand while using as few punctuation marks as possible and maintaining an easily accessible structure of data. It also discusses the reasons why TOON will be beneficial and provides a Perl implementation module for TOON with a familiar interface to those that have used JSON.pm.]]></description>
+            <pubDate>2026.03.29</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2026/03/writing-a-toon-module-for-perl/</guid>
+            <link>https://perlhacks.com/2026/03/writing-a-toon-module-for-perl/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.12 Ich bin ein Berliner]]></title>
+            <description><![CDATA[2026.12 Ich bin ein Berliner]]></description>
+            <pubDate>2026.03.23</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/03/23/2026-12-ich-bin-ein-berliner/</guid>
+            <link>https://rakudoweekly.blog/2026/03/23/2026-12-ich-bin-ein-berliner/</link>
             
             
             
@@ -99,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="">Great CPAN modules released last week</a>;<br><a href="">MetaCPAN weekly report</a>;<br><a href="">StackOverflow Perl report</a>.]]></description>
-            <pubDate>2026.03</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/03/dxciii-10-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/03/dcxxvii-metacpan-weekly-report-mailmake.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2026.03.28</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -114,11 +146,27 @@
         </item>
         
         <item>
-            <title><![CDATA[German Perl/Raku Workshop 2026 in Berlin]]></title>
-            <description><![CDATA[March 16-18, 2026]]></description>
+            <title><![CDATA[Perl Maven online: Testing in Perl - part 2]]></title>
+            <description><![CDATA[April 2, 2026]]></description>
             
-            <guid isPermaLink="false">https://act.yapc.eu/gpw2026/</guid>
-            <link>https://act.yapc.eu/gpw2026/</link>
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl Maven online: Testing in Perl - part 3]]></title>
+            <description><![CDATA[April 9, 2026]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
             
             
             
