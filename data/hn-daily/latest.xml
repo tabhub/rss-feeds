@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Axios compromised on NPM – Malicious versions drop remote access trojan]]></title>
-            <description><![CDATA[932 points | <a href=https://news.ycombinator.com/item?id=47582220 target=_blank>326 comments</a>]]></description>
+            <description><![CDATA[1047 points | <a href=https://news.ycombinator.com/item?id=47582220 target=_blank>382 comments</a>]]></description>
             <pubDate>2026-03-31T02:54:17Z</pubDate>
             <guid isPermaLink="false">https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</guid>
             <link>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[How to turn anything into a router]]></title>
-            <description><![CDATA[696 points | <a href=https://news.ycombinator.com/item?id=47574034 target=_blank>238 comments</a>]]></description>
+            <description><![CDATA[699 points | <a href=https://news.ycombinator.com/item?id=47574034 target=_blank>248 comments</a>]]></description>
             <pubDate>2026-03-30T13:28:54Z</pubDate>
             <guid isPermaLink="false">https://nbailey.ca/post/router/</guid>
             <link>https://nbailey.ca/post/router/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Do your own writing]]></title>
-            <description><![CDATA[583 points | <a href=https://news.ycombinator.com/item?id=47573519 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[605 points | <a href=https://news.ycombinator.com/item?id=47573519 target=_blank>198 comments</a>]]></description>
             <pubDate>2026-03-30T12:39:56Z</pubDate>
             <guid isPermaLink="false">https://alexhwoods.com/dont-let-ai-write-for-you/</guid>
             <link>https://alexhwoods.com/dont-let-ai-write-for-you/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Fedware: Government apps that spy harder than the apps they ban]]></title>
-            <description><![CDATA[579 points | <a href=https://news.ycombinator.com/item?id=47577761 target=_blank>208 comments</a>]]></description>
+            <description><![CDATA[586 points | <a href=https://news.ycombinator.com/item?id=47577761 target=_blank>215 comments</a>]]></description>
             <pubDate>2026-03-30T18:16:00Z</pubDate>
             <guid isPermaLink="false">https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/</guid>
             <link>https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/</link>
@@ -82,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[CodingFont: A game to help you pick a coding font]]></title>
-            <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=47575403 target=_blank>216 comments</a>]]></description>
-            <pubDate>2026-03-30T15:16:35Z</pubDate>
-            <guid isPermaLink="false">https://www.codingfont.com/</guid>
-            <link>https://www.codingfont.com/</link>
+            <title><![CDATA[Claude Code's source code has been leaked via a map file in their NPM registry]]></title>
+            <description><![CDATA[443 points | <a href=https://news.ycombinator.com/item?id=47584540 target=_blank>233 comments</a>]]></description>
+            <pubDate>2026-03-31T09:00:40Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Fried_rice/status/2038894956459290963</guid>
+            <link>https://twitter.com/Fried_rice/status/2038894956459290963</link>
             
             
             
-            <author><![CDATA[nvahalik]]></author>
+            <author><![CDATA[treexs]]></author>
             
                 
             
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Artemis II is not safe to fly]]></title>
-            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=47582043 target=_blank>248 comments</a>]]></description>
+            <description><![CDATA[442 points | <a href=https://news.ycombinator.com/item?id=47582043 target=_blank>274 comments</a>]]></description>
             <pubDate>2026-03-31T02:23:50Z</pubDate>
             <guid isPermaLink="false">https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm</guid>
             <link>https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[CodingFont: A game to help you pick a coding font]]></title>
+            <description><![CDATA[436 points | <a href=https://news.ycombinator.com/item?id=47575403 target=_blank>219 comments</a>]]></description>
+            <pubDate>2026-03-30T15:16:35Z</pubDate>
+            <guid isPermaLink="false">https://www.codingfont.com/</guid>
+            <link>https://www.codingfont.com/</link>
+            
+            
+            
+            <author><![CDATA[nvahalik]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How the AI Bubble Bursts]]></title>
-            <description><![CDATA[363 points | <a href=https://news.ycombinator.com/item?id=47573420 target=_blank>492 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=47573420 target=_blank>497 comments</a>]]></description>
             <pubDate>2026-03-30T12:28:36Z</pubDate>
             <guid isPermaLink="false">https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/</guid>
             <link>https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/</link>
@@ -130,8 +146,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview]]></title>
+            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=47582482 target=_blank>172 comments</a>]]></description>
+            <pubDate>2026-03-31T03:40:45Z</pubDate>
+            <guid isPermaLink="false">https://ollama.com/blog/mlx</guid>
+            <link>https://ollama.com/blog/mlx</link>
+            
+            
+            
+            <author><![CDATA[redundantly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Universal Claude.md – cut Claude output tokens]]></title>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=47581701 target=_blank>127 comments</a>]]></description>
+            <pubDate>2026-03-31T01:23:34Z</pubDate>
+            <guid isPermaLink="false">https://github.com/drona23/claude-token-efficient</guid>
+            <link>https://github.com/drona23/claude-token-efficient</link>
+            
+            
+            
+            <author><![CDATA[killme2008]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot]]></title>
-            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=47575212 target=_blank>10 comments</a>]]></description>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=47575212 target=_blank>10 comments</a>]]></description>
             <pubDate>2026-03-30T15:00:28Z</pubDate>
             <guid isPermaLink="false">https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/</guid>
             <link>https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/</link>
@@ -147,7 +195,7 @@
         
         <item>
             <title><![CDATA[Turning a MacBook into a touchscreen with $1 of hardware (2018)]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=47578572 target=_blank>168 comments</a>]]></description>
+            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=47578572 target=_blank>176 comments</a>]]></description>
             <pubDate>2026-03-30T19:22:33Z</pubDate>
             <guid isPermaLink="false">https://anishathalye.com/macbook-touchscreen/</guid>
             <link>https://anishathalye.com/macbook-touchscreen/</link>
@@ -155,54 +203,6 @@
             
             
             <author><![CDATA[HughParry]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Universal Claude.md – cut Claude output tokens]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=47581701 target=_blank>124 comments</a>]]></description>
-            <pubDate>2026-03-31T01:23:34Z</pubDate>
-            <guid isPermaLink="false">https://github.com/drona23/claude-token-efficient</guid>
-            <link>https://github.com/drona23/claude-token-efficient</link>
-            
-            
-            
-            <author><![CDATA[killme2008]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=47582482 target=_blank>156 comments</a>]]></description>
-            <pubDate>2026-03-31T03:40:45Z</pubDate>
-            <guid isPermaLink="false">https://ollama.com/blog/mlx</guid>
-            <link>https://ollama.com/blog/mlx</link>
-            
-            
-            
-            <author><![CDATA[redundantly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Bird brains (2023)]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=47573887 target=_blank>203 comments</a>]]></description>
-            <pubDate>2026-03-30T13:14:27Z</pubDate>
-            <guid isPermaLink="false">https://www.dhanishsemar.com/writing/bird-brains</guid>
-            <link>https://www.dhanishsemar.com/writing/bird-brains</link>
-            
-            
-            
-            <author><![CDATA[DiffTheEnder]]></author>
             
                 
             
