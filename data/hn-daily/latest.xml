@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Claude Code's source code has been leaked via a map file in their NPM registry]]></title>
-            <description><![CDATA[1818 points | <a href=https://news.ycombinator.com/item?id=47584540 target=_blank>886 comments</a>]]></description>
+            <description><![CDATA[1838 points | <a href=https://news.ycombinator.com/item?id=47584540 target=_blank>897 comments</a>]]></description>
             <pubDate>2026-03-31T09:00:40Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/Fried_rice/status/2038894956459290963</guid>
             <link>https://twitter.com/Fried_rice/status/2038894956459290963</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Axios compromised on NPM – Malicious versions drop remote access trojan]]></title>
-            <description><![CDATA[1742 points | <a href=https://news.ycombinator.com/item?id=47582220 target=_blank>706 comments</a>]]></description>
+            <description><![CDATA[1748 points | <a href=https://news.ycombinator.com/item?id=47582220 target=_blank>708 comments</a>]]></description>
             <pubDate>2026-03-31T02:54:17Z</pubDate>
             <guid isPermaLink="false">https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</guid>
             <link>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Oracle slashes 30k jobs]]></title>
-            <description><![CDATA[803 points | <a href=https://news.ycombinator.com/item?id=47587935 target=_blank>705 comments</a>]]></description>
+            <description><![CDATA[807 points | <a href=https://news.ycombinator.com/item?id=47587935 target=_blank>718 comments</a>]]></description>
             <pubDate>2026-03-31T14:30:48Z</pubDate>
             <guid isPermaLink="false">https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/</guid>
             <link>https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Artemis II is not safe to fly]]></title>
-            <description><![CDATA[788 points | <a href=https://news.ycombinator.com/item?id=47582043 target=_blank>523 comments</a>]]></description>
+            <description><![CDATA[794 points | <a href=https://news.ycombinator.com/item?id=47582043 target=_blank>529 comments</a>]]></description>
             <pubDate>2026-03-31T02:23:50Z</pubDate>
             <guid isPermaLink="false">https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm</guid>
             <link>https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview]]></title>
-            <description><![CDATA[600 points | <a href=https://news.ycombinator.com/item?id=47582482 target=_blank>320 comments</a>]]></description>
+            <description><![CDATA[601 points | <a href=https://news.ycombinator.com/item?id=47582482 target=_blank>323 comments</a>]]></description>
             <pubDate>2026-03-31T03:40:45Z</pubDate>
             <guid isPermaLink="false">https://ollama.com/blog/mlx</guid>
             <link>https://ollama.com/blog/mlx</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[GitHub backs down, kills Copilot pull-request ads after backlash]]></title>
-            <description><![CDATA[548 points | <a href=https://news.ycombinator.com/item?id=47582984 target=_blank>329 comments</a>]]></description>
-            <pubDate>2026-03-31T05:11:24Z</pubDate>
-            <guid isPermaLink="false">https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</guid>
-            <link>https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</link>
-            
-            
-            
-            <author><![CDATA[_____k]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The Claude Code Source Leak: fake tools, frustration regexes, undercover mode]]></title>
-            <description><![CDATA[507 points | <a href=https://news.ycombinator.com/item?id=47586778 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[564 points | <a href=https://news.ycombinator.com/item?id=47586778 target=_blank>215 comments</a>]]></description>
             <pubDate>2026-03-31T13:04:30Z</pubDate>
             <guid isPermaLink="false">https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/</guid>
             <link>https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/</link>
@@ -123,6 +107,22 @@
             
             
             <author><![CDATA[alex000kim]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GitHub backs down, kills Copilot pull-request ads after backlash]]></title>
+            <description><![CDATA[550 points | <a href=https://news.ycombinator.com/item?id=47582984 target=_blank>331 comments</a>]]></description>
+            <pubDate>2026-03-31T05:11:24Z</pubDate>
+            <guid isPermaLink="false">https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</guid>
+            <link>https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</link>
+            
+            
+            
+            <author><![CDATA[_____k]]></author>
             
                 
             
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[Microsoft: Copilot is for entertainment purposes only]]></title>
-            <description><![CDATA[406 points | <a href=https://news.ycombinator.com/item?id=47587866 target=_blank>153 comments</a>]]></description>
+            <description><![CDATA[418 points | <a href=https://news.ycombinator.com/item?id=47587866 target=_blank>154 comments</a>]]></description>
             <pubDate>2026-03-31T14:25:37Z</pubDate>
             <guid isPermaLink="false">https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse</guid>
             <link>https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[GitHub's Historic Uptime]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=47591928 target=_blank>97 comments</a>]]></description>
+            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=47591928 target=_blank>98 comments</a>]]></description>
             <pubDate>2026-03-31T19:01:29Z</pubDate>
             <guid isPermaLink="false">https://damrnelson.github.io/github-historical-uptime/</guid>
             <link>https://damrnelson.github.io/github-historical-uptime/</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Android Developer Verification]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=47580297 target=_blank>328 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=47580297 target=_blank>328 comments</a>]]></description>
             <pubDate>2026-03-30T22:05:21Z</pubDate>
             <guid isPermaLink="false">https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html</guid>
             <link>https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html</link>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Google's 200M-parameter time-series foundation model with 16k context]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=47583045 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=47583045 target=_blank>101 comments</a>]]></description>
             <pubDate>2026-03-31T05:21:59Z</pubDate>
             <guid isPermaLink="false">https://github.com/google-research/timesfm</guid>
             <link>https://github.com/google-research/timesfm</link>
