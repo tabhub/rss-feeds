@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Claude Opus 4.7]]></title>
-            <description><![CDATA[1657 points | <a href=https://news.ycombinator.com/item?id=47793411 target=_blank>1175 comments</a>]]></description>
+            <description><![CDATA[1724 points | <a href=https://news.ycombinator.com/item?id=47793411 target=_blank>1237 comments</a>]]></description>
             <pubDate>2026-04-16T14:23:50Z</pubDate>
             <guid isPermaLink="false">https://www.anthropic.com/news/claude-opus-4-7</guid>
             <link>https://www.anthropic.com/news/claude-opus-4-7</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Qwen3.6-35B-A3B: Agentic coding power, now open to all]]></title>
-            <description><![CDATA[1022 points | <a href=https://news.ycombinator.com/item?id=47792764 target=_blank>447 comments</a>]]></description>
+            <description><![CDATA[1068 points | <a href=https://news.ycombinator.com/item?id=47792764 target=_blank>463 comments</a>]]></description>
             <pubDate>2026-04-16T13:36:27Z</pubDate>
             <guid isPermaLink="false">https://qwen.ai/blog?id=qwen3.6-35b-a3b</guid>
             <link>https://qwen.ai/blog?id=qwen3.6-35b-a3b</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Codex for almost everything]]></title>
-            <description><![CDATA[806 points | <a href=https://news.ycombinator.com/item?id=47796469 target=_blank>407 comments</a>]]></description>
+            <description><![CDATA[854 points | <a href=https://news.ycombinator.com/item?id=47796469 target=_blank>434 comments</a>]]></description>
             <pubDate>2026-04-16T17:12:19Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/codex-for-almost-everything/</guid>
             <link>https://openai.com/index/codex-for-almost-everything/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[The future of everything is lies, I guess: Where do we go from here?]]></title>
-            <description><![CDATA[587 points | <a href=https://news.ycombinator.com/item?id=47792718 target=_blank>617 comments</a>]]></description>
+            <description><![CDATA[608 points | <a href=https://news.ycombinator.com/item?id=47792718 target=_blank>635 comments</a>]]></description>
             <pubDate>2026-04-16T13:32:13Z</pubDate>
             <guid isPermaLink="false">https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</guid>
             <link>https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Cloudflare Email Service]]></title>
-            <description><![CDATA[436 points | <a href=https://news.ycombinator.com/item?id=47792593 target=_blank>198 comments</a>]]></description>
+            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=47792593 target=_blank>198 comments</a>]]></description>
             <pubDate>2026-04-16T13:21:53Z</pubDate>
             <guid isPermaLink="false">https://blog.cloudflare.com/email-for-agents/</guid>
             <link>https://blog.cloudflare.com/email-for-agents/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs]]></title>
-            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=47791871 target=_blank>278 comments</a>]]></description>
-            <pubDate>2026-04-16T12:13:30Z</pubDate>
-            <guid isPermaLink="false">https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262</guid>
-            <link>https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262</link>
-            
-            
-            
-            <author><![CDATA[zanbezi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7]]></title>
-            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=47796830 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=47796830 target=_blank>83 comments</a>]]></description>
             <pubDate>2026-04-16T17:37:20Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2026/Apr/16/qwen-beats-opus/</guid>
             <link>https://simonwillison.net/2026/Apr/16/qwen-beats-opus/</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs]]></title>
+            <description><![CDATA[385 points | <a href=https://news.ycombinator.com/item?id=47791871 target=_blank>281 comments</a>]]></description>
+            <pubDate>2026-04-16T12:13:30Z</pubDate>
+            <guid isPermaLink="false">https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262</guid>
+            <link>https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262</link>
+            
+            
+            
+            <author><![CDATA[zanbezi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Mozilla Thunderbolt]]></title>
-            <description><![CDATA[343 points | <a href=https://news.ycombinator.com/item?id=47792368 target=_blank>307 comments</a>]]></description>
+            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=47792368 target=_blank>307 comments</a>]]></description>
             <pubDate>2026-04-16T13:01:36Z</pubDate>
             <guid isPermaLink="false">https://www.thunderbolt.io/</guid>
             <link>https://www.thunderbolt.io/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[The "Passive Income" trap ate a generation of entrepreneurs]]></title>
-            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=47799120 target=_blank>193 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=47799120 target=_blank>197 comments</a>]]></description>
             <pubDate>2026-04-16T20:31:52Z</pubDate>
             <guid isPermaLink="false">https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/</guid>
             <link>https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Cloudflare's AI Platform: an inference layer designed for agents]]></title>
-            <description><![CDATA[268 points | <a href=https://news.ycombinator.com/item?id=47792538 target=_blank>60 comments</a>]]></description>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=47792538 target=_blank>67 comments</a>]]></description>
             <pubDate>2026-04-16T13:17:37Z</pubDate>
             <guid isPermaLink="false">https://blog.cloudflare.com/ai-platform/</guid>
             <link>https://blog.cloudflare.com/ai-platform/</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Codex Hacked a Samsung TV]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=47791212 target=_blank>125 comments</a>]]></description>
-            <pubDate>2026-04-16T10:44:45Z</pubDate>
-            <guid isPermaLink="false">https://blog.calif.io/p/codex-hacked-a-samsung-tv</guid>
-            <link>https://blog.calif.io/p/codex-hacked-a-samsung-tv</link>
+            <title><![CDATA[Everything we like is a psyop?]]></title>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=47800738 target=_blank>162 comments</a>]]></description>
+            <pubDate>2026-04-16T23:15:33Z</pubDate>
+            <guid isPermaLink="false">https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/</guid>
+            <link>https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/</link>
             
             
             
-            <author><![CDATA[campuscodi]]></author>
+            <author><![CDATA[evo_9]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AI cybersecurity is not proof of work]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=47791236 target=_blank>84 comments</a>]]></description>
-            <pubDate>2026-04-16T10:48:00Z</pubDate>
-            <guid isPermaLink="false">https://antirez.com/news/163</guid>
-            <link>https://antirez.com/news/163</link>
+            <title><![CDATA[Codex Hacked a Samsung TV]]></title>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=47791212 target=_blank>128 comments</a>]]></description>
+            <pubDate>2026-04-16T10:44:45Z</pubDate>
+            <guid isPermaLink="false">https://blog.calif.io/p/codex-hacked-a-samsung-tv</guid>
+            <link>https://blog.calif.io/p/codex-hacked-a-samsung-tv</link>
             
             
             
-            <author><![CDATA[surprisetalk]]></author>
+            <author><![CDATA[campuscodi]]></author>
             
                 
             
