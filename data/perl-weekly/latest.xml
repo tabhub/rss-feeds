@@ -18,22 +18,6 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Summarising a Month of Git Activity with Perl (and a Little Help from AI)]]></title>
-            <description><![CDATA[Newsletter from Dave to keep you busy and entertain.]]></description>
-            <pubDate>2026.04.12</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2026/04/summarising-a-month-of-git-activity-with-perl-and-a-little-help-from-ai/</guid>
-            <link>https://perlhacks.com/2026/04/summarising-a-month-of-git-activity-with-perl-and-a-little-help-from-ai/</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[CPAN Dependencies, static and dynamic]]></title>
             <description><![CDATA[Dependencies or prerequisites are an integral feature of the CPAN software repository. They define what other CPAN modules are required for a particular CPAN distribution to be built, tested, or ultimately to function, as well as optionally to improve or add functionality.]]></description>
             <pubDate>2026.04.11</pubDate>
