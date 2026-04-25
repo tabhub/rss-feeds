@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[I cancelled Claude: Token issues, declining quality, and poor support]]></title>
-            <description><![CDATA[910 points | <a href=https://news.ycombinator.com/item?id=47892019 target=_blank>541 comments</a>]]></description>
+            <description><![CDATA[913 points | <a href=https://news.ycombinator.com/item?id=47892019 target=_blank>548 comments</a>]]></description>
             <pubDate>2026-04-24T15:59:19Z</pubDate>
             <guid isPermaLink="false">https://nickyreinert.de/en/2026/2026-04-24-claude-critics/</guid>
             <link>https://nickyreinert.de/en/2026/2026-04-24-claude-critics/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Google plans to invest up to $40B in Anthropic]]></title>
-            <description><![CDATA[705 points | <a href=https://news.ycombinator.com/item?id=47892074 target=_blank>691 comments</a>]]></description>
+            <description><![CDATA[717 points | <a href=https://news.ycombinator.com/item?id=47892074 target=_blank>697 comments</a>]]></description>
             <pubDate>2026-04-24T16:04:41Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic</guid>
             <link>https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[New 10 GbE USB adapters are cooler, smaller, cheaper]]></title>
-            <description><![CDATA[386 points | <a href=https://news.ycombinator.com/item?id=47899053 target=_blank>219 comments</a>]]></description>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=47899053 target=_blank>230 comments</a>]]></description>
             <pubDate>2026-04-25T05:56:12Z</pubDate>
             <guid isPermaLink="false">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
             <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Firefox Has Integrated Brave's Adblock Engine]]></title>
-            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=47897891 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=47897891 target=_blank>187 comments</a>]]></description>
             <pubDate>2026-04-25T01:47:33Z</pubDate>
             <guid isPermaLink="false">https://itsfoss.com/news/firefox-ships-brave-adblock-engine/</guid>
             <link>https://itsfoss.com/news/firefox-ships-brave-adblock-engine/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[There Will Be a Scientific Theory of Deep Learning]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=47893779 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=47893779 target=_blank>142 comments</a>]]></description>
             <pubDate>2026-04-24T18:06:05Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2604.21691</guid>
             <link>https://arxiv.org/abs/2604.21691</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[My audio interface has SSH enabled by default]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=47894747 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=47894747 target=_blank>86 comments</a>]]></description>
             <pubDate>2026-04-24T19:30:46Z</pubDate>
             <guid isPermaLink="false">https://hhh.hn/rodecaster-duo-fw/</guid>
             <link>https://hhh.hn/rodecaster-duo-fw/</link>
@@ -130,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Replace IBM Quantum back end with /dev/urandom]]></title>
+            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=47897647 target=_blank>37 comments</a>]]></description>
+            <pubDate>2026-04-25T00:58:38Z</pubDate>
+            <guid isPermaLink="false">https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</guid>
+            <link>https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</link>
+            
+            
+            
+            <author><![CDATA[pigeons]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=47894000 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=47894000 target=_blank>145 comments</a>]]></description>
             <pubDate>2026-04-24T18:23:32Z</pubDate>
             <guid isPermaLink="false">https://developers.openai.com/api/docs/changelog</guid>
             <link>https://developers.openai.com/api/docs/changelog</link>
@@ -162,22 +178,6 @@
         </item>
         
         <item>
-            <title><![CDATA[Replace IBM Quantum back end with /dev/urandom]]></title>
-            <description><![CDATA[247 points | <a href=https://news.ycombinator.com/item?id=47897647 target=_blank>37 comments</a>]]></description>
-            <pubDate>2026-04-25T00:58:38Z</pubDate>
-            <guid isPermaLink="false">https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</guid>
-            <link>https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</link>
-            
-            
-            
-            <author><![CDATA[pigeons]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Google to invest up to $40B in Anthropic in cash and compute]]></title>
             <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=47895080 target=_blank>7 comments</a>]]></description>
             <pubDate>2026-04-24T20:00:30Z</pubDate>
@@ -195,7 +195,7 @@
         
         <item>
             <title><![CDATA[Plain text has been around for decades and it’s here to stay]]></title>
-            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=47897681 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[200 points | <a href=https://news.ycombinator.com/item?id=47897681 target=_blank>89 comments</a>]]></description>
             <pubDate>2026-04-25T01:03:09Z</pubDate>
             <guid isPermaLink="false">https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/</guid>
             <link>https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/</link>
