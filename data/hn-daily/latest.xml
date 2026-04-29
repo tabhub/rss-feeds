@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Zed 1.0]]></title>
-            <description><![CDATA[1227 points | <a href=https://news.ycombinator.com/item?id=47949027 target=_blank>399 comments</a>]]></description>
+            <description><![CDATA[1325 points | <a href=https://news.ycombinator.com/item?id=47949027 target=_blank>420 comments</a>]]></description>
             <pubDate>2026-04-29T14:34:19Z</pubDate>
             <guid isPermaLink="false">https://zed.dev/blog/zed-1-0</guid>
             <link>https://zed.dev/blog/zed-1-0</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Before GitHub]]></title>
-            <description><![CDATA[638 points | <a href=https://news.ycombinator.com/item?id=47940921 target=_blank>210 comments</a>]]></description>
-            <pubDate>2026-04-28T21:17:40Z</pubDate>
-            <guid isPermaLink="false">https://lucumr.pocoo.org/2026/4/28/before-github/</guid>
-            <link>https://lucumr.pocoo.org/2026/4/28/before-github/</link>
-            
-            
-            
-            <author><![CDATA[mlex]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[HERMES.md: Anthropic bug causes $200 extra charge, refuses refund]]></title>
-            <description><![CDATA[637 points | <a href=https://news.ycombinator.com/item?id=47952722 target=_blank>243 comments</a>]]></description>
+            <title><![CDATA[HERMES.md in commit messages causes requests to route to extra usage billing]]></title>
+            <description><![CDATA[840 points | <a href=https://news.ycombinator.com/item?id=47952722 target=_blank>327 comments</a>]]></description>
             <pubDate>2026-04-29T18:54:31Z</pubDate>
             <guid isPermaLink="false">https://github.com/anthropics/claude-code/issues/53262</guid>
             <link>https://github.com/anthropics/claude-code/issues/53262</link>
@@ -66,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Before GitHub]]></title>
+            <description><![CDATA[645 points | <a href=https://news.ycombinator.com/item?id=47940921 target=_blank>214 comments</a>]]></description>
+            <pubDate>2026-04-28T21:17:40Z</pubDate>
+            <guid isPermaLink="false">https://lucumr.pocoo.org/2026/4/28/before-github/</guid>
+            <link>https://lucumr.pocoo.org/2026/4/28/before-github/</link>
+            
+            
+            
+            <author><![CDATA[mlex]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Bugs Rust won't catch]]></title>
-            <description><![CDATA[600 points | <a href=https://news.ycombinator.com/item?id=47943499 target=_blank>327 comments</a>]]></description>
+            <description><![CDATA[614 points | <a href=https://news.ycombinator.com/item?id=47943499 target=_blank>332 comments</a>]]></description>
             <pubDate>2026-04-29T02:19:11Z</pubDate>
             <guid isPermaLink="false">https://corrode.dev/blog/bugs-rust-wont-catch/</guid>
             <link>https://corrode.dev/blog/bugs-rust-wont-catch/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Online age verification is the hill to die on]]></title>
-            <description><![CDATA[545 points | <a href=https://news.ycombinator.com/item?id=47950091 target=_blank>357 comments</a>]]></description>
+            <description><![CDATA[613 points | <a href=https://news.ycombinator.com/item?id=47950091 target=_blank>401 comments</a>]]></description>
             <pubDate>2026-04-29T15:49:57Z</pubDate>
             <guid isPermaLink="false">https://x.com/GlennMeder/status/2049088498163216560</guid>
             <link>https://x.com/GlennMeder/status/2049088498163216560</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Soft launch of open-source code platform for government]]></title>
-            <description><![CDATA[486 points | <a href=https://news.ycombinator.com/item?id=47945918 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[497 points | <a href=https://news.ycombinator.com/item?id=47945918 target=_blank>115 comments</a>]]></description>
             <pubDate>2026-04-29T09:14:37Z</pubDate>
             <guid isPermaLink="false">https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</guid>
             <link>https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How ChatGPT serves ads]]></title>
-            <description><![CDATA[480 points | <a href=https://news.ycombinator.com/item?id=47942437 target=_blank>335 comments</a>]]></description>
-            <pubDate>2026-04-28T23:54:14Z</pubDate>
-            <guid isPermaLink="false">https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</guid>
-            <link>https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</link>
-            
-            
-            
-            <author><![CDATA[lmbbuchodi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[We need a federation of forges]]></title>
-            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=47948603 target=_blank>293 comments</a>]]></description>
+            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=47948603 target=_blank>313 comments</a>]]></description>
             <pubDate>2026-04-29T14:00:59Z</pubDate>
             <guid isPermaLink="false">https://blog.tangled.org/federation/</guid>
             <link>https://blog.tangled.org/federation/</link>
@@ -146,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[HashiCorp co-founder says GitHub 'no longer a place for serious work']]></title>
-            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=47946958 target=_blank>221 comments</a>]]></description>
-            <pubDate>2026-04-29T11:42:46Z</pubDate>
-            <guid isPermaLink="false">https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</guid>
-            <link>https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</link>
+            <title><![CDATA[How ChatGPT serves ads]]></title>
+            <description><![CDATA[484 points | <a href=https://news.ycombinator.com/item?id=47942437 target=_blank>341 comments</a>]]></description>
+            <pubDate>2026-04-28T23:54:14Z</pubDate>
+            <guid isPermaLink="false">https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</guid>
+            <link>https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</link>
             
             
             
-            <author><![CDATA[terminalbraid]]></author>
+            <author><![CDATA[lmbbuchodi]]></author>
             
                 
             
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Cursor Camp]]></title>
-            <description><![CDATA[351 points | <a href=https://news.ycombinator.com/item?id=47949939 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[436 points | <a href=https://news.ycombinator.com/item?id=47949939 target=_blank>79 comments</a>]]></description>
             <pubDate>2026-04-29T15:39:43Z</pubDate>
             <guid isPermaLink="false">https://neal.fun/cursor-camp/</guid>
             <link>https://neal.fun/cursor-camp/</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[HashiCorp co-founder says GitHub 'no longer a place for serious work']]></title>
+            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=47946958 target=_blank>221 comments</a>]]></description>
+            <pubDate>2026-04-29T11:42:46Z</pubDate>
+            <guid isPermaLink="false">https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</guid>
+            <link>https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/</link>
+            
+            
+            
+            <author><![CDATA[terminalbraid]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Mistral Medium 3.5]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=47949642 target=_blank>177 comments</a>]]></description>
+            <description><![CDATA[371 points | <a href=https://news.ycombinator.com/item?id=47949642 target=_blank>181 comments</a>]]></description>
             <pubDate>2026-04-29T15:17:46Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</guid>
             <link>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Why AI companies want you to be afraid of them]]></title>
-            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=47949750 target=_blank>199 comments</a>]]></description>
-            <pubDate>2026-04-29T15:26:01Z</pubDate>
-            <guid isPermaLink="false">https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them</guid>
-            <link>https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them</link>
+            <title><![CDATA[Copy Fail – CVE-2026-31431]]></title>
+            <description><![CDATA[344 points | <a href=https://news.ycombinator.com/item?id=47952181 target=_blank>170 comments</a>]]></description>
+            <pubDate>2026-04-29T18:13:53Z</pubDate>
+            <guid isPermaLink="false">https://copy.fail/</guid>
+            <link>https://copy.fail/</link>
             
             
             
-            <author><![CDATA[rolph]]></author>
+            <author><![CDATA[unsnap_biceps]]></author>
             
                 
             
