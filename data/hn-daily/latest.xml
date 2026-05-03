@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage]]></title>
-            <description><![CDATA[1238 points | <a href=https://news.ycombinator.com/item?id=47989883 target=_blank>645 comments</a>]]></description>
+            <description><![CDATA[1259 points | <a href=https://news.ycombinator.com/item?id=47989883 target=_blank>660 comments</a>]]></description>
             <pubDate>2026-05-02T19:57:26Z</pubDate>
             <guid isPermaLink="false">https://github.com/microsoft/vscode/pull/310226</guid>
             <link>https://github.com/microsoft/vscode/pull/310226</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Dav2d]]></title>
-            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=47988504 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[505 points | <a href=https://news.ycombinator.com/item?id=47988504 target=_blank>138 comments</a>]]></description>
             <pubDate>2026-05-02T17:32:29Z</pubDate>
             <guid isPermaLink="false">https://code.videolan.org/videolan/dav2d</guid>
             <link>https://code.videolan.org/videolan/dav2d</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[NetHack 5.0.0]]></title>
-            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=47988776 target=_blank>146 comments</a>]]></description>
+            <description><![CDATA[466 points | <a href=https://news.ycombinator.com/item?id=47988776 target=_blank>148 comments</a>]]></description>
             <pubDate>2026-05-02T18:03:42Z</pubDate>
             <guid isPermaLink="false">https://nethack.org/v500/release.html</guid>
             <link>https://nethack.org/v500/release.html</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[This Month in Ladybird – April 2026]]></title>
-            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=47990318 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=47990318 target=_blank>82 comments</a>]]></description>
             <pubDate>2026-05-02T20:46:30Z</pubDate>
             <guid isPermaLink="false">https://ladybird.org/newsletter/2026-04-30/</guid>
             <link>https://ladybird.org/newsletter/2026-04-30/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Do_not_track]]></title>
-            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=47988592 target=_blank>113 comments</a>]]></description>
+            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=47988592 target=_blank>114 comments</a>]]></description>
             <pubDate>2026-05-02T17:40:55Z</pubDate>
             <guid isPermaLink="false">https://donottrack.sh/</guid>
             <link>https://donottrack.sh/</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=47987256 target=_blank>172 comments</a>]]></description>
-            <pubDate>2026-05-02T15:28:13Z</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2509.00462</guid>
-            <link>https://arxiv.org/abs/2509.00462</link>
-            
-            
-            
-            <author><![CDATA[laurex]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Six Years Perfecting Maps on WatchOS]]></title>
-            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=47990606 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=47990606 target=_blank>80 comments</a>]]></description>
             <pubDate>2026-05-02T21:14:29Z</pubDate>
             <guid isPermaLink="false">https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/</guid>
             <link>https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/</link>
@@ -130,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights]]></title>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=47987256 target=_blank>174 comments</a>]]></description>
+            <pubDate>2026-05-02T15:28:13Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2509.00462</guid>
+            <link>https://arxiv.org/abs/2509.00462</link>
+            
+            
+            
+            <author><![CDATA[laurex]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=47993235 target=_blank>162 comments</a>]]></description>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=47993235 target=_blank>171 comments</a>]]></description>
             <pubDate>2026-05-03T04:05:28Z</pubDate>
             <guid isPermaLink="false">https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/</guid>
             <link>https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/</link>
@@ -162,6 +162,22 @@
         </item>
         
         <item>
+            <title><![CDATA[A couple million lines of Haskell: Production engineering at Mercury]]></title>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=47991802 target=_blank>111 comments</a>]]></description>
+            <pubDate>2026-05-03T00:01:14Z</pubDate>
+            <guid isPermaLink="false">https://blog.haskell.org/a-couple-million-lines-of-haskell/</guid>
+            <link>https://blog.haskell.org/a-couple-million-lines-of-haskell/</link>
+            
+            
+            
+            <author><![CDATA[unignorant]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Russia Poisons Wikipedia]]></title>
             <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=47986083 target=_blank>198 comments</a>]]></description>
             <pubDate>2026-05-02T13:07:50Z</pubDate>
@@ -171,22 +187,6 @@
             
             
             <author><![CDATA[exceptione]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A couple million lines of Haskell: Production engineering at Mercury]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=47991802 target=_blank>105 comments</a>]]></description>
-            <pubDate>2026-05-03T00:01:14Z</pubDate>
-            <guid isPermaLink="false">https://blog.haskell.org/a-couple-million-lines-of-haskell/</guid>
-            <link>https://blog.haskell.org/a-couple-million-lines-of-haskell/</link>
-            
-            
-            
-            <author><![CDATA[unignorant]]></author>
             
                 
             
