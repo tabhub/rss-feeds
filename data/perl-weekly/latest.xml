@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #770]]></title>
+        <title><![CDATA[Perl Weekly #771]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The London Perl and Raku Workshop 2026]]></title>
-            <description><![CDATA[Just a heads up: The next LPW is planned to be in November 2026.]]></description>
-            <pubDate>2026.04.27</pubDate>
-            <guid isPermaLink="false">https://www.londonperlworkshop.com/news#News-2026-04-27</guid>
-            <link>https://www.londonperlworkshop.com/news#News-2026-04-27</link>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.45 etc]]></title>
+            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.45 etc]]></description>
+            <pubDate>2026.04.03</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/05/announce-perlwiki-v-145-etc.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/05/announce-perlwiki-v-145-etc.html</link>
             
             
             
-            <author><![CDATA[andrew_mehta]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -34,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[PPC Summer 2026 - Call for Participation!]]></title>
-            <description><![CDATA[Brett Estrade, who is a member of the Perl Community Conference (PPC) organising committee, has released a call for participants for the Summer 2026 PPC. He notes the group's success in the areas of scientific research and community building through the use of independent Perl conferences and asks for speakers to submit proposals to present their work via the Papercall system to help keep the momentum going.]]></description>
-            <pubDate>2026.04.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/oodler_577/2026/04/ppc-summer-2026---call-for-participation.html</guid>
-            <link>https://blogs.perl.org/users/oodler_577/2026/04/ppc-summer-2026---call-for-participation.html</link>
+            <title><![CDATA[TPRC Announces Post Conference Class]]></title>
+            <description><![CDATA[Steven Lembark is presenting: Teaching AI New Tricks: Perly MCP's for Claude.]]></description>
+            <pubDate>2026.04.01</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc-post-conference-class</guid>
+            <link>https://news.perlfoundation.org/post/tprc-post-conference-class</link>
             
             
             
-            <author><![CDATA[oodler]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Who tests the tester? Me !!!]]></title>
-            <description><![CDATA[In the article, Lichtkind shows how to apply the Test::Builder::Tester module to check your own test functions for correctness. He shares real-life example of using the is_tuple() function that he has developed to aid in creating a test for the GTC project.]]></description>
+            <description><![CDATA[I was just showing the participants of the 'Testing in Perl' course how to write and test a Test::* module. It is nice to see that about the same time Lichtkind wrote an article about the same topic.]]></description>
             <pubDate>2026.04.24</pubDate>
             <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2026/04/who-tests-the-tester-me.html</guid>
             <link>https://blogs.perl.org/users/lichtkind/2026/04/who-tests-the-tester-me.html</link>
@@ -66,95 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (222) | 2026-04-25]]></title>
-            <description><![CDATA[Ihe Perl Steering Council got together at the 2026 Perl Toolchain Summit (Vienna). During this meeting, the group discussed the current status of Perl 5.44. Most blockers have been resolved and EOL workflow has been put in place. Finalisation of details for the next stable release is currently taking place.]]></description>
-            <pubDate>2026.04.25</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/04/this-week-in-psc-222-2026-04-25.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/04/this-week-in-psc-222-2026-04-25.html</link>
+            <title><![CDATA[Reading CPAN Testers Reports Using AI Agents]]></title>
+            <description><![CDATA[A very interesting and useful use of AI.]]></description>
+            <pubDate>2026.04.29</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/preaction/2026/04/reading-cpan-testers-reports-using-ai-agents.html</guid>
+            <link>https://blogs.perl.org/users/preaction/2026/04/reading-cpan-testers-reports-using-ai-agents.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Importance of Repositories in Public]]></title>
-            <description><![CDATA[In this blog post, Mikko argues that keeping project repositories publicly accessible is an important practice even when no new contributions are anticipated. Having a project public on GitHub preserves historical context, serves as an example of quality work for others, and provides a source of useful data for the open-source community.]]></description>
-            <pubDate>2026.04.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mikko_koivunalho/2026/04/importance-of-repositories-in-public.html</guid>
-            <link>https://blogs.perl.org/users/mikko_koivunalho/2026/04/importance-of-repositories-in-public.html</link>
-            
-            
-            
-            <author><![CDATA[mikko_koivunalho]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AI as a Chance - Opinion]]></title>
-            <description><![CDATA[In this article PetaMem discussed how through AI we will have access to new ways to enhance our creative processes (as opposed to replacing them), through developing a partnership with AI; allowing developers and creators alike use the technology of AI to automate repetitive processes and create opportunities for problems to be solved and new ideas developed through creative innovation.]]></description>
-            <pubDate>2026.04.23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/04/ai-as-a-chance.html</guid>
-            <link>https://blogs.perl.org/users/petamem/2026/04/ai-as-a-chance.html</link>
-            
-            
-            
-            <author><![CDATA[petamem]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Use Your Powers Only for Good, Clark]]></title>
-            <description><![CDATA[Dave dissects a really good looking SPAM email made by an AI LLM to show us all how the world will look in future with AI created outreach. Even though the spam had accurately scraped Dave's background and book titles, Dave believes that this creates the illusion of understanding but does not demonstrate the LLM has any real knowledge of either Dave's values or business model. Dave further states that this type of outreach is now cheaper and easier than ever though the deployment of AI to create large amounts of unsolicited SPAM.]]></description>
-            <pubDate>2026.04.26</pubDate>
-            <guid isPermaLink="false">https://blog.dave.org.uk/2026/04/use-your-powers-only-for-good-clark.html</guid>
-            <link>https://blog.dave.org.uk/2026/04/use-your-powers-only-for-good-clark.html</link>
-            
-            
-            
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Testing in Perl]]></title>
-            <description><![CDATA[The 'slides' with all the examples that are used in the online course.]]></description>
-            <pubDate>2026.04.27</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/perl-testing/</guid>
-            <link>https://perlmaven.com/perl-testing/</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2026.16 Selkie TUI Framework]]></title>
-            <description><![CDATA[2026.16 Selkie TUI Framework]]></description>
-            <pubDate>2026.04.21</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/04/21/2026-16-selkie-tui-framework/</guid>
-            <link>https://rakudoweekly.blog/2026/04/21/2026-16-selkie-tui-framework/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[doug_bell]]></author>
             
                 
             
@@ -163,8 +83,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/04/dxcvii-19-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.04.25</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/05/dxcviii-17-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.05.02</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -178,8 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl Maven online: Testing in Perl - part 5]]></title>
-            <description><![CDATA[April 30, 2026]]></description>
+            <title><![CDATA[Exploring Perl Modules]]></title>
+            <description><![CDATA[May 7, 2026]]></description>
             
             <guid isPermaLink="false">https://luma.com/perl-maven</guid>
             <link>https://luma.com/perl-maven</link>
