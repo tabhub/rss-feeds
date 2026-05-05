@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Google Chrome silently installs a 4 GB AI model on your device without consent]]></title>
-            <description><![CDATA[1110 points | <a href=https://news.ycombinator.com/item?id=48019219 target=_blank>764 comments</a>]]></description>
+            <description><![CDATA[1168 points | <a href=https://news.ycombinator.com/item?id=48019219 target=_blank>795 comments</a>]]></description>
             <pubDate>2026-05-05T07:34:55Z</pubDate>
             <guid isPermaLink="false">https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</guid>
             <link>https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Zig → Rust porting guide]]></title>
-            <description><![CDATA[695 points | <a href=https://news.ycombinator.com/item?id=48016880 target=_blank>513 comments</a>]]></description>
+            <description><![CDATA[697 points | <a href=https://news.ycombinator.com/item?id=48016880 target=_blank>515 comments</a>]]></description>
             <pubDate>2026-05-05T01:08:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</guid>
             <link>https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[AI didn't delete your database, you did]]></title>
-            <description><![CDATA[477 points | <a href=https://news.ycombinator.com/item?id=48022742 target=_blank>259 comments</a>]]></description>
+            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=48022742 target=_blank>264 comments</a>]]></description>
             <pubDate>2026-05-05T14:07:50Z</pubDate>
             <guid isPermaLink="false">https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</guid>
             <link>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[.de TLD offline due to DNSSEC?]]></title>
+            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=48027897 target=_blank>181 comments</a>]]></description>
+            <pubDate>2026-05-05T20:16:35Z</pubDate>
+            <guid isPermaLink="false">https://dnssec-analyzer.verisignlabs.com/nic.de</guid>
+            <link>https://dnssec-analyzer.verisignlabs.com/nic.de</link>
+            
+            
+            
+            <author><![CDATA[warpspin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Async Rust never left the MVP state]]></title>
-            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=48019163 target=_blank>220 comments</a>]]></description>
+            <description><![CDATA[417 points | <a href=https://news.ycombinator.com/item?id=48019163 target=_blank>225 comments</a>]]></description>
             <pubDate>2026-05-05T07:26:03Z</pubDate>
             <guid isPermaLink="false">https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</guid>
             <link>https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</link>
@@ -83,7 +99,7 @@
         
         <item>
             <title><![CDATA[Train Your Own LLM from Scratch]]></title>
-            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=48017948 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[416 points | <a href=https://news.ycombinator.com/item?id=48017948 target=_blank>49 comments</a>]]></description>
             <pubDate>2026-05-05T04:09:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/angelos-p/llm-from-scratch</guid>
             <link>https://github.com/angelos-p/llm-from-scratch</link>
@@ -99,7 +115,7 @@
         
         <item>
             <title><![CDATA[Accelerating Gemma 4: faster inference with multi-token prediction drafters]]></title>
-            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=48024540 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=48024540 target=_blank>178 comments</a>]]></description>
             <pubDate>2026-05-05T16:14:17Z</pubDate>
             <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</guid>
             <link>https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</link>
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[.de TLD offline due to DNSSEC?]]></title>
-            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=48027897 target=_blank>131 comments</a>]]></description>
-            <pubDate>2026-05-05T20:16:35Z</pubDate>
-            <guid isPermaLink="false">https://dnssec-analyzer.verisignlabs.com/nic.de</guid>
-            <link>https://dnssec-analyzer.verisignlabs.com/nic.de</link>
-            
-            
-            
-            <author><![CDATA[warpspin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Y Combinator's Stake in OpenAI (0.6%?)]]></title>
-            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=48016534 target=_blank>67 comments</a>]]></description>
+            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=48016534 target=_blank>67 comments</a>]]></description>
             <pubDate>2026-05-05T00:09:01Z</pubDate>
             <guid isPermaLink="false">https://daringfireball.net/2026/05/y_combinators_stake_in_openai</guid>
             <link>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</link>
@@ -146,24 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Agent Skills]]></title>
-            <description><![CDATA[361 points | <a href=https://news.ycombinator.com/item?id=48015397 target=_blank>191 comments</a>]]></description>
-            <pubDate>2026-05-04T21:40:42Z</pubDate>
-            <guid isPermaLink="false">https://addyosmani.com/blog/agent-skills/</guid>
-            <link>https://addyosmani.com/blog/agent-skills/</link>
-            
-            
-            
-            <author><![CDATA[BOOSTERHIDROGEN]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[iOS 27 is adding a 'Create a Pass' button to Apple Wallet]]></title>
-            <description><![CDATA[360 points | <a href=https://news.ycombinator.com/item?id=48021561 target=_blank>278 comments</a>]]></description>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=48021561 target=_blank>280 comments</a>]]></description>
             <pubDate>2026-05-05T12:28:28Z</pubDate>
             <guid isPermaLink="false">https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/</guid>
             <link>https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[Three Inverse Laws of AI]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=48023861 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[330 points | <a href=https://news.ycombinator.com/item?id=48023861 target=_blank>225 comments</a>]]></description>
             <pubDate>2026-05-05T15:27:18Z</pubDate>
             <guid isPermaLink="false">https://susam.net/inverse-laws-of-robotics.html</guid>
             <link>https://susam.net/inverse-laws-of-robotics.html</link>
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Empty Screenings – Finds AMC movie screenings with few or no tickets sold]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=48018066 target=_blank>257 comments</a>]]></description>
+            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=48018066 target=_blank>257 comments</a>]]></description>
             <pubDate>2026-05-05T04:33:22Z</pubDate>
             <guid isPermaLink="false">https://walzr.com/empty-screenings</guid>
             <link>https://walzr.com/empty-screenings</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[MrBuddyCasino]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The fun has been optimized out of the Internet]]></title>
+            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=48022992 target=_blank>256 comments</a>]]></description>
+            <pubDate>2026-05-05T14:29:24Z</pubDate>
+            <guid isPermaLink="false">https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/</guid>
+            <link>https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/</link>
+            
+            
+            
+            <author><![CDATA[jprs]]></author>
             
                 
             
