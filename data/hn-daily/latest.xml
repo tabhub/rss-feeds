@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Google Chrome silently installs a 4 GB AI model on your device without consent]]></title>
-            <description><![CDATA[1205 points | <a href=https://news.ycombinator.com/item?id=48019219 target=_blank>821 comments</a>]]></description>
+            <description><![CDATA[1307 points | <a href=https://news.ycombinator.com/item?id=48019219 target=_blank>881 comments</a>]]></description>
             <pubDate>2026-05-05T07:34:55Z</pubDate>
             <guid isPermaLink="false">https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</guid>
             <link>https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Zig → Rust porting guide]]></title>
-            <description><![CDATA[698 points | <a href=https://news.ycombinator.com/item?id=48016880 target=_blank>515 comments</a>]]></description>
-            <pubDate>2026-05-05T01:08:17Z</pubDate>
-            <guid isPermaLink="false">https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</guid>
-            <link>https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</link>
-            
-            
-            
-            <author><![CDATA[SergeAx]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[.de TLD offline due to DNSSEC?]]></title>
-            <description><![CDATA[488 points | <a href=https://news.ycombinator.com/item?id=48027897 target=_blank>214 comments</a>]]></description>
+            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=48027897 target=_blank>274 comments</a>]]></description>
             <pubDate>2026-05-05T20:16:35Z</pubDate>
             <guid isPermaLink="false">https://dnssec-analyzer.verisignlabs.com/nic.de</guid>
             <link>https://dnssec-analyzer.verisignlabs.com/nic.de</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[AI didn't delete your database, you did]]></title>
-            <description><![CDATA[485 points | <a href=https://news.ycombinator.com/item?id=48022742 target=_blank>266 comments</a>]]></description>
+            <description><![CDATA[501 points | <a href=https://news.ycombinator.com/item?id=48022742 target=_blank>277 comments</a>]]></description>
             <pubDate>2026-05-05T14:07:50Z</pubDate>
             <guid isPermaLink="false">https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</guid>
             <link>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Accelerating Gemma 4: faster inference with multi-token prediction drafters]]></title>
+            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=48024540 target=_blank>215 comments</a>]]></description>
+            <pubDate>2026-05-05T16:14:17Z</pubDate>
+            <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</guid>
+            <link>https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</link>
+            
+            
+            
+            <author><![CDATA[amrrs]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Async Rust never left the MVP state]]></title>
-            <description><![CDATA[421 points | <a href=https://news.ycombinator.com/item?id=48019163 target=_blank>228 comments</a>]]></description>
+            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=48019163 target=_blank>231 comments</a>]]></description>
             <pubDate>2026-05-05T07:26:03Z</pubDate>
             <guid isPermaLink="false">https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</guid>
             <link>https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Train Your Own LLM from Scratch]]></title>
-            <description><![CDATA[419 points | <a href=https://news.ycombinator.com/item?id=48017948 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[429 points | <a href=https://news.ycombinator.com/item?id=48017948 target=_blank>49 comments</a>]]></description>
             <pubDate>2026-05-05T04:09:17Z</pubDate>
             <guid isPermaLink="false">https://github.com/angelos-p/llm-from-scratch</guid>
             <link>https://github.com/angelos-p/llm-from-scratch</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Accelerating Gemma 4: faster inference with multi-token prediction drafters]]></title>
-            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=48024540 target=_blank>189 comments</a>]]></description>
-            <pubDate>2026-05-05T16:14:17Z</pubDate>
-            <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</guid>
-            <link>https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</link>
-            
-            
-            
-            <author><![CDATA[amrrs]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[iOS 27 is adding a 'Create a Pass' button to Apple Wallet]]></title>
-            <description><![CDATA[372 points | <a href=https://news.ycombinator.com/item?id=48021561 target=_blank>282 comments</a>]]></description>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=48021561 target=_blank>294 comments</a>]]></description>
             <pubDate>2026-05-05T12:28:28Z</pubDate>
             <guid isPermaLink="false">https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/</guid>
             <link>https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/</link>
@@ -146,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Y Combinator's Stake in OpenAI (0.6%?)]]></title>
-            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=48016534 target=_blank>67 comments</a>]]></description>
-            <pubDate>2026-05-05T00:09:01Z</pubDate>
-            <guid isPermaLink="false">https://daringfireball.net/2026/05/y_combinators_stake_in_openai</guid>
-            <link>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</link>
-            
-            
-            
-            <author><![CDATA[gyomu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Three Inverse Laws of AI]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=48023861 target=_blank>240 comments</a>]]></description>
+            <description><![CDATA[388 points | <a href=https://news.ycombinator.com/item?id=48023861 target=_blank>260 comments</a>]]></description>
             <pubDate>2026-05-05T15:27:18Z</pubDate>
             <guid isPermaLink="false">https://susam.net/inverse-laws-of-robotics.html</guid>
             <link>https://susam.net/inverse-laws-of-robotics.html</link>
@@ -178,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Empty Screenings – Finds AMC movie screenings with few or no tickets sold]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=48018066 target=_blank>257 comments</a>]]></description>
-            <pubDate>2026-05-05T04:33:22Z</pubDate>
-            <guid isPermaLink="false">https://walzr.com/empty-screenings</guid>
-            <link>https://walzr.com/empty-screenings</link>
+            <title><![CDATA[Computer Use is 45x more expensive than structured APIs]]></title>
+            <description><![CDATA[347 points | <a href=https://news.ycombinator.com/item?id=48024859 target=_blank>202 comments</a>]]></description>
+            <pubDate>2026-05-05T16:34:48Z</pubDate>
+            <guid isPermaLink="false">https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/</guid>
+            <link>https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/</link>
             
             
             
-            <author><![CDATA[MrBuddyCasino]]></author>
+            <author><![CDATA[palashawas]]></author>
             
                 
             
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[When everyone has AI and the company still learns nothing]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=48020063 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=48020063 target=_blank>224 comments</a>]]></description>
             <pubDate>2026-05-05T09:30:22Z</pubDate>
             <guid isPermaLink="false">https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/</guid>
             <link>https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[youngbrioche]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[IBM didn't want Microsoft to use the Tab key to move between dialog fields]]></title>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=48025687 target=_blank>186 comments</a>]]></description>
+            <pubDate>2026-05-05T17:28:18Z</pubDate>
+            <guid isPermaLink="false">https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</guid>
+            <link>https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</link>
+            
+            
+            
+            <author><![CDATA[SeenNotHeard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Empty Screenings – Finds AMC movie screenings with few or no tickets sold]]></title>
+            <description><![CDATA[315 points | <a href=https://news.ycombinator.com/item?id=48018066 target=_blank>260 comments</a>]]></description>
+            <pubDate>2026-05-05T04:33:22Z</pubDate>
+            <guid isPermaLink="false">https://walzr.com/empty-screenings</guid>
+            <link>https://walzr.com/empty-screenings</link>
+            
+            
+            
+            <author><![CDATA[MrBuddyCasino]]></author>
             
                 
             
