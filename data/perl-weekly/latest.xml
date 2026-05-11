@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #771]]></title>
+        <title><![CDATA[Perl Weekly #772]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.45 etc]]></title>
-            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.45 etc]]></description>
-            <pubDate>2026.04.03</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/05/announce-perlwiki-v-145-etc.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/05/announce-perlwiki-v-145-etc.html</link>
+            <title><![CDATA[DBIx::Class::Async - Oracle Database]]></title>
+            <description><![CDATA[This post I shared about the proof of support for Oracle in DBIx::Class::Async. It is always assuring the async operations with Oracle database.]]></description>
+            <pubDate>2026.05.01</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dbix-async-oracle/</guid>
+            <link>https://theweeklychallenge.org/blog/dbix-async-oracle/</link>
             
             
             
-            <author><![CDATA[ron_savage]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[TPRC Announces Post Conference Class]]></title>
-            <description><![CDATA[Steven Lembark is presenting: Teaching AI New Tricks: Perly MCP's for Claude.]]></description>
-            <pubDate>2026.04.01</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc-post-conference-class</guid>
-            <link>https://news.perlfoundation.org/post/tprc-post-conference-class</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Who tests the tester? Me !!!]]></title>
-            <description><![CDATA[I was just showing the participants of the 'Testing in Perl' course how to write and test a Test::* module. It is nice to see that about the same time Lichtkind wrote an article about the same topic.]]></description>
-            <pubDate>2026.04.24</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2026/04/who-tests-the-tester-me.html</guid>
-            <link>https://blogs.perl.org/users/lichtkind/2026/04/who-tests-the-tester-me.html</link>
+            <title><![CDATA[Signing CPAN Releases with SigStore]]></title>
+            <description><![CDATA[Timothy Legge describes a contemporary way of achieving security in the Perl ecosystem with the implementation of Sigstore to sign CPAN Releases. This post describes how we will transition from using traditional GPG signatures to shorter and easier to obtain certificates, while providing a clear roadmap to assist maintainers (and others) in adopting "keyless" signing and enhancing supply chain security.]]></description>
+            <pubDate>2026.05.07</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/timothy_legge/2026/05/signing-cpan-releases-with-sigstore.html</guid>
+            <link>https://blogs.perl.org/users/timothy_legge/2026/05/signing-cpan-releases-with-sigstore.html</link>
             
             
             
-            <author><![CDATA[herbert_breunung]]></author>
+            <author><![CDATA[timothy_legge]]></author>
             
                 
             
@@ -66,15 +50,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Reading CPAN Testers Reports Using AI Agents]]></title>
-            <description><![CDATA[A very interesting and useful use of AI.]]></description>
-            <pubDate>2026.04.29</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/preaction/2026/04/reading-cpan-testers-reports-using-ai-agents.html</guid>
-            <link>https://blogs.perl.org/users/preaction/2026/04/reading-cpan-testers-reports-using-ai-agents.html</link>
+            <title><![CDATA[DBIx::Class - Schema Class (Part 2)]]></title>
+            <description><![CDATA[This is part 2 of the series post about DBIx Schema Class. In this post, I shared how we can configure session on the fly and trap exception globally.]]></description>
+            <pubDate>2026.05.03</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dbic-schema-part-2/</guid>
+            <link>https://theweeklychallenge.org/blog/dbic-schema-part-2/</link>
             
             
             
-            <author><![CDATA[doug_bell]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DBIx::Class - Schema Class (Part 3)]]></title>
+            <description><![CDATA[In the third part of the series, I discussed the use of DBIx::Class::Schema::Config and how we can securely manage database credentials.]]></description>
+            <pubDate>2026.05.09</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dbic-schema-part-3/</guid>
+            <link>https://theweeklychallenge.org/blog/dbic-schema-part-3/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Beautiful Perl feature: low-precedence boolean operators 'and', 'or']]></title>
+            <description><![CDATA[The elegant usefulness of Perl's low-precedence boolean operators (and, or, not) compared to the more common high-precedence operators (&&, ||, !) is further explored by Laurent. The post shows how the low-precedence boolean operator can be used as a "control flow tool" creating readable, idiomatic code using the example of the classic "do or die" convention.]]></description>
+            <pubDate>2026.05.09</pubDate>
+            <guid isPermaLink="false">https://dev.to/damil/beautiful-perl-feature-low-precedence-boolean-operators-and-or-3900</guid>
+            <link>https://dev.to/damil/beautiful-perl-feature-low-precedence-boolean-operators-and-or-3900</link>
+            
+            
+            
+            <author><![CDATA[laurent_dami]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Explain act]]></title>
+            <description><![CDATA[In this post, I introduced the workflow automation tool, act. It gives hands-on tutorial on the subject.]]></description>
+            <pubDate>2026.05.10</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/explain-act/</guid>
+            <link>https://theweeklychallenge.org/blog/explain-act/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ideas for the CPAN Meta v3 Specification]]></title>
+            <description><![CDATA[Improvements to how developers will be able to manage their dependencies and the tools that they use for building them is the goal of several forward-thinking updates proposed by Robert Rothenberg to the CPAN Meta Spec v3. His blog post includes recommendations for enhancements to provide developers with standardised, enhanced requirements for their "develop" phase, as well as improved ways to specify what hardware or operating system a developer's distribution requires to successfully run.]]></description>
+            <pubDate>2026.05.04</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/robert_rothenberg/2026/05/ideas-for-the-cpan-meta-v3-specification.html</guid>
+            <link>https://blogs.perl.org/users/robert_rothenberg/2026/05/ideas-for-the-cpan-meta-v3-specification.html</link>
+            
+            
+            
+            <author><![CDATA[robert_rothenberg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.18 Star Wars Day]]></title>
+            <description><![CDATA[2026.18 Star Wars Day]]></description>
+            <pubDate>2026.05.04</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/05/04/2026-18-star-wars-day/</guid>
+            <link>https://rakudoweekly.blog/2026/05/04/2026-18-star-wars-day/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -83,8 +147,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/05/dxcviii-17-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.05.02</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/05/dxcix-21-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.05.09</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -98,11 +162,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Exploring Perl Modules]]></title>
-            <description><![CDATA[May 7, 2026]]></description>
+            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
+            <description><![CDATA[May 12, 2026]]></description>
             
-            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
-            <link>https://luma.com/perl-maven</link>
+            <guid isPermaLink="false">https://boston.pm.org/</guid>
+            <link>https://boston.pm.org/</link>
             
             
             
@@ -114,11 +178,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
-            <description><![CDATA[May 12, 2026]]></description>
+            <title><![CDATA[Exploring Perl Modules]]></title>
+            <description><![CDATA[May 20, 2026]]></description>
             
-            <guid isPermaLink="false">https://boston.pm.org/</guid>
-            <link>https://boston.pm.org/</link>
+            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
+            <link>https://luma.com/perl-maven</link>
             
             
             
