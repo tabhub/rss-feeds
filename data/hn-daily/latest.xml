@@ -18,8 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Postmortem: TanStack npm supply-chain compromise]]></title>
-            <description><![CDATA[656 points | <a href=https://news.ycombinator.com/item?id=48100706 target=_blank>248 comments</a>]]></description>
+            <title><![CDATA[Postmortem: TanStack NPM supply-chain compromise]]></title>
+            <description><![CDATA[773 points | <a href=https://news.ycombinator.com/item?id=48100706 target=_blank>291 comments</a>]]></description>
             <pubDate>2026-05-11T21:08:25Z</pubDate>
             <guid isPermaLink="false">https://tanstack.com/blog/npm-supply-chain-compromise-postmortem</guid>
             <link>https://tanstack.com/blog/npm-supply-chain-compromise-postmortem</link>
@@ -34,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Mythos Finds a Curl Vulnerability]]></title>
-            <description><![CDATA[631 points | <a href=https://news.ycombinator.com/item?id=48091737 target=_blank>260 comments</a>]]></description>
-            <pubDate>2026-05-11T06:39:08Z</pubDate>
-            <guid isPermaLink="false">https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</guid>
-            <link>https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</link>
-            
-            
-            
-            <author><![CDATA[TangerineDream]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ratty – A terminal emulator with inline 3D graphics]]></title>
-            <description><![CDATA[628 points | <a href=https://news.ycombinator.com/item?id=48093100 target=_blank>206 comments</a>]]></description>
+            <description><![CDATA[638 points | <a href=https://news.ycombinator.com/item?id=48093100 target=_blank>210 comments</a>]]></description>
             <pubDate>2026-05-11T10:13:04Z</pubDate>
             <guid isPermaLink="false">https://ratty-term.org/</guid>
             <link>https://ratty-term.org/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[Gmail registration now requires scanning a QR code and sending a text message]]></title>
-            <description><![CDATA[582 points | <a href=https://news.ycombinator.com/item?id=48092028 target=_blank>439 comments</a>]]></description>
+            <description><![CDATA[594 points | <a href=https://news.ycombinator.com/item?id=48092028 target=_blank>447 comments</a>]]></description>
             <pubDate>2026-05-11T07:26:54Z</pubDate>
             <guid isPermaLink="false">https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082</guid>
             <link>https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[GitLab announces workforce reduction and end of their CREDIT values]]></title>
-            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=48100500 target=_blank>409 comments</a>]]></description>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=48100500 target=_blank>473 comments</a>]]></description>
             <pubDate>2026-05-11T20:51:57Z</pubDate>
             <guid isPermaLink="false">https://about.gitlab.com/blog/gitlab-act-2/</guid>
             <link>https://about.gitlab.com/blog/gitlab-act-2/</link>
@@ -98,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[If AI writes your code, why use Python?]]></title>
+            <description><![CDATA[424 points | <a href=https://news.ycombinator.com/item?id=48100433 target=_blank>444 comments</a>]]></description>
+            <pubDate>2026-05-11T20:45:55Z</pubDate>
+            <guid isPermaLink="false">https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055</guid>
+            <link>https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055</link>
+            
+            
+            
+            <author><![CDATA[indigodaddy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Software engineering may no longer be a lifetime career]]></title>
-            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=48095550 target=_blank>651 comments</a>]]></description>
+            <description><![CDATA[422 points | <a href=https://news.ycombinator.com/item?id=48095550 target=_blank>663 comments</a>]]></description>
             <pubDate>2026-05-11T14:34:08Z</pubDate>
             <guid isPermaLink="false">https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</guid>
             <link>https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[CUDA-oxide: Nvidia's official Rust to CUDA compiler]]></title>
-            <description><![CDATA[381 points | <a href=https://news.ycombinator.com/item?id=48096692 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=48096692 target=_blank>113 comments</a>]]></description>
             <pubDate>2026-05-11T15:55:07Z</pubDate>
             <guid isPermaLink="false">https://nvlabs.github.io/cuda-oxide/index.html</guid>
             <link>https://nvlabs.github.io/cuda-oxide/index.html</link>
@@ -130,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[If AI writes your code, why use Python?]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=48100433 target=_blank>302 comments</a>]]></description>
-            <pubDate>2026-05-11T20:45:55Z</pubDate>
-            <guid isPermaLink="false">https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055</guid>
-            <link>https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055</link>
-            
-            
-            
-            <author><![CDATA[indigodaddy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=48098261 target=_blank>55 comments</a>]]></description>
+            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=48098261 target=_blank>65 comments</a>]]></description>
             <pubDate>2026-05-11T17:53:08Z</pubDate>
             <guid isPermaLink="false">https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage</guid>
             <link>https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage</link>
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Can someone please explain whether Cloudflare blackmailed Canonical?]]></title>
-            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=48098537 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[258 points | <a href=https://news.ycombinator.com/item?id=48098537 target=_blank>148 comments</a>]]></description>
             <pubDate>2026-05-11T18:12:38Z</pubDate>
             <guid isPermaLink="false">https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/</guid>
             <link>https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/</link>
@@ -179,7 +163,7 @@
         
         <item>
             <title><![CDATA[A.I. note takers are making lawyers nervous]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=48093043 target=_blank>173 comments</a>]]></description>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=48093043 target=_blank>178 comments</a>]]></description>
             <pubDate>2026-05-11T10:04:47Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html</guid>
             <link>https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html</link>
@@ -194,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Interaction Models]]></title>
+            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=48100524 target=_blank>23 comments</a>]]></description>
+            <pubDate>2026-05-11T20:53:37Z</pubDate>
+            <guid isPermaLink="false">https://thinkingmachines.ai/blog/interaction-models/</guid>
+            <link>https://thinkingmachines.ai/blog/interaction-models/</link>
+            
+            
+            
+            <author><![CDATA[smhx]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Microsoft Israel chief leaves amid ethical controversy]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=48097796 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=48097796 target=_blank>129 comments</a>]]></description>
             <pubDate>2026-05-11T17:18:11Z</pubDate>
             <guid isPermaLink="false">https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602</guid>
             <link>https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602</link>
