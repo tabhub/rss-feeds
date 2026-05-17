@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Zerostack – A Unix-inspired coding agent written in pure Rust]]></title>
-            <description><![CDATA[490 points | <a href=https://news.ycombinator.com/item?id=48164287 target=_blank>267 comments</a>]]></description>
-            <pubDate>2026-05-16T22:23:50Z</pubDate>
-            <guid isPermaLink="false">https://crates.io/crates/zerostack/1.0.0</guid>
-            <link>https://crates.io/crates/zerostack/1.0.0</link>
-            
-            
-            
-            <author><![CDATA[gidellav]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Mozilla to UK regulators: VPNs are essential privacy and security tools]]></title>
-            <description><![CDATA[459 points | <a href=https://news.ycombinator.com/item?id=48166459 target=_blank>197 comments</a>]]></description>
+            <description><![CDATA[501 points | <a href=https://news.ycombinator.com/item?id=48166459 target=_blank>223 comments</a>]]></description>
             <pubDate>2026-05-17T06:17:26Z</pubDate>
             <guid isPermaLink="false">https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/</guid>
             <link>https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Zerostack – A Unix-inspired coding agent written in pure Rust]]></title>
+            <description><![CDATA[498 points | <a href=https://news.ycombinator.com/item?id=48164287 target=_blank>274 comments</a>]]></description>
+            <pubDate>2026-05-16T22:23:50Z</pubDate>
+            <guid isPermaLink="false">https://crates.io/crates/zerostack/1.0.0</guid>
+            <link>https://crates.io/crates/zerostack/1.0.0</link>
+            
+            
+            
+            <author><![CDATA[gidellav]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[HTML Lists]]></title>
-            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=48161861 target=_blank>86 comments</a>]]></description>
+            <description><![CDATA[340 points | <a href=https://news.ycombinator.com/item?id=48161861 target=_blank>86 comments</a>]]></description>
             <pubDate>2026-05-16T16:58:26Z</pubDate>
             <guid isPermaLink="false">https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/</guid>
             <link>https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/</link>
@@ -66,72 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=48163392 target=_blank>300 comments</a>]]></description>
-            <pubDate>2026-05-16T20:14:06Z</pubDate>
-            <guid isPermaLink="false">https://openai.com/index/malta-chatgpt-plus-partnership/</guid>
-            <link>https://openai.com/index/malta-chatgpt-plus-partnership/</link>
-            
-            
-            
-            <author><![CDATA[bookofjoe]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[I don't think AI will make your processes go faster]]></title>
-            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=48168221 target=_blank>195 comments</a>]]></description>
-            <pubDate>2026-05-17T12:13:45Z</pubDate>
-            <guid isPermaLink="false">https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</guid>
-            <link>https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</link>
-            
-            
-            
-            <author><![CDATA[TheEdonian]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A nicer voltmeter clock]]></title>
-            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=48164432 target=_blank>31 comments</a>]]></description>
-            <pubDate>2026-05-16T22:45:16Z</pubDate>
-            <guid isPermaLink="false">https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock</guid>
-            <link>https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock</link>
-            
-            
-            
-            <author><![CDATA[surprisetalk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Native all the way, until you need text]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=48168058 target=_blank>165 comments</a>]]></description>
-            <pubDate>2026-05-17T11:49:46Z</pubDate>
-            <guid isPermaLink="false">https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/</guid>
-            <link>https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/</link>
-            
-            
-            
-            <author><![CDATA[dive]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Security researcher says Microsoft built a Bitlocker backdoor, releases exploit]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=48168856 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[335 points | <a href=https://news.ycombinator.com/item?id=48168856 target=_blank>143 comments</a>]]></description>
             <pubDate>2026-05-17T13:42:30Z</pubDate>
             <guid isPermaLink="false">https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html</guid>
             <link>https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html</link>
@@ -146,8 +82,72 @@
         </item>
         
         <item>
+            <title><![CDATA[I don't think AI will make your processes go faster]]></title>
+            <description><![CDATA[313 points | <a href=https://news.ycombinator.com/item?id=48168221 target=_blank>251 comments</a>]]></description>
+            <pubDate>2026-05-17T12:13:45Z</pubDate>
+            <guid isPermaLink="false">https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</guid>
+            <link>https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</link>
+            
+            
+            
+            <author><![CDATA[TheEdonian]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens]]></title>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=48163392 target=_blank>304 comments</a>]]></description>
+            <pubDate>2026-05-16T20:14:06Z</pubDate>
+            <guid isPermaLink="false">https://openai.com/index/malta-chatgpt-plus-partnership/</guid>
+            <link>https://openai.com/index/malta-chatgpt-plus-partnership/</link>
+            
+            
+            
+            <author><![CDATA[bookofjoe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Native all the way, until you need text]]></title>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=48168058 target=_blank>182 comments</a>]]></description>
+            <pubDate>2026-05-17T11:49:46Z</pubDate>
+            <guid isPermaLink="false">https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/</guid>
+            <link>https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/</link>
+            
+            
+            
+            <author><![CDATA[dive]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A nicer voltmeter clock]]></title>
+            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=48164432 target=_blank>34 comments</a>]]></description>
+            <pubDate>2026-05-16T22:45:16Z</pubDate>
+            <guid isPermaLink="false">https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock</guid>
+            <link>https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock</link>
+            
+            
+            
+            <author><![CDATA[surprisetalk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Every AI Subscription Is a Ticking Time Bomb for Enterprise]]></title>
-            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=48168056 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=48168056 target=_blank>236 comments</a>]]></description>
             <pubDate>2026-05-17T11:49:31Z</pubDate>
             <guid isPermaLink="false">https://www.thestateofbrand.com/news/ai-subscription-time-bomb</guid>
             <link>https://www.thestateofbrand.com/news/ai-subscription-time-bomb</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Hosting a website on an 8-bit microcontroller]]></title>
-            <description><![CDATA[189 points | <a href=https://news.ycombinator.com/item?id=48165295 target=_blank>16 comments</a>]]></description>
-            <pubDate>2026-05-17T01:25:26Z</pubDate>
-            <guid isPermaLink="false">https://maurycyz.com/projects/mcusite/</guid>
-            <link>https://maurycyz.com/projects/mcusite/</link>
-            
-            
-            
-            <author><![CDATA[zdw]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Apple Silicon costs more than OpenRouter]]></title>
-            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=48168198 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[209 points | <a href=https://news.ycombinator.com/item?id=48168198 target=_blank>172 comments</a>]]></description>
             <pubDate>2026-05-17T12:09:23Z</pubDate>
             <guid isPermaLink="false">https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html</guid>
             <link>https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html</link>
@@ -194,15 +178,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Halt and Catch Fire]]></title>
-            <description><![CDATA[177 points | <a href=https://news.ycombinator.com/item?id=48162468 target=_blank>86 comments</a>]]></description>
-            <pubDate>2026-05-16T18:16:29Z</pubDate>
-            <guid isPermaLink="false">https://unstack.io/halt-and-catch-fire</guid>
-            <link>https://unstack.io/halt-and-catch-fire</link>
+            <title><![CDATA[Hosting a website on an 8-bit microcontroller]]></title>
+            <description><![CDATA[195 points | <a href=https://news.ycombinator.com/item?id=48165295 target=_blank>17 comments</a>]]></description>
+            <pubDate>2026-05-17T01:25:26Z</pubDate>
+            <guid isPermaLink="false">https://maurycyz.com/projects/mcusite/</guid>
+            <link>https://maurycyz.com/projects/mcusite/</link>
             
             
             
-            <author><![CDATA[ScottWRobinson]]></author>
+            <author><![CDATA[zdw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WHO Declares Ebola Outbreak a Global Health Emergency]]></title>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=48168708 target=_blank>98 comments</a>]]></description>
+            <pubDate>2026-05-17T13:22:14Z</pubDate>
+            <guid isPermaLink="false">https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html</guid>
+            <link>https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html</link>
+            
+            
+            
+            <author><![CDATA[zzzeek]]></author>
             
                 
             
