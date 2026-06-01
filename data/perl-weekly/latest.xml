@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #774]]></title>
+        <title><![CDATA[Perl Weekly #775]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[TPRC is about 30 days from now!]]></title>
-            <description><![CDATA[Nearly a month from today, TPRC is happening. A quick reminder to everyone about early bird discount. If you are planning to attend TPRC then you must avail the discounts.]]></description>
-            <pubDate>2026.05.20</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc-2026-30-day-away</guid>
-            <link>https://news.perlfoundation.org/post/tprc-2026-30-day-away</link>
+            <title><![CDATA[Introducing ZuzuScript]]></title>
+            <description><![CDATA[Toby Inkster created a programming language which blends a fairly JavaScript-like syntax with fairly Perl-like semantics, and a few other features that he hasn't really seen in many programming languages.]]></description>
+            <pubDate>2026.05.31</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/toby_inkster/2026/05/introducing-zuzuscript.html</guid>
+            <link>https://blogs.perl.org/users/toby_inkster/2026/05/introducing-zuzuscript.html</link>
             
             
             
-            <author><![CDATA[sarah_gray]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (225) | 2026-05-18]]></title>
-            <description><![CDATA[Announcement of 5.43.11 dev release is the hightlight of this week update.]]></description>
-            <pubDate>2026.05.19</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/05/this-week-in-psc-225-2026-05-18.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/05/this-week-in-psc-225-2026-05-18.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[toby_inkster]]></author>
             
                 
             
@@ -50,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The Camel Cometh]]></title>
-            <description><![CDATA[Find out the story behind the support of Perl in Aspire. It is very inspiring and honest story. I wouldn't say, I understood everything but it created an interest inside me. You must checkout yourself.]]></description>
-            <pubDate>2026.05.22</pubDate>
-            <guid isPermaLink="false">https://omnideth.dev/blog/aspire-perl-integration/</guid>
-            <link>https://omnideth.dev/blog/aspire-perl-integration/</link>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.47, JSTree copy V 1.21]]></title>
+            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.47, JSTree copy V 1.21]]></description>
+            <pubDate>2026.05.31</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/05/announce-perlwiki-v-147-jstree-copy-v-121.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/05/announce-perlwiki-v-147-jstree-copy-v-121.html</link>
             
             
             
-            <author><![CDATA[omnideth]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -66,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[The Long Road from CGI to Containers]]></title>
-            <description><![CDATA[What a journey CGI had. The post reminds me some of my past encounters with CGI, like printing html tags inside the script. Although, it is not recommeded these days in raw form for web development, I am still one of the maintainers of <a href="https://metacpan.org/pod/CGI::Simple">CGI::Simple</a>.]]></description>
-            <pubDate>2026.05.18</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2026/05/the-long-road-from-cgi-to-containers/</guid>
-            <link>https://perlhacks.com/2026/05/the-long-road-from-cgi-to-containers/</link>
+            <title><![CDATA[Teaching AI About the British Monarchy with MCP]]></title>
+            <description><![CDATA[The site already exposes information through a traditional web interface and a JSON API. But those interfaces were designed for humans and developers respectively. MCP gives AI systems a much cleaner integration point.]]></description>
+            <pubDate>2026.05.30</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2026/05/teaching-ai-about-the-british-monarchy-with-mcp/</guid>
+            <link>https://perlhacks.com/2026/05/teaching-ai-about-the-british-monarchy-with-mcp/</link>
             
             
             
@@ -82,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Big O Notation]]></title>
-            <description><![CDATA[This story is for all non-computer science background techie who have yet to crack the mystery of time/space complexity. I really enjoyed the journey and I am sure you will love it too.]]></description>
-            <pubDate>2026.05.13</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/big-o-notation</guid>
-            <link>https://theweeklychallenge.org/blog/big-o-notation</link>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.46 & other news]]></title>
+            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.46 & other news]]></description>
+            <pubDate>2026.05.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/05/announce-perlwiki-v-146-other-news.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/05/announce-perlwiki-v-146-other-news.html</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[JWT with Dancer2]]></title>
-            <description><![CDATA[JSON Web Token (JWT) is something that came up in discussion many times in the past but I never had chance to look at it in details. Last week finally I found time to get to the bottom of it. This post details how and what is it actually.]]></description>
-            <pubDate>2026.05.17</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/jwt-with-dancer2</guid>
-            <link>https://theweeklychallenge.org/blog/jwt-with-dancer2</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[ron_savage]]></author>
             
                 
             
@@ -114,63 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[OAuth2 with Dancer2]]></title>
-            <description><![CDATA[Now OAuth2 is nothing new to many techie but I stayed away from it for so long. I found it too complex topic and kept delaying to explore. Now that I have seen it inside out, it seems like a walk in a park.]]></description>
-            <pubDate>2026.05.17</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/oauth2-with-dancer2</guid>
-            <link>https://theweeklychallenge.org/blog/oauth2-with-dancer2</link>
+            <title><![CDATA[TPRC Schedule Posted - Time to Submit Lightning Talks]]></title>
+            <description><![CDATA[TPRC Schedule Posted - Time to Submit Lightning Talks]]></description>
+            <pubDate>2026.05.27</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc-schedule-and-lightning-talks</guid>
+            <link>https://news.perlfoundation.org/post/tprc-schedule-and-lightning-talks</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Strategy Design Pattern]]></title>
-            <description><![CDATA[Every time I talk about design patterns, I get excited like a little boy who found his favourite toy. Whenever I feel down, I pick up my book, <a href="https://perlschool.com/books/design-patterns">Design Patterns in Modern Perl</a> and read a design pattern. My all time favourite is Singleton design pattern. How about yours?]]></description>
-            <pubDate>2026.05.22</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/strategy-design-pattern</guid>
-            <link>https://theweeklychallenge.org/blog/strategy-design-pattern</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[REST vs gRPC]]></title>
-            <description><![CDATA[gRPC was something I wanted to explore for a long time. In this post, I shared my investigation so far. I know, I have only scratched the surface and there are still plenty to explore.]]></description>
-            <pubDate>2026.05.23</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/rest-vs-grpc</guid>
-            <link>https://theweeklychallenge.org/blog/rest-vs-grpc</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2026.20 Slangification ]]></title>
-            <description><![CDATA[2026.20 Slangification ]]></description>
-            <pubDate>2026.05.18</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/05/18/2026-20-slangification/</guid>
-            <link>https://rakudoweekly.blog/2026/05/18/2026-20-slangification/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -179,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/05/dci-19-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.05.23</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/05/dcii-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.05.30</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -194,23 +114,7 @@
         </item>
         
         <item>
-            <title><![CDATA[Toronto.pm - online - JSON Schema: language-agnostic typing / May TPM meeting]]></title>
-            <description><![CDATA[May 29, 2026]]></description>
-            
-            <guid isPermaLink="false">https://luma.com/calendar/cal-ZFzHes2YwV6j0h9</guid>
-            <link>https://luma.com/calendar/cal-ZFzHes2YwV6j0h9</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Exploring Perl Modules + using AI]]></title>
+            <title><![CDATA[Exploring Perl Modules + using AI (online)]]></title>
             <description><![CDATA[June 3, 2026]]></description>
             
             <guid isPermaLink="false">https://luma.com/perl-maven</guid>
@@ -231,6 +135,70 @@
             
             <guid isPermaLink="false">https://boston.pm.org/</guid>
             <link>https://boston.pm.org/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[June 10, 2026]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
+            <description><![CDATA[June 11, 2026]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
+            <link>https://www.meetup.com/hacklafayette/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Berlin.pm - Naumanns Biergarten]]></title>
+            <description><![CDATA[June 24, 2026]]></description>
+            
+            <guid isPermaLink="false">https://berlin.pm.org/</guid>
+            <link>https://berlin.pm.org/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Toronto.pm - June Social Evening]]></title>
+            <description><![CDATA[June 25, 2026]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/calendar/cal-ZFzHes2YwV6j0h9</guid>
+            <link>https://luma.com/calendar/cal-ZFzHes2YwV6j0h9</link>
             
             
             
