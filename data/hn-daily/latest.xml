@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Gov.uk has replaced Stripe with Dutch provider Adyen]]></title>
-            <description><![CDATA[444 points | <a href=https://news.ycombinator.com/item?id=48415217 target=_blank>155 comments</a>]]></description>
-            <pubDate>2026-06-05T16:55:30Z</pubDate>
-            <guid isPermaLink="false">https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763</guid>
-            <link>https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763</link>
-            
-            
-            
-            <author><![CDATA[toomuchtodo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic]]></title>
-            <description><![CDATA[415 points | <a href=https://news.ycombinator.com/item?id=48421442 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[540 points | <a href=https://news.ycombinator.com/item?id=48421442 target=_blank>183 comments</a>]]></description>
             <pubDate>2026-06-06T04:38:36Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/</guid>
             <link>https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Gov.uk has replaced Stripe with Dutch provider Adyen]]></title>
+            <description><![CDATA[468 points | <a href=https://news.ycombinator.com/item?id=48415217 target=_blank>172 comments</a>]]></description>
+            <pubDate>2026-06-05T16:55:30Z</pubDate>
+            <guid isPermaLink="false">https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763</guid>
+            <link>https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763</link>
+            
+            
+            
+            <author><![CDATA[toomuchtodo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Did Claude increase bugs in rsync?]]></title>
-            <description><![CDATA[407 points | <a href=https://news.ycombinator.com/item?id=48411635 target=_blank>427 comments</a>]]></description>
+            <description><![CDATA[427 points | <a href=https://news.ycombinator.com/item?id=48411635 target=_blank>438 comments</a>]]></description>
             <pubDate>2026-06-05T12:43:33Z</pubDate>
             <guid isPermaLink="false">https://alexispurslane.github.io/rsync-analysis/</guid>
             <link>https://alexispurslane.github.io/rsync-analysis/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[pg_durable: Microsoft open sources in-database durable execution]]></title>
-            <description><![CDATA[395 points | <a href=https://news.ycombinator.com/item?id=48414367 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[406 points | <a href=https://news.ycombinator.com/item?id=48414367 target=_blank>90 comments</a>]]></description>
             <pubDate>2026-06-05T15:59:57Z</pubDate>
             <guid isPermaLink="false">https://github.com/microsoft/pg_durable</guid>
             <link>https://github.com/microsoft/pg_durable</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Astronauts told to return to ISS after sheltering over air leak repairs]]></title>
-            <description><![CDATA[394 points | <a href=https://news.ycombinator.com/item?id=48413464 target=_blank>249 comments</a>]]></description>
+            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=48413464 target=_blank>251 comments</a>]]></description>
             <pubDate>2026-06-05T15:00:31Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/live/c4g44ew3g1kt</guid>
             <link>https://www.bbc.com/news/live/c4g44ew3g1kt</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[New method turns ocean water into drinking water, without waste]]></title>
-            <description><![CDATA[364 points | <a href=https://news.ycombinator.com/item?id=48413500 target=_blank>157 comments</a>]]></description>
+            <description><![CDATA[389 points | <a href=https://news.ycombinator.com/item?id=48413500 target=_blank>164 comments</a>]]></description>
             <pubDate>2026-06-05T15:04:03Z</pubDate>
             <guid isPermaLink="false">https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/</guid>
             <link>https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency]]></title>
-            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=48414653 target=_blank>108 comments</a>]]></description>
+            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=48414653 target=_blank>108 comments</a>]]></description>
             <pubDate>2026-06-05T16:18:48Z</pubDate>
             <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/</guid>
             <link>https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Conventional Commits encourages focus on the wrong things]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=48414027 target=_blank>231 comments</a>]]></description>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=48414027 target=_blank>234 comments</a>]]></description>
             <pubDate>2026-06-05T15:39:38Z</pubDate>
             <guid isPermaLink="false">https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/</guid>
             <link>https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[I tested every IP KVM in my Homelab]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=48413072 target=_blank>74 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=48413072 target=_blank>74 comments</a>]]></description>
             <pubDate>2026-06-05T14:30:50Z</pubDate>
             <guid isPermaLink="false">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
             <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Dutch gov't will only allow European company to operate DigiD platform]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=48413295 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[272 points | <a href=https://news.ycombinator.com/item?id=48413295 target=_blank>86 comments</a>]]></description>
             <pubDate>2026-06-05T14:48:44Z</pubDate>
             <guid isPermaLink="false">https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform</guid>
             <link>https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Three of our worst VC stories]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=48416845 target=_blank>114 comments</a>]]></description>
-            <pubDate>2026-06-05T19:08:12Z</pubDate>
-            <guid isPermaLink="false">https://twitter.com/eastdakota/status/2062860530360959273</guid>
-            <link>https://twitter.com/eastdakota/status/2062860530360959273</link>
+            <title><![CDATA[GrapheneOS user reported to authorities for using GrapheneOS]]></title>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=48422798 target=_blank>145 comments</a>]]></description>
+            <pubDate>2026-06-06T08:43:59Z</pubDate>
+            <guid isPermaLink="false">https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos</guid>
+            <link>https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos</link>
             
             
             
-            <author><![CDATA[orgonon]]></author>
+            <author><![CDATA[Cider9986]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Ultra-processed foods in the global food system: The role of tobacco companies]]></title>
-            <description><![CDATA[215 points | <a href=https://news.ycombinator.com/item?id=48411190 target=_blank>284 comments</a>]]></description>
-            <pubDate>2026-06-05T11:56:27Z</pubDate>
-            <guid isPermaLink="false">https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501</guid>
-            <link>https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501</link>
+            <title><![CDATA[Three of our worst VC stories]]></title>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=48416845 target=_blank>116 comments</a>]]></description>
+            <pubDate>2026-06-05T19:08:12Z</pubDate>
+            <guid isPermaLink="false">https://twitter.com/eastdakota/status/2062860530360959273</guid>
+            <link>https://twitter.com/eastdakota/status/2062860530360959273</link>
             
             
             
-            <author><![CDATA[giuliomagnifico]]></author>
+            <author><![CDATA[orgonon]]></author>
             
                 
             
