@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #776]]></title>
+        <title><![CDATA[Perl Weekly #777]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,143 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[This week in PSC (227) | 2026-06-01]]></title>
-            <description><![CDATA[This week we were back to full strength. We have now dealt with all of the belated issues and all of the blockers. Paul will be shipping 5.43.11 very shortly. With the amount of changes we have had to merge, we will not be able to rush the .11 cycle, but we intend to start the work on the 5.44 RC early, to ensure that we can release with as little additional delay as possible.]]></description>
-            <pubDate>2026.06.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/06/this-week-in-psc-227-2026-06-01.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/06/this-week-in-psc-227-2026-06-01.html</link>
+            <title><![CDATA[Time::Str - Time Zones and Leap Seconds]]></title>
+            <description><![CDATA[Time::Str parses and formats date/time strings across 20+ standard formats, with an optional C/XS backend and nanosecond precision. The previous post, Introducing Time::Str, covered parsing and formatting. This one covers two additions, time zones and leap seconds, and ends with a note on the new C parsers. (<a href="https://www.reddit.com/r/perl/comments/1u4qkgr/timestr_time_zones_and_leap_seconds/">Reddit</a>)]]></description>
+            <pubDate>2026.06.10</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/chansen/2026/06/timestr---time-zones-and-leap-seconds.html</guid>
+            <link>https://blogs.perl.org/users/chansen/2026/06/timestr---time-zones-and-leap-seconds.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Result Class - Components]]></title>
-            <description><![CDATA[Continue with the series post on DBIx::Class, in this post I am showing the power of DBIC components dealing with date/timestamp column.]]></description>
-            <pubDate>2026.05.29</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/resultclass-components/</guid>
-            <link>https://theweeklychallenge.org/blog/resultclass-components/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RAG with Perl]]></title>
-            <description><![CDATA[In this post, I try to decode what RAG is and how we can implement RAG engine in Perl talking to LLM and Vector database in a docker container.]]></description>
-            <pubDate>2026.05.30</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/rag-with-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/rag-with-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CPAN Debian Package]]></title>
-            <description><![CDATA[First time managed to build a debian package for DBIx::Class::Async with step by step instructions.]]></description>
-            <pubDate>2026.06.02</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/cpan-deb-package/</guid>
-            <link>https://theweeklychallenge.org/blog/cpan-deb-package/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[JSON-RPC with Perl]]></title>
-            <description><![CDATA[After dealing with gRPC, next in line was JSON-RPC. The motivation was to explore MCP after getting to know JSON-RPC. It turned out to be too easy demonstrate.]]></description>
-            <pubDate>2026.06.03</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/jsonrpc-with-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/jsonrpc-with-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Mojo meets GraphQL]]></title>
-            <description><![CDATA[The post is meant for beginners as I am exploring GraphQL for the first time as well. The best part is the use of GraphiQL for building and testing the API.]]></description>
-            <pubDate>2026.06.04</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/mojo-meets-graphql/</guid>
-            <link>https://theweeklychallenge.org/blog/mojo-meets-graphql/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DBIx::Class and GraphQL]]></title>
-            <description><![CDATA[In this post, I shared how to integrate DBIx::Class with GraphQL. Having played with GraphQL, I can say it is not for weak heart. If you are coming from REST API background then it will take some time to get your head around it. I am telling this from my personal exprience.]]></description>
-            <pubDate>2026.06.06</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dbic-graphql/</guid>
-            <link>https://theweeklychallenge.org/blog/dbic-graphql/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CPAN and GraphQL]]></title>
-            <description><![CDATA[After DBIx::Class integration with GraphQL, my immediate task was to make the process easy as it doesn't have to this complicated. In the process, I released brand new CPAN distribution: DBIx::Class::Schema::GraphQL.]]></description>
-            <pubDate>2026.06.07</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/cpan-graphql/</guid>
-            <link>https://theweeklychallenge.org/blog/cpan-graphql/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2026.22 Some AST Fruit]]></title>
-            <description><![CDATA[2026.22 Some AST Fruit]]></description>
-            <pubDate>2026.06.01</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/06/01/2026-22-some-ast-fruit/</guid>
-            <link>https://rakudoweekly.blog/2026/06/01/2026-22-some-ast-fruit/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[christian_hansen]]></author>
             
                 
             
@@ -163,126 +35,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/06/dciii-22-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.06.06</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/06/dciv-17-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.06.13</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FalkorDB client in Perl using CLI AI Agents]]></title>
-            <description><![CDATA[This is the first hour of the live coding session using AI to write Perl we had last week. (Free, registration required)]]></description>
-            <pubDate>2026.06.03</pubDate>
-            <guid isPermaLink="false">https://academy.code-maven.com/l/os-perl-2026-06-03-part-1</guid>
-            <link>https://academy.code-maven.com/l/os-perl-2026-06-03-part-1</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FalkorDB using Perl]]></title>
-            <description><![CDATA[This is the second hour of the live coding session using AI to write Perl we had last week. (Free, registration required)]]></description>
-            <pubDate>2026.06.03</pubDate>
-            <guid isPermaLink="false">https://academy.code-maven.com/l/os-perl-2026-06-03-part-2</guid>
-            <link>https://academy.code-maven.com/l/os-perl-2026-06-03-part-2</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Next: Perl development using AI]]></title>
-            <description><![CDATA[The next session in which each participant will have the opportunity to show how s/he is using AI to write Perl code. I am sure we will learn a lot from each other!]]></description>
-            <pubDate>2026.06.08</pubDate>
-            <guid isPermaLink="false">https://luma.com/perl-maven</guid>
-            <link>https://luma.com/perl-maven</link>
-            
-            
-            
-            <author><![CDATA[gabor_szabo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Growing Pains: Scaling AI Coding across Team and Repo Boundaries with Graham Knapp]]></title>
-            <description><![CDATA[Video recordings from the session yesterday. It is not Perl specific, but helps you understand things. For more such event, sign up to the <a href="https://www.meetup.com/code-mavens/">Code Mavens</a> Meetup group]]></description>
-            <pubDate>2026.06.07</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=xvxZAGIPGhg</guid>
-            <link>https://www.youtube.com/watch?v=xvxZAGIPGhg</link>
-            
-            
-            
-            <author><![CDATA[graham_knapp]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
-            <description><![CDATA[June 9, 2026]]></description>
-            
-            <guid isPermaLink="false">https://boston.pm.org/</guid>
-            <link>https://boston.pm.org/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[June 10, 2026]]></description>
-            
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
-            <description><![CDATA[June 11, 2026]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
-            <link>https://www.meetup.com/hacklafayette/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -343,6 +103,54 @@
             
             <guid isPermaLink="false">https://tprc.us/tprc-2026-gsp/</guid>
             <link>https://tprc.us/tprc-2026-gsp/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Paris.pm monthly meeting]]></title>
+            <description><![CDATA[July 8, 2026]]></description>
+            
+            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
+            <link>https://paris.mongueurs.net/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
+            <description><![CDATA[July 08, 2026]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
+            <link>https://www.meetup.com/hacklafayette/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
+            <description><![CDATA[July 14, 2026]]></description>
+            
+            <guid isPermaLink="false">https://boston.pm.org/</guid>
+            <link>https://boston.pm.org/</link>
             
             
             
