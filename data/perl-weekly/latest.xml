@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #777]]></title>
+        <title><![CDATA[Perl Weekly #778]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,143 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Time::Str - Time Zones and Leap Seconds]]></title>
-            <description><![CDATA[Time::Str parses and formats date/time strings across 20+ standard formats, with an optional C/XS backend and nanosecond precision. The previous post, Introducing Time::Str, covered parsing and formatting. This one covers two additions, time zones and leap seconds, and ends with a note on the new C parsers. (<a href="https://www.reddit.com/r/perl/comments/1u4qkgr/timestr_time_zones_and_leap_seconds/">Reddit</a>)]]></description>
+            <title><![CDATA[TPRC 2026 Starts Next Week in Greenville! ]]></title>
+            <description><![CDATA[TPRC is happening very soon! If you haven’t registered, it’s not too late! We’d still love to see you in Greenville SC June 25-29.]]></description>
+            <pubDate>2026.06.17</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/tprc-202-starts-next-week</guid>
+            <link>https://news.perlfoundation.org/post/tprc-202-starts-next-week</link>
+            
+            
+            
+            <author><![CDATA[sarah_gray]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[This week in PSC (229) | 2026-06-16]]></title>
+            <description><![CDATA[The Perl steering committee have continued to work on the forthcoming release candidate of Perl through their ongoing triage efforts. Their current efforts include reviews of the test reports for the HTTP::Tiny module, the generation of draft perldelta documentation, and checking on the status of current PPC proposals and LLM policy issues.]]></description>
+            <pubDate>2026.06.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/06/this-week-in-psc-229-2026-06-16.html</guid>
+            <link>https://blogs.perl.org/users/psc/2026/06/this-week-in-psc-229-2026-06-16.html</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mutation in GraphQL]]></title>
+            <description><![CDATA[The post contains an organised, simple and complete guide to implementing mutations in GraphQL. It’s also quite good at simplifying modifying data in comparison to querying data with examples from variable data so that you can easily learn how to do schema definitions & resolve logic.]]></description>
+            <pubDate>2026.06.08</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/mutation-in-graphql/</guid>
+            <link>https://theweeklychallenge.org/blog/mutation-in-graphql/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GTC 2.20 Pro designer]]></title>
+            <description><![CDATA[The article gives an overview of the significant updates to both the functionality and documentation in version 2.20 of Graphics::Toolkit::Color (GTC). The new features are broken down into three groups: a newly structured manual-based documentation system that encompasses all aspects of the GTC; new flexible configuration options for error handling; and the addition of three internationally recognized perceptually uniform colour spaces: OKHSL, OKHSV, and OKHWB. Further, it includes a new highly customisable skew argument to the complement() function, a method for generating analogous colours, and a new and user-friendly 7-method "designer API" specifically designed for adjusting standard digital design customisations.]]></description>
+            <pubDate>2026.06.21</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/lichtkind/2026/06/gtc-220-pro-designer.html</guid>
+            <link>https://blogs.perl.org/users/lichtkind/2026/06/gtc-220-pro-designer.html</link>
+            
+            
+            
+            <author><![CDATA[herbert_breunung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Webhook using Perl]]></title>
+            <description><![CDATA[In this article, you will find a detailed and practical guide to using webhooks natively in Perl. There are many niches that are currently unmet in regard to modern day web integration; this one is particularly well addressed. The post presents a step-by-step approach for creating an HTTP listener to receive payloads and how to process them accordingly. This demonstrates once again that Perl continues to be a very powerful and effective tool for building an event-driven web-based architecture.]]></description>
             <pubDate>2026.06.10</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/chansen/2026/06/timestr---time-zones-and-leap-seconds.html</guid>
-            <link>https://blogs.perl.org/users/chansen/2026/06/timestr---time-zones-and-leap-seconds.html</link>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/webhook-using-perl/</guid>
+            <link>https://theweeklychallenge.org/blog/webhook-using-perl/</link>
             
             
             
-            <author><![CDATA[christian_hansen]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PostgreSQL and MVCC]]></title>
+            <description><![CDATA[This article provides an explanation of how Multi-Version Concurrency Control (MVCC) works in PostgreSQL. It explains how Row-level locking is avoided by demonstrating the use of two hidden fields, xmin and xmax, which determine which transactions can see which rows. This is an excellent resource for all developers who want to improve their database performance and architecture.]]></description>
+            <pubDate>2026.06.13</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/postgresql-mvcc/</guid>
+            <link>https://theweeklychallenge.org/blog/postgresql-mvcc/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PostgreSQL MVCC - Part 2]]></title>
+            <description><![CDATA[In this follow up article, I am taking MVCC and going from just seeing how rows are visible to discussing how the data actually gets modified or cleaned up. It provides a clear understanding of how an update is an atomic operation that results in two separate Database Operations (a delete followed by an insert). It also provides a thorough overview of the VACUUM operation and illustrates how it is able to reclaim dead tuples, thus making a complex topic very simple and actionable for tuning performance purposes.]]></description>
+            <pubDate>2026.06.16</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/postgresql-mvcc-part-2/</guid>
+            <link>https://theweeklychallenge.org/blog/postgresql-mvcc-part-2/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PostgreSQL MVCC - Part 3]]></title>
+            <description><![CDATA[This final addition delivers closure to the PostgreSQL MVCC series, tying together theoretical row visibility mechanics and actual observations of concurrency in the real world. It presents how MVCC eliminates dirty reads, controls write-skew and serialises anomalies through the use of various isolation levels, provides a highly complex theory of transactions in a manner that is completely useful to database designers.]]></description>
+            <pubDate>2026.06.20</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/postgresql-mvcc-part-3/</guid>
+            <link>https://theweeklychallenge.org/blog/postgresql-mvcc-part-3/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.22 Some AST Fruit]]></title>
+            <description><![CDATA[2026.22 Some AST Fruit]]></description>
+            <pubDate>2026.06.01</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/06/01/2026-22-some-ast-fruit/</guid>
+            <link>https://rakudoweekly.blog/2026/06/01/2026-22-some-ast-fruit/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -35,8 +163,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/06/dciv-17-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.06.13</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/06/dcv-17-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.06.20</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -50,8 +178,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Do you use WhatsApp or Telegram? Join our Perl group(s)!]]></title>
+            <description><![CDATA[I know it isn't as good as IRC, but this is what we have now. A Telegram and a WhatsApp group for Perl. If you are interested, send me a message and I'll invite you.]]></description>
+            <pubDate>2026.06.22</pubDate>
+            <guid isPermaLink="false">https://szabgab.com/contact</guid>
+            <link>https://szabgab.com/contact</link>
+            
+            
+            
+            <author><![CDATA[gabor_szabo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Perl development using AI (online)]]></title>
-            <description><![CDATA[June 17, 2026]]></description>
+            <description><![CDATA[June 24, 2026]]></description>
             
             <guid isPermaLink="false">https://luma.com/perl-maven</guid>
             <link>https://luma.com/perl-maven</link>
