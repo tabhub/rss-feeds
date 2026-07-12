@@ -18,40 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[What xAI's Grok build CLI sends to xAI: A wire-level analysis]]></title>
-            <description><![CDATA[387 points | <a href=https://news.ycombinator.com/item?id=48877371 target=_blank>153 comments</a>]]></description>
-            <pubDate>2026-07-12T01:09:50Z</pubDate>
-            <guid isPermaLink="false">https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</guid>
-            <link>https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</link>
-            
-            
-            
-            <author><![CDATA[jhoho]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Old and new apps, via modern coding agents]]></title>
-            <description><![CDATA[386 points | <a href=https://news.ycombinator.com/item?id=48880170 target=_blank>110 comments</a>]]></description>
-            <pubDate>2026-07-12T11:09:42Z</pubDate>
-            <guid isPermaLink="false">https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</guid>
-            <link>https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</link>
-            
-            
-            
-            <author><![CDATA[subset]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k]]></title>
-            <description><![CDATA[350 points | <a href=https://news.ycombinator.com/item?id=48883275 target=_blank>198 comments</a>]]></description>
+            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=48883275 target=_blank>225 comments</a>]]></description>
             <pubDate>2026-07-12T18:25:51Z</pubDate>
             <guid isPermaLink="false">https://systima.ai/blog/claude-code-vs-opencode-token-overhead</guid>
             <link>https://systima.ai/blog/claude-code-vs-opencode-token-overhead</link>
@@ -66,8 +34,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Old and new apps, via modern coding agents]]></title>
+            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=48880170 target=_blank>111 comments</a>]]></description>
+            <pubDate>2026-07-12T11:09:42Z</pubDate>
+            <guid isPermaLink="false">https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</guid>
+            <link>https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</link>
+            
+            
+            
+            <author><![CDATA[subset]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What xAI's Grok build CLI sends to xAI: A wire-level analysis]]></title>
+            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=48877371 target=_blank>154 comments</a>]]></description>
+            <pubDate>2026-07-12T01:09:50Z</pubDate>
+            <guid isPermaLink="false">https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</guid>
+            <link>https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</link>
+            
+            
+            
+            <author><![CDATA[jhoho]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Mesh LLM: distributed AI computing on iroh]]></title>
-            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=48876505 target=_blank>78 comments</a>]]></description>
+            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=48876505 target=_blank>78 comments</a>]]></description>
             <pubDate>2026-07-11T22:38:57Z</pubDate>
             <guid isPermaLink="false">https://www.iroh.computer/blog/mesh-llm</guid>
             <link>https://www.iroh.computer/blog/mesh-llm</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Ghostel.el: Terminal emulator powered by libghostty]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=48879504 target=_blank>47 comments</a>]]></description>
-            <pubDate>2026-07-12T08:52:59Z</pubDate>
-            <guid isPermaLink="false">https://dakra.github.io/ghostel/</guid>
-            <link>https://dakra.github.io/ghostel/</link>
-            
-            
-            
-            <author><![CDATA[signa11]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I love LLMs, I hate hype]]></title>
-            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=48883343 target=_blank>137 comments</a>]]></description>
+            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=48883343 target=_blank>151 comments</a>]]></description>
             <pubDate>2026-07-12T18:31:56Z</pubDate>
             <guid isPermaLink="false">https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</guid>
             <link>https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Ghostel.el: Terminal emulator powered by libghostty]]></title>
+            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=48879504 target=_blank>49 comments</a>]]></description>
+            <pubDate>2026-07-12T08:52:59Z</pubDate>
+            <guid isPermaLink="false">https://dakra.github.io/ghostel/</guid>
+            <link>https://dakra.github.io/ghostel/</link>
+            
+            
+            
+            <author><![CDATA[signa11]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How Doctors die. It’s not like the rest of us (2016)]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=48876741 target=_blank>140 comments</a>]]></description>
+            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=48876741 target=_blank>142 comments</a>]]></description>
             <pubDate>2026-07-11T23:15:06Z</pubDate>
             <guid isPermaLink="false">https://archive.cancerworld.net/featured/how-doctors-die/</guid>
             <link>https://archive.cancerworld.net/featured/how-doctors-die/</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[How to read more books]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=48882056 target=_blank>128 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=48882056 target=_blank>132 comments</a>]]></description>
             <pubDate>2026-07-12T15:47:16Z</pubDate>
             <guid isPermaLink="false">https://scotto.me/blog/2026-07-12-how-to-read-more-books/</guid>
             <link>https://scotto.me/blog/2026-07-12-how-to-read-more-books/</link>
@@ -146,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[RISCBoy is an open-source portable games console, designed from scratch]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=48876245 target=_blank>32 comments</a>]]></description>
-            <pubDate>2026-07-11T21:58:00Z</pubDate>
-            <guid isPermaLink="false">https://github.com/Wren6991/RISCBoy</guid>
-            <link>https://github.com/Wren6991/RISCBoy</link>
+            <title><![CDATA[The shingles vaccine may reduce the risk of dementia]]></title>
+            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=48881874 target=_blank>173 comments</a>]]></description>
+            <pubDate>2026-07-12T15:23:59Z</pubDate>
+            <guid isPermaLink="false">https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain</guid>
+            <link>https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain</link>
             
             
             
-            <author><![CDATA[mariuz]]></author>
+            <author><![CDATA[saikatsg]]></author>
             
                 
             
@@ -163,7 +163,7 @@
         
         <item>
             <title><![CDATA[Stop Telling Me to Ask an LLM]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=48876441 target=_blank>112 comments</a>]]></description>
+            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=48876441 target=_blank>112 comments</a>]]></description>
             <pubDate>2026-07-11T22:28:48Z</pubDate>
             <guid isPermaLink="false">https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/</guid>
             <link>https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/</link>
@@ -178,15 +178,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Under federal rule, colleges must leave grads better off or lose financial aid]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=48878126 target=_blank>466 comments</a>]]></description>
-            <pubDate>2026-07-12T04:00:14Z</pubDate>
-            <guid isPermaLink="false">https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</guid>
-            <link>https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</link>
+            <title><![CDATA[Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS]]></title>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=48884853 target=_blank>83 comments</a>]]></description>
+            <pubDate>2026-07-12T21:12:11Z</pubDate>
+            <guid isPermaLink="false">https://scrapfly.dev/posts/browser-math-os-fingerprint/</guid>
+            <link>https://scrapfly.dev/posts/browser-math-os-fingerprint/</link>
             
             
             
-            <author><![CDATA[nradov]]></author>
+            <author><![CDATA[joahnn_s]]></author>
             
                 
             
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The shingles vaccine may reduce the risk of dementia]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=48881874 target=_blank>162 comments</a>]]></description>
-            <pubDate>2026-07-12T15:23:59Z</pubDate>
-            <guid isPermaLink="false">https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain</guid>
-            <link>https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain</link>
+            <title><![CDATA[Under federal rule, colleges must leave grads better off or lose financial aid]]></title>
+            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=48878126 target=_blank>467 comments</a>]]></description>
+            <pubDate>2026-07-12T04:00:14Z</pubDate>
+            <guid isPermaLink="false">https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</guid>
+            <link>https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</link>
             
             
             
-            <author><![CDATA[saikatsg]]></author>
+            <author><![CDATA[nradov]]></author>
             
                 
             
