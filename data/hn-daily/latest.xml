@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=48883275 target=_blank>225 comments</a>]]></description>
+            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=48883275 target=_blank>252 comments</a>]]></description>
             <pubDate>2026-07-12T18:25:51Z</pubDate>
             <guid isPermaLink="false">https://systima.ai/blog/claude-code-vs-opencode-token-overhead</guid>
             <link>https://systima.ai/blog/claude-code-vs-opencode-token-overhead</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Old and new apps, via modern coding agents]]></title>
-            <description><![CDATA[392 points | <a href=https://news.ycombinator.com/item?id=48880170 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=48880170 target=_blank>117 comments</a>]]></description>
             <pubDate>2026-07-12T11:09:42Z</pubDate>
             <guid isPermaLink="false">https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</guid>
             <link>https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[What xAI's Grok build CLI sends to xAI: A wire-level analysis]]></title>
-            <description><![CDATA[391 points | <a href=https://news.ycombinator.com/item?id=48877371 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[401 points | <a href=https://news.ycombinator.com/item?id=48877371 target=_blank>155 comments</a>]]></description>
             <pubDate>2026-07-12T01:09:50Z</pubDate>
             <guid isPermaLink="false">https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</guid>
             <link>https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547</link>
@@ -66,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Mesh LLM: distributed AI computing on iroh]]></title>
-            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=48876505 target=_blank>78 comments</a>]]></description>
-            <pubDate>2026-07-11T22:38:57Z</pubDate>
-            <guid isPermaLink="false">https://www.iroh.computer/blog/mesh-llm</guid>
-            <link>https://www.iroh.computer/blog/mesh-llm</link>
-            
-            
-            
-            <author><![CDATA[tionis]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[I love LLMs, I hate hype]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=48883343 target=_blank>151 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=48883343 target=_blank>187 comments</a>]]></description>
             <pubDate>2026-07-12T18:31:56Z</pubDate>
             <guid isPermaLink="false">https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</guid>
             <link>https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</link>
@@ -98,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS]]></title>
+            <description><![CDATA[267 points | <a href=https://news.ycombinator.com/item?id=48884853 target=_blank>137 comments</a>]]></description>
+            <pubDate>2026-07-12T21:12:11Z</pubDate>
+            <guid isPermaLink="false">https://scrapfly.dev/posts/browser-math-os-fingerprint/</guid>
+            <link>https://scrapfly.dev/posts/browser-math-os-fingerprint/</link>
+            
+            
+            
+            <author><![CDATA[joahnn_s]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ghostel.el: Terminal emulator powered by libghostty]]></title>
-            <description><![CDATA[259 points | <a href=https://news.ycombinator.com/item?id=48879504 target=_blank>49 comments</a>]]></description>
+            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=48879504 target=_blank>50 comments</a>]]></description>
             <pubDate>2026-07-12T08:52:59Z</pubDate>
             <guid isPermaLink="false">https://dakra.github.io/ghostel/</guid>
             <link>https://dakra.github.io/ghostel/</link>
@@ -114,24 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[How Doctors die. It’s not like the rest of us (2016)]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=48876741 target=_blank>142 comments</a>]]></description>
-            <pubDate>2026-07-11T23:15:06Z</pubDate>
-            <guid isPermaLink="false">https://archive.cancerworld.net/featured/how-doctors-die/</guid>
-            <link>https://archive.cancerworld.net/featured/how-doctors-die/</link>
-            
-            
-            
-            <author><![CDATA[downbad_]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[How to read more books]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=48882056 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[251 points | <a href=https://news.ycombinator.com/item?id=48882056 target=_blank>143 comments</a>]]></description>
             <pubDate>2026-07-12T15:47:16Z</pubDate>
             <guid isPermaLink="false">https://scotto.me/blog/2026-07-12-how-to-read-more-books/</guid>
             <link>https://scotto.me/blog/2026-07-12-how-to-read-more-books/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[The shingles vaccine may reduce the risk of dementia]]></title>
-            <description><![CDATA[199 points | <a href=https://news.ycombinator.com/item?id=48881874 target=_blank>173 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=48881874 target=_blank>176 comments</a>]]></description>
             <pubDate>2026-07-12T15:23:59Z</pubDate>
             <guid isPermaLink="false">https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain</guid>
             <link>https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain</link>
@@ -162,31 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Stop Telling Me to Ask an LLM]]></title>
-            <description><![CDATA[192 points | <a href=https://news.ycombinator.com/item?id=48876441 target=_blank>112 comments</a>]]></description>
-            <pubDate>2026-07-11T22:28:48Z</pubDate>
-            <guid isPermaLink="false">https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/</guid>
-            <link>https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/</link>
+            <title><![CDATA[Irish datacenters now guzzle 23% of the country's electricity]]></title>
+            <description><![CDATA[208 points | <a href=https://news.ycombinator.com/item?id=48884322 target=_blank>191 comments</a>]]></description>
+            <pubDate>2026-07-12T20:16:12Z</pubDate>
+            <guid isPermaLink="false">https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013</guid>
+            <link>https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013</link>
             
             
             
-            <author><![CDATA[theorchid]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=48884853 target=_blank>83 comments</a>]]></description>
-            <pubDate>2026-07-12T21:12:11Z</pubDate>
-            <guid isPermaLink="false">https://scrapfly.dev/posts/browser-math-os-fingerprint/</guid>
-            <link>https://scrapfly.dev/posts/browser-math-os-fingerprint/</link>
-            
-            
-            
-            <author><![CDATA[joahnn_s]]></author>
+            <author><![CDATA[Bender]]></author>
             
                 
             
@@ -195,7 +163,7 @@
         
         <item>
             <title><![CDATA[Under federal rule, colleges must leave grads better off or lose financial aid]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=48878126 target=_blank>467 comments</a>]]></description>
+            <description><![CDATA[188 points | <a href=https://news.ycombinator.com/item?id=48878126 target=_blank>472 comments</a>]]></description>
             <pubDate>2026-07-12T04:00:14Z</pubDate>
             <guid isPermaLink="false">https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</guid>
             <link>https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans</link>
@@ -203,6 +171,38 @@
             
             
             <author><![CDATA[nradov]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Don't you mean extinct?]]></title>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=48881830 target=_blank>110 comments</a>]]></description>
+            <pubDate>2026-07-12T15:17:20Z</pubDate>
+            <guid isPermaLink="false">https://fabiensanglard.net/extinct/index.html</guid>
+            <link>https://fabiensanglard.net/extinct/index.html</link>
+            
+            
+            
+            <author><![CDATA[zdw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Woman in Brazil enslaved for 55 years by 3 generations of the same family]]></title>
+            <description><![CDATA[148 points | <a href=https://news.ycombinator.com/item?id=48880209 target=_blank>207 comments</a>]]></description>
+            <pubDate>2026-07-12T11:18:32Z</pubDate>
+            <guid isPermaLink="false">https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html</guid>
+            <link>https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html</link>
+            
+            
+            
+            <author><![CDATA[RetroTechie]]></author>
             
                 
             
