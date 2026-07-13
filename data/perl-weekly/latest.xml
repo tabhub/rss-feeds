@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #780]]></title>
+        <title><![CDATA[Perl Weekly #781]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[perl-lsp version 0.6.0]]></title>
-            <description><![CDATA[The version 0.6.0 is now available on crates.io & in both VS Code and The Zed Editor. This is a huge milestone for the Perl-LSP project with some great improvements such as smart type narrowing for block variables, smart inherited method renewal using inherited methods, and different heatmap cli for analysing function complexity and usage.]]></description>
-            <pubDate>2026.07.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/veesh/2026/07/perl-lsp-version-060.html</guid>
-            <link>https://blogs.perl.org/users/veesh/2026/07/perl-lsp-version-060.html</link>
+            <title><![CDATA[Perl School Goes Paperback]]></title>
+            <description><![CDATA[I used to have hundreds of paperback tech-books. A few years ago I decided they collect too much dust and they become obsolete fast anyway, so I switched to Kindle. As the years passed I had to enlarge the fonts more and more thus the code examples started to wrap and became hard to read. Nowedays I am contemplating buying paperback books again. Apparently I am not alone with this. Enjoy the book!]]></description>
+            <pubDate>2026.07.11</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2026/07/perl-school-goes-paperback/</guid>
+            <link>https://perlhacks.com/2026/07/perl-school-goes-paperback/</link>
             
             
             
-            <author><![CDATA[veesh_goldman]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Automate Perl module testing with GitHub Actions]]></title>
-            <description><![CDATA[This is a very handy guide that explains how to set up a CI/CD pipeline for your Perl projects via GitHub Actions. The guide elaborates on what steps to follow so that when you push code, all of the projects automatically run tests against several different Perl versions and several different operating systems. This will allow developers to check for compatibility on multiple platforms, while also providing developers with a way to keep their code at high quality with as little manual work as possible.]]></description>
+            <description><![CDATA[Detailed explanation on how to set it up.]]></description>
             <pubDate>2026.07.05</pubDate>
             <guid isPermaLink="false">https://dev.to/dragostrif/automate-perl-module-testing-with-github-actions-43p9</guid>
             <link>https://dev.to/dragostrif/automate-perl-module-testing-with-github-actions-43p9</link>
@@ -50,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How One Pull Request Took App::HTTPThis to Version 1.0]]></title>
-            <description><![CDATA[A simple pull request intended to improve the honesty of a startup message caused a rewrite of the architecture for App::HTTPThis. The original binding configuration was set to all interfaces, but by modifying it to use 127.0.0.1, and providing targeted support for the Windows Subsystem for Linux (WSL), this tool has come a very long way to reach a very solid, secure, cross-platform milestone for release version of 1.0.0.]]></description>
-            <pubDate>2026.07.05</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2026/07/how-one-pull-request-took-apphttpthis-to-version-1-0/</guid>
-            <link>https://perlhacks.com/2026/07/how-one-pull-request-took-apphttpthis-to-version-1-0/</link>
+            <title><![CDATA[App-GHGen]]></title>
+            <description><![CDATA[GitHub Actions workflow generator and analyzer]]></description>
+            <pubDate>2026.07.08</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/dist/App-GHGen</guid>
+            <link>https://metacpan.org/dist/App-GHGen</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Reading UTF-8 at GB/s]]></title>
-            <description><![CDATA[Christian highlights a bottleneck in Perl's read operator regarding how it counts UTF-8 sequences and introduces a high-performance workaround via Unicode::UTF8::read_utf8. By reading and validating UTF-8 streams in a single pass, this new feature achieves impressive speeds—delivering 7x to 16x faster throughput than native reads.]]></description>
-            <pubDate>2026.07.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/chansen/2026/07/reading-utf-8-at-gbs.html</guid>
-            <link>https://blogs.perl.org/users/chansen/2026/07/reading-utf-8-at-gbs.html</link>
-            
-            
-            
-            <author><![CDATA[christian_hansen]]></author>
+            <author><![CDATA[nigel_horne]]></author>
             
                 
             
@@ -82,27 +66,11 @@
         </item>
         
         <item>
-            <title><![CDATA[The AI Revolution is Validating 40 Years of Perl Philosophy]]></title>
-            <description><![CDATA[Randal examines the relationship between the emergence of large language models and Larry Wall’s original concept of Perl as a language based on context (semiotics) and language. The shift toward a semantic/conceptual view of programming allows AI systems to start operating based on principles that have been used by Perl programmers all along, rather than forcing us to program like mathematical devices.]]></description>
-            <pubDate>2026.07.04</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/randal_l_schwartz/2026/07/the-ai-revolution-is-validating-40-years-of-perl-philosophy.html</guid>
-            <link>https://blogs.perl.org/users/randal_l_schwartz/2026/07/the-ai-revolution-is-validating-40-years-of-perl-philosophy.html</link>
-            
-            
-            
-            <author><![CDATA[randal_schwartz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SOAP and Perl]]></title>
-            <description><![CDATA[This article investigates both the past and the present of using Perl to connect to SOAP (Simple Object Access Protocol) web services. The article discusses how useful an existing SOAP:Lite module is for creating applications that can still be used today by legacy companies, along with performance related suggestions when working with XML payloads, WSDL files, and options for building robust API integration using modern technology.]]></description>
-            <pubDate>2026.06.22</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/soap-and-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/soap-and-perl/</link>
+            <title><![CDATA[Design Patterns in Modern Perl - Paperback version now available]]></title>
+            <description><![CDATA[Do you prefer ebooks on Kindle or paperback?]]></description>
+            <pubDate>2026.07.07</pubDate>
+            <guid isPermaLink="false">https://perlschool.com/books/design-patterns/</guid>
+            <link>https://perlschool.com/books/design-patterns/</link>
             
             
             
@@ -114,15 +82,31 @@
         </item>
         
         <item>
-            <title><![CDATA[2026.26 Release #194]]></title>
-            <description><![CDATA[2026.26 Release #194]]></description>
-            <pubDate>2026.06.29</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/06/29/2026-26-release-194/</guid>
-            <link>https://rakudoweekly.blog/2026/06/29/2026-26-release-194/</link>
+            <title><![CDATA[One Name, Two Languages: Giving Siunertaq a Canonical Namespace.]]></title>
+            <description><![CDATA[This is the third post in a series on Siunertaq, a small Scala 3 project that models computation as a stack machine and cross-validates it across languages.]]></description>
+            <pubDate>2026.07.07</pubDate>
+            <guid isPermaLink="false">https://dev.to/p_pumulo/one-name-two-languages-giving-siunertaq-a-canonical-namespace-bdm</guid>
+            <link>https://dev.to/p_pumulo/one-name-two-languages-giving-siunertaq-a-canonical-namespace-bdm</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[yoshihiro_hasegawa]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA["I had a dream" - Announcing PetaPerl 0.6.0]]></title>
+            <description><![CDATA[Peta Perl is a reimplementation of Perl 5 in Rust.]]></description>
+            <pubDate>2026.07.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/07/i-had-a-dream---announcing-petaperl-060.html</guid>
+            <link>https://blogs.perl.org/users/petamem/2026/07/i-had-a-dream---announcing-petaperl-060.html</link>
+            
+            
+            
+            <author><![CDATA[petamem]]></author>
             
                 
             
@@ -131,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/07/dcvii-17-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/07/dcxxix-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2026.07.04</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/07/dcviii-13-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.07.11</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -146,8 +130,24 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl development using AI (online)]]></title>
-            <description><![CDATA[July 8, 2026]]></description>
+            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
+            <description><![CDATA[July 14, 2026]]></description>
+            
+            <guid isPermaLink="false">https://boston.pm.org/</guid>
+            <link>https://boston.pm.org/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl development using AI + Open Source (online)]]></title>
+            <description><![CDATA[July 29, 2026]]></description>
             
             <guid isPermaLink="false">https://luma.com/perl-maven</guid>
             <link>https://luma.com/perl-maven</link>
@@ -162,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Paris.pm monthly meeting]]></title>
-            <description><![CDATA[July 8, 2026]]></description>
-            
-            <guid isPermaLink="false">https://paris.mongueurs.net/</guid>
-            <link>https://paris.mongueurs.net/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
-            <description><![CDATA[July 8, 2026]]></description>
+            <description><![CDATA[August 12, 2026]]></description>
             
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
             <link>https://www.meetup.com/hacklafayette/</link>
@@ -194,11 +178,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
-            <description><![CDATA[July 14, 2026]]></description>
+            <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
+            <description><![CDATA[September 9, 2026]]></description>
             
-            <guid isPermaLink="false">https://boston.pm.org/</guid>
-            <link>https://boston.pm.org/</link>
+            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
+            <link>https://www.meetup.com/hacklafayette/</link>
             
             
             
