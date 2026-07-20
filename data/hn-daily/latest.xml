@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s]]></title>
-            <description><![CDATA[1819 points | <a href=https://news.ycombinator.com/item?id=48968606 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[2142 points | <a href=https://news.ycombinator.com/item?id=48968606 target=_blank>225 comments</a>]]></description>
             <pubDate>2026-07-19T14:41:16Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=48968606</guid>
             <link>https://news.ycombinator.com/item?id=48968606</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Qwen 3.8]]></title>
-            <description><![CDATA[816 points | <a href=https://news.ycombinator.com/item?id=48966120 target=_blank>569 comments</a>]]></description>
+            <description><![CDATA[863 points | <a href=https://news.ycombinator.com/item?id=48966120 target=_blank>588 comments</a>]]></description>
             <pubDate>2026-07-19T08:44:57Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/Alibaba_Qwen/status/2078759124914098291</guid>
             <link>https://twitter.com/Alibaba_Qwen/status/2078759124914098291</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[What I learned selling 2,500 MIDI recorders: Hardware is not so hard]]></title>
-            <description><![CDATA[440 points | <a href=https://news.ycombinator.com/item?id=48966713 target=_blank>206 comments</a>]]></description>
-            <pubDate>2026-07-19T10:34:58Z</pubDate>
-            <guid isPermaLink="false">https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</guid>
-            <link>https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</link>
-            
-            
-            
-            <author><![CDATA[chipweinberger]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Claude Code uses Bun written in Rust now]]></title>
-            <description><![CDATA[436 points | <a href=https://news.ycombinator.com/item?id=48966569 target=_blank>599 comments</a>]]></description>
+            <description><![CDATA[496 points | <a href=https://news.ycombinator.com/item?id=48966569 target=_blank>658 comments</a>]]></description>
             <pubDate>2026-07-19T10:03:23Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</guid>
             <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[What I learned selling 2,500 MIDI recorders: Hardware is not so hard]]></title>
+            <description><![CDATA[473 points | <a href=https://news.ycombinator.com/item?id=48966713 target=_blank>215 comments</a>]]></description>
+            <pubDate>2026-07-19T10:34:58Z</pubDate>
+            <guid isPermaLink="false">https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</guid>
+            <link>https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</link>
+            
+            
+            
+            <author><![CDATA[chipweinberger]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[OpenAI reduces Codex Model Context Size from 372k to 272k]]></title>
-            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=48965850 target=_blank>156 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=48965850 target=_blank>159 comments</a>]]></description>
             <pubDate>2026-07-19T07:54:39Z</pubDate>
             <guid isPermaLink="false">https://github.com/openai/codex/pull/33972/files</guid>
             <link>https://github.com/openai/codex/pull/33972/files</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[AI advice made people less accurate but more confident – sudy]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=48971738 target=_blank>174 comments</a>]]></description>
+            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=48971738 target=_blank>187 comments</a>]]></description>
             <pubDate>2026-07-19T21:18:10Z</pubDate>
             <guid isPermaLink="false">https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study</guid>
             <link>https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Claude Fable produced a counterexample to the Jacobian Conjecture]]></title>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=48973869 target=_blank>179 comments</a>]]></description>
+            <pubDate>2026-07-20T02:51:16Z</pubDate>
+            <guid isPermaLink="false">https://xcancel.com/__alpoge__/status/2079028340955197566</guid>
+            <link>https://xcancel.com/__alpoge__/status/2079028340955197566</link>
+            
+            
+            
+            <author><![CDATA[loubbrad]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Minecraft: Java Edition now uses SDL3]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=48967256 target=_blank>191 comments</a>]]></description>
+            <description><![CDATA[300 points | <a href=https://news.ycombinator.com/item?id=48967256 target=_blank>201 comments</a>]]></description>
             <pubDate>2026-07-19T11:48:18Z</pubDate>
             <guid isPermaLink="false">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</guid>
             <link>https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</link>
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Moonshot AI suspends new subscriptions due to Kimi K3 demand]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=48969291 target=_blank>102 comments</a>]]></description>
+            <description><![CDATA[253 points | <a href=https://news.ycombinator.com/item?id=48969291 target=_blank>105 comments</a>]]></description>
             <pubDate>2026-07-19T16:02:25Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/kimi_moonshot/status/2078855608565207130</guid>
             <link>https://twitter.com/kimi_moonshot/status/2078855608565207130</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Qwen 3.8 Max Preview]]></title>
-            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=48966190 target=_blank>1 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=48966190 target=_blank>1 comments</a>]]></description>
             <pubDate>2026-07-19T08:57:31Z</pubDate>
             <guid isPermaLink="false">https://www.qwencloud.com/pricing/token-plan</guid>
             <link>https://www.qwencloud.com/pricing/token-plan</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[The Last MPEG-4 Visual Patent Has Expired]]></title>
-            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=48969635 target=_blank>54 comments</a>]]></description>
+            <description><![CDATA[201 points | <a href=https://news.ycombinator.com/item?id=48969635 target=_blank>58 comments</a>]]></description>
             <pubDate>2026-07-19T16:45:17Z</pubDate>
             <guid isPermaLink="false">https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired</guid>
             <link>https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[I joined the IndieWeb, here's what I learned]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=48966984 target=_blank>88 comments</a>]]></description>
+            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=48966984 target=_blank>94 comments</a>]]></description>
             <pubDate>2026-07-19T11:14:38Z</pubDate>
             <guid isPermaLink="false">https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/</guid>
             <link>https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[andros]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[We want Texans to know their rights]]></title>
-            <description><![CDATA[160 points | <a href=https://news.ycombinator.com/item?id=48972062 target=_blank>53 comments</a>]]></description>
-            <pubDate>2026-07-19T22:03:11Z</pubDate>
-            <guid isPermaLink="false">https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion</guid>
-            <link>https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion</link>
-            
-            
-            
-            <author><![CDATA[amarcheschi]]></author>
             
                 
             
