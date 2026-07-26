@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Did they ghost you?]]></title>
-            <description><![CDATA[411 points | <a href=https://news.ycombinator.com/item?id=49051120 target=_blank>183 comments</a>]]></description>
+            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=49051120 target=_blank>188 comments</a>]]></description>
             <pubDate>2026-07-25T20:18:03Z</pubDate>
             <guid isPermaLink="false">https://didtheyghostyou.com/</guid>
             <link>https://didtheyghostyou.com/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Open-weight AI is having its Kubernetes moment]]></title>
-            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=49048034 target=_blank>295 comments</a>]]></description>
+            <description><![CDATA[383 points | <a href=https://news.ycombinator.com/item?id=49048034 target=_blank>298 comments</a>]]></description>
             <pubDate>2026-07-25T14:49:49Z</pubDate>
             <guid isPermaLink="false">https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</guid>
             <link>https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[The new rules of context engineering for Claude 5 generation models]]></title>
-            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=49051361 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[367 points | <a href=https://news.ycombinator.com/item?id=49051361 target=_blank>261 comments</a>]]></description>
             <pubDate>2026-07-25T20:42:35Z</pubDate>
             <guid isPermaLink="false">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
             <link>https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[A shell colon does nothing. Use it anyway]]></title>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=49047453 target=_blank>104 comments</a>]]></description>
+            <pubDate>2026-07-25T13:33:49Z</pubDate>
+            <guid isPermaLink="false">https://refp.se/articles/your-shell-and-the-magic-colon</guid>
+            <link>https://refp.se/articles/your-shell-and-the-magic-colon</link>
+            
+            
+            
+            <author><![CDATA[olexsmir]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The growing vigilante movement to knock out Flock surveillance cameras]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=49050538 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=49050538 target=_blank>146 comments</a>]]></description>
             <pubDate>2026-07-25T19:02:17Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras</guid>
             <link>https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras</link>
@@ -83,7 +99,7 @@
         
         <item>
             <title><![CDATA[Bitchat is now on Radicle]]></title>
-            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=49047365 target=_blank>133 comments</a>]]></description>
+            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=49047365 target=_blank>133 comments</a>]]></description>
             <pubDate>2026-07-25T13:18:49Z</pubDate>
             <guid isPermaLink="false">https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6</guid>
             <link>https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6</link>
@@ -98,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A shell colon does nothing. Use it anyway]]></title>
-            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=49047453 target=_blank>94 comments</a>]]></description>
-            <pubDate>2026-07-25T13:33:49Z</pubDate>
-            <guid isPermaLink="false">https://refp.se/articles/your-shell-and-the-magic-colon</guid>
-            <link>https://refp.se/articles/your-shell-and-the-magic-colon</link>
+            <title><![CDATA[Running a 28.9M parameter LLM on an $8 microcontroller]]></title>
+            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=49050512 target=_blank>51 comments</a>]]></description>
+            <pubDate>2026-07-25T18:59:50Z</pubDate>
+            <guid isPermaLink="false">https://github.com/slvDev/esp32-ai</guid>
+            <link>https://github.com/slvDev/esp32-ai</link>
             
             
             
-            <author><![CDATA[olexsmir]]></author>
+            <author><![CDATA[boveyking]]></author>
             
                 
             
@@ -115,7 +131,7 @@
         
         <item>
             <title><![CDATA[JetZero]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=49054224 target=_blank>177 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=49054224 target=_blank>193 comments</a>]]></description>
             <pubDate>2026-07-26T02:55:50Z</pubDate>
             <guid isPermaLink="false">https://www.jetzero.aero</guid>
             <link>https://www.jetzero.aero</link>
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Turn And Face The Strange]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=49051369 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=49051369 target=_blank>133 comments</a>]]></description>
             <pubDate>2026-07-25T20:43:11Z</pubDate>
             <guid isPermaLink="false">https://fly.io/blog/kurt-scott-money-sprites/</guid>
             <link>https://fly.io/blog/kurt-scott-money-sprites/</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[The Dark Night of Mathematics]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=49048681 target=_blank>253 comments</a>]]></description>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=49048681 target=_blank>254 comments</a>]]></description>
             <pubDate>2026-07-25T15:54:59Z</pubDate>
             <guid isPermaLink="false">https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics</guid>
             <link>https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics</link>
@@ -162,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Running a 28.9M parameter LLM on an $8 microcontroller]]></title>
-            <description><![CDATA[205 points | <a href=https://news.ycombinator.com/item?id=49050512 target=_blank>50 comments</a>]]></description>
-            <pubDate>2026-07-25T18:59:50Z</pubDate>
-            <guid isPermaLink="false">https://github.com/slvDev/esp32-ai</guid>
-            <link>https://github.com/slvDev/esp32-ai</link>
-            
-            
-            
-            <author><![CDATA[boveyking]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Show HN: Brolly, a plain-text weather forecast site]]></title>
-            <description><![CDATA[202 points | <a href=https://news.ycombinator.com/item?id=49049693 target=_blank>71 comments</a>]]></description>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=49049693 target=_blank>71 comments</a>]]></description>
             <pubDate>2026-07-25T17:34:34Z</pubDate>
             <guid isPermaLink="false">https://brolly.sh/forecast/RWFP2qW8</guid>
             <link>https://brolly.sh/forecast/RWFP2qW8</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[GM Backs Sodium Ion Batteries for U.S. Grid Storage]]></title>
-            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=49051947 target=_blank>82 comments</a>]]></description>
-            <pubDate>2026-07-25T21:48:22Z</pubDate>
-            <guid isPermaLink="false">https://spectrum.ieee.org/sodium-ion-battery-peak-energy</guid>
-            <link>https://spectrum.ieee.org/sodium-ion-battery-peak-energy</link>
+            <title><![CDATA[DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]]]></title>
+            <description><![CDATA[186 points | <a href=https://news.ycombinator.com/item?id=49052912 target=_blank>139 comments</a>]]></description>
+            <pubDate>2026-07-25T23:32:50Z</pubDate>
+            <guid isPermaLink="false">https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</guid>
+            <link>https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</link>
             
             
             
-            <author><![CDATA[rbanffy]]></author>
+            <author><![CDATA[oliculipolicula]]></author>
             
                 
             
