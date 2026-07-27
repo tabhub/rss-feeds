@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #782]]></title>
+        <title><![CDATA[Perl Weekly #783]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Announcing the April Task ForcePermalink]]></title>
-            <description><![CDATA[April Task Force is set up to strengthen the CPANSec CNA Function, improve the security posture of CPAN and Perl, and to help prepare these communities for the impact expected from the general availability of security analysis-capable Large Language Models.]]></description>
-            <pubDate>2026.07.15</pubDate>
-            <guid isPermaLink="false">https://security.metacpan.org/2026/07/15/april-task-force-announcement.html</guid>
-            <link>https://security.metacpan.org/2026/07/15/april-task-force-announcement.html</link>
+            <title><![CDATA[Python 3.15: (Or, How Python is Slowly Becoming Perl)]]></title>
+            <description><![CDATA[While this article talks about the new features of Python, it includes excellent pointers to existing features of Perl. My personal issue is echoed in the final assessment of the article. Python developers used to make fun of the Perl motto TIMTOWDI, and I used to say that There is more than one way to do it, one of them is Python. However, nowadays there are a zillion ways to do everything in Python.]]></description>
+            <pubDate>2026.07.24</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-07-24-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2026-07-24-post.html</link>
             
             
             
-            <author><![CDATA[salve_nilsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.50, Mojo.Wiki V 1.21 etc]]></title>
-            <description><![CDATA[Two wikis, CPAN metacurator and Tree Cladogram/DAG are now available in the latest release.]]></description>
-            <pubDate>2026.07.13</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/07/announce-perlwiki-v-150-mojowiki-v-121-etc.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/07/announce-perlwiki-v-150-mojowiki-v-121-etc.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[rob_lauer]]></author>
             
                 
             
@@ -50,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DBIx::Class vs DBIO]]></title>
-            <description><![CDATA[I took a moment off writing the book on DBIx::Class to explore DBIO, a new competitor in the Perl ORM sector. I faced some difficulties installing the system but shared useful comparisons of standard table schemas, result classes, and test cases demonstrating the similarity.]]></description>
-            <pubDate>2026.06.24</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dbic-vs-dbio/</guid>
-            <link>https://theweeklychallenge.org/blog/dbic-vs-dbio/</link>
+            <title><![CDATA[Remember PerlScript? When Internet Explorer Could Run Perl]]></title>
+            <description><![CDATA[I only remember server-side PerlScript, but then again, I don't remember what I had for breakfast either. In any case, cute explanation of what could have been an alternate reality.]]></description>
+            <pubDate>2026.07.23</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2026/07/remember-perlscript-when-internet-explorer-could-run-perl/</guid>
+            <link>https://perlhacks.com/2026/07/remember-perlscript-when-internet-explorer-could-run-perl/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SQL JOIN using DBIx::Class]]></title>
-            <description><![CDATA[ In this post, I share the application of different SQL JOINs within the database application created using DBIx::Class. It illustrates the four important types of joins using an example of unit testing which employs User and Profile tables.]]></description>
-            <pubDate>2026.07.02</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/dbic-sql-join/</guid>
-            <link>https://theweeklychallenge.org/blog/dbic-sql-join/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[dave_cross]]></author>
             
                 
             
@@ -82,79 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Flatpak with Perl]]></title>
-            <description><![CDATA[In this tutorial, I show how to effectively use Flatpak to containerise their Perl script in a sandbox that is isolated from the network. Using a manifest file that pulls in dependencies from CPAN, I explain how to compile and run their Perl application across all possible modern Linux distributions without running into any trouble.]]></description>
-            <pubDate>2026.07.07</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/flatpak-with-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/flatpak-with-perl/</link>
+            <title><![CDATA[How to Write "Production-Quality" Code with AI (yes, even Perl)]]></title>
+            <description><![CDATA[How to Write "Production-Quality" Code with AI (yes, even Perl)]]></description>
+            <pubDate>2026.07.23</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1v44w36/how_to_write_productionquality_code_with_ai_yes/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1v44w36/how_to_write_productionquality_code_with_ai_yes/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SOLID using Perl]]></title>
-            <description><![CDATA[Having done the book on Design Patterns, it is time to talk about Design Principles. In this post, I look at SOLID design principles using Perl.]]></description>
-            <pubDate>2026.07.18</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/solid-using-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/solid-using-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[IoC using Perl]]></title>
-            <description><![CDATA[Having done Design Patterns and Design Principles in Perl, it is natural to discuss Inversion of Control (IoC) next.]]></description>
-            <pubDate>2026.07.19</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/ioc-using-perl/</guid>
-            <link>https://theweeklychallenge.org/blog/ioc-using-perl/</link>
-            
-            
-            
-            <author><![CDATA[mohammad_anwar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Three ways to write a table in Podlite]]></title>
-            <description><![CDATA[In the article, Aliaksandr Zahatski investigates the capacities for grid creation inherent in the block-markup language Podlite. The article elaborates various specific syntax types—text mode that suits for performing quick note-taking, structure block format that is meant for cell-spanning arrangements and rich content, as well as data-driven integration for processing unformatted CSV or TSV files.]]></description>
-            <pubDate>2026.07.15</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/three-ways-to-write-a-table-in-podlite/</guid>
-            <link>https://www.perl.com/article/three-ways-to-write-a-table-in-podlite/</link>
-            
-            
-            
-            <author><![CDATA[aliaksandr_zahatski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[2026.27 TRF Lives!]]></title>
-            <description><![CDATA[2026.27 TRF Lives!]]></description>
-            <pubDate>2026.07.06</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/07/06/2026-27-trf-lives/</guid>
-            <link>https://rakudoweekly.blog/2026/07/06/2026-27-trf-lives/</link>
-            
-            
-            
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -163,8 +67,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/07/dcix-17-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.07.18</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/07/dcx-19-great-cpan-modules-released-last.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.07.25</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -194,11 +98,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
-            <description><![CDATA[August 12, 2026]]></description>
+            <title><![CDATA[Berlin.pm]]></title>
+            <description><![CDATA[July 29, 2026]]></description>
             
-            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
-            <link>https://www.meetup.com/hacklafayette/</link>
+            <guid isPermaLink="false">https://berlin.pm.org/</guid>
+            <link>https://berlin.pm.org/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Amsterdam PM bijeenkomst]]></title>
+            <description><![CDATA[August 04, 2026]]></description>
+            
+            <guid isPermaLink="false">https://www.meetup.com/dutch-perl-mongers/</guid>
+            <link>https://www.meetup.com/dutch-perl-mongers/</link>
             
             
             
@@ -211,7 +131,7 @@
         
         <item>
             <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
-            <description><![CDATA[September 9, 2026]]></description>
+            <description><![CDATA[August 12, 2026]]></description>
             
             <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
             <link>https://www.meetup.com/hacklafayette/</link>
