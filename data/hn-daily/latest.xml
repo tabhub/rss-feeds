@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[qm – Multiplayer agent harness for work]]></title>
-            <description><![CDATA[635 points | <a href=https://news.ycombinator.com/item?id=49126604 target=_blank>148 comments</a>]]></description>
-            <pubDate>2026-07-31T18:04:58Z</pubDate>
-            <guid isPermaLink="false">https://github.com/yc-software/qm</guid>
-            <link>https://github.com/yc-software/qm</link>
-            
-            
-            
-            <author><![CDATA[tosh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Tailscale didn't stop the Hugging Face intrusion]]></title>
-            <description><![CDATA[583 points | <a href=https://news.ycombinator.com/item?id=49127306 target=_blank>214 comments</a>]]></description>
+            <description><![CDATA[585 points | <a href=https://news.ycombinator.com/item?id=49127306 target=_blank>214 comments</a>]]></description>
             <pubDate>2026-07-31T19:03:45Z</pubDate>
             <guid isPermaLink="false">https://tailscale.com/blog/hugging-face-intrusion</guid>
             <link>https://tailscale.com/blog/hugging-face-intrusion</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Ten advances in mathematics and theoretical computer science]]></title>
-            <description><![CDATA[358 points | <a href=https://news.ycombinator.com/item?id=49132058 target=_blank>240 comments</a>]]></description>
+            <description><![CDATA[374 points | <a href=https://news.ycombinator.com/item?id=49132058 target=_blank>252 comments</a>]]></description>
             <pubDate>2026-08-01T07:37:44Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/ten-advances-in-mathematics/</guid>
             <link>https://openai.com/index/ten-advances-in-mathematics/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[How to Exist]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=49129990 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=49129990 target=_blank>209 comments</a>]]></description>
             <pubDate>2026-08-01T00:25:00Z</pubDate>
             <guid isPermaLink="false">https://www.raptitude.com/2026/07/how-to-exist/</guid>
             <link>https://www.raptitude.com/2026/07/how-to-exist/</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[AI doesn't generate working products, that's still your job]]></title>
-            <description><![CDATA[239 points | <a href=https://news.ycombinator.com/item?id=49132130 target=_blank>250 comments</a>]]></description>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=49132130 target=_blank>254 comments</a>]]></description>
             <pubDate>2026-08-01T07:52:10Z</pubDate>
             <guid isPermaLink="false">https://weeraman.com/the-prototype-isnt-the-product/</guid>
             <link>https://weeraman.com/the-prototype-isnt-the-product/</link>
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[Flint: A Visualization Language for the AI Era]]></title>
-            <description><![CDATA[229 points | <a href=https://news.ycombinator.com/item?id=49130604 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[231 points | <a href=https://news.ycombinator.com/item?id=49130604 target=_blank>65 comments</a>]]></description>
             <pubDate>2026-08-01T02:45:09Z</pubDate>
             <guid isPermaLink="false">https://microsoft.github.io/flint-chart/</guid>
             <link>https://microsoft.github.io/flint-chart/</link>
@@ -114,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Cursor removed cost information from the usage page and CSV export]]></title>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=49135257 target=_blank>98 comments</a>]]></description>
+            <pubDate>2026-08-01T15:25:21Z</pubDate>
+            <guid isPermaLink="false">https://forum.cursor.com/t/usage-page-to-token-amount-what/167153</guid>
+            <link>https://forum.cursor.com/t/usage-page-to-token-amount-what/167153</link>
+            
+            
+            
+            <author><![CDATA[EugeneOZ]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[BMW Spider-Man in-car advertising]]></title>
-            <description><![CDATA[220 points | <a href=https://news.ycombinator.com/item?id=49130756 target=_blank>155 comments</a>]]></description>
+            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=49130756 target=_blank>156 comments</a>]]></description>
             <pubDate>2026-08-01T03:25:12Z</pubDate>
             <guid isPermaLink="false">https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising</guid>
             <link>https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[RipGrep musl binaries occasionally segfault during very-large searches]]></title>
-            <description><![CDATA[198 points | <a href=https://news.ycombinator.com/item?id=49133889 target=_blank>135 comments</a>]]></description>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=49133889 target=_blank>145 comments</a>]]></description>
             <pubDate>2026-08-01T12:34:25Z</pubDate>
             <guid isPermaLink="false">https://github.com/BurntSushi/ripgrep/issues/3494</guid>
             <link>https://github.com/BurntSushi/ripgrep/issues/3494</link>
@@ -146,40 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Cursor removed cost information from the usage page and CSV export]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=49135257 target=_blank>83 comments</a>]]></description>
-            <pubDate>2026-08-01T15:25:21Z</pubDate>
-            <guid isPermaLink="false">https://forum.cursor.com/t/usage-page-to-token-amount-what/167153</guid>
-            <link>https://forum.cursor.com/t/usage-page-to-token-amount-what/167153</link>
-            
-            
-            
-            <author><![CDATA[EugeneOZ]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[June in Servo: real world compat, media queries, SharedWorker, and more]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=49126765 target=_blank>59 comments</a>]]></description>
-            <pubDate>2026-07-31T18:17:52Z</pubDate>
-            <guid isPermaLink="false">https://servo.org/blog/2026/07/31/june-in-servo/</guid>
-            <link>https://servo.org/blog/2026/07/31/june-in-servo/</link>
-            
-            
-            
-            <author><![CDATA[iamnothere]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=49134694 target=_blank>101 comments</a>]]></description>
+            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=49134694 target=_blank>117 comments</a>]]></description>
             <pubDate>2026-08-01T14:19:51Z</pubDate>
             <guid isPermaLink="false">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</guid>
             <link>https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</link>
@@ -194,15 +162,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Golang proposal: container/: generic collection types]]></title>
-            <description><![CDATA[174 points | <a href=https://news.ycombinator.com/item?id=49127031 target=_blank>170 comments</a>]]></description>
-            <pubDate>2026-07-31T18:39:47Z</pubDate>
-            <guid isPermaLink="false">https://github.com/golang/go/issues/80590</guid>
-            <link>https://github.com/golang/go/issues/80590</link>
+            <title><![CDATA[RamenHaus]]></title>
+            <description><![CDATA[185 points | <a href=https://news.ycombinator.com/item?id=49132460 target=_blank>91 comments</a>]]></description>
+            <pubDate>2026-08-01T08:48:58Z</pubDate>
+            <guid isPermaLink="false">https://ramen.haus/</guid>
+            <link>https://ramen.haus/</link>
             
             
             
-            <author><![CDATA[jabits]]></author>
+            <author><![CDATA[oler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ten Ways NAS Is Getting Enshitified]]></title>
+            <description><![CDATA[176 points | <a href=https://news.ycombinator.com/item?id=49131367 target=_blank>163 comments</a>]]></description>
+            <pubDate>2026-08-01T05:38:16Z</pubDate>
+            <guid isPermaLink="false">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</guid>
+            <link>https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</link>
+            
+            
+            
+            <author><![CDATA[giuliomagnifico]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The development pipeline is a production system]]></title>
+            <description><![CDATA[147 points | <a href=https://news.ycombinator.com/item?id=49130726 target=_blank>72 comments</a>]]></description>
+            <pubDate>2026-08-01T03:16:09Z</pubDate>
+            <guid isPermaLink="false">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</guid>
+            <link>https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</link>
+            
+            
+            
+            <author><![CDATA[firefoxd]]></author>
             
                 
             
