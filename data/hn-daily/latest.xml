@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[France to ban unsolicited telemarketing calls]]></title>
-            <description><![CDATA[989 points | <a href=https://news.ycombinator.com/item?id=49254880 target=_blank>479 comments</a>]]></description>
+            <description><![CDATA[995 points | <a href=https://news.ycombinator.com/item?id=49254880 target=_blank>478 comments</a>]]></description>
             <pubDate>2026-08-11T08:15:46Z</pubDate>
             <guid isPermaLink="false">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</guid>
             <link>https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Stealing Reasoning Traces from Proprietary LLM APIs]]></title>
-            <description><![CDATA[512 points | <a href=https://news.ycombinator.com/item?id=49257876 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[549 points | <a href=https://news.ycombinator.com/item?id=49257876 target=_blank>231 comments</a>]]></description>
             <pubDate>2026-08-11T13:22:00Z</pubDate>
             <guid isPermaLink="false">https://stolen-thoughts.com/</guid>
             <link>https://stolen-thoughts.com/</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[England set to be one of the first countries to eliminate hepatitis C]]></title>
-            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=49257377 target=_blank>357 comments</a>]]></description>
+            <description><![CDATA[502 points | <a href=https://news.ycombinator.com/item?id=49257377 target=_blank>361 comments</a>]]></description>
             <pubDate>2026-08-11T12:41:59Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/articles/c75gk620r22o</guid>
             <link>https://www.bbc.com/news/articles/c75gk620r22o</link>
@@ -66,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Compression is prediction]]></title>
+            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=49263497 target=_blank>142 comments</a>]]></description>
+            <pubDate>2026-08-11T19:49:44Z</pubDate>
+            <guid isPermaLink="false">https://ngrok.com/blog/compression-is-prediction</guid>
+            <link>https://ngrok.com/blog/compression-is-prediction</link>
+            
+            
+            
+            <author><![CDATA[nikolay]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[OpenAI’s head of ethics leaves less than a year after joining]]></title>
-            <description><![CDATA[305 points | <a href=https://news.ycombinator.com/item?id=49257160 target=_blank>352 comments</a>]]></description>
+            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=49257160 target=_blank>358 comments</a>]]></description>
             <pubDate>2026-08-11T12:23:07Z</pubDate>
             <guid isPermaLink="false">https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0</guid>
             <link>https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0</link>
@@ -83,7 +99,7 @@
         
         <item>
             <title><![CDATA[Mojo 1.0]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=49261128 target=_blank>136 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=49261128 target=_blank>151 comments</a>]]></description>
             <pubDate>2026-08-11T16:56:46Z</pubDate>
             <guid isPermaLink="false">https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</guid>
             <link>https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</link>
@@ -99,7 +115,7 @@
         
         <item>
             <title><![CDATA[Nvidia's Risky Business]]></title>
-            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=49255710 target=_blank>142 comments</a>]]></description>
+            <description><![CDATA[314 points | <a href=https://news.ycombinator.com/item?id=49255710 target=_blank>150 comments</a>]]></description>
             <pubDate>2026-08-11T10:02:00Z</pubDate>
             <guid isPermaLink="false">https://stratechery.com/2026/nvidias-risky-business/</guid>
             <link>https://stratechery.com/2026/nvidias-risky-business/</link>
@@ -114,24 +130,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp]]></title>
-            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=49259339 target=_blank>43 comments</a>]]></description>
-            <pubDate>2026-08-11T14:50:33Z</pubDate>
-            <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
-            <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
-            
-            
-            
-            <author><![CDATA[frabonacci]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Go is an ideal language for AI-assisted software engineering]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=49261133 target=_blank>329 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=49261133 target=_blank>362 comments</a>]]></description>
             <pubDate>2026-08-11T16:57:09Z</pubDate>
             <guid isPermaLink="false">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</guid>
             <link>https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</link>
@@ -146,15 +146,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Compression is prediction]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=49263497 target=_blank>126 comments</a>]]></description>
-            <pubDate>2026-08-11T19:49:44Z</pubDate>
-            <guid isPermaLink="false">https://ngrok.com/blog/compression-is-prediction</guid>
-            <link>https://ngrok.com/blog/compression-is-prediction</link>
+            <title><![CDATA[Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp]]></title>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=49259339 target=_blank>43 comments</a>]]></description>
+            <pubDate>2026-08-11T14:50:33Z</pubDate>
+            <guid isPermaLink="false">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
+            <link>https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</link>
             
             
             
-            <author><![CDATA[nikolay]]></author>
+            <author><![CDATA[frabonacci]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[London Underground begins scanning passengers' faces]]></title>
+            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=49255496 target=_blank>269 comments</a>]]></description>
+            <pubDate>2026-08-11T09:40:02Z</pubDate>
+            <guid isPermaLink="false">https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</guid>
+            <link>https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</link>
+            
+            
+            
+            <author><![CDATA[BlueBerry2001]]></author>
             
                 
             
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[More than 10 firms pay up to $100k a month for access to Truth Social posts]]></title>
-            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=49255672 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=49255672 target=_blank>284 comments</a>]]></description>
             <pubDate>2026-08-11T09:57:14Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3q5nxpgk1o</guid>
             <link>https://www.bbc.com/news/articles/ce3q5nxpgk1o</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Woman pulled over twice after Flock-linked software connected her to homicide]]></title>
-            <description><![CDATA[249 points | <a href=https://news.ycombinator.com/item?id=49261218 target=_blank>226 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=49261218 target=_blank>228 comments</a>]]></description>
             <pubDate>2026-08-11T17:02:59Z</pubDate>
             <guid isPermaLink="false">https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</guid>
             <link>https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[cdrnsf]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[London Underground begins scanning passengers' faces]]></title>
-            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=49255496 target=_blank>260 comments</a>]]></description>
-            <pubDate>2026-08-11T09:40:02Z</pubDate>
-            <guid isPermaLink="false">https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</guid>
-            <link>https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</link>
-            
-            
-            
-            <author><![CDATA[BlueBerry2001]]></author>
             
                 
             
