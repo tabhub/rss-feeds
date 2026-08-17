@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #785]]></title>
+        <title><![CDATA[Perl Weekly #786]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Tsoding's Rope in Perl!]]></title>
-            <description><![CDATA[Apparently Tsoding is a person.]]></description>
+            <title><![CDATA[PAGI::FastAPI + WebSocket]]></title>
+            <description><![CDATA[Let's build online chat using PAGI::FastAPI and Mojo::Pg. It is incredible easy to build the app with little effort.]]></description>
             <pubDate>2026.08.08</pubDate>
-            <guid isPermaLink="false">https://raw.githubusercontent.com/foolish4/perl_pack/refs/heads/main/rope.pl</guid>
-            <link>https://raw.githubusercontent.com/foolish4/perl_pack/refs/heads/main/rope.pl</link>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/pagi-fastapi-websocket</guid>
+            <link>https://theweeklychallenge.org/blog/pagi-fastapi-websocket</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.52, CPAN::MetaCurator V 1.29, Mojo.WIki V 1.23]]></title>
-            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.52, CPAN::MetaCurator V 1.29, Mojo.WIki V 1.23]]></description>
-            <pubDate>2026.08</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/08/announce-perlwiki-v-152-cpanmetacurator-v-129-mojowiki-v-123.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/08/announce-perlwiki-v-152-cpanmetacurator-v-129-mojowiki-v-123.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -50,111 +34,95 @@
         </item>
         
         <item>
-            <title><![CDATA[Building a Real-Time Sentiment Analysis Platform with PERL and Machine Learning — Part 3: Data Collection and Preprocessing for Sentiment Analysis]]></title>
-            <description><![CDATA[It is a bit annoying that the author writes PERL, but it is a Shibboleth so we know he does not know. I did not say a word about it. The lack of code-highlighting and code-formatting makes it difficult to read - I commented on this. Would you want to give some other constructive(!) suggestions?]]></description>
-            <pubDate>2026.08.07</pubDate>
-            <guid isPermaLink="false">https://dev.to/vijay_vinoth_8e7abfd3f5b5/building-a-real-time-sentiment-analysis-platform-with-perl-and-machine-learning-part-3-data-243b</guid>
-            <link>https://dev.to/vijay_vinoth_8e7abfd3f5b5/building-a-real-time-sentiment-analysis-platform-with-perl-and-machine-learning-part-3-data-243b</link>
-            
-            
-            
-            <author><![CDATA[vijay_vinoth]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Building a Real-Time Sentiment Analysis Platform with PERL and Machine Learning — Part 1: Introduction to Sentiment Analysis and PERL Basics ]]></title>
-            <description><![CDATA[Building a Real-Time Sentiment Analysis Platform with PERL and Machine Learning — Part 1: Introduction to Sentiment Analysis and PERL Basics ]]></description>
-            <pubDate>2026.08</pubDate>
-            <guid isPermaLink="false">https://dev.to/vijay_vinoth_8e7abfd3f5b5/building-a-real-time-sentiment-analysis-platform-with-perl-and-machine-learning-part-1-3mj4</guid>
-            <link>https://dev.to/vijay_vinoth_8e7abfd3f5b5/building-a-real-time-sentiment-analysis-platform-with-perl-and-machine-learning-part-1-3mj4</link>
-            
-            
-            
-            <author><![CDATA[vijay_vinoth]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SSVC.pm: Stakeholder-Specific Vulnerability Categorization on CPAN]]></title>
-            <description><![CDATA[If you work anywhere near vulnerability management, you've run into the CVSS problem: a single severity number that tells you almost nothing about what to actually do. SSVC takes a different approach.]]></description>
-            <pubDate>2026.08.06</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/giuseppe_di_terlizzi/2026/08/ssvcpm-stakeholder-specific-vulnerability-categorization-on-cpan.html</guid>
-            <link>https://blogs.perl.org/users/giuseppe_di_terlizzi/2026/08/ssvcpm-stakeholder-specific-vulnerability-categorization-on-cpan.html</link>
-            
-            
-            
-            <author><![CDATA[giuseppe_di_terlizzi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Punk: a MVC framework]]></title>
-            <description><![CDATA[<a href="https://metacpan.org/pod/Punk">Punk</a> is web framework that does a lot of computation at startup and then it is (supposed to be) much faster. It also means that errors move to boot time so you find out about them sooner. It is a clear win.]]></description>
-            <pubDate>2026.08.07</pubDate>
-            <guid isPermaLink="false">https://dev.to/lnation/punk-a-mvc-framework-b23</guid>
-            <link>https://dev.to/lnation/punk-a-mvc-framework-b23</link>
-            
-            
-            
-            <author><![CDATA[robert_acock]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Announcing: Object::Cache::Sqlite]]></title>
-            <description><![CDATA[Scott just released a simple object caching module that uses SQLite as the backend. If you need easy caching check it out!]]></description>
-            <pubDate>2026.08.06</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/dist/Object-Cache-Sqlite</guid>
-            <link>https://metacpan.org/dist/Object-Cache-Sqlite</link>
-            
-            
-            
-            <author><![CDATA[scott_baker]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Phoenix Rising: Why Perl’s Unix Roots Matter More Than Ever]]></title>
-            <description><![CDATA[Phoenix Rising: Why Perl’s Unix Roots Matter More Than Ever]]></description>
-            <pubDate>2026.08.04</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-08-04-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2026-08-04-post.html</link>
-            
-            
-            
-            <author><![CDATA[rob_lauer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl development using Codex]]></title>
-            <description><![CDATA[Video recordings of the live presentation.]]></description>
+            <title><![CDATA[PAGI::FastAPI + DBIx::Class::Async]]></title>
+            <description><![CDATA[When building async web framework, it is obvious to bring DBIx::Class::Async into the fold. In this post, you will see how database handle is injected as dependency. One of the cool features, my personal favourite.]]></description>
             <pubDate>2026.08.03</pubDate>
-            <guid isPermaLink="false">https://perlmaven.com/perl-development-using-codex-by-emmanuel</guid>
-            <link>https://perlmaven.com/perl-development-using-codex-by-emmanuel</link>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/pagi-fastapi</guid>
+            <link>https://theweeklychallenge.org/blog/pagi-fastapi</link>
             
             
             
-            <author><![CDATA[emmanuel_thouraud]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Access / Refresh Token]]></title>
+            <description><![CDATA[A quick introduction to Access Token and Refresh Token, and end up creating a handy web application to demo the workings.]]></description>
+            <pubDate>2026.08.03</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/access-refresh-token</guid>
+            <link>https://theweeklychallenge.org/blog/access-refresh-token</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[pperl 0.6.12+ - "Shall we play a game?"]]></title>
+            <description><![CDATA[In versions 0.6.12 and up of pperl the development speed of the application is assessed while the Computer Language Benchmarks Game is updated. Initial tests show that the benchmark performance is 36 times better than standard Perl performance triggering redesigning of the JIT architecture to compete with Node.js/V8.]]></description>
+            <pubDate>2026.08.10</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/08/pperl-0612---lets-play-a-game.html</guid>
+            <link>https://blogs.perl.org/users/petamem/2026/08/pperl-0612---lets-play-a-game.html</link>
+            
+            
+            
+            <author><![CDATA[petamem]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Pacman in Perl/Tk]]></title>
+            <description><![CDATA[In Pacman in Perl/Tk, Alex goes back to a project he worked on in 2013 in order to analyse the separation of logical state from visual representation. By implementing the maze as a two-dimensional array where the shifting and collision functions use tile coordinates instead of canvas pixels, the article is able to exhibit a surprisingly elegant architecture similar to the Model-View approach using standard Perl and Tk.]]></description>
+            <pubDate>2026.08.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/alex1/2026/08/pacman-in-perltk.html</guid>
+            <link>https://blogs.perl.org/users/alex1/2026/08/pacman-in-perltk.html</link>
+            
+            
+            
+            <author><![CDATA[alex1]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[25+ useful and commonly used Regular Expressions]]></title>
+            <description><![CDATA[In this article, Dennis offers a useful reference guide containing patterns most often needed in various elements of work, namely for matching numbers, validating usernames, carrying out sophisticated RFC-compliant email verifications, and web scraping. The article is informative and useful for developers who perform tasks related to parsing and validating data.]]></description>
+            <pubDate>2026.08.15</pubDate>
+            <guid isPermaLink="false">https://dev.to/developaaah/25-useful-and-commonly-used-regular-expressions-10d</guid>
+            <link>https://dev.to/developaaah/25-useful-and-commonly-used-regular-expressions-10d</link>
+            
+            
+            
+            <author><![CDATA[dennis]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.32 Dan Floating Hex]]></title>
+            <description><![CDATA[2026.32 Dan Floating Hex]]></description>
+            <pubDate>2026.08.10</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/08/10/2026-32-dan-floating-hex/</guid>
+            <link>https://rakudoweekly.blog/2026/08/10/2026-32-dan-floating-hex/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -163,30 +131,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/08/dcxii-20-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/08/dcxxx-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2026.08.08</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/08/dcxiii-20-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.08.15</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
-            <description><![CDATA[August 12, 2026]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
-            <link>https://www.meetup.com/hacklafayette/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -263,6 +215,22 @@
             
             <guid isPermaLink="false">https://luma.com/6qqyscbm</guid>
             <link>https://luma.com/6qqyscbm</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Punk: Perl MVC, compiled at boot]]></title>
+            <description><![CDATA[November 16, 2026]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/o4k2uute</guid>
+            <link>https://luma.com/o4k2uute</link>
             
             
             
