@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing]]></title>
-            <description><![CDATA[753 points | <a href=https://news.ycombinator.com/item?id=49324087 target=_blank>665 comments</a>]]></description>
-            <pubDate>2026-08-16T21:53:43Z</pubDate>
-            <guid isPermaLink="false">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</guid>
-            <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
-            
-            
-            
-            <author><![CDATA[ropbear]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Qwen 3.8 27B is excellent, but it defaults to overthinking things]]></title>
-            <description><![CDATA[748 points | <a href=https://news.ycombinator.com/item?id=49324985 target=_blank>355 comments</a>]]></description>
+            <description><![CDATA[751 points | <a href=https://news.ycombinator.com/item?id=49324985 target=_blank>355 comments</a>]]></description>
             <pubDate>2026-08-16T23:45:09Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2026/Aug/16/qwen-38-27b/</guid>
             <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
@@ -67,7 +51,7 @@
         
         <item>
             <title><![CDATA[A Preview of DuckDB v2.0]]></title>
-            <description><![CDATA[495 points | <a href=https://news.ycombinator.com/item?id=49330781 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[502 points | <a href=https://news.ycombinator.com/item?id=49330781 target=_blank>86 comments</a>]]></description>
             <pubDate>2026-08-17T13:46:27Z</pubDate>
             <guid isPermaLink="false">https://duckdb.org/2026/08/17/duckdb-20-highlights</guid>
             <link>https://duckdb.org/2026/08/17/duckdb-20-highlights</link>
@@ -83,7 +67,7 @@
         
         <item>
             <title><![CDATA[Incident with Github.com]]></title>
-            <description><![CDATA[478 points | <a href=https://news.ycombinator.com/item?id=49330597 target=_blank>861 comments</a>]]></description>
+            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=49330597 target=_blank>870 comments</a>]]></description>
             <pubDate>2026-08-17T13:35:06Z</pubDate>
             <guid isPermaLink="false">https://www.githubstatus.com/incidents/zkxwbgr0cnmx</guid>
             <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
@@ -98,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Ask HN: Alternatives to GitHub]]></title>
-            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=49331033 target=_blank>292 comments</a>]]></description>
-            <pubDate>2026-08-17T13:59:17Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=49331033</guid>
-            <link>https://news.ycombinator.com/item?id=49331033</link>
-            
-            
-            
-            <author><![CDATA[dhruv3006]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[AI;DR (AI; Didn't Read)]]></title>
-            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=49336573 target=_blank>284 comments</a>]]></description>
+            <description><![CDATA[482 points | <a href=https://news.ycombinator.com/item?id=49336573 target=_blank>297 comments</a>]]></description>
             <pubDate>2026-08-17T19:47:15Z</pubDate>
             <guid isPermaLink="false">https://www.rickmanelius.com/p/aidr-ai-didnt-read</guid>
             <link>https://www.rickmanelius.com/p/aidr-ai-didnt-read</link>
@@ -130,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Ask HN: Alternatives to GitHub]]></title>
+            <description><![CDATA[467 points | <a href=https://news.ycombinator.com/item?id=49331033 target=_blank>296 comments</a>]]></description>
+            <pubDate>2026-08-17T13:59:17Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=49331033</guid>
+            <link>https://news.ycombinator.com/item?id=49331033</link>
+            
+            
+            
+            <author><![CDATA[dhruv3006]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study]]></title>
-            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=49332981 target=_blank>507 comments</a>]]></description>
+            <description><![CDATA[373 points | <a href=https://news.ycombinator.com/item?id=49332981 target=_blank>508 comments</a>]]></description>
             <pubDate>2026-08-17T15:49:57Z</pubDate>
             <guid isPermaLink="false">https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/</guid>
             <link>https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira]]></title>
-            <description><![CDATA[292 points | <a href=https://news.ycombinator.com/item?id=49331423 target=_blank>120 comments</a>]]></description>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=49331423 target=_blank>122 comments</a>]]></description>
             <pubDate>2026-08-17T14:18:38Z</pubDate>
             <guid isPermaLink="false">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</guid>
             <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
@@ -155,6 +139,22 @@
             
             
             <author><![CDATA[galnagli]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GPT 5.6 Sol is the best "vision" model OpenAI ever released]]></title>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=49329575 target=_blank>150 comments</a>]]></description>
+            <pubDate>2026-08-17T12:09:42Z</pubDate>
+            <guid isPermaLink="false">https://blog.roboflow.com/openai-gpt-5-6/</guid>
+            <link>https://blog.roboflow.com/openai-gpt-5-6/</link>
+            
+            
+            
+            <author><![CDATA[plurby]]></author>
             
                 
             
@@ -178,24 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[GPT 5.6 Sol is the best "vision" model OpenAI ever released]]></title>
-            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=49329575 target=_blank>148 comments</a>]]></description>
-            <pubDate>2026-08-17T12:09:42Z</pubDate>
-            <guid isPermaLink="false">https://blog.roboflow.com/openai-gpt-5-6/</guid>
-            <link>https://blog.roboflow.com/openai-gpt-5-6/</link>
-            
-            
-            
-            <author><![CDATA[plurby]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[The federal keyword lists that canceled billions in research funding]]></title>
-            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=49325159 target=_blank>171 comments</a>]]></description>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=49325159 target=_blank>175 comments</a>]]></description>
             <pubDate>2026-08-17T00:14:10Z</pubDate>
             <guid isPermaLink="false">https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</guid>
             <link>https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[walrus01]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Qwen3.8 27B scores 52 on Artificial Analysis]]></title>
+            <description><![CDATA[274 points | <a href=https://news.ycombinator.com/item?id=49334544 target=_blank>123 comments</a>]]></description>
+            <pubDate>2026-08-17T17:25:17Z</pubDate>
+            <guid isPermaLink="false">https://artificialanalysis.ai/models/qwen3-8-27b</guid>
+            <link>https://artificialanalysis.ai/models/qwen3-8-27b</link>
+            
+            
+            
+            <author><![CDATA[anana_]]></author>
             
                 
             
