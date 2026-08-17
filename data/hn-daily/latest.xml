@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Qwen 3.8 27B is excellent, but it defaults to overthinking things]]></title>
-            <description><![CDATA[701 points | <a href=https://news.ycombinator.com/item?id=49324985 target=_blank>331 comments</a>]]></description>
+            <description><![CDATA[714 points | <a href=https://news.ycombinator.com/item?id=49324985 target=_blank>332 comments</a>]]></description>
             <pubDate>2026-08-16T23:45:09Z</pubDate>
             <guid isPermaLink="false">https://simonwillison.net/2026/Aug/16/qwen-38-27b/</guid>
             <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Incident with Github.com]]></title>
-            <description><![CDATA[674 points | <a href=https://news.ycombinator.com/item?id=49330684 target=_blank>478 comments</a>]]></description>
+            <description><![CDATA[688 points | <a href=https://news.ycombinator.com/item?id=49330684 target=_blank>2 comments</a>]]></description>
             <pubDate>2026-08-17T13:40:55Z</pubDate>
             <guid isPermaLink="false">https://www.githubstatus.com/incidents/zkxwbgr0cnmx</guid>
             <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
@@ -50,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Tell HN: Cloudflare silently injects its analytics when you switch nameservers]]></title>
-            <description><![CDATA[597 points | <a href=https://news.ycombinator.com/item?id=49322107 target=_blank>184 comments</a>]]></description>
-            <pubDate>2026-08-16T17:49:46Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=49322107</guid>
-            <link>https://news.ycombinator.com/item?id=49322107</link>
-            
-            
-            
-            <author><![CDATA[stagas]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Anthropic's 'watermark' text adulteration in Claude is a perversion of writing]]></title>
-            <description><![CDATA[595 points | <a href=https://news.ycombinator.com/item?id=49324087 target=_blank>529 comments</a>]]></description>
+            <title><![CDATA[Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing]]></title>
+            <description><![CDATA[617 points | <a href=https://news.ycombinator.com/item?id=49324087 target=_blank>545 comments</a>]]></description>
             <pubDate>2026-08-16T21:53:43Z</pubDate>
             <guid isPermaLink="false">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</guid>
             <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
@@ -82,8 +66,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Tell HN: Cloudflare silently injects its analytics when you switch nameservers]]></title>
+            <description><![CDATA[599 points | <a href=https://news.ycombinator.com/item?id=49322107 target=_blank>185 comments</a>]]></description>
+            <pubDate>2026-08-16T17:49:46Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=49322107</guid>
+            <link>https://news.ycombinator.com/item?id=49322107</link>
+            
+            
+            
+            <author><![CDATA[stagas]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[A third world engineer responds to “RISC-V: They should have known better”]]></title>
-            <description><![CDATA[588 points | <a href=https://news.ycombinator.com/item?id=49321717 target=_blank>297 comments</a>]]></description>
+            <description><![CDATA[591 points | <a href=https://news.ycombinator.com/item?id=49321717 target=_blank>304 comments</a>]]></description>
             <pubDate>2026-08-16T17:01:07Z</pubDate>
             <guid isPermaLink="false">https://rvembedded.com/blog_post/12/</guid>
             <link>https://rvembedded.com/blog_post/12/</link>
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Stripe will reportedly acquire OpenRouter for $7B+]]></title>
-            <description><![CDATA[432 points | <a href=https://news.ycombinator.com/item?id=49323381 target=_blank>267 comments</a>]]></description>
+            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=49323381 target=_blank>268 comments</a>]]></description>
             <pubDate>2026-08-16T20:31:16Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/</guid>
             <link>https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/</link>
@@ -115,7 +115,7 @@
         
         <item>
             <title><![CDATA[Models Are Getting Dumber on Purpose]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=49322695 target=_blank>181 comments</a>]]></description>
+            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=49322695 target=_blank>181 comments</a>]]></description>
             <pubDate>2026-08-16T19:04:26Z</pubDate>
             <guid isPermaLink="false">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</guid>
             <link>https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</link>
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[GitHub down again? no PR access]]></title>
-            <description><![CDATA[275 points | <a href=https://news.ycombinator.com/item?id=49330632 target=_blank>93 comments</a>]]></description>
+            <description><![CDATA[287 points | <a href=https://news.ycombinator.com/item?id=49330632 target=_blank>2 comments</a>]]></description>
             <pubDate>2026-08-17T13:37:28Z</pubDate>
             <guid isPermaLink="false">https://news.ycombinator.com/item?id=49330632</guid>
             <link>https://news.ycombinator.com/item?id=49330632</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[The federal keyword lists that canceled billions in research funding]]></title>
-            <description><![CDATA[261 points | <a href=https://news.ycombinator.com/item?id=49325159 target=_blank>150 comments</a>]]></description>
+            <description><![CDATA[266 points | <a href=https://news.ycombinator.com/item?id=49325159 target=_blank>154 comments</a>]]></description>
             <pubDate>2026-08-17T00:14:10Z</pubDate>
             <guid isPermaLink="false">https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</guid>
             <link>https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</link>
@@ -162,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[A Preview of DuckDB v2.0]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=49330781 target=_blank>33 comments</a>]]></description>
+            <pubDate>2026-08-17T13:46:27Z</pubDate>
+            <guid isPermaLink="false">https://duckdb.org/2026/08/17/duckdb-20-highlights</guid>
+            <link>https://duckdb.org/2026/08/17/duckdb-20-highlights</link>
+            
+            
+            
+            <author><![CDATA[ibotty]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[GIMP Development Update]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=49326156 target=_blank>215 comments</a>]]></description>
+            <description><![CDATA[243 points | <a href=https://news.ycombinator.com/item?id=49326156 target=_blank>220 comments</a>]]></description>
             <pubDate>2026-08-17T03:08:47Z</pubDate>
             <guid isPermaLink="false">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</guid>
             <link>https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee]]></title>
-            <description><![CDATA[232 points | <a href=https://news.ycombinator.com/item?id=49323686 target=_blank>132 comments</a>]]></description>
+            <description><![CDATA[235 points | <a href=https://news.ycombinator.com/item?id=49323686 target=_blank>133 comments</a>]]></description>
             <pubDate>2026-08-16T21:07:10Z</pubDate>
             <guid isPermaLink="false">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</guid>
             <link>https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[root-parent]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The weekend is 100 years old]]></title>
-            <description><![CDATA[211 points | <a href=https://news.ycombinator.com/item?id=49320984 target=_blank>149 comments</a>]]></description>
-            <pubDate>2026-08-16T15:30:15Z</pubDate>
-            <guid isPermaLink="false">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</guid>
-            <link>https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</link>
-            
-            
-            
-            <author><![CDATA[lentil_soup]]></author>
             
                 
             
