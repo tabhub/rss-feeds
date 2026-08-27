@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[AWS Acquires DuckLabs]]></title>
-            <description><![CDATA[926 points | <a href=https://news.ycombinator.com/item?id=49448321 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[1008 points | <a href=https://news.ycombinator.com/item?id=49448321 target=_blank>297 comments</a>]]></description>
             <pubDate>2026-08-26T12:59:26Z</pubDate>
             <guid isPermaLink="false">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</guid>
             <link>https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[GLM-5.3-Flash]]></title>
-            <description><![CDATA[819 points | <a href=https://news.ycombinator.com/item?id=49449507 target=_blank>409 comments</a>]]></description>
+            <description><![CDATA[934 points | <a href=https://news.ycombinator.com/item?id=49449507 target=_blank>469 comments</a>]]></description>
             <pubDate>2026-08-26T14:08:50Z</pubDate>
             <guid isPermaLink="false">https://z.ai/blog/glm-5.3-flash</guid>
             <link>https://z.ai/blog/glm-5.3-flash</link>
@@ -51,7 +51,7 @@
         
         <item>
             <title><![CDATA[Qwen3.8-Flash-Next]]></title>
-            <description><![CDATA[595 points | <a href=https://news.ycombinator.com/item?id=49448210 target=_blank>193 comments</a>]]></description>
+            <description><![CDATA[650 points | <a href=https://news.ycombinator.com/item?id=49448210 target=_blank>211 comments</a>]]></description>
             <pubDate>2026-08-26T12:52:12Z</pubDate>
             <guid isPermaLink="false">https://qwen.ai/blog?id=qwen3.8-flash-next</guid>
             <link>https://qwen.ai/blog?id=qwen3.8-flash-next</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Tim Curry has died]]></title>
-            <description><![CDATA[545 points | <a href=https://news.ycombinator.com/item?id=49451448 target=_blank>188 comments</a>]]></description>
+            <description><![CDATA[609 points | <a href=https://news.ycombinator.com/item?id=49451448 target=_blank>200 comments</a>]]></description>
             <pubDate>2026-08-26T16:03:37Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film</guid>
             <link>https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film</link>
@@ -82,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Meta reaches $17B settlement over social media harms to children]]></title>
-            <description><![CDATA[466 points | <a href=https://news.ycombinator.com/item?id=49448819 target=_blank>446 comments</a>]]></description>
-            <pubDate>2026-08-26T13:28:32Z</pubDate>
-            <guid isPermaLink="false">https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</guid>
-            <link>https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</link>
+            <title><![CDATA[Nvidia agrees to acquire Hugging Face for $13B]]></title>
+            <description><![CDATA[546 points | <a href=https://news.ycombinator.com/item?id=49458161 target=_blank>238 comments</a>]]></description>
+            <pubDate>2026-08-27T01:12:55Z</pubDate>
+            <guid isPermaLink="false">https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8</guid>
+            <link>https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8</link>
             
             
             
-            <author><![CDATA[bhouston]]></author>
+            <author><![CDATA[mfiguiere]]></author>
             
                 
             
@@ -99,7 +99,7 @@
         
         <item>
             <title><![CDATA[Tailcat – Like netcat, but over Tailscale’s data plane]]></title>
-            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=49452990 target=_blank>79 comments</a>]]></description>
+            <description><![CDATA[507 points | <a href=https://news.ycombinator.com/item?id=49452990 target=_blank>94 comments</a>]]></description>
             <pubDate>2026-08-26T17:42:22Z</pubDate>
             <guid isPermaLink="false">https://github.com/tailscale/tailcat</guid>
             <link>https://github.com/tailscale/tailcat</link>
@@ -114,8 +114,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Meta reaches $17B settlement over social media harms to children]]></title>
+            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=49448819 target=_blank>469 comments</a>]]></description>
+            <pubDate>2026-08-26T13:28:32Z</pubDate>
+            <guid isPermaLink="false">https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</guid>
+            <link>https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</link>
+            
+            
+            
+            <author><![CDATA[bhouston]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RAG Is Simpler Than You Think]]></title>
-            <description><![CDATA[418 points | <a href=https://news.ycombinator.com/item?id=49445727 target=_blank>175 comments</a>]]></description>
+            <description><![CDATA[447 points | <a href=https://news.ycombinator.com/item?id=49445727 target=_blank>179 comments</a>]]></description>
             <pubDate>2026-08-26T08:39:17Z</pubDate>
             <guid isPermaLink="false">https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think</guid>
             <link>https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think</link>
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights]]></title>
-            <description><![CDATA[408 points | <a href=https://news.ycombinator.com/item?id=49446422 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[421 points | <a href=https://news.ycombinator.com/item?id=49446422 target=_blank>142 comments</a>]]></description>
             <pubDate>2026-08-26T10:04:55Z</pubDate>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek</guid>
             <link>https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek</link>
@@ -146,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[U.S. State Department pauses immigrant visa applications]]></title>
+            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=49452709 target=_blank>538 comments</a>]]></description>
+            <pubDate>2026-08-26T17:22:16Z</pubDate>
+            <guid isPermaLink="false">https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23</guid>
+            <link>https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23</link>
+            
+            
+            
+            <author><![CDATA[sss111]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Nebula Sans]]></title>
-            <description><![CDATA[316 points | <a href=https://news.ycombinator.com/item?id=49450448 target=_blank>123 comments</a>]]></description>
+            <description><![CDATA[368 points | <a href=https://news.ycombinator.com/item?id=49450448 target=_blank>137 comments</a>]]></description>
             <pubDate>2026-08-26T15:03:52Z</pubDate>
             <guid isPermaLink="false">https://www.nebulasans.com</guid>
             <link>https://www.nebulasans.com</link>
@@ -162,40 +194,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Queryable Executables]]></title>
-            <description><![CDATA[306 points | <a href=https://news.ycombinator.com/item?id=49442589 target=_blank>79 comments</a>]]></description>
-            <pubDate>2026-08-26T00:20:49Z</pubDate>
-            <guid isPermaLink="false">https://fzakaria.com/2026/08/24/actually-queryable-executables</guid>
-            <link>https://fzakaria.com/2026/08/24/actually-queryable-executables</link>
-            
-            
-            
-            <author><![CDATA[rguiscard]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[France reaches 94.9% fiber coverage in 2026]]></title>
-            <description><![CDATA[296 points | <a href=https://news.ycombinator.com/item?id=49448872 target=_blank>219 comments</a>]]></description>
-            <pubDate>2026-08-26T13:32:35Z</pubDate>
-            <guid isPermaLink="false">https://cartefibre.arcep.fr</guid>
-            <link>https://cartefibre.arcep.fr</link>
-            
-            
-            
-            <author><![CDATA[nehalem501]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Twitter Viewer – View Twitter Without Account]]></title>
-            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=49449576 target=_blank>144 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=49449576 target=_blank>169 comments</a>]]></description>
             <pubDate>2026-08-26T14:11:39Z</pubDate>
             <guid isPermaLink="false">https://twitterwebviewer.com/</guid>
             <link>https://twitterwebviewer.com/</link>
