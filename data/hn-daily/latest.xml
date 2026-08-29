@@ -18,40 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[GUIs should be fully keyboard-driven]]></title>
-            <description><![CDATA[928 points | <a href=https://news.ycombinator.com/item?id=49479837 target=_blank>455 comments</a>]]></description>
-            <pubDate>2026-08-28T15:17:09Z</pubDate>
-            <guid isPermaLink="false">https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html</guid>
-            <link>https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html</link>
-            
-            
-            
-            <author><![CDATA[ckardaris]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GLM-5.3 is now open-weight]]></title>
-            <description><![CDATA[743 points | <a href=https://news.ycombinator.com/item?id=49479878 target=_blank>254 comments</a>]]></description>
-            <pubDate>2026-08-28T15:20:13Z</pubDate>
-            <guid isPermaLink="false">https://huggingface.co/zai-org/GLM-5.3</guid>
-            <link>https://huggingface.co/zai-org/GLM-5.3</link>
-            
-            
-            
-            <author><![CDATA[jeudesprits]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Our decision on Cursor following its acquisition by SpaceX]]></title>
-            <description><![CDATA[668 points | <a href=https://news.ycombinator.com/item?id=49486172 target=_blank>398 comments</a>]]></description>
+            <description><![CDATA[752 points | <a href=https://news.ycombinator.com/item?id=49486172 target=_blank>455 comments</a>]]></description>
             <pubDate>2026-08-29T01:47:53Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</guid>
             <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</link>
@@ -66,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Just the rumour of a bug is enough to find an exploit these days]]></title>
-            <description><![CDATA[357 points | <a href=https://news.ycombinator.com/item?id=49480466 target=_blank>115 comments</a>]]></description>
-            <pubDate>2026-08-28T15:58:46Z</pubDate>
-            <guid isPermaLink="false">https://anil.recoil.org/notes/rumour-is-the-exploit</guid>
-            <link>https://anil.recoil.org/notes/rumour-is-the-exploit</link>
+            <title><![CDATA[Debian votes to allow "responsible use of generative AI"]]></title>
+            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=49489982 target=_blank>349 comments</a>]]></description>
+            <pubDate>2026-08-29T14:02:10Z</pubDate>
+            <guid isPermaLink="false">https://lwn.net/Articles/1091231/</guid>
+            <link>https://lwn.net/Articles/1091231/</link>
             
             
             
-            <author><![CDATA[avsm]]></author>
+            <author><![CDATA[pluc]]></author>
             
                 
             
@@ -83,7 +51,7 @@
         
         <item>
             <title><![CDATA[Boot a Virtual iPhone via Apple's Virtualization.framework]]></title>
-            <description><![CDATA[336 points | <a href=https://news.ycombinator.com/item?id=49485267 target=_blank>85 comments</a>]]></description>
+            <description><![CDATA[355 points | <a href=https://news.ycombinator.com/item?id=49485267 target=_blank>96 comments</a>]]></description>
             <pubDate>2026-08-28T23:02:21Z</pubDate>
             <guid isPermaLink="false">https://github.com/Lakr233/vphone-cli</guid>
             <link>https://github.com/Lakr233/vphone-cli</link>
@@ -99,7 +67,7 @@
         
         <item>
             <title><![CDATA[Iceland votes on whether to restart talks on joining EU]]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=49489057 target=_blank>287 comments</a>]]></description>
+            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=49489057 target=_blank>365 comments</a>]]></description>
             <pubDate>2026-08-29T11:39:38Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cn45vdxyvvlo</guid>
             <link>https://www.bbc.com/news/articles/cn45vdxyvvlo</link>
@@ -115,7 +83,7 @@
         
         <item>
             <title><![CDATA[I accidentally turned LLM memory into program analysis]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=49485416 target=_blank>61 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=49485416 target=_blank>69 comments</a>]]></description>
             <pubDate>2026-08-28T23:27:45Z</pubDate>
             <guid isPermaLink="false">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
             <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
@@ -130,8 +98,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Samsung's Processing-in-Memory (PIM)]]></title>
+            <description><![CDATA[213 points | <a href=https://news.ycombinator.com/item?id=49487341 target=_blank>69 comments</a>]]></description>
+            <pubDate>2026-08-29T06:06:51Z</pubDate>
+            <guid isPermaLink="false">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</guid>
+            <link>https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</link>
+            
+            
+            
+            <author><![CDATA[ingve]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Chicken products recalled in five states due to “false marks of inspection”]]></title>
-            <description><![CDATA[194 points | <a href=https://news.ycombinator.com/item?id=49483182 target=_blank>161 comments</a>]]></description>
+            <description><![CDATA[196 points | <a href=https://news.ycombinator.com/item?id=49483182 target=_blank>162 comments</a>]]></description>
             <pubDate>2026-08-28T19:30:15Z</pubDate>
             <guid isPermaLink="false">https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/</guid>
             <link>https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/</link>
@@ -147,7 +131,7 @@
         
         <item>
             <title><![CDATA[Stopping the smart TV from being used against you]]></title>
-            <description><![CDATA[187 points | <a href=https://news.ycombinator.com/item?id=49483816 target=_blank>145 comments</a>]]></description>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=49483816 target=_blank>149 comments</a>]]></description>
             <pubDate>2026-08-28T20:27:57Z</pubDate>
             <guid isPermaLink="false">https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/</guid>
             <link>https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/</link>
@@ -162,40 +146,8 @@
         </item>
         
         <item>
-            <title><![CDATA[EasyEffects can improve laptop speaker sound quality]]></title>
-            <description><![CDATA[184 points | <a href=https://news.ycombinator.com/item?id=49479924 target=_blank>75 comments</a>]]></description>
-            <pubDate>2026-08-28T15:23:10Z</pubDate>
-            <guid isPermaLink="false">https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/</guid>
-            <link>https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/</link>
-            
-            
-            
-            <author><![CDATA[birdculture]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Samsung's Processing-in-Memory (PIM)]]></title>
-            <description><![CDATA[173 points | <a href=https://news.ycombinator.com/item?id=49487341 target=_blank>56 comments</a>]]></description>
-            <pubDate>2026-08-29T06:06:51Z</pubDate>
-            <guid isPermaLink="false">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</guid>
-            <link>https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</link>
-            
-            
-            
-            <author><![CDATA[ingve]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[StemDeck, a free, open-source and local AI stem separator]]></title>
-            <description><![CDATA[161 points | <a href=https://news.ycombinator.com/item?id=49486081 target=_blank>45 comments</a>]]></description>
+            <description><![CDATA[182 points | <a href=https://news.ycombinator.com/item?id=49486081 target=_blank>52 comments</a>]]></description>
             <pubDate>2026-08-29T01:24:13Z</pubDate>
             <guid isPermaLink="false">https://github.com/stemdeckapp/stemdeck</guid>
             <link>https://github.com/stemdeckapp/stemdeck</link>
@@ -203,6 +155,54 @@
             
             
             <author><![CDATA[thclpr]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TurboKV: Insanely fast Rust key-value store]]></title>
+            <description><![CDATA[162 points | <a href=https://news.ycombinator.com/item?id=49486334 target=_blank>80 comments</a>]]></description>
+            <pubDate>2026-08-29T02:23:37Z</pubDate>
+            <guid isPermaLink="false">https://github.com/kingroryg/turbokv</guid>
+            <link>https://github.com/kingroryg/turbokv</link>
+            
+            
+            
+            <author><![CDATA[rgbimbochamp]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[9th Circuit sides with states in Kalshi gambling fight]]></title>
+            <description><![CDATA[159 points | <a href=https://news.ycombinator.com/item?id=49485452 target=_blank>145 comments</a>]]></description>
+            <pubDate>2026-08-28T23:32:22Z</pubDate>
+            <guid isPermaLink="false">https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/</guid>
+            <link>https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/</link>
+            
+            
+            
+            <author><![CDATA[hungryhobbit]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[You Know GDPR Is Good Based on Who Hates It]]></title>
+            <description><![CDATA[138 points | <a href=https://news.ycombinator.com/item?id=49488282 target=_blank>147 comments</a>]]></description>
+            <pubDate>2026-08-29T09:19:22Z</pubDate>
+            <guid isPermaLink="false">https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</guid>
+            <link>https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</link>
+            
+            
+            
+            <author><![CDATA[latexr]]></author>
             
                 
             
