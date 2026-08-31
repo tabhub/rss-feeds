@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #787]]></title>
+        <title><![CDATA[Perl Weekly #788]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,27 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[German Perl/Raku Workshop 2027 in Hanover - 14.04.2027-16.04.2027]]></title>
-            <description><![CDATA[The <a href="https://act.yapc.eu/gpw2027/">German Perl/Raku Workshop 2027</a> will be held in April. The CFP is already open.]]></description>
-            <pubDate>2026.08.18</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2026/08/german-perlraku-workshop-2027-in-hanover---14042027-16042027.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2026/08/german-perlraku-workshop-2027-in-hanover---14042027-16042027.html</link>
-            
-            
-            
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CPAN Module dashboard updates]]></title>
-            <description><![CDATA[CPAN Module dashboard updates]]></description>
-            <pubDate>2026.08.19</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1vslp4q/cpan_module_dashboard_updates/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1vslp4q/cpan_module_dashboard_updates/</link>
+            <title><![CDATA[Announcing the London Perl & Raku Workshop 2026]]></title>
+            <description><![CDATA[Run by volunteers from the London Perl & Raku community, LPW will have talks about Perl, Raku, and other languages, technologies, and topics.]]></description>
+            <pubDate>2026.08.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/lpw/2026/08/announcing-the-london-perl-raku-workshop-2026.html</guid>
+            <link>https://blogs.perl.org/users/lpw/2026/08/announcing-the-london-perl-raku-workshop-2026.html</link>
             
             
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Release Strawberry Perl 5.42.3.1 64-bit UCRT · StrawberryPerl/Perl-Dist-Strawberry]]></title>
-            <description><![CDATA[Release Strawberry Perl 5.42.3.1 64-bit UCRT · StrawberryPerl/Perl-Dist-Strawberry]]></description>
-            <pubDate>2026.08.21</pubDate>
-            <guid isPermaLink="false">https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/tag/SP_54231_64bit</guid>
-            <link>https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/tag/SP_54231_64bit</link>
+            <title><![CDATA[YAPC::Tokyo 2026]]></title>
+            <description><![CDATA[YAPC::Tokyo 2026 is a technical conference organized by the Japan Perl Association, marking its 10th anniversary.]]></description>
+            <pubDate>2026.08.31</pubDate>
+            <guid isPermaLink="false">https://yapcjapan.org/2026tokyo/</guid>
+            <link>https://yapcjapan.org/2026tokyo/</link>
             
             
             
@@ -66,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Punk: Fully Authed]]></title>
-            <description><![CDATA[<a href="https://metacpan.org/pod/Punk">Punk</a> is a new MVC web framework we are going to learn about at one of the <a href="https://live.code-maven.com/perl">online sessions</a>. You can already go ahead, try it now, and give feedback to the author.]]></description>
-            <pubDate>2026.08.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/lnation/punk-fully-authed-3d3g</guid>
-            <link>https://dev.to/lnation/punk-fully-authed-3d3g</link>
+            <title><![CDATA[PerlOnJava 5.44.1 released]]></title>
+            <description><![CDATA[PerlOnJava 5.44.1 is released. This is a big milestone, with the regex implementation, ithreads, taint mode, and async/await now complete.]]></description>
+            <pubDate>2026.08.25</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/flavio_s_glock/2026/08/perlonjava-5441-released.html</guid>
+            <link>https://blogs.perl.org/users/flavio_s_glock/2026/08/perlonjava-5441-released.html</link>
             
             
             
-            <author><![CDATA[robert_acock]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[WebDyne 3.0 released -- now with PAGI, Server-Sent Events and WebSockets]]></title>
-            <description><![CDATA[<a href="https://webdyne.org/">WebDyne</a> is another web framework. I don't recall every seeing it despite it being on CPAN for 16 year at least. Go check it out and let the author (and us) know what do you think!]]></description>
-            <pubDate>2026.08.22</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/aspeer/2026/08/ive-released-webdyne-30-an.html</guid>
-            <link>https://blogs.perl.org/users/aspeer/2026/08/ive-released-webdyne-30-an.html</link>
-            
-            
-            
-            <author><![CDATA[andrew_speer]]></author>
+            <author><![CDATA[flavio_glock]]></author>
             
                 
             
@@ -98,11 +66,27 @@
         </item>
         
         <item>
-            <title><![CDATA[PAGI 0.002002: Clarifying How Applications Are Loaded]]></title>
-            <description><![CDATA[<a href="https://metacpan.org/dist/PAGI">PAGI</a> - Perl Asynchronous Gateway Interface is a specification for asynchronous Perl web applications, designed as a spiritual successor to PSGI. It defines a standard interface between async-capable Perl web servers, frameworks, and applications, supporting HTTP/1.1, WebSocket, and Server-Sent Events (SSE).]]></description>
-            <pubDate>2026.08.21</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/john_napiorkowski/2026/08/pagi-0002002-clarifying-how-applications-are-loaded.html</guid>
-            <link>https://blogs.perl.org/users/john_napiorkowski/2026/08/pagi-0002002-clarifying-how-applications-are-loaded.html</link>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V1.53, Mojo.Wiki V1.24]]></title>
+            <description><![CDATA[ANNOUNCE: Perl.Wiki V1.53, Mojo.Wiki V1.24]]></description>
+            <pubDate>2026.08.25</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/08/announce-perlwiki-v153-mojowiki-v124.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/08/announce-perlwiki-v153-mojowiki-v124.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PAGI: What happens to a Send in Flight? ]]></title>
+            <description><![CDATA[John the contract of connection management in PAGI. The article explains how both send and receive futures can be resolved without exceptions when the client has disconnected thus avoiding the complexity of manual exception handling and allowing for predictable and consistent transition states.]]></description>
+            <pubDate>2026.08.29</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/wpens-to-a-send-in-flightpolishing-pagis-disconnect-contract-1n34</guid>
+            <link>https://dev.to/jjn1056/wpens-to-a-send-in-flightpolishing-pagis-disconnect-contract-1n34</link>
             
             
             
@@ -114,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[GLAM - Graphics Layer Abstraction Module doing the Rope Demo]]></title>
-            <description><![CDATA[GLAM hopes to be a simple abstraction of complex interactive graphics. The initial commit is tested to replicate the rope demo in a previous reddit post. A single line of code chooses the backend graphical layer, the rest of the code is identical for both the graphical output and the interactivity.]]></description>
-            <pubDate>2026.08</pubDate>
-            <guid isPermaLink="false">https://github.com/saiftynet/GLAM</guid>
-            <link>https://github.com/saiftynet/GLAM</link>
+            <title><![CDATA[PAGI::Server 0.002007: One Contract, Two Transports]]></title>
+            <description><![CDATA[A full explanation of the conformance pass has been provided by John Napiorkowski, aimed at making transport protocols invisible to applications. The release bounds the scope of event validation to an unconditional validation of events at all outgoing paths, harmonises flow-control mechanisms, and defines a uniform token for indicating the reason for disconnection to provide complete reliability for error messages.]]></description>
+            <pubDate>2026.08.24</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/pagiserver-0002007-one-contract-two-transports-4mce</guid>
+            <link>https://dev.to/jjn1056/pagiserver-0002007-one-contract-two-transports-4mce</link>
             
             
             
-            <author><![CDATA[saif_ahmed]]></author>
+            <author><![CDATA[john_napiorkowski]]></author>
             
                 
             
@@ -130,15 +114,143 @@
         </item>
         
         <item>
-            <title><![CDATA[Accidentally Building a CPAN Web Platform]]></title>
-            <description><![CDATA[It's heartwarming seeing one of my articles having an impact. In a nutshell Dave shows how you too could easily build a web site for your CPAN module or modules.]]></description>
+            <title><![CDATA[Template::Stencil - A Fast Template Engine]]></title>
+            <description><![CDATA[Using Template::Stencil, a template is parsed once into packed bytecode in a single memory arena, and rendered by a threaded C interpreter that writes straight into an SV-backed buffer. I don't think any other template engine does this.]]></description>
+            <pubDate>2026.08.30</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnation/templatestencil-a-fast-template-engine-46bo</guid>
+            <link>https://dev.to/lnation/templatestencil-a-fast-template-engine-46bo</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CPerl mode for Emacs is now on GNU ELPA]]></title>
+            <description><![CDATA[For all emacs users, CPerl is now available on <a href="https://elpa.gnu.org/packages/cperl-mode.html</a>GNU ELPA</a>,]]></description>
+            <pubDate>2026.08.26</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/haj/2026/08/cperl-mode-for-emacs-is-now-on-gnu-elpa.html</guid>
+            <link>https://blogs.perl.org/users/haj/2026/08/cperl-mode-for-emacs-is-now-on-gnu-elpa.html</link>
+            
+            
+            
+            <author><![CDATA[haj]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[pperl: Doing a REJIT]]></title>
+            <description><![CDATA[Introducing ReJIT, a secondary compiler designed to bridge the performance gap with V8’s Irregexp on regex-intensive benchmarks like regex-redux.]]></description>
+            <pubDate>2026.08.29</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/08/pperl-doing-a-rejit.html</guid>
+            <link>https://blogs.perl.org/users/petamem/2026/08/pperl-doing-a-rejit.html</link>
+            
+            
+            
+            <author><![CDATA[petamem]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[API Gateway using PAGI::FastAPI]]></title>
+            <description><![CDATA[Part of short post series on PAGI::FastAPI, this post talk about how we can create and use API Gateway with the help of PAGI::FastAPI.]]></description>
+            <pubDate>2026.08.20</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/pagi-fastapi-apigateway/</guid>
+            <link>https://theweeklychallenge.org/blog/pagi-fastapi-apigateway/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Message Queue using PAGI::FastAPI]]></title>
+            <description><![CDATA[This post helps you create message queue facade, a very simple easy to follow demo application using PAGI::FastAPI.]]></description>
+            <pubDate>2026.08.21</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/pagi-fastapi-queue/</guid>
+            <link>https://theweeklychallenge.org/blog/pagi-fastapi-queue/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Webhook using PAGI::FastAPI]]></title>
+            <description><![CDATA[One of my favourite features, Webhook. You cam work with Webhook using PAGI::FastAPI.]]></description>
             <pubDate>2026.08.23</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2026/08/accidentally-building-a-cpan-web-platform/</guid>
-            <link>https://perlhacks.com/2026/08/accidentally-building-a-cpan-web-platform/</link>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/pagi-fastapi-webhook/</guid>
+            <link>https://theweeklychallenge.org/blog/pagi-fastapi-webhook/</link>
             
             
             
-            <author><![CDATA[dave_cross]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Bloom Filter]]></title>
+            <description><![CDATA[My attempt to explore Bloom filter. In this post, I share my experiment.]]></description>
+            <pubDate>2026.08.26</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/bloom-filter/</guid>
+            <link>https://theweeklychallenge.org/blog/bloom-filter/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PAGI::FastAPI v1.7.0]]></title>
+            <description><![CDATA[This post is all about the latest features added to v1.7.0. Of all, you can now expose per-route OpenAPI Metadata.]]></description>
+            <pubDate>2026.08.30</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/pagi-fastapi-update/</guid>
+            <link>https://theweeklychallenge.org/blog/pagi-fastapi-update/</link>
+            
+            
+            
+            <author><![CDATA[mohammad_anwar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.34 YAR by Coke]]></title>
+            <description><![CDATA[2026.34 YAR by Coke]]></description>
+            <pubDate>2026.08.25</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/08/25/2026-34-yar-by-coke/</guid>
+            <link>https://rakudoweekly.blog/2026/08/25/2026-34-yar-by-coke/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -147,8 +259,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/08/dcxiv-21-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.08.22</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/08/dcxv-17-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/08/dcxxxi-metacpan-weekly-report-punk.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2026.08.29</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -247,6 +359,38 @@
             
             <guid isPermaLink="false">https://luma.com/o4k2uute</guid>
             <link>https://luma.com/o4k2uute</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[London Perl & Raku Workshop 2026]]></title>
+            <description><![CDATA[November 21, 2026]]></description>
+            
+            <guid isPermaLink="false">https://act.yapc.eu/lpw2026/</guid>
+            <link>https://act.yapc.eu/lpw2026/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[YAPC::Tokyo 2026]]></title>
+            <description><![CDATA[November 27, 2026]]></description>
+            
+            <guid isPermaLink="false">https://yapcjapan.org/2026tokyo/</guid>
+            <link>https://yapcjapan.org/2026tokyo/</link>
             
             
             
