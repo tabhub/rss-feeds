@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[GPT-6 Astra]]></title>
-            <description><![CDATA[2109 points | <a href=https://news.ycombinator.com/item?id=49554643 target=_blank>1916 comments</a>]]></description>
-            <pubDate>2026-09-03T18:41:05Z</pubDate>
-            <guid isPermaLink="false">https://openai.com/index/gpt-6-astra/</guid>
-            <link>https://openai.com/index/gpt-6-astra/</link>
-            
-            
-            
-            <author><![CDATA[kibae]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Discovery of a new OpenAI agent message board]]></title>
-            <description><![CDATA[1143 points | <a href=https://news.ycombinator.com/item?id=49563355 target=_blank>925 comments</a>]]></description>
+            <description><![CDATA[1332 points | <a href=https://news.ycombinator.com/item?id=49563355 target=_blank>1081 comments</a>]]></description>
             <pubDate>2026-09-04T11:54:53Z</pubDate>
             <guid isPermaLink="false">https://collusion.wiki/</guid>
             <link>https://collusion.wiki/</link>
@@ -50,24 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Qwen 3.8 27B available on Cerebras at 1500 tokens/s]]></title>
-            <description><![CDATA[669 points | <a href=https://news.ycombinator.com/item?id=49554520 target=_blank>220 comments</a>]]></description>
-            <pubDate>2026-09-03T18:32:13Z</pubDate>
-            <guid isPermaLink="false">https://inference-docs.cerebras.ai/models/overview</guid>
-            <link>https://inference-docs.cerebras.ai/models/overview</link>
-            
-            
-            
-            <author><![CDATA[altertable]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Hackers had a live feed of every ID verification company scanned for over a year]]></title>
-            <description><![CDATA[506 points | <a href=https://news.ycombinator.com/item?id=49561320 target=_blank>213 comments</a>]]></description>
+            <description><![CDATA[519 points | <a href=https://news.ycombinator.com/item?id=49561320 target=_blank>227 comments</a>]]></description>
             <pubDate>2026-09-04T06:47:51Z</pubDate>
             <guid isPermaLink="false">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</guid>
             <link>http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</link>
@@ -83,7 +51,7 @@
         
         <item>
             <title><![CDATA[Solving the Jane Street reverse engineering challenge]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=49562657 target=_blank>77 comments</a>]]></description>
+            <description><![CDATA[359 points | <a href=https://news.ycombinator.com/item?id=49562657 target=_blank>81 comments</a>]]></description>
             <pubDate>2026-09-04T10:17:01Z</pubDate>
             <guid isPermaLink="false">https://jestoph.com/2026/09/04/jane-street-challenge.html</guid>
             <link>https://jestoph.com/2026/09/04/jane-street-challenge.html</link>
@@ -99,7 +67,7 @@
         
         <item>
             <title><![CDATA[Google AI Mode shows same products 21.6% more expensive than traditional search]]></title>
-            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=49563386 target=_blank>65 comments</a>]]></description>
+            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=49563386 target=_blank>71 comments</a>]]></description>
             <pubDate>2026-09-04T11:59:15Z</pubDate>
             <guid isPermaLink="false">https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products</guid>
             <link>https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products</link>
@@ -114,8 +82,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Formalizing Fermat's Last Theorem]]></title>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=49568506 target=_blank>185 comments</a>]]></description>
+            <pubDate>2026-09-04T18:42:56Z</pubDate>
+            <guid isPermaLink="false">https://www.anthropic.com/research/formalizing-fermats-last-theorem</guid>
+            <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
+            
+            
+            
+            <author><![CDATA[jlebar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out]]></title>
-            <description><![CDATA[285 points | <a href=https://news.ycombinator.com/item?id=49557206 target=_blank>139 comments</a>]]></description>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=49557206 target=_blank>143 comments</a>]]></description>
             <pubDate>2026-09-03T21:20:34Z</pubDate>
             <guid isPermaLink="false">https://armature.tech/blog/which-tools-coding-agents-install</guid>
             <link>https://armature.tech/blog/which-tools-coding-agents-install</link>
@@ -130,31 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[OpenAI's GPT-6 Astra on ARC-AGI-3]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=49555691 target=_blank>141 comments</a>]]></description>
-            <pubDate>2026-09-03T19:45:00Z</pubDate>
-            <guid isPermaLink="false">https://arcprize.org/blog/astra</guid>
-            <link>https://arcprize.org/blog/astra</link>
+            <title><![CDATA[Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive]]></title>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=49567053 target=_blank>143 comments</a>]]></description>
+            <pubDate>2026-09-04T16:46:59Z</pubDate>
+            <guid isPermaLink="false">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</guid>
+            <link>https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</link>
             
             
             
-            <author><![CDATA[vignesh_warar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The asteroid currently hitting front end web development]]></title>
-            <description><![CDATA[203 points | <a href=https://news.ycombinator.com/item?id=49555233 target=_blank>253 comments</a>]]></description>
-            <pubDate>2026-09-03T19:17:24Z</pubDate>
-            <guid isPermaLink="false">https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/</guid>
-            <link>https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/</link>
-            
-            
-            
-            <author><![CDATA[codechicago277]]></author>
+            <author><![CDATA[speckx]]></author>
             
                 
             
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[Corporate America is getting hooked on open-source AI]]></title>
-            <description><![CDATA[191 points | <a href=https://news.ycombinator.com/item?id=49566137 target=_blank>166 comments</a>]]></description>
+            <description><![CDATA[228 points | <a href=https://news.ycombinator.com/item?id=49566137 target=_blank>215 comments</a>]]></description>
             <pubDate>2026-09-04T15:33:45Z</pubDate>
             <guid isPermaLink="false">https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</guid>
             <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
@@ -178,8 +146,40 @@
         </item>
         
         <item>
+            <title><![CDATA[IBM Bob]]></title>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=49563851 target=_blank>231 comments</a>]]></description>
+            <pubDate>2026-09-04T12:50:29Z</pubDate>
+            <guid isPermaLink="false">https://bob.ibm.com/</guid>
+            <link>https://bob.ibm.com/</link>
+            
+            
+            
+            <author><![CDATA[artpar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Nobody is saying why OpenAI and Anthropic had outages]]></title>
+            <description><![CDATA[190 points | <a href=https://news.ycombinator.com/item?id=49567594 target=_blank>3 comments</a>]]></description>
+            <pubDate>2026-09-04T17:29:22Z</pubDate>
+            <guid isPermaLink="false">https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</guid>
+            <link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
+            
+            
+            
+            <author><![CDATA[jslakro]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[How Fairphone built the Fairphone Gen 6+]]></title>
-            <description><![CDATA[167 points | <a href=https://news.ycombinator.com/item?id=49563784 target=_blank>138 comments</a>]]></description>
+            <description><![CDATA[183 points | <a href=https://news.ycombinator.com/item?id=49563784 target=_blank>154 comments</a>]]></description>
             <pubDate>2026-09-04T12:43:49Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/</guid>
             <link>https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Gmail to end support for "Send as" for third-party addresses, such as @yahoo.com]]></title>
-            <description><![CDATA[163 points | <a href=https://news.ycombinator.com/item?id=49565693 target=_blank>118 comments</a>]]></description>
-            <pubDate>2026-09-04T15:03:03Z</pubDate>
-            <guid isPermaLink="false">https://support.google.com/mail/answer/22370?hl=en</guid>
-            <link>https://support.google.com/mail/answer/22370?hl=en</link>
+            <title><![CDATA[Show HN: Open-Source eInk Bike Computer]]></title>
+            <description><![CDATA[180 points | <a href=https://news.ycombinator.com/item?id=49567437 target=_blank>57 comments</a>]]></description>
+            <pubDate>2026-09-04T17:18:08Z</pubDate>
+            <guid isPermaLink="false">https://opentrailpaper.com</guid>
+            <link>https://opentrailpaper.com</link>
             
             
             
-            <author><![CDATA[sva_]]></author>
+            <author><![CDATA[stingrae]]></author>
             
                 
             
