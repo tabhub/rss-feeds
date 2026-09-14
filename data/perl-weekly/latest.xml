@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #789]]></title>
+        <title><![CDATA[Perl Weekly #790]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[CPAN Uploads Are Up 50% Year-over-Year]]></title>
-            <description><![CDATA[What is the impact of LLMs on the Open Source ecosystem in general and on Perl in patricular? Let's talk about our corner.]]></description>
-            <pubDate>2026.09.04</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2026/09/04/cpan-uploads-up-50-percent-year-over-year/</guid>
-            <link>https://www.olafalders.com/2026/09/04/cpan-uploads-up-50-percent-year-over-year/</link>
+            <title><![CDATA[HeroDevs Donates $10,000 to The Perl and Raku Foundation]]></title>
+            <description><![CDATA[Olaf has announced that HeroDevs has donated $10,000 to The Perl and Raku Foundation (TPRF), promoting how corporations' contributions support the essential features of community infrastructure, security work such as CPAN Security Group, and maintenance of ecosystem.]]></description>
+            <pubDate>2026.09.11</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/herodevs-donates-10-000-to-the-perl-and-raku-foundation/</guid>
+            <link>https://www.perl.com/article/herodevs-donates-10-000-to-the-perl-and-raku-foundation/</link>
             
             
             
@@ -34,31 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DBI now has a minimum version of v5.12]]></title>
-            <description><![CDATA[DBI now has a minimum version of v5.12]]></description>
-            <pubDate>2026.09.04</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/dist/DBI/changes</guid>
-            <link>https://metacpan.org/dist/DBI/changes</link>
+            <title><![CDATA[The videos of the German Perl Workshop 2026 are online]]></title>
+            <description><![CDATA[The videos are now online on Youtube. Thanks again to all people presenting their projects and insights.]]></description>
+            <pubDate>2026.09.06</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2026/09/the-videos-of-the-german-perl-workshop-2026-are-online.html</guid>
+            <link>https://blogs.perl.org/users/max_maischein/2026/09/the-videos-of-the-german-perl-workshop-2026-are-online.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AmberDB - An Embedded NoSQL Database Engine for Perl]]></title>
-            <description><![CDATA[AmberDB is a high-performance, schema-driven NoSQL database engine for Perl, featuring ACID transactions and precomputed inverted indexing on top of Berkeley DB (DB_File). <a href=="https://metacpan.org/dist/AmberDB">AmberDB on MetaCPAN</a>. Based on the <a href="https://github.com/marufcetin/amberdb/blob/main/AGENTS.md">AGENTS.md</a> file it is being developed on MS Windows with the aid of LLMs.]]></description>
-            <pubDate>2026.08.30</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/mcetin/2026/08/amberdb---an-embedded-nosql-database-engine-for-perl.html</guid>
-            <link>https://blogs.perl.org/users/mcetin/2026/08/amberdb---an-embedded-nosql-database-engine-for-perl.html</link>
-            
-            
-            
-            <author><![CDATA[maruf_cetin]]></author>
+            <author><![CDATA[max_maischein]]></author>
             
                 
             
@@ -66,15 +50,63 @@
         </item>
         
         <item>
-            <title><![CDATA[CVE-2026-18108: Net::SAML2 Authentication Bypass via Unsigned Encrypted Assertions (CVSS 9.8) ]]></title>
-            <description><![CDATA[<a href="https://metacpan.org/pod/Net::SAML2">Net::SAML2</a> provides SAML2 bindings and protocol implementation. This CVE along with a few others is <a href="https://metacpan.org/dist/Net-SAML2/changes">already fixed</a>.]]></description>
-            <pubDate>2026.08.30</pubDate>
-            <guid isPermaLink="false">https://dev.to/hol/cve-2026-18108-netsaml2-authentication-bypass-via-unsigned-encrypted-assertions-cvss-98-5gdi</guid>
-            <link>https://dev.to/hol/cve-2026-18108-netsaml2-authentication-bypass-via-unsigned-encrypted-assertions-cvss-98-5gdi</link>
+            <title><![CDATA[The Lightning Talks of the German Perl Workshop 2026 are online]]></title>
+            <description><![CDATA[Thanks to some crafty editing by Lee, the lightning talks are also online on Youtube.]]></description>
+            <pubDate>2026.09.13</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2026/09/the-lightning-talks-of-the-german-perl-workshop-2026-are-online.html</guid>
+            <link>https://blogs.perl.org/users/max_maischein/2026/09/the-lightning-talks-of-the-german-perl-workshop-2026-are-online.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[max_maischein]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Running Perl/PAGI applications on Cloudflare Workers via WebAssembly]]></title>
+            <description><![CDATA[Andrew makes an interesting breakthrough by using zeroperl to run Perl/PAGI web apps on Cloudflare Workers using WebAssembly. Packing in working demos with WebSockets and D1 database support, it opens up incredible new edge-hosting options for the Perl ecosystem.]]></description>
+            <pubDate>2026.09.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/aspeer/2026/09/running-perlpagi-applications-on-cloudflare-workers-via-webassembly.html</guid>
+            <link>https://blogs.perl.org/users/aspeer/2026/09/running-perlpagi-applications-on-cloudflare-workers-via-webassembly.html</link>
+            
+            
+            
+            <author><![CDATA[andrew_speer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PAGI Edge Cases: When to Spec and When is Silence OK?]]></title>
+            <description><![CDATA[John observes protocol design through the appropriate handling of post-disconnection implementation of the receive() function in PAGI. He discusses particular nice cases, real-life failures, and technical shortcomings in order to better illustrate the necessity to find the right balance between strict protocol specifications and reasonable usability for developers. A good read for async Perl developers and all the people interested in low-level web interface specifications.]]></description>
+            <pubDate>2026.09.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/pagi-edge-cases-when-to-spec-and-when-is-silence-ok-56j6</guid>
+            <link>https://dev.to/jjn1056/pagi-edge-cases-when-to-spec-and-when-is-silence-ok-56j6</link>
+            
+            
+            
+            <author><![CDATA[john_napiorkowski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.35 Infinity Revisited]]></title>
+            <description><![CDATA[2026.35 Infinity Revisited]]></description>
+            <pubDate>2026.08.31</pubDate>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/08/31/2026-35-infinity-revisited/</guid>
+            <link>https://rakudoweekly.blog/2026/08/31/2026-35-infinity-revisited/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -83,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/09/dcxvi-26-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.09.06</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/09/dcxvii-20-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/09/dcxxxii-metacpan-weekly-report-hyperman.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2026.09.12</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -98,11 +130,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Async, Type-Safe, and Secure: Perl's Answer to FastAPI with Mohammad Sajid Anwar]]></title>
-            <description><![CDATA[September 7, 2026]]></description>
+            <title><![CDATA[Amsterdam PM bijeenkomst]]></title>
+            <description><![CDATA[October 06, 2026]]></description>
             
-            <guid isPermaLink="false">https://luma.com/obzvoiii</guid>
-            <link>https://luma.com/obzvoiii</link>
+            <guid isPermaLink="false">https://www.meetup.com/dutch-perl-mongers/</guid>
+            <link>https://www.meetup.com/dutch-perl-mongers/</link>
             
             
             
@@ -115,42 +147,10 @@
         
         <item>
             <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
-            <description><![CDATA[September 8, 2026]]></description>
+            <description><![CDATA[October 12 2026]]></description>
             
             <guid isPermaLink="false">https://boston.pm.org/</guid>
             <link>https://boston.pm.org/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Purdue Perl Mongers (HackLafayette) - TBA]]></title>
-            <description><![CDATA[September 9, 2026]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/hacklafayette/</guid>
-            <link>https://www.meetup.com/hacklafayette/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Amsterdam PM bijeenkomst]]></title>
-            <description><![CDATA[October 06, 2026]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/dutch-perl-mongers/</guid>
-            <link>https://www.meetup.com/dutch-perl-mongers/</link>
             
             
             
