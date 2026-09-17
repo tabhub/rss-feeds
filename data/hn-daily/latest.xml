@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[EU chief opens door for Canada to become 'associate member']]></title>
-            <description><![CDATA[647 points | <a href=https://news.ycombinator.com/item?id=49724141 target=_blank>828 comments</a>]]></description>
+            <description><![CDATA[658 points | <a href=https://news.ycombinator.com/item?id=49724141 target=_blank>837 comments</a>]]></description>
             <pubDate>2026-09-16T09:54:05Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwyzrr9d3dko</guid>
             <link>https://www.bbc.com/news/articles/cjwyzrr9d3dko</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[Mistral X Mozilla: Private, Multilingual AI Browsing]]></title>
-            <description><![CDATA[537 points | <a href=https://news.ycombinator.com/item?id=49723408 target=_blank>186 comments</a>]]></description>
+            <description><![CDATA[557 points | <a href=https://news.ycombinator.com/item?id=49723408 target=_blank>192 comments</a>]]></description>
             <pubDate>2026-09-16T08:08:57Z</pubDate>
             <guid isPermaLink="false">https://mistral.ai/news/mistral-x-mozilla/</guid>
             <link>https://mistral.ai/news/mistral-x-mozilla/</link>
@@ -50,15 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Apple Reference Image: A New Approach for Verified Photography]]></title>
-            <description><![CDATA[499 points | <a href=https://news.ycombinator.com/item?id=49721322 target=_blank>331 comments</a>]]></description>
-            <pubDate>2026-09-16T02:07:31Z</pubDate>
-            <guid isPermaLink="false">https://security.apple.com/blog/apple-reference-image/</guid>
-            <link>https://security.apple.com/blog/apple-reference-image/</link>
+            <title><![CDATA[Nvidia announces native GPU programming in Rust]]></title>
+            <description><![CDATA[551 points | <a href=https://news.ycombinator.com/item?id=49724881 target=_blank>201 comments</a>]]></description>
+            <pubDate>2026-09-16T11:15:53Z</pubDate>
+            <guid isPermaLink="false">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</guid>
+            <link>https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</link>
             
             
             
-            <author><![CDATA[imwally]]></author>
+            <author><![CDATA[nonmaskable]]></author>
             
                 
             
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[Hackers Got Inside a Flock Camera]]></title>
-            <description><![CDATA[467 points | <a href=https://news.ycombinator.com/item?id=49726586 target=_blank>217 comments</a>]]></description>
+            <description><![CDATA[516 points | <a href=https://news.ycombinator.com/item?id=49726586 target=_blank>233 comments</a>]]></description>
             <pubDate>2026-09-16T13:18:47Z</pubDate>
             <guid isPermaLink="false">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</guid>
             <link>https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</link>
@@ -82,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Small programming tricks]]></title>
-            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=49729000 target=_blank>181 comments</a>]]></description>
-            <pubDate>2026-09-16T15:56:47Z</pubDate>
-            <guid isPermaLink="false">https://will-keleher.com/posts/small-programming-tricks-matter/</guid>
-            <link>https://will-keleher.com/posts/small-programming-tricks-matter/</link>
-            
-            
-            
-            <author><![CDATA[signa11]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Training a 4B model to produce 81% faster query plans than Postgres]]></title>
-            <description><![CDATA[397 points | <a href=https://news.ycombinator.com/item?id=49731285 target=_blank>84 comments</a>]]></description>
+            <description><![CDATA[494 points | <a href=https://news.ycombinator.com/item?id=49731285 target=_blank>103 comments</a>]]></description>
             <pubDate>2026-09-16T18:50:00Z</pubDate>
             <guid isPermaLink="false">https://rohanbansal.com/qorl</guid>
             <link>https://rohanbansal.com/qorl</link>
@@ -114,8 +98,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Small programming tricks]]></title>
+            <description><![CDATA[484 points | <a href=https://news.ycombinator.com/item?id=49729000 target=_blank>209 comments</a>]]></description>
+            <pubDate>2026-09-16T15:56:47Z</pubDate>
+            <guid isPermaLink="false">https://will-keleher.com/posts/small-programming-tricks-matter/</guid>
+            <link>https://will-keleher.com/posts/small-programming-tricks-matter/</link>
+            
+            
+            
+            <author><![CDATA[signa11]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Xiaomi Mimo 2.6 live post-training dashboard]]></title>
+            <description><![CDATA[390 points | <a href=https://news.ycombinator.com/item?id=49732270 target=_blank>97 comments</a>]]></description>
+            <pubDate>2026-09-16T20:09:18Z</pubDate>
+            <guid isPermaLink="false">https://mimo.xiaomi.com/rl/</guid>
+            <link>https://mimo.xiaomi.com/rl/</link>
+            
+            
+            
+            <author><![CDATA[krackers]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The Google Play app review process now regularly takes longer than a week]]></title>
-            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=49724927 target=_blank>330 comments</a>]]></description>
+            <description><![CDATA[349 points | <a href=https://news.ycombinator.com/item?id=49724927 target=_blank>334 comments</a>]]></description>
             <pubDate>2026-09-16T11:19:11Z</pubDate>
             <guid isPermaLink="false">https://gultsch.social/@daniel/117280438824908947</guid>
             <link>https://gultsch.social/@daniel/117280438824908947</link>
@@ -131,7 +147,7 @@
         
         <item>
             <title><![CDATA[PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"]]></title>
-            <description><![CDATA[304 points | <a href=https://news.ycombinator.com/item?id=49727627 target=_blank>211 comments</a>]]></description>
+            <description><![CDATA[311 points | <a href=https://news.ycombinator.com/item?id=49727627 target=_blank>215 comments</a>]]></description>
             <pubDate>2026-09-16T14:30:36Z</pubDate>
             <guid isPermaLink="false">https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/</guid>
             <link>https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/</link>
@@ -146,24 +162,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Nvidia announces native GPU programming in Rust]]></title>
-            <description><![CDATA[273 points | <a href=https://news.ycombinator.com/item?id=49724881 target=_blank>107 comments</a>]]></description>
-            <pubDate>2026-09-16T11:15:53Z</pubDate>
-            <guid isPermaLink="false">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</guid>
-            <link>https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</link>
-            
-            
-            
-            <author><![CDATA[nonmaskable]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Salesforce Global Outage]]></title>
-            <description><![CDATA[264 points | <a href=https://news.ycombinator.com/item?id=49724488 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=49724488 target=_blank>175 comments</a>]]></description>
             <pubDate>2026-09-16T10:37:08Z</pubDate>
             <guid isPermaLink="false">https://status.salesforce.com/products/all</guid>
             <link>https://status.salesforce.com/products/all</link>
@@ -179,7 +179,7 @@
         
         <item>
             <title><![CDATA[Original Sony PlayStation 2 security chip 'broken wide open' after 26 years]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=49725356 target=_blank>76 comments</a>]]></description>
+            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=49725356 target=_blank>77 comments</a>]]></description>
             <pubDate>2026-09-16T11:49:40Z</pubDate>
             <guid isPermaLink="false">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</guid>
             <link>https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Xiaomi Mimo 2.6 live post-training dashboard]]></title>
-            <description><![CDATA[254 points | <a href=https://news.ycombinator.com/item?id=49732270 target=_blank>64 comments</a>]]></description>
-            <pubDate>2026-09-16T20:09:18Z</pubDate>
-            <guid isPermaLink="false">https://mimo.xiaomi.com/rl/</guid>
-            <link>https://mimo.xiaomi.com/rl/</link>
+            <title><![CDATA[Learning Programming in an Age of LLMs]]></title>
+            <description><![CDATA[238 points | <a href=https://news.ycombinator.com/item?id=49723873 target=_blank>180 comments</a>]]></description>
+            <pubDate>2026-09-16T09:12:34Z</pubDate>
+            <guid isPermaLink="false">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</guid>
+            <link>https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</link>
             
             
             
-            <author><![CDATA[krackers]]></author>
+            <author><![CDATA[moneroloop2018]]></author>
             
                 
             
