@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Nvidia announces native GPU programming in Rust]]></title>
-            <description><![CDATA[748 points | <a href=https://news.ycombinator.com/item?id=49724881 target=_blank>307 comments</a>]]></description>
-            <pubDate>2026-09-16T11:15:53Z</pubDate>
-            <guid isPermaLink="false">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</guid>
-            <link>https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</link>
-            
-            
-            
-            <author><![CDATA[nonmaskable]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Training a 4B model to produce 81% faster query plans than Postgres]]></title>
-            <description><![CDATA[575 points | <a href=https://news.ycombinator.com/item?id=49731285 target=_blank>121 comments</a>]]></description>
+            <description><![CDATA[652 points | <a href=https://news.ycombinator.com/item?id=49731285 target=_blank>131 comments</a>]]></description>
             <pubDate>2026-09-16T18:50:00Z</pubDate>
             <guid isPermaLink="false">https://rohanbansal.com/qorl</guid>
             <link>https://rohanbansal.com/qorl</link>
@@ -50,40 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Small programming tricks]]></title>
-            <description><![CDATA[551 points | <a href=https://news.ycombinator.com/item?id=49729000 target=_blank>249 comments</a>]]></description>
-            <pubDate>2026-09-16T15:56:47Z</pubDate>
-            <guid isPermaLink="false">https://will-keleher.com/posts/small-programming-tricks-matter/</guid>
-            <link>https://will-keleher.com/posts/small-programming-tricks-matter/</link>
-            
-            
-            
-            <author><![CDATA[signa11]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Hackers Got Inside a Flock Camera]]></title>
-            <description><![CDATA[535 points | <a href=https://news.ycombinator.com/item?id=49726586 target=_blank>245 comments</a>]]></description>
-            <pubDate>2026-09-16T13:18:47Z</pubDate>
-            <guid isPermaLink="false">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</guid>
-            <link>https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</link>
-            
-            
-            
-            <author><![CDATA[driverdan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Xiaomi Mimo 2.6 live post-training dashboard]]></title>
-            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=49732270 target=_blank>130 comments</a>]]></description>
+            <description><![CDATA[524 points | <a href=https://news.ycombinator.com/item?id=49732270 target=_blank>147 comments</a>]]></description>
             <pubDate>2026-09-16T20:09:18Z</pubDate>
             <guid isPermaLink="false">https://mimo.xiaomi.com/rl/</guid>
             <link>https://mimo.xiaomi.com/rl/</link>
@@ -98,56 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[The Google Play app review process now regularly takes longer than a week]]></title>
-            <description><![CDATA[356 points | <a href=https://news.ycombinator.com/item?id=49724927 target=_blank>338 comments</a>]]></description>
-            <pubDate>2026-09-16T11:19:11Z</pubDate>
-            <guid isPermaLink="false">https://gultsch.social/@daniel/117280438824908947</guid>
-            <link>https://gultsch.social/@daniel/117280438824908947</link>
-            
-            
-            
-            <author><![CDATA[inputmice]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=49727627 target=_blank>218 comments</a>]]></description>
-            <pubDate>2026-09-16T14:30:36Z</pubDate>
-            <guid isPermaLink="false">https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/</guid>
-            <link>https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/</link>
-            
-            
-            
-            <author><![CDATA[alexjplant]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Original Sony PlayStation 2 security chip 'broken wide open' after 26 years]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=49725356 target=_blank>83 comments</a>]]></description>
-            <pubDate>2026-09-16T11:49:40Z</pubDate>
-            <guid isPermaLink="false">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</guid>
-            <link>https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</link>
-            
-            
-            
-            <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Backups Aren't Simple]]></title>
-            <description><![CDATA[262 points | <a href=https://news.ycombinator.com/item?id=49732513 target=_blank>164 comments</a>]]></description>
+            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=49732513 target=_blank>191 comments</a>]]></description>
             <pubDate>2026-09-16T20:27:16Z</pubDate>
             <guid isPermaLink="false">https://filipovski.net/2026/09/16/backups-arent-simple.html</guid>
             <link>https://filipovski.net/2026/09/16/backups-arent-simple.html</link>
@@ -162,8 +66,88 @@
         </item>
         
         <item>
+            <title><![CDATA[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023]]></title>
+            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=49738879 target=_blank>225 comments</a>]]></description>
+            <pubDate>2026-09-17T10:44:49Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=49738879</guid>
+            <link>https://news.ycombinator.com/item?id=49738879</link>
+            
+            
+            
+            <author><![CDATA[jakemanger]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[One Year of Sponsored Servo Development]]></title>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=49737849 target=_blank>123 comments</a>]]></description>
+            <pubDate>2026-09-17T08:13:54Z</pubDate>
+            <guid isPermaLink="false">https://servo.org/blog/2026/09/15/one-year-of-sponsorship/</guid>
+            <link>https://servo.org/blog/2026/09/15/one-year-of-sponsorship/</link>
+            
+            
+            
+            <author><![CDATA[AshleysBrain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Keys Not Included: recovering the signing keys for US driver's license barcodes]]></title>
+            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=49735930 target=_blank>131 comments</a>]]></description>
+            <pubDate>2026-09-17T03:03:23Z</pubDate>
+            <guid isPermaLink="false">https://ryan.science/blog/keys-not-included</guid>
+            <link>https://ryan.science/blog/keys-not-included</link>
+            
+            
+            
+            <author><![CDATA[Ryan5453]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GLM Built Its Own Inference Infrastructure]]></title>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=49737922 target=_blank>206 comments</a>]]></description>
+            <pubDate>2026-09-17T08:27:09Z</pubDate>
+            <guid isPermaLink="false">https://z.ai/blog/glm-built-its-inference-infrastructure</guid>
+            <link>https://z.ai/blog/glm-built-its-inference-infrastructure</link>
+            
+            
+            
+            <author><![CDATA[whiteros_e]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Canada welcomes EU proposal to become 'associate member']]></title>
+            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=49740507 target=_blank>295 comments</a>]]></description>
+            <pubDate>2026-09-17T13:30:37Z</pubDate>
+            <guid isPermaLink="false">https://www.bbc.com/news/articles/cwly7vkke4jxo</guid>
+            <link>https://www.bbc.com/news/articles/cwly7vkke4jxo</link>
+            
+            
+            
+            <author><![CDATA[witweb]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Australia says it could follow Canada in forging deeper ties with EU]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=49734171 target=_blank>185 comments</a>]]></description>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=49734171 target=_blank>201 comments</a>]]></description>
             <pubDate>2026-09-16T22:56:48Z</pubDate>
             <guid isPermaLink="false">https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</guid>
             <link>https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Breaking the 1.58-bit Barrier for Ternary LLMs]]></title>
+            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=49732931 target=_blank>37 comments</a>]]></description>
+            <pubDate>2026-09-16T20:59:24Z</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2609.16338</guid>
+            <link>https://arxiv.org/abs/2609.16338</link>
+            
+            
+            
+            <author><![CDATA[matt_d]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Claude Cowork and chat are now one Claude]]></title>
-            <description><![CDATA[225 points | <a href=https://news.ycombinator.com/item?id=49729412 target=_blank>222 comments</a>]]></description>
+            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=49729412 target=_blank>225 comments</a>]]></description>
             <pubDate>2026-09-16T16:26:25Z</pubDate>
             <guid isPermaLink="false">https://claude.com/blog/cowork-is-now-claude</guid>
             <link>https://claude.com/blog/cowork-is-now-claude</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A warning about 'model welfare']]></title>
-            <description><![CDATA[222 points | <a href=https://news.ycombinator.com/item?id=49727580 target=_blank>617 comments</a>]]></description>
-            <pubDate>2026-09-16T14:27:47Z</pubDate>
-            <guid isPermaLink="false">https://mustafa-suleyman.ai/a-warning-about-model-welfare</guid>
-            <link>https://mustafa-suleyman.ai/a-warning-about-model-welfare</link>
+            <title><![CDATA[CCC invites all model citizens to 40C3]]></title>
+            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=49737787 target=_blank>70 comments</a>]]></description>
+            <pubDate>2026-09-17T08:03:54Z</pubDate>
+            <guid isPermaLink="false">https://events.ccc.de/en/2026/09/12/40c3-model-citizens/</guid>
+            <link>https://events.ccc.de/en/2026/09/12/40c3-model-citizens/</link>
             
             
             
-            <author><![CDATA[andsoitis]]></author>
+            <author><![CDATA[antonly]]></author>
             
                 
             
