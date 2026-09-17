@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Training a 4B model to produce 81% faster query plans than Postgres]]></title>
-            <description><![CDATA[652 points | <a href=https://news.ycombinator.com/item?id=49731285 target=_blank>131 comments</a>]]></description>
-            <pubDate>2026-09-16T18:50:00Z</pubDate>
-            <guid isPermaLink="false">https://rohanbansal.com/qorl</guid>
-            <link>https://rohanbansal.com/qorl</link>
-            
-            
-            
-            <author><![CDATA[polyphilz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Xiaomi Mimo 2.6 live post-training dashboard]]></title>
-            <description><![CDATA[524 points | <a href=https://news.ycombinator.com/item?id=49732270 target=_blank>147 comments</a>]]></description>
+            <description><![CDATA[533 points | <a href=https://news.ycombinator.com/item?id=49732270 target=_blank>150 comments</a>]]></description>
             <pubDate>2026-09-16T20:09:18Z</pubDate>
             <guid isPermaLink="false">https://mimo.xiaomi.com/rl/</guid>
             <link>https://mimo.xiaomi.com/rl/</link>
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[Backups Aren't Simple]]></title>
-            <description><![CDATA[324 points | <a href=https://news.ycombinator.com/item?id=49732513 target=_blank>191 comments</a>]]></description>
+            <description><![CDATA[338 points | <a href=https://news.ycombinator.com/item?id=49732513 target=_blank>201 comments</a>]]></description>
             <pubDate>2026-09-16T20:27:16Z</pubDate>
             <guid isPermaLink="false">https://filipovski.net/2026/09/16/backups-arent-simple.html</guid>
             <link>https://filipovski.net/2026/09/16/backups-arent-simple.html</link>
@@ -66,24 +50,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=49738879 target=_blank>225 comments</a>]]></description>
-            <pubDate>2026-09-17T10:44:49Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=49738879</guid>
-            <link>https://news.ycombinator.com/item?id=49738879</link>
-            
-            
-            
-            <author><![CDATA[jakemanger]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[One Year of Sponsored Servo Development]]></title>
-            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=49737849 target=_blank>123 comments</a>]]></description>
+            <title><![CDATA[One year of sponsored Servo development]]></title>
+            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=49737849 target=_blank>132 comments</a>]]></description>
             <pubDate>2026-09-17T08:13:54Z</pubDate>
             <guid isPermaLink="false">https://servo.org/blog/2026/09/15/one-year-of-sponsorship/</guid>
             <link>https://servo.org/blog/2026/09/15/one-year-of-sponsorship/</link>
@@ -98,24 +66,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Keys Not Included: recovering the signing keys for US driver's license barcodes]]></title>
-            <description><![CDATA[256 points | <a href=https://news.ycombinator.com/item?id=49735930 target=_blank>131 comments</a>]]></description>
-            <pubDate>2026-09-17T03:03:23Z</pubDate>
-            <guid isPermaLink="false">https://ryan.science/blog/keys-not-included</guid>
-            <link>https://ryan.science/blog/keys-not-included</link>
-            
-            
-            
-            <author><![CDATA[Ryan5453]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GLM Built Its Own Inference Infrastructure]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=49737922 target=_blank>206 comments</a>]]></description>
+            <title><![CDATA[How GLM built its own inference infrastructure]]></title>
+            <description><![CDATA[319 points | <a href=https://news.ycombinator.com/item?id=49737922 target=_blank>236 comments</a>]]></description>
             <pubDate>2026-09-17T08:27:09Z</pubDate>
             <guid isPermaLink="false">https://z.ai/blog/glm-built-its-inference-infrastructure</guid>
             <link>https://z.ai/blog/glm-built-its-inference-infrastructure</link>
@@ -130,8 +82,88 @@
         </item>
         
         <item>
+            <title><![CDATA[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023]]></title>
+            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=49738879 target=_blank>238 comments</a>]]></description>
+            <pubDate>2026-09-17T10:44:49Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=49738879</guid>
+            <link>https://news.ycombinator.com/item?id=49738879</link>
+            
+            
+            
+            <author><![CDATA[jakemanger]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CCC invites all model citizens to 40C3]]></title>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=49737787 target=_blank>145 comments</a>]]></description>
+            <pubDate>2026-09-17T08:03:54Z</pubDate>
+            <guid isPermaLink="false">https://events.ccc.de/en/2026/09/12/40c3-model-citizens/</guid>
+            <link>https://events.ccc.de/en/2026/09/12/40c3-model-citizens/</link>
+            
+            
+            
+            <author><![CDATA[antonly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Iran school bombing: grounds to believe US was behind atrocity, UN finds]]></title>
+            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=49739018 target=_blank>210 comments</a>]]></description>
+            <pubDate>2026-09-17T11:00:35Z</pubDate>
+            <guid isPermaLink="false">https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack</guid>
+            <link>https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack</link>
+            
+            
+            
+            <author><![CDATA[hebelehubele]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Keys Not Included: recovering the signing keys for US driver's license barcodes]]></title>
+            <description><![CDATA[277 points | <a href=https://news.ycombinator.com/item?id=49735930 target=_blank>140 comments</a>]]></description>
+            <pubDate>2026-09-17T03:03:23Z</pubDate>
+            <guid isPermaLink="false">https://ryan.science/blog/keys-not-included</guid>
+            <link>https://ryan.science/blog/keys-not-included</link>
+            
+            
+            
+            <author><![CDATA[Ryan5453]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hister: A private search engine for the pages you visit and the files you keep]]></title>
+            <description><![CDATA[263 points | <a href=https://news.ycombinator.com/item?id=49743097 target=_blank>87 comments</a>]]></description>
+            <pubDate>2026-09-17T16:25:37Z</pubDate>
+            <guid isPermaLink="false">https://github.com/asciimoo/hister</guid>
+            <link>https://github.com/asciimoo/hister</link>
+            
+            
+            
+            <author><![CDATA[bookofjoe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Canada welcomes EU proposal to become 'associate member']]></title>
-            <description><![CDATA[242 points | <a href=https://news.ycombinator.com/item?id=49740507 target=_blank>295 comments</a>]]></description>
+            <description><![CDATA[260 points | <a href=https://news.ycombinator.com/item?id=49740507 target=_blank>322 comments</a>]]></description>
             <pubDate>2026-09-17T13:30:37Z</pubDate>
             <guid isPermaLink="false">https://www.bbc.com/news/articles/cwly7vkke4jxo</guid>
             <link>https://www.bbc.com/news/articles/cwly7vkke4jxo</link>
@@ -147,7 +179,7 @@
         
         <item>
             <title><![CDATA[Australia says it could follow Canada in forging deeper ties with EU]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=49734171 target=_blank>201 comments</a>]]></description>
+            <description><![CDATA[236 points | <a href=https://news.ycombinator.com/item?id=49734171 target=_blank>208 comments</a>]]></description>
             <pubDate>2026-09-16T22:56:48Z</pubDate>
             <guid isPermaLink="false">https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</guid>
             <link>https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</link>
@@ -163,7 +195,7 @@
         
         <item>
             <title><![CDATA[Breaking the 1.58-bit Barrier for Ternary LLMs]]></title>
-            <description><![CDATA[233 points | <a href=https://news.ycombinator.com/item?id=49732931 target=_blank>37 comments</a>]]></description>
+            <description><![CDATA[234 points | <a href=https://news.ycombinator.com/item?id=49732931 target=_blank>37 comments</a>]]></description>
             <pubDate>2026-09-16T20:59:24Z</pubDate>
             <guid isPermaLink="false">https://arxiv.org/abs/2609.16338</guid>
             <link>https://arxiv.org/abs/2609.16338</link>
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[matt_d]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Claude Cowork and chat are now one Claude]]></title>
-            <description><![CDATA[227 points | <a href=https://news.ycombinator.com/item?id=49729412 target=_blank>225 comments</a>]]></description>
-            <pubDate>2026-09-16T16:26:25Z</pubDate>
-            <guid isPermaLink="false">https://claude.com/blog/cowork-is-now-claude</guid>
-            <link>https://claude.com/blog/cowork-is-now-claude</link>
-            
-            
-            
-            <author><![CDATA[vertigoruntime]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CCC invites all model citizens to 40C3]]></title>
-            <description><![CDATA[221 points | <a href=https://news.ycombinator.com/item?id=49737787 target=_blank>70 comments</a>]]></description>
-            <pubDate>2026-09-17T08:03:54Z</pubDate>
-            <guid isPermaLink="false">https://events.ccc.de/en/2026/09/12/40c3-model-citizens/</guid>
-            <link>https://events.ccc.de/en/2026/09/12/40c3-model-citizens/</link>
-            
-            
-            
-            <author><![CDATA[antonly]]></author>
             
                 
             
