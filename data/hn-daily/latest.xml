@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Microsoft exec called AI scraping 'the largest theft of labor in human history']]></title>
-            <description><![CDATA[745 points | <a href=https://news.ycombinator.com/item?id=49752056 target=_blank>643 comments</a>]]></description>
+            <description><![CDATA[803 points | <a href=https://news.ycombinator.com/item?id=49752056 target=_blank>702 comments</a>]]></description>
             <pubDate>2026-09-18T09:45:07Z</pubDate>
             <guid isPermaLink="false">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</guid>
             <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
@@ -34,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[I don't like passkeys]]></title>
+            <description><![CDATA[656 points | <a href=https://news.ycombinator.com/item?id=49753211 target=_blank>640 comments</a>]]></description>
+            <pubDate>2026-09-18T12:06:50Z</pubDate>
+            <guid isPermaLink="false">https://hawksley.dev/blog/i-dont-like-passkeys</guid>
+            <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
+            
+            
+            
+            <author><![CDATA[ethanhawksley]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Bend – a language that blocks AI mistakes via proof and runs on GPUs]]></title>
-            <description><![CDATA[578 points | <a href=https://news.ycombinator.com/item?id=49746163 target=_blank>291 comments</a>]]></description>
+            <description><![CDATA[587 points | <a href=https://news.ycombinator.com/item?id=49746163 target=_blank>296 comments</a>]]></description>
             <pubDate>2026-09-17T20:36:13Z</pubDate>
             <guid isPermaLink="false">https://bend-lang.com/</guid>
             <link>https://bend-lang.com/</link>
@@ -51,7 +67,7 @@
         
         <item>
             <title><![CDATA[Astra for Law]]></title>
-            <description><![CDATA[560 points | <a href=https://news.ycombinator.com/item?id=49745940 target=_blank>660 comments</a>]]></description>
+            <description><![CDATA[563 points | <a href=https://news.ycombinator.com/item?id=49745940 target=_blank>665 comments</a>]]></description>
             <pubDate>2026-09-17T20:17:48Z</pubDate>
             <guid isPermaLink="false">https://openai.com/index/astra-for-law/</guid>
             <link>https://openai.com/index/astra-for-law/</link>
@@ -66,24 +82,8 @@
         </item>
         
         <item>
-            <title><![CDATA[I don't like passkeys]]></title>
-            <description><![CDATA[551 points | <a href=https://news.ycombinator.com/item?id=49753211 target=_blank>535 comments</a>]]></description>
-            <pubDate>2026-09-18T12:06:50Z</pubDate>
-            <guid isPermaLink="false">https://hawksley.dev/blog/i-dont-like-passkeys</guid>
-            <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
-            
-            
-            
-            <author><![CDATA[ethanhawksley]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint]]></title>
-            <description><![CDATA[545 points | <a href=https://news.ycombinator.com/item?id=49746618 target=_blank>176 comments</a>]]></description>
+            <description><![CDATA[553 points | <a href=https://news.ycombinator.com/item?id=49746618 target=_blank>182 comments</a>]]></description>
             <pubDate>2026-09-17T21:13:31Z</pubDate>
             <guid isPermaLink="false">https://prismml.com/news/bonsai-2-27b</guid>
             <link>https://prismml.com/news/bonsai-2-27b</link>
@@ -98,24 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[A heap overflow and SSO misconfiguration to compromise OpenAI internal repos]]></title>
-            <description><![CDATA[428 points | <a href=https://news.ycombinator.com/item?id=49749656 target=_blank>181 comments</a>]]></description>
-            <pubDate>2026-09-18T02:47:24Z</pubDate>
-            <guid isPermaLink="false">https://www.hacktron.ai/blog/hacking-openai</guid>
-            <link>https://www.hacktron.ai/blog/hacking-openai</link>
-            
-            
-            
-            <author><![CDATA[Handy-Man]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[OpenJev]]></title>
-            <description><![CDATA[400 points | <a href=https://news.ycombinator.com/item?id=49752041 target=_blank>210 comments</a>]]></description>
+            <description><![CDATA[464 points | <a href=https://news.ycombinator.com/item?id=49752041 target=_blank>229 comments</a>]]></description>
             <pubDate>2026-09-18T09:42:22Z</pubDate>
             <guid isPermaLink="false">https://openjev.com/</guid>
             <link>https://openjev.com/</link>
@@ -130,8 +114,40 @@
         </item>
         
         <item>
+            <title><![CDATA[A heap overflow and SSO misconfiguration to compromise OpenAI internal repos]]></title>
+            <description><![CDATA[452 points | <a href=https://news.ycombinator.com/item?id=49749656 target=_blank>192 comments</a>]]></description>
+            <pubDate>2026-09-18T02:47:24Z</pubDate>
+            <guid isPermaLink="false">https://www.hacktron.ai/blog/hacking-openai</guid>
+            <link>https://www.hacktron.ai/blog/hacking-openai</link>
+            
+            
+            
+            <author><![CDATA[Handy-Man]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloudflare Quick Tunnels]]></title>
+            <description><![CDATA[399 points | <a href=https://news.ycombinator.com/item?id=49754785 target=_blank>187 comments</a>]]></description>
+            <pubDate>2026-09-18T14:18:41Z</pubDate>
+            <guid isPermaLink="false">https://try.cloudflare.com/</guid>
+            <link>https://try.cloudflare.com/</link>
+            
+            
+            
+            <author><![CDATA[jcbhmr]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Everybody's Lost Their Minds]]></title>
-            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=49745570 target=_blank>303 comments</a>]]></description>
+            <description><![CDATA[353 points | <a href=https://news.ycombinator.com/item?id=49745570 target=_blank>311 comments</a>]]></description>
             <pubDate>2026-09-17T19:43:34Z</pubDate>
             <guid isPermaLink="false">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</guid>
             <link>https://www.netmeister.org/blog/everybodys-lost-their-minds.html</link>
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[Qwen 3.8 Omni Flash]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=49747925 target=_blank>118 comments</a>]]></description>
+            <description><![CDATA[321 points | <a href=https://news.ycombinator.com/item?id=49747925 target=_blank>122 comments</a>]]></description>
             <pubDate>2026-09-17T23:05:48Z</pubDate>
             <guid isPermaLink="false">https://qwen.ai/blog?id=qwen3.8-omni-flash</guid>
             <link>https://qwen.ai/blog?id=qwen3.8-omni-flash</link>
@@ -163,7 +179,7 @@
         
         <item>
             <title><![CDATA[Jemalloc 5.4.0]]></title>
-            <description><![CDATA[294 points | <a href=https://news.ycombinator.com/item?id=49750152 target=_blank>76 comments</a>]]></description>
+            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=49750152 target=_blank>79 comments</a>]]></description>
             <pubDate>2026-09-18T04:20:24Z</pubDate>
             <guid isPermaLink="false">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</guid>
             <link>https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</link>
@@ -179,7 +195,7 @@
         
         <item>
             <title><![CDATA[Bend 2 and the Vibe-Coding Trap]]></title>
-            <description><![CDATA[286 points | <a href=https://news.ycombinator.com/item?id=49753179 target=_blank>220 comments</a>]]></description>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=49753179 target=_blank>226 comments</a>]]></description>
             <pubDate>2026-09-18T12:03:55Z</pubDate>
             <guid isPermaLink="false">https://blog.liampwll.com/posts/bend_vibe_coding/</guid>
             <link>https://blog.liampwll.com/posts/bend_vibe_coding/</link>
@@ -187,22 +203,6 @@
             
             
             <author><![CDATA[LiamPowell]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How to Write with an LLM]]></title>
-            <description><![CDATA[282 points | <a href=https://news.ycombinator.com/item?id=49747070 target=_blank>193 comments</a>]]></description>
-            <pubDate>2026-09-17T21:48:38Z</pubDate>
-            <guid isPermaLink="false">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</guid>
-            <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
-            
-            
-            
-            <author><![CDATA[joeriddles]]></author>
             
                 
             
