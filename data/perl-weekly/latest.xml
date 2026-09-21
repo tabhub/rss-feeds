@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #790]]></title>
+        <title><![CDATA[Perl Weekly #791]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,59 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[HeroDevs Donates $10,000 to The Perl and Raku Foundation]]></title>
-            <description><![CDATA[Olaf has announced that HeroDevs has donated $10,000 to The Perl and Raku Foundation (TPRF), promoting how corporations' contributions support the essential features of community infrastructure, security work such as CPAN Security Group, and maintenance of ecosystem.]]></description>
-            <pubDate>2026.09.11</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/herodevs-donates-10-000-to-the-perl-and-raku-foundation/</guid>
-            <link>https://www.perl.com/article/herodevs-donates-10-000-to-the-perl-and-raku-foundation/</link>
+            <title><![CDATA[The Lacuna Expanse: Updates Since We Last Saw Each Other]]></title>
+            <description><![CDATA[A new community-run reboot of The Lacuna Expanse. <a href="https://tlecommunity.com/">TLE Community</a>]]></description>
+            <pubDate>2026.09.15</pubDate>
+            <guid isPermaLink="false">https://tlecommunity.com/news/updates-since-web-last-saw-each-other/</guid>
+            <link>https://tlecommunity.com/news/updates-since-web-last-saw-each-other/</link>
+            
+            
+            
+            <author><![CDATA[natalie_rose]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2 2.2.1 released (security)]]></title>
+            <description><![CDATA[Dancer2 2.2.1 released (security)]]></description>
+            <pubDate>2026.09.19</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-221-released-security.html</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-221-released-security.html</link>
+            
+            
+            
+            <author><![CDATA[jason_crome]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dancer2 2.2.0 released; security updates PLEASE READ]]></title>
+            <description><![CDATA[Dancer2 2.2.0 released; security updates PLEASE READ]]></description>
+            <pubDate>2026.09.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-220-released-security-updates-please-read.html</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-220-released-security-updates-please-read.html</link>
+            
+            
+            
+            <author><![CDATA[jason_crome]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DARK MOOOOOOOOOOOOOOOODE]]></title>
+            <description><![CDATA[MetaCPAN Dark mode]]></description>
+            <pubDate>2026.09.19</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1wk1hov/dark_moooooooooooooooode/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1wk1hov/dark_moooooooooooooooode/</link>
             
             
             
@@ -34,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[The videos of the German Perl Workshop 2026 are online]]></title>
-            <description><![CDATA[The videos are now online on Youtube. Thanks again to all people presenting their projects and insights.]]></description>
-            <pubDate>2026.09.06</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2026/09/the-videos-of-the-german-perl-workshop-2026-are-online.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2026/09/the-videos-of-the-german-perl-workshop-2026-are-online.html</link>
+            <title><![CDATA[NWC2MusicXML]]></title>
+            <description><![CDATA[That is NoteWorthy Composer 2 to MusicXML converter <a href="https://metacpan.org/pod/Music::NWC2MusicXML">Music::NWC2MusicXML</a>]]></description>
+            <pubDate>2026.09.19</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1wjw0cb/nwc2musicxml/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1wjw0cb/nwc2musicxml/</link>
             
             
             
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Lightning Talks of the German Perl Workshop 2026 are online]]></title>
-            <description><![CDATA[Thanks to some crafty editing by Lee, the lightning talks are also online on Youtube.]]></description>
-            <pubDate>2026.09.13</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/max_maischein/2026/09/the-lightning-talks-of-the-german-perl-workshop-2026-are-online.html</guid>
-            <link>https://blogs.perl.org/users/max_maischein/2026/09/the-lightning-talks-of-the-german-perl-workshop-2026-are-online.html</link>
-            
-            
-            
-            <author><![CDATA[max_maischein]]></author>
+            <author><![CDATA[nigel_horne]]></author>
             
                 
             
@@ -66,15 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Running Perl/PAGI applications on Cloudflare Workers via WebAssembly]]></title>
-            <description><![CDATA[Andrew makes an interesting breakthrough by using zeroperl to run Perl/PAGI web apps on Cloudflare Workers using WebAssembly. Packing in working demos with WebSockets and D1 database support, it opens up incredible new edge-hosting options for the Perl ecosystem.]]></description>
-            <pubDate>2026.09.12</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/aspeer/2026/09/running-perlpagi-applications-on-cloudflare-workers-via-webassembly.html</guid>
-            <link>https://blogs.perl.org/users/aspeer/2026/09/running-perlpagi-applications-on-cloudflare-workers-via-webassembly.html</link>
+            <title><![CDATA[Reflecting on Mirrors — Part II]]></title>
+            <description><![CDATA[Reflecting on Mirrors — Part II]]></description>
+            <pubDate>2026.09.15</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-09-15-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2026-09-15-post.html</link>
             
             
             
-            <author><![CDATA[andrew_speer]]></author>
+            <author><![CDATA[rob_lauer]]></author>
             
                 
             
@@ -82,15 +114,47 @@
         </item>
         
         <item>
-            <title><![CDATA[PAGI Edge Cases: When to Spec and When is Silence OK?]]></title>
-            <description><![CDATA[John observes protocol design through the appropriate handling of post-disconnection implementation of the receive() function in PAGI. He discusses particular nice cases, real-life failures, and technical shortcomings in order to better illustrate the necessity to find the right balance between strict protocol specifications and reasonable usability for developers. A good read for async Perl developers and all the people interested in low-level web interface specifications.]]></description>
+            <title><![CDATA[How to compile WWW::Curl on AIX 7.2 and 7.3 with IBM xlC]]></title>
+            <description><![CDATA[How to compile WWW::Curl on AIX 7.2 and 7.3 with IBM xlC]]></description>
+            <pubDate>2026.09.18</pubDate>
+            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1wjmq51/how_to_compile_wwwcurl_on_aix_72_and_73_with_ibm/</guid>
+            <link>https://www.reddit.com/r/perl/comments/1wjmq51/how_to_compile_wwwcurl_on_aix_72_and_73_with_ibm/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WFC in Perl: A Server-Driven UI Approach for Perl]]></title>
+            <description><![CDATA[But when I visit <a href="https://metacpan.org/pod/WebForms">WebForms on MetaCPAN</a> it say 'Error rendering POD for WebForms.pm - Requested resource is a binary file'. What does this mean?]]></description>
+            <pubDate>2026.09</pubDate>
+            <guid isPermaLink="false">https://dev.to/elanatframework/wfc-in-perl-a-server-driven-ui-approach-for-perl-13k9</guid>
+            <link>https://dev.to/elanatframework/wfc-in-perl-a-server-driven-ui-approach-for-perl-13k9</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Reflecting on Mirrors — Part I]]></title>
+            <description><![CDATA[Reflecting on Mirrors — Part I]]></description>
             <pubDate>2026.09.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/pagi-edge-cases-when-to-spec-and-when-is-silence-ok-56j6</guid>
-            <link>https://dev.to/jjn1056/pagi-edge-cases-when-to-spec-and-when-is-silence-ok-56j6</link>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-09-11-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2026-09-11-post.html</link>
             
             
             
-            <author><![CDATA[john_napiorkowski]]></author>
+            <author><![CDATA[rob_lauer]]></author>
             
                 
             
@@ -98,15 +162,47 @@
         </item>
         
         <item>
-            <title><![CDATA[2026.35 Infinity Revisited]]></title>
-            <description><![CDATA[2026.35 Infinity Revisited]]></description>
-            <pubDate>2026.08.31</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/08/31/2026-35-infinity-revisited/</guid>
-            <link>https://rakudoweekly.blog/2026/08/31/2026-35-infinity-revisited/</link>
+            <title><![CDATA[Amazon::S3 v2.1.0 - On Being an S3 Client]]></title>
+            <description><![CDATA[Amazon::S3 v2.1.0 - On Being an S3 Client]]></description>
+            <pubDate>2026.09.18</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-09-18-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2026-09-18-post.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.54, etc]]></title>
+            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.54, etc]]></description>
+            <pubDate>2026.09.15</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/09/announce-perlwiki-v-154-etc.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/09/announce-perlwiki-v-154-etc.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Zero is a measurement: reading JSON latency events in Perl]]></title>
+            <description><![CDATA[Zero is a measurement: reading JSON latency events in Perl]]></description>
+            <pubDate>2026.09.21</pubDate>
+            <guid isPermaLink="false">https://gist.github.com/TheBuilderJR/9474e08206c02d2370956fd920fed278</guid>
+            <link>https://gist.github.com/TheBuilderJR/9474e08206c02d2370956fd920fed278</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -115,8 +211,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/09/dcxvii-20-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/09/dcxxxii-metacpan-weekly-report-hyperman.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2026.09.12</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/09/dcxviii-21-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.09.19</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
