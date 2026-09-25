@@ -12,6 +12,7 @@
     "art-template": "^4.13.2",
     "axios": "^1.8.4",
     "dayjs": "^1.9.3",
+    "form-data": "^2.5.4",
     "request": "^2.88.2"
   }
 }
