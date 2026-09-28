@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #791]]></title>
+        <title><![CDATA[Perl Weekly #792]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Lacuna Expanse: Updates Since We Last Saw Each Other]]></title>
-            <description><![CDATA[A new community-run reboot of The Lacuna Expanse. <a href="https://tlecommunity.com/">TLE Community</a>]]></description>
-            <pubDate>2026.09.15</pubDate>
-            <guid isPermaLink="false">https://tlecommunity.com/news/updates-since-web-last-saw-each-other/</guid>
-            <link>https://tlecommunity.com/news/updates-since-web-last-saw-each-other/</link>
+            <title><![CDATA[Development Release Perl v5.45.3]]></title>
+            <description><![CDATA[Philippe Bruhat has released Perl 5.45.3, which is the newest version in Perl 5.45 series. This release includes several core and interpreter bug fixes, internal improvements, and updates to modules.]]></description>
+            <pubDate>2026.09.24</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/release/BOOK/perl-5.45.3</guid>
+            <link>https://metacpan.org/release/BOOK/perl-5.45.3</link>
             
             
             
-            <author><![CDATA[natalie_rose]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Dancer2 2.2.1 released (security)]]></title>
-            <description><![CDATA[Dancer2 2.2.1 released (security)]]></description>
-            <pubDate>2026.09.19</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-221-released-security.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-221-released-security.html</link>
-            
-            
-            
-            <author><![CDATA[jason_crome]]></author>
+            <author><![CDATA[philippe_bruhat]]></author>
             
                 
             
@@ -50,27 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancer2 2.2.0 released; security updates PLEASE READ]]></title>
-            <description><![CDATA[Dancer2 2.2.0 released; security updates PLEASE READ]]></description>
-            <pubDate>2026.09.16</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-220-released-security-updates-please-read.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-220-released-security-updates-please-read.html</link>
-            
-            
-            
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DARK MOOOOOOOOOOOOOOOODE]]></title>
-            <description><![CDATA[MetaCPAN Dark mode]]></description>
-            <pubDate>2026.09.19</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1wk1hov/dark_moooooooooooooooode/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1wk1hov/dark_moooooooooooooooode/</link>
+            <title><![CDATA[The Perl Advent Calendar 2026 CFP Is Open]]></title>
+            <description><![CDATA[Olaf has declared the Call for Papers for the Perl Advent Calendar season 27. The announcement outlines a tight schedule wherein ideas are expected by October 15 and final drafts by November 1. The announcement also mentioned healthy community-first policy focused on the voice of the author rather than that of large language model generators.]]></description>
+            <pubDate>2026.09.22</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2026/09/21/perl-advent-calendar-2026-cfp-is-open/</guid>
+            <link>https://www.olafalders.com/2026/09/21/perl-advent-calendar-2026-cfp-is-open/</link>
             
             
             
@@ -82,43 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[NWC2MusicXML]]></title>
-            <description><![CDATA[That is NoteWorthy Composer 2 to MusicXML converter <a href="https://metacpan.org/pod/Music::NWC2MusicXML">Music::NWC2MusicXML</a>]]></description>
-            <pubDate>2026.09.19</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1wjw0cb/nwc2musicxml/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1wjw0cb/nwc2musicxml/</link>
-            
-            
-            
-            <author><![CDATA[nigel_horne]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Reflecting on Mirrors — Part II]]></title>
-            <description><![CDATA[Reflecting on Mirrors — Part II]]></description>
-            <pubDate>2026.09.15</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-09-15-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2026-09-15-post.html</link>
-            
-            
-            
-            <author><![CDATA[rob_lauer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How to compile WWW::Curl on AIX 7.2 and 7.3 with IBM xlC]]></title>
-            <description><![CDATA[How to compile WWW::Curl on AIX 7.2 and 7.3 with IBM xlC]]></description>
-            <pubDate>2026.09.18</pubDate>
-            <guid isPermaLink="false">https://www.reddit.com/r/perl/comments/1wjmq51/how_to_compile_wwwcurl_on_aix_72_and_73_with_ibm/</guid>
-            <link>https://www.reddit.com/r/perl/comments/1wjmq51/how_to_compile_wwwcurl_on_aix_72_and_73_with_ibm/</link>
+            <title><![CDATA[This week in PSC (236) | 2026-09-22]]></title>
+            <description><![CDATA[This Week in PSC #236, the three members came together to have a discussion about the two proposals having a match case. They came to the conclusion to have mailing list discussions on destructuring ideas. They also made the discussion to advance the PPC proposals for @INC. They also talked about the unification of the core functionalities hooks which include the limitation of the function rand() and installation of random number generators.]]></description>
+            <pubDate>2026.09.22</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/09/this-week-in-psc-236-2026-09-22.html</guid>
+            <link>https://blogs.perl.org/users/psc/2026/09/this-week-in-psc-236-2026-09-22.html</link>
             
             
             
@@ -130,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[WFC in Perl: A Server-Driven UI Approach for Perl]]></title>
-            <description><![CDATA[But when I visit <a href="https://metacpan.org/pod/WebForms">WebForms on MetaCPAN</a> it say 'Error rendering POD for WebForms.pm - Requested resource is a binary file'. What does this mean?]]></description>
-            <pubDate>2026.09</pubDate>
-            <guid isPermaLink="false">https://dev.to/elanatframework/wfc-in-perl-a-server-driven-ui-approach-for-perl-13k9</guid>
-            <link>https://dev.to/elanatframework/wfc-in-perl-a-server-driven-ui-approach-for-perl-13k9</link>
+            <title><![CDATA[A NetAddr::IP Trial Release]]></title>
+            <description><![CDATA[NetAddr::IP has been introduced a beta release 4.080_01 under the guidance of a new maintainer. Vital improvements have been introduced to the module in the new version. Invalid legacy behaviors have been eliminated as well. It’s noteworthy that the testing suite has been fully updated to Test2::V1, thereby getting wider CI coverage for the modern Perl versions.]]></description>
+            <pubDate>2026.09.22</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2026/09/a-netaddrip-trial-release.html</guid>
+            <link>https://blogs.perl.org/users/dean/2026/09/a-netaddrip-trial-release.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Reflecting on Mirrors — Part I]]></title>
-            <description><![CDATA[Reflecting on Mirrors — Part I]]></description>
-            <pubDate>2026.09.11</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-09-11-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2026-09-11-post.html</link>
-            
-            
-            
-            <author><![CDATA[rob_lauer]]></author>
+            <author><![CDATA[dean_hamstead]]></author>
             
                 
             
@@ -162,31 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Amazon::S3 v2.1.0 - On Being an S3 Client]]></title>
-            <description><![CDATA[Amazon::S3 v2.1.0 - On Being an S3 Client]]></description>
-            <pubDate>2026.09.18</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-09-18-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2026-09-18-post.html</link>
+            <title><![CDATA[QUERY in Dancer2]]></title>
+            <description><![CDATA[The post discusses extending the Dancer2 web framework with preliminary support for the new HTTP QUERY method (RFC 10008). It covers some simple changes made to Dancer2's fundamental modules (DSL, Request, Types), an extensive test suite provided through Plack::Test, and working examples of REST API querying.]]></description>
+            <pubDate>2026.09.27</pubDate>
+            <guid isPermaLink="false">https://theweeklychallenge.org/blog/query-in-dancer2/</guid>
+            <link>https://theweeklychallenge.org/blog/query-in-dancer2/</link>
             
             
             
-            <author><![CDATA[rob_lauer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.54, etc]]></title>
-            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.54, etc]]></description>
-            <pubDate>2026.09.15</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/09/announce-perlwiki-v-154-etc.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/09/announce-perlwiki-v-154-etc.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
+            <author><![CDATA[mohammad_anwar]]></author>
             
                 
             
@@ -194,15 +98,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Zero is a measurement: reading JSON latency events in Perl]]></title>
-            <description><![CDATA[Zero is a measurement: reading JSON latency events in Perl]]></description>
+            <title><![CDATA[pperl 0.6.20 - The Player of Games]]></title>
+            <description><![CDATA[PetaMem's new release, pperl 0.6.20, has brought many performance improvements, achieving up to 7.3 times improvement over node.js according to Benchmarks Game performance metrics due to JIT optimizations including bump-arena tree builds and SIMD intervals proof. The release has also given rise to a 52 times faster Memoize due to compiled cache hits, made possible by the native integration of the 3D graphics with the help of Rust's wgpu crate, and provided a lot of new documentation.]]></description>
+            <pubDate>2026.09.27</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/09/pperl-0620---the-player-of-games.html</guid>
+            <link>https://blogs.perl.org/users/petamem/2026/09/pperl-0620---the-player-of-games.html</link>
+            
+            
+            
+            <author><![CDATA[petamem]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.38 Italiano, per favore]]></title>
+            <description><![CDATA[2026.38 Italiano, per favore]]></description>
             <pubDate>2026.09.21</pubDate>
-            <guid isPermaLink="false">https://gist.github.com/TheBuilderJR/9474e08206c02d2370956fd920fed278</guid>
-            <link>https://gist.github.com/TheBuilderJR/9474e08206c02d2370956fd920fed278</link>
+            <guid isPermaLink="false">https://rakudoweekly.blog/2026/09/21/2026-38-italiano-per-favore/</guid>
+            <link>https://rakudoweekly.blog/2026/09/21/2026-38-italiano-per-favore/</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -211,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/09/dcxviii-21-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.09.19</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/09/dcxix-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.09.26</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
