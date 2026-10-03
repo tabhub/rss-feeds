@@ -25,6 +25,10 @@ const run = async (date, num) => {
       return;
     }
 
+    const escapeHtml = (str) => String(str).replace(/[&<>"']/g, (c) => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    }[c]));
+
     const content = {
       title:  "Hacker News Daily Top 12",
       description: "Read Hacker News every day",
@@ -33,11 +37,11 @@ const run = async (date, num) => {
         let {title, url, author, created_at, points, objectID, num_comments} = item;
         if(!url) url = `https://news.ycombinator.com/item?id=${objectID}`;
         return {
-          title: title,
+          title: escapeHtml(title),
           link: url,
-          author: author,
+          author: author ? escapeHtml(author) : author,
           pubDate: created_at,
-          description: `${points} points | <a href=https://news.ycombinator.com/item?id=${objectID} target=_blank>${num_comments} comments</a>`
+          description: `${escapeHtml(points)} points | <a href=https://news.ycombinator.com/item?id=${encodeURIComponent(objectID)} target=_blank>${escapeHtml(num_comments)} comments</a>`
         };
       })
     };
