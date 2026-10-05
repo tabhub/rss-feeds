@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #792]]></title>
+        <title><![CDATA[Perl Weekly #793]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,15 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Development Release Perl v5.45.3]]></title>
-            <description><![CDATA[Philippe Bruhat has released Perl 5.45.3, which is the newest version in Perl 5.45 series. This release includes several core and interpreter bug fixes, internal improvements, and updates to modules.]]></description>
-            <pubDate>2026.09.24</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/release/BOOK/perl-5.45.3</guid>
-            <link>https://metacpan.org/release/BOOK/perl-5.45.3</link>
+            <title><![CDATA[The Perl and Raku Conference 2027 / Kitchener-Waterloo, Ontario, Canada]]></title>
+            <description><![CDATA[The Perl and Raku Foundation (TPRF) is pleased to announce that the next Perl and Raku Conference will be held June 21-23, 2027, at the Crowne Plaza Hotel in Kitchener, Ontario.]]></description>
+            <pubDate>2026.10.01</pubDate>
+            <guid isPermaLink="false">https://news.perlfoundation.org/post/perl-and-raku-conference-2027-announced</guid>
+            <link>https://news.perlfoundation.org/post/perl-and-raku-conference-2027-announced</link>
             
             
             
-            <author><![CDATA[philippe_bruhat]]></author>
+            <author><![CDATA[ruth_bavousett]]></author>
             
                 
             
@@ -34,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[The Perl Advent Calendar 2026 CFP Is Open]]></title>
-            <description><![CDATA[Olaf has declared the Call for Papers for the Perl Advent Calendar season 27. The announcement outlines a tight schedule wherein ideas are expected by October 15 and final drafts by November 1. The announcement also mentioned healthy community-first policy focused on the voice of the author rather than that of large language model generators.]]></description>
-            <pubDate>2026.09.22</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2026/09/21/perl-advent-calendar-2026-cfp-is-open/</guid>
-            <link>https://www.olafalders.com/2026/09/21/perl-advent-calendar-2026-cfp-is-open/</link>
+            <title><![CDATA[NVIDIA Donates $12,000 to The Perl and Raku Foundation]]></title>
+            <description><![CDATA[NVIDIA Donates $12,000 to The Perl and Raku Foundation]]></description>
+            <pubDate>2026.09.29</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/nvidia-donates-12-000-to-the-perl-and-raku-foundation/</guid>
+            <link>https://www.perl.com/article/nvidia-donates-12-000-to-the-perl-and-raku-foundation/</link>
             
             
             
@@ -50,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[This week in PSC (236) | 2026-09-22]]></title>
-            <description><![CDATA[This Week in PSC #236, the three members came together to have a discussion about the two proposals having a match case. They came to the conclusion to have mailing list discussions on destructuring ideas. They also made the discussion to advance the PPC proposals for @INC. They also talked about the unification of the core functionalities hooks which include the limitation of the function rand() and installation of random number generators.]]></description>
-            <pubDate>2026.09.22</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/09/this-week-in-psc-236-2026-09-22.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/09/this-week-in-psc-236-2026-09-22.html</link>
+            <title><![CDATA[Dancer2 2.2.2 Released]]></title>
+            <description><![CDATA[Dancer2 2.2.2 Released]]></description>
+            <pubDate>2026.09.29</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-222-released.html</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-222-released.html</link>
             
             
             
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A NetAddr::IP Trial Release]]></title>
-            <description><![CDATA[NetAddr::IP has been introduced a beta release 4.080_01 under the guidance of a new maintainer. Vital improvements have been introduced to the module in the new version. Invalid legacy behaviors have been eliminated as well. It’s noteworthy that the testing suite has been fully updated to Test2::V1, thereby getting wider CI coverage for the modern Perl versions.]]></description>
-            <pubDate>2026.09.22</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2026/09/a-netaddrip-trial-release.html</guid>
-            <link>https://blogs.perl.org/users/dean/2026/09/a-netaddrip-trial-release.html</link>
-            
-            
-            
-            <author><![CDATA[dean_hamstead]]></author>
+            <author><![CDATA[jason_crome]]></author>
             
                 
             
@@ -82,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[QUERY in Dancer2]]></title>
-            <description><![CDATA[The post discusses extending the Dancer2 web framework with preliminary support for the new HTTP QUERY method (RFC 10008). It covers some simple changes made to Dancer2's fundamental modules (DSL, Request, Types), an extensive test suite provided through Plack::Test, and working examples of REST API querying.]]></description>
-            <pubDate>2026.09.27</pubDate>
-            <guid isPermaLink="false">https://theweeklychallenge.org/blog/query-in-dancer2/</guid>
-            <link>https://theweeklychallenge.org/blog/query-in-dancer2/</link>
+            <title><![CDATA[Announcing the Perl Toolchain Summit 2027]]></title>
+            <description><![CDATA[We're happy to announce that the 17th Perl Toolchain Summit will be held in Lyon, France, from Thursday April 29 till Sunday May 2, 2027.]]></description>
+            <pubDate>2026.09.28</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/announcing-the-perl-toolchain-summit-2027/</guid>
+            <link>https://www.perl.com/article/announcing-the-perl-toolchain-summit-2027/</link>
             
             
             
-            <author><![CDATA[mohammad_anwar]]></author>
+            <author><![CDATA[philippe_bruhat]]></author>
             
                 
             
@@ -98,11 +82,11 @@
         </item>
         
         <item>
-            <title><![CDATA[pperl 0.6.20 - The Player of Games]]></title>
-            <description><![CDATA[PetaMem's new release, pperl 0.6.20, has brought many performance improvements, achieving up to 7.3 times improvement over node.js according to Benchmarks Game performance metrics due to JIT optimizations including bump-arena tree builds and SIMD intervals proof. The release has also given rise to a 52 times faster Memoize due to compiled cache hits, made possible by the native integration of the 3D graphics with the help of Rust's wgpu crate, and provided a lot of new documentation.]]></description>
-            <pubDate>2026.09.27</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/09/pperl-0620---the-player-of-games.html</guid>
-            <link>https://blogs.perl.org/users/petamem/2026/09/pperl-0620---the-player-of-games.html</link>
+            <title><![CDATA[pperl 0.6.21 - addendum]]></title>
+            <description><![CDATA[<a href="https://perl.petamem.com/">pperl</a> is the Perl 5 runtime written in Rust.]]></description>
+            <pubDate>2026.10.01</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/10/pperl-0621---addendum.html</guid>
+            <link>https://blogs.perl.org/users/petamem/2026/10/pperl-0621---addendum.html</link>
             
             
             
@@ -114,15 +98,127 @@
         </item>
         
         <item>
-            <title><![CDATA[2026.38 Italiano, per favore]]></title>
-            <description><![CDATA[2026.38 Italiano, per favore]]></description>
-            <pubDate>2026.09.21</pubDate>
-            <guid isPermaLink="false">https://rakudoweekly.blog/2026/09/21/2026-38-italiano-per-favore/</guid>
-            <link>https://rakudoweekly.blog/2026/09/21/2026-38-italiano-per-favore/</link>
+            <title><![CDATA[Introducing Log::Log4perl::Appender::CloudWatchLogs]]></title>
+            <description><![CDATA[Log::Log4perl is one of the most popular loggers for Perl. CloudWatch is Monitoring and Observability service by Amazon]]></description>
+            <pubDate>2026.10.01</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-10-01-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2026-10-01-post.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CPAN Rescue: Growing Maintainers, Not Collecting Modules]]></title>
+            <description><![CDATA[CPAN Rescue: Growing Maintainers, Not Collecting Modules]]></description>
+            <pubDate>2026.10.01</pubDate>
+            <guid isPermaLink="false">https://dev.to/pannakoota/cpan-rescue-growing-maintainers-not-collecting-modules-3p56</guid>
+            <link>https://dev.to/pannakoota/cpan-rescue-growing-maintainers-not-collecting-modules-3p56</link>
+            
+            
+            
+            <author><![CDATA[shingo_kawamura]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Next Release of PAGI::Server Will Be Slower, and that's Fine.]]></title>
+            <description><![CDATA[The main focus of this release is to make PAGI::Server dependable when clients misbehave or connections end at awkward moments.]]></description>
+            <pubDate>2026.09.28</pubDate>
+            <guid isPermaLink="false">https://dev.to/jjn1056/the-next-release-of-pagiserver-will-be-slower-and-thats-fine-2fm8</guid>
+            <link>https://dev.to/jjn1056/the-next-release-of-pagiserver-will-be-slower-and-thats-fine-2fm8</link>
+            
+            
+            
+            <author><![CDATA[john_napiorkowski]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.54, Mojo.Wiki V 1.26]]></title>
+            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.54, Mojo.Wiki V 1.26]]></description>
+            <pubDate>2026.09.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/09/announce-perlwiki-v-154-mojowiki-v-126.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/09/announce-perlwiki-v-154-mojowiki-v-126.html</link>
+            
+            
+            
+            <author><![CDATA[ron_savage]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Debugging HTTP::Tiny Calls Deep Inside Your Stack]]></title>
+            <description><![CDATA[Debugging HTTP::Tiny Calls Deep Inside Your Stack]]></description>
+            <pubDate>2026.09.28</pubDate>
+            <guid isPermaLink="false">https://www.olafalders.com/2026/09/28/debugging-http-tiny-calls-deep-inside-your-stack/</guid>
+            <link>https://www.olafalders.com/2026/09/28/debugging-http-tiny-calls-deep-inside-your-stack/</link>
+            
+            
+            
+            <author><![CDATA[olaf_alders]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Announcing Amazon::API 2.8.0 — A Lightweight AWS API for Perl]]></title>
+            <description><![CDATA[Announcing Amazon::API 2.8.0 — A Lightweight AWS API for Perl]]></description>
+            <pubDate>2026.09.28</pubDate>
+            <guid isPermaLink="false">https://rclauer.medium.com/announcing-amazon-api-2-8-0-a-lightweight-aws-api-for-perl-822bf1441185</guid>
+            <link>https://rclauer.medium.com/announcing-amazon-api-2-8-0-a-lightweight-aws-api-for-perl-822bf1441185</link>
+            
+            
+            
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Still saving CPU cycles 32 years later: Rediscovering the Schwartzian Transform in Flutter]]></title>
+            <description><![CDATA[Still saving CPU cycles 32 years later: Rediscovering the Schwartzian Transform in Flutter]]></description>
+            <pubDate>2026.10.02</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/randal_l_schwartz/2026/10/still-saving-cpu-cycles-32-years-later-rediscovering-the-schwartzian-transform-in-flutter.html</guid>
+            <link>https://blogs.perl.org/users/randal_l_schwartz/2026/10/still-saving-cpu-cycles-32-years-later-rediscovering-the-schwartzian-transform-in-flutter.html</link>
+            
+            
+            
+            <author><![CDATA[randal_schwartz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A Tic Tac Toe game and experiments using MiniMax algorithm]]></title>
+            <description><![CDATA[A Tic Tac Toe game and experiments using MiniMax algorithm]]></description>
+            <pubDate>2026.10.03</pubDate>
+            <guid isPermaLink="false">https://github.com/saiftynet/TIC-TAC-TOE</guid>
+            <link>https://github.com/saiftynet/TIC-TAC-TOE</link>
+            
+            
+            
+            <author><![CDATA[saif_ahmed]]></author>
             
                 
             
@@ -131,8 +227,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/09/dcxix-12-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.09.26</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/10/dcxx-35-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.10.03</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
