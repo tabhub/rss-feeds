@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #793]]></title>
+        <title><![CDATA[Perl Weekly #794]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Perl and Raku Conference 2027 / Kitchener-Waterloo, Ontario, Canada]]></title>
-            <description><![CDATA[The Perl and Raku Foundation (TPRF) is pleased to announce that the next Perl and Raku Conference will be held June 21-23, 2027, at the Crowne Plaza Hotel in Kitchener, Ontario.]]></description>
-            <pubDate>2026.10.01</pubDate>
-            <guid isPermaLink="false">https://news.perlfoundation.org/post/perl-and-raku-conference-2027-announced</guid>
-            <link>https://news.perlfoundation.org/post/perl-and-raku-conference-2027-announced</link>
+            <title><![CDATA[Perl IDE Developer Survey 2026]]></title>
+            <description><![CDATA[The Perl IDE Survey provides community driven insights into tools, editors, and workflows. It shows the preferred main choices such as Vim and VS Code and metrics on LSP, testing practices, and other main programming tools.]]></description>
+            <pubDate>2026.10.08</pubDate>
+            <guid isPermaLink="false">https://survey.perlide.org/</guid>
+            <link>https://survey.perlide.org/</link>
             
             
             
-            <author><![CDATA[ruth_bavousett]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[NVIDIA Donates $12,000 to The Perl and Raku Foundation]]></title>
-            <description><![CDATA[NVIDIA Donates $12,000 to The Perl and Raku Foundation]]></description>
-            <pubDate>2026.09.29</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/nvidia-donates-12-000-to-the-perl-and-raku-foundation/</guid>
-            <link>https://www.perl.com/article/nvidia-donates-12-000-to-the-perl-and-raku-foundation/</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -50,107 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancer2 2.2.2 Released]]></title>
-            <description><![CDATA[Dancer2 2.2.2 Released]]></description>
-            <pubDate>2026.09.29</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-222-released.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2026/09/dancer2-222-released.html</link>
-            
-            
-            
-            <author><![CDATA[jason_crome]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Announcing the Perl Toolchain Summit 2027]]></title>
-            <description><![CDATA[We're happy to announce that the 17th Perl Toolchain Summit will be held in Lyon, France, from Thursday April 29 till Sunday May 2, 2027.]]></description>
-            <pubDate>2026.09.28</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/announcing-the-perl-toolchain-summit-2027/</guid>
-            <link>https://www.perl.com/article/announcing-the-perl-toolchain-summit-2027/</link>
-            
-            
-            
-            <author><![CDATA[philippe_bruhat]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[pperl 0.6.21 - addendum]]></title>
-            <description><![CDATA[<a href="https://perl.petamem.com/">pperl</a> is the Perl 5 runtime written in Rust.]]></description>
-            <pubDate>2026.10.01</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/10/pperl-0621---addendum.html</guid>
-            <link>https://blogs.perl.org/users/petamem/2026/10/pperl-0621---addendum.html</link>
-            
-            
-            
-            <author><![CDATA[petamem]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Introducing Log::Log4perl::Appender::CloudWatchLogs]]></title>
-            <description><![CDATA[Log::Log4perl is one of the most popular loggers for Perl. CloudWatch is Monitoring and Observability service by Amazon]]></description>
-            <pubDate>2026.10.01</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-10-01-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2026-10-01-post.html</link>
-            
-            
-            
-            <author><![CDATA[rob_lauer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CPAN Rescue: Growing Maintainers, Not Collecting Modules]]></title>
-            <description><![CDATA[CPAN Rescue: Growing Maintainers, Not Collecting Modules]]></description>
-            <pubDate>2026.10.01</pubDate>
-            <guid isPermaLink="false">https://dev.to/pannakoota/cpan-rescue-growing-maintainers-not-collecting-modules-3p56</guid>
-            <link>https://dev.to/pannakoota/cpan-rescue-growing-maintainers-not-collecting-modules-3p56</link>
-            
-            
-            
-            <author><![CDATA[shingo_kawamura]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Next Release of PAGI::Server Will Be Slower, and that's Fine.]]></title>
-            <description><![CDATA[The main focus of this release is to make PAGI::Server dependable when clients misbehave or connections end at awkward moments.]]></description>
-            <pubDate>2026.09.28</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/the-next-release-of-pagiserver-will-be-slower-and-thats-fine-2fm8</guid>
-            <link>https://dev.to/jjn1056/the-next-release-of-pagiserver-will-be-slower-and-thats-fine-2fm8</link>
-            
-            
-            
-            <author><![CDATA[john_napiorkowski]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.54, Mojo.Wiki V 1.26]]></title>
-            <description><![CDATA[ANNOUNCE: Perl.Wiki V 1.54, Mojo.Wiki V 1.26]]></description>
-            <pubDate>2026.09.28</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/09/announce-perlwiki-v-154-mojowiki-v-126.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/09/announce-perlwiki-v-154-mojowiki-v-126.html</link>
+            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.56, CPAN::MetaCurator V 1.33]]></title>
+            <description><![CDATA[Ron Savage has announced the availability of Perl.Wiki (version 1.56), as well as CPAN::MetaCurator (version 1.33). This new version integrates ChangeLog features into the JSTree menu and also improves the overall appearance of the program's interface.]]></description>
+            <pubDate>2026.10.11</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/10/announce-perlwiki-v-156-cpanmetacurator-v-133.html</guid>
+            <link>https://blogs.perl.org/users/ron_savage/2026/10/announce-perlwiki-v-156-cpanmetacurator-v-133.html</link>
             
             
             
@@ -162,11 +50,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Debugging HTTP::Tiny Calls Deep Inside Your Stack]]></title>
-            <description><![CDATA[Debugging HTTP::Tiny Calls Deep Inside Your Stack]]></description>
-            <pubDate>2026.09.28</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2026/09/28/debugging-http-tiny-calls-deep-inside-your-stack/</guid>
-            <link>https://www.olafalders.com/2026/09/28/debugging-http-tiny-calls-deep-inside-your-stack/</link>
+            <title><![CDATA[It's Time to Retire Your @cpan.org Email Address]]></title>
+            <description><![CDATA[CPAN authors are reminded by Olaf Alders to stop using their @cpan.org email accounts permanently after the Perl NOC closed the forwarding service earlier this year. The maintenance of correct MetaCPAN profiles and contact information enables the CPAN Security Group to get in touch with maintainers regarding urgent security notifications.]]></description>
+            <pubDate>2026.10.05</pubDate>
+            <guid isPermaLink="false">https://security.metacpan.org/2026/10/05/time-to-retire-your-cpan.org-email-address.html</guid>
+            <link>https://security.metacpan.org/2026/10/05/time-to-retire-your-cpan.org-email-address.html</link>
             
             
             
@@ -178,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Announcing Amazon::API 2.8.0 — A Lightweight AWS API for Perl]]></title>
-            <description><![CDATA[Announcing Amazon::API 2.8.0 — A Lightweight AWS API for Perl]]></description>
-            <pubDate>2026.09.28</pubDate>
-            <guid isPermaLink="false">https://rclauer.medium.com/announcing-amazon-api-2-8-0-a-lightweight-aws-api-for-perl-822bf1441185</guid>
-            <link>https://rclauer.medium.com/announcing-amazon-api-2-8-0-a-lightweight-aws-api-for-perl-822bf1441185</link>
+            <title><![CDATA[Perl documentation (including POD) with Markdown and Docbook]]></title>
+            <description><![CDATA[Andrew has presented a novel set of CPAN modules made to connect the latest Markdown and DocBook process with traditional Perl POD. The article underscores the sidecar markdown documentation files that get automatically integrated with source files thanks to MakeMaker's goals together with the software for making rich and static sites.]]></description>
+            <pubDate>2026.10.05</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/aspeer/2026/10/perl-documentation-including-pod-with-markdown-and-docbook.html</guid>
+            <link>https://blogs.perl.org/users/aspeer/2026/10/perl-documentation-including-pod-with-markdown-and-docbook.html</link>
             
             
             
-            <author><![CDATA[rob_lauer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Still saving CPU cycles 32 years later: Rediscovering the Schwartzian Transform in Flutter]]></title>
-            <description><![CDATA[Still saving CPU cycles 32 years later: Rediscovering the Schwartzian Transform in Flutter]]></description>
-            <pubDate>2026.10.02</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/randal_l_schwartz/2026/10/still-saving-cpu-cycles-32-years-later-rediscovering-the-schwartzian-transform-in-flutter.html</guid>
-            <link>https://blogs.perl.org/users/randal_l_schwartz/2026/10/still-saving-cpu-cycles-32-years-later-rediscovering-the-schwartzian-transform-in-flutter.html</link>
-            
-            
-            
-            <author><![CDATA[randal_schwartz]]></author>
+            <author><![CDATA[andrew_speer]]></author>
             
                 
             
@@ -210,15 +82,95 @@
         </item>
         
         <item>
-            <title><![CDATA[A Tic Tac Toe game and experiments using MiniMax algorithm]]></title>
-            <description><![CDATA[A Tic Tac Toe game and experiments using MiniMax algorithm]]></description>
-            <pubDate>2026.10.03</pubDate>
-            <guid isPermaLink="false">https://github.com/saiftynet/TIC-TAC-TOE</guid>
-            <link>https://github.com/saiftynet/TIC-TAC-TOE</link>
+            <title><![CDATA[This week in PSC (238) | 2026-10-05]]></title>
+            <description><![CDATA[In the most recent update from the Perl Steering Council (Issue #238), discussions regarding the improvement of @INC handling continue. They also provide an update on the results of monitoring the effects of changes made to the way anonymous subroutines generate line numbers.]]></description>
+            <pubDate>2026.10.05</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/10/this-week-in-psc-238-2026-10-05.html</guid>
+            <link>https://blogs.perl.org/users/psc/2026/10/this-week-in-psc-238-2026-10-05.html</link>
             
             
             
-            <author><![CDATA[saif_ahmed]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Minion: The Silent Engine That Turns Perl Into a Modern Architecture Platform]]></title>
+            <description><![CDATA[Dani describes how the Minion framework, which is part of Mojolicious, supports background job processing and SQL data storage in Perl applications. This article presents a detailed explanation and proposes Minion as a simpler and better option than heavy queue-based systems using Redis or kinds of enterprise-level job queues.]]></description>
+            <pubDate>2026.10.05</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/danimera/2026/10/minion-the-silent-engine-that-turns-perl-into-a-modern-architecture-platform.html</guid>
+            <link>https://blogs.perl.org/users/danimera/2026/10/minion-the-silent-engine-that-turns-perl-into-a-modern-architecture-platform.html</link>
+            
+            
+            
+            <author><![CDATA[dani_otelch]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Peta::NN - Surface Detail]]></title>
+            <description><![CDATA[PetaMem showcases Peta::NN, a zero-dependency neural networking library created from Perl, which can build and train micro-models such as inflection and word category. The post also describes things like modular pipelines, GPU acceleration (using Peta::WebGPU), and tested apps (like accurate German noun pluralisation).]]></description>
+            <pubDate>2026.10.09</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/10/petann---surface-detail.html</guid>
+            <link>https://blogs.perl.org/users/petamem/2026/10/petann---surface-detail.html</link>
+            
+            
+            
+            <author><![CDATA[petamem]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Game::Terminal: Perl game implementations in a terminal]]></title>
+            <description><![CDATA[Robert presents Game::Terminal, a single consolidated CPAN distribution of over twenty terminal-based classic board, card, and arcade games. The post explains how a clean and modular engine design powers both this new CLI menu launcher and an upcoming browser-based gaming platform.]]></description>
+            <pubDate>2026.10.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnation/gameterminal-perl-game-implementations-in-a-terminal-2d2e</guid>
+            <link>https://dev.to/lnation/gameterminal-perl-game-implementations-in-a-terminal-2d2e</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Long Life of WWW::Shorten]]></title>
+            <description><![CDATA[Dave makes observations regarding the history of Perl for 24 years and looks at the history and origins of the URL shortening module suite WWW::Shorten after making corrections since some of the email addresses from that period are now retired.]]></description>
+            <pubDate>2026.10.11</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2026/10/the-long-life-of-wwwshorten/</guid>
+            <link>https://perlhacks.com/2026/10/the-long-life-of-wwwshorten/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.40 Pythonesque]]></title>
+            <description><![CDATA[2026.40 Pythonesque]]></description>
+            <pubDate>2026.10.05</pubDate>
+            <guid isPermaLink="false">https://rakuweekly.blog/2026/10/05/2026-40-pythonesque/</guid>
+            <link>https://rakuweekly.blog/2026/10/05/2026-40-pythonesque/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -227,30 +179,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/10/dcxx-35-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.10.03</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/10/dcxxi-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/10/dcxxxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2026.10.10</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Amsterdam PM bijeenkomst]]></title>
-            <description><![CDATA[October 06, 2026]]></description>
-            
-            <guid isPermaLink="false">https://www.meetup.com/dutch-perl-mongers/</guid>
-            <link>https://www.meetup.com/dutch-perl-mongers/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
