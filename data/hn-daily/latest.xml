@@ -18,88 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Hackers activate automatic defrosting in supermarket fridges across Europe]]></title>
-            <description><![CDATA[717 points | <a href=https://news.ycombinator.com/item?id=50055304 target=_blank>839 comments</a>]]></description>
-            <pubDate>2026-10-12T12:16:42Z</pubDate>
-            <guid isPermaLink="false">https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident</guid>
-            <link>https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident</link>
-            
-            
-            
-            <author><![CDATA[Zeekaas]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Muse Wonder]]></title>
-            <description><![CDATA[638 points | <a href=https://news.ycombinator.com/item?id=50059115 target=_blank>346 comments</a>]]></description>
-            <pubDate>2026-10-12T16:48:01Z</pubDate>
-            <guid isPermaLink="false">https://research.meta.ai/blog/muse-wonder</guid>
-            <link>https://research.meta.ai/blog/muse-wonder</link>
-            
-            
-            
-            <author><![CDATA[meetpateltech]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Deloitte falsified documents to evade tax on Abramovich's wealth]]></title>
-            <description><![CDATA[603 points | <a href=https://news.ycombinator.com/item?id=50054207 target=_blank>199 comments</a>]]></description>
-            <pubDate>2026-10-12T10:21:27Z</pubDate>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c64g1l5389kvo</guid>
-            <link>https://www.bbc.com/news/articles/c64g1l5389kvo</link>
-            
-            
-            
-            <author><![CDATA[Betelbuddy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A Modern Web App in C]]></title>
-            <description><![CDATA[578 points | <a href=https://news.ycombinator.com/item?id=50058528 target=_blank>244 comments</a>]]></description>
-            <pubDate>2026-10-12T16:13:10Z</pubDate>
-            <guid isPermaLink="false">https://prophitt.me/writing/a-modern-web-app-in-c</guid>
-            <link>https://prophitt.me/writing/a-modern-web-app-in-c</link>
-            
-            
-            
-            <author><![CDATA[prophittcorey]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GLM-Legal]]></title>
-            <description><![CDATA[576 points | <a href=https://news.ycombinator.com/item?id=50058507 target=_blank>326 comments</a>]]></description>
-            <pubDate>2026-10-12T16:11:45Z</pubDate>
-            <guid isPermaLink="false">https://z.ai/blog/glm-legal</guid>
-            <link>https://z.ai/blog/glm-legal</link>
-            
-            
-            
-            <author><![CDATA[ilreb]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Codex CLI installs a persistent, self-updating background daemon by default]]></title>
-            <description><![CDATA[568 points | <a href=https://news.ycombinator.com/item?id=50060694 target=_blank>275 comments</a>]]></description>
+            <description><![CDATA[590 points | <a href=https://news.ycombinator.com/item?id=50060694 target=_blank>287 comments</a>]]></description>
             <pubDate>2026-10-12T18:29:04Z</pubDate>
             <guid isPermaLink="false">https://github.com/openai/codex/issues/48195</guid>
             <link>https://github.com/openai/codex/issues/48195</link>
@@ -115,7 +35,7 @@
         
         <item>
             <title><![CDATA[AI is a tool and using it well takes skill]]></title>
-            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=50063427 target=_blank>344 comments</a>]]></description>
+            <description><![CDATA[586 points | <a href=https://news.ycombinator.com/item?id=50063427 target=_blank>468 comments</a>]]></description>
             <pubDate>2026-10-12T21:40:18Z</pubDate>
             <guid isPermaLink="false">https://yyhh.org/blog/2026/10/ai-is-a-tool/</guid>
             <link>https://yyhh.org/blog/2026/10/ai-is-a-tool/</link>
@@ -130,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[QGIS enacts moratorium on AI contributions]]></title>
-            <description><![CDATA[376 points | <a href=https://news.ycombinator.com/item?id=50054751 target=_blank>402 comments</a>]]></description>
-            <pubDate>2026-10-12T11:22:24Z</pubDate>
-            <guid isPermaLink="false">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</guid>
-            <link>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</link>
+            <title><![CDATA[11 year old unsoundness bugs found in Rust borrow checker]]></title>
+            <description><![CDATA[556 points | <a href=https://news.ycombinator.com/item?id=50069499 target=_blank>323 comments</a>]]></description>
+            <pubDate>2026-10-13T10:27:00Z</pubDate>
+            <guid isPermaLink="false">https://github.com/rust-lang/rust/issues/164250</guid>
+            <link>https://github.com/rust-lang/rust/issues/164250</link>
             
             
             
-            <author><![CDATA[bwnkl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver]]></title>
-            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=50055593 target=_blank>95 comments</a>]]></description>
-            <pubDate>2026-10-12T12:41:58Z</pubDate>
-            <guid isPermaLink="false">https://github.com/h0m3us3r/w1700k-sdr</guid>
-            <link>https://github.com/h0m3us3r/w1700k-sdr</link>
-            
-            
-            
-            <author><![CDATA[djfergus]]></author>
+            <author><![CDATA[formerly_proven]]></author>
             
                 
             
@@ -162,15 +66,63 @@
         </item>
         
         <item>
-            <title><![CDATA[Citroen revives the 2CV for an electric age]]></title>
-            <description><![CDATA[345 points | <a href=https://news.ycombinator.com/item?id=50055220 target=_blank>389 comments</a>]]></description>
-            <pubDate>2026-10-12T12:09:09Z</pubDate>
-            <guid isPermaLink="false">https://www.bbc.com/news/articles/c620r33plgppo</guid>
-            <link>https://www.bbc.com/news/articles/c620r33plgppo</link>
+            <title><![CDATA[Apple HomeView]]></title>
+            <description><![CDATA[466 points | <a href=https://news.ycombinator.com/item?id=50071017 target=_blank>577 comments</a>]]></description>
+            <pubDate>2026-10-13T13:02:12Z</pubDate>
+            <guid isPermaLink="false">https://www.apple.com/apple-homeview/</guid>
+            <link>https://www.apple.com/apple-homeview/</link>
             
             
             
-            <author><![CDATA[scrlk]]></author>
+            <author><![CDATA[etothet]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Gemini 4 Argon]]></title>
+            <description><![CDATA[431 points | <a href=https://news.ycombinator.com/item?id=50073879 target=_blank>335 comments</a>]]></description>
+            <pubDate>2026-10-13T16:03:16Z</pubDate>
+            <guid isPermaLink="false">https://deepmind.google/models/gemini/</guid>
+            <link>https://deepmind.google/models/gemini/</link>
+            
+            
+            
+            <author><![CDATA[737max]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades]]></title>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=50069329 target=_blank>209 comments</a>]]></description>
+            <pubDate>2026-10-13T10:08:00Z</pubDate>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran</guid>
+            <link>https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran</link>
+            
+            
+            
+            <author><![CDATA[helsinkiandrew]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Firefox Enterprise]]></title>
+            <description><![CDATA[398 points | <a href=https://news.ycombinator.com/item?id=50070302 target=_blank>170 comments</a>]]></description>
+            <pubDate>2026-10-13T12:00:42Z</pubDate>
+            <guid isPermaLink="false">https://www.firefox.com/en-US/enterprise/</guid>
+            <link>https://www.firefox.com/en-US/enterprise/</link>
+            
+            
+            
+            <author><![CDATA[recvonline]]></author>
             
                 
             
@@ -179,7 +131,7 @@
         
         <item>
             <title><![CDATA[AI coding agents generate more code, but not more software]]></title>
-            <description><![CDATA[337 points | <a href=https://news.ycombinator.com/item?id=50059523 target=_blank>285 comments</a>]]></description>
+            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=50059523 target=_blank>293 comments</a>]]></description>
             <pubDate>2026-10-12T17:14:01Z</pubDate>
             <guid isPermaLink="false">https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/</guid>
             <link>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/</link>
@@ -194,15 +146,63 @@
         </item>
         
         <item>
-            <title><![CDATA[Why aren't AI companies being charged for hacking?]]></title>
-            <description><![CDATA[322 points | <a href=https://news.ycombinator.com/item?id=50057278 target=_blank>351 comments</a>]]></description>
-            <pubDate>2026-10-12T14:52:37Z</pubDate>
-            <guid isPermaLink="false">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</guid>
-            <link>https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</link>
+            <title><![CDATA[We turned EmbeddingGemma 2 into a speech-to-text model]]></title>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=50069971 target=_blank>78 comments</a>]]></description>
+            <pubDate>2026-10-13T11:27:14Z</pubDate>
+            <guid isPermaLink="false">https://eg2.haku.sh/</guid>
+            <link>https://eg2.haku.sh/</link>
             
             
             
-            <author><![CDATA[ingve]]></author>
+            <author><![CDATA[amrrs]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA['AI' Is Not a Tool by Rich Hickey]]></title>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=50060269 target=_blank>164 comments</a>]]></description>
+            <pubDate>2026-10-12T18:00:25Z</pubDate>
+            <guid isPermaLink="false">https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e</guid>
+            <link>https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e</link>
+            
+            
+            
+            <author><![CDATA[svieira]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X]]></title>
+            <description><![CDATA[293 points | <a href=https://news.ycombinator.com/item?id=50063365 target=_blank>168 comments</a>]]></description>
+            <pubDate>2026-10-12T21:35:35Z</pubDate>
+            <guid isPermaLink="false">https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html</guid>
+            <link>https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html</link>
+            
+            
+            
+            <author><![CDATA[hurricanepootis]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Hittite royal archive found in Turkey]]></title>
+            <description><![CDATA[288 points | <a href=https://news.ycombinator.com/item?id=50067414 target=_blank>74 comments</a>]]></description>
+            <pubDate>2026-10-13T06:02:51Z</pubDate>
+            <guid isPermaLink="false">https://www.thehistoryblog.com/archives/77107</guid>
+            <link>https://www.thehistoryblog.com/archives/77107</link>
+            
+            
+            
+            <author><![CDATA[benbreen]]></author>
             
                 
             
