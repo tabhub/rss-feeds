@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[Claude reveals ECDSA curve origins]]></title>
-            <description><![CDATA[746 points | <a href=https://news.ycombinator.com/item?id=50122800 target=_blank>290 comments</a>]]></description>
+            <description><![CDATA[852 points | <a href=https://news.ycombinator.com/item?id=50122800 target=_blank>317 comments</a>]]></description>
             <pubDate>2026-10-16T18:55:59Z</pubDate>
             <guid isPermaLink="false">https://www.anthropic.com/research/ecdsa-curve-origins</guid>
             <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
@@ -35,7 +35,7 @@
         
         <item>
             <title><![CDATA[90% of US working hours are spent on tasks not covered well by AI benchmarks]]></title>
-            <description><![CDATA[437 points | <a href=https://news.ycombinator.com/item?id=50121179 target=_blank>378 comments</a>]]></description>
+            <description><![CDATA[491 points | <a href=https://news.ycombinator.com/item?id=50121179 target=_blank>414 comments</a>]]></description>
             <pubDate>2026-10-16T17:08:38Z</pubDate>
             <guid isPermaLink="false">https://www.mercor.com/research/labor-index/benchmark-map/</guid>
             <link>https://www.mercor.com/research/labor-index/benchmark-map/</link>
@@ -50,8 +50,24 @@
         </item>
         
         <item>
+            <title><![CDATA[How the Claude Code team does code review]]></title>
+            <description><![CDATA[333 points | <a href=https://news.ycombinator.com/item?id=50122951 target=_blank>308 comments</a>]]></description>
+            <pubDate>2026-10-16T19:04:47Z</pubDate>
+            <guid isPermaLink="false">https://claude.dev/blog/solving-code-review-at-anthropic/</guid>
+            <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
+            
+            
+            
+            <author><![CDATA[pretext]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I love software rendering]]></title>
-            <description><![CDATA[307 points | <a href=https://news.ycombinator.com/item?id=50117746 target=_blank>195 comments</a>]]></description>
+            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=50117746 target=_blank>202 comments</a>]]></description>
             <pubDate>2026-10-16T12:52:08Z</pubDate>
             <guid isPermaLink="false">https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</guid>
             <link>https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</link>
@@ -67,7 +83,7 @@
         
         <item>
             <title><![CDATA[Waymo in Toronto]]></title>
-            <description><![CDATA[301 points | <a href=https://news.ycombinator.com/item?id=50118981 target=_blank>405 comments</a>]]></description>
+            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=50118981 target=_blank>411 comments</a>]]></description>
             <pubDate>2026-10-16T14:44:17Z</pubDate>
             <guid isPermaLink="false">https://waymo.com/blog/2026/10/waymo-in-toronto/</guid>
             <link>https://waymo.com/blog/2026/10/waymo-in-toronto/</link>
@@ -83,7 +99,7 @@
         
         <item>
             <title><![CDATA[Apple ML Research: Muse Spark Open with MLX on Mac Studio]]></title>
-            <description><![CDATA[284 points | <a href=https://news.ycombinator.com/item?id=50118320 target=_blank>130 comments</a>]]></description>
+            <description><![CDATA[308 points | <a href=https://news.ycombinator.com/item?id=50118320 target=_blank>158 comments</a>]]></description>
             <pubDate>2026-10-16T13:43:48Z</pubDate>
             <guid isPermaLink="false">https://machinelearning.apple.com/research/mlx-distributed-inference</guid>
             <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
@@ -98,31 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[How the Claude Code team does code review]]></title>
-            <description><![CDATA[270 points | <a href=https://news.ycombinator.com/item?id=50122951 target=_blank>255 comments</a>]]></description>
-            <pubDate>2026-10-16T19:04:47Z</pubDate>
-            <guid isPermaLink="false">https://claude.dev/blog/solving-code-review-at-anthropic/</guid>
-            <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
+            <title><![CDATA[You could have invented transformers from memory]]></title>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=50122878 target=_blank>67 comments</a>]]></description>
+            <pubDate>2026-10-16T19:01:17Z</pubDate>
+            <guid isPermaLink="false">https://alexwang.ai/posts/associative-memory/</guid>
+            <link>https://alexwang.ai/posts/associative-memory/</link>
             
             
             
-            <author><![CDATA[pretext]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Anthropic assigned highest junk credit rating in June]]></title>
-            <description><![CDATA[230 points | <a href=https://news.ycombinator.com/item?id=50122112 target=_blank>71 comments</a>]]></description>
-            <pubDate>2026-10-16T18:11:42Z</pubDate>
-            <guid isPermaLink="false">https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d</guid>
-            <link>https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d</link>
-            
-            
-            
-            <author><![CDATA[JumpCrisscross]]></author>
+            <author><![CDATA[speckx]]></author>
             
                 
             
@@ -131,7 +131,7 @@
         
         <item>
             <title><![CDATA[Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console]]></title>
-            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=50122431 target=_blank>62 comments</a>]]></description>
+            <description><![CDATA[279 points | <a href=https://news.ycombinator.com/item?id=50122431 target=_blank>68 comments</a>]]></description>
             <pubDate>2026-10-16T18:32:35Z</pubDate>
             <guid isPermaLink="false">https://github.com/cobanov/PS5LM</guid>
             <link>https://github.com/cobanov/PS5LM</link>
@@ -147,7 +147,7 @@
         
         <item>
             <title><![CDATA[JPEG XL vs. AVIF for web use-cases]]></title>
-            <description><![CDATA[219 points | <a href=https://news.ycombinator.com/item?id=50120224 target=_blank>154 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=50120224 target=_blank>176 comments</a>]]></description>
             <pubDate>2026-10-16T16:12:02Z</pubDate>
             <guid isPermaLink="false">https://jakearchibald.com/2026/jpeg-xl-vs-avif/</guid>
             <link>https://jakearchibald.com/2026/jpeg-xl-vs-avif/</link>
@@ -162,8 +162,40 @@
         </item>
         
         <item>
+            <title><![CDATA[Anthropic assigned highest junk credit rating in June]]></title>
+            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=50122112 target=_blank>75 comments</a>]]></description>
+            <pubDate>2026-10-16T18:11:42Z</pubDate>
+            <guid isPermaLink="false">https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d</guid>
+            <link>https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d</link>
+            
+            
+            
+            <author><![CDATA[JumpCrisscross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Show HN: Gemini 4 Argon plays StarCraft]]></title>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=50118688 target=_blank>98 comments</a>]]></description>
+            <pubDate>2026-10-16T14:18:44Z</pubDate>
+            <guid isPermaLink="false">https://starskirmish.com/bench/v0-2/</guid>
+            <link>https://starskirmish.com/bench/v0-2/</link>
+            
+            
+            
+            <author><![CDATA[__cayenne__]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[I never authorized an integration that scans my secrets]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=50124251 target=_blank>167 comments</a>]]></description>
+            <description><![CDATA[217 points | <a href=https://news.ycombinator.com/item?id=50124251 target=_blank>183 comments</a>]]></description>
             <pubDate>2026-10-16T20:33:41Z</pubDate>
             <guid isPermaLink="false">https://github.com/home-assistant/home-assistant.io/issues/49314</guid>
             <link>https://github.com/home-assistant/home-assistant.io/issues/49314</link>
@@ -171,38 +203,6 @@
             
             
             <author><![CDATA[trvrprkr]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Folders Programming Language]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=50114342 target=_blank>37 comments</a>]]></description>
-            <pubDate>2026-10-16T05:11:28Z</pubDate>
-            <guid isPermaLink="false">https://danieltemkin.com/esolangs/folders</guid>
-            <link>https://danieltemkin.com/esolangs/folders</link>
-            
-            
-            
-            <author><![CDATA[gurst]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[US Rep Announces Congressional Legislation to Protect Video Game Ownership]]></title>
-            <description><![CDATA[197 points | <a href=https://news.ycombinator.com/item?id=50120101 target=_blank>112 comments</a>]]></description>
-            <pubDate>2026-10-16T16:03:02Z</pubDate>
-            <guid isPermaLink="false">https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games</guid>
-            <link>https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games</link>
-            
-            
-            
-            <author><![CDATA[DeepLogin]]></author>
             
                 
             
