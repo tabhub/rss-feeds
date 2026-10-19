@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #794]]></title>
+        <title><![CDATA[Perl Weekly #795]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,139 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Perl IDE Developer Survey 2026]]></title>
-            <description><![CDATA[The Perl IDE Survey provides community driven insights into tools, editors, and workflows. It shows the preferred main choices such as Vim and VS Code and metrics on LSP, testing practices, and other main programming tools.]]></description>
-            <pubDate>2026.10.08</pubDate>
-            <guid isPermaLink="false">https://survey.perlide.org/</guid>
-            <link>https://survey.perlide.org/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ANNOUNCE: Perl.Wiki V 1.56, CPAN::MetaCurator V 1.33]]></title>
-            <description><![CDATA[Ron Savage has announced the availability of Perl.Wiki (version 1.56), as well as CPAN::MetaCurator (version 1.33). This new version integrates ChangeLog features into the JSTree menu and also improves the overall appearance of the program's interface.]]></description>
-            <pubDate>2026.10.11</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/ron_savage/2026/10/announce-perlwiki-v-156-cpanmetacurator-v-133.html</guid>
-            <link>https://blogs.perl.org/users/ron_savage/2026/10/announce-perlwiki-v-156-cpanmetacurator-v-133.html</link>
-            
-            
-            
-            <author><![CDATA[ron_savage]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[It's Time to Retire Your @cpan.org Email Address]]></title>
-            <description><![CDATA[CPAN authors are reminded by Olaf Alders to stop using their @cpan.org email accounts permanently after the Perl NOC closed the forwarding service earlier this year. The maintenance of correct MetaCPAN profiles and contact information enables the CPAN Security Group to get in touch with maintainers regarding urgent security notifications.]]></description>
-            <pubDate>2026.10.05</pubDate>
-            <guid isPermaLink="false">https://security.metacpan.org/2026/10/05/time-to-retire-your-cpan.org-email-address.html</guid>
-            <link>https://security.metacpan.org/2026/10/05/time-to-retire-your-cpan.org-email-address.html</link>
-            
-            
-            
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Perl documentation (including POD) with Markdown and Docbook]]></title>
-            <description><![CDATA[Andrew has presented a novel set of CPAN modules made to connect the latest Markdown and DocBook process with traditional Perl POD. The article underscores the sidecar markdown documentation files that get automatically integrated with source files thanks to MakeMaker's goals together with the software for making rich and static sites.]]></description>
-            <pubDate>2026.10.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/aspeer/2026/10/perl-documentation-including-pod-with-markdown-and-docbook.html</guid>
-            <link>https://blogs.perl.org/users/aspeer/2026/10/perl-documentation-including-pod-with-markdown-and-docbook.html</link>
-            
-            
-            
-            <author><![CDATA[andrew_speer]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (238) | 2026-10-05]]></title>
-            <description><![CDATA[In the most recent update from the Perl Steering Council (Issue #238), discussions regarding the improvement of @INC handling continue. They also provide an update on the results of monitoring the effects of changes made to the way anonymous subroutines generate line numbers.]]></description>
-            <pubDate>2026.10.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/10/this-week-in-psc-238-2026-10-05.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/10/this-week-in-psc-238-2026-10-05.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Minion: The Silent Engine That Turns Perl Into a Modern Architecture Platform]]></title>
-            <description><![CDATA[Dani describes how the Minion framework, which is part of Mojolicious, supports background job processing and SQL data storage in Perl applications. This article presents a detailed explanation and proposes Minion as a simpler and better option than heavy queue-based systems using Redis or kinds of enterprise-level job queues.]]></description>
-            <pubDate>2026.10.05</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/danimera/2026/10/minion-the-silent-engine-that-turns-perl-into-a-modern-architecture-platform.html</guid>
-            <link>https://blogs.perl.org/users/danimera/2026/10/minion-the-silent-engine-that-turns-perl-into-a-modern-architecture-platform.html</link>
-            
-            
-            
-            <author><![CDATA[dani_otelch]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Peta::NN - Surface Detail]]></title>
-            <description><![CDATA[PetaMem showcases Peta::NN, a zero-dependency neural networking library created from Perl, which can build and train micro-models such as inflection and word category. The post also describes things like modular pipelines, GPU acceleration (using Peta::WebGPU), and tested apps (like accurate German noun pluralisation).]]></description>
-            <pubDate>2026.10.09</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/10/petann---surface-detail.html</guid>
-            <link>https://blogs.perl.org/users/petamem/2026/10/petann---surface-detail.html</link>
-            
-            
-            
-            <author><![CDATA[petamem]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Game::Terminal: Perl game implementations in a terminal]]></title>
-            <description><![CDATA[Robert presents Game::Terminal, a single consolidated CPAN distribution of over twenty terminal-based classic board, card, and arcade games. The post explains how a clean and modular engine design powers both this new CLI menu launcher and an upcoming browser-based gaming platform.]]></description>
-            <pubDate>2026.10.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/lnation/gameterminal-perl-game-implementations-in-a-terminal-2d2e</guid>
-            <link>https://dev.to/lnation/gameterminal-perl-game-implementations-in-a-terminal-2d2e</link>
-            
-            
-            
-            <author><![CDATA[robert_acock]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Long Life of WWW::Shorten]]></title>
-            <description><![CDATA[Dave makes observations regarding the history of Perl for 24 years and looks at the history and origins of the URL shortening module suite WWW::Shorten after making corrections since some of the email addresses from that period are now retired.]]></description>
-            <pubDate>2026.10.11</pubDate>
-            <guid isPermaLink="false">https://perlhacks.com/2026/10/the-long-life-of-wwwshorten/</guid>
-            <link>https://perlhacks.com/2026/10/the-long-life-of-wwwshorten/</link>
+            <title><![CDATA[Modern Perl Tips]]></title>
+            <description><![CDATA[Dave wrote: "Talking to Perl programmers, I’ve noticed how easy it is to miss new additions to the language. We learn Perl, get comfortable with it, and get on with writing code. Meanwhile, Perl keeps moving<br>Modern Perl Tips is a chance to catch up a little at a time. Each tip takes a useful feature you might not have come across, shows how it helps with an everyday problem, and points you towards the documentation. You might discover a clearer way to write something you’ve been doing for years."]]></description>
+            <pubDate>2026.10.18</pubDate>
+            <guid isPermaLink="false">https://tips.perlhacks.com/</guid>
+            <link>https://tips.perlhacks.com/</link>
             
             
             
@@ -162,15 +34,127 @@
         </item>
         
         <item>
-            <title><![CDATA[2026.40 Pythonesque]]></title>
-            <description><![CDATA[2026.40 Pythonesque]]></description>
-            <pubDate>2026.10.05</pubDate>
-            <guid isPermaLink="false">https://rakuweekly.blog/2026/10/05/2026-40-pythonesque/</guid>
-            <link>https://rakuweekly.blog/2026/10/05/2026-40-pythonesque/</link>
+            <title><![CDATA[Adventures in Real-Time MIDI]]></title>
+            <description><![CDATA[Gene writes: "Since discovering Perl real-time MIDI and writing about creating async drums with it, I’ve dug deeper into what’s possible. I have a few music and MIDI modules on CPAN and like to put them to use in real time, now that I have been enlightened by zen master John Barrett. Ha :D"]]></description>
+            <pubDate>2026.10.17</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/adventures-in-real-time-midi/</guid>
+            <link>https://www.perl.com/article/adventures-in-real-time-midi/</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[gene_boggs]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[URI::PackageURL 2.26 released: PURL and VERS for Perl]]></title>
+            <description><![CDATA[URI-PackageURL implements two specifications that are becoming central to software supply-chain security: PURL (Package URL, a uniform way to identify a software package across ecosystems ) and VERS ((Version Range, a universal notation for version ranges)]]></description>
+            <pubDate>2026.10.16</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/giuseppe_di_terlizzi/2026/10/uripackageurl-226-released-purl-and-vers-for-perl.html</guid>
+            <link>https://blogs.perl.org/users/giuseppe_di_terlizzi/2026/10/uripackageurl-226-released-purl-and-vers-for-perl.html</link>
+            
+            
+            
+            <author><![CDATA[giuseppe_di_terlizzi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[NetAddr::IP 4.080_05: Please Smoke Test]]></title>
+            <description><![CDATA[Dean writes: "NetAddr::IP 4.079 was released in 2016 and has sat there since. I have started working on it recently, and 4.080_05 is the fifth trial release since. It is on CPAN now, and the tarball is ready for you to install!"]]></description>
+            <pubDate>2026.10.15</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2026/10/netaddrip-4080-05-please-smoke-test.html</guid>
+            <link>https://blogs.perl.org/users/dean/2026/10/netaddrip-4080-05-please-smoke-test.html</link>
+            
+            
+            
+            <author><![CDATA[dean_hamstead]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[pperl 0.6.23 - RANT, REPL and SPEED]]></title>
+            <description><![CDATA[pperl aka. perl implemented in Rust.]]></description>
+            <pubDate>2026.10.15</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/petamem/2026/10/pperl-0623---rant-repl-and-speed.html</guid>
+            <link>https://blogs.perl.org/users/petamem/2026/10/pperl-0623---rant-repl-and-speed.html</link>
+            
+            
+            
+            <author><![CDATA[petamem]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Context::Vars: Perl variables with context scope]]></title>
+            <description><![CDATA[Context::Vars gives you a variable that holds a value per context, and the context follows the work: into every sub called, into callbacks, and across await.]]></description>
+            <pubDate>2026.10.14</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnation/contextvars-perl-variables-with-context-scope-12oi</guid>
+            <link>https://dev.to/lnation/contextvars-perl-variables-with-context-scope-12oi</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CGI From 1993 Still Powers Your AI Agents Today.]]></title>
+            <description><![CDATA[Some history and why Perl won and then lost the battle.]]></description>
+            <pubDate>2026.10.12</pubDate>
+            <guid isPermaLink="false">https://galratner.substack.com/p/cgi-from-1993-still-powers-your-ai</guid>
+            <link>https://galratner.substack.com/p/cgi-from-1993-still-powers-your-ai</link>
+            
+            
+            
+            <author><![CDATA[gal_ratner]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[HAMT: persistent maps, sets and vectors for Perl]]></title>
+            <description><![CDATA[HAMT is a new CPAN distribution that gives Perl three persistent containers: HAMT::Map, HAMT::Set and HAMT::Vector. "Persistent" here means an update never changes the container you call it on. It returns a new one, and the old one stays exactly as it was.]]></description>
+            <pubDate>2026.10.14</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnation/hamt-persistent-maps-sets-and-vectors-for-perl-1k9m</guid>
+            <link>https://dev.to/lnation/hamt-persistent-maps-sets-and-vectors-for-perl-1k9m</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Time::Keeper: Time goes by so slowly]]></title>
+            <description><![CDATA[Time::Keeper is a new CPAN distribution for dates and times. A value is an instant and the zone it is read in, and that is the whole of it: no state to mutate, no locale object, no copy of the zone rules. It covers the ground Time::Piece and DateTime cover between them, and a method that would change a value hands back a new one and leaves the old one as it was.]]></description>
+            <pubDate>2026.10.18</pubDate>
+            <guid isPermaLink="false">https://dev.to/lnation/timekeeper-time-goes-by-so-slowly-3638</guid>
+            <link>https://dev.to/lnation/timekeeper-time-goes-by-so-slowly-3638</link>
+            
+            
+            
+            <author><![CDATA[robert_acock]]></author>
             
                 
             
@@ -179,30 +163,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/10/dcxxi-15-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/10/dcxxxiii-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
-            <pubDate>2026.10.10</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/10/dcxxii-22-great-cpan-modules-released.html">Great CPAN modules released last week</a>;<br><a href="https://niceperl.blogspot.com/2026/10/dcxxxiv-metacpan-weekly-report.html">MetaCPAN weekly report</a>.]]></description>
+            <pubDate>2026.10.17</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
-            <description><![CDATA[October 12 2026]]></description>
-            
-            <guid isPermaLink="false">https://boston.pm.org/</guid>
-            <link>https://boston.pm.org/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -263,6 +231,22 @@
             
             <guid isPermaLink="false">https://yapcjapan.org/2026tokyo/</guid>
             <link>https://yapcjapan.org/2026tokyo/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Everyday date and time handling in Perl with T]]></title>
+            <description><![CDATA[November 29, 2026]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/2d09kkk4</guid>
+            <link>https://luma.com/2d09kkk4</link>
             
             
             
