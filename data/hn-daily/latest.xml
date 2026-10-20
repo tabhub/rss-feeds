@@ -18,47 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Ousted Savannah police officer gave ICE agent husband access to Flock system]]></title>
-            <description><![CDATA[637 points | <a href=https://news.ycombinator.com/item?id=50150750 target=_blank>362 comments</a>]]></description>
-            <pubDate>2026-10-19T10:45:14Z</pubDate>
-            <guid isPermaLink="false">https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</guid>
-            <link>https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816</link>
+            <title><![CDATA[DeepSeek just open-sourced its inference engine]]></title>
+            <description><![CDATA[648 points | <a href=https://news.ycombinator.com/item?id=50163277 target=_blank>226 comments</a>]]></description>
+            <pubDate>2026-10-20T09:08:54Z</pubDate>
+            <guid isPermaLink="false">https://github.com/deepseek-ai/DeepInfer</guid>
+            <link>https://github.com/deepseek-ai/DeepInfer</link>
             
             
             
-            <author><![CDATA[DeepLogin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Linux 7.3]]></title>
-            <description><![CDATA[605 points | <a href=https://news.ycombinator.com/item?id=50149392 target=_blank>278 comments</a>]]></description>
-            <pubDate>2026-10-19T07:23:57Z</pubDate>
-            <guid isPermaLink="false">https://lwn.net/Articles/1101143/</guid>
-            <link>https://lwn.net/Articles/1101143/</link>
-            
-            
-            
-            <author><![CDATA[cjd8]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Timestral: Mistral's time-series foundation models]]></title>
-            <description><![CDATA[576 points | <a href=https://news.ycombinator.com/item?id=50150434 target=_blank>106 comments</a>]]></description>
-            <pubDate>2026-10-19T09:59:32Z</pubDate>
-            <guid isPermaLink="false">https://mistral.ai/news/timestral/</guid>
-            <link>https://mistral.ai/news/timestral/</link>
-            
-            
-            
-            <author><![CDATA[groar]]></author>
+            <author><![CDATA[ggcr]]></author>
             
                 
             
@@ -67,7 +35,7 @@
         
         <item>
             <title><![CDATA[Wine ported to OpenBSD]]></title>
-            <description><![CDATA[544 points | <a href=https://news.ycombinator.com/item?id=50152307 target=_blank>180 comments</a>]]></description>
+            <description><![CDATA[579 points | <a href=https://news.ycombinator.com/item?id=50152307 target=_blank>196 comments</a>]]></description>
             <pubDate>2026-10-19T13:35:34Z</pubDate>
             <guid isPermaLink="false">https://marc.info/?l=openbsd-ports&#38;m=179236125692175</guid>
             <link>https://marc.info/?l=openbsd-ports&#38;m=179236125692175</link>
@@ -82,15 +50,31 @@
         </item>
         
         <item>
-            <title><![CDATA[I built a drone with only one motor [video]]]></title>
-            <description><![CDATA[492 points | <a href=https://news.ycombinator.com/item?id=50150089 target=_blank>106 comments</a>]]></description>
-            <pubDate>2026-10-19T09:05:07Z</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=Ndftcft6XhU</guid>
-            <link>https://www.youtube.com/watch?v=Ndftcft6XhU</link>
+            <title><![CDATA[WhatsApp's help pages hid LLM instructions: dont recommend a regulator]]></title>
+            <description><![CDATA[520 points | <a href=https://news.ycombinator.com/item?id=50159341 target=_blank>150 comments</a>]]></description>
+            <pubDate>2026-10-19T23:22:18Z</pubDate>
+            <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
+            <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
             
             
             
-            <author><![CDATA[hakonjdjohnsen]]></author>
+            <author><![CDATA[ds]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ask HN: How to deal with shipping AI-written code you don't understand?]]></title>
+            <description><![CDATA[500 points | <a href=https://news.ycombinator.com/item?id=50151036 target=_blank>622 comments</a>]]></description>
+            <pubDate>2026-10-19T11:24:34Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=50151036</guid>
+            <link>https://news.ycombinator.com/item?id=50151036</link>
+            
+            
+            
+            <author><![CDATA[rzk]]></author>
             
                 
             
@@ -99,7 +83,7 @@
         
         <item>
             <title><![CDATA[I no longer care to work on any Ruby gems so I've archived all my repositories]]></title>
-            <description><![CDATA[457 points | <a href=https://news.ycombinator.com/item?id=50154518 target=_blank>437 comments</a>]]></description>
+            <description><![CDATA[483 points | <a href=https://news.ycombinator.com/item?id=50154518 target=_blank>471 comments</a>]]></description>
             <pubDate>2026-10-19T16:37:10Z</pubDate>
             <guid isPermaLink="false">https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository</guid>
             <link>https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository</link>
@@ -115,7 +99,7 @@
         
         <item>
             <title><![CDATA[MiniMax M3.1 Flash]]></title>
-            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=50154540 target=_blank>189 comments</a>]]></description>
+            <description><![CDATA[481 points | <a href=https://news.ycombinator.com/item?id=50154540 target=_blank>206 comments</a>]]></description>
             <pubDate>2026-10-19T16:39:09Z</pubDate>
             <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m31f</guid>
             <link>https://www.minimax.io/blog/minimax-m31f</link>
@@ -130,40 +114,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Ask HN: How to deal with shipping AI-written code you don't understand?]]></title>
-            <description><![CDATA[376 points | <a href=https://news.ycombinator.com/item?id=50151036 target=_blank>526 comments</a>]]></description>
-            <pubDate>2026-10-19T11:24:34Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=50151036</guid>
-            <link>https://news.ycombinator.com/item?id=50151036</link>
-            
-            
-            
-            <author><![CDATA[rzk]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Alternatives to animal testing are finally taking off]]></title>
-            <description><![CDATA[334 points | <a href=https://news.ycombinator.com/item?id=50150927 target=_blank>102 comments</a>]]></description>
-            <pubDate>2026-10-19T11:10:54Z</pubDate>
-            <guid isPermaLink="false">https://spectrum.ieee.org/alternatives-to-animal-testing</guid>
-            <link>https://spectrum.ieee.org/alternatives-to-animal-testing</link>
-            
-            
-            
-            <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[CERN and Mistral sign a statement of intent to establish a strategic partnership]]></title>
-            <description><![CDATA[332 points | <a href=https://news.ycombinator.com/item?id=50153630 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[346 points | <a href=https://news.ycombinator.com/item?id=50153630 target=_blank>58 comments</a>]]></description>
             <pubDate>2026-10-19T15:28:24Z</pubDate>
             <guid isPermaLink="false">https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/</guid>
             <link>https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/</link>
@@ -178,8 +130,24 @@
         </item>
         
         <item>
+            <title><![CDATA[OpenBSD 8.0]]></title>
+            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=50160494 target=_blank>108 comments</a>]]></description>
+            <pubDate>2026-10-20T02:06:40Z</pubDate>
+            <guid isPermaLink="false">https://www.openbsd.org/80.html</guid>
+            <link>https://www.openbsd.org/80.html</link>
+            
+            
+            
+            <author><![CDATA[privong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Android apps running native on macOS]]></title>
-            <description><![CDATA[303 points | <a href=https://news.ycombinator.com/item?id=50154624 target=_blank>160 comments</a>]]></description>
+            <description><![CDATA[329 points | <a href=https://news.ycombinator.com/item?id=50154624 target=_blank>177 comments</a>]]></description>
             <pubDate>2026-10-19T16:45:30Z</pubDate>
             <guid isPermaLink="false">https://github.com/kksimp/Mac.apk</guid>
             <link>https://github.com/kksimp/Mac.apk</link>
@@ -194,15 +162,47 @@
         </item>
         
         <item>
-            <title><![CDATA[WhatsApp's help pages hid LLM instructions: dont recommend a regulator]]></title>
-            <description><![CDATA[269 points | <a href=https://news.ycombinator.com/item?id=50159341 target=_blank>59 comments</a>]]></description>
-            <pubDate>2026-10-19T23:22:18Z</pubDate>
-            <guid isPermaLink="false">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
-            <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+            <title><![CDATA[Ukraine claims first drone evacuation of wounded soldier]]></title>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=50153664 target=_blank>248 comments</a>]]></description>
+            <pubDate>2026-10-19T15:31:34Z</pubDate>
+            <guid isPermaLink="false">https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310</guid>
+            <link>https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310</link>
             
             
             
-            <author><![CDATA[ds]]></author>
+            <author><![CDATA[yzydserd]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DeepSeek banned from U.S. federal civilian agencies under new DHS order]]></title>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=50154244 target=_blank>294 comments</a>]]></description>
+            <pubDate>2026-10-19T16:16:46Z</pubDate>
+            <guid isPermaLink="false">https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/</guid>
+            <link>https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/</link>
+            
+            
+            
+            <author><![CDATA[cmrdporcupine]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AfD Leak: What 421,179 Hacked Emails Show about the German Far Right]]></title>
+            <description><![CDATA[280 points | <a href=https://news.ycombinator.com/item?id=50163502 target=_blank>306 comments</a>]]></description>
+            <pubDate>2026-10-20T09:35:40Z</pubDate>
+            <guid isPermaLink="false">https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/</guid>
+            <link>https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/</link>
+            
+            
+            
+            <author><![CDATA[firefax]]></author>
             
                 
             
