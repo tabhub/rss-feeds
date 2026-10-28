@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[US Government is hiding a secret court ruling about how it spies on Americans]]></title>
-            <description><![CDATA[799 points | <a href=https://news.ycombinator.com/item?id=50259604 target=_blank>291 comments</a>]]></description>
-            <pubDate>2026-10-27T14:06:42Z</pubDate>
-            <guid isPermaLink="false">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</guid>
-            <link>https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</link>
-            
-            
-            
-            <author><![CDATA[helterskelter2]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Ghostty 1.4]]></title>
-            <description><![CDATA[787 points | <a href=https://news.ycombinator.com/item?id=50261998 target=_blank>240 comments</a>]]></description>
+            <description><![CDATA[988 points | <a href=https://news.ycombinator.com/item?id=50261998 target=_blank>311 comments</a>]]></description>
             <pubDate>2026-10-27T16:51:22Z</pubDate>
             <guid isPermaLink="false">https://ghostty.org/docs/install/release-notes/1-4-0</guid>
             <link>https://ghostty.org/docs/install/release-notes/1-4-0</link>
@@ -50,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[US Government is hiding a secret court ruling about how it spies on Americans]]></title>
+            <description><![CDATA[921 points | <a href=https://news.ycombinator.com/item?id=50259604 target=_blank>333 comments</a>]]></description>
+            <pubDate>2026-10-27T14:06:42Z</pubDate>
+            <guid isPermaLink="false">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</guid>
+            <link>https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</link>
+            
+            
+            
+            <author><![CDATA[helterskelter2]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Genie 4]]></title>
-            <description><![CDATA[749 points | <a href=https://news.ycombinator.com/item?id=50261319 target=_blank>446 comments</a>]]></description>
+            <description><![CDATA[870 points | <a href=https://news.ycombinator.com/item?id=50261319 target=_blank>505 comments</a>]]></description>
             <pubDate>2026-10-27T16:06:01Z</pubDate>
             <guid isPermaLink="false">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
             <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
@@ -67,7 +67,7 @@
         
         <item>
             <title><![CDATA[AI promised less work. I've never worked more]]></title>
-            <description><![CDATA[620 points | <a href=https://news.ycombinator.com/item?id=50257325 target=_blank>617 comments</a>]]></description>
+            <description><![CDATA[634 points | <a href=https://news.ycombinator.com/item?id=50257325 target=_blank>629 comments</a>]]></description>
             <pubDate>2026-10-27T11:08:14Z</pubDate>
             <guid isPermaLink="false">https://oioannou.com/blog/ai-promised-less-work/</guid>
             <link>https://oioannou.com/blog/ai-promised-less-work/</link>
@@ -83,7 +83,7 @@
         
         <item>
             <title><![CDATA[Anthropic trained Claude on illegally obtained Stanford professors' books]]></title>
-            <description><![CDATA[477 points | <a href=https://news.ycombinator.com/item?id=50260814 target=_blank>265 comments</a>]]></description>
+            <description><![CDATA[520 points | <a href=https://news.ycombinator.com/item?id=50260814 target=_blank>274 comments</a>]]></description>
             <pubDate>2026-10-27T15:28:26Z</pubDate>
             <guid isPermaLink="false">https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</guid>
             <link>https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</link>
@@ -98,40 +98,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Roblox downloaded 145GB models from us (including adult content) without asking]]></title>
-            <description><![CDATA[460 points | <a href=https://news.ycombinator.com/item?id=50256985 target=_blank>268 comments</a>]]></description>
-            <pubDate>2026-10-27T10:27:50Z</pubDate>
-            <guid isPermaLink="false">https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</guid>
-            <link>https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</link>
-            
-            
-            
-            <author><![CDATA[choult]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Wikipedia's Cleanup of AI-Generated Content]]></title>
-            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=50257326 target=_blank>209 comments</a>]]></description>
-            <pubDate>2026-10-27T11:08:15Z</pubDate>
-            <guid isPermaLink="false">https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup</guid>
-            <link>https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup</link>
-            
-            
-            
-            <author><![CDATA[rbanffy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Python's experimental JIT to be removed]]></title>
-            <description><![CDATA[451 points | <a href=https://news.ycombinator.com/item?id=50257419 target=_blank>236 comments</a>]]></description>
+            <description><![CDATA[496 points | <a href=https://news.ycombinator.com/item?id=50257419 target=_blank>268 comments</a>]]></description>
             <pubDate>2026-10-27T11:17:57Z</pubDate>
             <guid isPermaLink="false">https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</guid>
             <link>https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</link>
@@ -146,15 +114,31 @@
         </item>
         
         <item>
-            <title><![CDATA[The Mythical Man-Month in the Age of AI]]></title>
-            <description><![CDATA[438 points | <a href=https://news.ycombinator.com/item?id=50255298 target=_blank>306 comments</a>]]></description>
-            <pubDate>2026-10-27T06:25:37Z</pubDate>
-            <guid isPermaLink="false">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</guid>
-            <link>https://j11g.com/the-mythical-man-month-in-the-age-of-ai</link>
+            <title><![CDATA[Wikipedia's Cleanup of AI-Generated Content]]></title>
+            <description><![CDATA[477 points | <a href=https://news.ycombinator.com/item?id=50257326 target=_blank>216 comments</a>]]></description>
+            <pubDate>2026-10-27T11:08:15Z</pubDate>
+            <guid isPermaLink="false">https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup</guid>
+            <link>https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup</link>
             
             
             
-            <author><![CDATA[ilreb]]></author>
+            <author><![CDATA[rbanffy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Roblox downloaded 145GB models from us (including adult content) without asking]]></title>
+            <description><![CDATA[470 points | <a href=https://news.ycombinator.com/item?id=50256985 target=_blank>269 comments</a>]]></description>
+            <pubDate>2026-10-27T10:27:50Z</pubDate>
+            <guid isPermaLink="false">https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</guid>
+            <link>https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</link>
+            
+            
+            
+            <author><![CDATA[choult]]></author>
             
                 
             
@@ -163,7 +147,7 @@
         
         <item>
             <title><![CDATA[Police are using AI to pull over drivers for 'suspicious' behavior]]></title>
-            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=50261819 target=_blank>276 comments</a>]]></description>
+            <description><![CDATA[370 points | <a href=https://news.ycombinator.com/item?id=50261819 target=_blank>286 comments</a>]]></description>
             <pubDate>2026-10-27T16:40:15Z</pubDate>
             <guid isPermaLink="false">https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220</guid>
             <link>https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220</link>
@@ -178,8 +162,24 @@
         </item>
         
         <item>
+            <title><![CDATA[New 14‑inch MacBook Pro with M6]]></title>
+            <description><![CDATA[352 points | <a href=https://news.ycombinator.com/item?id=50261352 target=_blank>469 comments</a>]]></description>
+            <pubDate>2026-10-27T16:08:32Z</pubDate>
+            <guid isPermaLink="false">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</guid>
+            <link>https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</link>
+            
+            
+            
+            <author><![CDATA[beex]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[New iMac with M6]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=50258538 target=_blank>382 comments</a>]]></description>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=50258538 target=_blank>419 comments</a>]]></description>
             <pubDate>2026-10-27T13:02:02Z</pubDate>
             <guid isPermaLink="false">https://www.apple.com/imac/</guid>
             <link>https://www.apple.com/imac/</link>
@@ -194,15 +194,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Software may be getting worse, but it used to be horrible]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=50257548 target=_blank>315 comments</a>]]></description>
-            <pubDate>2026-10-27T11:30:35Z</pubDate>
-            <guid isPermaLink="false">https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/</guid>
-            <link>https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/</link>
+            <title><![CDATA[Survival LLM: AI assistant and emergency library that runs on your own computer]]></title>
+            <description><![CDATA[327 points | <a href=https://news.ycombinator.com/item?id=50264853 target=_blank>137 comments</a>]]></description>
+            <pubDate>2026-10-27T19:55:06Z</pubDate>
+            <guid isPermaLink="false">https://www.brangus.io/survival-llm</guid>
+            <link>https://www.brangus.io/survival-llm</link>
             
             
             
-            <author><![CDATA[jakevoytko]]></author>
+            <author><![CDATA[Luc]]></author>
             
                 
             
