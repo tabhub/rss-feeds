@@ -19,7 +19,7 @@
         
         <item>
             <title><![CDATA[HackerTube: YouTube built from videos recommended by HN]]></title>
-            <description><![CDATA[1160 points | <a href=https://news.ycombinator.com/item?id=50319510 target=_blank>341 comments</a>]]></description>
+            <description><![CDATA[1618 points | <a href=https://news.ycombinator.com/item?id=50319510 target=_blank>428 comments</a>]]></description>
             <pubDate>2026-10-31T19:56:53Z</pubDate>
             <guid isPermaLink="false">https://karpathy.bearblog.dev/hacker-tube/</guid>
             <link>https://karpathy.bearblog.dev/hacker-tube/</link>
@@ -34,40 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Serbia just elected the world's brainiest parliament]]></title>
-            <description><![CDATA[853 points | <a href=https://news.ycombinator.com/item?id=50314654 target=_blank>481 comments</a>]]></description>
-            <pubDate>2026-10-31T10:21:30Z</pubDate>
-            <guid isPermaLink="false">https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament</guid>
-            <link>https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament</link>
-            
-            
-            
-            <author><![CDATA[input_sh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8]]></title>
-            <description><![CDATA[479 points | <a href=https://news.ycombinator.com/item?id=50319143 target=_blank>219 comments</a>]]></description>
-            <pubDate>2026-10-31T19:16:30Z</pubDate>
-            <guid isPermaLink="false">https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</guid>
-            <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
-            
-            
-            
-            <author><![CDATA[oger]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[An Italian farmer found some unknown seeds in his attic and planted them]]></title>
-            <description><![CDATA[354 points | <a href=https://news.ycombinator.com/item?id=50320963 target=_blank>96 comments</a>]]></description>
+            <description><![CDATA[579 points | <a href=https://news.ycombinator.com/item?id=50320963 target=_blank>171 comments</a>]]></description>
             <pubDate>2026-10-31T22:41:06Z</pubDate>
             <guid isPermaLink="false">https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</guid>
             <link>https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</link>
@@ -82,8 +50,40 @@
         </item>
         
         <item>
+            <title><![CDATA[TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8]]></title>
+            <description><![CDATA[578 points | <a href=https://news.ycombinator.com/item?id=50319143 target=_blank>280 comments</a>]]></description>
+            <pubDate>2026-10-31T19:16:30Z</pubDate>
+            <guid isPermaLink="false">https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</guid>
+            <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
+            
+            
+            
+            <author><![CDATA[oger]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Norway makes shithouses great again]]></title>
+            <description><![CDATA[539 points | <a href=https://news.ycombinator.com/item?id=50324388 target=_blank>296 comments</a>]]></description>
+            <pubDate>2026-11-01T10:47:58Z</pubDate>
+            <guid isPermaLink="false">https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/</guid>
+            <link>https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/</link>
+            
+            
+            
+            <author><![CDATA[giuliomagnifico]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Anthropic blocks users for anything touching training larger models]]></title>
-            <description><![CDATA[326 points | <a href=https://news.ycombinator.com/item?id=50319358 target=_blank>182 comments</a>]]></description>
+            <description><![CDATA[414 points | <a href=https://news.ycombinator.com/item?id=50319358 target=_blank>229 comments</a>]]></description>
             <pubDate>2026-10-31T19:39:19Z</pubDate>
             <guid isPermaLink="false">https://twitter.com/jiahaoshao1/status/2116475922190922088</guid>
             <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
@@ -98,47 +98,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Do the math: How we took over ChatGPT accounts]]></title>
-            <description><![CDATA[323 points | <a href=https://news.ycombinator.com/item?id=50314699 target=_blank>160 comments</a>]]></description>
-            <pubDate>2026-10-31T10:30:11Z</pubDate>
-            <guid isPermaLink="false">https://www.parameter.ai/labs/we-found-a-gap-at-openai</guid>
-            <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+            <title><![CDATA[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard]]></title>
+            <description><![CDATA[328 points | <a href=https://news.ycombinator.com/item?id=50320995 target=_blank>160 comments</a>]]></description>
+            <pubDate>2026-10-31T22:46:12Z</pubDate>
+            <guid isPermaLink="false">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</guid>
+            <link>https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</link>
             
             
             
-            <author><![CDATA[armcat]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Molly (Signal fork) has not been updated since 3 months and is vulnerable]]></title>
-            <description><![CDATA[318 points | <a href=https://news.ycombinator.com/item?id=50314666 target=_blank>184 comments</a>]]></description>
-            <pubDate>2026-10-31T10:23:41Z</pubDate>
-            <guid isPermaLink="false">https://piefed.world/post/1503394</guid>
-            <link>https://piefed.world/post/1503394</link>
-            
-            
-            
-            <author><![CDATA[DeepLogin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Jepsen: ParticleDB 1.1.4]]></title>
-            <description><![CDATA[248 points | <a href=https://news.ycombinator.com/item?id=50316100 target=_blank>138 comments</a>]]></description>
-            <pubDate>2026-10-31T13:39:52Z</pubDate>
-            <guid isPermaLink="false">https://jepsen.io/analyses/particledb-1.1.4</guid>
-            <link>https://jepsen.io/analyses/particledb-1.1.4</link>
-            
-            
-            
-            <author><![CDATA[aphyr]]></author>
+            <author><![CDATA[guregodevo]]></author>
             
                 
             
@@ -147,7 +115,7 @@
         
         <item>
             <title><![CDATA[Malware uses LLMs to rank victims by how much they're worth]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=50316531 target=_blank>131 comments</a>]]></description>
+            <description><![CDATA[250 points | <a href=https://news.ycombinator.com/item?id=50316531 target=_blank>132 comments</a>]]></description>
             <pubDate>2026-10-31T14:29:03Z</pubDate>
             <guid isPermaLink="false">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</guid>
             <link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/</link>
@@ -163,7 +131,7 @@
         
         <item>
             <title><![CDATA[Casio Watches of the 1980s]]></title>
-            <description><![CDATA[224 points | <a href=https://news.ycombinator.com/item?id=50317363 target=_blank>111 comments</a>]]></description>
+            <description><![CDATA[241 points | <a href=https://news.ycombinator.com/item?id=50317363 target=_blank>119 comments</a>]]></description>
             <pubDate>2026-10-31T16:00:48Z</pubDate>
             <guid isPermaLink="false">https://www.casio.com/us/watches/50th/Heritage/1980s/</guid>
             <link>https://www.casio.com/us/watches/50th/Heritage/1980s/</link>
@@ -178,8 +146,24 @@
         </item>
         
         <item>
+            <title><![CDATA[It's the memory latency, stupid]]></title>
+            <description><![CDATA[226 points | <a href=https://news.ycombinator.com/item?id=50318720 target=_blank>74 comments</a>]]></description>
+            <pubDate>2026-10-31T18:38:16Z</pubDate>
+            <guid isPermaLink="false">https://pivotlake.io/blog/its-the-memory-latency-stupid/</guid>
+            <link>https://pivotlake.io/blog/its-the-memory-latency-stupid/</link>
+            
+            
+            
+            <author><![CDATA[ntur1337]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[UK Green party drops longstanding opposition to nuclear power]]></title>
-            <description><![CDATA[210 points | <a href=https://news.ycombinator.com/item?id=50318189 target=_blank>251 comments</a>]]></description>
+            <description><![CDATA[218 points | <a href=https://news.ycombinator.com/item?id=50318189 target=_blank>277 comments</a>]]></description>
             <pubDate>2026-10-31T17:37:22Z</pubDate>
             <guid isPermaLink="false">https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy</guid>
             <link>https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy</link>
@@ -194,15 +178,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Switch Lowering in GCC]]></title>
-            <description><![CDATA[206 points | <a href=https://news.ycombinator.com/item?id=50314085 target=_blank>46 comments</a>]]></description>
-            <pubDate>2026-10-31T08:02:26Z</pubDate>
-            <guid isPermaLink="false">https://xoranth.net/gcc-switch/</guid>
-            <link>https://xoranth.net/gcc-switch/</link>
+            <title><![CDATA[Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing]]></title>
+            <description><![CDATA[204 points | <a href=https://news.ycombinator.com/item?id=50322173 target=_blank>99 comments</a>]]></description>
+            <pubDate>2026-11-01T02:19:53Z</pubDate>
+            <guid isPermaLink="false">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</guid>
+            <link>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</link>
             
             
             
-            <author><![CDATA[signa11]]></author>
+            <author><![CDATA[doodlesdev]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ChatGPT and Codex usage limits merging]]></title>
+            <description><![CDATA[193 points | <a href=https://news.ycombinator.com/item?id=50320588 target=_blank>134 comments</a>]]></description>
+            <pubDate>2026-10-31T21:49:07Z</pubDate>
+            <guid isPermaLink="false">https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</guid>
+            <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
+            
+            
+            
+            <author><![CDATA[Zariel]]></author>
             
                 
             
