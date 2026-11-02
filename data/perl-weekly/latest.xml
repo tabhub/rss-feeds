@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #796]]></title>
+        <title><![CDATA[Perl Weekly #797]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,11 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[The Perl and Raku Foundation by the Numbers]]></title>
-            <description><![CDATA[Olaf analyses 25 years of financial data regarding The Perl and Raku Foundation (TPRF) from the public records of IRS filings. According to Olaf's report, TPRF suffered a significant downturn after 2020 due to the pandemic and conference declines, but recovered strongly in 2024-2025.]]></description>
-            <pubDate>2026.10.22</pubDate>
-            <guid isPermaLink="false">https://www.olafalders.com/2026/10/22/the-perl-and-raku-foundation-by-the-numbers</guid>
-            <link>https://www.olafalders.com/2026/10/22/the-perl-and-raku-foundation-by-the-numbers</link>
+            <title><![CDATA[DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2026]]></title>
+            <description><![CDATA[For the third year running, The Perl and Raku Foundation is thrilled to announce a gift of USD 25,000 from DuckDuckGo, part of their 2026 charitable donations.]]></description>
+            <pubDate>2026.10.26</pubDate>
+            <guid isPermaLink="false">https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2026/</guid>
+            <link>https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2026/</link>
             
             
             
@@ -34,8 +34,24 @@
         </item>
         
         <item>
+            <title><![CDATA[Stats::LikeR: high-performance basic statistics]]></title>
+            <description><![CDATA['I got tired of writing CSV files just so I could run a t-test in R.<br>My data was nearly always in Perl already. I’d parse a log or a lab export, clean it up, dump it to disk, open R, run t.test, and paste the p-value back into the Perl script that built the report. Every one of those hops is a chance for a column to get reordered or an NA to turn into a zero without anyone noticing.']]></description>
+            <pubDate>2026.10.28</pubDate>
+            <guid isPermaLink="false">https://bioinformaticsdcondonwordpress.wordpress.com/2026/10/24/statistics-in-perl-statsliker/</guid>
+            <link>https://bioinformaticsdcondonwordpress.wordpress.com/2026/10/24/statistics-in-perl-statsliker/</link>
+            
+            
+            
+            <author><![CDATA[david_condon]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Ex::Op: A drop-in replacement for Exporter]]></title>
-            <description><![CDATA[Ex::Op is the swift, XS alternative to Perl’s classic Exporter, and uses a new op keyword. It speeds up module imports and loop executions considerably by removing call frames, as well as the costs of passing @_.]]></description>
+            <description><![CDATA['Ex::Op is written in XS. It is a drop-in replacement for Exporter, and it gives your module an op keyword: declare a helper with op instead of sub, and calls to it skip the frame and @_ altogether.']]></description>
             <pubDate>2026.10.22</pubDate>
             <guid isPermaLink="false">https://lnation.org/blog/ex-op-a-drop-in-replacement-for-exporter</guid>
             <link>https://lnation.org/blog/ex-op-a-drop-in-replacement-for-exporter</link>
@@ -50,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Why the PAGI spec is moving to Perl 5.24]]></title>
-            <description><![CDATA[The PAGI specification and the tools related to it are increasing the minimum Perl version to 5.24. This change is largely due to updates from its major dependencies (Future) and needs to fix problematic features such as the cancellation of asynchronous methods, leading to this clean break and avoiding using shadow methods that were reliant on the previous versions. Thus, anyone with an older version of Perl is invited to prepare for an upgrade.]]></description>
-            <pubDate>2026.10.22</pubDate>
-            <guid isPermaLink="false">https://dev.to/jjn1056/why-the-pagi-spec-is-moving-to-perl-524-58ne</guid>
-            <link>https://dev.to/jjn1056/why-the-pagi-spec-is-moving-to-perl-524-58ne</link>
+            <title><![CDATA[App::Actions: Bringing GitHub Actions to my own machine]]></title>
+            <description><![CDATA[What does App::Actions do? The aim is straightforward: take a workflow defined in the familiar .github/workflows/ directory and run it on your own computer.]]></description>
+            <pubDate>2026.10.28</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/nhorne/2026/10/appactions-bringing-github-actions-to-my-own-machine.html</guid>
+            <link>https://blogs.perl.org/users/nhorne/2026/10/appactions-bringing-github-actions-to-my-own-machine.html</link>
             
             
             
-            <author><![CDATA[john_napiorkowski]]></author>
+            <author><![CDATA[nigel_horne]]></author>
             
                 
             
@@ -66,11 +82,27 @@
         </item>
         
         <item>
-            <title><![CDATA[Apache2::Request: Fixing the build]]></title>
-            <description><![CDATA[Rob has made available version 2.18 of libapreq2 (via a new fork of Apache2::Request), thus rescuing the now-defunct library from the incompatible builds of the latest CPAN installers (cpm / cpanm). The update resolves issues with the MakeMaker arguments, creates metadata, and fixes the test suite, thus making old installations of mod_perl work successfully again.]]></description>
-            <pubDate>2026.10.23</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-10-23-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2026-10-23-post.html</link>
+            <title><![CDATA[The 23-Year-Old Flaw at the Heart of CPAN: An RCE in the Perl Infrastructure]]></title>
+            <description><![CDATA[The report: <a href="https://github.com/andk/pause/security/advisories/GHSA-p262-w3xr-phm4">Arbitrary code execution by uploading a crafted distribution tarball</a>. Wow. Still using open with 2-parameters? This is why I recommended everyone to run Perl::Critic with various rules on their code-base and to modernize their code-base. There is always a push-back.]]></description>
+            <pubDate>2026.10</pubDate>
+            <guid isPermaLink="false">https://irsl.medium.com/the-23-year-old-flaw-at-the-heart-of-cpan-an-rce-in-the-perl-infrastructure-fba07a773c6f</guid>
+            <link>https://irsl.medium.com/the-23-year-old-flaw-at-the-heart-of-cpan-an-rce-in-the-perl-infrastructure-fba07a773c6f</link>
+            
+            
+            
+            <author><![CDATA[imre_rad]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Simple is Not Lite - CLI::Simple: A Robust Scripting Framework]]></title>
+            <description><![CDATA['So why another solution?<br>Part of the answer is simply history. After all, isn’t it possible that more than one caveman invented the wheel?']]></description>
+            <pubDate>2026.10.27</pubDate>
+            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-10-27-post.html</guid>
+            <link>https://blog.tbcdevelopmentgroup.com/2026-10-27-post.html</link>
             
             
             
@@ -82,15 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[2026.41 Riscy Business]]></title>
-            <description><![CDATA[2026.41 Riscy Business]]></description>
-            <pubDate>2026.10.12</pubDate>
-            <guid isPermaLink="false">https://rakuweekly.blog/2026/10/12/2026-41-riscy-business/</guid>
-            <link>https://rakuweekly.blog/2026/10/12/2026-41-riscy-business/</link>
+            <title><![CDATA[Dancer2 2.3.0 Released]]></title>
+            <description><![CDATA[Dancer2 2.3.0 adds support for the HTTP QUERY method, fixes a pair of JSON serializer bugs, and closes a small information leak in error responses.]]></description>
+            <pubDate>2026.10,23</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/10/dancer2-230-released.html</guid>
+            <link>https://blogs.perl.org/users/jason_a_crome/2026/10/dancer2-230-released.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[jason_crome]]></author>
             
                 
             
@@ -99,8 +131,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/10/dcxxiii-32-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.10.24</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/10/dcxxiv-29-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.10.31</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -167,6 +199,22 @@
             
             <guid isPermaLink="false">https://luma.com/2d09kkk4</guid>
             <link>https://luma.com/2d09kkk4</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Using LLMs as coding agents]]></title>
+            <description><![CDATA[Maximilian Maischein aka Corion]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/is9ow917</guid>
+            <link>https://luma.com/is9ow917</link>
             
             
             
