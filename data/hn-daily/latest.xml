@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Astra can read and write weights to improve Qwen]]></title>
-            <description><![CDATA[2891 points | <a href=https://news.ycombinator.com/item?id=50341174 target=_blank>872 comments</a>]]></description>
-            <pubDate>2026-11-02T18:21:28Z</pubDate>
-            <guid isPermaLink="false">https://rikiyat.github.io/blog/weight-space-programming/</guid>
-            <link>https://rikiyat.github.io/blog/weight-space-programming/</link>
+            <title><![CDATA[Postman silently auto-installs AI plugins and attempts to share all API data]]></title>
+            <description><![CDATA[839 points | <a href=https://news.ycombinator.com/item?id=50354960 target=_blank>275 comments</a>]]></description>
+            <pubDate>2026-11-03T17:22:37Z</pubDate>
+            <guid isPermaLink="false">https://github.com/postmanlabs/postman-app-support/issues/14370</guid>
+            <link>https://github.com/postmanlabs/postman-app-support/issues/14370</link>
             
             
             
-            <author><![CDATA[dbreunig]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: Subvocal – Talk to your computer without making noise]]></title>
-            <description><![CDATA[791 points | <a href=https://news.ycombinator.com/item?id=50340088 target=_blank>368 comments</a>]]></description>
-            <pubDate>2026-11-02T17:16:17Z</pubDate>
-            <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
-            <link>https://news.ycombinator.com/item?id=50340088</link>
-            
-            
-            
-            <author><![CDATA[aarushyadav]]></author>
+            <author><![CDATA[sidgarimella]]></author>
             
                 
             
@@ -51,7 +35,7 @@
         
         <item>
             <title><![CDATA[The 'Astra can read and write weights to improve Qwen' post is misleading]]></title>
-            <description><![CDATA[622 points | <a href=https://news.ycombinator.com/item?id=50351111 target=_blank>141 comments</a>]]></description>
+            <description><![CDATA[831 points | <a href=https://news.ycombinator.com/item?id=50351111 target=_blank>187 comments</a>]]></description>
             <pubDate>2026-11-03T12:21:17Z</pubDate>
             <guid isPermaLink="false">https://honnibal.dev/blog/astra-read-write-misleading</guid>
             <link>https://honnibal.dev/blog/astra-read-write-misleading</link>
@@ -66,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks]]></title>
-            <description><![CDATA[580 points | <a href=https://news.ycombinator.com/item?id=50341462 target=_blank>176 comments</a>]]></description>
-            <pubDate>2026-11-02T18:39:38Z</pubDate>
-            <guid isPermaLink="false">https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432</guid>
-            <link>https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432</link>
+            <title><![CDATA[Google will turn off search for schools that reject AI]]></title>
+            <description><![CDATA[472 points | <a href=https://news.ycombinator.com/item?id=50353192 target=_blank>348 comments</a>]]></description>
+            <pubDate>2026-11-03T15:25:47Z</pubDate>
+            <guid isPermaLink="false">https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</guid>
+            <link>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</link>
             
             
             
-            <author><![CDATA[majorchord]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[US boy names that became girl names and vice versa]]></title>
-            <description><![CDATA[463 points | <a href=https://news.ycombinator.com/item?id=50339397 target=_blank>441 comments</a>]]></description>
-            <pubDate>2026-11-02T16:34:36Z</pubDate>
-            <guid isPermaLink="false">https://namedaisy.com/blog/boy-names-that-became-girl-names</guid>
-            <link>https://namedaisy.com/blog/boy-names-that-became-girl-names</link>
-            
-            
-            
-            <author><![CDATA[xoobdev]]></author>
+            <author><![CDATA[ceejayoz]]></author>
             
                 
             
@@ -99,7 +67,7 @@
         
         <item>
             <title><![CDATA[Show HN: Hacker Times, a New York Times-inspired version of Hacker News]]></title>
-            <description><![CDATA[423 points | <a href=https://news.ycombinator.com/item?id=50346981 target=_blank>130 comments</a>]]></description>
+            <description><![CDATA[449 points | <a href=https://news.ycombinator.com/item?id=50346981 target=_blank>142 comments</a>]]></description>
             <pubDate>2026-11-03T01:53:34Z</pubDate>
             <guid isPermaLink="false">https://hackertimes.ca/</guid>
             <link>https://hackertimes.ca/</link>
@@ -114,8 +82,56 @@
         </item>
         
         <item>
+            <title><![CDATA[Could a modern chess engine on a Pentium have defeated Kasparov in 1996?]]></title>
+            <description><![CDATA[410 points | <a href=https://news.ycombinator.com/item?id=50349276 target=_blank>183 comments</a>]]></description>
+            <pubDate>2026-11-03T07:56:21Z</pubDate>
+            <guid isPermaLink="false">https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</guid>
+            <link>https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</link>
+            
+            
+            
+            <author><![CDATA[markusw]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenAI seems to be silently re-enabling model training on Codex chats]]></title>
+            <description><![CDATA[402 points | <a href=https://news.ycombinator.com/item?id=50352757 target=_blank>126 comments</a>]]></description>
+            <pubDate>2026-11-03T14:53:41Z</pubDate>
+            <guid isPermaLink="false">https://news.ycombinator.com/item?id=50352757</guid>
+            <link>https://news.ycombinator.com/item?id=50352757</link>
+            
+            
+            
+            <author><![CDATA[user052919]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Kalshi and its co-founders face felony charges for violating Utah gambling laws]]></title>
+            <description><![CDATA[395 points | <a href=https://news.ycombinator.com/item?id=50353229 target=_blank>320 comments</a>]]></description>
+            <pubDate>2026-11-03T15:29:15Z</pubDate>
+            <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/</guid>
+            <link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/</link>
+            
+            
+            
+            <author><![CDATA[rbanffy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[The SEC Should Block Anthropic's IPO to Protect the Public]]></title>
-            <description><![CDATA[384 points | <a href=https://news.ycombinator.com/item?id=50344919 target=_blank>300 comments</a>]]></description>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=50344919 target=_blank>312 comments</a>]]></description>
             <pubDate>2026-11-02T22:30:47Z</pubDate>
             <guid isPermaLink="false">https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</guid>
             <link>https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</link>
@@ -130,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Anthropic's internal AI use, at retail prices, now exceeds its employee pay]]></title>
-            <description><![CDATA[341 points | <a href=https://news.ycombinator.com/item?id=50339494 target=_blank>265 comments</a>]]></description>
-            <pubDate>2026-11-02T16:40:29Z</pubDate>
-            <guid isPermaLink="false">https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</guid>
-            <link>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</link>
+            <title><![CDATA[Qwen 3.8 27B on my laptop can interpret model weights, too]]></title>
+            <description><![CDATA[393 points | <a href=https://news.ycombinator.com/item?id=50355251 target=_blank>134 comments</a>]]></description>
+            <pubDate>2026-11-03T17:40:00Z</pubDate>
+            <guid isPermaLink="false">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</guid>
+            <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
             
             
             
-            <author><![CDATA[entryleveljobsc]]></author>
+            <author><![CDATA[theanonymousone]]></author>
             
                 
             
@@ -147,7 +163,7 @@
         
         <item>
             <title><![CDATA[DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs]]></title>
-            <description><![CDATA[325 points | <a href=https://news.ycombinator.com/item?id=50346849 target=_blank>73 comments</a>]]></description>
+            <description><![CDATA[339 points | <a href=https://news.ycombinator.com/item?id=50346849 target=_blank>77 comments</a>]]></description>
             <pubDate>2026-11-03T01:33:43Z</pubDate>
             <guid isPermaLink="false">https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</guid>
             <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
@@ -162,40 +178,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You]]></title>
-            <description><![CDATA[312 points | <a href=https://news.ycombinator.com/item?id=50340619 target=_blank>86 comments</a>]]></description>
-            <pubDate>2026-11-02T17:47:40Z</pubDate>
-            <guid isPermaLink="false">https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you</guid>
-            <link>https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you</link>
-            
-            
-            
-            <author><![CDATA[tomrod]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Show HN: Warsaw in voxels – An interactive 3D map of the city centre]]></title>
-            <description><![CDATA[310 points | <a href=https://news.ycombinator.com/item?id=50339221 target=_blank>51 comments</a>]]></description>
-            <pubDate>2026-11-02T16:25:26Z</pubDate>
-            <guid isPermaLink="false">https://p.migdal.pl/warsaw-vibe-voxel/</guid>
-            <link>https://p.migdal.pl/warsaw-vibe-voxel/</link>
-            
-            
-            
-            <author><![CDATA[stared]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[BYD sold more EVs last month than the US did all quarter]]></title>
-            <description><![CDATA[276 points | <a href=https://news.ycombinator.com/item?id=50344181 target=_blank>290 comments</a>]]></description>
+            <description><![CDATA[283 points | <a href=https://news.ycombinator.com/item?id=50344181 target=_blank>306 comments</a>]]></description>
             <pubDate>2026-11-02T21:38:49Z</pubDate>
             <guid isPermaLink="false">https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/</guid>
             <link>https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[cisc]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mac at Any Scale]]></title>
+            <description><![CDATA[265 points | <a href=https://news.ycombinator.com/item?id=50352758 target=_blank>156 comments</a>]]></description>
+            <pubDate>2026-11-03T14:53:42Z</pubDate>
+            <guid isPermaLink="false">https://namespace.so/blog/mac-at-any-scale</guid>
+            <link>https://namespace.so/blog/mac-at-any-scale</link>
+            
+            
+            
+            <author><![CDATA[anner_]]></author>
             
                 
             
