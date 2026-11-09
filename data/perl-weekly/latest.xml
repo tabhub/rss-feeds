@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #797]]></title>
+        <title><![CDATA[Perl Weekly #798]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[DuckDuckGo Donates $25,000 to The Perl and Raku Foundation v2026]]></title>
-            <description><![CDATA[For the third year running, The Perl and Raku Foundation is thrilled to announce a gift of USD 25,000 from DuckDuckGo, part of their 2026 charitable donations.]]></description>
-            <pubDate>2026.10.26</pubDate>
-            <guid isPermaLink="false">https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2026/</guid>
-            <link>https://www.perl.com/article/duckduckgo-donates-25-000-to-the-perl-and-raku-foundation-v2026/</link>
+            <title><![CDATA[Factoring integers in Perl, thirteen years later]]></title>
+            <description><![CDATA[Dana has made Math::Prime::Util::GMP 0.55 publicly available. In this new version, an updated, and speedier implementation of Self-Initialising Quadratic Sieve (SIQS) for factorisation has been added. The enhancements were inspired by Hugo van der Sanden's research and have been aided by the work of coding AIs. This new feature has made factorisation faster and simpler to perform on large numbers, thereby improving memory consumption as well as the usability of the standard factor() calls by introducing msiqs, a separate multi-threaded factoring program that uses C and GMP and can successfully compete against established programs such as YAFU.]]></description>
+            <pubDate>2026.11.06</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dana_jacobsen/2026/11/factoring-integers-in-perl-thirteen-years-later.html</guid>
+            <link>https://blogs.perl.org/users/dana_jacobsen/2026/11/factoring-integers-in-perl-thirteen-years-later.html</link>
             
             
             
-            <author><![CDATA[olaf_alders]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Stats::LikeR: high-performance basic statistics]]></title>
-            <description><![CDATA['I got tired of writing CSV files just so I could run a t-test in R.<br>My data was nearly always in Perl already. I’d parse a log or a lab export, clean it up, dump it to disk, open R, run t.test, and paste the p-value back into the Perl script that built the report. Every one of those hops is a chance for a column to get reordered or an NA to turn into a zero without anyone noticing.']]></description>
-            <pubDate>2026.10.28</pubDate>
-            <guid isPermaLink="false">https://bioinformaticsdcondonwordpress.wordpress.com/2026/10/24/statistics-in-perl-statsliker/</guid>
-            <link>https://bioinformaticsdcondonwordpress.wordpress.com/2026/10/24/statistics-in-perl-statsliker/</link>
-            
-            
-            
-            <author><![CDATA[david_condon]]></author>
+            <author><![CDATA[dana_jacobsen]]></author>
             
                 
             
@@ -50,11 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Ex::Op: A drop-in replacement for Exporter]]></title>
-            <description><![CDATA['Ex::Op is written in XS. It is a drop-in replacement for Exporter, and it gives your module an op keyword: declare a helper with op instead of sub, and calls to it skip the frame and @_ altogether.']]></description>
-            <pubDate>2026.10.22</pubDate>
-            <guid isPermaLink="false">https://lnation.org/blog/ex-op-a-drop-in-replacement-for-exporter</guid>
-            <link>https://lnation.org/blog/ex-op-a-drop-in-replacement-for-exporter</link>
+            <title><![CDATA[XS coverage for Perl]]></title>
+            <description><![CDATA[Robert has introduced the new tool called Devel::XSCover that aims at overcoming the problem of observing the code coverage of Perl programs based on the C/XS programming languages. Unlike Devel::Cover (which only provides details about the Perl code and limited information about C through gcov), Devel::XSCover can deal with compilation options, ensure that the program works in a multithreaded environment, return the name of the Perl function linked to the C function, and provide detailed reports in HTML.]]></description>
+            <pubDate>2026.11.03</pubDate>
+            <guid isPermaLink="false">https://lnation.org/blog/xs-coverage-for-perl-introducing-devel-xscover</guid>
+            <link>https://lnation.org/blog/xs-coverage-for-perl-introducing-devel-xscover</link>
             
             
             
@@ -66,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[App::Actions: Bringing GitHub Actions to my own machine]]></title>
-            <description><![CDATA[What does App::Actions do? The aim is straightforward: take a workflow defined in the familiar .github/workflows/ directory and run it on your own computer.]]></description>
-            <pubDate>2026.10.28</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/nhorne/2026/10/appactions-bringing-github-actions-to-my-own-machine.html</guid>
-            <link>https://blogs.perl.org/users/nhorne/2026/10/appactions-bringing-github-actions-to-my-own-machine.html</link>
+            <title><![CDATA[NetAddr::IP 4.080_08: another trial, please smoke test]]></title>
+            <description><![CDATA[Dean has put out a trial version known as NetAddr::IP version number 4.080_08 to CPAN intending to find out the last bugs before making this version finally stable. The new version comes with better parsing, stricter input validation apart from introducing new constructors such as new4() and NetAddr::IP::Count. Moreover, this version is being published under the MIT license.]]></description>
+            <pubDate>2026.11.07</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2026/11/netaddrip-4080-08-another-trial-please-smoke-test.html</guid>
+            <link>https://blogs.perl.org/users/dean/2026/11/netaddrip-4080-08-another-trial-please-smoke-test.html</link>
             
             
             
-            <author><![CDATA[nigel_horne]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The 23-Year-Old Flaw at the Heart of CPAN: An RCE in the Perl Infrastructure]]></title>
-            <description><![CDATA[The report: <a href="https://github.com/andk/pause/security/advisories/GHSA-p262-w3xr-phm4">Arbitrary code execution by uploading a crafted distribution tarball</a>. Wow. Still using open with 2-parameters? This is why I recommended everyone to run Perl::Critic with various rules on their code-base and to modernize their code-base. There is always a push-back.]]></description>
-            <pubDate>2026.10</pubDate>
-            <guid isPermaLink="false">https://irsl.medium.com/the-23-year-old-flaw-at-the-heart-of-cpan-an-rce-in-the-perl-infrastructure-fba07a773c6f</guid>
-            <link>https://irsl.medium.com/the-23-year-old-flaw-at-the-heart-of-cpan-an-rce-in-the-perl-infrastructure-fba07a773c6f</link>
-            
-            
-            
-            <author><![CDATA[imre_rad]]></author>
+            <author><![CDATA[dean_hamstead]]></author>
             
                 
             
@@ -98,15 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Simple is Not Lite - CLI::Simple: A Robust Scripting Framework]]></title>
-            <description><![CDATA['So why another solution?<br>Part of the answer is simply history. After all, isn’t it possible that more than one caveman invented the wheel?']]></description>
-            <pubDate>2026.10.27</pubDate>
-            <guid isPermaLink="false">https://blog.tbcdevelopmentgroup.com/2026-10-27-post.html</guid>
-            <link>https://blog.tbcdevelopmentgroup.com/2026-10-27-post.html</link>
+            <title><![CDATA[This week in PSC (241) | 2026-11-02]]></title>
+            <description><![CDATA[The Perl Steering Council released "This week in PSC (241)", which discusses their deliberations on issue GH24977 pertaining to changes to regexp interpolation while using strict in blead Perl. In the opinion of the Council, the changes proposed require more consideration and refinement before the next stable release of the software, in an otherwise uneventful week regarding issues discussed in the issue tracker and mailing list.]]></description>
+            <pubDate>2026.11.02</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/11/this-week-in-psc-241-2026-11-02.html</guid>
+            <link>https://blogs.perl.org/users/psc/2026/11/this-week-in-psc-241-2026-11-02.html</link>
             
             
             
-            <author><![CDATA[rob_lauer]]></author>
+            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
@@ -114,15 +82,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Dancer2 2.3.0 Released]]></title>
-            <description><![CDATA[Dancer2 2.3.0 adds support for the HTTP QUERY method, fixes a pair of JSON serializer bugs, and closes a small information leak in error responses.]]></description>
-            <pubDate>2026.10,23</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/jason_a_crome/2026/10/dancer2-230-released.html</guid>
-            <link>https://blogs.perl.org/users/jason_a_crome/2026/10/dancer2-230-released.html</link>
+            <title><![CDATA[2026.44 New Doc Beta]]></title>
+            <description><![CDATA[2026.44 New Doc Beta]]></description>
+            <pubDate>2026.11.02</pubDate>
+            <guid isPermaLink="false">https://rakuweekly.blog/2026/11/02/2026-44-new-doc-beta/</guid>
+            <link>https://rakuweekly.blog/2026/11/02/2026-44-new-doc-beta/</link>
             
             
             
-            <author><![CDATA[jason_crome]]></author>
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -131,8 +99,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/10/dcxxiv-29-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.10.31</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/11/dcxxv-19-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.11.07</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -146,7 +114,23 @@
         </item>
         
         <item>
-            <title><![CDATA[Punk: Perl MVC, compiled at boot]]></title>
+            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
+            <description><![CDATA[November 10, 2026]]></description>
+            
+            <guid isPermaLink="false">https://boston.pm.org/</guid>
+            <link>https://boston.pm.org/</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Punk: Perl MVC, compiled at boot by Robert Acock (LNATION)]]></title>
             <description><![CDATA[November 16, 2026]]></description>
             
             <guid isPermaLink="false">https://luma.com/o4k2uute</guid>
@@ -194,7 +178,7 @@
         </item>
         
         <item>
-            <title><![CDATA[Everyday date and time handling in Perl with T]]></title>
+            <title><![CDATA[Everyday date and time handling in Perl with T by Eugen Konkov]]></title>
             <description><![CDATA[November 29, 2026]]></description>
             
             <guid isPermaLink="false">https://luma.com/2d09kkk4</guid>
@@ -210,11 +194,43 @@
         </item>
         
         <item>
-            <title><![CDATA[Using LLMs as coding agents]]></title>
-            <description><![CDATA[Maximilian Maischein aka Corion]]></description>
+            <title><![CDATA[Breaking CPAN: Inside the PAUSE RCE]]></title>
+            <description><![CDATA[December 3, 2026]]></description>
+            
+            <guid isPermaLink="false">https://luma.com/8h4kzkwo</guid>
+            <link>https://luma.com/8h4kzkwo</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Using LLMs as coding agents by Maximilian Maischein aka Corion]]></title>
+            <description><![CDATA[December 6, 2026]]></description>
             
             <guid isPermaLink="false">https://luma.com/is9ow917</guid>
             <link>https://luma.com/is9ow917</link>
+            
+            
+            
+            <author><![CDATA[PerlWeekly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Boston PM: JMAC - BumpySkies and IFTF]]></title>
+            <description><![CDATA[Decmber 16, 2026]]></description>
+            
+            <guid isPermaLink="false">https://boston.pm.org/</guid>
+            <link>https://boston.pm.org/</link>
             
             
             
