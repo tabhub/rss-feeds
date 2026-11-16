@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #798]]></title>
+        <title><![CDATA[Perl Weekly #799]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,31 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Factoring integers in Perl, thirteen years later]]></title>
-            <description><![CDATA[Dana has made Math::Prime::Util::GMP 0.55 publicly available. In this new version, an updated, and speedier implementation of Self-Initialising Quadratic Sieve (SIQS) for factorisation has been added. The enhancements were inspired by Hugo van der Sanden's research and have been aided by the work of coding AIs. This new feature has made factorisation faster and simpler to perform on large numbers, thereby improving memory consumption as well as the usability of the standard factor() calls by introducing msiqs, a separate multi-threaded factoring program that uses C and GMP and can successfully compete against established programs such as YAFU.]]></description>
-            <pubDate>2026.11.06</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dana_jacobsen/2026/11/factoring-integers-in-perl-thirteen-years-later.html</guid>
-            <link>https://blogs.perl.org/users/dana_jacobsen/2026/11/factoring-integers-in-perl-thirteen-years-later.html</link>
+            <title><![CDATA[Thanksgiving release cleanout]]></title>
+            <description><![CDATA[Twice a year, around Thanksgiving and Spring, Corion takes stock of all the code that has amassed on his systems. He tries to release it on CPAN, or publish it on GitHub, if not as a way of giving back to the community then at least as another off-site backup. This time: String::FuzzyMatch, AppTemplate-Perl-Mojolicious, Linux-ARPTable, App-CaptureAgenda, Protocol::Samsung::MDC.]]></description>
+            <pubDate>2026.11.15</pubDate>
+            <guid isPermaLink="false">https://corion.net/blog/2026/11/15/thanksgiving-release-cleanout/</guid>
+            <link>https://corion.net/blog/2026/11/15/thanksgiving-release-cleanout/</link>
             
             
             
-            <author><![CDATA[dana_jacobsen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[XS coverage for Perl]]></title>
-            <description><![CDATA[Robert has introduced the new tool called Devel::XSCover that aims at overcoming the problem of observing the code coverage of Perl programs based on the C/XS programming languages. Unlike Devel::Cover (which only provides details about the Perl code and limited information about C through gcov), Devel::XSCover can deal with compilation options, ensure that the program works in a multithreaded environment, return the name of the Perl function linked to the C function, and provide detailed reports in HTML.]]></description>
-            <pubDate>2026.11.03</pubDate>
-            <guid isPermaLink="false">https://lnation.org/blog/xs-coverage-for-perl-introducing-devel-xscover</guid>
-            <link>https://lnation.org/blog/xs-coverage-for-perl-introducing-devel-xscover</link>
-            
-            
-            
-            <author><![CDATA[robert_acock]]></author>
+            <author><![CDATA[max_maischein]]></author>
             
                 
             
@@ -50,27 +34,11 @@
         </item>
         
         <item>
-            <title><![CDATA[NetAddr::IP 4.080_08: another trial, please smoke test]]></title>
-            <description><![CDATA[Dean has put out a trial version known as NetAddr::IP version number 4.080_08 to CPAN intending to find out the last bugs before making this version finally stable. The new version comes with better parsing, stricter input validation apart from introducing new constructors such as new4() and NetAddr::IP::Count. Moreover, this version is being published under the MIT license.]]></description>
-            <pubDate>2026.11.07</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/dean/2026/11/netaddrip-4080-08-another-trial-please-smoke-test.html</guid>
-            <link>https://blogs.perl.org/users/dean/2026/11/netaddrip-4080-08-another-trial-please-smoke-test.html</link>
-            
-            
-            
-            <author><![CDATA[dean_hamstead]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[This week in PSC (241) | 2026-11-02]]></title>
-            <description><![CDATA[The Perl Steering Council released "This week in PSC (241)", which discusses their deliberations on issue GH24977 pertaining to changes to regexp interpolation while using strict in blead Perl. In the opinion of the Council, the changes proposed require more consideration and refinement before the next stable release of the software, in an otherwise uneventful week regarding issues discussed in the issue tracker and mailing list.]]></description>
-            <pubDate>2026.11.02</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/psc/2026/11/this-week-in-psc-241-2026-11-02.html</guid>
-            <link>https://blogs.perl.org/users/psc/2026/11/this-week-in-psc-241-2026-11-02.html</link>
+            <title><![CDATA[A Perl Helpdesk You Can Still Extend: OTOBO Packages on Open ITSM Hub]]></title>
+            <description><![CDATA[OTOBO, The Open Source Service Management Platform.]]></description>
+            <pubDate>2026.11.15</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/otobo/2026/11/a-perl-helpdesk-you-can-still-extend-otobo-packages-on-open-itsm-hub.html</guid>
+            <link>https://blogs.perl.org/users/otobo/2026/11/a-perl-helpdesk-you-can-still-extend-otobo-packages-on-open-itsm-hub.html</link>
             
             
             
@@ -82,15 +50,63 @@
         </item>
         
         <item>
-            <title><![CDATA[2026.44 New Doc Beta]]></title>
-            <description><![CDATA[2026.44 New Doc Beta]]></description>
-            <pubDate>2026.11.02</pubDate>
-            <guid isPermaLink="false">https://rakuweekly.blog/2026/11/02/2026-44-new-doc-beta/</guid>
-            <link>https://rakuweekly.blog/2026/11/02/2026-44-new-doc-beta/</link>
+            <title><![CDATA[FOSDEM 2027 Call for Participation]]></title>
+            <description><![CDATA["We are happy to announce that there will be a Perl and Raku Devroom at FOSDEM 2027.  We would like to invite you to submit a presentation about your favorite Perl or Raku topic." Call closes on: November 27th 2026.  FOSDEM dates: Saturday January 30th - Sunday January 31st, 2027]]></description>
+            <pubDate>2026.11.12</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/vanhoesel/2026/11/fosdem-2027-call-for-participation.html</guid>
+            <link>https://blogs.perl.org/users/vanhoesel/2026/11/fosdem-2027-call-for-participation.html</link>
             
             
             
-            <author><![CDATA[liztormato]]></author>
+            <author><![CDATA[theo_van_hoesel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The publication of the second edition of "Data Munging with Perl" just got a whole lot closer!]]></title>
+            <description><![CDATA[The publication of the second edition of "Data Munging with Perl" just got a whole lot closer!]]></description>
+            <pubDate>2026.11.12</pubDate>
+            <guid isPermaLink="false">https://datamungingwithperl.com/</guid>
+            <link>https://datamungingwithperl.com/</link>
+            
+            
+            
+            <author><![CDATA[dave_cross]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Let's Talk About the Pathologically Eclectic Rubbish Lister]]></title>
+            <description><![CDATA[Let's Talk About the Pathologically Eclectic Rubbish Lister]]></description>
+            <pubDate>2026.11.11</pubDate>
+            <guid isPermaLink="false">https://dev.to/jlmartel/lets-talk-about-the-pathologically-eclectic-rubbish-lister-1lfn</guid>
+            <link>https://dev.to/jlmartel/lets-talk-about-the-pathologically-eclectic-rubbish-lister-1lfn</link>
+            
+            
+            
+            <author><![CDATA[martel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl::CodeMap]]></title>
+            <description><![CDATA[Scott writes: "I built a tool to visualize Perl codebases — Perl::CodeMap (now on CPAN)"]]></description>
+            <pubDate>2026.11.11</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/pod/Perl::CodeMap</guid>
+            <link>https://metacpan.org/pod/Perl::CodeMap</link>
+            
+            
+            
+            <author><![CDATA[scott_muller]]></author>
             
                 
             
@@ -99,30 +115,14 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/11/dcxxv-19-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.11.07</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/11/dcxxvi-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.11.14</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
             
             
             <author><![CDATA[miguel_prz]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boston Perl Mongers virtual monthly]]></title>
-            <description><![CDATA[November 10, 2026]]></description>
-            
-            <guid isPermaLink="false">https://boston.pm.org/</guid>
-            <link>https://boston.pm.org/</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
             
                 
             
