@@ -18,24 +18,8 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Unauthenticated remote code execution in Nginx]]></title>
-            <description><![CDATA[1314 points | <a href=https://news.ycombinator.com/item?id=50547374 target=_blank>576 comments</a>]]></description>
-            <pubDate>2026-11-18T15:19:55Z</pubDate>
-            <guid isPermaLink="false">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</guid>
-            <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
-            
-            
-            
-            <author><![CDATA[speedping]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[Gemini 4 Neon]]></title>
-            <description><![CDATA[737 points | <a href=https://news.ycombinator.com/item?id=50552424 target=_blank>619 comments</a>]]></description>
+            <description><![CDATA[975 points | <a href=https://news.ycombinator.com/item?id=50552424 target=_blank>740 comments</a>]]></description>
             <pubDate>2026-11-18T21:34:07Z</pubDate>
             <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</guid>
             <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
@@ -50,56 +34,8 @@
         </item>
         
         <item>
-            <title><![CDATA[Inside Deutsche Bank]]></title>
-            <description><![CDATA[656 points | <a href=https://news.ycombinator.com/item?id=50547620 target=_blank>218 comments</a>]]></description>
-            <pubDate>2026-11-18T15:38:33Z</pubDate>
-            <guid isPermaLink="false">https://www.inside-db.com/</guid>
-            <link>https://www.inside-db.com/</link>
-            
-            
-            
-            <author><![CDATA[gyre007]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DNS resolvers are the wrong place to fight piracy]]></title>
-            <description><![CDATA[653 points | <a href=https://news.ycombinator.com/item?id=50545958 target=_blank>263 comments</a>]]></description>
-            <pubDate>2026-11-18T13:18:02Z</pubDate>
-            <guid isPermaLink="false">https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</guid>
-            <link>https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</link>
-            
-            
-            
-            <author><![CDATA[ritzaco]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Seven new models at scalable price-performance]]></title>
-            <description><![CDATA[521 points | <a href=https://news.ycombinator.com/item?id=50548021 target=_blank>344 comments</a>]]></description>
-            <pubDate>2026-11-18T16:08:24Z</pubDate>
-            <guid isPermaLink="false">https://microsoft.ai/news/microsoft-ignite-2026/</guid>
-            <link>https://microsoft.ai/news/microsoft-ignite-2026/</link>
-            
-            
-            
-            <author><![CDATA[gmays]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[We need smart people who give a shit]]></title>
-            <description><![CDATA[475 points | <a href=https://news.ycombinator.com/item?id=50554045 target=_blank>246 comments</a>]]></description>
+            <description><![CDATA[732 points | <a href=https://news.ycombinator.com/item?id=50554045 target=_blank>361 comments</a>]]></description>
             <pubDate>2026-11-18T23:53:49Z</pubDate>
             <guid isPermaLink="false">https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</guid>
             <link>https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</link>
@@ -114,31 +50,15 @@
         </item>
         
         <item>
-            <title><![CDATA[AI agents ask better questions than KPMG accountants in audit trial]]></title>
-            <description><![CDATA[444 points | <a href=https://news.ycombinator.com/item?id=50547777 target=_blank>195 comments</a>]]></description>
-            <pubDate>2026-11-18T15:49:34Z</pubDate>
-            <guid isPermaLink="false">https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</guid>
-            <link>https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</link>
+            <title><![CDATA[Seven new models at scalable price-performance]]></title>
+            <description><![CDATA[587 points | <a href=https://news.ycombinator.com/item?id=50548021 target=_blank>368 comments</a>]]></description>
+            <pubDate>2026-11-18T16:08:24Z</pubDate>
+            <guid isPermaLink="false">https://microsoft.ai/news/microsoft-ignite-2026/</guid>
+            <link>https://microsoft.ai/news/microsoft-ignite-2026/</link>
             
             
             
-            <author><![CDATA[Betelbuddy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine]]></title>
-            <description><![CDATA[362 points | <a href=https://news.ycombinator.com/item?id=50547344 target=_blank>170 comments</a>]]></description>
-            <pubDate>2026-11-18T15:18:30Z</pubDate>
-            <guid isPermaLink="false">https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html</guid>
-            <link>https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html</link>
-            
-            
-            
-            <author><![CDATA[ilamont]]></author>
+            <author><![CDATA[gmays]]></author>
             
                 
             
@@ -146,31 +66,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Energy-Based Reasoners: 385x more efficient inference]]></title>
-            <description><![CDATA[309 points | <a href=https://news.ycombinator.com/item?id=50543989 target=_blank>55 comments</a>]]></description>
-            <pubDate>2026-11-18T09:29:32Z</pubDate>
-            <guid isPermaLink="false">https://energy-based-reasoners.github.io/</guid>
-            <link>https://energy-based-reasoners.github.io/</link>
+            <title><![CDATA[How the European Commission rolled out Matrix to more than 40k staff]]></title>
+            <description><![CDATA[505 points | <a href=https://news.ycombinator.com/item?id=50558533 target=_blank>263 comments</a>]]></description>
+            <pubDate>2026-11-19T10:58:29Z</pubDate>
+            <guid isPermaLink="false">https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</guid>
+            <link>https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</link>
             
             
             
-            <author><![CDATA[frenchmajesty]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Codeberg.org Not Reachable]]></title>
-            <description><![CDATA[302 points | <a href=https://news.ycombinator.com/item?id=50544261 target=_blank>304 comments</a>]]></description>
-            <pubDate>2026-11-18T10:02:17Z</pubDate>
-            <guid isPermaLink="false">https://social.anoxinon.de/@codebergstatus/117636437840688845</guid>
-            <link>https://social.anoxinon.de/@codebergstatus/117636437840688845</link>
-            
-            
-            
-            <author><![CDATA[hans_castorp]]></author>
+            <author><![CDATA[liotier]]></author>
             
                 
             
@@ -178,15 +82,95 @@
         </item>
         
         <item>
-            <title><![CDATA[The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026]]></title>
-            <description><![CDATA[271 points | <a href=https://news.ycombinator.com/item?id=50546914 target=_blank>196 comments</a>]]></description>
-            <pubDate>2026-11-18T14:43:52Z</pubDate>
-            <guid isPermaLink="false">https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026</guid>
-            <link>https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026</link>
+            <title><![CDATA[Anthropic prices initial public offering]]></title>
+            <description><![CDATA[380 points | <a href=https://news.ycombinator.com/item?id=50553843 target=_blank>722 comments</a>]]></description>
+            <pubDate>2026-11-18T23:30:09Z</pubDate>
+            <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-prices-initial-public-offering</guid>
+            <link>https://www.anthropic.com/news/anthropic-prices-initial-public-offering</link>
             
             
             
-            <author><![CDATA[DeepLogin]]></author>
+            <author><![CDATA[surprisetalk]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Multiple vulnerabilities in Regexp and String case conversion]]></title>
+            <description><![CDATA[317 points | <a href=https://news.ycombinator.com/item?id=50554038 target=_blank>121 comments</a>]]></description>
+            <pubDate>2026-11-18T23:52:50Z</pubDate>
+            <guid isPermaLink="false">https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</guid>
+            <link>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</link>
+            
+            
+            
+            <author><![CDATA[runesoerensen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Ruby2ßhell: Pre-authentication RCE on stock Rails]]></title>
+            <description><![CDATA[299 points | <a href=https://news.ycombinator.com/item?id=50556287 target=_blank>123 comments</a>]]></description>
+            <pubDate>2026-11-19T05:09:11Z</pubDate>
+            <guid isPermaLink="false">https://verialabs.com/ruby2shell/</guid>
+            <link>https://verialabs.com/ruby2shell/</link>
+            
+            
+            
+            <author><![CDATA[jdns]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[15M web servers on one VM – smoltcp, DPDK, AF_XDP]]></title>
+            <description><![CDATA[297 points | <a href=https://news.ycombinator.com/item?id=50556533 target=_blank>32 comments</a>]]></description>
+            <pubDate>2026-11-19T05:56:36Z</pubDate>
+            <guid isPermaLink="false">https://kapteko.com/15-million-webservers/</guid>
+            <link>https://kapteko.com/15-million-webservers/</link>
+            
+            
+            
+            <author><![CDATA[fessguid]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LLM assisted reverse engineering]]></title>
+            <description><![CDATA[289 points | <a href=https://news.ycombinator.com/item?id=50553225 target=_blank>72 comments</a>]]></description>
+            <pubDate>2026-11-18T22:29:13Z</pubDate>
+            <guid isPermaLink="false">https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</guid>
+            <link>https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</link>
+            
+            
+            
+            <author><![CDATA[ioma8]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Genie 4 is now available]]></title>
+            <description><![CDATA[281 points | <a href=https://news.ycombinator.com/item?id=50550415 target=_blank>181 comments</a>]]></description>
+            <pubDate>2026-11-18T18:49:51Z</pubDate>
+            <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</guid>
+            <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</link>
+            
+            
+            
+            <author><![CDATA[leumon]]></author>
             
                 
             
@@ -195,7 +179,7 @@
         
         <item>
             <title><![CDATA[Scottish HTTP Codes]]></title>
-            <description><![CDATA[244 points | <a href=https://news.ycombinator.com/item?id=50550062 target=_blank>57 comments</a>]]></description>
+            <description><![CDATA[252 points | <a href=https://news.ycombinator.com/item?id=50550062 target=_blank>58 comments</a>]]></description>
             <pubDate>2026-11-18T18:26:19Z</pubDate>
             <guid isPermaLink="false">https://underwood.network/http/scots.html</guid>
             <link>https://underwood.network/http/scots.html</link>
@@ -203,6 +187,22 @@
             
             
             <author><![CDATA[mooreds]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DaisyRose-27B]]></title>
+            <description><![CDATA[245 points | <a href=https://news.ycombinator.com/item?id=50551046 target=_blank>101 comments</a>]]></description>
+            <pubDate>2026-11-18T19:39:16Z</pubDate>
+            <guid isPermaLink="false">https://www.radixark.com/blog/daisyrose-27b</guid>
+            <link>https://www.radixark.com/blog/daisyrose-27b</link>
+            
+            
+            
+            <author><![CDATA[de_sty]]></author>
             
                 
             
