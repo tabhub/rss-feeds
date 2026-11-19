@@ -18,63 +18,15 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[GPT‑6.2 Astra and Sol]]></title>
-            <description><![CDATA[1328 points | <a href=https://news.ycombinator.com/item?id=50535230 target=_blank>841 comments</a>]]></description>
-            <pubDate>2026-11-17T17:46:43Z</pubDate>
-            <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-2-astra-sol/</guid>
-            <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+            <title><![CDATA[Unauthenticated remote code execution in Nginx]]></title>
+            <description><![CDATA[1099 points | <a href=https://news.ycombinator.com/item?id=50547374 target=_blank>493 comments</a>]]></description>
+            <pubDate>2026-11-18T15:19:55Z</pubDate>
+            <guid isPermaLink="false">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</guid>
+            <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
             
             
             
-            <author><![CDATA[jasondavies]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Java4Shell: RCE in OpenJDK when processing Base64]]></title>
-            <description><![CDATA[1129 points | <a href=https://news.ycombinator.com/item?id=50538240 target=_blank>310 comments</a>]]></description>
-            <pubDate>2026-11-17T21:11:28Z</pubDate>
-            <guid isPermaLink="false">https://calif.io/java4shell/</guid>
-            <link>https://calif.io/java4shell/</link>
-            
-            
-            
-            <author><![CDATA[werrett]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Quad9's withdrawal from France: A canary in the coal mine]]></title>
-            <description><![CDATA[852 points | <a href=https://news.ycombinator.com/item?id=50538994 target=_blank>405 comments</a>]]></description>
-            <pubDate>2026-11-17T22:13:34Z</pubDate>
-            <guid isPermaLink="false">https://blog.cloudflare.com/quad9-withdrawal-from-france/</guid>
-            <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
-            
-            
-            
-            <author><![CDATA[subset]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Apple Services Down]]></title>
-            <description><![CDATA[711 points | <a href=https://news.ycombinator.com/item?id=50535238 target=_blank>399 comments</a>]]></description>
-            <pubDate>2026-11-17T17:47:14Z</pubDate>
-            <guid isPermaLink="false">https://developer.apple.com/system-status/</guid>
-            <link>https://developer.apple.com/system-status/</link>
-            
-            
-            
-            <author><![CDATA[willy_k]]></author>
+            <author><![CDATA[speedping]]></author>
             
                 
             
@@ -83,7 +35,7 @@
         
         <item>
             <title><![CDATA[AI is killing All About Berlin]]></title>
-            <description><![CDATA[702 points | <a href=https://news.ycombinator.com/item?id=50542705 target=_blank>637 comments</a>]]></description>
+            <description><![CDATA[753 points | <a href=https://news.ycombinator.com/item?id=50542705 target=_blank>682 comments</a>]]></description>
             <pubDate>2026-11-18T06:47:26Z</pubDate>
             <guid isPermaLink="false">https://nicolasbouliane.com/blog/death-by-ai</guid>
             <link>https://nicolasbouliane.com/blog/death-by-ai</link>
@@ -99,7 +51,7 @@
         
         <item>
             <title><![CDATA[Google's AI answers reducing search traffic by 40%]]></title>
-            <description><![CDATA[658 points | <a href=https://news.ycombinator.com/item?id=50540178 target=_blank>508 comments</a>]]></description>
+            <description><![CDATA[689 points | <a href=https://news.ycombinator.com/item?id=50540178 target=_blank>535 comments</a>]]></description>
             <pubDate>2026-11-18T00:17:58Z</pubDate>
             <guid isPermaLink="false">https://revscope.co/blog/search-seo-geo-2026/</guid>
             <link>https://revscope.co/blog/search-seo-geo-2026/</link>
@@ -114,15 +66,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Interviewed at a YC startup, found out they used my LinkedIn without permission]]></title>
-            <description><![CDATA[471 points | <a href=https://news.ycombinator.com/item?id=50542135 target=_blank>124 comments</a>]]></description>
-            <pubDate>2026-11-18T05:11:30Z</pubDate>
-            <guid isPermaLink="false">https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</guid>
-            <link>https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</link>
+            <title><![CDATA[DNS resolvers are the wrong place to fight piracy]]></title>
+            <description><![CDATA[578 points | <a href=https://news.ycombinator.com/item?id=50545958 target=_blank>216 comments</a>]]></description>
+            <pubDate>2026-11-18T13:18:02Z</pubDate>
+            <guid isPermaLink="false">https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</guid>
+            <link>https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</link>
             
             
             
-            <author><![CDATA[throwawaysleep]]></author>
+            <author><![CDATA[ritzaco]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Inside Deutsche Bank]]></title>
+            <description><![CDATA[536 points | <a href=https://news.ycombinator.com/item?id=50547620 target=_blank>186 comments</a>]]></description>
+            <pubDate>2026-11-18T15:38:33Z</pubDate>
+            <guid isPermaLink="false">https://www.inside-db.com/</guid>
+            <link>https://www.inside-db.com/</link>
+            
+            
+            
+            <author><![CDATA[gyre007]]></author>
             
                 
             
@@ -131,7 +99,7 @@
         
         <item>
             <title><![CDATA[ID.me terms required for IRS sign-in]]></title>
-            <description><![CDATA[469 points | <a href=https://news.ycombinator.com/item?id=50540437 target=_blank>244 comments</a>]]></description>
+            <description><![CDATA[491 points | <a href=https://news.ycombinator.com/item?id=50540437 target=_blank>257 comments</a>]]></description>
             <pubDate>2026-11-18T00:51:45Z</pubDate>
             <guid isPermaLink="false">https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</guid>
             <link>https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</link>
@@ -146,31 +114,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Phrack 73]]></title>
-            <description><![CDATA[455 points | <a href=https://news.ycombinator.com/item?id=50535992 target=_blank>70 comments</a>]]></description>
-            <pubDate>2026-11-17T18:31:25Z</pubDate>
-            <guid isPermaLink="false">https://phrack.org/issues/73/introduction_md</guid>
-            <link>https://phrack.org/issues/73/introduction_md</link>
+            <title><![CDATA[Interviewed at a YC startup, found out they used my LinkedIn without permission]]></title>
+            <description><![CDATA[487 points | <a href=https://news.ycombinator.com/item?id=50542135 target=_blank>125 comments</a>]]></description>
+            <pubDate>2026-11-18T05:11:30Z</pubDate>
+            <guid isPermaLink="false">https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</guid>
+            <link>https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</link>
             
             
             
-            <author><![CDATA[notmine1337]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Microsoft's ONNX Runtime has disappeared from GitHub]]></title>
-            <description><![CDATA[435 points | <a href=https://news.ycombinator.com/item?id=50539610 target=_blank>92 comments</a>]]></description>
-            <pubDate>2026-11-17T23:18:49Z</pubDate>
-            <guid isPermaLink="false">https://github.com/microsoft/onnxruntime</guid>
-            <link>https://github.com/microsoft/onnxruntime</link>
-            
-            
-            
-            <author><![CDATA[nvader]]></author>
+            <author><![CDATA[throwawaysleep]]></author>
             
                 
             
@@ -178,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Pre-auth RCE in Nginx HTTP/2 handling]]></title>
-            <description><![CDATA[416 points | <a href=https://news.ycombinator.com/item?id=50547374 target=_blank>140 comments</a>]]></description>
-            <pubDate>2026-11-18T15:19:55Z</pubDate>
-            <guid isPermaLink="false">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</guid>
-            <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
+            <title><![CDATA[Seven new models at scalable price-performance]]></title>
+            <description><![CDATA[430 points | <a href=https://news.ycombinator.com/item?id=50548021 target=_blank>296 comments</a>]]></description>
+            <pubDate>2026-11-18T16:08:24Z</pubDate>
+            <guid isPermaLink="false">https://microsoft.ai/news/microsoft-ignite-2026/</guid>
+            <link>https://microsoft.ai/news/microsoft-ignite-2026/</link>
             
             
             
-            <author><![CDATA[speedping]]></author>
+            <author><![CDATA[gmays]]></author>
             
                 
             
@@ -194,15 +146,63 @@
         </item>
         
         <item>
-            <title><![CDATA[MAI Code 2 and Code 2 Flash]]></title>
-            <description><![CDATA[413 points | <a href=https://news.ycombinator.com/item?id=50535885 target=_blank>165 comments</a>]]></description>
-            <pubDate>2026-11-17T18:25:13Z</pubDate>
-            <guid isPermaLink="false">https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</guid>
-            <link>https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</link>
+            <title><![CDATA[Gemini 4 Neon]]></title>
+            <description><![CDATA[369 points | <a href=https://news.ycombinator.com/item?id=50552424 target=_blank>349 comments</a>]]></description>
+            <pubDate>2026-11-18T21:34:07Z</pubDate>
+            <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</guid>
+            <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
             
             
             
-            <author><![CDATA[lemonish97]]></author>
+            <author><![CDATA[yigitdemirag]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine]]></title>
+            <description><![CDATA[342 points | <a href=https://news.ycombinator.com/item?id=50547344 target=_blank>156 comments</a>]]></description>
+            <pubDate>2026-11-18T15:18:30Z</pubDate>
+            <guid isPermaLink="false">https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html</guid>
+            <link>https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html</link>
+            
+            
+            
+            <author><![CDATA[ilamont]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AI agents ask better questions than KPMG accountants in audit trial]]></title>
+            <description><![CDATA[331 points | <a href=https://news.ycombinator.com/item?id=50547777 target=_blank>148 comments</a>]]></description>
+            <pubDate>2026-11-18T15:49:34Z</pubDate>
+            <guid isPermaLink="false">https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</guid>
+            <link>https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</link>
+            
+            
+            
+            <author><![CDATA[Betelbuddy]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Energy-Based Reasoners: 385x more efficient inference]]></title>
+            <description><![CDATA[298 points | <a href=https://news.ycombinator.com/item?id=50543989 target=_blank>52 comments</a>]]></description>
+            <pubDate>2026-11-18T09:29:32Z</pubDate>
+            <guid isPermaLink="false">https://energy-based-reasoners.github.io/</guid>
+            <link>https://energy-based-reasoners.github.io/</link>
+            
+            
+            
+            <author><![CDATA[frenchmajesty]]></author>
             
                 
             
