@@ -3,7 +3,7 @@
 
 >
     <channel>
-        <title><![CDATA[Perl Weekly #799]]></title>
+        <title><![CDATA[Perl Weekly #800]]></title>
         <link>https://github.com/tabhub/rss-feeds</link>
         <atom:link href="" rel="self" type="application/rss+xml" />
         <description><![CDATA[Hand-picked news and articles about Perl - Made with love by TabHub(https://tabhub.github.io)]]></description>
@@ -18,59 +18,11 @@
         <ttl></ttl>
         
         <item>
-            <title><![CDATA[Thanksgiving release cleanout]]></title>
-            <description><![CDATA[Twice a year, around Thanksgiving and Spring, Corion takes stock of all the code that has amassed on his systems. He tries to release it on CPAN, or publish it on GitHub, if not as a way of giving back to the community then at least as another off-site backup. This time: String::FuzzyMatch, AppTemplate-Perl-Mojolicious, Linux-ARPTable, App-CaptureAgenda, Protocol::Samsung::MDC.]]></description>
-            <pubDate>2026.11.15</pubDate>
-            <guid isPermaLink="false">https://corion.net/blog/2026/11/15/thanksgiving-release-cleanout/</guid>
-            <link>https://corion.net/blog/2026/11/15/thanksgiving-release-cleanout/</link>
-            
-            
-            
-            <author><![CDATA[max_maischein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[A Perl Helpdesk You Can Still Extend: OTOBO Packages on Open ITSM Hub]]></title>
-            <description><![CDATA[OTOBO, The Open Source Service Management Platform.]]></description>
-            <pubDate>2026.11.15</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/otobo/2026/11/a-perl-helpdesk-you-can-still-extend-otobo-packages-on-open-itsm-hub.html</guid>
-            <link>https://blogs.perl.org/users/otobo/2026/11/a-perl-helpdesk-you-can-still-extend-otobo-packages-on-open-itsm-hub.html</link>
-            
-            
-            
-            <author><![CDATA[PerlWeekly]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FOSDEM 2027 Call for Participation]]></title>
-            <description><![CDATA["We are happy to announce that there will be a Perl and Raku Devroom at FOSDEM 2027.  We would like to invite you to submit a presentation about your favorite Perl or Raku topic." Call closes on: November 27th 2026.  FOSDEM dates: Saturday January 30th - Sunday January 31st, 2027]]></description>
-            <pubDate>2026.11.12</pubDate>
-            <guid isPermaLink="false">https://blogs.perl.org/users/vanhoesel/2026/11/fosdem-2027-call-for-participation.html</guid>
-            <link>https://blogs.perl.org/users/vanhoesel/2026/11/fosdem-2027-call-for-participation.html</link>
-            
-            
-            
-            <author><![CDATA[theo_van_hoesel]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The publication of the second edition of "Data Munging with Perl" just got a whole lot closer!]]></title>
-            <description><![CDATA[The publication of the second edition of "Data Munging with Perl" just got a whole lot closer!]]></description>
-            <pubDate>2026.11.12</pubDate>
-            <guid isPermaLink="false">https://datamungingwithperl.com/</guid>
-            <link>https://datamungingwithperl.com/</link>
+            <title><![CDATA[Data Munging with Perl: Twenty-Five Years Later]]></title>
+            <description><![CDATA[Celebrating the quarter-century anniversary of the second edition of Data Munging with Perl, Dave examines how data formats and tools have evolved since 2001, from frail HTML::TokeParser to XML buzzwords to APIs, JSON/YAML and proper Unicode. Meanwhile, the essential UNIX filter model of linking small, targeted tools has not changed much, though it has been updated with modern Perl concepts like using v5.36 and lexical filehandles.]]></description>
+            <pubDate>2026.11.22</pubDate>
+            <guid isPermaLink="false">https://perlhacks.com/2026/11/data-munging-with-perl-twenty-five-years-later/</guid>
+            <link>https://perlhacks.com/2026/11/data-munging-with-perl-twenty-five-years-later/</link>
             
             
             
@@ -82,15 +34,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Let's Talk About the Pathologically Eclectic Rubbish Lister]]></title>
-            <description><![CDATA[Let's Talk About the Pathologically Eclectic Rubbish Lister]]></description>
-            <pubDate>2026.11.11</pubDate>
-            <guid isPermaLink="false">https://dev.to/jlmartel/lets-talk-about-the-pathologically-eclectic-rubbish-lister-1lfn</guid>
-            <link>https://dev.to/jlmartel/lets-talk-about-the-pathologically-eclectic-rubbish-lister-1lfn</link>
+            <title><![CDATA[Perl v5.45.5 - Development Release]]></title>
+            <description><![CDATA[The newly development released Perl v5.45.5 emphasises a lot on improvements in regex based on trie and speed-ups in Aho-Corasick scanning including Boyer-Moore-Horspool skipping and case insensitive improvements in trie as well as cached lookups through isa and deterministic parser error messages. There are important bug fixes that solve the nesting lvalue substr buggy issues which originated from version 5.44.0, initialisation of ${^UTF8CACHE} in the new threads and flags in PL_sv_zero so that the serialisers can consider zero as a number rather than "0".]]></description>
+            <pubDate>2026.11.19</pubDate>
+            <guid isPermaLink="false">https://metacpan.org/release/EHERMAN/perl-5.45.5/view/pod/perldelta.pod</guid>
+            <link>https://metacpan.org/release/EHERMAN/perl-5.45.5/view/pod/perldelta.pod</link>
             
             
             
-            <author><![CDATA[martel]]></author>
+            <author><![CDATA[eric_herman]]></author>
             
                 
             
@@ -98,15 +50,63 @@
         </item>
         
         <item>
-            <title><![CDATA[Perl::CodeMap]]></title>
-            <description><![CDATA[Scott writes: "I built a tool to visualize Perl codebases — Perl::CodeMap (now on CPAN)"]]></description>
-            <pubDate>2026.11.11</pubDate>
-            <guid isPermaLink="false">https://metacpan.org/pod/Perl::CodeMap</guid>
-            <link>https://metacpan.org/pod/Perl::CodeMap</link>
+            <title><![CDATA[One Korean title, three different lengths: testing Unicode keys in Perl]]></title>
+            <description><![CDATA[Using the Korean title as a concise Test::More fixture, rillbyteonion57 explains the problem of handling text in Perl when code points, grapheme clusters, and UTF-8 byte lengths are not distinguished. The article provides a simple pattern for catalog searching where both the insertion and searching operations use normalisation via NFC while keeping the original strings intact. Additionally, he points out the common mistake of confusing utf8 and :encoding(UTF-8) in file I/O operations.]]></description>
+            <pubDate>2026.11.22</pubDate>
+            <guid isPermaLink="false">https://blogs.perl.org/users/rillbyteonion57/2026/11/one-korean-title-three-different-lengths-testing-unicode-keys-in-perl.html</guid>
+            <link>https://blogs.perl.org/users/rillbyteonion57/2026/11/one-korean-title-three-different-lengths-testing-unicode-keys-in-perl.html</link>
             
             
             
-            <author><![CDATA[scott_muller]]></author>
+            <author><![CDATA[rillbyteonion57]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Adventures in CPAN Distribution Installation]]></title>
+            <description><![CDATA[In his article, Rob examines the reason why .packlist files disappear every time a new version of CPAN is released when you set INSTALL_BASE. He reveals that the problem stems from ExtUtils::MakeMaker not properly understanding the SYSTEM SITEARCHEXP when it goes through the process of writing to INSTALLSITEARCH. He discusses the original debate about the status of packlists and details a recent PR concerning a fix to the matter of file pathfinding.]]></description>
+            <pubDate>2026.11.19</pubDate>
+            <guid isPermaLink="false">https://rclauer.medium.com/adventures-in-cpan-distribution-installation-5198ee2fb314</guid>
+            <link>https://rclauer.medium.com/adventures-in-cpan-distribution-installation-5198ee2fb314</link>
+            
+            
+            
+            <author><![CDATA[rob_lauer]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Perl: An Exercise in Write-Only Programming]]></title>
+            <description><![CDATA[Jean-Luc Martel, has published a fun and entertaining article in which he discusses the features of Perl programming that can be very useful but may also make programming in this language rather difficult, such as: embedded regex code and stateful matching, coercion DWIM, tie, AUTOLOAD, typeglobs, and early cgi-bin days.]]></description>
+            <pubDate>2026.11.16</pubDate>
+            <guid isPermaLink="false">https://dev.to/jlmartel/perl-an-exercise-in-write-only-programming-24o3</guid>
+            <link>https://dev.to/jlmartel/perl-an-exercise-in-write-only-programming-24o3</link>
+            
+            
+            
+            <author><![CDATA[jean_luc_martel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2026.46 Secure Release]]></title>
+            <description><![CDATA[2026.46 Secure Release]]></description>
+            <pubDate>2026.11.17</pubDate>
+            <guid isPermaLink="false">https://rakuweekly.blog/2026/11/17/2026-46-secure-release/</guid>
+            <link>https://rakuweekly.blog/2026/11/17/2026-46-secure-release/</link>
+            
+            
+            
+            <author><![CDATA[liztormato]]></author>
             
                 
             
@@ -115,8 +115,8 @@
         
         <item>
             <title><![CDATA[NICEPERL's lists]]></title>
-            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/11/dcxxvi-16-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
-            <pubDate>2026.11.14</pubDate>
+            <description><![CDATA[<a href="https://niceperl.blogspot.com/2026/11/dcxxvii-21-great-cpan-modules-released.html">Great CPAN modules released last week</a>.]]></description>
+            <pubDate>2026.11.21</pubDate>
             <guid isPermaLink="false">http://niceperl.blogspot.com/</guid>
             <link>http://niceperl.blogspot.com/</link>
             
@@ -130,15 +130,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Punk: Perl MVC, compiled at boot by Robert Acock (LNATION)]]></title>
-            <description><![CDATA[November 16, 2026]]></description>
+            <title><![CDATA[Punk: Perl MVC compiled at boot]]></title>
+            <description><![CDATA[In this presentation you will dive into the Punk ecosystem: an open source MVC web framework with first class openAPI integration, template engine, job queue, json codec, non blocking data layer and http client all built on a highly optimised event-loop web server.]]></description>
+            <pubDate>2026.11.17</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=yhuWWShsUZ4</guid>
+            <link>https://www.youtube.com/watch?v=yhuWWShsUZ4</link>
             
-            <guid isPermaLink="false">https://luma.com/o4k2uute</guid>
-            <link>https://luma.com/o4k2uute</link>
             
             
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[robert_acock]]></author>
             
                 
             
@@ -146,15 +146,15 @@
         </item>
         
         <item>
-            <title><![CDATA[London Perl & Raku Workshop 2026]]></title>
-            <description><![CDATA[November 21, 2026]]></description>
+            <title><![CDATA[Perl on Telegram]]></title>
+            <description><![CDATA[Do you use Telegram? Then you might want to join the Perl Maven Telegram group.]]></description>
+            <pubDate>2026.11.23</pubDate>
+            <guid isPermaLink="false">https://t.me/PerlMaven</guid>
+            <link>https://t.me/PerlMaven</link>
             
-            <guid isPermaLink="false">https://act.yapc.eu/lpw2026/</guid>
-            <link>https://act.yapc.eu/lpw2026/</link>
             
             
-            
-            <author><![CDATA[PerlWeekly]]></author>
+            <author><![CDATA[gabor_szabo]]></author>
             
                 
             
